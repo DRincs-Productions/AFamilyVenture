@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-24 08:48\n"
+"PO-Revision-Date: 2022-11-25 09:06\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# XXtranslate crowdin strings:XX# XX## game/Credits_screen.rpy:57
 msgid "                               Credits"
@@ -27,7 +27,7 @@ msgstr[1] ""
 # XX## game/Credits_screen.rpy:69
 msgid "Game developers"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Oyun geliştiricileri"
 msgstr[1] ""
 
 # XX## game/Credits_screen.rpy:147
