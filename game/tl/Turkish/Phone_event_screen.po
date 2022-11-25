@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-24 08:48\n"
+"PO-Revision-Date: 2022-11-25 09:06\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/Phone_event_screen.rpy:859 ## translate crowdin event_info_02_5cb3efa8:
 msgid "[RT] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -1230,7 +1230,7 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1828 ## translate crowdin again_tutorial_dc7a84b6:
 msgid "[R] ...."
-msgstr ""
+msgstr "[R] ...."
 
 # game/Phone_event_screen.rpy:1831 ## translate crowdin again_tutorial_076a53a8:
 msgid "End of tutorial."
