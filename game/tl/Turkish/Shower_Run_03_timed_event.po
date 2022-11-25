@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-24 08:47\n"
+"PO-Revision-Date: 2022-11-25 09:06\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/images/interface_images/minigame/Shower_Run_03_timed_event.rpy:125 ## translate crowdin Shower_Run03_game_start_lbl_3033e668:
 msgid "[RT] {i}I can't even believe my luck.{/i}"
@@ -18,7 +18,7 @@ msgstr ""
 
 # game/images/interface_images/minigame/Shower_Run_03_timed_event.rpy:137 ## translate crowdin Shower_Run03_game_end_lbl_d81943ed:
 msgid "[RT] {i}Thank God!... I made it!... And there's a clear path to the shower!{/i}"
-msgstr ""
+msgstr "[RT] {i}Tanrıya şükür! Başardım!... Ve duşa giden açık bir yol var!{/i}"
 
 # game/images/interface_images/minigame/Shower_Run_03_timed_event.rpy:142 ## translate crowdin Shower_Run03_game_end_lbl_e6a7c3df:
 msgid "[RT] {i}Those swimmers have sexy bodies... I wish Kenzie had her suit off.{/i}"
@@ -34,5 +34,5 @@ msgstr ""
 
 # game/images/interface_images/minigame/Shower_Run_03_timed_event.rpy:152 ## translate crowdin Shower_Run03_game_end_lbl_1d59b54d:
 msgid "[R] Goddammit!"
-msgstr ""
+msgstr "[R] Hasiktir!"
 
