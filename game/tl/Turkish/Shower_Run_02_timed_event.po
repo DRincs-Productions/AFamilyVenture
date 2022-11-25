@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-24 08:48\n"
+"PO-Revision-Date: 2022-11-25 09:06\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/images/interface_images/minigame/Shower_Run_02_timed_event.rpy:126 ## translate crowdin Shower_Run02_game_start_lbl_ab1a7de6:
 msgid "[RT] {i}Ok... Don't panic!... I've just got to sneak past them too.{/i}"
@@ -30,7 +30,7 @@ msgstr ""
 
 # game/images/interface_images/minigame/Shower_Run_02_timed_event.rpy:143 ## translate crowdin Shower_Run02_game_end_lbl_87277f79:
 msgid "[RT] {i}I made it!{/i}"
-msgstr ""
+msgstr "[RT] {i}Yaptım!{/i}"
 
 # game/images/interface_images/minigame/Shower_Run_02_timed_event.rpy:144 ## translate crowdin Shower_Run02_game_end_lbl_dee548bc:
 msgid "[RT] {i}Damnit!... Not the swim team, too!{/i}"
@@ -38,7 +38,7 @@ msgstr ""
 
 # game/images/interface_images/minigame/Shower_Run_02_timed_event.rpy:147 ## translate crowdin Shower_Run02_game_end_lbl_87277f79_1:
 msgid "[RT] {i}I made it!{/i}"
-msgstr ""
+msgstr "[RT] {i}Yaptım!{/i}"
 
 # game/images/interface_images/minigame/Shower_Run_02_timed_event.rpy:148 ## translate crowdin Shower_Run02_game_end_lbl_cb3dfaa4:
 msgid "[RT] {i}Damnit!... The swim team again? I've got the worst luck!{/i}"
@@ -50,5 +50,5 @@ msgstr ""
 
 # game/images/interface_images/minigame/Shower_Run_02_timed_event.rpy:161 ## translate crowdin Shower_Run02_game_end_lbl_1d59b54d:
 msgid "[R] Goddammit!"
-msgstr ""
+msgstr "[R] Hasiktir!"
 
