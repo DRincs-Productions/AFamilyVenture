@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-25 09:06\n"
+"PO-Revision-Date: 2022-11-26 09:08\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/Phone_event_screen.rpy:859 ## translate crowdin event_info_02_5cb3efa8:
 msgid "[RT] {i}I should go to the family portrait first to reminisce.{/i}"
-msgstr ""
+msgstr "[RT] {i}Hatırlamak için önce aile portresine gitmeliyim.{/i}"
 
 # game/Phone_event_screen.rpy:861 ## translate crowdin event_info_02_f0ec2643:
 msgid "[RT] {i}I need to go talk to Uncle Bobby at the warehouse. I can get there by looking at the city map.{/i}"
@@ -906,39 +906,39 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1639 ## translate crowdin again_tutorial_50b4b06e:
 msgid "[R] Testing.... Testing.... Ok.... It looks like it's recording."
-msgstr ""
+msgstr "[R] Deneme 123... tamam... Kaydediyor gibi görünüyor."
 
 # game/Phone_event_screen.rpy:1642 ## translate crowdin again_tutorial_eb7ecfdc:
 msgid "[R] My name is [ryan].... And if you are watching this recording, it means that I am dead."
-msgstr ""
+msgstr "[R] Benim adım [ryan]... ve eğer bu kaydı izliyorsanız, bu benim öldüğüm anlamına gelir."
 
 # game/Phone_event_screen.rpy:1643 ## translate crowdin again_tutorial_0d8199d8:
 msgid "[R] Or I guess it could mean the extremely unlikely scenario, that my computer was hacked, and now some schmuck is using my story for financial gain."
-msgstr ""
+msgstr "[R] Ya da sanırım bu, bilgisayarımın hacklendiği ve şimdi bazı aptalların hikayemi maddi kazanç için kullandığı gibi son derece düşük ihtimalli bir senaryo anlamına da gelebilir."
 
 # game/Phone_event_screen.rpy:1646 ## translate crowdin again_tutorial_a7a71d55:
 msgid "[R] Because the series of events I'm going to tell you about, is so unbelievable, it would make a great movie, or tv series."
-msgstr ""
+msgstr "[R] Çünkü size anlatacağım olaylar dizisi o kadar inanılmaz ki, harika bir film ya da dizi olabilir."
 
 # game/Phone_event_screen.rpy:1647 ## translate crowdin again_tutorial_4941a26d:
 msgid "[R] But probably the kind of tv series you could only see on HBO."
-msgstr ""
+msgstr "[R] Ama muhtemelen sadece HBO'da görebileceğiniz türden bir dizi."
 
 # game/Phone_event_screen.rpy:1650 ## translate crowdin again_tutorial_047a76a4:
 msgid "[R] Please God, just don't let anybody make a crappy H-game out of this."
-msgstr ""
+msgstr "[R] Lütfen Tanrım, kimsenin bundan berbat bir H-oyunu çıkarmasına izin verme."
 
 # game/Phone_event_screen.rpy:1654 ## translate crowdin again_tutorial_29d73646:
 msgid "[WT] Ummm.... Hi!"
-msgstr ""
+msgstr "[WT] Umm... merhaba!"
 
 # game/Phone_event_screen.rpy:1655 ## translate crowdin again_tutorial_327b2971:
 msgid "[WT] Sorry to interrupt."
-msgstr ""
+msgstr "[WT] Böldüğüm için özür dilerim."
 
 # game/Phone_event_screen.rpy:1656 ## translate crowdin again_tutorial_3f364fff:
 msgid "[WT] My name is Will Tylor and I just wanted to take this opportunity to welcome you to our \"awesome\" H-game, \"A Family Venture!\""
-msgstr ""
+msgstr "[WT] Benim adım Will Tylor ve bu vesileyle size \"harika\" H-oyunumuz \"A Family Venture!\"a hoş geldiniz demek istiyorum."
 
 # game/Phone_event_screen.rpy:1657 ## translate crowdin again_tutorial_6be1bbb5:
 msgid "[WT] Back to you [ryan]."
@@ -946,19 +946,19 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1662 ## translate crowdin again_tutorial_9888c663:
 msgid "[R] I wanted to record my version of the remarkable events that have occured over the last little while."
-msgstr ""
+msgstr "[R] Son zamanlarda meydana gelen olağanüstü olaylarla ilgili kendi versiyonumu kaydetmek istedim."
 
 # game/Phone_event_screen.rpy:1663 ## translate crowdin again_tutorial_f9858483:
 msgid "[R] I know many wouldn't understand why I've been doing the things I'm doing, if I didn't explain myself, so this is my attempt to justify my actions."
-msgstr ""
+msgstr "[R] Kendimi açıklamazsam birçok kişinin yaptığım şeyleri neden yaptığımı anlamayacağını biliyorum, bu yüzden davranışlarımı haklı çıkarma girişimim."
 
 # game/Phone_event_screen.rpy:1664 ## translate crowdin again_tutorial_15e2c4a9:
 msgid "[R] I've been acquiring many items to help me achieve my goals, of saving those I love, and helping that love to become even more realized."
-msgstr ""
+msgstr "[R] Sevdiklerimi kurtarmak ve bu sevginin daha da gerçekleşmesine yardımcı olmak gibi hedeflerime ulaşmama yardımcı olacak birçok eşya ediniyorum."
 
 # game/Phone_event_screen.rpy:1667 ## translate crowdin again_tutorial_7be5f7b4:
 msgid "[WT] Thanks [ryan]. Let me do a little explaining from here."
-msgstr ""
+msgstr "[WT] Teşekkürler [ryan]. Buradan biraz açıklama yapmama izin ver."
 
 # game/Phone_event_screen.rpy:1670 ## translate crowdin again_tutorial_cf17643b:
 msgid "[WT] This is a typical in game screen. As [ryan] mentioned, you will acquire many items in the game."
@@ -966,27 +966,27 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1673 ## translate crowdin again_tutorial_c3f79235:
 msgid "[WT] You can keep track of the items you acquire by clicking on this blue backpack."
-msgstr ""
+msgstr "[WT] Bu mavi sırt çantasına tıklayarak edindiğin eşyaları görebilirsin."
 
 # game/Phone_event_screen.rpy:1676 ## translate crowdin again_tutorial_0556842f:
 msgid "[WT] This will open up your inventory,"
-msgstr ""
+msgstr "[WT] Envanteriniz açılacaktır,"
 
 # game/Phone_event_screen.rpy:1679 ## translate crowdin again_tutorial_d644837a:
 msgid "[WT] where you will be able to see how much money you have earned,"
-msgstr ""
+msgstr "[WT] ne kadar para kazandığınızı görebileceğiniz yer,"
 
 # game/Phone_event_screen.rpy:1682 ## translate crowdin again_tutorial_25ecef9b:
 msgid "[WT] and what items you have acquired."
-msgstr ""
+msgstr "[WT] ve hangi eşyalara sahip olduğunuz bölüm görünecektir."
 
 # game/Phone_event_screen.rpy:1685 ## translate crowdin again_tutorial_48f3259e:
 msgid "[WT] There are several other important items on the game screen I'd like to draw your attention to."
-msgstr ""
+msgstr "[WT] Oyun ekranında dikkatinizi çekmek istediğim birkaç önemli kısım daha var."
 
 # game/Phone_event_screen.rpy:1688 ## translate crowdin again_tutorial_25fc2c00:
 msgid "[WT] This symbol shows you what day of the week it is,"
-msgstr ""
+msgstr "[WT] Bu sembol size haftanın hangi günü olduğunu gösterirken,"
 
 # game/Phone_event_screen.rpy:1691 ## translate crowdin again_tutorial_0665f6d0:
 msgid "[WT] while this symbol show you the time of day."
@@ -994,23 +994,23 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1694 ## translate crowdin again_tutorial_2c6857c0:
 msgid "[WT] I'll let you get back to [ryan] again."
-msgstr ""
+msgstr "[WT] Tekrardan sana geri dönelim [ryan]."
 
 # game/Phone_event_screen.rpy:1697 ## translate crowdin again_tutorial_4f74ea21:
 msgid "[R] I've had to become very good at managing my money. I've got debts I have to pay, and items I need to buy, to help influence those around me."
-msgstr ""
+msgstr "[R] Paramı yönetme konusunda çok iyi olmak zorunda kaldım. Çevremdekileri etkilemek için ödemem gereken borçlar ve satın almam gereken ürünler var."
 
 # game/Phone_event_screen.rpy:1700 ## translate crowdin again_tutorial_88c4b13a:
 msgid "[R] I've become aware that someone, or several someones, have been tracking my movements. So, I have learned to be stealthy, and to watch my back wherever I go."
-msgstr ""
+msgstr "[R] Birinin ya da birkaçının hareketlerimi takip ettiğinin farkına vardım. Bu yüzden gizli olmayı ve nereye gidersem gideyim arkamı kollamayı öğrendim."
 
 # game/Phone_event_screen.rpy:1703 ## translate crowdin again_tutorial_33df29b8:
 msgid "[WT] Let me just pause you again for a second. [ryan] brings up a good point about getting around."
-msgstr ""
+msgstr "[WT] Bir saniyeliğine sizi tekrar durdurmama izin verin. [ryan] ulaşım konusunda iyi bir noktaya değindi."
 
 # game/Phone_event_screen.rpy:1704 ## translate crowdin again_tutorial_c69197d0:
 msgid "[WT] You will find that navigation is very important in this type of game, so let me just show you how that's done."
-msgstr ""
+msgstr "[WT] Bu tür bir oyunda navigasyonun çok önemli olduğunu göreceksiniz, bu yüzden size bunun nasıl yapıldığını göstereyim."
 
 # game/Phone_event_screen.rpy:1707 ## translate crowdin again_tutorial_850d20d8:
 msgid "[WT] On the game map, you can get around to many locations by using the travel buttons."
@@ -1022,15 +1022,15 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1713 ## translate crowdin again_tutorial_1e2916f7:
 msgid "[WT] You can also hover your cursor over this button, to open up the quick travel options."
-msgstr ""
+msgstr "[WT] Hızlı seyahat seçeneklerini açmak için imlecinizi bu butonun üzerine de getirebilirsiniz."
 
 # game/Phone_event_screen.rpy:1714 ## translate crowdin again_tutorial_65da6e59:
 msgid "[WT] These buttons will take you to any room in the house, as well as the world map."
-msgstr ""
+msgstr "[WT] Bu butonlar sizi evdeki herhangi bir odaya veya dünya haritasına götürecektir."
 
 # game/Phone_event_screen.rpy:1715 ## translate crowdin again_tutorial_82d216eb:
 msgid "[WT] Exploring the AFV world is vitally important, as you will find that some events only happen at certain times, and in certain places."
-msgstr ""
+msgstr "[WT] AFV dünyasını keşfetmek hayati derecede önemlidir, çünkü bazı olayların sadece belirli zamanlarda ve belirli yerlerde gerçekleştiğini göreceksiniz."
 
 # game/Phone_event_screen.rpy:1716 ## translate crowdin again_tutorial_604a535f:
 msgid "[WT] So have fun exploring!"
@@ -1038,23 +1038,23 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1722 ## translate crowdin again_tutorial_c83ea849:
 msgid "[R] I never can be sure who is following me, even though I have my suspicions."
-msgstr ""
+msgstr "[R] Şüphelerim olsa da beni kimin takip ettiğinden asla emin olamıyorum."
 
 # game/Phone_event_screen.rpy:1723 ## translate crowdin again_tutorial_7346a4af:
 msgid "[R] Always having to watch my back, has made me grow closer to the few people I can trust."
-msgstr ""
+msgstr "[R] Her zaman arkamı kollamak zorunda olmam, güvenebileceğim birkaç kişiye daha yakın olmamı sağladı."
 
 # game/Phone_event_screen.rpy:1724 ## translate crowdin again_tutorial_51e7cbc3:
 msgid "[R] And who can I trust better than those that live right here with me?"
-msgstr ""
+msgstr "[R] Ve burada benimle birlikte yaşayanlardan daha iyi kime güvenebilirim?"
 
 # game/Phone_event_screen.rpy:1725 ## translate crowdin again_tutorial_033e4640:
 msgid "{i}\"(knock knock knock....)\"{/i}"
-msgstr ""
+msgstr "{i}\"(tak tak tak....)\"{/i}"
 
 # game/Phone_event_screen.rpy:1726 ## translate crowdin again_tutorial_c1bfb181:
 msgid "[M] {i}(muffled voice){/i} [ryan]? Why is the door locked? You're not looking at porn and masturbating again are you?"
-msgstr ""
+msgstr "[M] {i}(boğuk ses){/i} [ryan]? Kapı neden kilitli? Yine porno izleyip 31 çekmiyorsun değil mi?"
 
 # game/Phone_event_screen.rpy:1729 ## translate crowdin again_tutorial_a8730e81:
 msgid "[R] No Mom!.... But I'm really busy right now!"
@@ -1062,23 +1062,23 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1730 ## translate crowdin again_tutorial_ecfc0255:
 msgid "[M] With what?"
-msgstr ""
+msgstr "[M] Neyle meşgulsün?"
 
 # game/Phone_event_screen.rpy:1731 ## translate crowdin again_tutorial_2f540835:
 msgid "[R] Ummm.... Homework.... of course!"
-msgstr ""
+msgstr "[R] Hmmm.... ev ödevi... tabii ki!"
 
 # game/Phone_event_screen.rpy:1732 ## translate crowdin again_tutorial_d3cb05bf:
 msgid "[M] Well, ok.... But you know, you don't need to take care of yourself, right?"
-msgstr ""
+msgstr "[M] Tamam... ama artık kendine böyle bakmana gerek olmadığını biliyorsun, değil mi?"
 
 # game/Phone_event_screen.rpy:1733 ## translate crowdin again_tutorial_ef4266bd:
 msgid "[M] You know, that if you need some relief, you just need to let me know. And If I'm too busy, I'm sure your sisters would be happy to help you out."
-msgstr ""
+msgstr "[M] Yardıma ihtiyacın olursa bana söylemen yeterli. Eğer çok meşgul olursam, eminim Lauren veya Sidney sana yardım etmekten mutluluk duyacaktır."
 
 # game/Phone_event_screen.rpy:1736 ## translate crowdin again_tutorial_c8d5a1ef:
 msgid "[R] Ok!.... thanks Mom!"
-msgstr ""
+msgstr "[R] Tamam!.... Teşekkürler anne!"
 
 # game/Phone_event_screen.rpy:1737 ## translate crowdin again_tutorial_b7d2b788:
 msgid "[R] Please don't judge me until you've heard my side of the story."
@@ -1086,23 +1086,23 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1740 ## translate crowdin again_tutorial_483a3f0e:
 msgid "[R] It's like I said.... With so many shady characters around, tracking my movements, I've needed to grow closer to the people around me."
-msgstr ""
+msgstr "[R] Dediğim gibi.... etrafımda yaptıklarımı izleyen pek çok karanlık varlık varken.... çevremdeki insanlarla yakınlaşmaya ihtiyaç duydum."
 
 # game/Phone_event_screen.rpy:1743 ## translate crowdin again_tutorial_0f68a40c:
 msgid "[WT] Let me just jump in here one more time."
-msgstr ""
+msgstr "[WT] Burada bir kez daha araya girmeme izin verin."
 
 # game/Phone_event_screen.rpy:1746 ## translate crowdin again_tutorial_c7f3d7ec:
 msgid "[WT] To be successful, [ryan] has to influence those around him."
-msgstr ""
+msgstr "[WT] Başarılı olmak için [ryan] çevresindekileri etkilemek zorundadır."
 
 # game/Phone_event_screen.rpy:1747 ## translate crowdin again_tutorial_762d3d13:
 msgid "[WT] Relationship management is the most important part of this game."
-msgstr ""
+msgstr "[WT] İlişki yönetimi bu oyunun en önemli parçasıdır."
 
 # game/Phone_event_screen.rpy:1748 ## translate crowdin again_tutorial_6141dd6f:
 msgid "[WT] You will need to make choices throughout the game that will influence the way the girls in your life feel about you."
-msgstr ""
+msgstr "[WT] Oyun boyunca hayatınızdaki kızların sizin hakkınızdaki hislerini etkileyecek seçimler yapmanız gerekecek."
 
 # game/Phone_event_screen.rpy:1749 ## translate crowdin again_tutorial_11cac143:
 msgid "[WT] So it's pretty important that you keep track of those stats."
@@ -1110,95 +1110,95 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1750 ## translate crowdin again_tutorial_6f912c38:
 msgid "[WT] You can access a girls stats,"
-msgstr ""
+msgstr "[WT] Bir kızın istatistiklerine erişmek için,"
 
 # game/Phone_event_screen.rpy:1753 ## translate crowdin again_tutorial_9491e3d1:
 msgid "[WT] by pressing the \"P\" button on your keyboard."
-msgstr ""
+msgstr "[WT] Klavyenizdeki P tuşuna basmanız yeterlidir."
 
 # game/Phone_event_screen.rpy:1756 ## translate crowdin again_tutorial_b769c99b:
 msgid "[WT] You can cycle through the girls in the game by clicking on the left or right arrows."
-msgstr ""
+msgstr "[WT] Sol veya sağ oklara tıklayarak kızlar arasında geçiş yapabilirsiniz."
 
 # game/Phone_event_screen.rpy:1759 ## translate crowdin again_tutorial_c8ef2a6f:
 msgid "[WT] Once you've found the girl you want to track, you can figure out her stats by looking at the icons by her name and picture."
-msgstr ""
+msgstr "[WT] İstediğiniz kızı bulduğunuzda, adının ve resminin yanındaki simgelere bakarak istatistiklerini öğrenebilirsiniz."
 
 # game/Phone_event_screen.rpy:1762 ## translate crowdin again_tutorial_418686a5:
 msgid "[WT] The heart icon stands for love."
-msgstr ""
+msgstr "[WT] Kalp simgesi aşkı temsil eder."
 
 # game/Phone_event_screen.rpy:1765 ## translate crowdin again_tutorial_c3bbac67:
 msgid "[WT] These hands represent respect."
-msgstr ""
+msgstr "[WT] Bu eller saygıyı temsil eder."
 
 # game/Phone_event_screen.rpy:1768 ## translate crowdin again_tutorial_3c0737b4:
 msgid "[WT] The angry emoji stands for a girls anger towards you. It's hard to get them to do anything for you when they are mad."
-msgstr ""
+msgstr "[WT] Kızgın emoji, bir kızın size karşı olan öfkesini gösterir. Kızgın olduklarında sizin için bir şey yapmalarını sağlamanız zor olacak."
 
 # game/Phone_event_screen.rpy:1771 ## translate crowdin again_tutorial_e38fd42a:
 msgid "[WT] This whip icon, represents a girls submission to you."
-msgstr ""
+msgstr "[WT] Bu kırbaç sembolü, bir kızın size boyun eğmesini temsil eder."
 
 # game/Phone_event_screen.rpy:1774 ## translate crowdin again_tutorial_2bd860cf:
 msgid "[WT] And these lips represent a girls libido."
-msgstr ""
+msgstr "[WT] Ve bu dudaklar bir kızın azgınlığını temsil eder."
 
 # game/Phone_event_screen.rpy:1777 ## translate crowdin again_tutorial_d4d20a80:
 msgid "[WT] To close the stats window, just press the \"P\" on your keyboard again."
-msgstr ""
+msgstr "[WT] İstatistikler penceresini kapatmak için klavyenizdeki P tuşuna tekrar basmanız yeterlidir."
 
 # game/Phone_event_screen.rpy:1778 ## translate crowdin again_tutorial_f429d6fe:
 msgid "[WT] Another handy way to track a girls stats is through your phone."
-msgstr ""
+msgstr "[WT] Bir kızın istatistiklerini takip etmenin başka bir yolu ise telefonunuzdur."
 
 # game/Phone_event_screen.rpy:1781 ## translate crowdin again_tutorial_bb9483d0:
 msgid "[WT] You can access your phone by clicking on this button."
-msgstr ""
+msgstr "[WT] Bu butona tıklayarak telefonunuza erişebilirsiniz."
 
 # game/Phone_event_screen.rpy:1784 ## translate crowdin again_tutorial_f595b29b:
 msgid "[WT] Once your phone is pulled up, you can track a girls stats,"
-msgstr ""
+msgstr "[WT] Telefonunuzu açtığınızda, bir kızın istatistiklerini takip etmek için,"
 
 # game/Phone_event_screen.rpy:1787 ## translate crowdin again_tutorial_d3037095:
 msgid "[WT] by clicking on this button right here."
-msgstr ""
+msgstr "[WT] buradaki butona tıklamanız yeterlidir."
 
 # game/Phone_event_screen.rpy:1790 ## translate crowdin again_tutorial_6d29e98a:
 msgid "[WT] There are also some other handy things you can do with your phone as well."
-msgstr ""
+msgstr "[WT] Telefonunuzla yapabileceğiniz başka şeyler de var."
 
 # game/Phone_event_screen.rpy:1793 ## translate crowdin again_tutorial_c65434ed:
 msgid "[WT] For those of you who support us at the \"Friend\" tier on SubscribeStar or Patreon, you can install a mod that you can access by pressing on this button."
-msgstr ""
+msgstr "[WT] SubscribeStar veya Patreon'da bizi \"Friend\" katmanında destekleyenleriniz için, bu düğmeye basarak erişebileceğiniz bir mod yükleyebilirsiniz."
 
 # game/Phone_event_screen.rpy:1794 ## translate crowdin again_tutorial_c33007ea:
 msgid "[WT] The mod is pretty awesome! It allows you to change the name of your character, manipulate the stats of other characters, add and remove items, and add money to your backpack."
-msgstr ""
+msgstr "[WT] Bu mod oldukça harika! Karakterinizin adını değiştirmenize, diğer karakterlerin istatistiklerini manipüle etmenize, eşya eklemenize ve çıkarmanıza ve paranızı arttırmanızı olanak tanır."
 
 # game/Phone_event_screen.rpy:1797 ## translate crowdin again_tutorial_aadd8f32:
 msgid "[WT] This button allows you to track your progress. When you click on it,"
-msgstr ""
+msgstr "[WT] Bu buton ilerlemenizi takip etmenizi sağlar. Üzerine tıkladığınızda,"
 
 # game/Phone_event_screen.rpy:1800 ## translate crowdin again_tutorial_69912aa8:
 msgid "[WT] A screen that lists events will pop up."
-msgstr ""
+msgstr "[WT] olayları listeleyen bir ekran açılacaktır."
 
 # game/Phone_event_screen.rpy:1803 ## translate crowdin again_tutorial_7a7c9308:
 msgid "[WT] And when you click on the three question marks \"???\", you will receive hints to help you know how to complete that event."
-msgstr ""
+msgstr "[WT] Ve üç soru işaretine \"???\" tıkladığınızda, o olayı nasıl tamamlayacağınızı bilmenize yardımcı olacak ipuçları alacaksınız."
 
 # game/Phone_event_screen.rpy:1806 ## translate crowdin again_tutorial_caf2f581:
 msgid "[WT] A couple other useful buttons are on the bottom of the phone."
-msgstr ""
+msgstr "[WT] Telefonun alt kısmında birkaç kullanışlı buton daha bulunuyor."
 
 # game/Phone_event_screen.rpy:1809 ## translate crowdin again_tutorial_ce5b1c76:
 msgid "[WT] This button lets you see any pictures of girls that you may take throughout the course of the game."
-msgstr ""
+msgstr "[WT] Bu buton, oyun boyunca çekebileceğiniz kızların fotoğraflarını görmenizi sağlar."
 
 # game/Phone_event_screen.rpy:1812 ## translate crowdin again_tutorial_89244cba:
 msgid "[WT] And this extremely useful button let's you move forward in time."
-msgstr ""
+msgstr "[WT] Ve bu sihirli buton ise zamanda ilerlemeni sağlar."
 
 # game/Phone_event_screen.rpy:1815 ## translate crowdin again_tutorial_e27d758f:
 msgid "[WT] So that's all the tips we have for you. Everything else you will have to figure out on your own, or I guess you could always find the walkthrough, or ask for help online."
@@ -1206,23 +1206,23 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1816 ## translate crowdin again_tutorial_ca4042fa:
 msgid "[WT] However you decide to play. We hope you enjoy the game."
-msgstr ""
+msgstr "[WT] Hikayenizi nasıl şekillendirirseniz şekillendirin, oyunu beğeneceğinizi umuyoruz."
 
 # game/Phone_event_screen.rpy:1819 ## translate crowdin again_tutorial_4c175238:
 msgid "[WT] Go ahead and take it from here [ryan]!"
-msgstr ""
+msgstr "[WT] Devam et ve buradan al, [ryan]!"
 
 # game/Phone_event_screen.rpy:1822 ## translate crowdin again_tutorial_26e720f0:
 msgid "[R] I guess the best thing I can do, is tell you my story, and let whomever watches this, be the judge of my actions."
-msgstr ""
+msgstr "[R] Sanırım yapabileceğim en iyi şey size hikayemi anlatmak ve bunu izleyenlerin yapacaklarıma karar vermesine izin vermek olacaktır."
 
 # game/Phone_event_screen.rpy:1823 ## translate crowdin again_tutorial_a0f32abe:
 msgid "[R] And once again, hope this story gets turned into a kick ass HBO series, and not a fucking lame-ass H-game."
-msgstr ""
+msgstr "[R] Ve bir kez daha, umarım bu hikaye berbat bir HBO dizisine dönüşürüz, dandik bir H-oyununa değil."
 
 # game/Phone_event_screen.rpy:1826 ## translate crowdin again_tutorial_e6d5853d:
 msgid "[R] .... So, until fairly recently, I was just a normal teenage kid like everybody else."
-msgstr ""
+msgstr "[R] .... Yakın zamana kadar ben de herkes gibi normal bir gençtim."
 
 # game/Phone_event_screen.rpy:1827 ## translate crowdin again_tutorial_e48aa4ec:
 msgid "[R] Until I was woken up really early one day, by a phone call that would change my life forever...."
@@ -1234,7 +1234,7 @@ msgstr "[R] ...."
 
 # game/Phone_event_screen.rpy:1831 ## translate crowdin again_tutorial_076a53a8:
 msgid "End of tutorial."
-msgstr ""
+msgstr "Öğreticinin sonu."
 
 # XXtranslate crowdin strings:XX# XX## game/Phone_event_screen.rpy:25
 msgid "[event_num]:"
@@ -1252,13 +1252,14 @@ msgstr[1] ""
 msgid "Press the \"{color=#E60000}???{/color}\" to see \n"
 "             hints!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "İpuçlarını görmek için \"{color=#E60000}???{/color}\"e \n"
+"             tıkla!"
 msgstr[1] ""
 
 # XX## game/Phone_event_screen.rpy:805
 msgid "Watch the tutorial again!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Öğreticiyi tekrarla!"
 msgstr[1] ""
 
 # XX## game/Phone_event_screen.rpy:811
