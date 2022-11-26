@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-24 08:47\n"
+"PO-Revision-Date: 2022-11-26 09:08\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/UpdateScript0.04.rpy:319 ## translate crowdin get_sidney_modeling_68a39f05:
 msgid "[RT] {i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
@@ -7706,7 +7706,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4065 ## translate crowdin bye_bobby_1779dff4:
 msgid "[RT] {i}I wonder where he is?{/i}"
-msgstr ""
+msgstr "[RT] {i}Onun nerede olduğunu merak ediyorum.{/i}"
 
 # game/UpdateScript0.04.rpy:4068 ## translate crowdin bye_bobby_d5f6c529:
 msgid "[B] Thank God, you're finally here!"
@@ -11806,7 +11806,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5810 ## translate crowdin wr_gape_d9f5fd82:
 msgid "[R] Fuck!"
-msgstr ""
+msgstr "[R] Hay amk!"
 
 # game/UpdateScript0.04.rpy:5815 ## translate crowdin wr_gape_c3082416:
 msgid "[R] I know I said we'd be done, but I just thought of one more I want to take."
