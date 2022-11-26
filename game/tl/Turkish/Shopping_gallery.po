@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-25 09:06\n"
+"PO-Revision-Date: 2022-11-26 09:08\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/Shopping_gallery.rpy:253 ## translate crowdin online_shopping_d0d5deb3:
 msgid "[RT] {i}HardnLong.dong it's the best online shop that has the best prices, they deliver everywhere and they also accept online currency that'll help me be anonymous.{/i}"
@@ -570,7 +570,7 @@ msgstr "Perry Hotter serisinin 2. kitabını aldın."
 
 # game/Shopping_gallery.rpy:679 ## translate crowdin buying_label_8f18a216:
 msgid "[RT] {i}At least the first book was slightly entertaining... Maybe this one won't be too bad either.{/i}"
-msgstr ""
+msgstr "[RT] {i}En azından ilk kitap biraz eğlenceliydi... Belki bu da o kadar kötü olamaz.{/i}"
 
 # game/Shopping_gallery.rpy:681 ## translate crowdin buying_label_ee2b767d_19:
 msgid "[RT] {i}Not right now.{/i}"
