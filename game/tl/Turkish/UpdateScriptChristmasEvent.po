@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-25 09:06\n"
+"PO-Revision-Date: 2022-11-26 09:08\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/UpdateScriptChristmasEvent.rpy:247 ## translate crowdin xmas_dream_387f76a6:
 msgid "Welcome to our Christmas event! WARNING!! This event has elements of NTR, that are completely avoidable! Choices that lead to NTR content are clearly marked!"
@@ -1386,7 +1386,7 @@ msgstr "[R] Ama muhtemelen sadece HBO'da görebileceğiniz türden bir dizi."
 
 # game/UpdateScriptChristmasEvent.rpy:818 ## translate crowdin tutorial_047a76a4:
 msgid "[R] Please God, just don't let anybody make a crappy H-game out of this."
-msgstr ""
+msgstr "[R] Lütfen Tanrım, kimsenin bundan berbat bir H-oyunu çıkarmasına izin verme."
 
 # game/UpdateScriptChristmasEvent.rpy:822 ## translate crowdin tutorial_be9784f7:
 msgid "[WT] Ummm.... hi!"
@@ -1394,11 +1394,11 @@ msgstr "[WT] Umm... merhaba!"
 
 # game/UpdateScriptChristmasEvent.rpy:823 ## translate crowdin tutorial_327b2971:
 msgid "[WT] Sorry to interrupt."
-msgstr ""
+msgstr "[WT] Böldüğüm için özür dilerim."
 
 # game/UpdateScriptChristmasEvent.rpy:824 ## translate crowdin tutorial_3f364fff:
 msgid "[WT] My name is Will Tylor and I just wanted to take this opportunity to welcome you to our \"awesome\" H-game, \"A Family Venture!\""
-msgstr ""
+msgstr "[WT] Benim adım Will Tylor ve bu vesileyle size \"harika\" H-oyunumuz \"A Family Venture!\"a hoş geldiniz demek istiyorum."
 
 # game/UpdateScriptChristmasEvent.rpy:825 ## translate crowdin tutorial_a1128353:
 msgid "[WT] Back to you, [ryan]."
@@ -1410,15 +1410,15 @@ msgstr "[R] Son zamanlarda meydana gelen olağanüstü olaylarla ilgili kendi ve
 
 # game/UpdateScriptChristmasEvent.rpy:831 ## translate crowdin tutorial_f9858483:
 msgid "[R] I know many wouldn't understand why I've been doing the things I'm doing, if I didn't explain myself, so this is my attempt to justify my actions."
-msgstr ""
+msgstr "[R] Kendimi açıklamazsam birçok kişinin yaptığım şeyleri neden yaptığımı anlamayacağını biliyorum, bu yüzden davranışlarımı haklı çıkarma girişimim."
 
 # game/UpdateScriptChristmasEvent.rpy:832 ## translate crowdin tutorial_15e2c4a9:
 msgid "[R] I've been acquiring many items to help me achieve my goals, of saving those I love, and helping that love to become even more realized."
-msgstr ""
+msgstr "[R] Sevdiklerimi kurtarmak ve bu sevginin daha da gerçekleşmesine yardımcı olmak gibi hedeflerime ulaşmama yardımcı olacak birçok eşya ediniyorum."
 
 # game/UpdateScriptChristmasEvent.rpy:835 ## translate crowdin tutorial_7be5f7b4:
 msgid "[WT] Thanks [ryan]. Let me do a little explaining from here."
-msgstr ""
+msgstr "[WT] Teşekkürler [ryan]. Buradan biraz açıklama yapmama izin ver."
 
 # game/UpdateScriptChristmasEvent.rpy:838 ## translate crowdin tutorial_308a5fdb:
 msgid "[WT] This is a typical in-game screen. As [ryan] mentioned, you will acquire many items in the game."
@@ -1426,51 +1426,51 @@ msgstr "[WT] Bu klasik bir oyun içi ekranıdır. [ryan]'ın da bahsettiği gibi
 
 # game/UpdateScriptChristmasEvent.rpy:841 ## translate crowdin tutorial_c3f79235:
 msgid "[WT] You can keep track of the items you acquire by clicking on this blue backpack."
-msgstr ""
+msgstr "[WT] Bu mavi sırt çantasına tıklayarak edindiğin eşyaları görebilirsin."
 
 # game/UpdateScriptChristmasEvent.rpy:844 ## translate crowdin tutorial_0556842f:
 msgid "[WT] This will open up your inventory,"
-msgstr ""
+msgstr "[WT] Envanteriniz açılacaktır,"
 
 # game/UpdateScriptChristmasEvent.rpy:847 ## translate crowdin tutorial_d644837a:
 msgid "[WT] where you will be able to see how much money you have earned,"
-msgstr ""
+msgstr "[WT] ne kadar para kazandığınızı görebileceğiniz yer,"
 
 # game/UpdateScriptChristmasEvent.rpy:850 ## translate crowdin tutorial_25ecef9b:
 msgid "[WT] and what items you have acquired."
-msgstr ""
+msgstr "[WT] ve hangi eşyalara sahip olduğunuz bölüm görünecektir."
 
 # game/UpdateScriptChristmasEvent.rpy:853 ## translate crowdin tutorial_48f3259e:
 msgid "[WT] There are several other important items on the game screen I'd like to draw your attention to."
-msgstr ""
+msgstr "[WT] Oyun ekranında dikkatinizi çekmek istediğim birkaç önemli kısım daha var."
 
 # game/UpdateScriptChristmasEvent.rpy:856 ## translate crowdin tutorial_25fc2c00:
 msgid "[WT] This symbol shows you what day of the week it is,"
-msgstr ""
+msgstr "[WT] Bu sembol size haftanın hangi günü olduğunu gösterirken,"
 
 # game/UpdateScriptChristmasEvent.rpy:859 ## translate crowdin tutorial_75aeed33:
 msgid "[WT] while this symbol shows you the time of day."
-msgstr "[WT] bu sembol ise size günün saatini gösterecektir."
+msgstr "[WT] Bu sembol size günün saatini gösterir."
 
 # game/UpdateScriptChristmasEvent.rpy:862 ## translate crowdin tutorial_2c6857c0:
 msgid "[WT] I'll let you get back to [ryan] again."
-msgstr ""
+msgstr "[WT] Tekrardan sana geri dönelim [ryan]."
 
 # game/UpdateScriptChristmasEvent.rpy:865 ## translate crowdin tutorial_4f74ea21:
 msgid "[R] I've had to become very good at managing my money. I've got debts I have to pay, and items I need to buy, to help influence those around me."
-msgstr ""
+msgstr "[R] Paramı yönetme konusunda çok iyi olmak zorunda kaldım. Çevremdekileri etkilemek için ödemem gereken borçlar ve satın almam gereken ürünler var."
 
 # game/UpdateScriptChristmasEvent.rpy:868 ## translate crowdin tutorial_88c4b13a:
 msgid "[R] I've become aware that someone, or several someones, have been tracking my movements. So, I have learned to be stealthy, and to watch my back wherever I go."
-msgstr ""
+msgstr "[R] Birinin ya da birkaçının hareketlerimi takip ettiğinin farkına vardım. Bu yüzden gizli olmayı ve nereye gidersem gideyim arkamı kollamayı öğrendim."
 
 # game/UpdateScriptChristmasEvent.rpy:871 ## translate crowdin tutorial_33df29b8:
 msgid "[WT] Let me just pause you again for a second. [ryan] brings up a good point about getting around."
-msgstr ""
+msgstr "[WT] Bir saniyeliğine sizi tekrar durdurmama izin verin. [ryan] ulaşım konusunda iyi bir noktaya değindi."
 
 # game/UpdateScriptChristmasEvent.rpy:872 ## translate crowdin tutorial_c69197d0:
 msgid "[WT] You will find that navigation is very important in this type of game, so let me just show you how that's done."
-msgstr ""
+msgstr "[WT] Bu tür bir oyunda navigasyonun çok önemli olduğunu göreceksiniz, bu yüzden size bunun nasıl yapıldığını göstereyim."
 
 # game/UpdateScriptChristmasEvent.rpy:875 ## translate crowdin tutorial_f5ab5820:
 msgid "[WT] On the game screen, you can get around to many locations by using the travel buttons."
@@ -1482,15 +1482,15 @@ msgstr "[WT] Buradaki buton, gitmek istediğiniz herhangi bir odayı seçebilece
 
 # game/UpdateScriptChristmasEvent.rpy:881 ## translate crowdin tutorial_1e2916f7:
 msgid "[WT] You can also hover your cursor over this button, to open up the quick travel options."
-msgstr ""
+msgstr "[WT] Hızlı seyahat seçeneklerini açmak için imlecinizi bu butonun üzerine de getirebilirsiniz."
 
 # game/UpdateScriptChristmasEvent.rpy:882 ## translate crowdin tutorial_65da6e59:
 msgid "[WT] These buttons will take you to any room in the house, as well as the world map."
-msgstr ""
+msgstr "[WT] Bu butonlar sizi evdeki herhangi bir odaya veya dünya haritasına götürecektir."
 
 # game/UpdateScriptChristmasEvent.rpy:883 ## translate crowdin tutorial_82d216eb:
 msgid "[WT] Exploring the AFV world is vitally important, as you will find that some events only happen at certain times, and in certain places."
-msgstr ""
+msgstr "[WT] AFV dünyasını keşfetmek hayati derecede önemlidir, çünkü bazı olayların sadece belirli zamanlarda ve belirli yerlerde gerçekleştiğini göreceksiniz."
 
 # game/UpdateScriptChristmasEvent.rpy:884 ## translate crowdin tutorial_60f71c6f:
 msgid "[WT] So, have fun exploring!"
@@ -1498,7 +1498,7 @@ msgstr "[WT] Keşfederken iyi eğlenceler!"
 
 # game/UpdateScriptChristmasEvent.rpy:890 ## translate crowdin tutorial_c83ea849:
 msgid "[R] I never can be sure who is following me, even though I have my suspicions."
-msgstr ""
+msgstr "[R] Şüphelerim olsa da beni kimin takip ettiğinden asla emin olamıyorum."
 
 # game/UpdateScriptChristmasEvent.rpy:891 ## translate crowdin tutorial_422bf6c7:
 msgid "[R] Always having to watch my back has made me grow closer to the few people I can trust."
@@ -1506,15 +1506,15 @@ msgstr "[R] Her zaman arkamı kollamak zorunda olmam, güvenebileceğim birkaç 
 
 # game/UpdateScriptChristmasEvent.rpy:892 ## translate crowdin tutorial_51e7cbc3:
 msgid "[R] And who can I trust better than those that live right here with me?"
-msgstr ""
+msgstr "[R] Ve burada benimle birlikte yaşayanlardan daha iyi kime güvenebilirim?"
 
 # game/UpdateScriptChristmasEvent.rpy:893 ## translate crowdin tutorial_033e4640:
 msgid "{i}\"(knock knock knock....)\"{/i}"
-msgstr ""
+msgstr "{i}\"(tak tak tak....)\"{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:894 ## translate crowdin tutorial_c1bfb181:
 msgid "[M] {i}(muffled voice){/i} [ryan]? Why is the door locked? You're not looking at porn and masturbating again are you?"
-msgstr ""
+msgstr "[M] {i}(boğuk ses){/i} [ryan]? Kapı neden kilitli? Yine porno izleyip 31 çekmiyorsun değil mi?"
 
 # game/UpdateScriptChristmasEvent.rpy:897 ## translate crowdin tutorial_80ba08b4:
 msgid "[R] No, Mom!.... But I'm really busy right now!"
@@ -1522,7 +1522,7 @@ msgstr "[R] Hayır, anne!... Ama şu anda çok meşgulüm!"
 
 # game/UpdateScriptChristmasEvent.rpy:898 ## translate crowdin tutorial_ecfc0255:
 msgid "[M] With what?"
-msgstr ""
+msgstr "[M] Neyle meşgulsün?"
 
 # game/UpdateScriptChristmasEvent.rpy:899 ## translate crowdin tutorial_0fcacb7c:
 msgid "[R] Ummm.... homework.... of course!"
@@ -1550,19 +1550,19 @@ msgstr "[R] Dediğim gibi.... etrafımda yaptıklarımı izleyen pek çok karanl
 
 # game/UpdateScriptChristmasEvent.rpy:911 ## translate crowdin tutorial_0f68a40c:
 msgid "[WT] Let me just jump in here one more time."
-msgstr ""
+msgstr "[WT] Burada bir kez daha araya girmeme izin verin."
 
 # game/UpdateScriptChristmasEvent.rpy:914 ## translate crowdin tutorial_c7f3d7ec:
 msgid "[WT] To be successful, [ryan] has to influence those around him."
-msgstr ""
+msgstr "[WT] Başarılı olmak için [ryan] çevresindekileri etkilemek zorundadır."
 
 # game/UpdateScriptChristmasEvent.rpy:915 ## translate crowdin tutorial_762d3d13:
 msgid "[WT] Relationship management is the most important part of this game."
-msgstr ""
+msgstr "[WT] İlişki yönetimi bu oyunun en önemli parçasıdır."
 
 # game/UpdateScriptChristmasEvent.rpy:916 ## translate crowdin tutorial_6141dd6f:
 msgid "[WT] You will need to make choices throughout the game that will influence the way the girls in your life feel about you."
-msgstr ""
+msgstr "[WT] Oyun boyunca hayatınızdaki kızların sizin hakkınızdaki hislerini etkileyecek seçimler yapmanız gerekecek."
 
 # game/UpdateScriptChristmasEvent.rpy:917 ## translate crowdin tutorial_4329ffca:
 msgid "[WT] So, it's pretty important that you keep track of those stats."
@@ -1574,23 +1574,23 @@ msgstr "[WT] Bir kızın istatistiklerine erişmek için,"
 
 # game/UpdateScriptChristmasEvent.rpy:921 ## translate crowdin tutorial_9491e3d1:
 msgid "[WT] by pressing the \"P\" button on your keyboard."
-msgstr ""
+msgstr "[WT] Klavyenizdeki P tuşuna basmanız yeterlidir."
 
 # game/UpdateScriptChristmasEvent.rpy:924 ## translate crowdin tutorial_b769c99b:
 msgid "[WT] You can cycle through the girls in the game by clicking on the left or right arrows."
-msgstr ""
+msgstr "[WT] Sol veya sağ oklara tıklayarak kızlar arasında geçiş yapabilirsiniz."
 
 # game/UpdateScriptChristmasEvent.rpy:927 ## translate crowdin tutorial_c8ef2a6f:
 msgid "[WT] Once you've found the girl you want to track, you can figure out her stats by looking at the icons by her name and picture."
-msgstr ""
+msgstr "[WT] İstediğiniz kızı bulduğunuzda, adının ve resminin yanındaki simgelere bakarak istatistiklerini öğrenebilirsiniz."
 
 # game/UpdateScriptChristmasEvent.rpy:930 ## translate crowdin tutorial_418686a5:
 msgid "[WT] The heart icon stands for love."
-msgstr ""
+msgstr "[WT] Kalp simgesi aşkı temsil eder."
 
 # game/UpdateScriptChristmasEvent.rpy:933 ## translate crowdin tutorial_c3bbac67:
 msgid "[WT] These hands represent respect."
-msgstr ""
+msgstr "[WT] Bu eller saygıyı temsil eder."
 
 # game/UpdateScriptChristmasEvent.rpy:936 ## translate crowdin tutorial_0b232737:
 msgid "[WT] The angry emoji stands for a girl's anger towards you. It's hard to get them to do anything for you when they are mad."
@@ -1606,7 +1606,7 @@ msgstr "[WT] Ve bu dudaklar bir kızın azgınlığını temsil eder."
 
 # game/UpdateScriptChristmasEvent.rpy:945 ## translate crowdin tutorial_d4d20a80:
 msgid "[WT] To close the stats window, just press the \"P\" on your keyboard again."
-msgstr ""
+msgstr "[WT] İstatistikler penceresini kapatmak için klavyenizdeki P tuşuna tekrar basmanız yeterlidir."
 
 # game/UpdateScriptChristmasEvent.rpy:946 ## translate crowdin tutorial_d933deaa:
 msgid "[WT] Another handy way to track a girl's stats is through your phone."
@@ -1614,7 +1614,7 @@ msgstr "[WT] Bir kızın istatistiklerini takip etmenin başka bir yolu ise tele
 
 # game/UpdateScriptChristmasEvent.rpy:949 ## translate crowdin tutorial_bb9483d0:
 msgid "[WT] You can access your phone by clicking on this button."
-msgstr ""
+msgstr "[WT] Bu butona tıklayarak telefonunuza erişebilirsiniz."
 
 # game/UpdateScriptChristmasEvent.rpy:952 ## translate crowdin tutorial_b2eba79a:
 msgid "[WT] Once your phone is pulled up, you can track a girl's stats,"
@@ -1622,39 +1622,39 @@ msgstr "[WT] Telefonunuzu açtığınızda, bir kızın istatistiklerini takip e
 
 # game/UpdateScriptChristmasEvent.rpy:955 ## translate crowdin tutorial_d3037095:
 msgid "[WT] by clicking on this button right here."
-msgstr ""
+msgstr "[WT] buradaki butona tıklamanız yeterlidir."
 
 # game/UpdateScriptChristmasEvent.rpy:958 ## translate crowdin tutorial_6d29e98a:
 msgid "[WT] There are also some other handy things you can do with your phone as well."
-msgstr ""
+msgstr "[WT] Telefonunuzla yapabileceğiniz başka şeyler de var."
 
 # game/UpdateScriptChristmasEvent.rpy:961 ## translate crowdin tutorial_c65434ed:
 msgid "[WT] For those of you who support us at the \"Friend\" tier on SubscribeStar or Patreon, you can install a mod that you can access by pressing on this button."
-msgstr ""
+msgstr "[WT] SubscribeStar veya Patreon'da bizi \"Friend\" katmanında destekleyenleriniz için, bu düğmeye basarak erişebileceğiniz bir mod yükleyebilirsiniz."
 
 # game/UpdateScriptChristmasEvent.rpy:962 ## translate crowdin tutorial_c33007ea:
 msgid "[WT] The mod is pretty awesome! It allows you to change the name of your character, manipulate the stats of other characters, add and remove items, and add money to your backpack."
-msgstr ""
+msgstr "[WT] Bu mod oldukça harika! Karakterinizin adını değiştirmenize, diğer karakterlerin istatistiklerini manipüle etmenize, eşya eklemenize ve çıkarmanıza ve paranızı arttırmanızı olanak tanır."
 
 # game/UpdateScriptChristmasEvent.rpy:965 ## translate crowdin tutorial_aadd8f32:
 msgid "[WT] This button allows you to track your progress. When you click on it,"
-msgstr ""
+msgstr "[WT] Bu buton ilerlemenizi takip etmenizi sağlar. Üzerine tıkladığınızda,"
 
 # game/UpdateScriptChristmasEvent.rpy:968 ## translate crowdin tutorial_69912aa8:
 msgid "[WT] A screen that lists events will pop up."
-msgstr ""
+msgstr "[WT] olayları listeleyen bir ekran açılacaktır."
 
 # game/UpdateScriptChristmasEvent.rpy:971 ## translate crowdin tutorial_7a7c9308:
 msgid "[WT] And when you click on the three question marks \"???\", you will receive hints to help you know how to complete that event."
-msgstr ""
+msgstr "[WT] Ve üç soru işaretine \"???\" tıkladığınızda, o olayı nasıl tamamlayacağınızı bilmenize yardımcı olacak ipuçları alacaksınız."
 
 # game/UpdateScriptChristmasEvent.rpy:974 ## translate crowdin tutorial_caf2f581:
 msgid "[WT] A couple other useful buttons are on the bottom of the phone."
-msgstr ""
+msgstr "[WT] Telefonun alt kısmında birkaç kullanışlı buton daha bulunuyor."
 
 # game/UpdateScriptChristmasEvent.rpy:977 ## translate crowdin tutorial_ce5b1c76:
 msgid "[WT] This button lets you see any pictures of girls that you may take throughout the course of the game."
-msgstr ""
+msgstr "[WT] Bu buton, oyun boyunca çekebileceğiniz kızların fotoğraflarını görmenizi sağlar."
 
 # game/UpdateScriptChristmasEvent.rpy:980 ## translate crowdin tutorial_631f34ab:
 msgid "[WT] And this extremely useful button lets you move forward in time."
@@ -1682,11 +1682,11 @@ msgstr "[R] Ve bir kez daha, umarım bu hikaye berbat bir HBO dizisine dönüş�
 
 # game/UpdateScriptChristmasEvent.rpy:994 ## translate crowdin tutorial_e6d5853d:
 msgid "[R] .... So, until fairly recently, I was just a normal teenage kid like everybody else."
-msgstr ""
+msgstr "[R] .... Yakın zamana kadar ben de herkes gibi normal bir gençtim."
 
 # game/UpdateScriptChristmasEvent.rpy:995 ## translate crowdin tutorial_ce33c5bc:
 msgid "[R] Until I was awoken really early one morning by a phone call that would change my life forever..."
-msgstr ""
+msgstr "[R] Ta ki bir sabah çok erken saatlerde hayatımı sonsuza dek değişterecek bir telefonla uyanana kadar..."
 
 # game/UpdateScriptChristmasEvent.rpy:996 ## translate crowdin tutorial_c6841c25:
 msgid "[R] ..."
@@ -1694,7 +1694,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:999 ## translate crowdin tutorial_076a53a8:
 msgid "End of tutorial."
-msgstr ""
+msgstr "Öğreticinin sonu."
 
 # game/UpdateScriptChristmasEvent.rpy:1007 ## translate crowdin sidney_prego_too_0674578f:
 msgid "[GF] Oh, look! There she is, adjusting something on the Christmas tree."
