@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-26 09:08\n"
+"PO-Revision-Date: 2022-11-27 09:09\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# XXtranslate crowdin strings:XX# XX## game/character.rpy:43
 msgid "[ryan]'s Thoughts"
@@ -45,13 +45,13 @@ msgstr[1] ""
 # XX## game/character.rpy:51
 msgid "Mafia Goon"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Mafya Goon"
 msgstr[1] ""
 
 # XX## game/character.rpy:52
 msgid "Voice over Microphone"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Mikrofondan konuşan ses"
 msgstr[1] ""
 
 # XX## game/character.rpy:53
