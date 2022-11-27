@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-26 09:08\n"
+"PO-Revision-Date: 2022-11-27 09:09\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/Phone_event_screen.rpy:859 ## translate crowdin event_info_02_5cb3efa8:
 msgid "[RT] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -34,7 +34,7 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:877 ## translate crowdin event_info_04_d8815923:
 msgid "[RT] {i}I think Mom's probably pretty shook up. I should go check on her in her room.{/i}"
-msgstr ""
+msgstr "[RT] {i}Sanırım annem bayağı sarsılmıştır. Gidip onu odasında kontrol etmeliyim.{/i}"
 
 # game/Phone_event_screen.rpy:883 ## translate crowdin event_info_05_e3b3be92:
 msgid "[RT] {i}I need to complete event 4 before I can even start event 5.{/i}"
@@ -42,7 +42,7 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:885 ## translate crowdin event_info_05_9f6b4bbd:
 msgid "[RT] {i}Lauren likes to hang out in the living room in the evenings. Maybe I should go see her.{/i}"
-msgstr ""
+msgstr "[RT] {i}Lauren akşamları oturma odasında takılmayı seviyor. Belki de gidip onu görmeliyim.{/i}"
 
 # game/Phone_event_screen.rpy:891 ## translate crowdin event_info_06_b3234975:
 msgid "[RT] {i}I need to finish event 5 before I can even start event 6.{/i}"
@@ -50,7 +50,7 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:893 ## translate crowdin event_info_06_b69019fb:
 msgid "[RT] {i}I should go to the kitchen in the evening for family dinner.{/i}"
-msgstr ""
+msgstr "[RT] {i}Akşam aile yemeği için mutfağa gitmeliyim.{/i}"
 
 # game/Phone_event_screen.rpy:899 ## translate crowdin event_info_07_ba6340d4:
 msgid "[RT] {i}I need to complete event 4 before I can even start event 7.{/i}"
@@ -78,7 +78,7 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:915 ## translate crowdin event_info_08_fb2fbedc:
 msgid "[RT] {i}Mom works really hard all week. I should help her with jobs around the house on weekend mornings. She usually starts cleaning in the lounge.{/i}"
-msgstr ""
+msgstr "[RT] {i}Annem bütün hafta çok çalışıyor. Hafta sonu sabahları ev işlerinde ona yardım etmeliyim. Temizliğe genellikle salonda başlar.{/i}"
 
 # game/Phone_event_screen.rpy:921 ## translate crowdin event_info_09_600b427f:
 msgid "[RT] {i}I need to complete event 6 before I can even start event 9.{/i}"
@@ -186,7 +186,7 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1005 ## translate crowdin event_info_16_fb2fbedc:
 msgid "[RT] {i}Mom works really hard all week. I should help her with jobs around the house on weekend mornings. She usually starts cleaning in the lounge.{/i}"
-msgstr ""
+msgstr "[RT] {i}Annem bütün hafta çok çalışıyor. Hafta sonu sabahları ev işlerinde ona yardım etmeliyim. Temizliğe genellikle salonda başlar.{/i}"
 
 # game/Phone_event_screen.rpy:1011 ## translate crowdin event_info_17_5f3dd9c0:
 msgid "[RT] {i}I've placed the spycam in the bathroom. Now I just need to catch Mom in there when her libido is at it's highest (10 pts).{/i}"
@@ -398,7 +398,7 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1192 ## translate crowdin event_info_36_fb2fbedc:
 msgid "[RT] {i}Mom works really hard all week. I should help her with jobs around the house on weekend mornings. She usually starts cleaning in the lounge.{/i}"
-msgstr ""
+msgstr "[RT] {i}Annem bütün hafta çok çalışıyor. Hafta sonu sabahları ev işlerinde ona yardım etmeliyim. Temizliğe genellikle salonda başlar.{/i}"
 
 # game/Phone_event_screen.rpy:1198 ## translate crowdin event_info_37_9290b520:
 msgid "[RT] {i}I need to complete either event 28 or event 29 to start working on this event.{/i}"
