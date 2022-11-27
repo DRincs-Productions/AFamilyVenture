@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-25 09:06\n"
+"PO-Revision-Date: 2022-11-27 09:09\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/Phone_interface.rpy:265 ## translate crowdin mafia_warning_f561667c:
 msgid "[RT] {i}I can't waste time right now, the DeCapos will be here any minute.{/i}"
@@ -26,7 +26,7 @@ msgstr "[RT] {i}Şu anda okuldayım, zamanı ilerletebilmek için önce eve gitm
 
 # game/Phone_interface.rpy:280 ## translate crowdin campaign_warning_88e99dc5:
 msgid "[RT] {i}I can't waist time. I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
-msgstr ""
+msgstr "[RT] {i}Zaman kaybedemem. Okula gidip Lauren'in öğrenci birliği seçim anketinde ne yaptığına bakmalıyım.{/i}"
 
 # game/Phone_interface.rpy:477 ## translate crowdin memes_time_skip_e011db0e:
 msgid "[RT] {i}School has ended, I must return home.{/i}"
