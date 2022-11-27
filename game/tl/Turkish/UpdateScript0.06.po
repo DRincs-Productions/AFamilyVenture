@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-26 09:08\n"
+"PO-Revision-Date: 2022-11-27 09:09\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/UpdateScript0.06.rpy:715 ## translate crowdin move_in_day_31871088:
 msgid "[RT] {i}I... think I slept in... What time is it?{/i}"
@@ -3726,7 +3726,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:2760 ## translate crowdin update_six_bfasts_8d9a4b12:
 msgid "[RT] {i}It smells good in here. Should I join everybody for breakfast?{/i}"
-msgstr ""
+msgstr "[RT] {i}Burası çok güzel kokuyor. Kahvaltı için herkese katılayım mı?{/i}"
 
 # game/UpdateScript0.06.rpy:2765 ## translate crowdin update_six_bfasts_9350297d:
 msgid "[MT] {i}Oh, God!... Here it goes... what will they say about me having breakfast in nothing but my underwear?{/i}"
@@ -4054,7 +4054,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:2964 ## translate crowdin update_six_bfasts_8d9a4b12_1:
 msgid "[RT] {i}It smells good in here. Should I join everybody for breakfast?{/i}"
-msgstr ""
+msgstr "[RT] {i}Burası çok güzel kokuyor. Kahvaltı için herkese katılayım mı?{/i}"
 
 # game/UpdateScript0.06.rpy:2975 ## translate crowdin update_six_bfasts_658d822c:
 msgid "[R] So, will Mandy and Aunt Cami ever be joining us for breakfast?"
@@ -17174,7 +17174,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:9806 ## translate crowdin find_sidney_14af55a0:
 msgid "[R] Wait!"
-msgstr ""
+msgstr "[R] Bekle!"
 
 # game/UpdateScript0.06.rpy:9807 ## translate crowdin find_sidney_bc4b397e:
 msgid "[S] Oh no... What is it?"
