@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-27 09:09\n"
+"PO-Revision-Date: 2022-11-28 09:04\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/UpdateScript0.04.rpy:319 ## translate crowdin get_sidney_modeling_68a39f05:
 msgid "[RT] {i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
@@ -7134,7 +7134,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:3823 ## translate crowdin jacky_at_Laptop_dcdec28a:
 msgid "{i}{b}\"Mom's Anger +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin kızgınlığı +1\"{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:3825 ## translate crowdin jacky_at_Laptop_afe1f9c1:
 msgid "[M] [ryan]! I don't know what you think you saw, but I wasn't doing anything out of the ordinary."
@@ -7166,7 +7166,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:3835 ## translate crowdin jacky_at_Laptop_b47c24a5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin saygısı +1\"{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:3837 ## translate crowdin jacky_at_Laptop_f9d2cad6:
 msgid "[R] Oh, well that's what I wanted to talk to you about. I'm having trouble finding more sources for the Oedipus assignment."
@@ -7422,7 +7422,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:3914 ## translate crowdin jacky_at_Laptop_b4a078ed:
 msgid "[R] Mom!"
-msgstr ""
+msgstr "[R] Anne!"
 
 # game/UpdateScript0.04.rpy:3915 ## translate crowdin jacky_at_Laptop_f8e34e9c:
 msgid "[M] Sorry, that wasn't nice."
@@ -7506,7 +7506,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:3944 ## translate crowdin jacky_at_Laptop_187fa638:
 msgid "[RT] {i}Shit, that was close!{/i}"
-msgstr ""
+msgstr "[RT] {i}Siktir, bu çok yakındı!{/i}"
 
 # game/UpdateScript0.04.rpy:3945 ## translate crowdin jacky_at_Laptop_c35eda76:
 msgid "[M] So, what do you think so far?"
@@ -7702,7 +7702,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4050 ## translate crowdin bye_bobby_35885d12:
 msgid "[RT] {i}Ok, off to the warehouse!{/i}"
-msgstr ""
+msgstr "[RT] {i}İstikamet depo!{/i}"
 
 # game/UpdateScript0.04.rpy:4065 ## translate crowdin bye_bobby_1779dff4:
 msgid "[RT] {i}I wonder where he is?{/i}"
@@ -8598,7 +8598,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4452 ## translate crowdin wrshoot_81d85206:
 msgid "{i}{b}\"Sidney's Anger +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney'in kızgınlığı +2\"{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4454 ## translate crowdin wrshoot_0f7267a3:
 msgid "{i}{b}\"Sidney's Affection -1\"{/b}{/i}"
@@ -8806,7 +8806,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4544 ## translate crowdin wrshoot_7984de58:
 msgid "{i}{b}\"Sidney's Anger +5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney'in kızgınlığı +5\"{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4546 ## translate crowdin wrshoot_0f7267a3_2:
 msgid "{i}{b}\"Sidney's Affection -1\"{/b}{/i}"
@@ -8906,7 +8906,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4589 ## translate crowdin wrshoot_6c4d1572:
 msgid "{i}{b}\"Sidney's Anger +10\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney'in kızgınlığı +10\"{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4591 ## translate crowdin wrshoot_eb2dca28:
 msgid "{i}{b}\"Sidney's Affection -3\"{/b}{/i}"
@@ -9426,7 +9426,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4811 ## translate crowdin removeshorts_81d85206:
 msgid "{i}{b}\"Sidney's Anger +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney'in kızgınlığı +2\"{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4813 ## translate crowdin removeshorts_0f7267a3:
 msgid "{i}{b}\"Sidney's Affection -1\"{/b}{/i}"
@@ -10142,7 +10142,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5109 ## translate crowdin removeshirt_81d85206:
 msgid "{i}{b}\"Sidney's Anger +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney'in kızgınlığı +2\"{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5111 ## translate crowdin removeshirt_0f7267a3:
 msgid "{i}{b}\"Sidney's Affection -1\"{/b}{/i}"
@@ -10342,7 +10342,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5185 ## translate crowdin removeshirt_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney'in azgınlığı +1\"{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5188 ## translate crowdin removeshirt_f914686b:
 msgid "[S] I'm not nearly as nervous for the next photoshoot."
@@ -10726,7 +10726,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5346 ## translate crowdin showsidneytitties_81d85206:
 msgid "{i}{b}\"Sidney's Anger +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney'in kızgınlığı +2\"{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5348 ## translate crowdin showsidneytitties_0f7267a3:
 msgid "{i}{b}\"Sidney's Affection -1\"{/b}{/i}"
@@ -12226,7 +12226,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:6069 ## translate crowdin wr_gape_ac922b67:
 msgid "{i}{b}\"Sidney's Libido +10\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney'in azgınlığı +10\"{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:6071 ## translate crowdin wr_gape_a852d75a:
 msgid "[R] Yeah.... that was impressive!..."
@@ -12622,7 +12622,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:6300 ## translate crowdin wr_gape_ac922b67_1:
 msgid "{i}{b}\"Sidney's Libido +10\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney'in azgınlığı +10\"{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:6302 ## translate crowdin wr_gape_c2f46784:
 msgid "[R] Yep.... It's my new favorite tradition..."
