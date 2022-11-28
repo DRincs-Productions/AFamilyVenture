@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-27 09:09\n"
+"PO-Revision-Date: 2022-11-28 09:04\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/Phone_event_screen.rpy:859 ## translate crowdin event_info_02_5cb3efa8:
 msgid "[RT] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -62,7 +62,7 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:903 ## translate crowdin event_info_07_5fd67134:
 msgid "[RT] {i}I need to visit the first stall in the school bathroom in the afternoon.{/i}"
-msgstr ""
+msgstr "[RT] {i}Öğleden sonra okul tuvaletindeki ilk kabini ziyaret etmem gerekiyor.{/i}"
 
 # game/Phone_event_screen.rpy:905 ## translate crowdin event_info_07_bb2914ce:
 msgid "[RT] {i}Weird.... I can't finish this event until after I finish event 27.... Must be because I told Matt I didn't want his help seducing Mom.{/i}"
@@ -86,7 +86,7 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:923 ## translate crowdin event_info_09_48bf4440:
 msgid "[RT] {i}I need to sneak into Lauren's room at night and see if I can use subliminal messages on the girls.{/i}"
-msgstr ""
+msgstr "[RT] {i}Geceleri Lauren'in odasına gizlice girip kızlar üzerinde bilinçaltı mesajlar kullanıp kullanamayacağıma bakmalıyım.{/i}"
 
 # game/Phone_event_screen.rpy:925 ## translate crowdin event_info_09_b310ccef:
 msgid "[RT] {i}I need to buy some melatonin from the online store on my laptop in my bedroom and spike the tea in the kitchen.{/i}"
@@ -182,7 +182,7 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1002 ## translate crowdin event_info_16_84d22cbc:
 msgid "[RT] {i}I need to get mom to loosen up a little more. Maybe I can corrupt her with our Oedipus assignment at school.{/i}"
-msgstr ""
+msgstr "[RT] {i}Annemin biraz daha gevşemesini sağlamalıyım. Belki onu okuldaki Oedipus ödevimle bozabilirim.{/i}"
 
 # game/Phone_event_screen.rpy:1005 ## translate crowdin event_info_16_fb2fbedc:
 msgid "[RT] {i}Mom works really hard all week. I should help her with jobs around the house on weekend mornings. She usually starts cleaning in the lounge.{/i}"
@@ -286,7 +286,7 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1091 ## translate crowdin event_info_25_d26bab62:
 msgid "[RT] {i}I need to keep Mom out of the club by paying the Mafia debt for more than 3 weeks in a row. Maybe she'll reward me with some one-on-one time.{/i}"
-msgstr ""
+msgstr "[RT] {i}Mafya borcunu üç haftadan fazla üst üste ödeyerek annemi kulüpten uzak tutmalıyım. Belki beni, bire bir zaman geçirerek ödüllendirir.{/i}"
 
 # game/Phone_event_screen.rpy:1097 ## translate crowdin event_info_26_e7bc06e0:
 msgid "[RT] {i}I should keep checking the kitchen to see when Sidney will be done with Lauren's cosplay outfit.{/i}"
