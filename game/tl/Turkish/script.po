@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-27 09:09\n"
+"PO-Revision-Date: 2022-11-28 09:05\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/script.rpy:309 ## translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -342,7 +342,7 @@ msgstr "[L] [ryan]?..."
 
 # game/script.rpy:821 ## translate crowdin myroom_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı +1\"{/b}{/i}"
 
 # game/script.rpy:825 ## translate crowdin myroom_19aacb37:
 msgid "[R] Uhh.... yeah.... sorry. I was just looking for the remote under this couch cushion, and didn't realize I was that close to you until you backed up."
@@ -474,7 +474,7 @@ msgstr ""
 
 # game/script.rpy:879 ## translate crowdin myroom_64e7b164_1:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı +1\"{/b}{/i}"
 
 # game/script.rpy:963 ## translate crowdin myroomnight_9fb415aa:
 msgid "[RT] {i}My bed looks lonely without Sidney in it.{/i}"
@@ -598,7 +598,7 @@ msgstr ""
 
 # game/script.rpy:1597 ## translate crowdin sleep_287d118c:
 msgid "[S] AAHHAAHHAHHHEMMMMM..."
-msgstr "[S] AAHHAAHHAHHHEMMMMM..."
+msgstr "[S] EHHHHEEEEEMMMM..."
 
 # game/script.rpy:1600 ## translate crowdin sleep_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
@@ -606,11 +606,11 @@ msgstr ""
 
 # game/script.rpy:1602 ## translate crowdin sleep_a3c2b612:
 msgid "[L] OMG [ryan].... so Kenzie was so funny today after PE she was all like___"
-msgstr ""
+msgstr "[L] [ryan].... yani Kenzie bugün beden eğitiminden sonra çok komikti___"
 
 # game/script.rpy:1603 ## translate crowdin sleep_287d118c_1:
 msgid "[S] AAHHAAHHAHHHEMMMMM..."
-msgstr "[S] AAHHAAHHAHHHEMMMMM..."
+msgstr "[S] EHHHHEEEEEMMMM..."
 
 # game/script.rpy:1622 ## translate crowdin sleep_9746c724:
 msgid "[RT] {i}I hope Lauren was ok on her own, I should just go check on her before I go to bed.{/i}"
@@ -642,7 +642,7 @@ msgstr ""
 
 # game/script.rpy:2000 ## translate crowdin sleep_136da53b:
 msgid "{i}\"Money -$1,000\"{/i}"
-msgstr ""
+msgstr "{i}\"Paran -$1,000\"{/i}"
 
 # game/script.rpy:2003 ## translate crowdin sleep_e8aca4c4:
 msgid "{i}{b}\"Mom's Affection +10\"{/b}{/i}"
@@ -834,7 +834,7 @@ msgstr "[L] Ve sendeki de büyük."
 
 # game/script.rpy:2236 ## translate crowdin wakeupryan_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı +1\"{/b}{/i}"
 
 # game/script.rpy:2237 ## translate crowdin wakeupryan_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
@@ -878,7 +878,7 @@ msgstr "[L] Ve sendeki de büyük."
 
 # game/script.rpy:2255 ## translate crowdin wakeupryan_0d95a840:
 msgid "{i}{b}\"Lauren's Libido +5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı +5\"{/b}{/i}"
 
 # game/script.rpy:2256 ## translate crowdin wakeupryan_fb7fef67_1:
 msgid "[RT] {i}So she did dream about me last night. I'll have to keep whispering suggestions at night.{/i}"
@@ -1018,7 +1018,7 @@ msgstr "[L] [ryan]?..."
 
 # game/script.rpy:2549 ## translate crowdin loungeevening_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı +1\"{/b}{/i}"
 
 # game/script.rpy:2553 ## translate crowdin loungeevening_19aacb37:
 msgid "[R] Uhh.... yeah.... sorry. I was just looking for the remote under this couch cushion, and didn't realize I was that close to you until you backed up."
@@ -1150,11 +1150,11 @@ msgstr ""
 
 # game/script.rpy:2607 ## translate crowdin loungeevening_64e7b164_1:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı +1\"{/b}{/i}"
 
 # game/script.rpy:2616 ## translate crowdin loungeevening_20e78f80:
 msgid "[RT] {i}I wonder if Lauren would mind if I joined her.{/i}"
-msgstr ""
+msgstr "[RT] {i}Acaba Lauren ona katılmamı sorun eder mi?{/i}"
 
 # game/script.rpy:2620 ## translate crowdin loungeevening_82478000:
 msgid "[R] Do you mind if I watch some TV with you?"
@@ -1170,7 +1170,7 @@ msgstr ""
 
 # game/script.rpy:2632 ## translate crowdin loungeevening_e85188a6:
 msgid "[L] Hey [ryan], do you want to watch something with me?"
-msgstr ""
+msgstr "[L] Hey [ryan], benimle bir şeyler izlemek ister misin?"
 
 # game/script.rpy:2633 ## translate crowdin loungeevening_9fb4357b_1:
 msgid "[R] Ok, what are you watching?"
@@ -1246,11 +1246,11 @@ msgstr ""
 
 # game/script.rpy:2661 ## translate crowdin loungeevening_64e7b164_2:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı +1\"{/b}{/i}"
 
 # game/script.rpy:2671 ## translate crowdin loungeevening_ec117b46:
 msgid "[RT] {i}I wonder If Lauren would mind if I joined her?{/i}"
-msgstr ""
+msgstr "[RT] {i}Acaba Lauren ona katılmamı sorun eder mi?{/i}"
 
 # game/script.rpy:2675 ## translate crowdin loungeevening_82478000_1:
 msgid "[R] Do you mind if I watch some TV with you?"
@@ -1266,7 +1266,7 @@ msgstr ""
 
 # game/script.rpy:2687 ## translate crowdin loungeevening_e85188a6_1:
 msgid "[L] Hey [ryan], do you want to watch something with me?"
-msgstr ""
+msgstr "[L] Hey [ryan], benimle bir şeyler izlemek ister misin?"
 
 # game/script.rpy:2688 ## translate crowdin loungeevening_9fb4357b_2:
 msgid "[R] Ok, what are you watching?"
@@ -1274,15 +1274,15 @@ msgstr "[R] Tamam, ne izliyorsun?"
 
 # game/script.rpy:2689 ## translate crowdin loungeevening_1336b304:
 msgid "[L] Let's watch the next episode of \"Game of Thots\"!"
-msgstr ""
+msgstr "[L] Game of Thots'un bir sonraki bölümünü izleyelim!"
 
 # game/script.rpy:2698 ## translate crowdin loungeevening_2dc32bcb:
 msgid "[L] Does the brother and sister have to fuck each other in every episode?"
-msgstr ""
+msgstr "[L] Kardeşler her bölümde sikişmek zorundalar mı?"
 
 # game/script.rpy:2699 ## translate crowdin loungeevening_64e7b164_3:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı +1\"{/b}{/i}"
 
 # game/script.rpy:2724 ## translate crowdin loungeeveningweekend_3959ba15:
 msgid "[RT] {i}What did I just walk in on? It's like Mom and Lauren are purposely trying to be cock-teases lately.{/i}"
@@ -1374,7 +1374,7 @@ msgstr "[L] [ryan]?..."
 
 # game/script.rpy:2767 ## translate crowdin loungeeveningweekend_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı +1\"{/b}{/i}"
 
 # game/script.rpy:2771 ## translate crowdin loungeeveningweekend_19aacb37:
 msgid "[R] Uhh.... yeah.... sorry. I was just looking for the remote under this couch cushion, and didn't realize I was that close to you until you backed up."
@@ -1506,11 +1506,11 @@ msgstr ""
 
 # game/script.rpy:2825 ## translate crowdin loungeeveningweekend_64e7b164_1:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı +1\"{/b}{/i}"
 
 # game/script.rpy:2834 ## translate crowdin loungeeveningweekend_20e78f80:
 msgid "[RT] {i}I wonder if Lauren would mind if I joined her.{/i}"
-msgstr ""
+msgstr "[RT] {i}Acaba Lauren ona katılmamı sorun eder mi?{/i}"
 
 # game/script.rpy:2838 ## translate crowdin loungeeveningweekend_82478000:
 msgid "[R] Do you mind if I watch some TV with you?"
@@ -1526,7 +1526,7 @@ msgstr ""
 
 # game/script.rpy:2850 ## translate crowdin loungeeveningweekend_e85188a6:
 msgid "[L] Hey [ryan], do you want to watch something with me?"
-msgstr ""
+msgstr "[L] Hey [ryan], benimle bir şeyler izlemek ister misin?"
 
 # game/script.rpy:2851 ## translate crowdin loungeeveningweekend_9fb4357b_1:
 msgid "[R] Ok, what are you watching?"
@@ -1602,11 +1602,11 @@ msgstr ""
 
 # game/script.rpy:2879 ## translate crowdin loungeeveningweekend_64e7b164_2:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı +1\"{/b}{/i}"
 
 # game/script.rpy:2889 ## translate crowdin loungeeveningweekend_ec117b46:
 msgid "[RT] {i}I wonder If Lauren would mind if I joined her?{/i}"
-msgstr ""
+msgstr "[RT] {i}Acaba Lauren ona katılmamı sorun eder mi?{/i}"
 
 # game/script.rpy:2893 ## translate crowdin loungeeveningweekend_82478000_1:
 msgid "[R] Do you mind if I watch some TV with you?"
@@ -1622,7 +1622,7 @@ msgstr ""
 
 # game/script.rpy:2905 ## translate crowdin loungeeveningweekend_e85188a6_1:
 msgid "[L] Hey [ryan], do you want to watch something with me?"
-msgstr ""
+msgstr "[L] Hey [ryan], benimle bir şeyler izlemek ister misin?"
 
 # game/script.rpy:2906 ## translate crowdin loungeeveningweekend_9fb4357b_2:
 msgid "[R] Ok, what are you watching?"
@@ -1630,15 +1630,15 @@ msgstr "[R] Tamam, ne izliyorsun?"
 
 # game/script.rpy:2907 ## translate crowdin loungeeveningweekend_1336b304:
 msgid "[L] Let's watch the next episode of \"Game of Thots\"!"
-msgstr ""
+msgstr "[L] Game of Thots'un bir sonraki bölümünü izleyelim!"
 
 # game/script.rpy:2916 ## translate crowdin loungeeveningweekend_2dc32bcb:
 msgid "[L] Does the brother and sister have to fuck each other in every episode?"
-msgstr ""
+msgstr "[L] Kardeşler her bölümde sikişmek zorundalar mı?"
 
 # game/script.rpy:2917 ## translate crowdin loungeeveningweekend_64e7b164_3:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı +1\"{/b}{/i}"
 
 # game/script.rpy:2936 ## translate crowdin loungenight_03188596:
 msgid "[RT] {i}I better not push it any further tonight.{/i}"
@@ -1894,7 +1894,7 @@ msgstr ""
 
 # game/script.rpy:3351 ## translate crowdin laurenhornybathroom_de144e4d:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/script.rpy:3360 ## translate crowdin laurenhornybathroom_c591abd8:
 msgid "[RT] {i}Lauren is taking her early morning shower. Wait.... did I just hear some moaning?, uggh I've got to find a way to see what's going on in there.{/i}"
@@ -1902,7 +1902,7 @@ msgstr ""
 
 # game/script.rpy:3361 ## translate crowdin laurenhornybathroom_de144e4d_1:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/script.rpy:3377 ## translate crowdin bathmorning_debf2726:
 msgid "[RT] {i}Sidney must be taking a shower, Mom and Lauren already left for school.{/i}"
@@ -2182,7 +2182,7 @@ msgstr ""
 
 # game/script.rpy:3812 ## translate crowdin kitcheneveningweekend_fbc81cf8:
 msgid "{i}{b}\"Mom's Submission +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin saygısı +2\"{/b}{/i}"
 
 # game/script.rpy:3815 ## translate crowdin kitcheneveningweekend_1a4b1221:
 msgid "[M] Oh, honey! You don't need to take that kind of responsibility on yourself."
@@ -2374,7 +2374,7 @@ msgstr "[L] [ryan]?..."
 
 # game/script.rpy:3932 ## translate crowdin dishes_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı +1\"{/b}{/i}"
 
 # game/script.rpy:3936 ## translate crowdin dishes_19aacb37:
 msgid "[R] Uhh.... yeah.... sorry. I was just looking for the remote under this couch cushion, and didn't realize I was that close to you until you backed up."
@@ -2506,7 +2506,7 @@ msgstr ""
 
 # game/script.rpy:3990 ## translate crowdin dishes_64e7b164_1:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı +1\"{/b}{/i}"
 
 # game/script.rpy:3999 ## translate crowdin dishes_db8ab9cc_1:
 msgid "[RT] {i}No dishes to do right now.{/i}"
@@ -2530,7 +2530,7 @@ msgstr ""
 
 # game/script.rpy:4032 ## translate crowdin sidneycomeshome_0d6916a8:
 msgid "[M] Hey honey, come sit down. We're having pizza for dinner."
-msgstr ""
+msgstr "[M] Tatlım, gel otur. Akşam yemeğinde pizza yiyeceğiz."
 
 # game/script.rpy:4037 ## translate crowdin sidneycomeshome_9e491a79:
 msgid "[M] I hope you guys are hungry."
@@ -2542,11 +2542,11 @@ msgstr ""
 
 # game/script.rpy:4043 ## translate crowdin sidneycomeshome_a9c697ba:
 msgid "[M] Oh, my day was fine. How did you think my lesson on Oedipu___"
-msgstr ""
+msgstr "[M] Günüm güzel geçti. Oedipu hakkındaki dersimi nasıl buldunuz___"
 
 # game/script.rpy:4044 ## translate crowdin sidneycomeshome_287d118c:
 msgid "[S] AAHHAAHHAHHHEMMMMM..."
-msgstr "[S] AAHHAAHHAHHHEMMMMM..."
+msgstr "[S] EHHHHEEEEEMMMM..."
 
 # game/script.rpy:4047 ## translate crowdin sidneycomeshome_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
@@ -2554,71 +2554,71 @@ msgstr ""
 
 # game/script.rpy:4049 ## translate crowdin sidneycomeshome_a3c2b612:
 msgid "[L] OMG [ryan].... so Kenzie was so funny today after PE she was all like___"
-msgstr ""
+msgstr "[L] [ryan].... yani Kenzie bugün beden eğitiminden sonra çok komikti___"
 
 # game/script.rpy:4050 ## translate crowdin sidneycomeshome_287d118c_1:
 msgid "[S] AAHHAAHHAHHHEMMMMM..."
-msgstr "[S] AAHHAAHHAHHHEMMMMM..."
+msgstr "[S] EHHHHEEEEEMMMM..."
 
 # game/script.rpy:4057 ## translate crowdin sidneyenters_69bd6c2a:
 msgid "[M] Oh my God, look everyone, Sidney is home!"
-msgstr ""
+msgstr "[M] Aman Tanrım, bakın, Sidney eve dönmüş!"
 
 # game/script.rpy:4058 ## translate crowdin sidneyenters_3af7a138:
 msgid "[M] It's so good to see you!"
-msgstr ""
+msgstr "[M] Seni görmek çok güzel!"
 
 # game/script.rpy:4059 ## translate crowdin sidneyenters_4c98659f:
 msgid "[M] How's everything going at school?"
-msgstr ""
+msgstr "[M] Okulda işler nasıl gidiyor?"
 
 # game/script.rpy:4062 ## translate crowdin sidneyenters_dfa5726b:
 msgid "[S] How's everything going at school?"
-msgstr ""
+msgstr "[S] Okulda işler ne..."
 
 # game/script.rpy:4063 ## translate crowdin sidneyenters_3e09f216:
 msgid "[S] How's everything going at school!!!?"
-msgstr ""
+msgstr "[S] Okulda işler nasıl mı gidiyor!!!?"
 
 # game/script.rpy:4064 ## translate crowdin sidneyenters_53fb7bcb:
 msgid "[S] If you'd answer your phone you would know how everything is going at school!"
-msgstr ""
+msgstr "[S] Telefonuna cevap verseydin okulda her şeyin nasıl gittiğini bilirdin!"
 
 # game/script.rpy:4065 ## translate crowdin sidneyenters_80cb932b:
 msgid "[M] I'm sorry honey, but I've been a little indisposed!"
-msgstr ""
+msgstr "[M] Üzgünüm tatlım, ama biraz rahatsızdım!"
 
 # game/script.rpy:4066 ## translate crowdin sidneyenters_babffc11:
 msgid "[L] {i}(whispers){/i} More like drunk!"
-msgstr ""
+msgstr "[L] {i}(fısıldar){/i} Daha çok sarhoş gibi!"
 
 # game/script.rpy:4067 ## translate crowdin sidneyenters_50446e26:
 msgid "[R] {i}(whispers){/i} Lauren, shut up!"
-msgstr ""
+msgstr "[R] {i}(fısıldar){/i} Lauren, kapa çeneni!"
 
 # game/script.rpy:4068 ## translate crowdin sidneyenters_abf50906:
 msgid "[S] And what about you Lauren? Why did you keep ignoring my calls?"
-msgstr ""
+msgstr "[S] Peki ya sen Lauren? Neden aramalarımı görmezden geliyorsun?"
 
 # game/script.rpy:4069 ## translate crowdin sidneyenters_83bdf0ff:
 msgid "[L] My friend Brittney has been going through a messy breakup and has needed my support!"
-msgstr ""
+msgstr "[L] Arkadaşım Brittney karmaşık bir ayrılık sürecinden geçiyor ve desteğime ihtiyacı var!"
 
 # game/script.rpy:4070 ## translate crowdin sidneyenters_d67b9870:
 msgid "[L] I haven't exactly had time to have any long converstations with anyone else."
-msgstr ""
+msgstr "[L] Başka biriyle uzun uzun sohbet edecek zamanım olmadı."
 
 # game/script.rpy:4071 ## translate crowdin sidneyenters_a3b553f9:
 msgid "[S] Long conversations!? I just needed you to get Mom for me!"
-msgstr ""
+msgstr "[S] Uzun uzun sohbet mi!? Sadece benim için annemi bulmana ihtiyacım vardı!"
 
 # game/script.rpy:4072 ## translate crowdin sidneyenters_71d70d32:
 msgid "[R] You could have called me."
-msgstr ""
+msgstr "[R] Beni arayabilirdin."
 
 # game/script.rpy:4073 ## translate crowdin sidneyenters_e0a524df:
 msgid "[S] I never call you. I don't even think I have your number!"
-msgstr ""
+msgstr "[S] Seni hiç aramadım. Numaranın bende olduğunu bile sanmıyorum!"
 
 # game/script.rpy:4074 ## translate crowdin sidneyenters_e4c8e9ae:
 msgid "[RT] {i}Ouch.... {/i}"
@@ -2626,43 +2626,43 @@ msgstr ""
 
 # game/script.rpy:4075 ## translate crowdin sidneyenters_cd5fea1e:
 msgid "[M] Honey! Please just sit and try to calm down. Then you can tell us what's wrong."
-msgstr ""
+msgstr "[M] Tatlım! Lütfen otur ve sakinleşmeye çalış. Sonra bize sorunun ne olduğunu söyleyebilirsin."
 
 # game/script.rpy:4078 ## translate crowdin sidneyenters_eaa0af85:
 msgid "[S] I've been kicked out of school!"
-msgstr ""
+msgstr "[S] Okuldan siktir edildim!"
 
 # game/script.rpy:4079 ## translate crowdin sidneyenters_d8bf5ca9:
 msgid "[M] What?"
-msgstr ""
+msgstr "[M] Ne?"
 
 # game/script.rpy:4080 ## translate crowdin sidneyenters_095eb3d9:
 msgid "[S] They said the check for this coming semester's tuition bounced, and they can't keep on students who don't pay their bills."
-msgstr ""
+msgstr "[S] Bu dönemin okul harcını kontrol ettiklerini söylediler, faturalarını ödemeyen öğrencileri okulda tutamayacaklarını söylediler."
 
 # game/script.rpy:4081 ## translate crowdin sidneyenters_ff118139:
 msgid "[S] They kicked me out of the dorm, took away my meal plan."
-msgstr ""
+msgstr "[S] Beni yurttan attılar ve yemek planımı elimden aldılar."
 
 # game/script.rpy:4082 ## translate crowdin sidneyenters_6b1513d1:
 msgid "[S] It was soooo embarassing!"
-msgstr ""
+msgstr "[S] Çooook utanç vericiydi!"
 
 # game/script.rpy:4083 ## translate crowdin sidneyenters_b8b4ebc5:
 msgid "[S] So, I tried to call Dad because he takes care of my tuition and housing."
-msgstr ""
+msgstr "[S] Ben de babamı aramaya çalıştım çünkü okul ve ev masraflarımı o karşılıyordu."
 
 # game/script.rpy:4084 ## translate crowdin sidneyenters_12ce0aa8:
 msgid "[S] But all I get when I call Dad is a message that his phone's been disconnected.!"
-msgstr ""
+msgstr "[S] Ama babamı aradığımda tek aldığım mesaj telefonunun kapalı olduğuydu.!"
 
 # game/script.rpy:4085 ## translate crowdin sidneyenters_565f325e:
 msgid "[S] Mom? Where's Dad and why can't I get a hold of him?"
-msgstr ""
+msgstr "[S] Anne? Babam nerede ve neden ona ulaşamıyorum?"
 
 # game/script.rpy:4088 ## translate crowdin sidneyenters_7f9b9fdc:
 msgid "Mom tells Sidney about the events that took place over the weekend."
-msgstr ""
+msgstr "Annem, Sidney'e hafta sonu olanları anlatır."
 
 # game/script.rpy:4089 ## translate crowdin sidneyenters_0cecc919:
 msgid "10 minutes later."
@@ -2670,135 +2670,135 @@ msgstr "10 dakika sonra."
 
 # game/script.rpy:4092 ## translate crowdin sidneyenters_072c65cc:
 msgid "[S] Wow! That is unbelievable! It sounds like a bad plotline for a crappy Mafia movie, or a bad computer game!"
-msgstr ""
+msgstr "[S] Vay canına! Bu inanılmaz! Kulağa berbat bir mafya filmi ya da kötü bir bilgisayar oyunu için kötü bir olay örgüsü gibi geliyor!"
 
 # game/script.rpy:4093 ## translate crowdin sidneyenters_7c84bc24:
 msgid "[M] Oh yes!"
-msgstr ""
+msgstr "[M] Ah evet!"
 
 # game/script.rpy:4094 ## translate crowdin sidneyenters_c58c6abc:
 msgid "[L] Absolutely!"
-msgstr ""
+msgstr "[L] Kesinlikle!"
 
 # game/script.rpy:4095 ## translate crowdin sidneyenters_f90cfd1d:
 msgid "[R] The worst!"
-msgstr ""
+msgstr "[R] En kötüsü!"
 
 # game/script.rpy:4096 ## translate crowdin sidneyenters_ff85265e:
 msgid "[S] So would it help if I came and served drinks with you at your weekend Mafia jo..."
-msgstr ""
+msgstr "[S] Hafta sonu mafya toplantınıza gelip seninle içki servisi yapmamın bir faydası olur m..."
 
 # game/script.rpy:4097 ## translate crowdin sidneyenters_e58e04c6:
 msgid "[M] NOOO!.... No no.... no.... thank you. I don't want my girls around the Mafia type men."
-msgstr ""
+msgstr "[M] HAYIR!.... Hayır.... hayır.... teşekkürler. Kızlarımı mafya tipi erkeklerin etrafında istemiyorum."
 
 # game/script.rpy:4100 ## translate crowdin sidneyenters_dd9d6842:
 msgid "[L] You mean Mafia type men, as in men like Dad?"
-msgstr ""
+msgstr "[L] Mafya tipi adamlardan mı bahsediyorsun, babam gibi adamlardan mı?"
 
 # game/script.rpy:4101 ## translate crowdin sidneyenters_54d34ad9:
 msgid "[M] No, your dad isn't in the Mafia. He just works sometimes with the Mafia."
-msgstr ""
+msgstr "[M] Hayır, baban mafya değil. Sadece bazen mafya ile çalışıyor."
 
 # game/script.rpy:4102 ## translate crowdin sidneyenters_e3112721:
 msgid "[M] Anyways, it goes to show that crime doesn't pay."
-msgstr ""
+msgstr "[M] Her neyse, bu da gösteriyor ki suçun karşılığı yok."
 
 # game/script.rpy:4103 ## translate crowdin sidneyenters_9cd7fc4b:
 msgid "[M] Honey, I will feel much better if you can find a better way to make money than working at your father's warehouse."
-msgstr ""
+msgstr "[M] Tatlım, para kazanmak için babanın deposunda çalışmaktan daha iyi bir yol bulabilirsen kendimi çok daha iyi hissedeceğim."
 
 # game/script.rpy:4104 ## translate crowdin sidneyenters_a6613a93:
 msgid "[R] Yeah, well I'm trying to figure something else out, so I'll let you know when I do."
-msgstr ""
+msgstr "[R] Evet, başka bir şey bulmaya çalışıyorum, bulduğumda size haber ederim."
 
 # game/script.rpy:4105 ## translate crowdin sidneyenters_2c0805ea:
 msgid "[L] Well, nobody hold your breath."
-msgstr ""
+msgstr "[L] Seni tutan yok."
 
 # game/script.rpy:4106 ## translate crowdin sidneyenters_fb8bb52b:
 msgid "[R] Suck a dick!"
-msgstr ""
+msgstr "[R] Sikimi ye!"
 
 # game/script.rpy:4107 ## translate crowdin sidneyenters_abbca5c9:
 msgid "[M] [ryan]! Language! Please!"
-msgstr ""
+msgstr "[M] [ryan]! Ağzından çıkanlara dikkat et! Lütfen!"
 
 # game/script.rpy:4108 ## translate crowdin sidneyenters_ca7862cc:
 msgid "[S] So can I have my old bedroom back?"
-msgstr ""
+msgstr "[S] Eski yatak odamı geri alabilir miyim?"
 
 # game/script.rpy:4109 ## translate crowdin sidneyenters_376c40e4:
 msgid "[L] You mean my bedroom? No way! I'm not moving back in with [ryan], we're too old now. Plus I think [ryan] is kind of a pervert."
-msgstr ""
+msgstr "[L] Yatak odamı mı kastediyorsun? Asla olmaz! [ryan] yanına geri taşınmayacağım, artık çok yaşlıyız. Ayrıca bence [ryan] sapık."
 
 # game/script.rpy:4110 ## translate crowdin sidneyenters_6272c570:
 msgid "[R] No I'm not!"
-msgstr ""
+msgstr "[R] Hayır değilim!"
 
 # game/script.rpy:4111 ## translate crowdin sidneyenters_3142c448:
 msgid "[RT] {i}She's got me pegged.{/i}"
-msgstr ""
+msgstr "[RT] {i}Beni yakaladı.{/i}"
 
 # game/script.rpy:4114 ## translate crowdin sidneyenters_c19ed7b0:
 msgid "[M] No, Sidney is right. He and Lauren have matured too much to share a room now. You're going to have to move into Lauren's room."
-msgstr ""
+msgstr "[M] Hayır, Sidney haklı. O ve Lauren artık aynı odayı paylaşamayacak kadar olgunlaştılar. Lauren'in odasına taşınmak zorunda kalacaksın."
 
 # game/script.rpy:4115 ## translate crowdin sidneyenters_a21ba7d1:
 msgid "[L] But Mom, we got rid of her bed."
-msgstr ""
+msgstr "[L] Ama anne, biz onun yatağından kurtulduk."
 
 # game/script.rpy:4116 ## translate crowdin sidneyenters_cc364483:
 msgid "[M] Yes, and bought you a nice big queen size bed. You're going to have to share it with Sidney."
-msgstr ""
+msgstr "[M] Evet, ve sana güzel bir büyük boy yatak aldım. Sidney ile paylaşmak zorunda kalacaksın."
 
 # game/script.rpy:4117 ## translate crowdin sidneyenters_1a769d66:
 msgid "[L] But, Mom..."
-msgstr ""
+msgstr "[L] Ama anne..."
 
 # game/script.rpy:4118 ## translate crowdin sidneyenters_9ed76fa3:
 msgid "[M] We all have to make sacrifices."
-msgstr ""
+msgstr "[M] Hepimiz fedakarlık yapmak zorundayız."
 
 # game/script.rpy:4119 ## translate crowdin sidneyenters_ea3c09e9:
 msgid "[L] Ok, fine."
-msgstr ""
+msgstr "[L] Peki, tamam."
 
 # game/script.rpy:4120 ## translate crowdin sidneyenters_f62981e5:
 msgid "[M] Now let's eat before our food gets any colder."
-msgstr ""
+msgstr "[M] Yemeğimiz daha fazla soğumadan yiyelim."
 
 # game/script.rpy:4131 ## translate crowdin spikethetea_7e3f5247:
 msgid "[RT] {i}Ok, I have the melatonin, now I need to figure out how to drug the girls without drugging myself.{/i}"
-msgstr ""
+msgstr "[RT] {i}Tamam, melatonini aldım, şimdi kendimi uyuşturmadan kızları nasıl uyuşturacağımı bulmam gerekiyor.{/i}"
 
 # game/script.rpy:4136 ## translate crowdin spikethetea_5f7b9f0e:
 msgid "[RT] {i}Ok, coffee? No.... I drink that.{/i}"
-msgstr ""
+msgstr "[RT] {i}Tamam, kahve? Hayır.... Onu içerim.{/i}"
 
 # game/script.rpy:4137 ## translate crowdin spikethetea_28bcf29f:
 msgid "[RT] {i}Sugar?.... No.... {/i}"
-msgstr ""
+msgstr "[RT] {i}Şeker mi?.... Hayır.... {/i}"
 
 # game/script.rpy:4138 ## translate crowdin spikethetea_4fb42b2d:
 msgid "[RT] {i}Tea?.... Perfect.{/i}"
-msgstr ""
+msgstr "[RT] {i}Çay?.... Mükemmel.{/i}"
 
 # game/script.rpy:4139 ## translate crowdin spikethetea_b9f07e22:
 msgid "[RT] {i}All the girls drink a cup of tea before bed.{/i}"
-msgstr ""
+msgstr "[RT] {i}Bütün kızlar yatmadan önce bir fincan çay içerler.{/i}"
 
 # game/script.rpy:4140 ## translate crowdin spikethetea_dc8c192c:
 msgid "[RT] {i}I've just got to grind it up, and mix it in.{/i}"
-msgstr ""
+msgstr "[RT] {i}Sadece öğütüp karıştırmam gerekiyor.{/i}"
 
 # game/script.rpy:4143 ## translate crowdin spikethetea_fd89779a:
 msgid "[RT] {i}Now I just wait for tonight to see how well it works.{/i}"
-msgstr ""
+msgstr "[RT] {i}Şimdi ne kadar iyi çalıştığını görmek için bu geceyi bekleyeceğim.{/i}"
 
 # game/script.rpy:4156 ## translate crowdin sidneyinthekitchen_0e7867d6:
 msgid "[S] What do you want pervert?"
-msgstr ""
+msgstr "[S] Ne istiyorsun sapık?"
 
 # game/script.rpy:4157 ## translate crowdin sidneyinthekitchen_b5015d3a:
 msgid "[R] I just wanted to talk with you."
@@ -3150,7 +3150,7 @@ msgstr ""
 
 # game/script.rpy:4362 ## translate crowdin sidneyinthekitchencontinued_6c4d1572:
 msgid "{i}{b}\"Sidney's Anger +10\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney'in kızgınlığı +10\"{/b}{/i}"
 
 # game/script.rpy:4367 ## translate crowdin sidneyinthekitchencontinued_9dc4e7d3:
 msgid "[R] I'm sorry, I was just looking down because your laughing embarassed me."
@@ -3166,7 +3166,7 @@ msgstr ""
 
 # game/script.rpy:4370 ## translate crowdin sidneyinthekitchencontinued_7984de58:
 msgid "{i}{b}\"Sidney's Anger +5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney'in kızgınlığı +5\"{/b}{/i}"
 
 # game/script.rpy:4372 ## translate crowdin sidneyinthekitchencontinued_19e07b2e:
 msgid "[R] No I wouldn't stare at your lovely.... I mean..."
@@ -3270,7 +3270,7 @@ msgstr ""
 
 # game/script.rpy:4412 ## translate crowdin sidneyinthekitchencontinued_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney'in azgınlığı +1\"{/b}{/i}"
 
 # game/script.rpy:4442 ## translate crowdin momearlymorning_902e1c33:
 msgid "[RT] {i}She's always got her door locked in the morning when she does yoga and gets ready for the day. If only there was some way to see her.{/i}"
@@ -3606,23 +3606,23 @@ msgstr ""
 
 # game/script.rpy:4704 ## translate crowdin momsneakingnight_89241814:
 msgid "[RT] {i}Not much I can do until I find and get rid of that bathrobe.{/i}"
-msgstr ""
+msgstr "[RT] {i}O geceliği bulup kurtulana kadar yapabileceğim pek bir şey yok.{/i}"
 
 # game/script.rpy:4710 ## translate crowdin momsneakingnight_c7028dcb:
 msgid "[RT] {i}I don't think the subliminal messages are having any more effect, I'll have to think of something else to make her more submissive.{/i}"
-msgstr ""
+msgstr "[RT] {i}Bilinçaltı mesajların daha fazla etkisi olduğunu sanmıyorum, onu daha itaatkar hale getirmek için başka bir şey düşünmem gerekecek.{/i}"
 
 # game/script.rpy:4711 ## translate crowdin momsneakingnight_b51a234a:
 msgid "[RT] {i}With her in such a deep sleep, I could probably get away with a few naughty pranks.{/i}"
-msgstr ""
+msgstr "[RT] {i}O bu kadar derin bir uykudayken, muhtemelen birkaç yaramazlık yapabilirim.{/i}"
 
 # game/script.rpy:4712 ## translate crowdin momsneakingnight_06d7cc24:
 msgid "[RT] {i}That bathrobe might make things a little bit difficult though.{/i}"
-msgstr ""
+msgstr "[RT] {i}Üstüne giydiği gecelik işleri biraz zorlaştırabilir ama.{/i}"
 
 # game/script.rpy:4713 ## translate crowdin momsneakingnight_678aeeec:
 msgid "[RT] {i}I Need to find where she keeps it when she's not in the room... I'll have to come back and look around later.{/i}"
-msgstr ""
+msgstr "[RT] {i}Odada olmadığı zamanlarda nereye koyduğunu bulmalıyım. Daha sonra gelip etrafa bakmam gerekecek.{/i}"
 
 # game/script.rpy:4720 ## translate crowdin momsneakingnight_4c712566:
 msgid "[RT] {i}Oh there she is! The object of my desire!{/i}"
@@ -3682,7 +3682,7 @@ msgstr "[R] {i}(fısıltılı){/i} \"[ryan] evin erkeği olmalı.... \" \"[ryan]
 
 # game/script.rpy:4753 ## translate crowdin momsneakingnight_b47c24a5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin saygısı +1\"{/b}{/i}"
 
 # game/script.rpy:4755 ## translate crowdin momsneakingnight_3939be26:
 msgid "[RT] {i}Ok, I've got to call it a night, my legs are asleep.{/i}"
@@ -3690,11 +3690,11 @@ msgstr "[RT] {i}Tamam, bu gecelik bu kadar yeter, bacaklarım uyuştu.{/i}"
 
 # game/script.rpy:4770 ## translate crowdin momsneakingnight_bc96e080:
 msgid "[RT] {i}I hope I don't wake her!{/i}"
-msgstr ""
+msgstr "[RT] {i}Umarım onu uyandırmam!{/i}"
 
 # game/script.rpy:4775 ## translate crowdin momsneakingnight_12a01963:
 msgid "[RT] {i}Ok, let's try the subliminal messages again.{/i}"
-msgstr ""
+msgstr "[RT] {i}Tamam, bilinçaltı mesajlarını tekrar deneyelim.{/i}"
 
 # game/script.rpy:4781 ## translate crowdin momsneakingnight_d45198c3_2:
 msgid "[R] {i}(Whispering){/i} \"[ryan] should be man of the house.... \" \"[ryan] should be man of the house.... \" \"[ryan] should be man of the house.... \" \"[ryan] should be man of the house.... \""
@@ -3710,7 +3710,7 @@ msgstr "[R] {i}(fısıltılı){/i} \"[ryan] evin erkeği olmalı.... \" \"[ryan]
 
 # game/script.rpy:4792 ## translate crowdin momsneakingnight_b47c24a5_1:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin saygısı +1\"{/b}{/i}"
 
 # game/script.rpy:4795 ## translate crowdin momsneakingnight_3939be26_1:
 msgid "[RT] {i}Ok, I've got to call it a night, my legs are asleep.{/i}"
@@ -3718,11 +3718,11 @@ msgstr "[RT] {i}Tamam, bu gecelik bu kadar yeter, bacaklarım uyuştu.{/i}"
 
 # game/script.rpy:4817 ## translate crowdin momangryroom_47411f1c:
 msgid "[RT] {i}She locked her door! Mom must still be pissed off. I could take a little peek and see what she's doing.{/i}"
-msgstr ""
+msgstr "[RT] {i}Kapısını kilitlemiş! Annem hâlâ kızgın olmalı. Küçük bir göz atıp ne yaptığına bakabilirim.{/i}"
 
 # game/script.rpy:4828 ## translate crowdin momangryroom_5e307d8c:
 msgid "[RT] {i}She locked her door! Mom must still be pissed off. I guess I better just let her sleep.{/i}"
-msgstr ""
+msgstr "[RT] {i}Kapısını kilitlemiş! Annem hala kızgın olmalı. Sanırım uyumasına izin versem iyi olacak.{/i}"
 
 # game/script.rpy:4833 ## translate crowdin momangryroom_06ed2822:
 msgid "[RT] {i}She's always got her room locked in the morning while she does yoga and gets ready.... I wonder if she's still mad at me though.{/i}"
@@ -3746,7 +3746,7 @@ msgstr ""
 
 # game/script.rpy:4851 ## translate crowdin momangryroom_42cbd168:
 msgid "[M] Thank you I love chocolate!"
-msgstr ""
+msgstr "[M] Teşekkür ederim, çikolataya bayılırım!"
 
 # game/script.rpy:4852 ## translate crowdin momangryroom_5d471fb6:
 msgid "{i}{b}\"Mom's Anger -2\"{/b}{/i}"
@@ -3782,7 +3782,7 @@ msgstr ""
 
 # game/script.rpy:4893 ## translate crowdin momangryroom_567898de:
 msgid "{i}\"Throws them in her trash\"{/i}"
-msgstr ""
+msgstr "{i}\"Onları çöpe atıyor!\"{/i}"
 
 # game/script.rpy:4894 ## translate crowdin momangryroom_b5494025:
 msgid "[M] I'm sorry, I just can't keep them."
@@ -3798,11 +3798,11 @@ msgstr ""
 
 # game/script.rpy:4897 ## translate crowdin momangryroom_b8a760c3:
 msgid "{i}{b}\"Mom's Anger +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin kızgınlığı +2\"{/b}{/i}"
 
 # game/script.rpy:4898 ## translate crowdin momangryroom_d1f9acd3:
 msgid "{i}\"You need higher affection to gift flowers.\"{/i}"
-msgstr ""
+msgstr "{i}\"Çiçek hediye etmek için daha yüksek bir sevgiye ihtiyacınız var.\"{/i}"
 
 # game/script.rpy:4906 ## translate crowdin momangryroom_1c730983:
 msgid "[M] Oh how sweet! I love them!"
@@ -3838,7 +3838,7 @@ msgstr ""
 
 # game/script.rpy:4922 ## translate crowdin momangryroom_dcdec28a:
 msgid "{i}{b}\"Mom's Anger +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin kızgınlığı +1\"{/b}{/i}"
 
 # game/script.rpy:4929 ## translate crowdin momangryroom_5fbf7d4a:
 msgid "[M] You already gave me a gift honey. Any more than that is just crossing the creep line!"
@@ -3846,15 +3846,15 @@ msgstr ""
 
 # game/script.rpy:4931 ## translate crowdin momangryroom_dcdec28a_1:
 msgid "{i}{b}\"Mom's Anger +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin kızgınlığı +1\"{/b}{/i}"
 
 # game/script.rpy:4937 ## translate crowdin momangryroom_4fa11e32:
 msgid "[M] Well, it's going to take more than just words for me to forgive you for what you did!"
-msgstr ""
+msgstr "[M] Yaptığın şey için seni affetmem için kelimelerden daha fazlası gerekecek!"
 
 # game/script.rpy:4938 ## translate crowdin momangryroom_b8504862:
 msgid "[RT] {i}I guess I better give her some time, or maybe I can get her a present so she won't be so mad.{/i}"
-msgstr ""
+msgstr "[RT] {i}Sanırım ona biraz zaman versem iyi olacak, ya da belki ona bir hediye alabilirim, böylece bu kadar kızmaz.{/i}"
 
 # game/script.rpy:4957 ## translate crowdin momnightstand_18b9b842:
 msgid "{i}Nope.... no loose money lying around.{/i}"
@@ -3978,7 +3978,7 @@ msgstr ""
 
 # game/script.rpy:5281 ## translate crowdin laurenhornybedroom_de144e4d:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/script.rpy:5289 ## translate crowdin laurenhornybedroom_56c769da_1:
 msgid "[RT] {i}Hmmm.... I wonder why the door is locked?{/i}"
@@ -3998,7 +3998,7 @@ msgstr ""
 
 # game/script.rpy:5298 ## translate crowdin laurenhornybedroom_de144e4d_1:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/script.rpy:5307 ## translate crowdin laurenhornybedroom_56c769da_2:
 msgid "[RT] {i}Hmmm.... I wonder why the door is locked?{/i}"
@@ -4010,7 +4010,7 @@ msgstr ""
 
 # game/script.rpy:5310 ## translate crowdin laurenhornybedroom_de144e4d_2:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/script.rpy:5318 ## translate crowdin laurenhornybedroom_56c769da_3:
 msgid "[RT] {i}Hmmm.... I wonder why the door is locked?{/i}"
@@ -4022,7 +4022,7 @@ msgstr ""
 
 # game/script.rpy:5321 ## translate crowdin laurenhornybedroom_de144e4d_3:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/script.rpy:5329 ## translate crowdin laurenhornybedroom_3f915308:
 msgid "[RT] {i}The door's locked, she must be getting dressed. {p}Wait, is that moaning I hear?{p}I'm pretty sure that's moaning.{/i}"
@@ -4030,7 +4030,7 @@ msgstr ""
 
 # game/script.rpy:5330 ## translate crowdin laurenhornybedroom_de144e4d_4:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/script.rpy:5332 ## translate crowdin laurenhornybedroom_3306ead2:
 msgid "[RT] {i}I've got to figure out a way to spy on her.{/i}"
@@ -4038,7 +4038,7 @@ msgstr ""
 
 # game/script.rpy:5342 ## translate crowdin sidneyhornybedroom_e74be524:
 msgid "[RT] {i}I'm sure it's locked as usual.{/i}"
-msgstr ""
+msgstr "[RT] {i}Her zamanki gibi kilitli olduğuna eminim.{/i}"
 
 # game/script.rpy:5343 ## translate crowdin sidneyhornybedroom_c94fdb59:
 msgid "[RT] {i}Wait.... is that Sidney moaning?{/i}"
@@ -4058,7 +4058,7 @@ msgstr ""
 
 # game/script.rpy:5359 ## translate crowdin sidneyhornybedroom_9e37090d:
 msgid "[RT] {i}The door's locked, Sidney must be getting dressed. {p}Wait, is that moaning I hear? {p}I'm pretty sure that's moaning.{/i}"
-msgstr ""
+msgstr "[RT] {i}Kapı kilitli, Sidney giyiniyor olmalı. {p}Bekle, bu duyduğum inleme mi? {p}Bunun inleme olduğuna eminim.{/i}"
 
 # game/script.rpy:5360 ## translate crowdin sidneyhornybedroom_445042f6_1:
 msgid "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
@@ -4078,11 +4078,11 @@ msgstr "[RT] {i}Işıkları tekrar kapatıp birkaç dakika daha uyumasına izin 
 
 # game/script.rpy:5380 ## translate crowdin laurenangryroom_8c91e43b:
 msgid "[RT] {i}She locked her door! Lauren must still be pissed off.{/i}"
-msgstr ""
+msgstr "[RT] {i}Kapısını kilitlemiş! Lauren hala kızgın olmalı.{/i}"
 
 # game/script.rpy:5390 ## translate crowdin laurenangryroom_1d673130:
 msgid "[RT] {i}She locked her door! Lauren must still be pissed off. I guess I better just let her sleep.{/i}"
-msgstr ""
+msgstr "[RT] {i}Kapısını kilitlemiş! Lauren hala kızgın olmalı. Sanırım uyumasına izin versem iyi olacak.{/i}"
 
 # game/script.rpy:5395 ## translate crowdin laurenangryroom_249959a1:
 msgid "[RT] {i}Her door's locked. Lauren's pretty pissed off at me.{/i}"
@@ -4094,11 +4094,11 @@ msgstr ""
 
 # game/script.rpy:5406 ## translate crowdin laurenangryroom_70ab65f1:
 msgid "[L] You have something for me?"
-msgstr ""
+msgstr "[L] Benim için bir şeyin mi var?"
 
 # game/script.rpy:5411 ## translate crowdin laurenangryroom_3c6fe325:
 msgid "[L] Thank you I love chocolate!"
-msgstr ""
+msgstr "[L] Teşekkür ederim, çikolataya bayılırım!"
 
 # game/script.rpy:5412 ## translate crowdin laurenangryroom_505691c9:
 msgid "{i}{b}\"Lauren's Anger -2\"{/b}{/i}"
@@ -4134,7 +4134,7 @@ msgstr ""
 
 # game/script.rpy:5453 ## translate crowdin laurenangryroom_567898de:
 msgid "{i}\"Throws them in her trash\"{/i}"
-msgstr ""
+msgstr "{i}\"Onları çöpe atıyor!\"{/i}"
 
 # game/script.rpy:5454 ## translate crowdin laurenangryroom_9fa5814f:
 msgid "[L] Thanks, I hate it!"
@@ -4154,7 +4154,7 @@ msgstr ""
 
 # game/script.rpy:5458 ## translate crowdin laurenangryroom_d1f9acd3:
 msgid "{i}\"You need higher affection to gift flowers.\"{/i}"
-msgstr ""
+msgstr "{i}\"Çiçek hediye etmek için daha yüksek bir sevgiye ihtiyacınız var.\"{/i}"
 
 # game/script.rpy:5466 ## translate crowdin laurenangryroom_bb49b59c:
 msgid "[L] Oh my gosh! I love them!"
@@ -4202,39 +4202,39 @@ msgstr ""
 
 # game/script.rpy:5497 ## translate crowdin laurenangryroom_b03b3469:
 msgid "[L] Well, it's going to take more than just words for me to forgive you for what you did!"
-msgstr ""
+msgstr "[L] Yaptığın şey için seni affetmem için kelimelerden daha fazlası gerekecek!"
 
 # game/script.rpy:5498 ## translate crowdin laurenangryroom_b8504862:
 msgid "[RT] {i}I guess I better give her some time, or maybe I can get her a present so she won't be so mad.{/i}"
-msgstr ""
+msgstr "[RT] {i}Sanırım ona biraz zaman versem iyi olacak, ya da belki ona bir hediye alabilirim, böylece bu kadar kızmaz.{/i}"
 
 # game/script.rpy:5511 ## translate crowdin sidneyangryroom_21c2ffba:
 msgid "[RT] {i}She locked her door! Sidney must still be pissed off. I guess I better just let her sleep.{/i}"
-msgstr ""
+msgstr "[RT] {i}Kapısını kilitlemiş! Sidney hala kızgın olmalı. Sanırım uyumasına izin versem iyi olacak.{/i}"
 
 # game/script.rpy:5517 ## translate crowdin sidneyangryroom_b463ba7f:
 msgid "[RT] {i}She's pissed off at me already for watching her change, I think I better give her just a little more time before I try to smooth things over with her.{/i}"
-msgstr ""
+msgstr "[RT] {i}Üstünü değişirken izlediğim için zaten bana kızgın, sanırım onunla aramı düzeltmeye çalışmadan önce ona biraz daha zaman versem iyi olacak.{/i}"
 
 # game/script.rpy:5523 ## translate crowdin sidneyangryroom_15769934:
 msgid "[RT] {i}Her door's locked. Sidney's pretty pissed off at me.{/i}"
-msgstr ""
+msgstr "[RT] {i}Kapısı kilitli. Sidney bana çok kızgın.{/i}"
 
 # game/script.rpy:5528 ## translate crowdin sidneyangryroom_0e7867d6:
 msgid "[S] What do you want pervert?"
-msgstr ""
+msgstr "[S] Ne istiyorsun sapık?"
 
 # game/script.rpy:5534 ## translate crowdin sidneyangryroom_65e3444f:
 msgid "[S] You have something for me?"
-msgstr ""
+msgstr "[S] Benim için bir şeyin mi var?"
 
 # game/script.rpy:5539 ## translate crowdin sidneyangryroom_89b69239:
 msgid "[S] Thank you I love chocolate!"
-msgstr ""
+msgstr "[S] Teşekkür ederim, çikolataya bayılırım!"
 
 # game/script.rpy:5540 ## translate crowdin sidneyangryroom_5375399e:
 msgid "{i}{b}\"Sidney's Anger -2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney'in kızgınlığı -2\"{/b}{/i}"
 
 # game/script.rpy:5547 ## translate crowdin sidneyangryroom_679f998d:
 msgid "[S] But this doesn't mean I'm not mad at you anymore. It's going to take me some more time to forgive you."
@@ -4242,7 +4242,7 @@ msgstr ""
 
 # game/script.rpy:5552 ## translate crowdin sidneyangryroom_c12c55e1:
 msgid "[S] Thank you! I can't stay mad at my sweet little brother!"
-msgstr ""
+msgstr "[S] Teşekkür ederim! Tatlı küçük kardeşime kızgın kalamam!"
 
 # game/script.rpy:5559 ## translate crowdin sidneyangryroom_2bf8ea0b:
 msgid "[S] Thank you! I'm going to use it right now!"
@@ -4258,19 +4258,19 @@ msgstr ""
 
 # game/script.rpy:5572 ## translate crowdin sidneyangryroom_c12c55e1_1:
 msgid "[S] Thank you! I can't stay mad at my sweet little brother!"
-msgstr ""
+msgstr "[S] Teşekkür ederim! Tatlı küçük kardeşime kızgın kalamam!"
 
 # game/script.rpy:5580 ## translate crowdin sidneyangryroom_6a174532:
 msgid "[S] Why the hell do you think I would want flowers from you? You're not my boyfriend!"
-msgstr ""
+msgstr "[S] Neden senden çiçek isteyeceğimi düşünüyorsun? Sen benim erkek arkadaşım değilsin!"
 
 # game/script.rpy:5581 ## translate crowdin sidneyangryroom_567898de:
 msgid "{i}\"Throws them in her trash\"{/i}"
-msgstr ""
+msgstr "{i}\"Onları çöpe atıyor!\"{/i}"
 
 # game/script.rpy:5582 ## translate crowdin sidneyangryroom_30332119:
 msgid "[S] Maybe next time try to think of something that doesn't imply you want in my pants!"
-msgstr ""
+msgstr "[S] Belki bir dahaki sefere pantolonuma girmek istediğini ima etmeyen bir şey düşünmeye çalış!"
 
 # game/script.rpy:5583 ## translate crowdin sidneyangryroom_0f7267a3:
 msgid "{i}{b}\"Sidney's Affection -1\"{/b}{/i}"
@@ -4278,11 +4278,11 @@ msgstr ""
 
 # game/script.rpy:5584 ## translate crowdin sidneyangryroom_81d85206:
 msgid "{i}{b}\"Sidney's Anger +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney'in kızgınlığı +2\"{/b}{/i}"
 
 # game/script.rpy:5585 ## translate crowdin sidneyangryroom_d1f9acd3:
 msgid "{i}\"You need higher affection to gift flowers.\"{/i}"
-msgstr ""
+msgstr "{i}\"Çiçek hediye etmek için daha yüksek bir sevgiye ihtiyacınız var.\"{/i}"
 
 # game/script.rpy:5593 ## translate crowdin sidneyangryroom_c5a8f8e5:
 msgid "[S] Oh my gosh! They're beautiful!"
@@ -4314,7 +4314,7 @@ msgstr ""
 
 # game/script.rpy:5608 ## translate crowdin sidneyangryroom_b538d921:
 msgid "[S] You jerk! You made me get up for that."
-msgstr ""
+msgstr "[S] Seni pislik! Beni bunun için ayağa kaldırdın."
 
 # game/script.rpy:5609 ## translate crowdin sidneyangryroom_7b3429cc:
 msgid "{i}{b}\"Sidney's Anger +1\"{/b}{/i}"
@@ -4330,11 +4330,11 @@ msgstr ""
 
 # game/script.rpy:5624 ## translate crowdin sidneyangryroom_94deac36:
 msgid "[S] Well, it's going to take more than just words for me to forgive you for what you did!"
-msgstr ""
+msgstr "[S] Yaptığın şey için seni affetmem için kelimelerden daha fazlası gerekecek!"
 
 # game/script.rpy:5625 ## translate crowdin sidneyangryroom_b8504862:
 msgid "[RT] {i}I guess I better give her some time, or maybe I can get her a present so she won't be so mad.{/i}"
-msgstr ""
+msgstr "[RT] {i}Sanırım ona biraz zaman versem iyi olacak, ya da belki ona bir hediye alabilirim, böylece bu kadar kızmaz.{/i}"
 
 # game/script.rpy:5647 ## translate crowdin laurendresser_6e1f3452:
 msgid "[RT] {i}Why would I go through her stuff?{/i}"
@@ -4442,7 +4442,7 @@ msgstr "[RT] {i}Kirli çamaşırlar, iğrenç!{/i}"
 
 # game/script.rpy:5828 ## translate crowdin laurensneakingnight_c7028dcb:
 msgid "[RT] {i}I don't think the subliminal messages are having any more effect, I'll have to think of something else to make her more submissive.{/i}"
-msgstr ""
+msgstr "[RT] {i}Bilinçaltı mesajların daha fazla etkisi olduğunu sanmıyorum, onu daha itaatkar hale getirmek için başka bir şey düşünmem gerekecek.{/i}"
 
 # game/script.rpy:5829 ## translate crowdin laurensneakingnight_95b6633e:
 msgid "[RT] {i}I should start thinking of other fun things I can do to her while she's in such a deep sleep.{/i}"
@@ -4714,19 +4714,19 @@ msgstr "[RT] {i}Ama neler yapabileceğimi gerçekten merak ediyorum.{/i}"
 
 # game/script.rpy:5993 ## translate crowdin laurenroomhang_4318e46c:
 msgid "[L] Is there something you need?"
-msgstr ""
+msgstr "[L] İhtiyacın olan bir şey mi var?"
 
 # game/script.rpy:5994 ## translate crowdin laurenroomhang_08cf5547:
 msgid "[R] Do you want to do something?"
-msgstr ""
+msgstr "[R] Bir şey yapmak ister misin?"
 
 # game/script.rpy:5995 ## translate crowdin laurenroomhang_3d03dc59:
 msgid "[L] Sorry, but my friend Chloe is really upset about a guy, and just really needs all of my attention right now."
-msgstr ""
+msgstr "[L] Üzgünüm ama arkadaşım Chloe bir adam yüzünden çok üzgün ve şu anda tüm ilgime ihtiyacı var."
 
 # game/script.rpy:5996 ## translate crowdin laurenroomhang_d44ca563:
 msgid "[L] I'll come find you if I get done texting her soon."
-msgstr ""
+msgstr "[L] Ona mesaj atmayı bitirirsem seni bulmaya gelirim."
 
 # game/script.rpy:6009 ## translate crowdin sidneychanging_6de9d8e5:
 msgid "[RT] {i}Well shit, she's locking the door to change now.{/i}"
@@ -4742,207 +4742,207 @@ msgstr ""
 
 # game/script.rpy:6024 ## translate crowdin sidneychanging_bae89064:
 msgid "[RT] {i}Oh no! Hello temptation my old friend.{/i}"
-msgstr ""
+msgstr "[RT] {i}Olamaz! Merhaba eski dostum.{/i}"
 
 # game/script.rpy:6025 ## translate crowdin sidneychanging_a5935912:
 msgid "[RT] {i}I really shouldn't watch this.... but I can't look away!{/i}"
-msgstr ""
+msgstr "[RT] {i}Bunu gerçekten izlememeliyim.... ama gözümü ayıramıyorum!{/i}{/i}"
 
 # game/script.rpy:6028 ## translate crowdin sidneychanging_a8bec830:
 msgid "[RT] {i}Shit! Why couldn't the women in my family be ugly?{/i}"
-msgstr ""
+msgstr "[RT] {i}Kahretsin! Neden ailemdeki kadınlar çirkin değil?{/i}"
 
 # game/script.rpy:6029 ## translate crowdin sidneychanging_7aac99b6:
 msgid "[RT] {i}Then I wouldn't have this moral dilemma.{/i}"
-msgstr ""
+msgstr "[RT] {i}O zaman bu ahlaki ikilemi yaşamazdım.{/i}"
 
 # game/script.rpy:6032 ## translate crowdin sidneychanging_5667c2fd:
 msgid "[RT] {i}Oh My Gosh! I'm going to explode in my pants!{/i}"
-msgstr ""
+msgstr "[RT] {i}Aman Tanrım! Pantolonumun içinde patlayacağım!{/i}"
 
 # game/script.rpy:6033 ## translate crowdin sidneychanging_103b2b83:
 msgid "[RT] {i}I have to capture this moment!{/i}"
-msgstr ""
+msgstr "[RT] {i}Bu anı çekmeliyim!{/i}"
 
 # game/script.rpy:6036 ## translate crowdin sidneychanging_7ea9fc82:
 msgid "[RT] {i}There, now I have some more fapping material for later.{/i}"
-msgstr ""
+msgstr "[RT] {i}Şimdi daha sonrası için daha fazla eğlence malzemem var.{/i}"
 
 # game/script.rpy:6046 ## translate crowdin sidneychanging_d6f9596f:
 msgid "[RT] {i}Well, I guess all good things must come to an end.{/i}"
-msgstr ""
+msgstr "[RT] {i}Sanırım her güzel şeyin bir sonu var.{/i}"
 
 # game/script.rpy:6049 ## translate crowdin sidneychanging_dd9deb7f:
 msgid "[ST] {i}I love this outfit, it looks so cute on me!{/i}"
-msgstr ""
+msgstr "[ST] {i}Bu kıyafete bayıldım, üzerimde çok tatlı duruyor!{/i}"
 
 # game/script.rpy:6052 ## translate crowdin sidneychanging_fb0eef3f:
 msgid "[ST] {i}Oh my God, is that?.... {/i}"
-msgstr ""
+msgstr "[ST] {i}Aman Tanrım, bu o mu?.... {/i}"
 
 # game/script.rpy:6055 ## translate crowdin sidneychanging_594ef6ad:
 msgid "[RT] {i}Oh no, her face in the mirror looks like she might've seen me.{/i}"
-msgstr ""
+msgstr "[RT] {i}Olamaz, yüzü aynadan beni görmüş gibi gözüküyor.{/i}"
 
 # game/script.rpy:6056 ## translate crowdin sidneychanging_2fcfa63c:
 msgid "[RT] {i}I've got to get out of here!{/i}"
-msgstr ""
+msgstr "[RT] {i}Buradan tüymeliyim!{/i}"
 
 # game/script.rpy:6059 ## translate crowdin sidneychanging_30da61d1:
 msgid "[ST] {i}Oh wait, there's nothing there.... {/i}"
-msgstr ""
+msgstr "[ST] {i}Oh bekle, orada hiçbir şey yok.... {/i}"
 
 # game/script.rpy:6062 ## translate crowdin sidneychanging_53534f48:
 msgid "[ST] {i}Did I just imagine it?{/i}"
-msgstr ""
+msgstr "[ST] {i}Acaba hayal mi ediyordum?{/i}"
 
 # game/script.rpy:6063 ## translate crowdin sidneychanging_fc95d35c:
 msgid "[ST] {i}Who could it have been? Isn't everyone at school?{/i}"
-msgstr ""
+msgstr "[ST] {i}Kim olabilir ki? Herkes okulda değil mi?{/i}"
 
 # game/script.rpy:6064 ## translate crowdin sidneychanging_8a2ad95e:
 msgid "[ST] {i}Could a stranger have been watching me change?{/i}"
-msgstr ""
+msgstr "[ST] {i}Bir yabancı benim kıyafet değiştirdiğimi izliyor olabilir mi?{/i}"
 
 # game/script.rpy:6065 ## translate crowdin sidneychanging_106c2116:
 msgid "[ST] {i}More likely it's just [ryan] skipping class.{/i}"
-msgstr ""
+msgstr "[ST] {i}Büyük ihtimalle [ryan] bir dersi kaçırmıştır.{/i}"
 
 # game/script.rpy:6066 ## translate crowdin sidneychanging_f497553b:
 msgid "[ST] {i}I sure hope it was [ryan].{/i}"
-msgstr ""
+msgstr "[ST] {i}Umarım [ryan] idi.{/i}"
 
 # game/script.rpy:6067 ## translate crowdin sidneychanging_029b4439:
 msgid "[ST] {i}Wait.... that sounded weird in my head.{/i}"
-msgstr ""
+msgstr "[ST] {i}Bekle.... bu kafamda garip bir ses oldu.{/i}"
 
 # game/script.rpy:6068 ## translate crowdin sidneychanging_d2ff2a49:
 msgid "[ST] {i}I shouldn't be hoping that my brother is watching me change.{/i}"
-msgstr ""
+msgstr "[ST] {i}Kardeşimin kıyafetlerimi değiştirdiğimi izlediğini ummamalıyım.{/i}"
 
 # game/script.rpy:6069 ## translate crowdin sidneychanging_3048d6d0:
 msgid "[ST] {i}Why does that thought turn me on just a little?{/i}"
-msgstr ""
+msgstr "[ST] {i}Neden bu düşünce beni birazcık tahrik ediyor?{/i}"
 
 # game/script.rpy:6070 ## translate crowdin sidneychanging_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney'in azgınlığı +1\"{/b}{/i}"
 
 # game/script.rpy:6075 ## translate crowdin sidneychanging_5bd59466:
 msgid "[RT] {i}Holy shit, that was close, but I don't think she saw me.{/i}"
-msgstr ""
+msgstr "[RT] {i}Hasiktir, çok yakındı ama beni gördüğünü sanmıyorum.{/i}"
 
 # game/script.rpy:6090 ## translate crowdin caughtbysidney_67ced41e:
 msgid "[RT] {i}Sidney locked the door. Oh crap she must have seen something! I wonder if she knows it was me?{/i}"
-msgstr ""
+msgstr "[RT] {i}Sidney kapıyı kilitledi. Kahretsin, bir şey görmüş olmalı! Acaba ben olduğumu biliyor mudur?{/i}"
 
 # game/script.rpy:6091 ## translate crowdin caughtbysidney_bd6a162a:
 msgid "[RT] {i}I think I can hear her talking with someone on her phone. Could she be telling Mom on me?{/i}"
-msgstr ""
+msgstr "[RT] {i}Sanırım telefonda biriyle konuştuğunu duyabiliyorum. Anneme beni ispiyonluyor olabilir mi?{/i}"
 
 # game/script.rpy:6092 ## translate crowdin caughtbysidney_71c9e440:
 msgid "[RT] {i}I need to get closer to see if I can hear.{/i}"
-msgstr ""
+msgstr "[RT] {i}Duyup duyamayacağımı görmek için kulak misafiri olmalıyım.{/i}"
 
 # game/script.rpy:6093 ## translate crowdin caughtbysidney_42ff5d83:
 msgid "[RT] {i}Maybe if I put my ear on the door I can.... {/i}"
-msgstr ""
+msgstr "[RT] {i}Belki kulağımı kapıya dayarsam.... {/i}"
 
 # game/script.rpy:6096 ## translate crowdin caughtbysidney_f79717f2:
 msgid "[S] Haa.... I knew it was you!"
-msgstr ""
+msgstr "[S] Haa.... Sen olduğunu biliyordum!"
 
 # game/script.rpy:6097 ## translate crowdin caughtbysidney_67f4000f:
 msgid "[S] Why are you lurking at my door you little pervert!"
-msgstr ""
+msgstr "[S] Kapımda ne işin var, seni küçük sapık!"
 
 # game/script.rpy:6100 ## translate crowdin caughtbysidney_dc427338:
 msgid "[R] I'm sorry, I just wasn't sure if you were home, and wanted to see if you were. I thought maybe we could hang out?"
-msgstr ""
+msgstr "[R] Özür dilerim, evde olup olmadığını bilmiyordum ve öğrenmek istedim. Belki takılırız diye düşündüm?"
 
 # game/script.rpy:6101 ## translate crowdin caughtbysidney_e961d194:
 msgid "[S] Oh, and I'm supposed to believe that you weren't peeking in at me dressing just a few minutes ago?"
-msgstr ""
+msgstr "[S] Birkaç dakika önce giyinirken beni dikizlemediğine inanmamı mı bekliyorsun?"
 
 # game/script.rpy:6102 ## translate crowdin caughtbysidney_4a95b92b:
 msgid "[S] How much did you see?"
-msgstr ""
+msgstr "[S] Ne kadarını gördün?"
 
 # game/script.rpy:6105 ## translate crowdin caughtbysidney_49a1d558:
 msgid "[R] Not much, you were mostly dressed when I saw you. I ran away as soon as I realized you were changing."
-msgstr ""
+msgstr "[R] Çok değil, seni gördüğümde çoğunlukla giyiniktin. Üstünü değiştirdiğini fark ettiğim anda kaçtım."
 
 # game/script.rpy:6106 ## translate crowdin caughtbysidney_540c716a:
 msgid "[S] You better not be lying!"
-msgstr ""
+msgstr "[S] Yalan söylemiyor olsan iyi edersin!"
 
 # game/script.rpy:6107 ## translate crowdin caughtbysidney_7984de58:
 msgid "{i}{b}\"Sidney's Anger +5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney'in kızgınlığı +5\"{/b}{/i}"
 
 # game/script.rpy:6109 ## translate crowdin caughtbysidney_78115a4b:
 msgid "[S] You know you could have just knocked."
-msgstr ""
+msgstr "[S] Kapıyı çalabilirdin."
 
 # game/script.rpy:6110 ## translate crowdin caughtbysidney_1864a7a3:
 msgid "[R] Sorry, I'll try to do that next time."
-msgstr ""
+msgstr "[R] Üzgünüm, bir dahaki sefere bunu yapmaya çalışacağım."
 
 # game/script.rpy:6111 ## translate crowdin caughtbysidney_ebdd0137:
 msgid "[S] Whatever!"
-msgstr ""
+msgstr "[S] Her neyse, olan oldu!"
 
 # game/script.rpy:6117 ## translate crowdin caughtbysidney_cca7ecd5:
 msgid "[R] I have no idea what you're talking about."
-msgstr ""
+msgstr "[R] Neyden bahsettiğin hakkında hiçbir fikrim yok."
 
 # game/script.rpy:6118 ## translate crowdin caughtbysidney_38418e96:
 msgid "[S] Yeah right you little liar!"
-msgstr ""
+msgstr "[S] Evet doğru seni küçük yalancı!"
 
 # game/script.rpy:6119 ## translate crowdin caughtbysidney_6c4d1572:
 msgid "{i}{b}\"Sidney's Anger +10\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney'in kızgınlığı +10\"{/b}{/i}"
 
 # game/script.rpy:6121 ## translate crowdin caughtbysidney_078fd5f6:
 msgid "[S] If you need to talk to me, just knock on the door,"
-msgstr ""
+msgstr "[S] Benimle konuşmak istersen, kapıyı çalman yeterli,"
 
 # game/script.rpy:6122 ## translate crowdin caughtbysidney_79367dd9:
 msgid "[S] Instead of creeping around like some depraved pervert."
-msgstr ""
+msgstr "[S] Etrafta ahlaksız bir sapık gibi sürünmek yerine."
 
 # game/script.rpy:6123 ## translate crowdin caughtbysidney_1864a7a3_1:
 msgid "[R] Sorry, I'll try to do that next time."
-msgstr ""
+msgstr "[R] Üzgünüm, bir dahaki sefere bunu yapmaya çalışacağım."
 
 # game/script.rpy:6124 ## translate crowdin caughtbysidney_ebdd0137_1:
 msgid "[S] Whatever!"
-msgstr ""
+msgstr "[S] Her neyse, olan oldu!"
 
 # game/script.rpy:6136 ## translate crowdin sidneylaurensneakattempt_d9a5ac9c:
 msgid "[RT] {i}Ok.... so having Sidney in bed with Lauren might complicate things just a little bit.{/i}"
-msgstr ""
+msgstr "[RT] {i}Tamam.... Sidney'in Lauren ile aynı yatakta olması işleri biraz karıştırabilir.{/i}"
 
 # game/script.rpy:6137 ## translate crowdin sidneylaurensneakattempt_cf54bf06:
 msgid "[RT] {i}I guess I could try and see if Sidney will sleep through the subliminal messages.{/i}"
-msgstr ""
+msgstr "[RT] {i}Sanırım Sidney'in bilinçaltı mesajlar aracılığıyla uyuyup uyumayacağını deneyebilirim.{/i}"
 
 # game/script.rpy:6138 ## translate crowdin sidneylaurensneakattempt_5702a24e:
 msgid "[RT] {i}I could even try some on her after I'm done with Lauren.{/i}"
-msgstr ""
+msgstr "[RT] {i}Lauren ile işim bittikten sonra onun üzerinde bile deneyebilirim.{/i}"
 
 # game/script.rpy:6139 ## translate crowdin sidneylaurensneakattempt_9645d1bd:
 msgid "[RT] {i}Hmmm.... should I risk it?{/i}"
-msgstr ""
+msgstr "[RT] {i}Hmmm.... risk almalı mıyım?{/i}"
 
 # game/script.rpy:6146 ## translate crowdin sidneylaurensneakattempt_090b3ebd:
 msgid "[RT] {i}Two hotties in one bed!{/i}"
-msgstr ""
+msgstr "[RT] {i}Bir yatakta iki seksi hatun!{/i}"
 
 # game/script.rpy:6147 ## translate crowdin sidneylaurensneakattempt_80f0f0de:
 msgid "[RT] {i}I'm sure glad Mom keeps the house so warm. It would be a shame to put a blanket over these bodies!{/i}"
-msgstr ""
+msgstr "[RT] {i}Annemin evi bu kadar sıcak tutmasına sevindim. Bu cesetlerin üzerine battaniye örtmek utanç verici olurdu!{/i}"
 
 # game/script.rpy:6150 ## translate crowdin sidneylaurensneakattempt_4f336118:
 msgid "[R] {i}(Whispering){/i} You think your brother is sexy.... you think your brother is sexy..."
@@ -4950,47 +4950,47 @@ msgstr "[R] {i}(Fısıldayarak){/i} Kardeşinin seksi olduğunu düşünüyorsun
 
 # game/script.rpy:6151 ## translate crowdin sidneylaurensneakattempt_22b514b4:
 msgid "[R] {i}(Whispering){/i} You think your brother is .... oh, shit!"
-msgstr "[R] {i}(Fısıldayarak){/i} Kardeşinin .... olduğunu düşünüyorsun. Kahretsin!"
+msgstr "[R] {i}(Fısıldayarak){/i} Kardeşinin .... olduğunu düşünüyorsun. Siktir!"
 
 # game/script.rpy:6154 ## translate crowdin sidneylaurensneakattempt_5b549de2:
 msgid "[S] Hmmmmm?.... Lauren?.... Did you say something?"
-msgstr ""
+msgstr "[S] Hmmmmm?.... Lauren?.... Bir şey mi dedin?"
 
 # game/script.rpy:6157 ## translate crowdin sidneylaurensneakattempt_4cb0f6b6:
 msgid "[S] Lauren.... are you asleep?"
-msgstr ""
+msgstr "[S] Lauren.... uyuyor musun?"
 
 # game/script.rpy:6158 ## translate crowdin sidneylaurensneakattempt_ee83fde5:
 msgid "[S] Ok?.... I guess it was my imagination?..."
-msgstr ""
+msgstr "[S] Garip?.... Sanırım bu benim hayal gücümdü?..."
 
 # game/script.rpy:6159 ## translate crowdin sidneylaurensneakattempt_0a1a9f71:
 msgid "[RT] {i}Shit!! Sidney is a super light sleeper!{/i}"
-msgstr ""
+msgstr "[RT] {i}Siktir! Sidney'in uykusu çok hafiftir!{/i}"
 
 # game/script.rpy:6160 ## translate crowdin sidneylaurensneakattempt_a34a8795:
 msgid "[RT] {i}I've got to think of some other way to keep her progress going.{/i}"
-msgstr ""
+msgstr "[RT] {i}Devam edebilmek için başka bir yol bulmalıyım.{/i}"
 
 # game/script.rpy:6161 ## translate crowdin sidneylaurensneakattempt_42fae127:
 msgid "[RT] {i}I guess I'll just wait here until I'm sure Sidney has fallen back asleep.{/i}"
-msgstr ""
+msgstr "[RT] {i}Sanırım Sidney'in tekrar uykuya daldığından emin olana kadar burada bekleyeceğim.{/i}"
 
 # game/script.rpy:6164 ## translate crowdin sidneylaurensneakattempt_187fa638:
 msgid "[RT] {i}Shit, that was close!{/i}"
-msgstr ""
+msgstr "[RT] {i}Siktir, bu çok yakındı!{/i}"
 
 # game/script.rpy:6165 ## translate crowdin sidneylaurensneakattempt_700571e9:
 msgid "[RT] {i}How am I going to win over Lauren now? I'll need to look around for inspiration.{/i}"
-msgstr ""
+msgstr "[RT] {i}Şimdi Lauren'i nasıl kazanacağım? İlham almak için etrafa bakmam gerekecek.{/i}"
 
 # game/script.rpy:6172 ## translate crowdin sidneylaurensneakattempt_98c81300:
 msgid "[RT] {i}They look so vulnerable while they are asleep, but if I tried anything and they woke up.... {/i}"
-msgstr ""
+msgstr "[RT] {i}Uyurken çok savunmasız görünüyorlar ama bir şey denesem ve uyansalar.... {/i}"
 
 # game/script.rpy:6173 ## translate crowdin sidneylaurensneakattempt_b7fd8586:
 msgid "[RT] {i}I'd be kicked out of the house, maybe disowned. I've got to play this smart.{/i}"
-msgstr ""
+msgstr "[RT] {i}Evden atılırım, belki de evlatlıktan reddedilirim. Bu oyunu akıllıca oynamalıyım.{/i}"
 
 # game/script.rpy:6181 ## translate crowdin sidneylaurensneakingnight_03188596:
 msgid "[RT] {i}I better not push it any further tonight.{/i}"
@@ -5002,7 +5002,7 @@ msgstr ""
 
 # game/script.rpy:6193 ## translate crowdin sidneylaurensneakingnight_d376848f:
 msgid "[RT] {i}They should be sleeping pretty soundly. They both have a habit of drinking tea before bed.{/i}"
-msgstr ""
+msgstr "[RT] {i}Mışıl mışıl uyuyor olmalılar. İkisinin de yatmadan önce çay içme alışkanlığı var.{/i}"
 
 # game/script.rpy:6194 ## translate crowdin sidneylaurensneakingnight_3e28dd6a:
 msgid "[RT] {i}The melatonin worked pretty well last time. Should I check it out again?{/i}"
@@ -5126,7 +5126,7 @@ msgstr ""
 
 # game/script.rpy:6259 ## translate crowdin sidneylaurensneakingnight_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney'in azgınlığı +1\"{/b}{/i}"
 
 # game/script.rpy:6261 ## translate crowdin sidneylaurensneakingnight_88fdacc0:
 msgid "[M] Well?"
@@ -5246,7 +5246,7 @@ msgstr ""
 
 # game/script.rpy:6312 ## translate crowdin sidneylaurensneakingnight_d376848f_1:
 msgid "[RT] {i}They should be sleeping pretty soundly. They both have a habit of drinking tea before bed.{/i}"
-msgstr ""
+msgstr "[RT] {i}Mışıl mışıl uyuyor olmalılar. İkisinin de yatmadan önce çay içme alışkanlığı var.{/i}"
 
 # game/script.rpy:6313 ## translate crowdin sidneylaurensneakingnight_3e28dd6a_1:
 msgid "[RT] {i}The melatonin worked pretty well last time. Should I check it out again?{/i}"
@@ -5366,7 +5366,7 @@ msgstr ""
 
 # game/script.rpy:6375 ## translate crowdin sidneylaurensneakingnight_5bd31dc0_1:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney'in azgınlığı +1\"{/b}{/i}"
 
 # game/script.rpy:6377 ## translate crowdin sidneylaurensneakingnight_353d424e:
 msgid "[ST] {i}Shit! I can't admit to this!{/i}"
@@ -5410,183 +5410,183 @@ msgstr ""
 
 # game/script.rpy:6402 ## translate crowdin sidneylaurensneakingnight_d376848f_2:
 msgid "[RT] {i}They should be sleeping pretty soundly. They both have a habit of drinking tea before bed.{/i}"
-msgstr ""
+msgstr "[RT] {i}Mışıl mışıl uyuyor olmalılar. İkisinin de yatmadan önce çay içme alışkanlığı var.{/i}"
 
 # game/script.rpy:6403 ## translate crowdin sidneylaurensneakingnight_38827034:
 msgid "[RT] {i}Should I see if the melatonin works as advertised?{/i}"
-msgstr ""
+msgstr "[RT] {i}Melatoninin söylendiği gibi işe yarayıp yaramadığını görmeli miyim?{/i}"
 
 # game/script.rpy:6413 ## translate crowdin sidneylaurensneakingnight_89808008:
 msgid "[RT] {i}So far so good.... If they really are in a deep sleep, I should be able to get away with more than just whispering in their ears.{/i}"
-msgstr ""
+msgstr "[RT] {i}Şimdiye kadar çok iyi.... Eğer gerçekten derin bir uykudaysalar, kulaklarına fısıldamaktan daha fazlasını yapabilmeliyim.{/i}"
 
 # game/script.rpy:6414 ## translate crowdin sidneylaurensneakingnight_a82af8f5:
 msgid "[RT] {i}It's always going to be hard for me to get away with much if they are in the same bed.{/i}"
-msgstr ""
+msgstr "[RT] {i}Eğer onlar aynı yataktaysa benim için her zaman çok zor olacak.{/i}"
 
 # game/script.rpy:6415 ## translate crowdin sidneylaurensneakingnight_f00d32cc:
 msgid "[RT] {i}I've got to come up with a way to get them sleeping in separate rooms.{/i}"
-msgstr ""
+msgstr "[RT] {i}Onları ayrı odalarda yatırmanın bir yolunu bulmalıyım.{/i}"
 
 # game/script.rpy:6416 ## translate crowdin sidneylaurensneakingnight_722472b6:
 msgid "[RT] {i}And I think I've got the perfect idea.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ve sanırım mükemmel bir fikrim var. {/i}"
 
 # game/script.rpy:6419 ## translate crowdin sidneylaurensneakingnight_0d82c6e6:
 msgid "[RT] {i}Lauren won't let Sidney sleep with her if she's a little too handsy in her sleep.{/i}"
-msgstr ""
+msgstr "[RT] {i}Lauren, Sidney uykusunda biraz fazla ellerini kullanırsa onunla yatmasına izin vermeyecektir.{/i}"
 
 # game/script.rpy:6425 ## translate crowdin sidneylaurensneakingnight_2f214e36:
 msgid "[RT] {i}Is this going too far? I know this is an asshole move, but am I willing to get my hands, or I guess Sidney's hands this dirty?{/i}"
-msgstr ""
+msgstr "[RT] {i}Bu çok mu ileri oldu? Bunun aptalca bir hareket olduğunu biliyorum ama ellerimi ya da sanırım Sidney'in ellerini bu kadar kirletmeye hazır mıyım?{/i}"
 
 # game/script.rpy:6426 ## translate crowdin sidneylaurensneakingnight_1bbb0884:
 msgid "[RT] {i}Yes... of course... The end justifies the means! {p}My family needs a real man, and not some criminal like my father. I've just got to get them to realize it.{/i}"
-msgstr ""
+msgstr "[RT] {i}Evet... elbette... Amaç, aracı haklı çıkarır! {p}Ailemin gerçek bir adama ihtiyacı var, babam gibi bir suçluya değil. Sadece bunu fark etmelerini sağlamalıyım.{/i}"
 
 # game/script.rpy:6427 ## translate crowdin sidneylaurensneakingnight_687c95fa:
 msgid "[RT] {i}Ok.... hand is in place. Now I need Lauren to catch her in the act.{/i}"
-msgstr ""
+msgstr "[RT] {i}Tamam.... el yerinde. Şimdi Lauren'in onu iş üstünde yakalamasını istiyorum.{/i}"
 
 # game/script.rpy:6428 ## translate crowdin sidneylaurensneakingnight_211fb639:
 msgid "[RT] {i}Problem is, Lauren is sound asleep.... I have to wake her up without being seen.{/i}"
-msgstr ""
+msgstr "[RT] {i}Sorun şu ki Lauren uyuyor.... Görünmeden onu uyandırmalıyım.{/i}"
 
 # game/script.rpy:6431 ## translate crowdin sidneylaurensneakingnight_2954e3bd:
 msgid "[RT] {i}Hopefully a pinch will do the trick.{/i}"
-msgstr ""
+msgstr "[RT] {i}Umarım bir tutam işe yarar.{/i}"
 
 # game/script.rpy:6434 ## translate crowdin sidneylaurensneakingnight_9e635b87:
 msgid "[L] Hmmm.... ouch.... what was that?..."
-msgstr ""
+msgstr "[L] Hmmm.... ouch.... bu da neydi?..."
 
 # game/script.rpy:6437 ## translate crowdin sidneylaurensneakingnight_c250f1e2:
 msgid "[LT] {i}Is someone's hand carressing my ass?!!{/i}"
-msgstr ""
+msgstr "[LT] {i}Biri götümü mü okşuyor?!{/i}"
 
 # game/script.rpy:6440 ## translate crowdin sidneylaurensneakingnight_6b3a8b0f:
 msgid "[L] Sidney, what the hell?!!!"
-msgstr ""
+msgstr "[L] Sidney, neler oluyor?!!!"
 
 # game/script.rpy:6441 ## translate crowdin sidneylaurensneakingnight_4c3516d4:
 msgid "[S] .... Huh.... what?..."
-msgstr ""
+msgstr "[S] .... Huh.... ne?..."
 
 # game/script.rpy:6442 ## translate crowdin sidneylaurensneakingnight_dbb8d9d0:
 msgid "[L] Huh.... what?.... Why the hell was your hand exploring beneath my panties?!"
-msgstr ""
+msgstr "[L] Huh.... ne mi?.... Elin külodumun altında maden arıyordu?!"
 
 # game/script.rpy:6443 ## translate crowdin sidneylaurensneakingnight_af9eab70:
 msgid "[S] What are you talking about?"
-msgstr ""
+msgstr "[S] Sen neyden bahsediyorsun?"
 
 # game/script.rpy:6444 ## translate crowdin sidneylaurensneakingnight_3cc97167:
 msgid "[S] I've just been sleeping this whole time. Why did you wake me up?"
-msgstr ""
+msgstr "[S] Bunca zamandır uyuyordum. Beni neden uyandırdın?"
 
 # game/script.rpy:6445 ## translate crowdin sidneylaurensneakingnight_a116b056:
 msgid "[L] Just sleeping huh? Well you're a pretty handsy sleeper!"
-msgstr ""
+msgstr "[L] Sadece uyuyorsun ha? Ellerinle çok güzel uyuyorsun!"
 
 # game/script.rpy:6448 ## translate crowdin sidneylaurensneakingnight_07856919:
 msgid "[M] What the hell is going on in here?"
-msgstr ""
+msgstr "[M] Burada ne haltlar dönüyor?"
 
 # game/script.rpy:6449 ## translate crowdin sidneylaurensneakingnight_bb2a08de:
 msgid "[M] You're making enough noise to wake the dead!"
-msgstr ""
+msgstr "[M] Ölüleri uyandıracak kadar gürültü yapıyorsun!"
 
 # game/script.rpy:6452 ## translate crowdin sidneylaurensneakingnight_ad419642:
 msgid "[L] Oh, nothing much! Sidney is just molesting me while I sleep!"
-msgstr ""
+msgstr "[L] Oh, fazla bir şey yok! Sidney ben uyurken beni taciz ediyor!"
 
 # game/script.rpy:6453 ## translate crowdin sidneylaurensneakingnight_42ea2883:
 msgid "[S] I was not!"
-msgstr ""
+msgstr "[S] Ben yapmadım!"
 
 # game/script.rpy:6456 ## translate crowdin sidneylaurensneakingnight_3c5bfb11:
 msgid "[M] Lauren, I think you must have been dreaming."
-msgstr ""
+msgstr "[M] Lauren, sanırım rüya görüyor olmalısın."
 
 # game/script.rpy:6457 ## translate crowdin sidneylaurensneakingnight_66f66f70:
 msgid "[M] And if you weren't I'm sure Sidney was just doing it in her sleep."
-msgstr ""
+msgstr "[M] Sen yapmadıysan da Sidney'nin uykusunda yaptığına eminim."
 
 # game/script.rpy:6458 ## translate crowdin sidneylaurensneakingnight_6c2206e0:
 msgid "[M] Once people start having sex, it's pretty normal for them to be a little handsy while they sleep."
-msgstr ""
+msgstr "[M] İnsanlar seks yapmaya başladıktan sonra, uyurken ellerini biraz kullanmaları oldukça normaldir."
 
 # game/script.rpy:6459 ## translate crowdin sidneylaurensneakingnight_d8267868:
 msgid "[M] Your father is a really handsy sleeper."
-msgstr ""
+msgstr "[M] Baban gerçekten elleriyle uyuyor."
 
 # game/script.rpy:6460 ## translate crowdin sidneylaurensneakingnight_952b3b20:
 msgid "[S] Eww Mom, TMI! And I haven't started having sex yet!"
-msgstr ""
+msgstr "[S] Eww anne, bu kadar detaya girmene gerek yoktu! Ve ben daha seks yapmaya başlamadım!"
 
 # game/script.rpy:6461 ## translate crowdin sidneylaurensneakingnight_6eb2997b:
 msgid "[M] Please! I'm not stupid. You're in college."
-msgstr ""
+msgstr "[M] Lütfen! Ben aptal değilim. Sen üniversitelisin."
 
 # game/script.rpy:6462 ## translate crowdin sidneylaurensneakingnight_508d9c02:
 msgid "[S] Well, I'm not a virgin, but I don't just sleep around with all the guys at school!"
-msgstr ""
+msgstr "[S] Bakire değilim ama okuldaki bütün erkeklerle de yatmıyorum!"
 
 # game/script.rpy:6465 ## translate crowdin sidneylaurensneakingnight_aa08804d:
 msgid "[RT] {i}Uhh.... I hope they wrap this up soon, this is getting uncomfortable.{/i}"
-msgstr ""
+msgstr "[RT] {i}Uhh.... Umarım bu işi yakında bitirirler, bu iş rahatsız edici olmaya başladı.{/i}"
 
 # game/script.rpy:6466 ## translate crowdin sidneylaurensneakingnight_3a902e59:
 msgid "[S] My first time wasn't a good experience, and I haven't really wanted to do much since then."
-msgstr ""
+msgstr "[S] İlk seferim iyi değildi ve o zamandan beri pek bir şey yapmak istemedim."
 
 # game/script.rpy:6467 ## translate crowdin sidneylaurensneakingnight_58149aff:
 msgid "[M] Well, I'm sorry to hear that, then maybe you're being handsy in your sleep because of built up sexual frustration."
-msgstr ""
+msgstr "[M] Bunu duyduğuma üzüldüm, o zaman belki de birikmiş cinsel hayal kırıklığı nedeniyle uykunda ellerini kullanıyorsundur."
 
 # game/script.rpy:6468 ## translate crowdin sidneylaurensneakingnight_470e1ff7:
 msgid "[S] I'm not being handsy in my sleep!"
-msgstr ""
+msgstr "[S] Uykumda ellerimi kullanmıyordum!"
 
 # game/script.rpy:6469 ## translate crowdin sidneylaurensneakingnight_664bcf01:
 msgid "[M] Alright! Well, it's time for you two to shut up and go to sleep! I don't want your brother to wake up and hear about all of this!"
-msgstr ""
+msgstr "[M] Pekala! İkinizin de çenenizi kapatıp uyuma vakti geldi! Kardeşinin uyanmasını ve tüm bunları duymasını istemiyorum!"
 
 # game/script.rpy:6470 ## translate crowdin sidneylaurensneakingnight_cdc9f751:
 msgid "[M] Ok?"
-msgstr ""
+msgstr "[M] Tamam mı?"
 
 # game/script.rpy:6471 ## translate crowdin sidneylaurensneakingnight_cb7b6592:
 msgid "[L] Alright."
-msgstr ""
+msgstr "[L] Pekala."
 
 # game/script.rpy:6472 ## translate crowdin sidneylaurensneakingnight_ec40fdeb:
 msgid "[S] Ok, goodnight."
-msgstr ""
+msgstr "[S] Tamam, iyi geceler."
 
 # game/script.rpy:6475 ## translate crowdin sidneylaurensneakingnight_ec9e0d36:
 msgid "[L] Try to keep your hands to yourself for the rest of the night."
-msgstr ""
+msgstr "[L] Gecenin geri kalanında ellerini kendine saklamaya çalış."
 
 # game/script.rpy:6476 ## translate crowdin sidneylaurensneakingnight_a4f4e80d:
 msgid "[S] Yeah, fuck you too. Goodnight."
-msgstr ""
+msgstr "[S] Evet, sen de siktir git. İyi geceler."
 
 # game/script.rpy:6479 ## translate crowdin sidneylaurensneakingnight_7919a2ac:
 msgid "[RT] {i}Oh, thank God, they are finally asleep again!{/i}"
-msgstr ""
+msgstr "[RT] {i}Oh, Tanrıya şükür, sonunda tekrar uyudular!{/i}"
 
 # game/script.rpy:6480 ## translate crowdin sidneylaurensneakingnight_16ef384a:
 msgid "[RT] {i}That didn't go exactly as I hoped, but it was still very interesting.{/i}"
-msgstr ""
+msgstr "[RT] {i}Tam olarak umduğum gibi gitmedi, ama yine de çok ilginçti.{/i}"
 
 # game/script.rpy:6481 ## translate crowdin sidneylaurensneakingnight_107aac8f:
 msgid "[RT] {i}I think I'll have to give it another try.{/i}"
-msgstr ""
+msgstr "[RT] {i}Sanırım bir kez daha denemem gerekecek.{/i}"
 
 # game/script.rpy:6523 ## translate crowdin schoolearlymorning_2b37c98f:
 msgid "It's too early to go to school."
-msgstr ""
+msgstr "Okula gitmek için çok erken."
 
 # game/script.rpy:6529 ## translate crowdin schoolearlymorningweekend_aa22f048:
 msgid "There's no school on the weekend."
@@ -5594,7 +5594,7 @@ msgstr "Hafta sonu okullar kapalı."
 
 # game/script.rpy:6541 ## translate crowdin schoolhallwaymorning_d5337759:
 msgid "[RT] {i}I'm going to be late for class if I don't hurry.{/i}"
-msgstr ""
+msgstr "[RT] {i}Acele etmezsem derse geç kalacağım.{/i}"
 
 # game/script.rpy:6547 ## translate crowdin schoolmorningweekend_aa22f048:
 msgid "There's no school on the weekend."
@@ -5602,7 +5602,7 @@ msgstr "Hafta sonu okullar kapalı."
 
 # game/script.rpy:6557 ## translate crowdin schoolhallwayafternoon_379aa1ba:
 msgid "[RT] {i}Should I sit through another class, or find something else to do?{/i}"
-msgstr ""
+msgstr "[RT] {i}Başka bir derse mi gireyim, yoksa yapacak başka bir şey mi bulayım?{/i}"
 
 # game/script.rpy:6563 ## translate crowdin schoolafternoonweekend_aa22f048:
 msgid "There's no school on the weekend."
@@ -5618,7 +5618,7 @@ msgstr ""
 
 # game/script.rpy:6587 ## translate crowdin schoolnight_1681a2b6:
 msgid "It's too late to go to school."
-msgstr ""
+msgstr "Okula gitmek için çok geç."
 
 # game/script.rpy:6593 ## translate crowdin schoolnightweekend_368c6f79:
 msgid "No school on the weekend."
@@ -5630,7 +5630,7 @@ msgstr ""
 
 # game/script.rpy:6625 ## translate crowdin classroommorning_22f8779a:
 msgid "[M] Okay class, let's pick up where we left off last time with our discussion on the Oedipus tragedy, and its influence today."
-msgstr ""
+msgstr "[M] Pekala sınıf, Oidipus trajedisi ve günümüzdeki etkisi üzerine tartışmamıza geçen sefer kaldığımız yerden devam edelim."
 
 # game/script.rpy:6631 ## translate crowdin classroommorning_5a0e7ae3:
 msgid "{b}{i}\"WARNING\"{/i}{/b}"
@@ -5658,7 +5658,7 @@ msgstr ""
 
 # game/script.rpy:6649 ## translate crowdin classroommorning_22f8779a_1:
 msgid "[M] Okay class, let's pick up where we left off last time with our discussion on the Oedipus tragedy, and its influence today."
-msgstr ""
+msgstr "[M] Pekala sınıf, Oidipus trajedisi ve günümüzdeki etkisi üzerine tartışmamıza geçen sefer kaldığımız yerden devam edelim."
 
 # game/script.rpy:6655 ## translate crowdin classroommorning_5a0e7ae3_1:
 msgid "{b}{i}\"WARNING\"{/i}{/b}"
@@ -5686,175 +5686,175 @@ msgstr ""
 
 # game/script.rpy:6677 ## translate crowdin classroomafternoon_22f8779a:
 msgid "[M] Okay class, let's pick up where we left off last time with our discussion on the Oedipus tragedy, and its influence today."
-msgstr ""
+msgstr "[M] Pekala sınıf, Oidipus trajedisi ve günümüzdeki etkisi üzerine tartışmamıza geçen sefer kaldığımız yerden devam edelim."
 
 # game/script.rpy:6691 ## translate crowdin classroomafternoon_22f8779a_1:
 msgid "[M] Okay class, let's pick up where we left off last time with our discussion on the Oedipus tragedy, and its influence today."
-msgstr ""
+msgstr "[M] Pekala sınıf, Oidipus trajedisi ve günümüzdeki etkisi üzerine tartışmamıza geçen sefer kaldığımız yerden devam edelim."
 
 # game/script.rpy:6703 ## translate crowdin firstdayofschool_d2cc5a05:
 msgid "[RT] {i}Looks like just any other day at school.{/i}"
-msgstr ""
+msgstr "[RT] {i}Okuldaki sıradan bir gün gibi görünüyor.{/i}"
 
 # game/script.rpy:6704 ## translate crowdin firstdayofschool_b6a9c6d0:
 msgid "[RT] {i}Mom and Lauren seem to be acting normal.{/i}"
-msgstr ""
+msgstr "[RT] {i}Annem ve Lauren normal görünüyorlar.{/i}"
 
 # game/script.rpy:6705 ## translate crowdin firstdayofschool_d3ea2d1a:
 msgid "[RT] {i}Hopefully we can keep the fact that our dad was thrown in prison a secret.{/i}"
-msgstr ""
+msgstr "[RT] {i}Umarım babamızın hapse atıldığı gerçeğini bir sır olarak saklayabiliriz.{/i}"
 
 # game/script.rpy:6706 ## translate crowdin firstdayofschool_346c2afb:
 msgid "[RT] {i}If these snobby private school kids find out, we'll be treated like garbage.{/i}"
-msgstr ""
+msgstr "[RT] {i}Eğer bu züppe özel okul çocukları öğrenirse, bize çöp muamelesi yaparlar.{/i}"
 
 # game/script.rpy:6709 ## translate crowdin firstdayofschool_c7d7bb4e:
 msgid "[RT] {i}Lauren is talking to her friend Kenzie. I'm actually pretty shocked that they are talking face to face, and not by texting while sitting at their desks.{/i}"
-msgstr ""
+msgstr "[RT] {i}Lauren arkadaşı Kenzie ile konuşuyor. Aslında masalarında otururken mesajlaşarak değil de yüz yüze konuşuyor olmaları beni oldukça şaşırttı.{/i}"
 
 # game/script.rpy:6710 ## translate crowdin firstdayofschool_9ab90893:
 msgid "[RT] {i}Kenzie is pretty hot. I've tried to get her to notice me, but I get tongue tied around her, and she treats me like a loser.{/i}"
-msgstr ""
+msgstr "[RT] {i}Kenzie oldukça seksi. Beni fark etmesini sağlamaya çalıştım ama onun yanında ağzım tutuluyor ve bana ezikmişim gibi davranıyor.{/i}"
 
 # game/script.rpy:6713 ## translate crowdin firstdayofschool_8868a576:
 msgid "[RT] {i}I wonder what Zack and Matt are talking about.{/i}"
-msgstr ""
+msgstr "[RT] {i}Zack ve Matt'in ne hakkında konuştuğunu merak ediyorum.{/i}"
 
 # game/script.rpy:6714 ## translate crowdin firstdayofschool_fc40260f:
 msgid "[RT] {i}Zack's probably trying to get dating tips from Matt.{/i}"
-msgstr ""
+msgstr "[RT] {i}Zack muhtemelen Matt'ten randevu tüyoları almaya çalışıyordur.{/i}"
 
 # game/script.rpy:6715 ## translate crowdin firstdayofschool_0c872ac1:
 msgid "[RT] {i}I know I should. Matt's freaking smooth. He's probably nailed half the girls in our school,{/i}"
-msgstr ""
+msgstr "[RT] {i}Biliyorum, yapmalıyım. Matt oldukça düzgün biri. Muhtemelen okulumuzdaki kızların yarısına çakmıştır ve,{/i}"
 
 # game/script.rpy:6716 ## translate crowdin firstdayofschool_0d0f2079:
 msgid "[RT] {i}And then there's the rumors that he fucked Mrs. Stone the art teacher and Mrs. Perry the girls PE teacher.{/i}"
-msgstr ""
+msgstr "[RT] {i}bir de resim öğretmeni Bayan Stone ve kızların beden eğitimi öğretmeni Bayan Perry ile yattığı dedikoduları var.{/i}"
 
 # game/script.rpy:6717 ## translate crowdin firstdayofschool_139efa4b:
 msgid "[RT] {i}As if being charming and confident weren't enough, being captain of the freaking basketball team can't hurt either.{/i}"
-msgstr ""
+msgstr "[RT] {i}Çekici ve kendine güvenen biri olmak yetmezmiş gibi, basketbol takımının kaptanı olmanın da zararı olmaz.{/i}"
 
 # game/script.rpy:6718 ## translate crowdin firstdayofschool_d8e2f6a6:
 msgid "[RT] {i}And on top of that there's also the rumor that he's hung like a horse.{/i}"
-msgstr ""
+msgstr "[RT] {i}Üstelik bir de at gibi asıldığı söylentisi var.{/i}"
 
 # game/script.rpy:6719 ## translate crowdin firstdayofschool_770ac837:
 msgid "[RT] {i}I can tell by the way he stares at Mom, he's more than a little interested.{/i}"
-msgstr ""
+msgstr "[RT] {i}Anneme bakışlarından anladığım kadarıyla, biraz ilgisini çekmiş.{/i}"
 
 # game/script.rpy:6722 ## translate crowdin firstdayofschool_bbf27afa:
 msgid "[RT] {i}Looks like Mom's having to explain something else to Megan.{/i}"
-msgstr ""
+msgstr "[RT] {i}Görünüşe göre annem Megan'a başka bir şey açıklamak zorunda.{/i}"
 
 # game/script.rpy:6723 ## translate crowdin firstdayofschool_cdac1d34:
 msgid "[RT] {i}She may not be the sharpest tool in the shed, but she might just be the prettiest.{/i}"
-msgstr ""
+msgstr "[RT] {i}Kulübedeki en keskin alet olmayabilir, ama en güzeli olabilir.{/i}"
 
 # game/script.rpy:6724 ## translate crowdin firstdayofschool_e2e99ab5:
 msgid "[RT] {i}I wonder if she's still dating Matt. Not that they have ever been exclusive or anything.{/i}"
-msgstr ""
+msgstr "[RT] {i}Acaba hala Matt'le çıkıyor mu? Özel bir ilişkileri olduğundan falan değil.{/i}"
 
 # game/script.rpy:6725 ## translate crowdin firstdayofschool_fffa0c31:
 msgid "[RT] {i}I think she's fucked a teacher or two to get her grades up. I know she got an A in chemistry, and I know it wasn't for her academic performance.{/i}"
-msgstr ""
+msgstr "[RT] {i}Bence notlarını yükseltmek için bir ya da iki öğretmenle yattı. Kimyadan A aldığını biliyorum ve bunun akademik performansı için olmadığını da biliyorum.{/i}"
 
 # game/script.rpy:6726 ## translate crowdin firstdayofschool_e69294b0:
 msgid "[RT] {i}She was my lab partner and I only got a B-.{/i}"
-msgstr ""
+msgstr "[RT] {i}Laboratuvar ortağımdı ve ben sadece B- aldım.{/i}"
 
 # game/script.rpy:6727 ## translate crowdin firstdayofschool_34b98370:
 msgid "[RT] {i}Unfortunately for Megan, she can't fuck her way to an A in this class. I'll bet she wishes the teacher was a guy.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ne yazık ki Megan, bu dersten A almak için kendisini sikemiyor. Eminim öğretmenin erkek olmasını isterdi.{/i}"
 
 # game/script.rpy:6728 ## translate crowdin firstdayofschool_7f1d301c:
 msgid "[RT] {i}I wonder if she would even try on Mom. I don't know if Megan swings that way or not.{/i}"
-msgstr ""
+msgstr "[RT] {i}Acaba annemin üzerinde dener miydi? Megan o tarafa kayıyor mu bilmiyorum.{/i}"
 
 # game/script.rpy:6729 ## translate crowdin firstdayofschool_5814c16c:
 msgid "[RT] {i}Hmmm.... that's fun to imagine.{/i}"
-msgstr ""
+msgstr "[RT] {i}Hmmm.... bunu hayal etmesi bile eğlenceli.{/i}"
 
 # game/script.rpy:6730 ## translate crowdin firstdayofschool_fee74388:
 msgid "[M] Ok class, everyone take your seats!"
-msgstr ""
+msgstr "[M] Tamam sınıf, herkes yerine!"
 
 # game/script.rpy:6734 ## translate crowdin firstdayofschool_3bd2c661:
 msgid "[M] For our next section in our literature class, we will be studying the Greek tragedy Oedipus Rex. We will also study further writings and studies that have used this play as a reference work."
-msgstr ""
+msgstr "[M] Edebiyat dersimizin bir sonraki bölümünde Yunan trajedisi Oedipus Rex üzerinde çalışacağız. Ayrıca bu oyunu referans olarak kullanan başka yazıları ve çalışmaları da inceleyeceğiz."
 
 # game/script.rpy:6735 ## translate crowdin firstdayofschool_274aba0f:
 msgid "[M] Our story starts out in Thebes, at the royal palace where Oedipus is greeted by a procession of priests..."
-msgstr ""
+msgstr "[M] Hikayemiz Thebes'te, Oedipus'un rahipler alayı tarafından karşılandığı kraliyet sarayında başlar..."
 
 # game/script.rpy:6736 ## translate crowdin firstdayofschool_c0bcf9b0:
 msgid "[M] .... Plague{p}.... creon{p}.... apollo{p}.... thebes..."
-msgstr ""
+msgstr "[M] .... Plague{p}.... creon{p}.... apollo{p}.... thebes..."
 
 # game/script.rpy:6739 ## translate crowdin firstdayofschool_5e5e9891:
 msgid "[RT] {i}Oh my gosh this is so boring! Greek plays are the worst, how am I supposed to pay attention to this. I've never heard of Oedipus before, why should I care about him now?{/i}"
-msgstr ""
+msgstr "[RT] {i}Aman Tanrım, bu çok sıkıcı! Yunan oyunları en kötüsü, buna nasıl dikkatimi verebilirim ki? Oedipus'u daha önce hiç duymadım, şimdi neden umursayayım ki?{/i}"
 
 # game/script.rpy:6740 ## translate crowdin firstdayofschool_32902a27:
 msgid "[RT] {i}Oh, yeah! I just remembered that Mom is wearing the same outfit that she wore on the stage at the strip club!{/i}"
-msgstr ""
+msgstr "[RT] {i}Oh, evet! Annemin striptiz kulübünde sahneye çıkarken giydiği elbiseyi giydiğini şimdi hatırladım!{/i}"
 
 # game/script.rpy:6741 ## translate crowdin firstdayofschool_d5bd3f9e:
 msgid "[RT] {i}Those are some good memories.... {/i}"
-msgstr ""
+msgstr "[RT] {i}Bunlar güzel anılar.... {/i}"
 
 # game/script.rpy:6770 ## translate crowdin firstdayofschool_ed2d507c:
 msgid "[RT] {i}Why does Mom have to be so hot?{/i}"
-msgstr ""
+msgstr "[RT] {i}Annem neden bu kadar ateşli olmak zorunda?{/i}"
 
 # game/script.rpy:6771 ## translate crowdin firstdayofschool_876b5a4a:
 msgid "[RT] {i}Why did I have to see her humping that pole?{/i}"
-msgstr ""
+msgstr "[RT] {i}Neden onu o direğe tırmanırken görmek zorundaydım ki?{/i}"
 
 # game/script.rpy:6774 ## translate crowdin firstdayofschool_fab0b5de:
 msgid "[RT] {i}I'll never be able to look at her the same again.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ona bir daha asla aynı gözle bakamayacağım.{/i}"
 
 # game/script.rpy:6775 ## translate crowdin firstdayofschool_21aa8a4e:
 msgid "[RT] {i}I just wish I could knock off my dad and take his place in her bed.{/i}"
-msgstr ""
+msgstr "[RT] {i}Keşke babamı devirip onun yatağındaki yerini alabilseydim.{/i}"
 
 # game/script.rpy:6776 ## translate crowdin firstdayofschool_886191c6:
 msgid "[RT] {i}Wooow, that's pretty fucked up, I'll bet there's not even a name for this sick psychotic condition I have.{/i}"
-msgstr ""
+msgstr "[RT] {i}Vay be, bu çok boktan bir durum, bahse girerim sahip olduğum bu hastalıklı psikotik durumun bir adı bile yoktur.{/i}"
 
 # game/script.rpy:6777 ## translate crowdin firstdayofschool_0827cfe8:
 msgid "[M] And so Oedipus orders that the murderer of Laius be driven out..."
-msgstr ""
+msgstr "[M] Ve böylece Oidipus, Laius'un katilinin kovulmasını emreder..."
 
 # game/script.rpy:6780 ## translate crowdin firstdayofschool_63fb4718:
 msgid "[RT] {i}I wish I could just taste that beautiful ass!{/i}"
-msgstr ""
+msgstr "[RT] {i}Keşke o güzel götü tadabilseydim!{/i}"
 
 # game/script.rpy:6783 ## translate crowdin firstdayofschool_c0f3183f:
 msgid "[M] Lauren? What was Laius' relationship to Oedipus?"
-msgstr ""
+msgstr "[M] Lauren? Laius'un Oidipus ile ilişkisi neydi?"
 
 # game/script.rpy:6784 ## translate crowdin firstdayofschool_5e3c1349:
 msgid "[L] He was his father, but Oedipus didn't know it."
-msgstr ""
+msgstr "[L] Babasıydı ama Oedipus bunu bilmiyordu."
 
 # game/script.rpy:6785 ## translate crowdin firstdayofschool_9a5deb3d:
 msgid "[M] Correct! Now you get a prize for such a good answer."
-msgstr ""
+msgstr "[M] Doğru cevap! Şimdi bu kadar iyi bir cevap için bir ödül alacaksın."
 
 # game/script.rpy:6786 ## translate crowdin firstdayofschool_404e4655:
 msgid "[M] Just come and take it."
-msgstr ""
+msgstr "[M] Sadece gel ve al."
 
 # game/script.rpy:6798 ## translate crowdin firstdayofschool_f8055650:
 msgid "[M] [ryan]?"
-msgstr ""
+msgstr "[M] [ryan]?"
 
 # game/script.rpy:6805 ## translate crowdin firstdayofschool_f8055650_1:
 msgid "[M] [ryan]?"
-msgstr ""
+msgstr "[M] [ryan]?"
 
 # game/script.rpy:6815 ## translate crowdin firstdayofschool_975c4636:
 msgid "[M] [upper_ryan]!"
@@ -5866,239 +5866,239 @@ msgstr ""
 
 # game/script.rpy:6822 ## translate crowdin firstdayofschool_c130578a:
 msgid "[M] [ryan] you were falling asleep. I need you to pay attention. You will be graded on your participation."
-msgstr ""
+msgstr "[M] [ryan] uykuya dalıyordun. Dikkatini vermeni istiyorum. Katılımına göre not alacaksın."
 
 # game/script.rpy:6823 ## translate crowdin firstdayofschool_5bbf12ad:
 msgid "[R] Yeah, I know.... I'll try..."
-msgstr ""
+msgstr "[R] Evet, biliyorum.... Deneyeceğim..."
 
 # game/script.rpy:6827 ## translate crowdin firstdayofschool_97e0911a:
 msgid "[M] And so hearing all of this, Oedipus decides to solve the mystery of Laius' murder..."
-msgstr ""
+msgstr "[M] Ve tüm bunları duyan Oidipus, Laius'un cinayetinin gizemini çözmeye karar verir..."
 
 # game/script.rpy:6828 ## translate crowdin firstdayofschool_a67e5fbe:
 msgid "[X] Pssst.... {p}Pssst.... {p}PSSSSSTTTTT!!!!!!!!"
-msgstr ""
+msgstr "[X] Şşşt.... {p}Şşt.... {p}ŞŞŞŞTTT!!!!!!!!"
 
 # game/script.rpy:6831 ## translate crowdin firstdayofschool_2c1deb09:
 msgid "[MB] {i}(whispering){/i} Your mom has one fine ass! Don't you think?"
-msgstr ""
+msgstr "[MB] {i}(fısıldayarak){/i} Annenin güzel bir götü var! Sence de öyle değil mi?"
 
 # game/script.rpy:6832 ## translate crowdin firstdayofschool_417bd2bc:
 msgid "[R] {i}(whispering desperately){/i}.... what, are you crazy! She's my mom! I would never think of her like that!"
-msgstr ""
+msgstr "[R] {i}(umutsuzca fısıldayarak){/i}.... ne, delirdin mi sen! O benim annem! Onun hakkında asla böyle düşünmem!"
 
 # game/script.rpy:6833 ## translate crowdin firstdayofschool_a32b3195:
 msgid "[MB] {i}(whispering){/i} yeah right, and that's just a circus tent under your pants."
-msgstr ""
+msgstr "[MB] {i}(fısıldayarak){/i} evet doğru, ve bu sadece pantolonunun altındaki bir sirk çadırı."
 
 # game/script.rpy:6834 ## translate crowdin firstdayofschool_b132699b:
 msgid "[MB] {i}(whispering){/i} I know the hunger that's in your expression as you stare at her."
-msgstr ""
+msgstr "[MB] {i}(fısıldayarak){/i} Ona bakarken yüz ifadendeki açlığı biliyorum."
 
 # game/script.rpy:6837 ## translate crowdin firstdayofschool_63d0dbc1:
 msgid "[MB] {i}(whispering){/i} Relax though.... I don't judge, and I don't blame you one little bit."
-msgstr ""
+msgstr "[MB] {i}(fısıldayarak){/i} Yine de rahatla.... Yargılamıyorum ve seni zerre kadar suçlamıyorum."
 
 # game/script.rpy:6838 ## translate crowdin firstdayofschool_65406bbc:
 msgid "[MB] {i}(whispering){/i} In fact, I can help you get what you want."
-msgstr ""
+msgstr "[MB] {i}(fısıldayarak){/i} Aslında, istediğini elde etmene yardımcı olabilirim."
 
 # game/script.rpy:6841 ## translate crowdin firstdayofschool_c4388d21:
 msgid "[R] {i}(whispering){/i} What do you mean?"
-msgstr ""
+msgstr "[R] {i}(fısıldayarak){/i} Ne demek istiyorsun?"
 
 # game/script.rpy:6842 ## translate crowdin firstdayofschool_96aab6bf:
 msgid "[MB] {i}(whispering){/i} I mean I can help you conquer your mom."
-msgstr ""
+msgstr "[MB] {i}(fısıldayarak){/i} Yani anneni kazanmana yardım edebilirim."
 
 # game/script.rpy:6843 ## translate crowdin firstdayofschool_e974b93b:
 msgid "[R] {i}(whispering){/i} Ha.... yeah right."
-msgstr ""
+msgstr "[R] {i}(fısıldayarak){/i} Ha.... aynen."
 
 # game/script.rpy:6844 ## translate crowdin firstdayofschool_b93009a4:
 msgid "[MB] {i}(whispering){/i} I'm serious, all I would want in return is a go at her myself."
-msgstr ""
+msgstr "[MB] {i}(fısıldayarak){/i} Ben ciddiyim, karşılığında tek istediğim ona kendim gitmek."
 
 # game/script.rpy:6845 ## translate crowdin firstdayofschool_6ba66b7f:
 msgid "[MB] {i}(whispering){/i} And if you're willing to share, I'd be willing to share what I have with you."
-msgstr ""
+msgstr "[MB] {i}(fısıldayarak){/i} Eğer sen de paylaşmak istersen, ben de elimdekileri seninle paylaşmaya hazırım."
 
 # game/script.rpy:6848 ## translate crowdin firstdayofschool_98ba60a2:
 msgid "[RT] {i}If anyone could help me seduce Mom, it would probably be Matt.{/i}"
-msgstr ""
+msgstr "[RT] {i}Annemi baştan çıkarmama yardım edebilecek biri varsa, o da Matt'tir herhalde.{/i}"
 
 # game/script.rpy:6849 ## translate crowdin firstdayofschool_d9aee5af:
 msgid "[RT] {i}Would I really be willing to share Mom with someone?{/i}"
-msgstr ""
+msgstr "[RT] {i}Annemi gerçekten biriyle paylaşmak ister miydim?{/i}"
 
 # game/script.rpy:6850 ## translate crowdin firstdayofschool_66006e3c:
 msgid "[RT] {i}I could always use another ally in my quest to fuck Mom{/i}"
-msgstr ""
+msgstr "[RT] {i}Annemi sikmek için her zaman başka bir müttefik kullanabilirim.{/i}"
 
 # game/script.rpy:6851 ## translate crowdin firstdayofschool_055382e6:
 msgid "[RT] {i}But would it bother me if the treasure gets passed around?{/i}"
-msgstr ""
+msgstr "[RT] {i}Ama hazinenin elden ele dolaşması beni rahatsız eder mi?{/i}"
 
 # game/script.rpy:6852 ## translate crowdin firstdayofschool_557f659e:
 msgid "[RT] {i}And if I get to share what's Matt's, I could be getting way more treasure than just Mom.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ve Matt'in olanı paylaşabilirsem, annemden çok daha fazla hazineye sahip olabilirim.{/i}"
 
 # game/script.rpy:6853 ## translate crowdin firstdayofschool_5b470ed8:
 msgid "[RT] {i}Hmmm.... what should I do?{/i}"
-msgstr ""
+msgstr "[RT] {i}Hmmm.... ne yapmalıyım?{/i}"
 
 # game/script.rpy:6859 ## translate crowdin firstdayofschool_d8a5a8e7:
 msgid "[R] {i}(whispering){/i} Ok, but the deal is that I get her first. After I've \"conquered\" her, then you can have a go at her."
-msgstr ""
+msgstr "[R] {i}(fısıldayarak){/i} Tamam, ama anlaşmaya göre onu ilk ben alacağım. Ben onu \"fethettikten\" sonra, sen de onu deneyebilirsin."
 
 # game/script.rpy:6860 ## translate crowdin firstdayofschool_26269138:
 msgid "[MB] {i}(whispering){/i} Ha.... I knew you were a horndog like me! Ok, just give me a little time and I'll figure something out."
-msgstr ""
+msgstr "[MB] {i}(fısıldayarak){/i} Ha.... Benim gibi azgın olduğunu biliyordum! Tamam, bana biraz zaman ver, bir yolunu bulacağım."
 
 # game/script.rpy:6861 ## translate crowdin firstdayofschool_e1e11780:
 msgid "[MB] {i}(whispering){/i} And to show you how committed I am, go into the first bathroom stall in the boy's bathroom during the afternoon and I'll send you a surprise."
-msgstr ""
+msgstr "[MB] {i}(fısıldayarak){/i} Ve ne kadar kararlı olduğumu göstermek için, öğleden sonra erkekler tuvaletindeki ilk tuvalet kabinine git ve sana bir sürpriz göndereceğim."
 
 # game/script.rpy:6862 ## translate crowdin firstdayofschool_e7813929:
 msgid "[RT] {i}Hmmmm.... I wonder what the surprise could be.{/i}"
-msgstr ""
+msgstr "[RT] {i}Hmmmm.... Sürprizin ne olacağını merak ediyorum.{/i}"
 
 # game/script.rpy:6863 ## translate crowdin firstdayofschool_b8ee46a1:
 msgid "[M] So, to help him find the murderer, Oedipus calls for the great prophet Tiresias..."
-msgstr ""
+msgstr "[M] Oedipus, katili bulmasına yardım etmesi için büyük kahin Tiresias'ı çağırır..."
 
 # game/script.rpy:6866 ## translate crowdin firstdayofschool_717f1edf:
 msgid "[RT] {i}Oh good, class is finally over.{/i}"
-msgstr ""
+msgstr "[RT] {i}Oh güzel, ders sonunda bitti.{/i}"
 
 # game/script.rpy:6872 ## translate crowdin firstdayofschool_617c3dec:
 msgid "[R] {i}(whispering){/i} You're a sick fuck. Did you know that?"
-msgstr ""
+msgstr "[R] {i}(fısıldayarak){/i} Sen hasta bir pisliksin. Bunu biliyor musun?"
 
 # game/script.rpy:6873 ## translate crowdin firstdayofschool_c5f44577:
 msgid "[R] {i}(whispering){/i} I don't know what your perverted imagination is coming up with, but I don't want to fuck my own mother!"
-msgstr ""
+msgstr "[R] {i}(fısıldayarak){/i} Sapkın hayal gücün neler üretiyor bilmiyorum ama ben kendi annemi sikmek istemiyorum!"
 
 # game/script.rpy:6874 ## translate crowdin firstdayofschool_f81d6bfa:
 msgid "[MB] {i}(whispering){/i} yeah, well you're clearly in denial, and since you're pretending not to be interested, I think I'll just try to have a go at her anyways."
-msgstr ""
+msgstr "[MB] {i}(fısıldayarak){/i} evet, açıkça inkar ediyorsun ve ilgilenmiyormuş gibi davrandığına göre, sanırım yine de ona ulaşmaya çalışacağım."
 
 # game/script.rpy:6875 ## translate crowdin firstdayofschool_cd568da7:
 msgid "[R] {i}(whispering){/i} Don't you dare!"
-msgstr ""
+msgstr "[R] {i}(fısıldayarak){/i} Sakın cüret edeyim deme!"
 
 # game/script.rpy:6876 ## translate crowdin firstdayofschool_ec175fd2:
 msgid "[MB] {i}(whispering){/i} Ah ha.... I knew it!"
-msgstr ""
+msgstr "[MB] {i}(fısıldayarak){/i} Ah ha.... Biliyordum!"
 
 # game/script.rpy:6877 ## translate crowdin firstdayofschool_71cc99e1:
 msgid "[MB] {i}(whispering){/i} Don't worry, I won't tell anyone, and I won't go after her, but if she comes sniffing around here, I won't be able to resist myself."
-msgstr ""
+msgstr "[MB] {i}(fısıldayarak){/i} Merak etme, kimseye söylemeyeceğim ve peşinden gitmeyeceğim, ama buraları koklamaya gelirse, kendime karşı koyamam."
 
 # game/script.rpy:6878 ## translate crowdin firstdayofschool_18af3a96:
 msgid "[R] {i}(whispering){/i} Yeah, right.... like that would ever happen."
-msgstr ""
+msgstr "[R] {i}(fısıldayarak){/i} .... böyle bir şey asla olmaz."
 
 # game/script.rpy:6879 ## translate crowdin firstdayofschool_c732ef60:
 msgid "[RT] {i}Would that ever happen?{/i}"
-msgstr ""
+msgstr "[RT] {i}Bu olur muydu?{/i}"
 
 # game/script.rpy:6880 ## translate crowdin firstdayofschool_c32dc5b6:
 msgid "[RT] {i}I never thought Mom would take off her clothes in front of a bunch of horny guys either, but my own eyes proved me otherwise.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ben de annemin bir grup azgın erkeğin önünde soyunacağını hiç düşünmemiştim, ama kendi gözlerim bana aksini kanıtladı.{/i}"
 
 # game/script.rpy:6881 ## translate crowdin firstdayofschool_187b6dfd:
 msgid "[RT] {i}Maybe I better keep a close eye on her, now that Dad's in prison, she just might start shopping around. I better make sure she only has eyes for me.{/i}"
-msgstr ""
+msgstr "[RT] {i}Belki de onu yakından takip etsem iyi olur, babam hapse girdiğine göre etrafta alışveriş yapmaya başlayabilir. Gözünün sadece bende olduğundan emin olsam iyi olur.{/i}"
 
 # game/script.rpy:6882 ## translate crowdin firstdayofschool_b8ee46a1_1:
 msgid "[M] So, to help him find the murderer, Oedipus calls for the great prophet Tiresias..."
-msgstr ""
+msgstr "[M] Oedipus, katili bulmasına yardım etmesi için büyük kahin Tiresias'ı çağırır..."
 
 # game/script.rpy:6885 ## translate crowdin firstdayofschool_717f1edf_1:
 msgid "[RT] {i}Oh good, class is finally over.{/i}"
-msgstr ""
+msgstr "[RT] {i}Oh güzel, ders sonunda bitti.{/i}"
 
 # game/script.rpy:6893 ## translate crowdin classlecture_a4531fa1:
 msgid "[M] Now Tiresias is being pressured by Oedipus to reveal to him what he knows of the murder of Laius..."
-msgstr ""
+msgstr "[M] Şimdi Tiresias, Oidipus tarafından Laius'un öldürülmesiyle ilgili bildiklerini ona açıklaması için baskı görmektedir..."
 
 # game/script.rpy:6894 ## translate crowdin classlecture_74868d9f:
 msgid "[RT] {i}So boring, how am I going to stay focused?{/i}"
-msgstr ""
+msgstr "[RT] {i}Çok sıkıcı, nasıl odaklanacağım?{/i}"
 
 # game/script.rpy:6897 ## translate crowdin classlecture_5f2f15df:
 msgid "[RT] {i}At least there is some good eye candy to entertain me through the lecture.{/i}"
-msgstr ""
+msgstr "[RT] {i}En azından ders boyunca beni eğlendirecek güzel bir göz zevki var.{/i}"
 
 # game/script.rpy:6898 ## translate crowdin classlecture_d2f95808:
 msgid "[M] Oedipus grows angry, because Tiresias wishes he did not know who Laius' murderer is, and does not want to reveal to Oedipus and Thebes the truth."
-msgstr ""
+msgstr "[M] Oidipus öfkelenir, çünkü Tiresias Laius'un katilinin kim olduğunu bilmemeyi dilemekte ve gerçeği Oidipus'a ve Thebes'e açıklamak istememektedir."
 
 # game/script.rpy:6903 ## translate crowdin classlecture_5de5b675:
 msgid "[RT] {i}I can remember exactly what they look like.{/i}"
-msgstr ""
+msgstr "[RT] {i}Tam olarak neye benzediklerini hatırlayabiliyorum.{/i}"
 
 # game/script.rpy:6904 ## translate crowdin classlecture_0ebfc029:
 msgid "[RT] {i}To think I used to suck on those things! I wish I was right now!{/i}"
-msgstr ""
+msgstr "[RT] {i}Eskiden o şeyleri emdiğimi düşününce! Keşke şu anda olsaydı!{/i}"
 
 # game/script.rpy:6905 ## translate crowdin classlecture_7ed66501:
 msgid "[M] Oedipus grows so angry after Tiresias reveals that Oedipus is the curse of Thebes, that he accuses Tiresias of conspiring with Creon to overthrow him."
-msgstr ""
+msgstr "[M] Tiresias, Oidipus'un Teb'in laneti olduğunu açıkladıktan sonra Oidipus o kadar öfkelenir ki Tiresias'ı kendisini devirmek için Kreon'la komplo kurmakla suçlar."
 
 # game/script.rpy:6912 ## translate crowdin classlecture_56c78e50:
 msgid "[M] Remember to read lines 508 to 750, and we'll start from here next time."
-msgstr ""
+msgstr "[M] 508'den 750'ye kadar olan satırları okumayı unutmayın, bir dahaki sefere buradan başlayacağız."
 
 # game/script.rpy:6913 ## translate crowdin classlecture_0287fbcc:
 msgid "{i}{b}\"Mom's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin saygısı +1\"{/b}{/i}"
 
 # game/script.rpy:6928 ## translate crowdin classlecture_74868d9f_1:
 msgid "[RT] {i}So boring, how am I going to stay focused?{/i}"
-msgstr ""
+msgstr "[RT] {i}Çok sıkıcı, nasıl odaklanacağım?{/i}"
 
 # game/script.rpy:6931 ## translate crowdin classlecture_5f2f15df_1:
 msgid "[RT] {i}At least there is some good eye candy to entertain me through the lecture.{/i}"
-msgstr ""
+msgstr "[RT] {i}En azından ders boyunca beni eğlendirecek güzel bir göz zevki var.{/i}"
 
 # game/script.rpy:6935 ## translate crowdin classlecture_5de5b675_1:
 msgid "[RT] {i}I can remember exactly what they look like.{/i}"
-msgstr ""
+msgstr "[RT] {i}Tam olarak neye benzediklerini hatırlayabiliyorum.{/i}"
 
 # game/script.rpy:6936 ## translate crowdin classlecture_0ebfc029_1:
 msgid "[RT] {i}To think I used to suck on those things! I wish I was right now!{/i}"
-msgstr ""
+msgstr "[RT] {i}Eskiden o şeyleri emdiğimi düşününce! Keşke şu anda olsaydı!{/i}"
 
 # game/script.rpy:6947 ## translate crowdin classlecture_51507da4:
 msgid "[M] And we'll start from here next time."
-msgstr ""
+msgstr "[M] Bir dahaki sefere buradan başlayacağız."
 
 # game/script.rpy:6948 ## translate crowdin classlecture_0287fbcc_1:
 msgid "{i}{b}\"Mom's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin saygısı +1\"{/b}{/i}"
 
 # game/script.rpy:6995 ## translate crowdin bathstall_06a10bab:
 msgid "[RT] {i}The scene of my first blowjob. Man! That was awesome! I've got to convince Matt to let Megan give me some more action.{/i}"
-msgstr ""
+msgstr "[RT] {i}İlk oral seks sahnem. Vay be! Bu harikaydı! Matt'i Megan'ın bana biraz daha sakso çekmesi için ikna etmeliyim.{/i}"
 
 # game/script.rpy:7001 ## translate crowdin bathstall_0854cd38:
 msgid "[RT] {i}The scene of my first blowjob. Man! That was awesome!{/i}"
-msgstr ""
+msgstr "[RT] {i}İlk oral seks sahnem. Vay be! Bu harikaydı!{/i}"
 
 # game/script.rpy:7006 ## translate crowdin bathstall_bd267b7e:
 msgid "[RT] {i}I don't need to use the bathroom right now.{/i}"
-msgstr ""
+msgstr "[RT] {i}Şu anda tuvaleti kullanmama gerek yok.{/i}"
 
 # game/script.rpy:7015 ## translate crowdin stallbj_473b3b01:
 msgid "[RT] {i}Ok, so Matt said to wait in the afternoon and he'd send me a surprise.{/i}"
-msgstr ""
+msgstr "[RT] {i}Tamam, Matt öğleden sonra beklememi ve bana bir sürpriz göndereceğini söyledi.{/i}"
 
 # game/script.rpy:7016 ## translate crowdin stallbj_e8a8db4f:
 msgid "[RT] {i}I wonder what it could be. Hmmm maybe dirty pictures of girls in our school? That would be awesome.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ne olabileceğini merak ediyorum. Belki de okulumuzdaki kızların çıplak resimleri? Bu harika olurdu.{/i}"
 
 # game/script.rpy:7019 ## translate crowdin stallbj_ed8cd1e9:
 msgid "{i}\"knock knock knock\"{/i}"
@@ -6106,67 +6106,67 @@ msgstr "{i}\"tak tak tak\"{/i}"
 
 # game/script.rpy:7020 ## translate crowdin stallbj_cc1ba024:
 msgid "[X] {i}(whispering){/i} Hey [ryan], is that you?"
-msgstr ""
+msgstr "[X] {i}(fısıldayarak){/i} Hey [ryan], sen misin?"
 
 # game/script.rpy:7021 ## translate crowdin stallbj_8b3f1614:
 msgid "[RT] {i}(whispering){/i} Yes it's me. Who's asking?"
-msgstr ""
+msgstr "[RT] {i}(fısıldayarak){/i} Evet, benim. Kim soruyor?"
 
 # game/script.rpy:7025 ## translate crowdin stallbj_8bffdbfc:
 msgid "[MG] Hey there, stud. Are you ready to get your knob polished?"
-msgstr ""
+msgstr "[MG] Selam, aygır. Topuzunu parlatmaya hazır mısın?"
 
 # game/script.rpy:7026 ## translate crowdin stallbj_9846350f:
 msgid "[R] .... What?!!.... Am I?.... Did Matt send you?"
-msgstr ""
+msgstr "[R] .... Ne?!.... Ben mi? .... Seni Matt mi gönderdi?"
 
 # game/script.rpy:7027 ## translate crowdin stallbj_d3735fff:
 msgid "[MG] No, I've just had an insatiable craving for your cock!.... Haha.... of course Matt sent me."
-msgstr ""
+msgstr "[MG] Hayır, sadece senin sikin için doyumsuz bir istek duydum!.... Haha.... tabii ki beni Matt gönderdi."
 
 # game/script.rpy:7028 ## translate crowdin stallbj_20ded775:
 msgid "[MG] He said he owes you a favor?"
-msgstr ""
+msgstr "[MG] Sana bir iyilik borçlu olduğunu mu söyledi?"
 
 # game/script.rpy:7029 ## translate crowdin stallbj_b1aaa9eb:
 msgid "[R] Well yeah, but this isn't what I was expecting.... wow!!"
-msgstr ""
+msgstr "[R] Evet, ama beklediğim bu değildi.... vay be!!"
 
 # game/script.rpy:7032 ## translate crowdin stallbj_f472a10e:
 msgid "[MG] Wow yourself, you're already hard, and almost as big as he is!"
-msgstr ""
+msgstr "[MG] Vay canına, şimdiden sertleşmişsin!"
 
 # game/script.rpy:7033 ## translate crowdin stallbj_2da64818:
 msgid "[MG] Now just relax while I take care of you."
-msgstr ""
+msgstr "[MG] Şimdi ben seninle ilgilenirken rahatla."
 
 # game/script.rpy:7034 ## translate crowdin stallbj_369c873a:
 msgid "[MG] You'll find that it's nice to have Matt owe you a favor."
-msgstr ""
+msgstr "[MG] Matt'in sana bir iyilik borçlu olmasının güzel olduğunu göreceksin."
 
 # game/script.rpy:7038 ## translate crowdin stallbj_b372e47c:
 msgid "[R] Oh shit, this feels so good."
-msgstr ""
+msgstr "[R] Siktir, bu çok iyi hissettiriyor."
 
 # game/script.rpy:7039 ## translate crowdin stallbj_e6ffffea:
 msgid "[MG] Haha.... well, hold on a little longer."
-msgstr ""
+msgstr "[MG] Haha.... biraz daha dayan."
 
 # game/script.rpy:7050 ## translate crowdin stallbj_79104957:
 msgid "[MG] {i}\"Bleurghch\"{/i}"
-msgstr ""
+msgstr "[MG] {i}\"Gukkguk\"{/i}"
 
 # game/script.rpy:7052 ## translate crowdin stallbj_59c8177f:
 msgid "[MG] {i}\"Schhhhluurrrrp\"{/i}"
-msgstr ""
+msgstr "[MG] {i}\"Lokloklok\"{/i}"
 
 # game/script.rpy:7111 ## translate crowdin megan_cum_ntr_ff929df5:
 msgid "[RT] {i}Oh my God, I'm gonna cum!{/i}"
-msgstr ""
+msgstr "[RT] {i}Evetttt, boşalacağım!{/i}"
 
 # game/script.rpy:7113 ## translate crowdin megan_cum_ntr_4f0ad1c6:
 msgid "[RT] {i}Where should I do it?{/i}"
-msgstr ""
+msgstr "[RT] {i}Ama neresine?{/i}"
 
 # game/script.rpy:7123 ## translate crowdin megan_cum_ntr_1207d4fe:
 msgid "[R] Aaahhhh!!!..."
@@ -6182,15 +6182,15 @@ msgstr ""
 
 # game/script.rpy:7148 ## translate crowdin megan_cum_ntr_4b972541:
 msgid "[MG] Oohh Mry Groshh!! Thrat wras sro mruch crumm!!"
-msgstr ""
+msgstr "[MG] Aaman Tanrm!! Cçok faazla speeerm!!"
 
 # game/script.rpy:7149 ## translate crowdin megan_cum_ntr_223783fe:
 msgid "[R] Oh my God!!.... My first blowjob!!.... That was incredible!!"
-msgstr ""
+msgstr "[R] Aman Tanrım!.... İlk oral seksim!.... Bu inanılmazdı!!"
 
 # game/script.rpy:7150 ## translate crowdin megan_cum_ntr_d8dae547:
 msgid "[MG] Hrahrahra.... wrell gret Mratt tro owre ru anrother fravor, arnd I'rrll sree ru agrain sroon."
-msgstr ""
+msgstr "[MG] Haharsah.... iiy ki Mratt sane bır iilikk daa yabptı vee yakıenda görrüsşeceeğizz."
 
 # game/script.rpy:7151 ## translate crowdin megan_cum_ntr_41f3cfec:
 msgid "[MG] {i}\"Glurp.... glurp.... \"{/i}"
@@ -6202,11 +6202,11 @@ msgstr ""
 
 # game/script.rpy:7170 ## translate crowdin megan_cum_ntr_d4ae993d:
 msgid "[MG] Wow, that was a lot of cum!"
-msgstr ""
+msgstr "[MG] Vay canına, çok fazla sperm var!"
 
 # game/script.rpy:7171 ## translate crowdin megan_cum_ntr_7c39159a:
 msgid "[MG] Thank you for not getting it in my hair."
-msgstr ""
+msgstr "[MG] Saçıma bulaştırmadığın için teşekkürler."
 
 # game/script.rpy:7172 ## translate crowdin megan_cum_ntr_3d100909:
 msgid "[R] Thank you for that my first blowjob!!"
@@ -6218,11 +6218,11 @@ msgstr ""
 
 # game/script.rpy:7191 ## translate crowdin girlslockersmorning_b5e65263:
 msgid "[RT] {i}What am I doing here? I could get in a lot of trouble if somebody sees me.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ne yapıyorum ben burada? Biri beni görürse başım belaya girebilir.{/i}"
 
 # game/script.rpy:7198 ## translate crowdin girlslockersafternoon_b5e65263:
 msgid "[RT] {i}What am I doing here? I could get in a lot of trouble if somebody sees me.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ne yapıyorum ben burada? Biri beni görürse başım belaya girebilir.{/i}"
 
 # game/script.rpy:7210 ## translate crowdin girllocker_2a7e8ad1:
 msgid "[RT] {i}Nothing in here.{/i}"
@@ -6606,7 +6606,7 @@ msgstr "{i}\"200 dolar ve 250 dolar bahşiş aldınız.\"{/i}"
 
 # game/script.rpy:7537 ## translate crowdin warehouse_33f45ad9:
 msgid "I can only make deliveries in the afternoon."
-msgstr ""
+msgstr "Sadece öğleden sonra teslimat yapabilirim."
 
 # game/script.rpy:7548 ## translate crowdin warehouse_18c04cf9:
 msgid "\"You received a chocolate bar\""
@@ -6726,7 +6726,7 @@ msgstr ""
 
 # game/script.rpy:7709 ## translate crowdin warehouse_b27ef456:
 msgid "\"There's nothing else to do here.\""
-msgstr ""
+msgstr "\"Burada yapacak başka bir şey yok.\""
 
 # game/script.rpy:7733 ## translate crowdin warehousealso_187a476b:
 msgid "{i}\"You received $200 and no tips.\"{/i}"
@@ -6754,7 +6754,7 @@ msgstr "{i}\"200 dolar ve 250 dolar bahşiş aldınız.\"{/i}"
 
 # game/script.rpy:7780 ## translate crowdin warehousealso_33f45ad9:
 msgid "I can only make deliveries in the afternoon."
-msgstr ""
+msgstr "Sadece öğleden sonra teslimat yapabilirim."
 
 # game/script.rpy:7791 ## translate crowdin warehousealso_18c04cf9:
 msgid "\"You received a chocolate bar\""
@@ -6874,7 +6874,7 @@ msgstr ""
 
 # game/script.rpy:7951 ## translate crowdin warehousealso_dc658733:
 msgid "\"There's nothing left to do here.\""
-msgstr ""
+msgstr "\"Burada bir şey yok.\""
 
 # game/script.rpy:7964 ## translate crowdin dinnerfirst_bc7c87c6:
 msgid "[RT] {i}Oh, man.... I can't get my conversation with Uncle Bobby out of my head. {p}More importantly, how do I tell Mom and Lauren about it?{/i}"
@@ -7478,7 +7478,7 @@ msgstr "[MT] {i}Oh, hayır.... benden çok utanmış görünüyor.{/i}"
 
 # game/script.rpy:8239 ## translate crowdin dinnerfirst_2907c73e:
 msgid "{i}{b}\"Mom's Libido -3\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin azgınlığı -3\"{/b}{/i}"
 
 # game/script.rpy:8240 ## translate crowdin dinnerfirst_24b07823:
 msgid "{i}{b}\"Mom's Affection -5\"{/b}{/i}"
@@ -7486,7 +7486,7 @@ msgstr ""
 
 # game/script.rpy:8241 ## translate crowdin dinnerfirst_b47c24a5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin saygısı +1\"{/b}{/i}"
 
 # game/script.rpy:8247 ## translate crowdin dinnerfirst_b8e25b67:
 msgid "[RT] {i}OH shit!{/i}"
@@ -7574,7 +7574,7 @@ msgstr "Cidden, bir kez daha tıkladığınızda oyun menüsüne geri döneceksi
 
 # game/script.rpy:8303 ## translate crowdin collectingpayment_34a9d44a:
 msgid "[RT] {i}Looks like Lauren's watching her ponies show again.{/i}"
-msgstr ""
+msgstr "[RT] {i}Görünüşe göre Lauren yine ponies'leri izliyor.{/i}"
 
 # game/script.rpy:8304 ## translate crowdin collectingpayment_e81a1dd4:
 msgid "DING DONG"
@@ -7582,27 +7582,27 @@ msgstr ""
 
 # game/script.rpy:8305 ## translate crowdin collectingpayment_47a6f8a0:
 msgid "[RT] {i}That's the doorbell. I'm pretty sure I know who that is.{/i}"
-msgstr ""
+msgstr "[RT] {i}Bu kapı zili. Onun kim olduğunu bildiğime eminim.{/i}"
 
 # game/script.rpy:8310 ## translate crowdin collectingpayment_49b69b6c:
 msgid "[J] Hello little boy, is your mom at home?"
-msgstr ""
+msgstr "[J] Merhaba küçük çocuk, annen evde mi?"
 
 # game/script.rpy:8311 ## translate crowdin collectingpayment_9b083f3b:
 msgid "[RT] {i}Little boy, what an asshole!{/i}"
-msgstr ""
+msgstr "[RT] {i}Küçük çocuk mu, ne göt herif ama!{/i}"
 
 # game/script.rpy:8312 ## translate crowdin collectingpayment_cf1fab13:
 msgid "[R] Just a second."
-msgstr ""
+msgstr "[R] Bir saniye."
 
 # game/script.rpy:8313 ## translate crowdin collectingpayment_970855d5:
 msgid "[R] Hey Mom, there's some strange men at the door for you!"
-msgstr ""
+msgstr "[R] Anne, kapıda seni bekleyen yabancı adamlar var!"
 
 # game/script.rpy:8316 ## translate crowdin collectingpayment_79fde2c7:
 msgid "[R] Wow, Mom! You look great!"
-msgstr ""
+msgstr "[R] Vay canına, anne! Harika görünüyorsun!"
 
 # game/script.rpy:8317 ## translate crowdin collectingpayment_6656fe70:
 msgid "[M] Please, [ryan].... not now."
@@ -7614,35 +7614,35 @@ msgstr ""
 
 # game/script.rpy:8322 ## translate crowdin collectingpayment_74239e20:
 msgid "[R] Of course, Mom, did you really doubt me?"
-msgstr ""
+msgstr "[R] Tabii ki anne, benden gerçekten şüphe mi ettin?"
 
 # game/script.rpy:8323 ## translate crowdin collectingpayment_136da53b:
 msgid "{i}\"Money -$1,000\"{/i}"
-msgstr ""
+msgstr "{i}\"Paran -$1,000\"{/i}"
 
 # game/script.rpy:8329 ## translate crowdin collectingpayment_fb27af2b:
 msgid "[M] Oh, my little guy!"
-msgstr ""
+msgstr "[M] Oh, benim küçük adamım!"
 
 # game/script.rpy:8330 ## translate crowdin collectingpayment_28ffd828:
 msgid "[M] Joey, thanks for dropping by, and I'm sure we'll see you next week!"
-msgstr ""
+msgstr "[M] Joey, uğradığın için teşekkürler ve eminim gelecek hafta görüşeceğiz!"
 
 # game/script.rpy:8331 ## translate crowdin collectingpayment_2513f28b:
 msgid "[J] Well, I'll admit I'm a little disappointed. I mean don't get me wrong, it's admirable that you were able to pay your debt,"
-msgstr ""
+msgstr "[J] Biraz hayal kırıklığına uğradığımı itiraf etmeliyim. Yani beni yanlış anlamayın, borcunuzu ödeyebilmiş olmanız takdire şayan,"
 
 # game/script.rpy:8332 ## translate crowdin collectingpayment_9177a126:
 msgid "[J] But I enjoy your company more than I enjoy the money."
-msgstr ""
+msgstr "[J] Ama arkadaşlığınızdan paraya göre daha çok zevk alıyorum."
 
 # game/script.rpy:8333 ## translate crowdin collectingpayment_d647bd82:
 msgid "[J] We'll see you next week."
-msgstr ""
+msgstr "[J] Haftaya görüşmek üzere."
 
 # game/script.rpy:8336 ## translate crowdin collectingpayment_59d44aa6:
 msgid "[M] Oh, thank you! Thank you! Thank you!!"
-msgstr ""
+msgstr "[M] Oh, teşekkür ederim! Teşekkür ederim! Teşekkür ederim!!"
 
 # game/script.rpy:8337 ## translate crowdin collectingpayment_e8aca4c4:
 msgid "{i}{b}\"Mom's Affection +10\"{/b}{/i}"
@@ -7650,27 +7650,27 @@ msgstr ""
 
 # game/script.rpy:8338 ## translate crowdin collectingpayment_de090f2d:
 msgid "{i}{b}\"Mom's Anger =0\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin kızgınlığı =0\"{/b}{/i}"
 
 # game/script.rpy:8340 ## translate crowdin collectingpayment_c9ba28b5:
 msgid "[M] I am so relieved I don't have to go shake my ass for them tonight!"
-msgstr ""
+msgstr "[M] Bu gece onlar için götümü sallamak zorunda olmadığım için çok rahatladım!"
 
 # game/script.rpy:8343 ## translate crowdin collectingpayment_1f921a0b:
 msgid "[RT] {i}Oh, but it's such a firm ass!{/i}"
-msgstr ""
+msgstr "[RT] {i}Oh, ama bu çok sıkı bir göt!{/i}"
 
 # game/script.rpy:8346 ## translate crowdin collectingpayment_45f710da:
 msgid "[RT] {i}And these perfect milky white breasts right in my face!{/i}"
-msgstr ""
+msgstr "[RT] {i}Ve bu mükemmel süt beyazı göğüsler tam yüzüme bakıyor!{/i}"
 
 # game/script.rpy:8347 ## translate crowdin collectingpayment_c12c8b9c:
 msgid "[RT] {i}I'm so glad I could make her feel so happy.{/i}"
-msgstr ""
+msgstr "[RT] {i}Onu bu kadar mutlu edebildiğime çok sevindim.{/i}"
 
 # game/script.rpy:8350 ## translate crowdin collectingpayment_b72fcdc5:
 msgid "[RT] {i}And this hug is making me so happy!{/i}"
-msgstr ""
+msgstr "[RT] {i}Ve bu sarılma beni çok mutlu ediyor!{/i}"
 
 # game/script.rpy:8351 ## translate crowdin collectingpayment_42d71c1f:
 msgid "[RT] ..."
@@ -7678,59 +7678,59 @@ msgstr ""
 
 # game/script.rpy:8352 ## translate crowdin collectingpayment_5314b939:
 msgid "[RT] {i}Maybe a little bit too happy!{/i}"
-msgstr ""
+msgstr "[RT] {i}Belki biraz fazla mutlu!{/i}"
 
 # game/script.rpy:8353 ## translate crowdin collectingpayment_89c56151:
 msgid "[RT] {i}Oh, no.... stay down.... stay down.... stay down!.... {/i}"
-msgstr ""
+msgstr "[RT] {i}Oh, hayır.... olduğun yerde kal.... hayır.... hayır!.... {/i}"
 
 # game/script.rpy:8356 ## translate crowdin collectingpayment_8e0ea896:
 msgid "[RT] {i}Shit!.... {/i}"
-msgstr ""
+msgstr "[RT] {i}Siktir!.... {/i}"
 
 # game/script.rpy:8357 ## translate crowdin collectingpayment_6e9dc37d:
 msgid "[RT] {i}She's going to notice any moment.... {/i}"
-msgstr ""
+msgstr "[RT] {i}Her an fark edebilir.... {/i}"
 
 # game/script.rpy:8358 ## translate crowdin collectingpayment_1f0d1982:
 msgid "[MT] {i}Oh my God! Is that what I think it is?{/i}"
-msgstr ""
+msgstr "[MT] {i}Aman Tanrım! Bu düşündüğüm şey mi?{/i}"
 
 # game/script.rpy:8359 ## translate crowdin collectingpayment_b25b1e9d:
 msgid "[RT] {i}Aaahhhh.... what should I do?{/i}"
-msgstr ""
+msgstr "[RT] {i}Aahhh.... ne yapmalıyım?{/i}"
 
 # game/script.rpy:8362 ## translate crowdin collectingpayment_888de7c8:
 msgid "[M] Ouch, honey! Why did you drop me?"
-msgstr ""
+msgstr "[M] Ah, tatlım! Beni neden ittin?"
 
 # game/script.rpy:8363 ## translate crowdin collectingpayment_db80635b:
 msgid "[R] Sorry, Mom! I've got to run!"
-msgstr ""
+msgstr "[R] Üzgünüm, anne! Uzaklaşmam lazım!"
 
 # game/script.rpy:8364 ## translate crowdin collectingpayment_0243fb60:
 msgid "[R] It's an emergency! I think I've got diarrhea!"
-msgstr ""
+msgstr "[R] Bu acil bir durum! Sanırım ishal oldum!"
 
 # game/script.rpy:8365 ## translate crowdin collectingpayment_1d2bfcb8:
 msgid "[MT] {i}Diarrhea my bruised ass!{/i}"
-msgstr ""
+msgstr "[MT] {i}İshalmiş, götüme anlat sen onu!{/i}"
 
 # game/script.rpy:8366 ## translate crowdin collectingpayment_4fd1ca18:
 msgid "[MT] {i}My little pervert boy had a hardon for me.{/i}"
-msgstr ""
+msgstr "[MT] {i}Benim küçük sapık oğlum bana karşı sertleşmişti.{/i}"
 
 # game/script.rpy:8367 ## translate crowdin collectingpayment_d886c205:
 msgid "[MT] {i}Shit.... I guess it was my fault for pressing my body against him like that.{/i}"
-msgstr ""
+msgstr "[MT] {i}Siktir.... Sanırım vücudumu ona o şekilde bastırmak benim hatamdı.{/i}"
 
 # game/script.rpy:8368 ## translate crowdin collectingpayment_c324376c:
 msgid "[MT] {i}Probably perfectly normal for boys his age with raging hormones.{/i}"
-msgstr ""
+msgstr "[MT] {i}Muhtemelen onun yaşındaki hormonlu çocuklar için gayet normaldir.{/i}"
 
 # game/script.rpy:8369 ## translate crowdin collectingpayment_dc5373dd:
 msgid "[MT] {i}But it makes me happy that I can still do that to boys his age.{/i}"
-msgstr ""
+msgstr "[MT] {i}Ama bunu onun yaşındaki çocuklara hala yapabiliyor olmak beni mutlu ediyor.{/i}"
 
 # game/script.rpy:8370 ## translate crowdin collectingpayment_3265e8ee:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
@@ -7738,15 +7738,15 @@ msgstr ""
 
 # game/script.rpy:8385 ## translate crowdin momdissapointed_65b14a51:
 msgid "[R] Sorry, Mom! I wasn't able to get enough money together this week."
-msgstr ""
+msgstr "[R] Üzgünüm, anne! Bu hafta yeterince para toplayamadım."
 
 # game/script.rpy:8386 ## translate crowdin momdissapointed_d58d1493:
 msgid "[M] Oh sweety, don't worry about it. It was just too much to ask of you."
-msgstr ""
+msgstr "[M] Tatlım, endişelenme. Senden çok fazla şey istedim."
 
 # game/script.rpy:8387 ## translate crowdin momdissapointed_a5397441:
 msgid "[RT] {i}Oh no! I feel like a piece of shit! Look how sad I've made her.{/i}"
-msgstr ""
+msgstr "[RT] {i}Olamaz! Kendimi bok gibi hissediyorum! Bak onu ne kadar üzdüm.{/i}"
 
 # game/script.rpy:8388 ## translate crowdin momdissapointed_24b07823:
 msgid "{i}{b}\"Mom's Affection -5\"{/b}{/i}"
@@ -7754,35 +7754,35 @@ msgstr ""
 
 # game/script.rpy:8394 ## translate crowdin momdissapointed_bb64a15e:
 msgid "[RT] {i}There she goes off to the club.{/i}"
-msgstr ""
+msgstr "[RT] {i}İşte kulübe gidiyor.{/i}"
 
 # game/script.rpy:8395 ## translate crowdin momdissapointed_eff61eca:
 msgid "[RT] {i}I wonder if I should go make sure she is ok again.{/i}"
-msgstr ""
+msgstr "[RT] {i}Acaba gidip tekrar iyi olduğundan emin mi olsam?{/i}"
 
 # game/script.rpy:8408 ## translate crowdin nightclubbing_09a446a5:
 msgid "[RT] {i}I think I remember my way to the strip pole.... {/i}"
-msgstr ""
+msgstr "[RT] {i}Sanırım striptiz tarafına giden yolu hatırlıyorum.... {/i}"
 
 # game/script.rpy:8411 ## translate crowdin nightclubbing_bbbc8890:
 msgid "[RT] {i}Past the bar, through the casino, and Bingo!{/i}"
-msgstr ""
+msgstr "[RT] {i}Barı geç, kumarhaneye doğru, ve Bingo!{/i}"
 
 # game/script.rpy:8414 ## translate crowdin nightclubbing_d27095f9:
 msgid "[RT] {i}Noish! I haven't missed anything yet!{/i}"
-msgstr ""
+msgstr "[RT] {i}Henüz bir şey kaçırmamışım!{/i}"
 
 # game/script.rpy:8415 ## translate crowdin nightclubbing_ca80e457:
 msgid "[RT] {i}Ehh.... she's wearing the same outfit as last time. They should have her do different outfits every week or something.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ehh.... geçen seferkiyle aynı kıyafeti giyiyor. Her hafta farklı kıyafetler falan giydirmeliler.{/i}"
 
 # game/script.rpy:8416 ## translate crowdin nightclubbing_19c09241:
 msgid "[RT] {i}Still, I'm pretty damn hot for teacher!{/i}"
-msgstr ""
+msgstr "[RT] {i}Yine de, öğretmen için oldukça ateşliyim!{/i}"
 
 # game/script.rpy:8419 ## translate crowdin nightclubbing_0c6ebe9f:
 msgid "[RT] {i}Ok, I've just got to be extra careful this time! It will be pretty hard to explain to her what I'm doing here, now that she knows, that I know, what she's doing here.{/i}"
-msgstr ""
+msgstr "[RT] {i}Tamam, bu sefer daha dikkatli olmalıyım! Artık burada ne yaptığını bildiğimi bildiğine göre, ona burada ne yaptığımı açıklamak oldukça zor olacak.{/i}"
 
 # game/script.rpy:8420 ## translate crowdin nightclubbing_4a721ba9:
 msgid "[RT] {i}The look in her eyes is at least pretty confident.{/i}"
@@ -7790,27 +7790,27 @@ msgstr "[RT] {i}Gözlerindeki bakış en azından kendinden oldukça emin.{/i}"
 
 # game/script.rpy:8421 ## translate crowdin nightclubbing_32f78d5c:
 msgid "[MT] {i}The alchohol is kicking in already, I'm feeling much more loose!{/i}"
-msgstr ""
+msgstr "[MT] {i}Alkol şimdiden etkisini göstermeye başladı, kendimi çok daha gevşek hissediyorum!{/i}"
 
 # game/script.rpy:8422 ## translate crowdin nightclubbing_710df11a:
 msgid "[MT] {i}This is so much easier than the first time.{/i}"
-msgstr ""
+msgstr "[MT] {i}Bu ilk seferden çok daha kolay.{/i}"
 
 # game/script.rpy:8425 ## translate crowdin nightclubbing_632b0bd0:
 msgid "[MT] {i}I still can't believe my son snuck in here and saw me stripping.{/i}"
-msgstr ""
+msgstr "[MT] {i}Oğlumun buraya gizlice girip beni soyunurken gördüğüne hala inanamıyorum.{/i}"
 
 # game/script.rpy:8428 ## translate crowdin nightclubbing_2d8148a4:
 msgid "[MT] {i}I hope that didn't traumatize him too much!{/i}"
-msgstr ""
+msgstr "[MT] {i}Umarım bu onu çok fazla travmatize etmemiştir!{/i}"
 
 # game/script.rpy:8431 ## translate crowdin nightclubbing_e3c050f1:
 msgid "[MT] {i}Actually, if I remember right, he said I looked amazing!{/i}"
-msgstr ""
+msgstr "[MT] {i}Aslında, yanlış hatırlamıyorsam, harika göründüğümü söylemişti!{/i}"
 
 # game/script.rpy:8434 ## translate crowdin nightclubbing_41653884:
 msgid "[MT] {i}He really is such a sweet boy. Maybe a little perverted, but that probably is just because he's got raging hormones and is living in a house full of girls.{/i}"
-msgstr ""
+msgstr "[MT] {i}Gerçekten çok tatlı bir çocuk. Belki biraz sapık, ama bu muhtemelen azgın hormonları olduğu ve kızlarla dolu bir evde yaşadığı içindir.{/i}"
 
 # game/script.rpy:8437 ## translate crowdin nightclubbing_31a3b755:
 msgid "[RT] {i}Oh, wow! My cock could cut diamonds right now!{/i}"
@@ -7826,23 +7826,23 @@ msgstr "[RT] {i}Oh, bu çok yanlış. Ama sanırım bu yüzden bu kadar sıcak!{
 
 # game/script.rpy:8440 ## translate crowdin nightclubbing_76b97bbb:
 msgid "[RT] {i}I feel bad for whoever has to clean up after me.{/i}"
-msgstr ""
+msgstr "[RT] {i}Benden sonra temizlik yapmak zorunda kalanlar için üzülüyorum.{/i}"
 
 # game/script.rpy:8449 ## translate crowdin nightclubbing_e698a925:
 msgid "[MT] {i}I shouldn't be thinking about my own son so much while I'm up here shaking my ass!{/i}"
-msgstr ""
+msgstr "[MT] {i}Burada götümü sallarken kendi oğlumu bu kadar çok düşünmemeliyim!{/i}"
 
 # game/script.rpy:8450 ## translate crowdin nightclubbing_c2730186:
 msgid "[MT] {i}Yet for some reason thinking of him watching me strip in public excites me just a bit.{/i}"
-msgstr ""
+msgstr "[MT] {i}Yine de nedense onun beni herkesin içinde soyunurken izlediğini düşünmek beni biraz heyecanlandırıyor.{/i}"
 
 # game/script.rpy:8451 ## translate crowdin nightclubbing_0a6cebf4:
 msgid "{i}{b}\"Mom's Libido +3\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin azgınlığı +3\"{/b}{/i}"
 
 # game/script.rpy:8453 ## translate crowdin nightclubbing_129174a8:
 msgid "[MT] {i}I've got to be careful, or this pole will get too wet and slippery for the next girl.{/i}"
-msgstr ""
+msgstr "[MT] {i}Dikkatli olmalıyım, yoksa bu direk bir sonraki kız için çok ıslak ve kaygan olacak.{/i}"
 
 # game/script.rpy:8464 ## translate crowdin nightclubbing_7be50221:
 msgid "[MT] {i}This is actually pretty exhilarating!{/i}"
@@ -7866,7 +7866,7 @@ msgstr "[MT] {i}Bu, para kazanmanın diğer pek çok yolunu geride bırakır.{/i
 
 # game/script.rpy:8469 ## translate crowdin nightclubbing_93586d03:
 msgid "[MT] {i}Oh, God! Am I actually enjoying this. I think I'm getting really wet!{/i}"
-msgstr ""
+msgstr "[MT] {i}Oh, Tanrım! Bundan gerçekten zevk alıyorum. Sanırım gerçekten ıslanıyorum!{/i}"
 
 # game/script.rpy:8473 ## translate crowdin nightclubbing_09c1e611:
 msgid "[MT] {i}OH MY GOD!! Is my own son peeking around the corner again?!!{/i}"
@@ -7874,11 +7874,11 @@ msgstr "[MT] {i}AMAN TANRIM! Oğlum yine köşeden mi izliyor?!!{/i}"
 
 # game/script.rpy:8474 ## translate crowdin nightclubbing_c318f833:
 msgid "[MT] {i}Oh no! I really have fucked him up!{/i}"
-msgstr ""
+msgstr "[MT] {i}Olamaz! Onu gerçekten mahvettim!{/i}"
 
 # game/script.rpy:8475 ## translate crowdin nightclubbing_2907c73e:
 msgid "{i}{b}\"Mom's Libido -3\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin azgınlığı -3\"{/b}{/i}"
 
 # game/script.rpy:8476 ## translate crowdin nightclubbing_24b07823:
 msgid "{i}{b}\"Mom's Affection -5\"{/b}{/i}"
@@ -7886,7 +7886,7 @@ msgstr ""
 
 # game/script.rpy:8477 ## translate crowdin nightclubbing_b47c24a5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin saygısı +1\"{/b}{/i}"
 
 # game/script.rpy:8483 ## translate crowdin nightclubbing_b8e25b67:
 msgid "[RT] {i}OH shit!{/i}"
@@ -7898,19 +7898,19 @@ msgstr "[RT] {i}Beni gördü!{/i}"
 
 # game/script.rpy:8485 ## translate crowdin nightclubbing_0de6d045:
 msgid "[RT] {i}I need to get my dick back in my pants!{/i}"
-msgstr ""
+msgstr "[RT] {i}Sikimi pantolonuma geri sokmam lazım!{/i}"
 
 # game/script.rpy:8486 ## translate crowdin nightclubbing_4a3d505a:
 msgid "[RT] {i}Now careful not to zip him up!{/i}"
-msgstr ""
+msgstr "[RT] {i}Fermuarını çekmemeye dikkat et!{/i}"
 
 # game/script.rpy:8489 ## translate crowdin nightclubbing_161dff8d:
 msgid "[RT] {i}Shit!.... She's coming over here!{/i}"
-msgstr ""
+msgstr "[RT] {i}Siktir!.... Buraya geliyor!{/i}"
 
 # game/script.rpy:8490 ## translate crowdin nightclubbing_14f85e90:
 msgid "[RT] {i}Shit, shit, shit!.... What am I going to say?{/i}"
-msgstr ""
+msgstr "[RT] {i}Siktir, siktir, siktir!.... Ne diyeceğim?{/i}"
 
 # game/script.rpy:8493 ## translate crowdin nightclubbing_e375c2ff:
 msgid "[M] [ryan]! What the hell are you doing here again!"
@@ -7918,123 +7918,123 @@ msgstr "[M] [ryan]! Burada yine ne halt ediyorsun!"
 
 # game/script.rpy:8494 ## translate crowdin nightclubbing_4b7ef1d4:
 msgid "[R] I.... I.... I..."
-msgstr ""
+msgstr "[R] Ben.... Ben.... Ben..."
 
 # game/script.rpy:8497 ## translate crowdin nightclubbing_82c9f43e:
 msgid "[M] [ryan]?.... [ryan]!"
-msgstr ""
+msgstr "[M] [ryan]?.... [ryan]!"
 
 # game/script.rpy:8498 ## translate crowdin nightclubbing_f0909fec:
 msgid "[M] Eyes up here!"
-msgstr ""
+msgstr "[M] Gözler yukarı!"
 
 # game/script.rpy:8501 ## translate crowdin nightclubbing_3f1a5a92:
 msgid "[R] Sorry, it's just you're naked, and it's really distracting."
-msgstr ""
+msgstr "[R] Üzgünüm, çıplaksın ve bu gerçekten dikkat dağıtıcı."
 
 # game/script.rpy:8502 ## translate crowdin nightclubbing_a9349aff:
 msgid "[M] Well, do I need to go get some clothes on?"
-msgstr ""
+msgstr "[M] Gidip üzerime bir şeyler giyeyim mi?"
 
 # game/script.rpy:8503 ## translate crowdin nightclubbing_e38c89c0:
 msgid "[R] No!.... I mean.... only if you.... want to."
-msgstr ""
+msgstr "[R] Hayır!.... Demek istediğim.... sadece.... eğer istiyorsan."
 
 # game/script.rpy:8504 ## translate crowdin nightclubbing_d8126bd5:
 msgid "[M] HA!.... I knew it."
-msgstr ""
+msgstr "[M] HA!.... Biliyordum."
 
 # game/script.rpy:8505 ## translate crowdin nightclubbing_8f99b1c3:
 msgid "[R] Knew what?"
-msgstr ""
+msgstr "[R] Neyi biliyordun?"
 
 # game/script.rpy:8508 ## translate crowdin nightclubbing_2a6e42d5:
 msgid "[M] You're a little lying pervert!"
-msgstr ""
+msgstr "[M] Sen küçük yalancı bir sapıksın!"
 
 # game/script.rpy:8509 ## translate crowdin nightclubbing_b44abc33:
 msgid "{i}{b}\"Mom's Anger +10\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin kızgınlığı +10\"{/b}{/i}"
 
 # game/script.rpy:8511 ## translate crowdin nightclubbing_8eade7e1:
 msgid "[R] What?!..."
-msgstr ""
+msgstr "[R] Ne?!..."
 
 # game/script.rpy:8512 ## translate crowdin nightclubbing_d2ba2861:
 msgid "[M] Did you really not have enough money to pay off our weekly Mafia debt?"
-msgstr ""
+msgstr "[M] Haftalık mafya borcumuzu ödeyecek kadar paran yok muydu gerçekten?"
 
 # game/script.rpy:8513 ## translate crowdin nightclubbing_387f83dd:
 msgid "[R] What are you saying?"
-msgstr ""
+msgstr "[R] Ne demek istiyorsun?"
 
 # game/script.rpy:8514 ## translate crowdin nightclubbing_92de0376:
 msgid "[M] I'm saying that I'm beginning to suspect that even if you had the money, you wouldn't have given it to the DeCapos bacause you wanted to come here and stare at your mom naked!"
-msgstr ""
+msgstr "[M] Diyorum ki, paran olsa bile buraya gelip annene çıplak bakmak istediğin için DeCapos'a vermeyeceğinden şüphelenmeye başlıyorum!"
 
 # game/script.rpy:8515 ## translate crowdin nightclubbing_7b62f384:
 msgid "[R] Oh my God! Mom!..."
-msgstr ""
+msgstr "[R] Aman Tanrım! Anne!..."
 
 # game/script.rpy:8518 ## translate crowdin nightclubbing_b35df349:
 msgid "[R] How could you even say such a thing!"
-msgstr ""
+msgstr "[R] Böyle bir şeyi nasıl söylersin!"
 
 # game/script.rpy:8519 ## translate crowdin nightclubbing_d0746cd2:
 msgid "[M] [ryan]! Your eyes are wandering again! Look up here!"
-msgstr ""
+msgstr "[M] [ryan]! Gözlerin yine aşağıda! Yukarı bak!"
 
 # game/script.rpy:8522 ## translate crowdin nightclubbing_93fa60fa:
 msgid "[R] What was I saying?"
-msgstr ""
+msgstr "[R] Ne diyordum ben?"
 
 # game/script.rpy:8523 ## translate crowdin nightclubbing_212d88cb:
 msgid "[M] You were trying to convince me that you wouldn't fail to make a payment, just so you can stare at your mom's tits!"
-msgstr ""
+msgstr "[M] Sırf annenin memelerine bakabilmek için ödemeyi aksatmayacağına beni ikna etmeye çalışıyordun!"
 
 # game/script.rpy:8524 ## translate crowdin nightclubbing_7ea97371:
 msgid "[M] And not very convincingly!"
-msgstr ""
+msgstr "[M] Ve pek inandırıcı değil!"
 
 # game/script.rpy:8525 ## translate crowdin nightclubbing_b36cf052:
 msgid "[R] Mom.... I'm so offended..."
-msgstr ""
+msgstr "[R] Anne.... Çok gücendim..."
 
 # game/script.rpy:8526 ## translate crowdin nightclubbing_e35b10b5:
 msgid "[R] I'll admit they are distracting when you're standing right in front of me with them on full display."
-msgstr ""
+msgstr "[R] Tam karşımda durup onları sergilediğinde dikkat dağıtıcı olduklarını kabul ediyorum."
 
 # game/script.rpy:8527 ## translate crowdin nightclubbing_47ec7bcd:
 msgid "[R] But I'm only here with honorable intentions."
-msgstr ""
+msgstr "[R] Ama ben sadece onurlu niyetlerle buradayım."
 
 # game/script.rpy:8528 ## translate crowdin nightclubbing_605906cf:
 msgid "[M] Honorable? That's hard to believe when You're pitching a tent the size of a horse!"
-msgstr ""
+msgstr "[M] Onurlu mu? At büyüklüğünde bir çadır kurarken buna inanmak zor!"
 
 # game/script.rpy:8529 ## translate crowdin nightclubbing_1931c95a:
 msgid "[R] You think I'm that big?..."
-msgstr ""
+msgstr "[R] O kadar büyük olduğunu mu düşünüyorsun?..."
 
 # game/script.rpy:8530 ## translate crowdin nightclubbing_6943a239:
 msgid "[R] I mean compared with other men you've seen?"
-msgstr ""
+msgstr "[R] Yani gördüğün diğer erkeklerle kıyasladığında?"
 
 # game/script.rpy:8531 ## translate crowdin nightclubbing_5eeb8e04:
 msgid "[M] [ryan].... that is besides the point! And how many do you think I've seen?!!"
-msgstr ""
+msgstr "[M] [ryan].... bu konunun dışında! Sence kaç tane görmüşümdür?!!"
 
 # game/script.rpy:8532 ## translate crowdin nightclubbing_2aec2fb9:
 msgid "[R] Right.... well.... It's..."
-msgstr ""
+msgstr "[R] Doğru.... şey.... Bu..."
 
 # game/script.rpy:8533 ## translate crowdin nightclubbing_9a5969c9:
 msgid "[R] Anyways, I'm not hard because of you!"
-msgstr ""
+msgstr "[R] Her neyse, sana karşı sert değilim!"
 
 # game/script.rpy:8534 ## translate crowdin nightclubbing_f7c8a309:
 msgid "[R] I mean you're beautiful and all.... and if you weren't my mom..."
-msgstr ""
+msgstr "[R] Yani sen çok güzelsin.... ve eğer annem olmasaydın..."
 
 # game/script.rpy:8535 ## translate crowdin nightclubbing_c93d9342:
 msgid "[M] [ryan]!"
@@ -8042,107 +8042,107 @@ msgstr ""
 
 # game/script.rpy:8536 ## translate crowdin nightclubbing_111d0092:
 msgid "[R] Well.... what I'm trying to say is that I'm just excited by the situation.... I mean, I'm in a strip club! I've had a boner since I first started thinking about coming in here."
-msgstr ""
+msgstr "[R] Şey.... söylemeye çalıştığım şey.... bu durum beni heyecanlandırıyor. Yani, bir striptiz kulübündeyim! Buraya gelmeyi düşünmeye başladığımdan beri ereksiyon halindeyim."
 
 # game/script.rpy:8537 ## translate crowdin nightclubbing_d1fbf87b:
 msgid "[R] It's not because I was watching you."
-msgstr ""
+msgstr "[R] Seni izlediğim için değil."
 
 # game/script.rpy:8540 ## translate crowdin nightclubbing_33c2dd5e:
 msgid "[M] Is that right?"
-msgstr ""
+msgstr "[M] Bu doğru mu?"
 
 # game/script.rpy:8541 ## translate crowdin nightclubbing_2e057405:
 msgid "[R] I'm just here to keep you safe."
-msgstr ""
+msgstr "[R] Ben sadece seni güvende tutmak için buradayım."
 
 # game/script.rpy:8542 ## translate crowdin nightclubbing_e37a45ea:
 msgid "[M] Ha! You're here to keep me safe?"
-msgstr ""
+msgstr "[M] Ha! Beni güvende tutmak için mi buradasın?"
 
 # game/script.rpy:8543 ## translate crowdin nightclubbing_efa35aee:
 msgid "[R] Well, yeah.... to protect you."
-msgstr ""
+msgstr "[R] Evet.... seni korumak için."
 
 # game/script.rpy:8544 ## translate crowdin nightclubbing_de1413fb:
 msgid "[R] I mean.... this is a rough side of town.... there are men of questionable motives here."
-msgstr ""
+msgstr "[R] Demek istediğim.... burası şehrin zorlu bir tarafı.... burada şüpheli güdüleri olan adamlar var."
 
 # game/script.rpy:8545 ## translate crowdin nightclubbing_9b87946c:
 msgid "[R] What if someone tries to grab you or something?"
-msgstr ""
+msgstr "[R] Ya biri seni yakalamaya falan çalışırsa?"
 
 # game/script.rpy:8548 ## translate crowdin nightclubbing_82484a6f:
 msgid "[M] [ryan]! That's why they have bouncers!"
-msgstr ""
+msgstr "[M] [ryan]! Bu yüzden güvenlikler var!"
 
 # game/script.rpy:8549 ## translate crowdin nightclubbing_eb2d78e3:
 msgid "[M] Joey gives me an escort both here and back home again."
-msgstr ""
+msgstr "[M] Joey bana hem burada hem de eve dönüşte eşlik ediyor."
 
 # game/script.rpy:8550 ## translate crowdin nightclubbing_a81ef688:
 msgid "[M] I'm perfectly safe here without you!"
-msgstr ""
+msgstr "[M] Sensiz burada tamamen güvendeyim!"
 
 # game/script.rpy:8551 ## translate crowdin nightclubbing_b7e38df1:
 msgid "[R] Hmmm.... well, I guess I didn't think about that."
-msgstr ""
+msgstr "[R] Hmmm.... sanırım bunu düşünmemiştim."
 
 # game/script.rpy:8552 ## translate crowdin nightclubbing_a895eda9:
 msgid "[M] Obviously not!"
-msgstr ""
+msgstr "[M] Belli ki hayır!"
 
 # game/script.rpy:8553 ## translate crowdin nightclubbing_57cbbc3e:
 msgid "[R] Sorry.... I'm just trying to do what Dad told me to do."
-msgstr ""
+msgstr "[R] Üzgünüm.... Sadece babamın bana söylediği şeyi yapmaya çalışıyorum."
 
 # game/script.rpy:8554 ## translate crowdin nightclubbing_cc316cf0:
 msgid "[M] Oh, did he tell you to perv out on your mom while he's gone?"
-msgstr ""
+msgstr "[M] O yokken annene sapıklık yapmanı mı söyledi?"
 
 # game/script.rpy:8555 ## translate crowdin nightclubbing_08e0fbe2:
 msgid "[R] No!, just.... he told me to keep my family safe."
-msgstr ""
+msgstr "[R] Hayır!, sadece.... ailemi güvende tutmamı söyledi."
 
 # game/script.rpy:8556 ## translate crowdin nightclubbing_b1892cb2:
 msgid "[M] Well, I'm perfectly safe, so just.... just.... get your ass home and keep your mouth shut about what I do here."
-msgstr ""
+msgstr "[M] Ben tamamen güvendeyim, bu yüzden sadece.... sadece.... götünü kaldır eve git ve burada ne yaptığım hakkında çeneni kapalı tut."
 
 # game/script.rpy:8557 ## translate crowdin nightclubbing_936aa089:
 msgid "[M] And just to make it clear! This.... this right here.... this isn't normal!.... Sons aren't supposed to see so much skin from their moms!"
-msgstr ""
+msgstr "[M] Ve sadece açıklığa kavuşturmak için! Bu.... tam burada.... bu normal değil!.... Oğulların annelerinden bu kadar çok çıplaklık görmemeleri gerekir!"
 
 # game/script.rpy:8558 ## translate crowdin nightclubbing_33eade1f:
 msgid "[M] This isn't the kind of example I want to set for your sisters."
-msgstr ""
+msgstr "[M] Kız kardeşlerine böyle örnek olmak istemem."
 
 # game/script.rpy:8561 ## translate crowdin nightclubbing_e15aa845:
 msgid "[RT] {i}Hmmm.... that's not a bad idea. Maybe they would be a little less prudish if they saw what Mom does on the weekends.{/i}"
-msgstr ""
+msgstr "[RT] {i}Hmmm.... bu kötü bir fikir değil. Annemin hafta sonları ne yaptığını görseler belki biraz daha az namuslu olurlar.{/i}"
 
 # game/script.rpy:8562 ## translate crowdin nightclubbing_ca2fdc86:
 msgid "[MT] {i}Did he really come here with good intentions?{/i}"
-msgstr ""
+msgstr "[MT] {i}Buraya gerçekten iyi niyetle mi geldi?{/i}"
 
 # game/script.rpy:8563 ## translate crowdin nightclubbing_950d27b4:
 msgid "[MT] {i}If he did, I really feel kind of bad for yelling at him.{/i}"
-msgstr ""
+msgstr "[MT] {i}Eğer bu yüzdense, ona bağırdığım için kendimi gerçekten kötü hissediyorum.{/i}"
 
 # game/script.rpy:8564 ## translate crowdin nightclubbing_856a266a:
 msgid "[MT] {i}But if he didn't, I might really have a growing problem on my hands.{/i}"
-msgstr ""
+msgstr "[MT] {i}Ama yapmadıysa, elimde gerçekten büyüyen bir sorun olabilir.{/i}"
 
 # game/script.rpy:8565 ## translate crowdin nightclubbing_a5bec0c4:
 msgid "[RT] {i}Well, I guess I should get one more peek for the road.{/i}"
-msgstr ""
+msgstr "[RT] {i}Sanırım bir kez daha bakabilirim.{/i}"
 
 # game/script.rpy:8568 ## translate crowdin nightclubbing_61863850:
 msgid "[M] [ryan]! It's time for you to leave!"
-msgstr ""
+msgstr "[M] [ryan]! Gitme vaktin geldi!"
 
 # game/script.rpy:8569 ## translate crowdin nightclubbing_87da0846:
 msgid "[R] Of course, I'm leaving right now."
-msgstr ""
+msgstr "[R] Tabii ki, şimdi gidiyorum."
 
 # game/script.rpy:8570 ## translate crowdin nightclubbing_ff80b6a4:
 msgid "[R] I love you, mom!"
@@ -8150,7 +8150,7 @@ msgstr "[R] Seni seviyorum, anne!"
 
 # game/script.rpy:8571 ## translate crowdin nightclubbing_50561a35:
 msgid "[M] I know.... I'll see you tomorrow."
-msgstr ""
+msgstr "[M] Biliyorum.... Yarın görüşürüz."
 
 # game/script.rpy:8581 ## translate crowdin nightclubbing_7be50221_1:
 msgid "[MT] {i}This is actually pretty exhilarating!{/i}"
@@ -8174,7 +8174,7 @@ msgstr "[MT] {i}Bu, para kazanmanın diğer pek çok yolunu geride bırakır.{/i
 
 # game/script.rpy:8586 ## translate crowdin nightclubbing_93586d03_1:
 msgid "[MT] {i}Oh, God! Am I actually enjoying this. I think I'm getting really wet!{/i}"
-msgstr ""
+msgstr "[MT] {i}Oh, Tanrım! Bundan gerçekten zevk alıyorum. Sanırım gerçekten ıslanıyorum!{/i}"
 
 # game/script.rpy:8589 ## translate crowdin nightclubbing_3483255f:
 msgid "[RT] {i}Oh, shit! Here I CUMMMM!!{/i}"
@@ -8226,7 +8226,7 @@ msgstr "[MT] {i}Bu, para kazanmanın diğer pek çok yolunu geride bırakır.{/i
 
 # game/script.rpy:8621 ## translate crowdin nightclubbing_93586d03_2:
 msgid "[MT] {i}Oh, God! Am I actually enjoying this. I think I'm getting really wet!{/i}"
-msgstr ""
+msgstr "[MT] {i}Oh, Tanrım! Bundan gerçekten zevk alıyorum. Sanırım gerçekten ıslanıyorum!{/i}"
 
 # game/script.rpy:8624 ## translate crowdin nightclubbing_3483255f_1:
 msgid "[RT] {i}Oh, shit! Here I CUMMMM!!{/i}"
@@ -8337,7 +8337,7 @@ msgstr[1] ""
 # XX## game/script.rpy:1043
 msgid "Never mind"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Boşver"
 msgstr[1] ""
 
 # XX## game/script.rpy:1058
@@ -8349,7 +8349,7 @@ msgstr[1] ""
 # XX## game/script.rpy:1586
 msgid "Go sit down"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Otur"
 msgstr[1] ""
 
 # XX## game/script.rpy:1592
@@ -8433,7 +8433,7 @@ msgstr[1] ""
 # XX## game/script.rpy:2669
 msgid "Watch TV with Lauren"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Lauren ile TV izle"
 msgstr[1] ""
 
 # XX## game/script.rpy:3346
@@ -8445,7 +8445,7 @@ msgstr[1] ""
 # XX## game/script.rpy:3346
 msgid "Never mind."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Boşver."
 msgstr[1] ""
 
 # XX## game/script.rpy:3634
@@ -8475,7 +8475,7 @@ msgstr[1] ""
 # XX## game/script.rpy:4132
 msgid "Look around"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Etrafa bakın"
 msgstr[1] ""
 
 # XX## game/script.rpy:4152
@@ -8571,7 +8571,7 @@ msgstr[1] ""
 # XX## game/script.rpy:4776
 msgid "Subliminal messages"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Bilinçaltı mesajları"
 msgstr[1] ""
 
 # XX## game/script.rpy:4818
@@ -8601,37 +8601,37 @@ msgstr[1] ""
 # XX## game/script.rpy:4835
 msgid "I'm just going to give her some time to cool down"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Ona sakinleşmesi için biraz zaman vereceğim"
 msgstr[1] ""
 
 # XX## game/script.rpy:4841
 msgid "Give her a gift"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Ona bir hediye ver"
 msgstr[1] ""
 
 # XX## game/script.rpy:4841
 msgid "I just wanted to apologize"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Sadece özür dilemek istedim"
 msgstr[1] ""
 
 # XX## game/script.rpy:4847
 msgid "Give her a chocolate bar"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Ona bir çikolata ver"
 msgstr[1] ""
 
 # XX## game/script.rpy:4847
 msgid "Give her Hardnlong gift card"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Ona Hardnlong hediye kartı ver"
 msgstr[1] ""
 
 # XX## game/script.rpy:4847
 msgid "Give her flowers"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Ona çiçekleri ver"
 msgstr[1] ""
 
 # XX## game/script.rpy:5091
@@ -8691,13 +8691,13 @@ msgstr[1] ""
 # XX## game/script.rpy:6017
 msgid "Spy on Sidney"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Sidney'i gözetle"
 msgstr[1] ""
 
 # XX## game/script.rpy:6017
 msgid "Keep looking around"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Etrafa bakın"
 msgstr[1] ""
 
 # XX## game/script.rpy:6103
@@ -8715,25 +8715,25 @@ msgstr[1] ""
 # XX## game/script.rpy:6140
 msgid "Of course!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Kesinlikle!"
 msgstr[1] ""
 
 # XX## game/script.rpy:6197
 msgid "Continue sneaking"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Sinsice devamke"
 msgstr[1] ""
 
 # XX## game/script.rpy:6197
 msgid "Leave"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Ayrıl"
 msgstr[1] ""
 
 # XX## game/script.rpy:6621
 msgid "Attend Class"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Derse katıl"
 msgstr[1] ""
 
 # XX## game/script.rpy:6621
@@ -8745,55 +8745,55 @@ msgstr[1] ""
 # XX## game/script.rpy:6673
 msgid "Talk to Mom about Oedipus assignment"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Annenle Oedipus ödevi hakkında konuş"
 msgstr[1] ""
 
 # XX## game/script.rpy:6854
 msgid "Accept Matt's help (\"WARNING\" future NTR content)"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Matt'in yardımını kabul edin (\"UYARI\" gelecekteki NTR içeriği)"
 msgstr[1] ""
 
 # XX## game/script.rpy:6854
 msgid "Tell Matt to go fuck himself"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Matt'e söyle, gitsin kendisini siksin."
 msgstr[1] ""
 
 # XX## game/script.rpy:7054
 msgid "Just the tip"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Sadece başı"
 msgstr[1] ""
 
 # XX## game/script.rpy:7054
 msgid "Throat Fuck"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Boğazını sik"
 msgstr[1] ""
 
 # XX## game/script.rpy:7065
 msgid "Deeper"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Daha derine"
 msgstr[1] ""
 
 # XX## game/script.rpy:7065
 msgid "Cum"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Boşal"
 msgstr[1] ""
 
 # XX## game/script.rpy:7114
 msgid "Down Megan's throat"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Megan'ın boğazına"
 msgstr[1] ""
 
 # XX## game/script.rpy:7114
 msgid "All over her face"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Yüzüne"
 msgstr[1] ""
 
 # XX## game/script.rpy:7422
@@ -8805,7 +8805,7 @@ msgstr[1] ""
 # XX## game/script.rpy:7479
 msgid "Pick up Items"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Eşyaları al"
 msgstr[1] ""
 
 # XX## game/script.rpy:7479
@@ -8853,12 +8853,12 @@ msgstr[1] ""
 # XX## game/script.rpy:8306
 msgid "Go answer the door"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Git kapıya bak"
 msgstr[1] ""
 
 # XX## game/script.rpy:8320
 msgid "No (lie)"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Hayır (yalan)"
 msgstr[1] ""
 
