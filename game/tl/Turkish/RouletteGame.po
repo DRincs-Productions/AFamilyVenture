@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-25 09:06\n"
+"PO-Revision-Date: 2022-11-28 09:04\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/images/interface_images/Roulette/RouletteGame.rpy:537 ## translate crowdin test_feb4bc5b:
 msgid "[@betPickVar]"
@@ -189,7 +189,7 @@ msgstr[1] ""
 # XX## game/images/interface_images/Roulette/RouletteGame.rpy:322
 msgid "Do you want to play the Roulette?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Rulet oynamak ister misin?"
 msgstr[1] ""
 
 # XX## game/images/interface_images/Roulette/RouletteGame.rpy:340
