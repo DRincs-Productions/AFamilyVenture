@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-25 09:06\n"
+"PO-Revision-Date: 2022-11-28 09:04\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/images/interface_images/blackjack/blackjack-DS.rpy:341 ## translate crowdin startGameBJ_ddfcd22e:
 msgid "[BJ_dealer] I'll start dealing the cards!{w=2.0}{nw}"
-msgstr ""
+msgstr "[BJ_dealer] Kartları dağıtmaya başlayacağım!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:397 ## translate crowdin handCheckLabel_b72f4071:
 msgid "[BJ_dealer] Dealer Bust, you won $[betWin]!{w=2.0}{nw}"
@@ -30,7 +30,7 @@ msgstr ""
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:428 ## translate crowdin handCheckLabel_4cc764d5:
 msgid "[BJ_dealer] Blackjack! You won the game and $[betWin]!{w=2.0}{nw}"
-msgstr ""
+msgstr "[BJ_dealer] Blackjack! Oyunu kazandınız, ödülünüz [betWin]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:439 ## translate crowdin handCheckLabel_1d95a20c:
 msgid "[BJ_dealer] Dealer has blackjack! You lose the game and $[betSum]!{w=2.0}{nw}"
@@ -38,7 +38,7 @@ msgstr ""
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:449 ## translate crowdin handCheckLabel_57a41165:
 msgid "[BJ_dealer] You won the game and $[betWin]!{w=2.0}{nw}"
-msgstr ""
+msgstr "[BJ_dealer] Oyunu kazandınız, ödülünüz [betWin]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:460 ## translate crowdin handCheckLabel_e4d35a85:
 msgid "[BJ_dealer] You lost the game and $[betSum]!{w=2.0}{nw}"
@@ -61,7 +61,7 @@ msgstr[1] ""
 # XX## game/images/interface_images/blackjack/blackjack-DS.rpy:236
 msgid "Place your bets!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Bahis gir!"
 msgstr[1] ""
 
 # XX## game/images/interface_images/blackjack/blackjack-DS.rpy:244
@@ -91,18 +91,18 @@ msgstr[1] ""
 # XX## game/images/interface_images/blackjack/blackjack-DS.rpy:276
 msgid "Games won: [persistent.playerWin] / lost: [persistent.computerWin]"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Kazanılan oyun: [persistent.playerWin] / kaybedilen oyun: [persistent.computerWin]"
 msgstr[1] ""
 
 # XX## game/images/interface_images/blackjack/blackjack-DS.rpy:321
 msgid "Player cards: [playerScore]"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Oyuncu kartları: [playerScore]"
 msgstr[1] ""
 
 # XX## game/images/interface_images/blackjack/blackjack-DS.rpy:480
 msgid "Do you want to play again?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Tekrar oynamak istiyor musunuz?"
 msgstr[1] ""
 
