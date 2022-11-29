@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-28 09:05\n"
+"PO-Revision-Date: 2022-11-29 09:05\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/UpdateScript0.05.rpy:473 ## translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -142,15 +142,15 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:572 ## translate crowdin fix_bulb_2ee69f22:
 msgid "[RT] {i}Mom's at it again. Doing her best to keep our house functioning like a normal home should.{/i}"
-msgstr ""
+msgstr "[RT] {i}Annem yine iş başında. Evimizin normal bir ev gibi olması ve işlemesi için elinden geleni yapıyor.{/i}"
 
 # game/UpdateScript0.05.rpy:573 ## translate crowdin fix_bulb_89312161:
 msgid "[RT] {i}I've still got plenty on my plate too, but should I take some time to see if she needs help?{/i}"
-msgstr ""
+msgstr "[RT] {i}Benim de hala yapacak çok işim var, ama yardıma ihtiyacı olup olmadığını görmek için biraz zaman ayırmalı mıyım?{/i}"
 
 # game/UpdateScript0.05.rpy:576 ## translate crowdin fix_bulb_626085c4:
 msgid "[R] Hey, Mom! Way to rock that broom."
-msgstr ""
+msgstr "[R] Hey, anne! Süpürgeyi sallamanın bir yolu da bu."
 
 # game/UpdateScript0.05.rpy:579 ## translate crowdin fix_bulb_5a82f1a7:
 msgid "[M] What is it, [ryan]? I still don't have time for your playful banter."
@@ -158,7 +158,7 @@ msgstr "[M] Ne oldu, [ryan]? Hala senin şakalarına ayıracak vaktim yok."
 
 # game/UpdateScript0.05.rpy:580 ## translate crowdin fix_bulb_7b75b195:
 msgid "[R] Sorry.... I know.... I should stop trying."
-msgstr ""
+msgstr "[R] Üzgünüm.... Biliyorum.... Denemeyi bırakmalıyım."
 
 # game/UpdateScript0.05.rpy:581 ## translate crowdin fix_bulb_5b012d7d:
 msgid "[R] I was just wondering if you needed any help with the house."
@@ -170,7 +170,7 @@ msgstr "[M] Hala evde bana yardım mı etmek istiyorsun?...."
 
 # game/UpdateScript0.05.rpy:583 ## translate crowdin fix_bulb_3464456c:
 msgid "[R] Well, yeah.... Dad's still gone, and your \"honey-do list\" must still be getting longer."
-msgstr ""
+msgstr "[R] Evet.... Babam hala yok ve senin \"ballı yapılacaklar listen\" de uzamaya devam ediyor olmalı."
 
 # game/UpdateScript0.05.rpy:586 ## translate crowdin fix_bulb_461327b2:
 msgid "[M] I guess I just didn't think you'd still want to help me after I let you fall that time."
@@ -842,7 +842,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:914 ## translate crowdin sidney_morning_jog_c9e9e881:
 msgid "[R] I'll try my best."
-msgstr ""
+msgstr "[R] Elimden geleni yapacağım."
 
 # game/UpdateScript0.05.rpy:915 ## translate crowdin sidney_morning_jog_d97002b2:
 msgid "[S] Alright, run and change and I'll meet you in front of the house."
@@ -1442,11 +1442,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1175 ## translate crowdin sidney_search_6656fe70:
 msgid "[M] Please, [ryan].... not now."
-msgstr ""
+msgstr "[M] Lütfen, [ryan].... şimdi değil."
 
 # game/UpdateScript0.05.rpy:1177 ## translate crowdin sidney_search_84e273a3:
 msgid "[M] Were you able to get enough money together to pay them off this week?"
-msgstr ""
+msgstr "[M] Bu hafta onlara ödemek yapmak için yeterli parayı bir araya getirebildin mi?"
 
 # game/UpdateScript0.05.rpy:1179 ## translate crowdin sidney_search_74239e20:
 msgid "[R] Of course, Mom, did you really doubt me?"
@@ -2426,7 +2426,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1590 ## translate crowdin tv_together_faf376b6:
 msgid "[L] What do you mean?"
-msgstr ""
+msgstr "[L] Ne demek istiyorsun?"
 
 # game/UpdateScript0.05.rpy:1591 ## translate crowdin tv_together_e62859a5:
 msgid "[R] The way you're rubbing yourself."
@@ -3470,7 +3470,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2121 ## translate crowdin tv_together_93f1e34f:
 msgid "[L] Wait!.... No!.... [ryan]!...."
-msgstr ""
+msgstr "[L] Bekle!.... Hayır!.... [ryan]!...."
 
 # game/UpdateScript0.05.rpy:2124 ## translate crowdin tv_together_054783c3:
 msgid "[L] Oh my God....[ryan]!.... I can't believe you just whipped him out like that!"
@@ -3718,7 +3718,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2230 ## translate crowdin tv_together_88fdacc0:
 msgid "[M] Well?"
-msgstr ""
+msgstr "[M] Eee?"
 
 # game/UpdateScript0.05.rpy:2231 ## translate crowdin tv_together_40448a30:
 msgid "[R] It's just some sugar glaze from a box of donuts I was eating."
@@ -3934,7 +3934,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2327 ## translate crowdin tv_together_faf376b6_1:
 msgid "[L] What do you mean?"
-msgstr ""
+msgstr "[L] Ne demek istiyorsun?"
 
 # game/UpdateScript0.05.rpy:2328 ## translate crowdin tv_together_e62859a5_1:
 msgid "[R] The way you're rubbing yourself."
@@ -4542,11 +4542,11 @@ msgstr "[R] Vay canına, anne! Harika görünüyorsun!"
 
 # game/UpdateScript0.05.rpy:2711 ## translate crowdin reward_for_payment_6656fe70:
 msgid "[M] Please, [ryan].... not now."
-msgstr ""
+msgstr "[M] Lütfen, [ryan].... şimdi değil."
 
 # game/UpdateScript0.05.rpy:2713 ## translate crowdin reward_for_payment_84e273a3:
 msgid "[M] Were you able to get enough money together to pay them off this week?"
-msgstr ""
+msgstr "[M] Bu hafta onlara ödemek yapmak için yeterli parayı bir araya getirebildin mi?"
 
 # game/UpdateScript0.05.rpy:2716 ## translate crowdin reward_for_payment_74239e20:
 msgid "[R] Of course, Mom, did you really doubt me?"
@@ -5406,15 +5406,15 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3105 ## translate crowdin fix_sink_2ee69f22:
 msgid "[RT] {i}Mom's at it again. Doing her best to keep our house functioning like a normal home should.{/i}"
-msgstr ""
+msgstr "[RT] {i}Annem yine iş başında. Evimizin normal bir ev gibi olması ve işlemesi için elinden geleni yapıyor.{/i}"
 
 # game/UpdateScript0.05.rpy:3106 ## translate crowdin fix_sink_89312161:
 msgid "[RT] {i}I've still got plenty on my plate too, but should I take some time to see if she needs help?{/i}"
-msgstr ""
+msgstr "[RT] {i}Benim de hala yapacak çok işim var, ama yardıma ihtiyacı olup olmadığını görmek için biraz zaman ayırmalı mıyım?{/i}"
 
 # game/UpdateScript0.05.rpy:3109 ## translate crowdin fix_sink_626085c4:
 msgid "[R] Hey, Mom! Way to rock that broom."
-msgstr ""
+msgstr "[R] Hey, anne! Süpürgeyi sallamanın bir yolu da bu."
 
 # game/UpdateScript0.05.rpy:3112 ## translate crowdin fix_sink_5a82f1a7:
 msgid "[M] What is it, [ryan]? I still don't have time for your playful banter."
@@ -5422,7 +5422,7 @@ msgstr "[M] Ne oldu, [ryan]? Hala senin şakalarına ayıracak vaktim yok."
 
 # game/UpdateScript0.05.rpy:3113 ## translate crowdin fix_sink_7b75b195:
 msgid "[R] Sorry.... I know.... I should stop trying."
-msgstr ""
+msgstr "[R] Üzgünüm.... Biliyorum.... Denemeyi bırakmalıyım."
 
 # game/UpdateScript0.05.rpy:3114 ## translate crowdin fix_sink_5b012d7d:
 msgid "[R] I was just wondering if you needed any help with the house."
@@ -5434,59 +5434,59 @@ msgstr "[M] Hala evde bana yardım mı etmek istiyorsun?...."
 
 # game/UpdateScript0.05.rpy:3118 ## translate crowdin fix_sink_3464456c:
 msgid "[R] Well, yeah.... Dad's still gone, and your \"honey-do list\" must still be getting longer."
-msgstr ""
+msgstr "[R] Evet.... Babam hala yok ve senin \"ballı yapılacaklar listen\" de uzamaya devam ediyor olmalı."
 
 # game/UpdateScript0.05.rpy:3119 ## translate crowdin fix_sink_15b88f70:
 msgid "[M] Well yeah, that's true, but unfortunately we didn't even check off the last thing we had on the list."
-msgstr ""
+msgstr "[M] Evet, bu doğru, ama ne yazık ki listedeki son şeyi bile kontrol edemedik."
 
 # game/UpdateScript0.05.rpy:3120 ## translate crowdin fix_sink_b2504771:
 msgid "[R] What do you mean?"
-msgstr ""
+msgstr "[R] Ne demek istiyorsun?"
 
 # game/UpdateScript0.05.rpy:3121 ## translate crowdin fix_sink_0d7b3787:
 msgid "[M] The sink started leaking again."
-msgstr ""
+msgstr "[M] Lavabo yine su sızdırmaya başladı."
 
 # game/UpdateScript0.05.rpy:3122 ## translate crowdin fix_sink_f146f5dc:
 msgid "[R] Really?.... Again?.... Well, let's go fix it."
-msgstr ""
+msgstr "[R] Gerçekten mi?.... Yine mi?.... Hadi gidip düzeltelim."
 
 # game/UpdateScript0.05.rpy:3125 ## translate crowdin fix_sink_b05d18e5:
 msgid "[M] Again?.... I don't want to end up cold and wet again."
-msgstr ""
+msgstr "[M] Yine mi?.... Yine üşümek ve ıslanmak istemiyorum."
 
 # game/UpdateScript0.05.rpy:3126 ## translate crowdin fix_sink_54cdfdcd:
 msgid "[M] Let's just get a plumber."
-msgstr ""
+msgstr "[M] Bir tesisatçı bulalım."
 
 # game/UpdateScript0.05.rpy:3127 ## translate crowdin fix_sink_ffe76534:
 msgid "[R] We're not spending money on a plumber. They'll charge us $200 just to drive out here."
-msgstr ""
+msgstr "[R] Tesisatçıya para harcamayacağız. Sadece buraya gelmek için 200 dolar isterler."
 
 # game/UpdateScript0.05.rpy:3128 ## translate crowdin fix_sink_b36bf3e3:
 msgid "[M] Alright.... Fine!"
-msgstr ""
+msgstr "[M] Peki.... İyi!"
 
 # game/UpdateScript0.05.rpy:3134 ## translate crowdin fix_sink_7ce70ec2:
 msgid "[R] Alright, so we'll just do the same thing we did last time?"
-msgstr ""
+msgstr "[R] Pekala, geçen sefer yaptığımızın aynısını mı yapacağız?"
 
 # game/UpdateScript0.05.rpy:3135 ## translate crowdin fix_sink_fb6bb70e:
 msgid "[M] Wait!...."
-msgstr ""
+msgstr "[M] Bekle!...."
 
 # game/UpdateScript0.05.rpy:3136 ## translate crowdin fix_sink_25cffa1c:
 msgid "[M] Hmmmm.... I'm just trying to decide which part of this job is the least likely to get me wet."
-msgstr ""
+msgstr "[M] Hmmmm.... Sadece bu işin hangi kısmının beni ıslatma olasılığının en düşük olduğuna karar vermeye çalışıyorum."
 
 # game/UpdateScript0.05.rpy:3137 ## translate crowdin fix_sink_a448ec3c:
 msgid "[R] Ok.... I'll let you choose whichever one you want to."
-msgstr ""
+msgstr "[R] Tamam.... Hangisini istersen onu seçmene izin vereceğim."
 
 # game/UpdateScript0.05.rpy:3138 ## translate crowdin fix_sink_0355bde2:
 msgid "[M] Hmmmmmm.... I'll take...."
-msgstr ""
+msgstr "[M] Hmmmmmm.... Ben şunu...."
 
 # game/UpdateScript0.05.rpy:3141 ## translate crowdin fix_sink_c376cd2f:
 msgid "[M] I'll climb under the sink this time."
@@ -5494,7 +5494,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3144 ## translate crowdin fix_sink_9198793c:
 msgid "[R] Ok.... Just let me know when you've got the coupling secured."
-msgstr ""
+msgstr "[R] Tamam.... Bağlantıyı sağlama aldığında bana haber ver."
 
 # game/UpdateScript0.05.rpy:3145 ## translate crowdin fix_sink_a9f72512:
 msgid "[M] Ok.... I've got the wrench securing the same thing as last time. I hope it's the coupling."
@@ -5502,11 +5502,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3146 ## translate crowdin fix_sink_fdf54830:
 msgid "[R] Alright, well I'll just see if I can tighten it here from above. You ready to hold it steady?"
-msgstr ""
+msgstr "[R] Pekala, bakalım yukarıdan sıkabilecek miyim. Sabit tutmaya hazır mısın?"
 
 # game/UpdateScript0.05.rpy:3147 ## translate crowdin fix_sink_3a7631b9:
 msgid "[M] I'm ready."
-msgstr ""
+msgstr "[M] Hazırım."
 
 # game/UpdateScript0.05.rpy:3148 ## translate crowdin fix_sink_5760e2af:
 msgid "[M] Oh.... and don't forget to turn it right this time."
@@ -5534,7 +5534,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3159 ## translate crowdin fix_sink_8e88fa73:
 msgid "[M] [ryan]!.... Hurry!.... Tighten the damn thing!"
-msgstr ""
+msgstr "[M] [ryan]!.... Acele et!.... Sık şu lanet şeyi!"
 
 # game/UpdateScript0.05.rpy:3163 ## translate crowdin fix_sink_0ceb0bc9:
 msgid "[M] Holy shit!.... You got me again, you asshole!...."
@@ -5550,7 +5550,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3166 ## translate crowdin fix_sink_45cbf046:
 msgid "[R] What?.... No.... of course not!"
-msgstr ""
+msgstr "[R] Ne?.... Hayır.... tabii ki hayır!"
 
 # game/UpdateScript0.05.rpy:3167 ## translate crowdin fix_sink_c40fd10e:
 msgid "[M] Uuhhggghhh.... It's ok.... I'm ok.... I'm ok.... It's just a little water."
@@ -5578,19 +5578,19 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3177 ## translate crowdin fix_sink_2dde973e:
 msgid "[M] I know.... It's just part of the weekly kitchen wet T-shirt contest."
-msgstr ""
+msgstr "[M] Biliyorum.... Bu sadece haftalık mutfak ıslak tişört yarışmasının bir parçası."
 
 # game/UpdateScript0.05.rpy:3178 ## translate crowdin fix_sink_32efd611:
 msgid "[M] In which I'm always the only participant."
-msgstr ""
+msgstr "[M] Her zaman tek katılımcı ben oluyorum."
 
 # game/UpdateScript0.05.rpy:3179 ## translate crowdin fix_sink_4762f541:
 msgid "[M] So, what's my score?"
-msgstr ""
+msgstr "[M] Ee, puanım kaç?"
 
 # game/UpdateScript0.05.rpy:3180 ## translate crowdin fix_sink_a3cb7668:
 msgid "[R] Oh.... It's a definite 10!"
-msgstr ""
+msgstr "[R] Oh.... kesinlikle 10 üzerinden 1500!"
 
 # game/UpdateScript0.05.rpy:3181 ## translate crowdin fix_sink_3265e8ee:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
@@ -5602,11 +5602,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3184 ## translate crowdin fix_sink_a30f56a3:
 msgid "[M] Alright.... That's enough playful banter. I'm going to get another shirt on."
-msgstr ""
+msgstr "[M] Pekiii.... Bu kadar şaka yeter. Üstümü tekrar değiştireceğim."
 
 # game/UpdateScript0.05.rpy:3185 ## translate crowdin fix_sink_81af2e1b:
 msgid "[M] Thanks again for all your help around the house."
-msgstr ""
+msgstr "[M] Evdeki tüm yardımların için tekrar teşekkürler."
 
 # game/UpdateScript0.05.rpy:3186 ## translate crowdin fix_sink_f6b72f7e:
 msgid "[R] Of course! Love ya, Mom."
@@ -5618,67 +5618,67 @@ msgstr "[M] Ben de seni seviyorum."
 
 # game/UpdateScript0.05.rpy:3192 ## translate crowdin fix_sink_5e09379b:
 msgid "[M] I'll climb up on the counter this time."
-msgstr ""
+msgstr "[M] Bu sefer tezgaha çıkacağım."
 
 # game/UpdateScript0.05.rpy:3193 ## translate crowdin fix_sink_adbba1c4:
 msgid "[M] Just be careful not to break the faucet again!"
-msgstr ""
+msgstr "[M] Sadece musluğu tekrar kırmamaya dikkat et!"
 
 # game/UpdateScript0.05.rpy:3194 ## translate crowdin fix_sink_c9e9e881:
 msgid "[R] I'll try my best."
-msgstr ""
+msgstr "[R] Elimden geleni yapacağım."
 
 # game/UpdateScript0.05.rpy:3197 ## translate crowdin fix_sink_dcc557c3:
 msgid "[R] Ok.... I've got the coupling braced from below. Go ahead and turn it clockwise, and we'll see if that stops the leak."
-msgstr ""
+msgstr "[R] Tamam.... Kaplini alttan destekledim. Devam et ve saat yönünde çevir, bakalım sızıntıyı durduracak mı."
 
 # game/UpdateScript0.05.rpy:3198 ## translate crowdin fix_sink_8b1d9b72:
 msgid "[M] Ok.... That's as tight as I can get it."
-msgstr ""
+msgstr "[M] Tamam.... Yapabildiğim kadar sıkı."
 
 # game/UpdateScript0.05.rpy:3199 ## translate crowdin fix_sink_6b7473e3:
 msgid "[R] Perfect, now I'll just try to get a little bit of an extra turn from down here...."
-msgstr ""
+msgstr "[R] Mükemmel, şimdi buradan biraz daha fazla dönüş almaya çalışacağım...."
 
 # game/UpdateScript0.05.rpy:3200 ## translate crowdin fix_sink_37c4e666:
 msgid "[RT] {i}Ok, how did I do that last time.{/i}"
-msgstr ""
+msgstr "[RT] {i}Tamam, geçen sefer bunu nasıl yapmıştım?{/i}"
 
 # game/UpdateScript0.05.rpy:3201 ## translate crowdin fix_sink_351c6e3a:
 msgid "[RT] {i}If I bend this at the right angle, it should separate the faucet from the water line again.{/i}"
-msgstr ""
+msgstr "[RT] {i}Bunu doğru açıyla bükersem, musluğu su hattından tekrar ayırması gerekir.{/i}"
 
 # game/UpdateScript0.05.rpy:3202 ## translate crowdin fix_sink_343e60b4:
 msgid "[R] and...."
-msgstr ""
+msgstr "[R] ve...."
 
 # game/UpdateScript0.05.rpy:3206 ## translate crowdin fix_sink_86fb70f7:
 msgid "[M] Aaaaahhhh.... [ryan]!.... You did it again!"
-msgstr ""
+msgstr "[M] Aaaaahhhh.... [ryan]!.... Yine yaptın!"
 
 # game/UpdateScript0.05.rpy:3207 ## translate crowdin fix_sink_39a828a3:
 msgid "[R] What do you mean?...."
-msgstr ""
+msgstr "[R] Ne demek istiyorsun?...."
 
 # game/UpdateScript0.05.rpy:3208 ## translate crowdin fix_sink_428e6d0c:
 msgid "[M] I've got water spraying me again!"
-msgstr ""
+msgstr "[M] Yine üzerime su fışkırıyor!"
 
 # game/UpdateScript0.05.rpy:3211 ## translate crowdin fix_sink_880ef8be:
 msgid "[R] Oh, shit!.... I must have bumped the faucet connection again!"
-msgstr ""
+msgstr "[R] Oh, siktir!.... Musluk bağlantısına yine çarpmış olmalıyım!"
 
 # game/UpdateScript0.05.rpy:3212 ## translate crowdin fix_sink_eff3fbef:
 msgid "[R] Damn thing is so fragile!"
-msgstr ""
+msgstr "[R] Lanet şey çok kırılgan!"
 
 # game/UpdateScript0.05.rpy:3213 ## translate crowdin fix_sink_b039f000:
 msgid "[M] Goddamnit, [ryan]!...."
-msgstr ""
+msgstr "[M] Hay lanet olsun [ryan]!...."
 
 # game/UpdateScript0.05.rpy:3214 ## translate crowdin fix_sink_e11fb5e2:
 msgid "[M] Get your ass up here and fix it!"
-msgstr ""
+msgstr "[M] Götünü kaldır ve tamir et!"
 
 # game/UpdateScript0.05.rpy:3217 ## translate crowdin fix_sink_0438a498:
 msgid "[M] UUuuurrrgggghhhhh...."
@@ -5686,7 +5686,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3218 ## translate crowdin fix_sink_37adefed:
 msgid "[R] I'm sorry.... There.... I've almost got it...."
-msgstr ""
+msgstr "[R] Özür dilerim.... İşte.... Neredeyse hallettim...."
 
 # game/UpdateScript0.05.rpy:3219 ## translate crowdin fix_sink_dc7a84b6:
 msgid "[R] ...."
@@ -5694,95 +5694,95 @@ msgstr "[R] ...."
 
 # game/UpdateScript0.05.rpy:3223 ## translate crowdin fix_sink_5c6274da:
 msgid "[R] And.... fixed!"
-msgstr ""
+msgstr "[R] Ve.... tamamdır!"
 
 # game/UpdateScript0.05.rpy:3224 ## translate crowdin fix_sink_9ac6bb8d:
 msgid "[M] [ryan]!...."
-msgstr ""
+msgstr "[M] [ryan]!...."
 
 # game/UpdateScript0.05.rpy:3225 ## translate crowdin fix_sink_4881927b:
 msgid "[R] What?"
-msgstr ""
+msgstr "[R] Ne?"
 
 # game/UpdateScript0.05.rpy:3226 ## translate crowdin fix_sink_0b038fbb:
 msgid "[M] [ryan]?...."
-msgstr ""
+msgstr "[M] [ryan]?...."
 
 # game/UpdateScript0.05.rpy:3227 ## translate crowdin fix_sink_4881927b_1:
 msgid "[R] What?"
-msgstr ""
+msgstr "[R] Ne?"
 
 # game/UpdateScript0.05.rpy:3228 ## translate crowdin fix_sink_27275d3e:
 msgid "[M] [ryan]!?...."
-msgstr ""
+msgstr "[M] [ryan]!?...."
 
 # game/UpdateScript0.05.rpy:3229 ## translate crowdin fix_sink_d35b3a07:
 msgid "[R] WHAAT??...."
-msgstr ""
+msgstr "[R] NE VAR AMINA KOYİM??...."
 
 # game/UpdateScript0.05.rpy:3230 ## translate crowdin fix_sink_685d4196:
 msgid "[M] Are you fucking kidding me?"
-msgstr ""
+msgstr "[M] Benimle taşak mı geçiyorsun?"
 
 # game/UpdateScript0.05.rpy:3231 ## translate crowdin fix_sink_0b35982b:
 msgid "[R] Mom?.... language!"
-msgstr ""
+msgstr "[R] Anne?.... konuşman!"
 
 # game/UpdateScript0.05.rpy:3232 ## translate crowdin fix_sink_998dc512:
 msgid "[M] I can't even believe you got me again!"
-msgstr ""
+msgstr "[M] Bunu tekrar yaptığına inanamıyorum!"
 
 # game/UpdateScript0.05.rpy:3233 ## translate crowdin fix_sink_64ce198e:
 msgid "[M] Remind me to change into a scuba suit the next time we try to fix the sink!"
-msgstr ""
+msgstr "[M] Hatırlat da bir dahaki sefere lavaboyu tamir etmeye çalışırken dalgıç kıyafeti giyeyim!"
 
 # game/UpdateScript0.05.rpy:3234 ## translate crowdin fix_sink_4ff0e96f:
 msgid "[R] Haha.... That's a good one."
-msgstr ""
+msgstr "[R] Haha.... Bu iyiydi."
 
 # game/UpdateScript0.05.rpy:3235 ## translate crowdin fix_sink_cc5e9ae0:
 msgid "[M] Did you do that on purpose?"
-msgstr ""
+msgstr "[M] Bunu bilerek mi yaptın?"
 
 # game/UpdateScript0.05.rpy:3236 ## translate crowdin fix_sink_916af845:
 msgid "[R] What?.... of course not!...."
-msgstr ""
+msgstr "[R] Ne?.... tabii ki hayır!...."
 
 # game/UpdateScript0.05.rpy:3237 ## translate crowdin fix_sink_cb00c0d0:
 msgid "[M] Well, this is getting ri-Goddamned-fucking-diculous."
-msgstr ""
+msgstr "[M] Bu iş iyice sikik-sokuk-korkunç olmaya başladı."
 
 # game/UpdateScript0.05.rpy:3238 ## translate crowdin fix_sink_cdc14e19:
 msgid "[M] If it starts leaking again, I'm calling a plumber."
-msgstr ""
+msgstr "[M] Tekrar sızdırmaya başlarsa, tesisatçı çağıracağım."
 
 # game/UpdateScript0.05.rpy:3239 ## translate crowdin fix_sink_c5292e6c:
 msgid "[R] What?.... You can't!.... We can't afford one right now."
-msgstr ""
+msgstr "[R] Ne?.... Yapamazsın!.... Şu anda bunu karşılayamayız."
 
 # game/UpdateScript0.05.rpy:3240 ## translate crowdin fix_sink_63f1a362:
 msgid "[R] Plus, I'm pretty sure we got it this time."
-msgstr ""
+msgstr "[R] Ayrıca, bu sefer doğru yaptığımıza eminim."
 
 # game/UpdateScript0.05.rpy:3241 ## translate crowdin fix_sink_8c04fec1:
 msgid "[R] Oh, but ummm.... Just so you know...."
-msgstr ""
+msgstr "[R] Oh, ama ummm.... Bil diye söylüyorum...."
 
 # game/UpdateScript0.05.rpy:3244 ## translate crowdin fix_sink_2dde973e_1:
 msgid "[M] I know.... It's just part of the weekly kitchen wet T-shirt contest."
-msgstr ""
+msgstr "[M] Biliyorum.... Bu sadece haftalık mutfak ıslak tişört yarışmasının bir parçası."
 
 # game/UpdateScript0.05.rpy:3245 ## translate crowdin fix_sink_32efd611_1:
 msgid "[M] In which I'm always the only participant."
-msgstr ""
+msgstr "[M] Her zaman tek katılımcı ben oluyorum."
 
 # game/UpdateScript0.05.rpy:3246 ## translate crowdin fix_sink_4762f541_1:
 msgid "[M] So, what's my score?"
-msgstr ""
+msgstr "[M] Ee, puanım kaç?"
 
 # game/UpdateScript0.05.rpy:3247 ## translate crowdin fix_sink_a3cb7668_1:
 msgid "[R] Oh.... It's a definite 10!"
-msgstr ""
+msgstr "[R] Oh.... kesinlikle 10 üzerinden 1500!"
 
 # game/UpdateScript0.05.rpy:3248 ## translate crowdin fix_sink_3265e8ee_1:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
@@ -5794,11 +5794,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3251 ## translate crowdin fix_sink_a30f56a3_1:
 msgid "[M] Alright.... That's enough playful banter. I'm going to get another shirt on."
-msgstr ""
+msgstr "[M] Pekiii.... Bu kadar şaka yeter. Üstümü tekrar değiştireceğim."
 
 # game/UpdateScript0.05.rpy:3252 ## translate crowdin fix_sink_81af2e1b_1:
 msgid "[M] Thanks again for all your help around the house."
-msgstr ""
+msgstr "[M] Evdeki tüm yardımların için tekrar teşekkürler."
 
 # game/UpdateScript0.05.rpy:3253 ## translate crowdin fix_sink_f6b72f7e_1:
 msgid "[R] Of course! Love ya, Mom."
@@ -5810,15 +5810,15 @@ msgstr "[M] Ben de seni seviyorum."
 
 # game/UpdateScript0.05.rpy:3265 ## translate crowdin fix_sink_2ee69f22_1:
 msgid "[RT] {i}Mom's at it again. Doing her best to keep our house functioning like a normal home should.{/i}"
-msgstr ""
+msgstr "[RT] {i}Annem yine iş başında. Evimizin normal bir ev gibi olması ve işlemesi için elinden geleni yapıyor.{/i}"
 
 # game/UpdateScript0.05.rpy:3266 ## translate crowdin fix_sink_89312161_1:
 msgid "[RT] {i}I've still got plenty on my plate too, but should I take some time to see if she needs help?{/i}"
-msgstr ""
+msgstr "[RT] {i}Benim de hala yapacak çok işim var, ama yardıma ihtiyacı olup olmadığını görmek için biraz zaman ayırmalı mıyım?{/i}"
 
 # game/UpdateScript0.05.rpy:3269 ## translate crowdin fix_sink_626085c4_1:
 msgid "[R] Hey, Mom! Way to rock that broom."
-msgstr ""
+msgstr "[R] Hey, anne! Süpürgeyi sallamanın bir yolu da bu."
 
 # game/UpdateScript0.05.rpy:3272 ## translate crowdin fix_sink_5a82f1a7_1:
 msgid "[M] What is it, [ryan]? I still don't have time for your playful banter."
@@ -5826,7 +5826,7 @@ msgstr "[M] Ne oldu, [ryan]? Hala senin şakalarına ayıracak vaktim yok."
 
 # game/UpdateScript0.05.rpy:3273 ## translate crowdin fix_sink_7b75b195_1:
 msgid "[R] Sorry.... I know.... I should stop trying."
-msgstr ""
+msgstr "[R] Üzgünüm.... Biliyorum.... Denemeyi bırakmalıyım."
 
 # game/UpdateScript0.05.rpy:3274 ## translate crowdin fix_sink_5b012d7d_1:
 msgid "[R] I was just wondering if you needed any help with the house."
@@ -5838,135 +5838,135 @@ msgstr "[M] Hala evde bana yardım mı etmek istiyorsun?...."
 
 # game/UpdateScript0.05.rpy:3278 ## translate crowdin fix_sink_3464456c_1:
 msgid "[R] Well, yeah.... Dad's still gone, and your \"honey-do list\" must still be getting longer."
-msgstr ""
+msgstr "[R] Evet.... Babam hala yok ve senin \"ballı yapılacaklar listen\" de uzamaya devam ediyor olmalı."
 
 # game/UpdateScript0.05.rpy:3279 ## translate crowdin fix_sink_15b88f70_1:
 msgid "[M] Well yeah, that's true, but unfortunately we didn't even check off the last thing we had on the list."
-msgstr ""
+msgstr "[M] Evet, bu doğru, ama ne yazık ki listedeki son şeyi bile kontrol edemedik."
 
 # game/UpdateScript0.05.rpy:3280 ## translate crowdin fix_sink_b2504771_1:
 msgid "[R] What do you mean?"
-msgstr ""
+msgstr "[R] Ne demek istiyorsun?"
 
 # game/UpdateScript0.05.rpy:3281 ## translate crowdin fix_sink_0d7b3787_1:
 msgid "[M] The sink started leaking again."
-msgstr ""
+msgstr "[M] Lavabo yine su sızdırmaya başladı."
 
 # game/UpdateScript0.05.rpy:3282 ## translate crowdin fix_sink_d1acac5f:
 msgid "[R] Oh nice! I know how to fix it now.... I think I just need to torque the coupling just a little bit tighter."
-msgstr ""
+msgstr "[R] Oh güzel! Şimdi nasıl düzelteceğimi biliyorum.... Sanırım kaplini biraz daha sıkmam gerekiyor."
 
 # game/UpdateScript0.05.rpy:3285 ## translate crowdin fix_sink_ca680f22:
 msgid "[M] Are you sure?.... I don't want to end up cold and wet again."
-msgstr ""
+msgstr "[M] Emin misin?.... Yine üşümek ve ıslanmak istemiyorum."
 
 # game/UpdateScript0.05.rpy:3286 ## translate crowdin fix_sink_ffa8ad48:
 msgid "[M] Maybe I should just call a plumber."
-msgstr ""
+msgstr "[M] Belki de bir tesisatçı çağırmalıyım."
 
 # game/UpdateScript0.05.rpy:3288 ## translate crowdin fix_sink_4ae6efcc:
 msgid "{i}I wonder if I could request a sexy one.{/i}"
-msgstr ""
+msgstr "{i}Acaba seksi bir tane isteyebilir miyim?{/i}"
 
 # game/UpdateScript0.05.rpy:3291 ## translate crowdin fix_sink_912f5e73:
 msgid "[R] Don't be silly. I've got it this time."
-msgstr ""
+msgstr "[R] Saçmalama. Bu sefer ben hallederim."
 
 # game/UpdateScript0.05.rpy:3292 ## translate crowdin fix_sink_50650611:
 msgid "[M] All right. We'll give it another shot."
-msgstr ""
+msgstr "[M] Tamam. Bir şans daha vereceğim."
 
 # game/UpdateScript0.05.rpy:3298 ## translate crowdin fix_sink_731fef9d:
 msgid "[R] Alright, so we'll just do the same thing we did last time, and...."
-msgstr ""
+msgstr "[R] Pekala, geçen sefer yaptığımızın aynısını yapacağız ve...."
 
 # game/UpdateScript0.05.rpy:3299 ## translate crowdin fix_sink_fb6bb70e_1:
 msgid "[M] Wait!...."
-msgstr ""
+msgstr "[M] Bekle!...."
 
 # game/UpdateScript0.05.rpy:3300 ## translate crowdin fix_sink_a58c2100:
 msgid "[M] I don't want to end up soaking wet this time. Let's trade places. I'm sure I can tighten the thingy just as tight as you."
-msgstr ""
+msgstr "[M] Bu sefer sırılsıklam olmak istemiyorum. Yer değiştirelim. Eminim o şeyi senin kadar sıkabilirim."
 
 # game/UpdateScript0.05.rpy:3301 ## translate crowdin fix_sink_d4dca3e3:
 msgid "[R] But.... It needs to be torqued really hard. I think probably a man should do it."
-msgstr ""
+msgstr "[R] Ama.... Gerçekten sert bir şekilde torklanması gerekiyor. Bence bunu bir erkek yapmalı."
 
 # game/UpdateScript0.05.rpy:3302 ## translate crowdin fix_sink_efc5305f:
 msgid "[M] Oh shut up, [ryan]. I work out more than you do. I'm sure I can get it tighter than you could."
-msgstr ""
+msgstr "[M] Kapa çeneni, [ryan]. Senden daha fazla çalışıyorum. Senden daha sıkı yapabileceğime eminim."
 
 # game/UpdateScript0.05.rpy:3303 ## translate crowdin fix_sink_950b9be1:
 msgid "[R] Alright.... No need to be hurtful."
-msgstr ""
+msgstr "[R] Peki.... Kırıcı olmaya gerek yok."
 
 # game/UpdateScript0.05.rpy:3304 ## translate crowdin fix_sink_598276ee:
 msgid "[R] I'll just crawl under the sink, and you climb up onto the counter then."
-msgstr ""
+msgstr "[R] Ben lavabonun altına gireyim, sen de tezgaha çık."
 
 # game/UpdateScript0.05.rpy:3307 ## translate crowdin fix_sink_dcc557c3_1:
 msgid "[R] Ok.... I've got the coupling braced from below. Go ahead and turn it clockwise, and we'll see if that stops the leak."
-msgstr ""
+msgstr "[R] Tamam.... Kaplini alttan destekledim. Devam et ve saat yönünde çevir, bakalım sızıntıyı durduracak mı."
 
 # game/UpdateScript0.05.rpy:3308 ## translate crowdin fix_sink_8b1d9b72_1:
 msgid "[M] Ok.... That's as tight as I can get it."
-msgstr ""
+msgstr "[M] Tamam.... Yapabildiğim kadar sıkı."
 
 # game/UpdateScript0.05.rpy:3309 ## translate crowdin fix_sink_66ba6bc8:
 msgid "[R] Perfect, Now I'll just try to get a little bit of an extra turn from down here...."
-msgstr ""
+msgstr "[R] Mükemmel, şimdi buradan biraz daha fazla dönüş almaya çalışacağım...."
 
 # game/UpdateScript0.05.rpy:3310 ## translate crowdin fix_sink_343e60b4_1:
 msgid "[R] and...."
-msgstr ""
+msgstr "[R] ve...."
 
 # game/UpdateScript0.05.rpy:3313 ## translate crowdin fix_sink_24ceca0d:
 msgid "[LT] {i}I wonder where Mom is.... I need some help on my Oedipus assignment.{/i}"
-msgstr ""
+msgstr "[LT] {i}Annemin nerede olduğunu merak ediyorum.... Oedipus ödevim için yardıma ihtiyacım var.{/i}"
 
 # game/UpdateScript0.05.rpy:3317 ## translate crowdin fix_sink_50c36c87:
 msgid "[M] Aaaaahhhh.... [ryan]!.... What did you do?"
-msgstr ""
+msgstr "[M] Aaaaahhhh.... [ryan]!.... Ne yaptın sen?"
 
 # game/UpdateScript0.05.rpy:3318 ## translate crowdin fix_sink_39a828a3_1:
 msgid "[R] What do you mean?...."
-msgstr ""
+msgstr "[R] Ne demek istiyorsun?...."
 
 # game/UpdateScript0.05.rpy:3319 ## translate crowdin fix_sink_966a9a4d:
 msgid "[M] I've got water spraying me up here!"
-msgstr ""
+msgstr "[M] Burada üzerime su fışkırıyor!"
 
 # game/UpdateScript0.05.rpy:3322 ## translate crowdin fix_sink_752929ea:
 msgid "[R] Oh, shit!.... I must have knocked the faucet off the main water line with my wrench!"
-msgstr ""
+msgstr "[R] Oh, siktir!.... İngiliz anahtarımla musluğu ana su hattından ayırmış olmalıyım!"
 
 # game/UpdateScript0.05.rpy:3323 ## translate crowdin fix_sink_627f9bb4:
 msgid "[M] Goddamnit [ryan]!...."
-msgstr ""
+msgstr "[M] Hay sokayım böyle işe [ryan]!...."
 
 # game/UpdateScript0.05.rpy:3324 ## translate crowdin fix_sink_e11fb5e2_1:
 msgid "[M] Get your ass up here and fix it!"
-msgstr ""
+msgstr "[M] Götünü kaldır ve tamir et!"
 
 # game/UpdateScript0.05.rpy:3327 ## translate crowdin fix_sink_174d6e63:
 msgid "[M] [ryan]!.... What's wrong?...."
-msgstr ""
+msgstr "[M] [ryan]!.... Sorun ne?...."
 
 # game/UpdateScript0.05.rpy:3328 ## translate crowdin fix_sink_3c329c08:
 msgid "[R] I think I pinched the nipple too hard with the clamp!"
-msgstr ""
+msgstr "[R] Sanırım meme ucunu pense ile çok sert sıkıştırdım!"
 
 # game/UpdateScript0.05.rpy:3329 ## translate crowdin fix_sink_15087968:
 msgid "[R] Fuck!.... It just popped out!"
-msgstr ""
+msgstr "[R] Siktir!.... Birden ortaya çıktı!"
 
 # game/UpdateScript0.05.rpy:3330 ## translate crowdin fix_sink_793ed664:
 msgid "[M] Well, stick it back in!"
-msgstr ""
+msgstr "[M] O zaman geri sok!"
 
 # game/UpdateScript0.05.rpy:3331 ## translate crowdin fix_sink_4f82cef1:
 msgid "[M] God!.... You're making me so wet!"
-msgstr ""
+msgstr "[M] Tanrım!.... Beni çok ıslatıyorsun!"
 
 # game/UpdateScript0.05.rpy:3334 ## translate crowdin fix_sink_0d95a840:
 msgid "{i}{b}\"Lauren's Libido +5\"{/b}{/i}"
@@ -5974,19 +5974,19 @@ msgstr "{i}{b}\"Lauren'in azgınlığı +5\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:3338 ## translate crowdin fix_sink_d0a98316:
 msgid "[M] UUuuurrrgggghhhhh.... I can't even believe you got me again!"
-msgstr ""
+msgstr "[M] UUuuurrrgggghhhhh.... Beni tekrar yakaladığına inanamıyorum!"
 
 # game/UpdateScript0.05.rpy:3339 ## translate crowdin fix_sink_0a476910:
 msgid "[R] It's not like I did this on purpose!"
-msgstr ""
+msgstr "[R] Bunu bilerek yapmadım ya!"
 
 # game/UpdateScript0.05.rpy:3340 ## translate crowdin fix_sink_c21d1fea:
 msgid "[M] Well, you could have fooled me!"
-msgstr ""
+msgstr "[M] Beni kandırabilirdin!"
 
 # game/UpdateScript0.05.rpy:3341 ## translate crowdin fix_sink_37adefed_1:
 msgid "[R] I'm sorry.... There.... I've almost got it...."
-msgstr ""
+msgstr "[R] Özür dilerim.... İşte.... Neredeyse hallettim...."
 
 # game/UpdateScript0.05.rpy:3342 ## translate crowdin fix_sink_dc7a84b6_1:
 msgid "[R] ...."
@@ -5994,63 +5994,63 @@ msgstr "[R] ...."
 
 # game/UpdateScript0.05.rpy:3346 ## translate crowdin fix_sink_178df1fc:
 msgid "[R] And it's fixed!...."
-msgstr ""
+msgstr "[R] Ve işte oldu!...."
 
 # game/UpdateScript0.05.rpy:3347 ## translate crowdin fix_sink_aaa72acd:
 msgid "[M] [ryan]! You son of a bitch!"
-msgstr ""
+msgstr "[M] [ryan]! Seni orospu çocuğu!"
 
 # game/UpdateScript0.05.rpy:3348 ## translate crowdin fix_sink_e9677b88:
 msgid "[R] Haha.... That's insulting both of us!"
-msgstr ""
+msgstr "[R] Haha.... Bu ikimize de hakarettir!"
 
 # game/UpdateScript0.05.rpy:3349 ## translate crowdin fix_sink_96eda000:
 msgid "[R] And since when did you decide to start cussing like a sailor?"
-msgstr ""
+msgstr "[R] Ve ne zamandan beri bir denizci gibi küfretmeye karar verdin?"
 
 # game/UpdateScript0.05.rpy:3350 ## translate crowdin fix_sink_95fcf38c:
 msgid "[M] Just, shut up!"
-msgstr ""
+msgstr "[M] Sadece kapa çeneni!"
 
 # game/UpdateScript0.05.rpy:3351 ## translate crowdin fix_sink_104dc2e2:
 msgid "[R] Ok.... ummmm.... but you've got a situation again."
-msgstr ""
+msgstr "[R] Tamam.... ummmm.... ama yine bir problem var."
 
 # game/UpdateScript0.05.rpy:3353 ## translate crowdin fix_sink_e46042e3:
 msgid "[M] Let me guess.... I'm winning the wet T-shirt contest again?"
-msgstr ""
+msgstr "[M] Tahmin edeyim.... Islak tişört yarışmasını yine ben mi kazanıyorum?"
 
 # game/UpdateScript0.05.rpy:3354 ## translate crowdin fix_sink_732a5292:
 msgid "[R] You know it!"
-msgstr ""
+msgstr "[R] Evet bildin!"
 
 # game/UpdateScript0.05.rpy:3357 ## translate crowdin fix_sink_3969e009:
 msgid "[M] You really think so?.... I mean, most of the girls at the club are so much younger."
-msgstr ""
+msgstr "[M] Gerçekten öyle mi düşünüyorsun?.... Yani, kulüpteki kızların çoğu çok daha genç."
 
 # game/UpdateScript0.05.rpy:3358 ## translate crowdin fix_sink_6e5970c6:
 msgid "[R] I'm telling you Mom, those torpedoes would blow all those younger girls out of the water."
-msgstr ""
+msgstr "[R] Sana söylüyorum anne, o torpidolar bütün genç kızları uçurur."
 
 # game/UpdateScript0.05.rpy:3359 ## translate crowdin fix_sink_6d2402a3:
 msgid "[R] And the fact that they're natural, and still so perky after nursing three babies!"
-msgstr ""
+msgstr "[R] Ve doğal olmaları ve üç bebeği emzirdikten sonra hala çok canlı kalmaları!"
 
 # game/UpdateScript0.05.rpy:3360 ## translate crowdin fix_sink_085da8c5:
 msgid "[R] I mean.... who wouldn't want to motorboat a pair of those \"tig ol bitties\"..."
-msgstr ""
+msgstr "[R] Demek istediğim.... kim bu \"tig ol bitties\" lerden bir çift motorlu tekneye binmek istemez ki..."
 
 # game/UpdateScript0.05.rpy:3363 ## translate crowdin fix_sink_7e4a61d7:
 msgid "[M] Ok.... that's enough. A son shouldn't use such colorful commentary about his own mothers breasts."
-msgstr ""
+msgstr "[M] Tamam.... bu kadar yeter. Bir evlat annesinin memeleri hakkında böyle renkli yorumlar yapmamalı."
 
 # game/UpdateScript0.05.rpy:3364 ## translate crowdin fix_sink_c951e0bf:
 msgid "[R] Sorry.... "
-msgstr ""
+msgstr "[R] Özür dilerim.... "
 
 # game/UpdateScript0.05.rpy:3365 ## translate crowdin fix_sink_bc711a9d:
 msgid "[M] No.... it's ok.... it was my fault for fishing for compliments."
-msgstr ""
+msgstr "[M] Hayır.... sorun değil.... iltifat için balık avlamak benim hatamdı."
 
 # game/UpdateScript0.05.rpy:3366 ## translate crowdin fix_sink_3265e8ee_2:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
@@ -6062,15 +6062,15 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3370 ## translate crowdin fix_sink_8c1d690b:
 msgid "[M] And I appreciate your kind words, I just need to stop you before it gets too weird."
-msgstr ""
+msgstr "[M] Ve nazik sözlerin için teşekkür ederim, sadece çok tuhaflaşmadan seni durdurmam gerekiyor."
 
 # game/UpdateScript0.05.rpy:3371 ## translate crowdin fix_sink_1dc2ba99:
 msgid "[R] Yeah.... I was getting carried away."
-msgstr ""
+msgstr "[R] Evet.... Kendimi kaptırmışım."
 
 # game/UpdateScript0.05.rpy:3372 ## translate crowdin fix_sink_8b578012:
 msgid "[M] So, I think we'll call it a day, and I'm going to go change my shirt. Thank you for your help today."
-msgstr ""
+msgstr "[M] Sanırım bugünlük bu kadar yeter, ben gidip üzerimi değiştireceğim. Bugünkü yardımın için teşekkürler."
 
 # game/UpdateScript0.05.rpy:3373 ## translate crowdin fix_sink_f6b72f7e_2:
 msgid "[R] Of course! Love ya, Mom."
@@ -6122,27 +6122,27 @@ msgstr "[M] Ben de seni seviyorum."
 
 # game/UpdateScript0.05.rpy:3392 ## translate crowdin fix_sink_1df14e34:
 msgid "{i}\"This event ends slightly different with higher libido. Get Mom's libido up, (8+) and try again next week.\"{/i}"
-msgstr ""
+msgstr "{i}\"Bu olay daha yüksek azgınlık ile biraz daha farklı biter. Annenizin azgınlığını yükseltin (8+) ve gelecek hafta tekrar deneyin.\"{/i}"
 
 # game/UpdateScript0.05.rpy:3404 ## translate crowdin fix_sink_81328084:
 msgid "[RT] {i}Shorter shorts.... Nice open tank top.... No bra!.... {/i}"
-msgstr ""
+msgstr "[RT] {i}Daha kısa şort.... Güzel açık atlet.... Sütyen yok!.... {/i}"
 
 # game/UpdateScript0.05.rpy:3405 ## translate crowdin fix_sink_7906e50c:
 msgid "[RT] {i}Dad wouldn't have ever let Mom wear anything like that around the house.{/i}"
-msgstr ""
+msgstr "[RT] {i}Babam annemin evde böyle bir şey giymesine asla izin vermezdi.{/i}"
 
 # game/UpdateScript0.05.rpy:3406 ## translate crowdin fix_sink_ce983c29:
 msgid "[RT] {i}He's such an asshole!.... I'm so glad to see Mom opening up more, and being herself.{/i}"
-msgstr ""
+msgstr "[RT] {i}Babam bir pislik!.... Annemin daha fazla açıldığını ve kendisi olduğunu gördüğüme çok sevindim.{/i}"
 
 # game/UpdateScript0.05.rpy:3407 ## translate crowdin fix_sink_2f3c4995:
 msgid "[RT] {i}She always had to walk on eggshells around him.{/i}"
-msgstr ""
+msgstr "[RT] {i}Onun yanında her zaman yumurta kabuklarının üzerinde yürümek zorundaydı.{/i}"
 
 # game/UpdateScript0.05.rpy:3408 ## translate crowdin fix_sink_253f1cce:
 msgid "[RT] {i}Life's definitely harder without him here to take care of us, but honestly, I'm glad he's gone.{/i}"
-msgstr ""
+msgstr "[RT] {i}O yanımızda olmadan hayat kesinlikle daha zor, ama dürüst olmak gerekirse, burada olmadığı için memnunum.{/i}"
 
 # game/UpdateScript0.05.rpy:3409 ## translate crowdin fix_sink_43229d31:
 msgid "[RT] {i}Now I just need to keep working on getting Mom to feel the same way.{/i}"
@@ -6150,79 +6150,79 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3410 ## translate crowdin fix_sink_2117e623:
 msgid "[RT] {i}Maybe there's something else I can help her do around the house.{/i}"
-msgstr ""
+msgstr "[RT] {i}Belki evde yapmasına yardım edebileceğim başka bir şey vardır.{/i}"
 
 # game/UpdateScript0.05.rpy:3413 ## translate crowdin fix_sink_c0ed5355:
 msgid "[R] Hey, Mom! I'm digging the new diggs!"
-msgstr ""
+msgstr "[R] Hey, anne! Yeni kazılara bayıldım!"
 
 # game/UpdateScript0.05.rpy:3416 ## translate crowdin fix_sink_89db5536:
 msgid "[M] Oh, hi [ryan].... Did you stop me from working just so you can talk about fashion?"
-msgstr ""
+msgstr "[M] Oh, merhaba [ryan].... Sırf moda hakkında konuşabilmek için mi beni çalışmaktan alıkoydun?"
 
 # game/UpdateScript0.05.rpy:3417 ## translate crowdin fix_sink_69936647:
 msgid "[R] Uhhh.... No.... Actually, I wanted to offer my handyman services to you again."
-msgstr ""
+msgstr "[R] Uhhh.... Hayır.... Aslında, tamirci hizmetlerimi sana tekrar sunmak istedim."
 
 # game/UpdateScript0.05.rpy:3418 ## translate crowdin fix_sink_cea68024:
 msgid "[R] Is there anything we can do to check off another item on the \"honey-do list?\""
-msgstr ""
+msgstr "[R] \"Ballı yapılacaklar listesi\"ne bir madde daha eklemek için yapabileceğimiz bir şey var mı?"
 
 # game/UpdateScript0.05.rpy:3419 ## translate crowdin fix_sink_d576d412:
 msgid "[R] Did that lightbulb come unscrewed again?"
-msgstr ""
+msgstr "[R] O ampul yine yerinden çıktı mı?"
 
 # game/UpdateScript0.05.rpy:3420 ## translate crowdin fix_sink_56f3209c:
 msgid "[M] No, thank God. It's not flickering at all anymore."
-msgstr ""
+msgstr "[M] Hayır, Tanrı'ya şükür. Artık hiç titremiyor."
 
 # game/UpdateScript0.05.rpy:3421 ## translate crowdin fix_sink_091a7b26:
 msgid "[M] But I just noticed we are having some problems with the kitchen sink. It seems to be leaking from somewhere underneath into the cabinet area."
-msgstr ""
+msgstr "[M] Ama mutfak lavabosuyla ilgili bazı sorunlar yaşadığımızı fark ettim. Alttan bir yerden dolap alanına sızıntı yapıyor gibi görünüyor."
 
 # game/UpdateScript0.05.rpy:3422 ## translate crowdin fix_sink_fd4a6b85:
 msgid "[M] I've put a pan there to catch the water for now, but we really need to get it fixed."
-msgstr ""
+msgstr "[M] Şimdilik suyu tutması için oraya bir tava koydum ama gerçekten tamir ettirmemiz gerekiyor."
 
 # game/UpdateScript0.05.rpy:3423 ## translate crowdin fix_sink_fbcda679:
 msgid "[M] I was just going to call a plumber."
-msgstr ""
+msgstr "[M] Tesisatçı çağıracaktım."
 
 # game/UpdateScript0.05.rpy:3426 ## translate crowdin fix_sink_ffbad211:
 msgid "[R] No!.... Don't do that. I'm sure I can fix it for you."
-msgstr ""
+msgstr "[R] Hayır!.... Bunu yapma. Senin için düzeltebileceğime eminim."
 
 # game/UpdateScript0.05.rpy:3427 ## translate crowdin fix_sink_3004bbee:
 msgid "[RT] {i}Plus I've seen too many movies about lonely housewives calling a plumber.{/i}"
-msgstr ""
+msgstr "[RT] {i}Ayrıca yalnız kalan ev kadınlarının tesisatçı çağırdığı filmleri çok kez izledim.{/i}"
 
 # game/UpdateScript0.05.rpy:3428 ## translate crowdin fix_sink_9df935bf:
 msgid "[M] .... Umm.... Ok.... If you think you can."
-msgstr ""
+msgstr "[M] .... Umm.... Tamam.... Eğer yapabileceğini düşünüyorsan."
 
 # game/UpdateScript0.05.rpy:3429 ## translate crowdin fix_sink_0dbaead5:
 msgid "[R] Well, yeah, of course I can. Plus, we need to be saving money right now. Plumbers are expensive."
-msgstr ""
+msgstr "[R] Evet, tabii ki yapabilirim. Ayrıca, şu anda para biriktirmemiz gerekiyor. Tesisatçılar pahalı."
 
 # game/UpdateScript0.05.rpy:3432 ## translate crowdin fix_sink_fda3e576:
 msgid "[M] Yeah, I'd thought of that. I figured I'd need to work another night at the club to be able to pay for it."
-msgstr ""
+msgstr "[M] Evet, bunu düşünmüştüm. Parasını ödeyebilmek için kulüpte bir gece daha çalışmam gerektiğini düşündüm."
 
 # game/UpdateScript0.05.rpy:3433 ## translate crowdin fix_sink_2346cf5c:
 msgid "[R] No Mom, don't do that.... I've got this."
-msgstr ""
+msgstr "[R] Hayır anne.... bunu yapma. Ben hallederim."
 
 # game/UpdateScript0.05.rpy:3435 ## translate crowdin fix_sink_5f91b30d:
 msgid "[MT] {i}Damn.... I've been getting a little bored. Working another night in the club sounded exciting.{/i}"
-msgstr ""
+msgstr "[MT] {i}Kahretsin.... Biraz sıkılmaya başlamıştım. Kulüpte bir gece daha çalışmak kulağa heyecan verici geliyordu.{/i}"
 
 # game/UpdateScript0.05.rpy:3436 ## translate crowdin fix_sink_49497f1d:
 msgid "[MT] {i}Plus, I've seen some pretty good movies about plumbers and lonely housewives.{/i}"
-msgstr ""
+msgstr "[MT] {i}Ayrıca, tesisatçılar ve yalnız ev kadınları hakkında oldukça iyi filmler izledim.{/i}"
 
 # game/UpdateScript0.05.rpy:3437 ## translate crowdin fix_sink_5ed6d7d7:
 msgid "[MT] {i}But this seems important to [ryan], to feel like the man of the house, so I'll just let him do it.{/i}"
-msgstr ""
+msgstr "[MT] {i}Ama bu [ryan] için önemli görünüyor, evin erkeği gibi hissetmek için, bu yüzden bunu yapmasına izin vereceğim.{/i}"
 
 # game/UpdateScript0.05.rpy:3439 ## translate crowdin fix_sink_1f5abf56:
 msgid "[MT] {i}I love it when [ryan] tries so hard to protect me.{/i}"
@@ -6234,35 +6234,35 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3441 ## translate crowdin fix_sink_a6aef9bf:
 msgid "[M] Ok, Let's see if you can fix it."
-msgstr ""
+msgstr "[M] Tamam, bakalım düzeltebilecek misin."
 
 # game/UpdateScript0.05.rpy:3442 ## translate crowdin fix_sink_bfd6dde1:
 msgid "[R] Awesome! I'll meet you in the kitchen in about 10 minutes. I'm just going to see if there's a good YourTube tutorial for fixing leaks."
-msgstr ""
+msgstr "[R] Harika! On dakika içinde mutfakta buluşuruz. Sızıntıları gidermek için iyi bir YourTube eğitimi var mı diye bakacağım."
 
 # game/UpdateScript0.05.rpy:3445 ## translate crowdin fix_sink_d0df26bc:
 msgid "{i}\"One YourTube tutorial, and 10 minutes later.\"{/i}"
-msgstr ""
+msgstr "{i}\"Bir YourTube eğitimi ve 10 dakika sonrası.\"{/i}"
 
 # game/UpdateScript0.05.rpy:3448 ## translate crowdin fix_sink_62526c82:
 msgid "[M] So, do you think you can fix it?"
-msgstr ""
+msgstr "[M] Peki, bunu düzeltebileceğini düşünüyor musun?"
 
 # game/UpdateScript0.05.rpy:3449 ## translate crowdin fix_sink_56b0d22d:
 msgid "[R] Yeah, I think I can figure it out."
-msgstr ""
+msgstr "[R] Evet, sanırım bunu çözebilirim."
 
 # game/UpdateScript0.05.rpy:3450 ## translate crowdin fix_sink_31264e53:
 msgid "[R] Do you mind helping though? I'm going to need an extra hand."
-msgstr ""
+msgstr "[R] Yardım edebilir misin? Fazladan bir ele ihtiyacım olacak."
 
 # game/UpdateScript0.05.rpy:3453 ## translate crowdin fix_sink_df058b7a:
 msgid "[M] No, I don't mind at all. I'm just really happy that you're getting to be so handy."
-msgstr ""
+msgstr "[M] Hayır, hiç umurumda değil. Bu kadar becerikli olduğun için çok mutluyum."
 
 # game/UpdateScript0.05.rpy:3454 ## translate crowdin fix_sink_0628c003:
 msgid "[M] Just let me know what you want me to do."
-msgstr ""
+msgstr "[M] Sadece ne yapmamı istediğini söyle."
 
 # game/UpdateScript0.05.rpy:3459 ## translate crowdin fix_sink_8d2a086f:
 msgid "[R] Ok, so I need you to take this wrench and keep the coupling at the base of the drain pipe from turning while I try to tighten it from above."
@@ -6274,71 +6274,71 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3461 ## translate crowdin fix_sink_2b8ad472:
 msgid "[M] Alright, anything else?"
-msgstr ""
+msgstr "[M] Pekala, başka bir şey var mı?"
 
 # game/UpdateScript0.05.rpy:3462 ## translate crowdin fix_sink_4c8ea558:
 msgid "[R] No.... except this would probably work better with a pipe wrench, but this is all I could find in Dad's toolbox."
-msgstr ""
+msgstr "[R] Hayır.... bunun dışında muhtemelen bir boru anahtarıyla daha iyi çalışırdı, ama babamın alet kutusunda bulabildiğim tek şey buydu."
 
 # game/UpdateScript0.05.rpy:3463 ## translate crowdin fix_sink_b740ed95:
 msgid "[R] So, if you'll crawl under the sink and try to secure the wrench on the coupling, I'll climb up on the counter and do my part from above."
-msgstr ""
+msgstr "[R] Yani sen lavabonun altına girip anahtarı kaplinin üzerine sabitlemeye çalışırsan, ben de tezgahın üzerine tırmanıp üzerime düşeni yaparım."
 
 # game/UpdateScript0.05.rpy:3467 ## translate crowdin fix_sink_9198793c_1:
 msgid "[R] Ok.... Just let me know when you've got the coupling secured."
-msgstr ""
+msgstr "[R] Tamam.... Bağlantıyı sağlama aldığında bana haber ver."
 
 # game/UpdateScript0.05.rpy:3468 ## translate crowdin fix_sink_257067ae:
 msgid "[M] Well.... I've got the wrench securing something, I'm not exactly sure if it's the coupling."
-msgstr ""
+msgstr "[M] Peki.... Bir şeyi sabitleyen bir anahtarım var, bunun kaplin olup olmadığından tam olarak emin değilim."
 
 # game/UpdateScript0.05.rpy:3469 ## translate crowdin fix_sink_74ce2a80:
 msgid "[R] Alright, well I'll just see if I can tighten it from up here. You ready to hold it steady?"
-msgstr ""
+msgstr "[R] Pekala, bakalım buradan sıkabilecek miyim. Sabit tutmaya hazır mısın?"
 
 # game/UpdateScript0.05.rpy:3470 ## translate crowdin fix_sink_3a7631b9_1:
 msgid "[M] I'm ready."
-msgstr ""
+msgstr "[M] Hazırım."
 
 # game/UpdateScript0.05.rpy:3471 ## translate crowdin fix_sink_1919ade9:
 msgid "[RT] Now do I turn it left, or right?"
-msgstr ""
+msgstr "[RT] Şimdi sola mı çevireyim, sağa mı?"
 
 # game/UpdateScript0.05.rpy:3472 ## translate crowdin fix_sink_5a48fa05:
 msgid "[RT] I think left. Here goes nothing."
-msgstr ""
+msgstr "[RT] Sanırım sola. Burada hiçbir şey yok."
 
 # game/UpdateScript0.05.rpy:3476 ## translate crowdin fix_sink_10bb8f2d:
 msgid "[M] Oh, fuck!.... [ryan]!.... It's leaking all over me!.... Turn it the other way!"
-msgstr ""
+msgstr "[M] Oh, siktir!.... [ryan]!.... Her yerime akıyor!.... Diğer tarafa çevir!"
 
 # game/UpdateScript0.05.rpy:3477 ## translate crowdin fix_sink_577e8b93:
 msgid "[M] Hurry!.... I'm getting soaked!"
-msgstr ""
+msgstr "[M] Acele et!.... Sırılsıklam oluyorum!"
 
 # game/UpdateScript0.05.rpy:3480 ## translate crowdin fix_sink_8e88fa73_1:
 msgid "[M] [ryan]!.... Hurry!.... Tighten the damn thing!"
-msgstr ""
+msgstr "[M] [ryan]!.... Acele et!.... Sık şu lanet şeyi!"
 
 # game/UpdateScript0.05.rpy:3484 ## translate crowdin fix_sink_68097ec4:
 msgid "[M] Holy shit!"
-msgstr ""
+msgstr "[M] Siktir be!"
 
 # game/UpdateScript0.05.rpy:3485 ## translate crowdin fix_sink_2573e6cc:
 msgid "[M] Couldn't you have at least filled the sink with warm water!?"
-msgstr ""
+msgstr "[M] En azından lavaboyu ılık suyla dolduramaz mıydın!?"
 
 # game/UpdateScript0.05.rpy:3486 ## translate crowdin fix_sink_38dab4fd:
 msgid "[R] Oh, no! Mom, I'm so sorry!"
-msgstr ""
+msgstr "[R] Olamaz! Anne, çok özür dilerim!"
 
 # game/UpdateScript0.05.rpy:3487 ## translate crowdin fix_sink_0bd6ce52:
 msgid "[M] Uuhhggghhh.... It's ok.... I'm ok.... That was just a little shocking!"
-msgstr ""
+msgstr "[M] Uuhhggghhh.... Sorun yok.... Ben iyiyim.... Bu sadece biraz şok ediciydi!"
 
 # game/UpdateScript0.05.rpy:3490 ## translate crowdin fix_sink_6006760f:
 msgid "[R] Are you sure?.... For someone who hates curse words, you sure cursed a lot."
-msgstr ""
+msgstr "[R] Emin misin?.... Küfürden nefret eden biri olarak, çok fazla küfrettiğin kesin."
 
 # game/UpdateScript0.05.rpy:3491 ## translate crowdin fix_sink_18054b08:
 msgid "[M] [ryan].... Give me a break, ok?.... You just dumped freezing water all over my chest!"
@@ -6346,11 +6346,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3492 ## translate crowdin fix_sink_59e90519:
 msgid "[M] And sometimes I just need you to do what I say, and not what I do...."
-msgstr ""
+msgstr "[M] Ve bazen sadece dediğimi yapmanı istiyorum.... yaptığımı değil."
 
 # game/UpdateScript0.05.rpy:3493 ## translate crowdin fix_sink_ee192538:
 msgid "[R] Yeah.... Alright.... but on the bright side, I think you could win the wet T-shirt contest at the strip club."
-msgstr ""
+msgstr "[R] Evet.... Tamam.... ama iyi tarafından bakarsak striptiz kulübündeki ıslak tişört yarışmasını kazanabilirsin."
 
 # game/UpdateScript0.05.rpy:3497 ## translate crowdin fix_sink_297096cf:
 msgid "[M] Haha.... Yeah, I was noticing that too."
@@ -6390,31 +6390,31 @@ msgstr "[M] Ben de seni seviyorum."
 
 # game/UpdateScript0.05.rpy:3514 ## translate crowdin fix_sink_b5cbc568:
 msgid "[M] Oh my God!.... My shirt is completely see-through!"
-msgstr ""
+msgstr "[M] Aman Tanrım!.... Üstüm görünüyor!"
 
 # game/UpdateScript0.05.rpy:3515 ## translate crowdin fix_sink_2216b018:
 msgid "[M] I can't believe you were just staring at them without saying a word."
-msgstr ""
+msgstr "[M] Tek kelime etmeden onlara öylece baktığına inanamıyorum."
 
 # game/UpdateScript0.05.rpy:3516 ## translate crowdin fix_sink_a172a055:
 msgid "[R] I did say a word!.... "
-msgstr ""
+msgstr "[R] Bir kelime söyledim!.... "
 
 # game/UpdateScript0.05.rpy:3517 ## translate crowdin fix_sink_f9ebbbf8:
 msgid "[M] Yeah, after getting a good long look."
-msgstr ""
+msgstr "[M] Evet, uzun uzun baktıktan sonra."
 
 # game/UpdateScript0.05.rpy:3518 ## translate crowdin fix_sink_1b4a2c73:
 msgid "[M] And then suggesting I should be in a wet T-shirt contest?"
-msgstr ""
+msgstr "[M] Sonra da ıslak tişört yarışmasına katılmamı mı öneriyorsun?"
 
 # game/UpdateScript0.05.rpy:3519 ## translate crowdin fix_sink_17f4a850:
 msgid "[M] Those aren't the kinds of jokes a son should make to his mother."
-msgstr ""
+msgstr "[M] Bunlar bir evladın annesine yapması gereken şakalar değil."
 
 # game/UpdateScript0.05.rpy:3520 ## translate crowdin fix_sink_e152addb:
 msgid "[R] Sorry Mom,.... I was just trying to make things less awkward."
-msgstr ""
+msgstr "[R] Üzgünüm anne,.... Sadece işleri daha az garip hale getirmeye çalışıyordum."
 
 # game/UpdateScript0.05.rpy:3521 ## translate crowdin fix_sink_9040f0a8_2:
 msgid "[M] ...."
@@ -6422,11 +6422,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3522 ## translate crowdin fix_sink_4cc94b9e:
 msgid "[M] That's ok, I guess I am overreacting a little."
-msgstr ""
+msgstr "[M] Sorun değil, sanırım biraz aşırı tepki verdim."
 
 # game/UpdateScript0.05.rpy:3523 ## translate crowdin fix_sink_1b62f21c:
 msgid "[M] Thanks for your help today. I'm going to run and change my shirt."
-msgstr ""
+msgstr "[M] Bugünkü yardımın için teşekkürler. Koşup üstümü değiştireyim."
 
 # game/UpdateScript0.05.rpy:3524 ## translate crowdin fix_sink_f6b72f7e_5:
 msgid "[R] Of course! Love ya, Mom."
@@ -6438,7 +6438,7 @@ msgstr "[M] Ben de seni seviyorum."
 
 # game/UpdateScript0.05.rpy:3526 ## translate crowdin fix_sink_1cec7336:
 msgid "{i}\"This event ends slightly different with higher libido. Get Mom's libido up, (8+) and try again next weekend.\"{/i}"
-msgstr ""
+msgstr "{i}\"Bu olay daha yüksek azgınlık ile biraz daha farklı bitiyor. Annenin azgınlığını yükseltin (8+) ve gelecek hafta sonu tekrar deneyin.\"{/i}"
 
 # game/UpdateScript0.05.rpy:3539 ## translate crowdin please_go_work_fb18626f:
 msgid "[R] Hey Sidney!"
@@ -6450,7 +6450,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3546 ## translate crowdin please_go_work_2009bfdb:
 msgid "[S] What can I do for you?"
-msgstr ""
+msgstr "[S] Senin için ne yapabilirim?"
 
 # game/UpdateScript0.05.rpy:3547 ## translate crowdin please_go_work_7b1f25d5:
 msgid "[R] You know how you said that if I need help making the Mafia payment fo the week, you'd help out?"
@@ -6554,35 +6554,35 @@ msgstr "[RT] {i}Burası çok güzel kokuyor. Kahvaltı için herkese katılayım
 
 # game/UpdateScript0.05.rpy:3631 ## translate crowdin breakfast_events_0a534751:
 msgid "[L] Well, don't you think we should at least address it?"
-msgstr ""
+msgstr "[L] En azından bunu ele almamız gerektiğini düşünmüyor musunuz?"
 
 # game/UpdateScript0.05.rpy:3632 ## translate crowdin breakfast_events_0a4c5497:
 msgid "[M] Now is not the time, or the place!"
-msgstr ""
+msgstr "[M] Şimdi ne yeri ne de zamanı!"
 
 # game/UpdateScript0.05.rpy:3633 ## translate crowdin breakfast_events_a3611af7:
 msgid "[L] Well, when is a good time?"
-msgstr ""
+msgstr "[L] Peki, ne zaman iyi bir zaman?"
 
 # game/UpdateScript0.05.rpy:3634 ## translate crowdin breakfast_events_e7adda95:
 msgid "[M] {i}(whispering){/i} Anytime that your brother isn't around!"
-msgstr ""
+msgstr "[M] {i}(fısıldayarak){/i} Kardeşinin etrafta olmadığı her an!"
 
 # game/UpdateScript0.05.rpy:3637 ## translate crowdin breakfast_events_507c726a:
 msgid "[R] Wait! What's going on?"
-msgstr ""
+msgstr "[R] Bekle! Neler oluyor?"
 
 # game/UpdateScript0.05.rpy:3638 ## translate crowdin breakfast_events_2b5532ad:
 msgid "[M] Nothing, honey.... Just eat your pancakes!"
-msgstr ""
+msgstr "[M] Hiçbir şey, tatlım.... Sadece krepini ye!"
 
 # game/UpdateScript0.05.rpy:3639 ## translate crowdin breakfast_events_ec49f372:
 msgid "[RT] {i}Damn, Sidney looks miserable.... Am I going too far with my night shenanigans?{/i}"
-msgstr ""
+msgstr "[RT] {i}Kahretsin, Sidney perişan görünüyor.... Gece maskaralıklarımda çok mu ileri gidiyorum?{/i}"
 
 # game/UpdateScript0.05.rpy:3640 ## translate crowdin breakfast_events_235ae9e6:
 msgid "[RT] {i}I've just got to remember, the ends justify the means.{/i}"
-msgstr ""
+msgstr "[RT] {i}Unutmamalıyım ki, amaçlar araçları haklı çıkarır.{/i}"
 
 # game/UpdateScript0.05.rpy:3652 ## translate crowdin breakfast_events_8d9a4b12_2:
 msgid "[RT] {i}It smells good in here. Should I join everybody for breakfast?{/i}"
@@ -7130,7 +7130,7 @@ msgstr "[R] Teşekkürler anne!"
 
 # game/UpdateScript0.05.rpy:4114 ## translate crowdin breakfast_events_baf3b20e:
 msgid "[RT] {i}It almost seems like she knows I'm staring at her breasts, and just doesn't care. Is it possible she's showing them off for me on purpose?{/i}"
-msgstr ""
+msgstr "[RT] {i}Sanki göğüslerine baktığımı biliyor ve umursamıyor gibi görünüyor. Onları bana bilerek gösteriyor olabilir mi?{/i}"
 
 # game/UpdateScript0.05.rpy:4116 ## translate crowdin breakfast_events_f8c8e091:
 msgid "[RT] {i}Oh, she doesn't seem in any hurry to close that robe! Is it possible she's showing them off for me on purpose?{/i}"
@@ -7350,7 +7350,7 @@ msgstr "[R] Teşekkürler anne!"
 
 # game/UpdateScript0.05.rpy:4290 ## translate crowdin breakfast_events_baf3b20e_1:
 msgid "[RT] {i}It almost seems like she knows I'm staring at her breasts, and just doesn't care. Is it possible she's showing them off for me on purpose?{/i}"
-msgstr ""
+msgstr "[RT] {i}Sanki göğüslerine baktığımı biliyor ve umursamıyor gibi görünüyor. Onları bana bilerek gösteriyor olabilir mi?{/i}"
 
 # game/UpdateScript0.05.rpy:4292 ## translate crowdin breakfast_events_f8c8e091_1:
 msgid "[RT] {i}Oh, she doesn't seem in any hurry to close that robe! Is it possible she's showing them off for me on purpose?{/i}"
@@ -7478,15 +7478,15 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4421 ## translate crowdin fix_washer_2ee69f22:
 msgid "[RT] {i}Mom's at it again. Doing her best to keep our house functioning like a normal home should.{/i}"
-msgstr ""
+msgstr "[RT] {i}Annem yine iş başında. Evimizin normal bir ev gibi olması ve işlemesi için elinden geleni yapıyor.{/i}"
 
 # game/UpdateScript0.05.rpy:4422 ## translate crowdin fix_washer_89312161:
 msgid "[RT] {i}I've still got plenty on my plate too, but should I take some time to see if she needs help?{/i}"
-msgstr ""
+msgstr "[RT] {i}Benim de hala yapacak çok işim var, ama yardıma ihtiyacı olup olmadığını görmek için biraz zaman ayırmalı mıyım?{/i}"
 
 # game/UpdateScript0.05.rpy:4425 ## translate crowdin fix_washer_626085c4:
 msgid "[R] Hey, Mom! Way to rock that broom."
-msgstr ""
+msgstr "[R] Hey, anne! Süpürgeyi sallamanın bir yolu da bu."
 
 # game/UpdateScript0.05.rpy:4429 ## translate crowdin fix_washer_5a82f1a7:
 msgid "[M] What is it, [ryan]? I still don't have time for your playful banter."
@@ -7494,7 +7494,7 @@ msgstr "[M] Ne oldu, [ryan]? Hala senin şakalarına ayıracak vaktim yok."
 
 # game/UpdateScript0.05.rpy:4430 ## translate crowdin fix_washer_7b75b195:
 msgid "[R] Sorry.... I know.... I should stop trying."
-msgstr ""
+msgstr "[R] Üzgünüm.... Biliyorum.... Denemeyi bırakmalıyım."
 
 # game/UpdateScript0.05.rpy:4431 ## translate crowdin fix_washer_5b012d7d:
 msgid "[R] I was just wondering if you needed any help with the house."
@@ -7506,11 +7506,11 @@ msgstr "[M] Hala evde bana yardım mı etmek istiyorsun?...."
 
 # game/UpdateScript0.05.rpy:4435 ## translate crowdin fix_washer_3464456c:
 msgid "[R] Well, yeah.... Dad's still gone, and your \"honey-do list\" must still be getting longer."
-msgstr ""
+msgstr "[R] Evet.... Babam hala yok ve senin \"ballı yapılacaklar listen\" de uzamaya devam ediyor olmalı."
 
 # game/UpdateScript0.05.rpy:4436 ## translate crowdin fix_washer_15b88f70:
 msgid "[M] Well yeah, that's true, but unfortunately we didn't even check off the last thing we had on the list."
-msgstr ""
+msgstr "[M] Evet, bu doğru, ama ne yazık ki listedeki son şeyi bile kontrol edemedik."
 
 # game/UpdateScript0.05.rpy:4438 ## translate crowdin fix_washer_a1840564:
 msgid "[R] Oh no!.... Is the washing machine quitting mid-load again?"
@@ -7754,7 +7754,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4543 ## translate crowdin fix_washer_20d07906:
 msgid "[R] Wait!.... No!.... You can't!...."
-msgstr ""
+msgstr "[R] Bekle!.... Hayır!.... Yapamazsın!...."
 
 # game/UpdateScript0.05.rpy:4544 ## translate crowdin fix_washer_19e64904:
 msgid "[M] Why?"
@@ -8042,7 +8042,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4683 ## translate crowdin fix_washer_ce983c29:
 msgid "[RT] {i}He's such an asshole!.... I'm so glad to see Mom opening up more, and being herself.{/i}"
-msgstr ""
+msgstr "[RT] {i}Babam bir pislik!.... Annemin daha fazla açıldığını ve kendisi olduğunu gördüğüme çok sevindim.{/i}"
 
 # game/UpdateScript0.05.rpy:4684 ## translate crowdin fix_washer_9942ab9a:
 msgid "[RT] {i}I've got to make her see how much better her life can be without him.{/i}"
@@ -8054,7 +8054,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4686 ## translate crowdin fix_washer_f98d596c:
 msgid "[RT] {i}Maybe there's something else I can do to help her around the house.{/i}"
-msgstr ""
+msgstr "[RT] {i}Belki evde ona yardım etmek için yapabileceğim başka bir şey vardır.{/i}"
 
 # game/UpdateScript0.05.rpy:4689 ## translate crowdin fix_washer_2d04429b:
 msgid "[R] Hey, Mom. Lookin good today. Love the new outfit!"
@@ -8366,7 +8366,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4830 ## translate crowdin fix_washer_20d07906_1:
 msgid "[R] Wait!.... No!.... You can't!...."
-msgstr ""
+msgstr "[R] Bekle!.... Hayır!.... Yapamazsın!...."
 
 # game/UpdateScript0.05.rpy:4831 ## translate crowdin fix_washer_19e64904_1:
 msgid "[M] Why?"
@@ -10498,7 +10498,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5977 ## translate crowdin first_club_cum_4881927b:
 msgid "[R] What?"
-msgstr ""
+msgstr "[R] Ne?"
 
 # game/UpdateScript0.05.rpy:5978 ## translate crowdin first_club_cum_aab984da:
 msgid "[S] Because I'm starting to feel the same way as you."
@@ -10690,7 +10690,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6065 ## translate crowdin sid_working_club_5b0354c2:
 msgid "[R] What?.... Psssshhhh.... Of course not!"
-msgstr ""
+msgstr "[R] Ne?.... Psssshhhh.... Tabii ki hayır!"
 
 # game/UpdateScript0.05.rpy:6066 ## translate crowdin sid_working_club_be4b4cb7:
 msgid "[R] That would be so weird!"
