@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-26 09:08\n"
+"PO-Revision-Date: 2022-11-29 09:05\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/Patreon_$5_Gallery/D.S.Mod.rpy:2324 ## translate crowdin input_money_9c2e4d68:
 msgid "[DS] You added $[addmoney] and now have: $[money]."
@@ -31,7 +31,7 @@ msgstr "[DS] Tamam, yeni adınız: ({color=#0000CC}[ryan]{/color})."
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2408 ## translate crowdin ds_mod_info_3abf1dee:
 msgid "[DS] This mod(v[mod_version]) was made by {color=#00589E}D.S.-sama{/color} for {color=#E60000}WillTylor{/color} and his game, {color=#34f500}AFamilyVenture_v[game_version]{/color}. Have fun playing the game and let us know if you find any bugs."
-msgstr ""
+msgstr "[DS] Bu mod(v[mod_version]) {color=#00589E}D.S.-sama{/color} tarafından {color=#E60000}WillTylor{/color} ve onun oyunu olan {color=#34f500}AFamilyVenture_v[game_version]{/color} için yapılmıştır. Oyunu oynarken iyi eğlenceler ve herhangi bir hata bulursanız bize bildirin."
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2413 ## translate crowdin ds_anger_reset_nfo_47ed8249:
 msgid "[DS] You have reset the anger lvl for all girls!"
