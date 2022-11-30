@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-29 09:05\n"
+"PO-Revision-Date: 2022-11-30 09:14\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/UpdateScript0.03.rpy:466 ## translate crowdin posting_the_htbyd_pics_99f2fd00:
 msgid "[RT] {i}I finally finished the Zad 3D work and photo editing.{/i}"
@@ -1306,7 +1306,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1075 ## translate crowdin commissionsecondoutfit_53a5049c:
 msgid "[S] Hey [ryan], what can I do for you?"
-msgstr ""
+msgstr "[S] Hey [ryan], senin için ne yapabilirim?"
 
 # game/UpdateScript0.03.rpy:1076 ## translate crowdin commissionsecondoutfit_9e830674:
 msgid "[R] Nothing, just felt like talking with you."
@@ -1338,7 +1338,7 @@ msgstr "[R] Tamam, seni tekrar bulacağım."
 
 # game/UpdateScript0.03.rpy:1093 ## translate crowdin commissionsecondoutfit_53a5049c_1:
 msgid "[S] Hey [ryan], what can I do for you?"
-msgstr ""
+msgstr "[S] Hey [ryan], senin için ne yapabilirim?"
 
 # game/UpdateScript0.03.rpy:1094 ## translate crowdin commissionsecondoutfit_630302f5:
 msgid "[R] I need you to make another cosplay outfit for Lauren."
@@ -1446,59 +1446,59 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1132 ## translate crowdin commissionsecondoutfit_98c19aa7:
 msgid "[R] I've been working really hard lately, and I should have enough to pay for Lauren's outfit and the weekly Mafia debt."
-msgstr ""
+msgstr "[R] Son zamanlarda gerçekten çok çalışıyorum ve Lauren'in kıyafetini ve haftalık mafya borcunu ödeyecek kadar param olmalı."
 
 # game/UpdateScript0.03.rpy:1133 ## translate crowdin commissionsecondoutfit_43a49173:
 msgid "{i}{b}\"Sidney's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney'in saygısı +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:1135 ## translate crowdin commissionsecondoutfit_bfd8516a:
 msgid "[S] Good for you little brother! Keep it up and maybe we will be able to get along without Dad after all."
-msgstr ""
+msgstr "[S] Aferin sana küçük kardeşim! Böyle devam edersen belki babasız da idare edebiliriz."
 
 # game/UpdateScript0.03.rpy:1136 ## translate crowdin commissionsecondoutfit_3e143f5a:
 msgid "{i}\"Money - $400\"{/i}"
-msgstr ""
+msgstr "{i}\"Paran -$400\"{/i}"
 
 # game/UpdateScript0.03.rpy:1139 ## translate crowdin commissionsecondoutfit_0770ae02:
 msgid "[R] Why should I be the one responsible to pay off the debt every week, Mom can help out too."
-msgstr ""
+msgstr "[R] Neden her hafta borcu ödemekten sorumlu olan ben olayım, annem de yardım edebilir."
 
 # game/UpdateScript0.03.rpy:1140 ## translate crowdin commissionsecondoutfit_25d608c0:
 msgid "[S] Yeah, well I guess it's your money. You earned it. If you'd rather pay me for a sexy costume for your little sister then keep Mom safe from the Mafia that's up to you."
-msgstr ""
+msgstr "[S] Evet, sanırım bu senin paran. Bunu hak ettin. Anneni mafyadan korumak yerine küçük kız kardeşine seksi bir takım elbise almayı tercih ediyorsan."
 
 # game/UpdateScript0.03.rpy:1141 ## translate crowdin commissionsecondoutfit_81c09fc9:
 msgid "[R] Oh please, Mom's not in any danger."
-msgstr ""
+msgstr "[R] Oh lütfen, annem tehlikede değil."
 
 # game/UpdateScript0.03.rpy:1142 ## translate crowdin commissionsecondoutfit_3e143f5a_1:
 msgid "{i}\"Money - $400\"{/i}"
-msgstr ""
+msgstr "{i}\"Paran -$400\"{/i}"
 
 # game/UpdateScript0.03.rpy:1149 ## translate crowdin commissionsecondoutfit_10adc244:
 msgid "[R] So, how long will it take to finish?"
-msgstr ""
+msgstr "[R] Ee, bitirmesi ne kadar sürer?"
 
 # game/UpdateScript0.03.rpy:1150 ## translate crowdin commissionsecondoutfit_9c41c972:
 msgid "[S] Give me a couple days and then I'll have it ready for fitting on Lauren."
-msgstr ""
+msgstr "[S] Birkaç güne biter, sonra Lauren'e vermek için hazırlayacağım."
 
 # game/UpdateScript0.03.rpy:1152 ## translate crowdin commissionsecondoutfit_49b61397:
 msgid "[R] Awesome, I can't wait!"
-msgstr ""
+msgstr "[R] Harika, sabırsızlanıyorum!"
 
 # game/UpdateScript0.03.rpy:1155 ## translate crowdin commissionsecondoutfit_3300138e:
 msgid "[S] Haha, I'll bet you can't."
-msgstr ""
+msgstr "[S] Haha, bahse girerim öyledir."
 
 # game/UpdateScript0.03.rpy:1156 ## translate crowdin commissionsecondoutfit_0e82cd39:
 msgid "[R] What's that supposed to mean?"
-msgstr ""
+msgstr "[R] Bu da ne demek şimdi?"
 
 # game/UpdateScript0.03.rpy:1159 ## translate crowdin commissionsecondoutfit_9948524c:
 msgid "[S] Oh, I think you know."
-msgstr ""
+msgstr "[S] Sanırım biliyorsun."
 
 # game/UpdateScript0.03.rpy:1160 ## translate crowdin commissionsecondoutfit_96c31d7d:
 msgid "[S] I think you're enjoying more than the money from this little venture."
@@ -4926,7 +4926,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:2986 ## translate crowdin clubpool_aec4b66d:
 msgid "[RT] {i}Holy shit!{/i}"
-msgstr ""
+msgstr "[RT] {i}Hasiktir!{/i}"
 
 # game/UpdateScript0.03.rpy:2987 ## translate crowdin clubpool_6237d0ef:
 msgid "[RT] {i}Mom's a fast swimmer.{/i}"
@@ -9182,7 +9182,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:5404 ## translate crowdin htbyd_closeups_ca7e84a9:
 msgid "[R] Why not?"
-msgstr ""
+msgstr "[R] Neden olmasın?"
 
 # game/UpdateScript0.03.rpy:5405 ## translate crowdin htbyd_closeups_28c85b00:
 msgid "[L] Because this isn't just some episode of \"Game of Thots\", this is real life."
