@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-29 09:05\n"
+"PO-Revision-Date: 2022-11-30 09:15\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/Phone_event_screen.rpy:859 ## translate crowdin event_info_02_5cb3efa8:
 msgid "[RT] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -238,7 +238,7 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1051 ## translate crowdin event_info_21_4cbfb321:
 msgid "[RT] {i}I've placed the spycam in the bathroom. Now I just need to catch Sidney in there when her libido is at it's highest (10 pts).{/i}"
-msgstr ""
+msgstr "[RT] {i}Casusluk kamerasını banyoya yerleştirdim. Şimdi tek yapmam gereken Sidney'i azgınlığının en yüksek olduğu anda yakalamak (10 puan).{/i}"
 
 # game/Phone_event_screen.rpy:1053 ## translate crowdin event_info_21_c5e375e6:
 msgid "[RT] {i}I need to buy a spy-cam and place it in the bathroom when no one is around.{/i}"
@@ -250,7 +250,7 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1061 ## translate crowdin event_info_22_678e43f0:
 msgid "[RT] {i}I've placed the spycam in Lauren's bedroom. Now I just need to catch Sidney in there when her libido is at it's highest (10 pts).{/i}"
-msgstr ""
+msgstr "[RT] {i}Casusluk kamerasını Lauren'in yatak odasına yerleştirdim. Şimdi tek yapmam gereken Sidney'i azgınlığının en yüksek olduğu anda yakalamak (10 puan).{/i}"
 
 # game/Phone_event_screen.rpy:1063 ## translate crowdin event_info_22_2d973a36:
 msgid "[RT] {i}I need to buy a spy-cam and place it in Lauren's bedroom when no one is around.{/i}"
