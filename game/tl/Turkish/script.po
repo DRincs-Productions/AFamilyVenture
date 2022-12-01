@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-30 09:15\n"
+"PO-Revision-Date: 2022-12-01 09:47\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/script.rpy:309 ## translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -590,7 +590,7 @@ msgstr "[M] Umarım açsınızdır."
 
 # game/script.rpy:1594 ## translate crowdin sleep_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin saygısı +1\"{/b}{/i}"
 
 # game/script.rpy:1596 ## translate crowdin sleep_aaa3e661:
 msgid "[M] Oh, my day was fine. Did you finish the extra homework on Oedipus I gave you___"
@@ -2094,7 +2094,7 @@ msgstr ""
 
 # game/script.rpy:3780 ## translate crowdin kitcheneveningweekend_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin saygısı +1\"{/b}{/i}"
 
 # game/script.rpy:3782 ## translate crowdin kitcheneveningweekend_95b548c7:
 msgid "[RT] {i}Oh Man! I don't think I've ever seen Mom this stressed out. She's trying to put on a strong face, but I can see the worry in her eyes.{/i}"
@@ -2522,7 +2522,7 @@ msgstr ""
 
 # game/script.rpy:4019 ## translate crowdin dishesevening_0fe79207:
 msgid "{i}'Mom's Affection +1\"{/i}"
-msgstr ""
+msgstr "{i}'Annemin saygısı+1\"{/i}"
 
 # game/script.rpy:4025 ## translate crowdin dishesevening_a19295bf:
 msgid "[RT] {i}Nah.... I don't want to do any dishes right now.{/i}"
@@ -2538,7 +2538,7 @@ msgstr "[M] Umarım açsınızdır."
 
 # game/script.rpy:4041 ## translate crowdin sidneycomeshome_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin saygısı +1\"{/b}{/i}"
 
 # game/script.rpy:4043 ## translate crowdin sidneycomeshome_a9c697ba:
 msgid "[M] Oh, my day was fine. How did you think my lesson on Oedipu___"
@@ -3822,7 +3822,7 @@ msgstr ""
 
 # game/script.rpy:4912 ## translate crowdin momangryroom_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin saygısı +1\"{/b}{/i}"
 
 # game/script.rpy:4914 ## translate crowdin momangryroom_079c50f0:
 msgid "[M] Thank you so much!"
@@ -6882,7 +6882,7 @@ msgstr "[RT] {i}Oh, adamım.... Bobby Amca ile yaptığım konuşmayı aklımdan
 
 # game/script.rpy:7970 ## translate crowdin dinnerfirst_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin saygısı +1\"{/b}{/i}"
 
 # game/script.rpy:7971 ## translate crowdin dinnerfirst_44a3be13:
 msgid "[M] Oh, honey, it was just terrible.... men from the FBI were here all day, going through our things, digging through our garbage, making copies of all our computer drives."
