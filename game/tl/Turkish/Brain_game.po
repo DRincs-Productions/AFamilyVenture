@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-24 08:48\n"
+"PO-Revision-Date: 2022-12-01 09:47\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/Brain_game.rpy:599 ## translate crowdin map_location_e011db0e:
 msgid "[RT] {i}School has ended, I must return home.{/i}"
@@ -31,12 +31,12 @@ msgstr ""
 # XXtranslate crowdin strings:XX# XX## game/Brain_game.rpy:497
 msgid "You lose!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Kaybettin!"
 msgstr[1] ""
 
 # XX## game/Brain_game.rpy:519
 msgid "YOU WON!!!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "KAZANDIN!!!"
 msgstr[1] ""
 
