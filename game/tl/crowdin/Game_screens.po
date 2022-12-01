@@ -1,35 +1,30 @@
-﻿# TODO: Translation updated at 2022-04-23 HH:HH# XXtranslate crowdin strings:XX# XX## game/Game_screens.rpy:59
-msgid  " My\nRoom"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  " My\nRoom"
+﻿# TODO: Translation updated at 2022-12-01 22:29
 
-# XX## game/Game_screens.rpy:77
-msgid  "Bath"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Bath"
+#§translate crowdin strings: #|#|# # game/Game_screens.rpy:59
+msgid " My\nRoom"
+msgstr " My\nRoom"
 
-# XX## game/Game_screens.rpy:110
-msgid  "City"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "City"
+# game/Game_screens.rpy:77
+msgid "Bath"
+msgstr "Bath"
 
-# XX## game/Game_screens.rpy:125
-msgid  "Hallway"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Hallway"
+# game/Game_screens.rpy:110
+msgid "City"
+msgstr "City"
 
-# XX## game/Game_screens.rpy:134
-msgid  "Class"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Class"
+# game/Game_screens.rpy:125
+msgid "Hallway"
+msgstr "Hallway"
 
-# XX## game/Game_screens.rpy:152
-msgid  "{size=29} {/size}Girls\nLocker\n{size=25} {/size}Room"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "{size=29} {/size}Girls\nLocker\n{size=25} {/size}Room"
+# game/Game_screens.rpy:134
+msgid "Class"
+msgstr "Class"
 
-# XX## game/Game_screens.rpy:208
-msgid  "Campaign\n   HQ"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Campaign\n   HQ"
+# game/Game_screens.rpy:152
+msgid "{size=29} {/size}Girls\nLocker\n{size=25} {/size}Room"
+msgstr "{size=29} {/size}Girls\nLocker\n{size=25} {/size}Room"
+
+# game/Game_screens.rpy:208
+msgid "Campaign\n   HQ"
+msgstr "Campaign\n   HQ"
 

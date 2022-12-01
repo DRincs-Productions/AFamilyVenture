@@ -1,605 +1,694 @@
-﻿# TODO: Translation updated at 2022-04-23 HH:HH# XXtranslate crowdin strings:XX# XX## game/Credits_screen.rpy:57
-msgid  "                               Credits"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "                               Credits"
-
-# XX## game/Credits_screen.rpy:62
-msgid  " We would like to thank all the game developers that have accepted to let us use some of their creations in our game, also we'd like to thank our subscribestar/patreon supporters that make this game posible."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  " We would like to thank all the game developers that have accepted to let us use some of their creations in our game, also we'd like to thank our subscribestar/patreon supporters that make this game posible."
-
-# XX## game/Credits_screen.rpy:69
-msgid  "Game developers"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Game developers"
-
-# XX## game/Credits_screen.rpy:147
-msgid  "Subscribers/Patrons"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Subscribers/Patrons"
-
-# XX## game/Credits_screen.rpy:157
-msgid  "\n{b}{i}Game Designer, Master Coder, Patch Creator, Gallery Guru:{/i}{/b} \n"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "\n{b}{i}Game Designer, Master Coder, Patch Creator, Gallery Guru:{/i}{/b} \n"
-
-# XX## game/Credits_screen.rpy:159
-msgid  "{a=https://www.patreon.com/DS_sama}{image=icon_patreon} D.S.-Sama{/a}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "{a=https://www.patreon.com/DS_sama}{image=icon_patreon} D.S.-Sama{/a}"
-
-# XX## game/Credits_screen.rpy:161
-msgid  "\n{b}{i}Spelling and Grammar Editor:{/i}{/b} \n"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "\n{b}{i}Spelling and Grammar Editor:{/i}{/b} \n"
-
-# XX## game/Credits_screen.rpy:163
-msgid  "lapdragon"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "lapdragon"
-
-# XX## game/Credits_screen.rpy:165
-msgid  "\n{b}{i}Game Writer, Coder, Images, Animations:{/i}{/b} \n"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "\n{b}{i}Game Writer, Coder, Images, Animations:{/i}{/b} \n"
-
-# XX## game/Credits_screen.rpy:167
-msgid  "Will Tylor"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Will Tylor"
-
-# XX## game/Credits_screen.rpy:169
-msgid  "\n{b}{i}Ghost Writer:{/i}{/b} \n"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "\n{b}{i}Ghost Writer:{/i}{/b} \n"
-
-# XX## game/Credits_screen.rpy:171
-msgid  "Strenif"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Strenif"
-
-# XX## game/Credits_screen.rpy:173
-msgid  "\n{b}{i}My Family with Benefits:{/i}{/b} \n"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "\n{b}{i}My Family with Benefits:{/i}{/b} \n"
-
-# XX## game/Credits_screen.rpy:175
-msgid  "Frayed80"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Frayed80"
-
-# XX## game/Credits_screen.rpy:176
-msgid  "Jtf1357"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Jtf1357"
-
-# XX## game/Credits_screen.rpy:177
-msgid  "Urqy"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Urqy"
-
-# XX## game/Credits_screen.rpy:179
-msgid  "\n{b}{i}My Family:{/i}{/b} \n"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "\n{b}{i}My Family:{/i}{/b} \n"
-
-# XX## game/Credits_screen.rpy:181
-msgid  "Bremen"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Bremen"
-
-# XX## game/Credits_screen.rpy:182
-msgid  "deadpool25"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "deadpool25"
-
-# XX## game/Credits_screen.rpy:183
-msgid  "DerSucher81"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "DerSucher81"
-
-# XX## game/Credits_screen.rpy:184
-msgid  "Drew G"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Drew G"
-
-# XX## game/Credits_screen.rpy:185
-msgid  "Elthaun"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Elthaun"
-
-# XX## game/Credits_screen.rpy:186
-msgid  "Ghost101"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Ghost101"
-
-# XX## game/Credits_screen.rpy:187
-msgid  "Grub"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Grub"
-
-# XX## game/Credits_screen.rpy:188
-msgid  "Imyourbuddy"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Imyourbuddy"
-
-# XX## game/Credits_screen.rpy:189
-msgid  "ironpic"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "ironpic"
-
-# XX## game/Credits_screen.rpy:190
-msgid  "Nathan Allison"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Nathan Allison"
-
-# XX## game/Credits_screen.rpy:191
-msgid  "Thomas Roe"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Thomas Roe"
-
-# XX## game/Credits_screen.rpy:192
-msgid  "TheSearcher81"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "TheSearcher81"
-
-# XX## game/Credits_screen.rpy:194
-msgid  "\n{b}{i}My BFFS:{/i}{/b} \n"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "\n{b}{i}My BFFS:{/i}{/b} \n"
-
-# XX## game/Credits_screen.rpy:196
-msgid  "Adam"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Adam"
-
-# XX## game/Credits_screen.rpy:197
-msgid  "afburnham"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "afburnham"
-
-# XX## game/Credits_screen.rpy:198
-msgid  "Alvise"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Alvise"
-
-# XX## game/Credits_screen.rpy:199
-msgid  "ArcAngl"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "ArcAngl"
-
-# XX## game/Credits_screen.rpy:200
-msgid  "Armesone23"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Armesone23"
-
-# XX## game/Credits_screen.rpy:201
-msgid  "Benja Talos"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Benja Talos"
-
-# XX## game/Credits_screen.rpy:202
-msgid  "BlackCastleStorm84"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "BlackCastleStorm84"
-
-# XX## game/Credits_screen.rpy:203
-msgid  "bob"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "bob"
-
-# XX## game/Credits_screen.rpy:204
-msgid  "Brian Svensen"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Brian Svensen"
-
-# XX## game/Credits_screen.rpy:205
-msgid  "ch3"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "ch3"
-
-# XX## game/Credits_screen.rpy:206
-msgid  "Chadsgn"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Chadsgn"
-
-# XX## game/Credits_screen.rpy:207
-msgid  "Chenzillla"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Chenzillla"
-
-# XX## game/Credits_screen.rpy:208
-msgid  "chimcham123"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "chimcham123"
-
-# XX## game/Credits_screen.rpy:209
-msgid  "Christian von Briel"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Christian von Briel"
-
-# XX## game/Credits_screen.rpy:210
-msgid  "claudio Rodriguez"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "claudio Rodriguez"
-
-# XX## game/Credits_screen.rpy:211
-msgid  "Colin"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Colin"
-
-# XX## game/Credits_screen.rpy:212
-msgid  "Coscara88"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Coscara88"
-
-# XX## game/Credits_screen.rpy:213
-msgid  "crayon"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "crayon"
-
-# XX## game/Credits_screen.rpy:214
-msgid  "cvxc sdf"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "cvxc sdf"
-
-# XX## game/Credits_screen.rpy:215
-msgid  "DaemonSD"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "DaemonSD"
-
-# XX## game/Credits_screen.rpy:216
-msgid  "Dartred"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Dartred"
-
-# XX## game/Credits_screen.rpy:217
-msgid  "Dustin Patterson"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Dustin Patterson"
-
-# XX## game/Credits_screen.rpy:218
-msgid  "Eden"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Eden"
-
-# XX## game/Credits_screen.rpy:219
-msgid  "EverynameDies"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "EverynameDies"
-
-# XX## game/Credits_screen.rpy:220
-msgid  "Fen"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Fen"
-
-# XX## game/Credits_screen.rpy:221
-msgid  "gillin"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "gillin"
-
-# XX## game/Credits_screen.rpy:222
-msgid  "GOkuma"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "GOkuma"
-
-# XX## game/Credits_screen.rpy:223
-msgid  "griffor"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "griffor"
-
-# XX## game/Credits_screen.rpy:224
-msgid  "Hanshans1313"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Hanshans1313"
-
-# XX## game/Credits_screen.rpy:225
-msgid  "hdoggcool"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "hdoggcool"
-
-# XX## game/Credits_screen.rpy:226
-msgid  "Hoboscotty"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Hoboscotty"
-
-# XX## game/Credits_screen.rpy:227
-msgid  "ItsMrGru"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "ItsMrGru"
-
-# XX## game/Credits_screen.rpy:228
-msgid  "Jack"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Jack"
-
-# XX## game/Credits_screen.rpy:229
-msgid  "Javier Soto"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Javier Soto"
-
-# XX## game/Credits_screen.rpy:230
-msgid  "jayjay"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "jayjay"
-
-# XX## game/Credits_screen.rpy:231
-msgid  "John Levell"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "John Levell"
-
-# XX## game/Credits_screen.rpy:232
-msgid  "John Smith"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "John Smith"
-
-# XX## game/Credits_screen.rpy:233
-msgid  "john tozer"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "john tozer"
-
-# XX## game/Credits_screen.rpy:234
-msgid  "Joseph Matuzka"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Joseph Matuzka"
-
-# XX## game/Credits_screen.rpy:235
-msgid  "Joshua Harris"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Joshua Harris"
-
-# XX## game/Credits_screen.rpy:236
-msgid  "K.S"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "K.S"
-
-# XX## game/Credits_screen.rpy:237
-msgid  "kos2255"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "kos2255"
-
-# XX## game/Credits_screen.rpy:238
-msgid  "kp helman"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "kp helman"
-
-# XX## game/Credits_screen.rpy:239
-msgid  "kyle lambert"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "kyle lambert"
-
-# XX## game/Credits_screen.rpy:240
-msgid  "Logiteach6757"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Logiteach6757"
-
-# XX## game/Credits_screen.rpy:241
-msgid  "M0rmegil"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "M0rmegil"
-
-# XX## game/Credits_screen.rpy:242
-msgid  "Macrotrauma"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Macrotrauma"
-
-# XX## game/Credits_screen.rpy:243
-msgid  "Marc"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Marc"
-
-# XX## game/Credits_screen.rpy:244
-msgid  "Marco"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Marco"
-
-# XX## game/Credits_screen.rpy:245
-msgid  "Martin"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Martin"
-
-# XX## game/Credits_screen.rpy:246
-msgid  "Matt"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Matt"
-
-# XX## game/Credits_screen.rpy:247
-msgid  "Matthew Pelc"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Matthew Pelc"
-
-# XX## game/Credits_screen.rpy:248
-msgid  "Michael Lillie"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Michael Lillie"
-
-# XX## game/Credits_screen.rpy:249
-msgid  "Mitchell Sandlin"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Mitchell Sandlin"
-
-# XX## game/Credits_screen.rpy:250
-msgid  "Mr.Grey"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Mr.Grey"
-
-# XX## game/Credits_screen.rpy:251
-msgid  "nicoud gregory"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "nicoud gregory"
-
-# XX## game/Credits_screen.rpy:252
-msgid  "nitro2889"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "nitro2889"
-
-# XX## game/Credits_screen.rpy:253
-msgid  "NoPro"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "NoPro"
-
-# XX## game/Credits_screen.rpy:254
-msgid  "Old Man"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Old Man"
-
-# XX## game/Credits_screen.rpy:255
-msgid  "Osamabeenfappin"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Osamabeenfappin"
-
-# XX## game/Credits_screen.rpy:256
-msgid  "patrick"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "patrick"
-
-# XX## game/Credits_screen.rpy:257
-msgid  "Perdurabo88"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Perdurabo88"
-
-# XX## game/Credits_screen.rpy:258
-msgid  "Peren D'Wolff"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Peren D'Wolff"
-
-# XX## game/Credits_screen.rpy:259
-msgid  "Pikiriti"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Pikiriti"
-
-# XX## game/Credits_screen.rpy:260
-msgid  "Polaxymer"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Polaxymer"
-
-# XX## game/Credits_screen.rpy:261
-msgid  "Prentis Talbot"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Prentis Talbot"
-
-# XX## game/Credits_screen.rpy:262
-msgid  "Qozz"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Qozz"
-
-# XX## game/Credits_screen.rpy:263
-msgid  "RCF"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "RCF"
-
-# XX## game/Credits_screen.rpy:264
-msgid  "Ross Kirchner"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Ross Kirchner"
-
-# XX## game/Credits_screen.rpy:265
-msgid  "Saitama"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Saitama"
-
-# XX## game/Credits_screen.rpy:266
-msgid  "SandPiper"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "SandPiper"
-
-# XX## game/Credits_screen.rpy:267
-msgid  "shen"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "shen"
-
-# XX## game/Credits_screen.rpy:268
-msgid  "Shivawn"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Shivawn"
-
-# XX## game/Credits_screen.rpy:269
-msgid  "Silvio lori"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Silvio lori"
-
-# XX## game/Credits_screen.rpy:270
-msgid  "Simon Bissig"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Simon Bissig"
-
-# XX## game/Credits_screen.rpy:271
-msgid  "Stephan"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Stephan"
-
-# XX## game/Credits_screen.rpy:273
-msgid  "Sunwind"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Sunwind"
-
-# XX## game/Credits_screen.rpy:274
-msgid  "Takola"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Takola"
-
-# XX## game/Credits_screen.rpy:275
-msgid  "tccds"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "tccds"
-
-# XX## game/Credits_screen.rpy:276
-msgid  "Thaco4"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Thaco4"
-
-# XX## game/Credits_screen.rpy:277
-msgid  "TheHorror"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "TheHorror"
-
-# XX## game/Credits_screen.rpy:278
-msgid  "thr33ve"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "thr33ve"
-
-# XX## game/Credits_screen.rpy:279
-msgid  "Tosàt stonfo"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Tosàt stonfo"
-
-# XX## game/Credits_screen.rpy:280
-msgid  "TRex"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "TRex"
-
-# XX## game/Credits_screen.rpy:281
-msgid  "Turbo"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Turbo"
-
-# XX## game/Credits_screen.rpy:282
-msgid  "Tyr13"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Tyr13"
-
-# XX## game/Credits_screen.rpy:283
-msgid  "TyRaNT-KiNG"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "TyRaNT-KiNG"
-
-# XX## game/Credits_screen.rpy:284
-msgid  "randylj17"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "randylj17"
-
-# XX## game/Credits_screen.rpy:285
-msgid  "uncejay"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "uncejay"
-
-# XX## game/Credits_screen.rpy:286
-msgid  "William Ensley"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "William Ensley"
-
-# XX## game/Credits_screen.rpy:287
-msgid  "Wotto"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Wotto"
+﻿# TODO: Translation updated at 2022-12-01 22:29
+
+#§translate crowdin strings: #|#|# # game/Credits_screen.rpy:57
+msgid "                               Credits"
+msgstr "                               Credits"
+
+# game/Credits_screen.rpy:62
+msgid " We would like to thank all the game developers that have accepted to let us use some of their creations in our game, also we'd like to thank our subscribestar/patreon supporters that make this game posible."
+msgstr " We would like to thank all the game developers that have accepted to let us use some of their creations in our game, also we'd like to thank our subscribestar/patreon supporters that make this game posible."
+
+# game/Credits_screen.rpy:69
+msgid "Game developers"
+msgstr "Game developers"
+
+# game/Credits_screen.rpy:147
+msgid "Subscribers/Patrons"
+msgstr "Subscribers/Patrons"
+
+# game/Credits_screen.rpy:157
+msgid "\n{b}{i}Game Designer, Master Coder, Patch Creator, Gallery Guru:{/i}{/b} \n"
+msgstr "\n{b}{i}Game Designer, Master Coder, Patch Creator, Gallery Guru:{/i}{/b} \n"
+
+# game/Credits_screen.rpy:159
+msgid "{a=https://www.patreon.com/DS_sama}{image=icon_patreon} D.S.-Sama{/a}"
+msgstr "{a=https://www.patreon.com/DS_sama}{image=icon_patreon} D.S.-Sama{/a}"
+
+# game/Credits_screen.rpy:161
+msgid "\n{b}{i}Game Coding, Android Specialist:{/i}{/b} \n"
+msgstr "\n{b}{i}Game Coding, Android Specialist:{/i}{/b} \n"
+
+# game/Credits_screen.rpy:163
+msgid "Cybeon"
+msgstr "Cybeon"
+
+# game/Credits_screen.rpy:165
+msgid "\n{b}{i}Ghost Writer, Image Creator, Render Farm, Face Card Designer:{/i}{/b} \n"
+msgstr "\n{b}{i}Ghost Writer, Image Creator, Render Farm, Face Card Designer:{/i}{/b} \n"
+
+# game/Credits_screen.rpy:167
+msgid "Strenif"
+msgstr "Strenif"
+
+# game/Credits_screen.rpy:169
+msgid "\n{b}{i}Spelling and Grammar Editor:{/i}{/b} \n"
+msgstr "\n{b}{i}Spelling and Grammar Editor:{/i}{/b} \n"
+
+# game/Credits_screen.rpy:171
+msgid "lapdragon"
+msgstr "lapdragon"
+
+# game/Credits_screen.rpy:173
+msgid "\n{b}{i}Game Writer, Coder, Images, Animations:{/i}{/b} \n"
+msgstr "\n{b}{i}Game Writer, Coder, Images, Animations:{/i}{/b} \n"
+
+# game/Credits_screen.rpy:175
+msgid "Will Tylor"
+msgstr "Will Tylor"
+
+# game/Credits_screen.rpy:177
+msgid "\n{b}{i}My Family with Benefits:{/i}{/b} \n"
+msgstr "\n{b}{i}My Family with Benefits:{/i}{/b} \n"
+
+# game/Credits_screen.rpy:179
+msgid "DD0"
+msgstr "DD0"
+
+# game/Credits_screen.rpy:180
+msgid "fatfrogs"
+msgstr "fatfrogs"
+
+# game/Credits_screen.rpy:181
+msgid "Frayed80"
+msgstr "Frayed80"
+
+# game/Credits_screen.rpy:182
+msgid "Grub"
+msgstr "Grub"
+
+# game/Credits_screen.rpy:183
+msgid "hyperion72"
+msgstr "hyperion72"
+
+# game/Credits_screen.rpy:184
+msgid "Jtf1357"
+msgstr "Jtf1357"
+
+# game/Credits_screen.rpy:185
+msgid "kingkoopa"
+msgstr "kingkoopa"
+
+# game/Credits_screen.rpy:186
+msgid "Tarakis"
+msgstr "Tarakis"
+
+# game/Credits_screen.rpy:187
+msgid "Urqy"
+msgstr "Urqy"
+
+# game/Credits_screen.rpy:189
+msgid "\n{b}{i}My Family:{/i}{/b} \n"
+msgstr "\n{b}{i}My Family:{/i}{/b} \n"
+
+# game/Credits_screen.rpy:191
+msgid "Alex#17bc64b8"
+msgstr "Alex#17bc64b8"
+
+# game/Credits_screen.rpy:192
+msgid "Bremen"
+msgstr "Bremen"
+
+# game/Credits_screen.rpy:193
+msgid "Cs in SC"
+msgstr "Cs in SC"
+
+# game/Credits_screen.rpy:194
+msgid "deadpool25"
+msgstr "deadpool25"
+
+# game/Credits_screen.rpy:195
+msgid "DerSucher81"
+msgstr "DerSucher81"
+
+# game/Credits_screen.rpy:196
+msgid "Drew G"
+msgstr "Drew G"
+
+# game/Credits_screen.rpy:197
+msgid "Elthaun"
+msgstr "Elthaun"
+
+# game/Credits_screen.rpy:198
+msgid "Imyourbuddy"
+msgstr "Imyourbuddy"
+
+# game/Credits_screen.rpy:199
+msgid "Joelmartinez86"
+msgstr "Joelmartinez86"
+
+# game/Credits_screen.rpy:200
+msgid "Lokki87"
+msgstr "Lokki87"
+
+# game/Credits_screen.rpy:201
+msgid "mikey"
+msgstr "mikey"
+
+# game/Credits_screen.rpy:202
+msgid "Mr. Grey"
+msgstr "Mr. Grey"
+
+# game/Credits_screen.rpy:203
+msgid "o5zbh"
+msgstr "o5zbh"
+
+# game/Credits_screen.rpy:204
+msgid "Raist2"
+msgstr "Raist2"
+
+# game/Credits_screen.rpy:205
+msgid "TheSearcher81"
+msgstr "TheSearcher81"
+
+# game/Credits_screen.rpy:206
+msgid "troy sale"
+msgstr "troy sale"
+
+# game/Credits_screen.rpy:208
+msgid "\n{b}{i}My BFFS:{/i}{/b} \n"
+msgstr "\n{b}{i}My BFFS:{/i}{/b} \n"
+
+# game/Credits_screen.rpy:210
+msgid "Alec Cross"
+msgstr "Alec Cross"
+
+# game/Credits_screen.rpy:211
+msgid "Allen Ho"
+msgstr "Allen Ho"
+
+# game/Credits_screen.rpy:212
+msgid "AN SOS"
+msgstr "AN SOS"
+
+# game/Credits_screen.rpy:213
+msgid "AnarchAngel"
+msgstr "AnarchAngel"
+
+# game/Credits_screen.rpy:214
+msgid "Andrea Al***"
+msgstr "Andrea Al***"
+
+# game/Credits_screen.rpy:215
+msgid "AnthonySa*****"
+msgstr "AnthonySa*****"
+
+# game/Credits_screen.rpy:216
+msgid "ArcAngl"
+msgstr "ArcAngl"
+
+# game/Credits_screen.rpy:217
+msgid "BaeScout83"
+msgstr "BaeScout83"
+
+# game/Credits_screen.rpy:218
+msgid "Bailey C****"
+msgstr "Bailey C****"
+
+# game/Credits_screen.rpy:219
+msgid "Benja Talos"
+msgstr "Benja Talos"
+
+# game/Credits_screen.rpy:220
+msgid "blee lee"
+msgstr "blee lee"
+
+# game/Credits_screen.rpy:221
+msgid "bpatel007"
+msgstr "bpatel007"
+
+# game/Credits_screen.rpy:222
+msgid "braincandy"
+msgstr "braincandy"
+
+# game/Credits_screen.rpy:223
+msgid "BrianSi******"
+msgstr "BrianSi******"
+
+# game/Credits_screen.rpy:224
+msgid "Carmen Sandiego"
+msgstr "Carmen Sandiego"
+
+# game/Credits_screen.rpy:225
+msgid "carmen g*******"
+msgstr "carmen g*******"
+
+# game/Credits_screen.rpy:226
+msgid "ccc1221"
+msgstr "ccc1221"
+
+# game/Credits_screen.rpy:227
+msgid "Chenzillla"
+msgstr "Chenzillla"
+
+# game/Credits_screen.rpy:228
+msgid "Christian vo* *****"
+msgstr "Christian vo* *****"
+
+# game/Credits_screen.rpy:229
+msgid "Clambait"
+msgstr "Clambait"
+
+# game/Credits_screen.rpy:230
+msgid "Coscara88"
+msgstr "Coscara88"
+
+# game/Credits_screen.rpy:231
+msgid "DaemonSD"
+msgstr "DaemonSD"
+
+# game/Credits_screen.rpy:232
+msgid "dagbo"
+msgstr "dagbo"
+
+# game/Credits_screen.rpy:233
+msgid "DarkPlayground"
+msgstr "DarkPlayground"
+
+# game/Credits_screen.rpy:234
+msgid "Dartred"
+msgstr "Dartred"
+
+# game/Credits_screen.rpy:235
+msgid "David"
+msgstr "David"
+
+# game/Credits_screen.rpy:236
+msgid "Devin"
+msgstr "Devin"
+
+# game/Credits_screen.rpy:237
+msgid "Devon Br*********"
+msgstr "Devon Br*********"
+
+# game/Credits_screen.rpy:238
+msgid "Dom"
+msgstr "Dom"
+
+# game/Credits_screen.rpy:239
+msgid "Doric_Wolf"
+msgstr "Doric_Wolf"
+
+# game/Credits_screen.rpy:240
+msgid "DrSquishy"
+msgstr "DrSquishy"
+
+# game/Credits_screen.rpy:241
+msgid "DustyMamba"
+msgstr "DustyMamba"
+
+# game/Credits_screen.rpy:242
+msgid "ejc"
+msgstr "ejc"
+
+# game/Credits_screen.rpy:243
+msgid "EverynameDies"
+msgstr "EverynameDies"
+
+# game/Credits_screen.rpy:244
+msgid "Falcon2019"
+msgstr "Falcon2019"
+
+# game/Credits_screen.rpy:245
+msgid "fajr3"
+msgstr "fajr3"
+
+# game/Credits_screen.rpy:246
+msgid "Fangin"
+msgstr "Fangin"
+
+# game/Credits_screen.rpy:247
+msgid "Fantastic Georgette"
+msgstr "Fantastic Georgette"
+
+# game/Credits_screen.rpy:248
+msgid "Fen"
+msgstr "Fen"
+
+# game/Credits_screen.rpy:249
+msgid "four leaf"
+msgstr "four leaf"
+
+# game/Credits_screen.rpy:250
+msgid "FurryTracter"
+msgstr "FurryTracter"
+
+# game/Credits_screen.rpy:251
+msgid "gdfg"
+msgstr "gdfg"
+
+# game/Credits_screen.rpy:252
+msgid "Genesis423"
+msgstr "Genesis423"
+
+# game/Credits_screen.rpy:253
+msgid "Gnollage"
+msgstr "Gnollage"
+
+# game/Credits_screen.rpy:254
+msgid "group5"
+msgstr "group5"
+
+# game/Credits_screen.rpy:255
+msgid "HELLSCAR02"
+msgstr "HELLSCAR02"
+
+# game/Credits_screen.rpy:256
+msgid "InklessPen"
+msgstr "InklessPen"
+
+# game/Credits_screen.rpy:257
+msgid "Jaybo"
+msgstr "Jaybo"
+
+# game/Credits_screen.rpy:258
+msgid "Jess_2037"
+msgstr "Jess_2037"
+
+# game/Credits_screen.rpy:259
+msgid "John"
+msgstr "John"
+
+# game/Credits_screen.rpy:260
+msgid "Johnny"
+msgstr "Johnny"
+
+# game/Credits_screen.rpy:261
+msgid "Jones2099"
+msgstr "Jones2099"
+
+# game/Credits_screen.rpy:262
+msgid "Joseph Ma*****"
+msgstr "Joseph Ma*****"
+
+# game/Credits_screen.rpy:263
+msgid "Keeta Sh****"
+msgstr "Keeta Sh****"
+
+# game/Credits_screen.rpy:264
+msgid "killer33"
+msgstr "killer33"
+
+# game/Credits_screen.rpy:265
+msgid "King Hugi"
+msgstr "King Hugi"
+
+# game/Credits_screen.rpy:266
+msgid "Kitten"
+msgstr "Kitten"
+
+# game/Credits_screen.rpy:267
+msgid "Koalafied"
+msgstr "Koalafied"
+
+# game/Credits_screen.rpy:268
+msgid "kp helman"
+msgstr "kp helman"
+
+# game/Credits_screen.rpy:269
+msgid "Kristian Nophsker"
+msgstr "Kristian Nophsker"
+
+# game/Credits_screen.rpy:270
+msgid "kyle la*****"
+msgstr "kyle la*****"
+
+# game/Credits_screen.rpy:271
+msgid "Laryen35"
+msgstr "Laryen35"
+
+# game/Credits_screen.rpy:272
+msgid "lejunior"
+msgstr "lejunior"
+
+# game/Credits_screen.rpy:273
+msgid "lindenshield"
+msgstr "lindenshield"
+
+# game/Credits_screen.rpy:274
+msgid "Lothew"
+msgstr "Lothew"
+
+# game/Credits_screen.rpy:275
+msgid "Luca L******"
+msgstr "Luca L******"
+
+# game/Credits_screen.rpy:276
+msgid "Magnus"
+msgstr "Magnus"
+
+# game/Credits_screen.rpy:277
+msgid "MajorDespair"
+msgstr "MajorDespair"
+
+# game/Credits_screen.rpy:278
+msgid "Malidread"
+msgstr "Malidread"
+
+# game/Credits_screen.rpy:279
+msgid "mannybonao"
+msgstr "mannybonao"
+
+# game/Credits_screen.rpy:280
+msgid "MarcD"
+msgstr "MarcD"
+
+# game/Credits_screen.rpy:281
+msgid "Marco S****"
+msgstr "Marco S****"
+
+# game/Credits_screen.rpy:282
+msgid "Martin"
+msgstr "Martin"
+
+# game/Credits_screen.rpy:283
+msgid "marty1105"
+msgstr "marty1105"
+
+# game/Credits_screen.rpy:284
+msgid "Matthias A********"
+msgstr "Matthias A********"
+
+# game/Credits_screen.rpy:285
+msgid "Maverick62"
+msgstr "Maverick62"
+
+# game/Credits_screen.rpy:286
+msgid "maxivore"
+msgstr "maxivore"
+
+# game/Credits_screen.rpy:287
+msgid "michael stather"
+msgstr "michael stather"
+
+# game/Credits_screen.rpy:288
+msgid "Mike87"
+msgstr "Mike87"
+
+# game/Credits_screen.rpy:289
+msgid "wrangler062000"
+msgstr "wrangler062000"
+
+# game/Credits_screen.rpy:290
+msgid "Mushyman"
+msgstr "Mushyman"
+
+# game/Credits_screen.rpy:291
+msgid "Nathan Al*****"
+msgstr "Nathan Al*****"
+
+# game/Credits_screen.rpy:292
+msgid "Nathan R*****"
+msgstr "Nathan R*****"
+
+# game/Credits_screen.rpy:293
+msgid "NecroMan"
+msgstr "NecroMan"
+
+# game/Credits_screen.rpy:294
+msgid "NewUser22"
+msgstr "NewUser22"
+
+# game/Credits_screen.rpy:295
+msgid "NJ.VJ"
+msgstr "NJ.VJ"
+
+# game/Credits_screen.rpy:296
+msgid "Old Man"
+msgstr "Old Man"
+
+# game/Credits_screen.rpy:297
+msgid "ㅁㄴㅇㄹ"
+msgstr "ㅁㄴㅇㄹ"
+
+# game/Credits_screen.rpy:298
+msgid "ovonx"
+msgstr "ovonx"
+
+# game/Credits_screen.rpy:299
+msgid "pa bu"
+msgstr "pa bu"
+
+# game/Credits_screen.rpy:300
+msgid "Patch13"
+msgstr "Patch13"
+
+# game/Credits_screen.rpy:301
+msgid "Pikiriti"
+msgstr "Pikiriti"
+
+# game/Credits_screen.rpy:302
+msgid "Polaxymer"
+msgstr "Polaxymer"
+
+# game/Credits_screen.rpy:303
+msgid "Raincog"
+msgstr "Raincog"
+
+# game/Credits_screen.rpy:304
+msgid "RasGris"
+msgstr "RasGris"
+
+# game/Credits_screen.rpy:305
+msgid "razzmatazz"
+msgstr "razzmatazz"
+
+# game/Credits_screen.rpy:306
+msgid "Rhylar"
+msgstr "Rhylar"
+
+# game/Credits_screen.rpy:307
+msgid "Roger Jo***"
+msgstr "Roger Jo***"
+
+# game/Credits_screen.rpy:308
+msgid "reservist dude"
+msgstr "reservist dude"
+
+# game/Credits_screen.rpy:309
+msgid "SagaciousZu"
+msgstr "SagaciousZu"
+
+# game/Credits_screen.rpy:310
+msgid "SandPiper"
+msgstr "SandPiper"
+
+# game/Credits_screen.rpy:311
+msgid "SerJohn30"
+msgstr "SerJohn30"
+
+# game/Credits_screen.rpy:312
+msgid "Sletch"
+msgstr "Sletch"
+
+# game/Credits_screen.rpy:313
+msgid "Silvio lo**"
+msgstr "Silvio lo**"
+
+# game/Credits_screen.rpy:314
+msgid "Spandex"
+msgstr "Spandex"
+
+# game/Credits_screen.rpy:315
+msgid "ssneo 83"
+msgstr "ssneo 83"
+
+# game/Credits_screen.rpy:316
+msgid "Stampe64"
+msgstr "Stampe64"
+
+# game/Credits_screen.rpy:317
+msgid "Stefan"
+msgstr "Stefan"
+
+# game/Credits_screen.rpy:318
+msgid "Steve"
+msgstr "Steve"
+
+# game/Credits_screen.rpy:320
+msgid "Subscriber №759433cd"
+msgstr "Subscriber №759433cd"
+
+# game/Credits_screen.rpy:321
+msgid "Sunwind"
+msgstr "Sunwind"
+
+# game/Credits_screen.rpy:322
+msgid "Takola"
+msgstr "Takola"
+
+# game/Credits_screen.rpy:323
+msgid "taximan6430"
+msgstr "taximan6430"
+
+# game/Credits_screen.rpy:324
+msgid "the yak"
+msgstr "the yak"
+
+# game/Credits_screen.rpy:325
+msgid "TheHorror"
+msgstr "TheHorror"
+
+# game/Credits_screen.rpy:326
+msgid "thepigeon"
+msgstr "thepigeon"
+
+# game/Credits_screen.rpy:327
+msgid "Trold666"
+msgstr "Trold666"
+
+# game/Credits_screen.rpy:328
+msgid "Turbo"
+msgstr "Turbo"
+
+# game/Credits_screen.rpy:329
+msgid "Tyler Gu********"
+msgstr "Tyler Gu********"
+
+# game/Credits_screen.rpy:330
+msgid "Umorrian"
+msgstr "Umorrian"
+
+# game/Credits_screen.rpy:331
+msgid "uncejay"
+msgstr "uncejay"
+
+# game/Credits_screen.rpy:332
+msgid "User#1c09e0d2"
+msgstr "User#1c09e0d2"
+
+# game/Credits_screen.rpy:333
+msgid "User#2dc96ae9"
+msgstr "User#2dc96ae9"
+
+# game/Credits_screen.rpy:334
+msgid "User#534331E1"
+msgstr "User#534331E1"
+
+# game/Credits_screen.rpy:335
+msgid "Vivigatsu"
+msgstr "Vivigatsu"
+
+# game/Credits_screen.rpy:336
+msgid "XalfanmsX"
+msgstr "XalfanmsX"
+
+# game/Credits_screen.rpy:337
+msgid "ydoc kn***"
+msgstr "ydoc kn***"
+
+# game/Credits_screen.rpy:338
+msgid "YOUNGbilNYE69"
+msgstr "YOUNGbilNYE69"
+
+# game/Credits_screen.rpy:339
+msgid "zapper"
+msgstr "zapper"
+
+# game/Credits_screen.rpy:340
+msgid "zozo123"
+msgstr "zozo123"
+
+# game/Credits_screen.rpy:341
+msgid "狂乱刀刀"
+msgstr "狂乱刀刀"
 

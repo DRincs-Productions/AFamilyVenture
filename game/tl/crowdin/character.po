@@ -1,65 +1,54 @@
-﻿# TODO: Translation updated at 2022-04-23 HH:HH# XXtranslate crowdin strings:XX# XX## game/character.rpy:43
-msgid  "[ryan]'s Thoughts"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "[ryan]'s Thoughts"
+﻿# TODO: Translation updated at 2022-12-01 22:29
 
-# XX## game/character.rpy:45
-msgid  "Mom's Thoughts"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Mom's Thoughts"
+#§translate crowdin strings: #|#|# # game/character.rpy:43
+msgid "[ryan]'s Thoughts"
+msgstr "[ryan]'s Thoughts"
 
-# XX## game/character.rpy:46
-msgid  "Dad"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Dad"
+# game/character.rpy:45
+msgid "Mom's Thoughts"
+msgstr "Mom's Thoughts"
 
-# XX## game/character.rpy:49
-msgid  "Lauren's Thoughts"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Lauren's Thoughts"
+# game/character.rpy:46
+msgid "Dad"
+msgstr "Dad"
 
-# XX## game/character.rpy:50
-msgid  "Joey"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Joey"
+# game/character.rpy:49
+msgid "Lauren's Thoughts"
+msgstr "Lauren's Thoughts"
 
-# XX## game/character.rpy:51
-msgid  "Mafia Goon"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Mafia Goon"
+# game/character.rpy:50
+msgid "Joey"
+msgstr "Joey"
 
-# XX## game/character.rpy:52
-msgid  "Voice over Microphone"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Voice over Microphone"
+# game/character.rpy:51
+msgid "Mafia Goon"
+msgstr "Mafia Goon"
 
-# XX## game/character.rpy:53
-msgid  "?????"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "?????"
+# game/character.rpy:52
+msgid "Voice over Microphone"
+msgstr "Voice over Microphone"
 
-# XX## game/character.rpy:56
-msgid  "Sidney's Thoughts"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Sidney's Thoughts"
+# game/character.rpy:53
+msgid "?????"
+msgstr "?????"
 
-# XX## game/character.rpy:57
-msgid  "Megan"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Megan"
+# game/character.rpy:56
+msgid "Sidney's Thoughts"
+msgstr "Sidney's Thoughts"
 
-# XX## game/character.rpy:59
-msgid  "Mandy's Thoughts"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Mandy's Thoughts"
+# game/character.rpy:57
+msgid "Megan"
+msgstr "Megan"
 
-# XX## game/character.rpy:60
-msgid  "Aunt Camille"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Aunt Camille"
+# game/character.rpy:59
+msgid "Mandy's Thoughts"
+msgstr "Mandy's Thoughts"
 
-# XX## game/character.rpy:61
-msgid  "Aunt Camille's Thoughts"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Aunt Camille's Thoughts"
+# game/character.rpy:60
+msgid "Aunt Camille"
+msgstr "Aunt Camille"
+
+# game/character.rpy:61
+msgid "Aunt Camille's Thoughts"
+msgstr "Aunt Camille's Thoughts"
 
