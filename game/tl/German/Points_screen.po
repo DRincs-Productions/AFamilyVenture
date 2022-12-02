@@ -1,200 +1,138 @@
 msgid ""
 msgstr ""
+"Mom's stats:\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: a-family-venture\n"
 "X-Crowdin-Project-ID: 492487\n"
 "X-Crowdin-Language: de\n"
-"X-Crowdin-File: /[DonRP.AFV] main/game/tl/crowdin/Points_screen.po\n"
-"X-Crowdin-File-ID: 1317\n"
+"X-Crowdin-File: /main/game/tl/crowdin/Points_screen.po\n"
+"X-Crowdin-File-ID: 4445\n"
 "Project-Id-Version: a-family-venture\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-04-23 09:34\n"
+"PO-Revision-Date: 2022-12-02 17:10\n"
 
-# TODO: Translation updated at 2022-04-23 HH:HH# XXtranslate crowdin strings:XX# XX## game/Points_screen.rpy:115
 msgid "Mom's stats:"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:125
+# game/Points_screen.rpy:127
 msgid "[momaffection]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:126
+# game/Points_screen.rpy:128
 msgid "[momrespect]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:127
+# game/Points_screen.rpy:129
 msgid "[momlibido]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:128
+# game/Points_screen.rpy:130
 msgid "[momsubmission]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:129
+# game/Points_screen.rpy:131
 msgid "[momanger]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:136
+# game/Points_screen.rpy:138
 msgid "Lauren's stats:"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:145
+# game/Points_screen.rpy:147
 msgid "[laurenaffection]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:146
+# game/Points_screen.rpy:148
 msgid "[laurenrespect]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:147
+# game/Points_screen.rpy:149
 msgid "[laurenlibido]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:148
+# game/Points_screen.rpy:150
 msgid "[laurensubmission]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:149
+# game/Points_screen.rpy:151
 msgid "[laurenanger]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:156
+# game/Points_screen.rpy:158
 msgid "Sidney's stats:"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:165
+# game/Points_screen.rpy:167
 msgid "[sidneyaffection]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:166
+# game/Points_screen.rpy:168
 msgid "[sidneyrespect]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:167
+# game/Points_screen.rpy:169
 msgid "[sidneylibido]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:168
+# game/Points_screen.rpy:170
 msgid "[sidneysubmission]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:169
+# game/Points_screen.rpy:171
 msgid "[sidneyanger]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:188
+# game/Points_screen.rpy:190
 msgid "[auntaffection]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:189
+# game/Points_screen.rpy:191
 msgid "[auntrespect]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:190
+# game/Points_screen.rpy:192
 msgid "[auntlibido]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:191
+# game/Points_screen.rpy:193
 msgid "[auntsubmission]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:192
+# game/Points_screen.rpy:194
 msgid "[auntanger]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:202
+# game/Points_screen.rpy:204
 msgid "Mandy's stats:"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:211
+# game/Points_screen.rpy:213
 msgid "[cousinaffection]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:212
+# game/Points_screen.rpy:214
 msgid "[cousinrespect]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:213
+# game/Points_screen.rpy:215
 msgid "[cousinlibido]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:214
+# game/Points_screen.rpy:216
 msgid "[cousinsubmission]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:215
+# game/Points_screen.rpy:217
 msgid "[cousinanger]"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:217
+# game/Points_screen.rpy:219
 msgid "<<"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/Points_screen.rpy:228
+# game/Points_screen.rpy:230
 msgid ">>"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
