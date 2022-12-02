@@ -4,39 +4,34 @@ msgstr ""
 "X-Crowdin-Project: a-family-venture\n"
 "X-Crowdin-Project-ID: 492487\n"
 "X-Crowdin-Language: pt-PT\n"
-"X-Crowdin-File: /[DonRP.AFV] main/game/tl/crowdin/Brain_game.po\n"
-"X-Crowdin-File-ID: 1285\n"
+"X-Crowdin-File: /main/game/tl/crowdin/Brain_game.po\n"
+"X-Crowdin-File-ID: 4411\n"
 "Project-Id-Version: a-family-venture\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2022-05-31 04:16\n"
+"PO-Revision-Date: 2022-12-02 17:08\n"
 
-# TODO: Translation updated at 2022-04-23 HH:HH# game/Brain_game.rpy:599 ## translate crowdin map_location_e011db0e:
-msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}A escola acabou, tenho de regressar a casa.{/i}"
+# TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/Brain_game.rpy:599 #-#-# translate crowdin map_location_e011db0e:
+msgid "[_RT_] {i}School has ended, I must return home.{/i}"
+msgstr ""
 
-# game/Brain_game.rpy:607 ## translate crowdin map_location_e011db0e_1:
-msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}A escola acabou, tenho de regressar a casa.{/i}"
+# game/Brain_game.rpy:607 #-#-# translate crowdin map_location_e011db0e_1:
+msgid "[_RT_] {i}School has ended, I must return home.{/i}"
+msgstr ""
 
-# game/Brain_game.rpy:613 ## translate crowdin map_location_e011db0e_2:
-msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}A escola acabou, tenho de regressar a casa.{/i}"
+# game/Brain_game.rpy:613 #-#-# translate crowdin map_location_e011db0e_2:
+msgid "[_RT_] {i}School has ended, I must return home.{/i}"
+msgstr ""
 
-# game/Brain_game.rpy:619 ## translate crowdin map_location_e011db0e_3:
-msgid "[RT] {i}School has ended, I must return home.{/i}"
-msgstr "[RT] {i}A escola acabou, tenho de regressar a casa.{/i}"
+# game/Brain_game.rpy:619 #-#-# translate crowdin map_location_e011db0e_3:
+msgid "[_RT_] {i}School has ended, I must return home.{/i}"
+msgstr ""
 
-# XXtranslate crowdin strings:XX# XX## game/Brain_game.rpy:497
 msgid "You lose!"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Você perdeu!"
-msgstr[1] "Ignore isso. traduzir apenas: Um"
+msgstr ""
 
-# XX## game/Brain_game.rpy:519
+# game/Brain_game.rpy:519
 msgid "YOU WON!!!"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] "VOCÊ GANHOU!!!"
-msgstr[1] "Ignorar isto. traduzir apenas: Um"
+msgstr ""
 
