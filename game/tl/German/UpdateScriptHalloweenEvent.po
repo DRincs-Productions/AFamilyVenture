@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-12-02 17:12\n"
+"PO-Revision-Date: 2022-12-02 19:29\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/UpdateScriptHalloweenEvent.rpy:256 #-#-# translate crowdin halloween_event_start_36b1bdbb:
 msgid "{i}{b}(HINT){/b} Happy Halloween!{/i}"
@@ -398,7 +398,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:603 #-#-# translate crowdin found_sidney_inside_out_d8bf5ca9:
 msgid "[_M_] What?"
-msgstr ""
+msgstr "[_M_] Was?"
 
 # game/UpdateScriptHalloweenEvent.rpy:604 #-#-# translate crowdin found_sidney_inside_out_13d0d53d:
 msgid "[_R_] I said, Sidney's stuck..."
@@ -558,7 +558,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:689 #-#-# translate crowdin sidney_loyalty_path_d9f5fd82:
 msgid "[_R_] Fuck!"
-msgstr ""
+msgstr "[_R_] Verdammt!"
 
 # game/UpdateScriptHalloweenEvent.rpy:692 #-#-# translate crowdin sidney_loyalty_path_56a6aa54:
 msgid "[_RT_] {i}She said, through the slime.{/i}"
