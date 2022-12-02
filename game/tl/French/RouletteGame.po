@@ -4,13 +4,13 @@ msgstr ""
 "X-Crowdin-Project: a-family-venture\n"
 "X-Crowdin-Project-ID: 492487\n"
 "X-Crowdin-Language: fr\n"
-"X-Crowdin-File: /[DonRP.AFV] main/game/tl/crowdin/images/interface_images/Roulette/RouletteGame.po\n"
-"X-Crowdin-File-ID: 3249\n"
+"X-Crowdin-File: /main/game/tl/crowdin/images/interface_images/Roulette/RouletteGame.po\n"
+"X-Crowdin-File-ID: 4469\n"
 "Project-Id-Version: a-family-venture\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-28 09:22\n"
+"PO-Revision-Date: 2022-12-02 17:07\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/images/interface_images/Roulette/RouletteGame.rpy:537 ## translate crowdin test_feb4bc5b:
 msgid "[@betPickVar]"
@@ -86,7 +86,7 @@ msgstr "[RLT_dealer] Vous avez perdu ! Le nombre que vous auriez dû sélectionn
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:692 ## translate crowdin lblCheckRoll_38a91ca2_1:
 msgid "[RLT_dealer] You win! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve(2.0)]"
-msgstr "[RLT_dealer] Vous gagnez! Le numéro sélectionné est [theRoll] et c’est [theRollOddOrEven_text], la couleur est [theRollColor_text]! {w=3.0}{nw} [withDissolve(2.0)]"
+msgstr "[RLT_dealer] Vous gagnez! Le chiffre sélectionné est [theRoll] et c'est [theRollOddOrEven_text], la couleur est [theRollColor_text]!{w=3.0}{nw} [withDissolve(2.0)]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:693 ## translate crowdin lblCheckRoll_a5eb7354:
 msgid "[RLT_dealer] The payout is 17 to 1, so you won $[payout]!{w=3.0}{nw} [withDissolve(2.0)]"
@@ -94,7 +94,7 @@ msgstr "[RLT_dealer] Le gain est de 17 contre 1, vous avez donc gagné [payout]$
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:697 ## translate crowdin lblCheckRoll_bf9f0393_1:
 msgid "[RLT_dealer] You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve(2.0)]"
-msgstr "[RLT_dealer] Vous perdez! Le chiffre sélectionné est [theRoll] et c'est [theRollOddOrEven_text], la couleur est [theRollColor_text]!{w=3.0}{nw} [withDissolve(2.0)]"
+msgstr "[RLT_dealer] Vous avez perdu ! Le nombre que vous auriez dû sélectionné est [theRoll] et c'est [theRollOddOrEven_text], la couleur est [theRollColor_text]!{w=3.0}{nw} [withDissolve(2.0)]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:706 ## translate crowdin lblCheckRoll_38a91ca2_2:
 msgid "[RLT_dealer] You win! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve(2.0)]"
