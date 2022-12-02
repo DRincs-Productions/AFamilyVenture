@@ -10,36 +10,40 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-02 19:26\n"
+"PO-Revision-Date: 2022-12-02 22:39\n"
 
 msgid " My\n"
 "Room"
-msgstr ""
+msgstr " La mia\n"
+"stanza"
 
 # game/Game_screens.rpy:77
 msgid "Bath"
-msgstr ""
+msgstr "Bagno"
 
 # game/Game_screens.rpy:110
 msgid "City"
-msgstr ""
+msgstr "Città"
 
 # game/Game_screens.rpy:125
 msgid "Hallway"
-msgstr ""
+msgstr "Corridoio"
 
 # game/Game_screens.rpy:134
 msgid "Class"
-msgstr ""
+msgstr "Classe"
 
 # game/Game_screens.rpy:152
 msgid "{size=29} {/size}Girls\n"
 "Locker\n"
 "{size=25} {/size}Room"
-msgstr ""
+msgstr "{size=29} {/size}Armadietto\n"
+"Delle Ragazze\n"
+"{size=25} {/size}Stanza"
 
 # game/Game_screens.rpy:208
 msgid "Campaign\n"
 "   HQ"
-msgstr ""
+msgstr "Campagna\n"
+"   HQ"
 
