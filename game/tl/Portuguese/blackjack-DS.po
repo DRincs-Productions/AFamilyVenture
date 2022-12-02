@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2022-12-02 17:07\n"
+"PO-Revision-Date: 2022-12-02 19:25\n"
 
 # TODO: Translation updated at 2022-04-23 HH:HH# game/images/interface_images/blackjack/blackjack-DS.rpy:341 ## translate crowdin startGameBJ_ddfcd22e:
 msgid "[BJ_dealer] I'll start dealing the cards!{w=2.0}{nw}"
-msgstr "[BJ_dealer] Vou começar a dar as cartas!{w=2.0}{nw}"
+msgstr ""
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:397 ## translate crowdin handCheckLabel_b72f4071:
 msgid "[BJ_dealer] Dealer Bust, you won $[betWin]!{w=2.0}{nw}"
-msgstr "[BJ_dealer] Traficante Busto, você ganhou[betWin]! {w=2.0}{nw}"
+msgstr ""
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:408 ## translate crowdin handCheckLabel_1a74bd53:
 msgid "[BJ_dealer] You bust! You lost $[betSum]!{w=2.0}{nw}"
