@@ -10,34 +10,34 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-12-02 17:11\n"
+"PO-Revision-Date: 2022-12-02 19:29\n"
 
 msgid "History"
-msgstr ""
+msgstr "Geçmiş"
 
 # game/screens.rpy:266
 msgid "Skip"
-msgstr ""
+msgstr "Atla"
 
 # game/screens.rpy:267
 msgid "Auto"
-msgstr ""
+msgstr "Otomatik"
 
 # game/screens.rpy:268
 msgid "Save"
-msgstr ""
+msgstr "Kaydet"
 
 # game/screens.rpy:269
 msgid "Load"
-msgstr ""
+msgstr "Yükle"
 
 # game/screens.rpy:270
 msgid "Q.Save"
-msgstr ""
+msgstr "H.Kaydet"
 
 # game/screens.rpy:271
 msgid "Q.Load"
-msgstr ""
+msgstr "H.Yükle"
 
 # game/screens.rpy:272
 msgid "Prefs"
@@ -45,47 +45,47 @@ msgstr ""
 
 # game/screens.rpy:317
 msgid "Start"
-msgstr ""
+msgstr "Başla"
 
 # game/screens.rpy:328
 msgid "Gallery"
-msgstr ""
+msgstr "Galeri"
 
 # game/screens.rpy:330
 msgid "Preferences"
-msgstr ""
+msgstr "Tercihler"
 
 # game/screens.rpy:334
 msgid "End Replay"
-msgstr ""
+msgstr "Tekrarı Sonlandır"
 
 # game/screens.rpy:338
 msgid "Main Menu"
-msgstr ""
+msgstr "Ana Menü"
 
 # game/screens.rpy:340
 msgid "About"
-msgstr ""
+msgstr "Hakkında"
 
 # game/screens.rpy:343
 msgid "Credits"
-msgstr ""
+msgstr "Emeği geçenler"
 
 # game/screens.rpy:348
 msgid "Help"
-msgstr ""
+msgstr "Yardım"
 
 # game/screens.rpy:351
 msgid "Quit"
-msgstr ""
+msgstr "Çık"
 
 # game/screens.rpy:505
 msgid "Return"
-msgstr ""
+msgstr "Geri dön"
 
 # game/screens.rpy:589
 msgid "Version [config.version!t]\n"
-msgstr ""
+msgstr "Sürüm [config.version!t]\n"
 
 # game/screens.rpy:595
 msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
@@ -94,15 +94,15 @@ msgstr ""
 
 # game/screens.rpy:635
 msgid "Page {}"
-msgstr ""
+msgstr "Sayfa {}"
 
 # game/screens.rpy:635
 msgid "Automatic saves"
-msgstr ""
+msgstr "Otomatik kayıtlar"
 
 # game/screens.rpy:635
 msgid "Quick saves"
-msgstr ""
+msgstr "Hızlı kayıtlar"
 
 # game/screens.rpy:677
 msgid "{#file_time}%A, %B %d %Y, %H:%M"
@@ -110,7 +110,7 @@ msgstr ""
 
 # game/screens.rpy:677
 msgid "empty slot"
-msgstr ""
+msgstr "boş"
 
 # game/screens.rpy:703
 msgid "<"
@@ -130,15 +130,15 @@ msgstr ""
 
 # game/screens.rpy:772
 msgid "Display"
-msgstr ""
+msgstr "Görüntü"
 
 # game/screens.rpy:773
 msgid "Window"
-msgstr ""
+msgstr "Pencere"
 
 # game/screens.rpy:774
 msgid "Fullscreen"
-msgstr ""
+msgstr "Tam ekran"
 
 # game/screens.rpy:778
 msgid "Rollback Side"
@@ -146,19 +146,19 @@ msgstr ""
 
 # game/screens.rpy:779
 msgid "Disable"
-msgstr ""
+msgstr "Kapalı"
 
 # game/screens.rpy:780
 msgid "Left"
-msgstr ""
+msgstr "Sol"
 
 # game/screens.rpy:781
 msgid "Right"
-msgstr ""
+msgstr "Sağ"
 
 # game/screens.rpy:786
 msgid "Unseen Text"
-msgstr ""
+msgstr "Görünmeyen Metin"
 
 # game/screens.rpy:787
 msgid "After Choices"
@@ -166,7 +166,7 @@ msgstr ""
 
 # game/screens.rpy:788
 msgid "Transitions"
-msgstr ""
+msgstr "Geçişler"
 
 # game/screens.rpy:792
 msgid "Navigation settings"
@@ -174,23 +174,23 @@ msgstr ""
 
 # game/screens.rpy:799
 msgid "Language"
-msgstr ""
+msgstr "Dil"
 
 # game/screens.rpy:856
 msgid "Text Speed"
-msgstr ""
+msgstr "Metin Hızı"
 
 # game/screens.rpy:860
 msgid "Auto-Forward Time"
-msgstr ""
+msgstr "Oto-ilerleme Süresi"
 
 # game/screens.rpy:867
 msgid "Music Volume"
-msgstr ""
+msgstr "Müzik Sesi"
 
 # game/screens.rpy:874
 msgid "Sound Volume"
-msgstr ""
+msgstr "Ses"
 
 # game/screens.rpy:880
 msgid "Test"
@@ -198,71 +198,71 @@ msgstr ""
 
 # game/screens.rpy:884
 msgid "Voice Volume"
-msgstr ""
+msgstr "Konuşma Seviyesi"
 
 # game/screens.rpy:895
 msgid "Mute All"
-msgstr ""
+msgstr "Tümünü Sustur"
 
 # game/screens.rpy:1023
 msgid "The dialogue history is empty."
-msgstr ""
+msgstr "Diyalog geçmişinde bir şey yok."
 
 # game/screens.rpy:1093
 msgid "Keyboard"
-msgstr ""
+msgstr "Klavye"
 
 # game/screens.rpy:1094
 msgid "Mouse"
-msgstr ""
+msgstr "Mouse"
 
 # game/screens.rpy:1097
 msgid "Gamepad"
-msgstr ""
+msgstr "Gamepad"
 
 # game/screens.rpy:1110
 msgid "Enter"
-msgstr ""
+msgstr "Enter"
 
 # game/screens.rpy:1111
 msgid "Advances dialogue and activates the interface."
-msgstr ""
+msgstr "Diyaloğu ilerletir ve arayüzü etkinleştirir."
 
 # game/screens.rpy:1114
 msgid "Space"
-msgstr ""
+msgstr "Space"
 
 # game/screens.rpy:1115
 msgid "Advances dialogue without selecting choices."
-msgstr ""
+msgstr "Seçenekleri seçmeden diyaloğu ilerletir."
 
 # game/screens.rpy:1118
 msgid "Arrow Keys"
-msgstr ""
+msgstr "Yön Tuşları"
 
 # game/screens.rpy:1119
 msgid "Navigate the interface."
-msgstr ""
+msgstr "Arayüzde dolaşma."
 
 # game/screens.rpy:1122
 msgid "Escape"
-msgstr ""
+msgstr "Esc"
 
 # game/screens.rpy:1123
 msgid "Accesses the game menu."
-msgstr ""
+msgstr "Oyun menüsünü açar."
 
 # game/screens.rpy:1126
 msgid "Ctrl"
-msgstr ""
+msgstr "Ctrl"
 
 # game/screens.rpy:1127
 msgid "Skips dialogue while held down."
-msgstr ""
+msgstr "Basılı tutulduğunda diyaloğu atlar."
 
 # game/screens.rpy:1130
 msgid "Tab"
-msgstr ""
+msgstr "Tab"
 
 # game/screens.rpy:1131
 msgid "Toggles dialogue skipping."
@@ -270,27 +270,27 @@ msgstr ""
 
 # game/screens.rpy:1134
 msgid "Page Up"
-msgstr ""
+msgstr "Page Up"
 
 # game/screens.rpy:1135
 msgid "Rolls back to earlier dialogue."
-msgstr ""
+msgstr "Önceki diyaloğa döner."
 
 # game/screens.rpy:1138
 msgid "Page Down"
-msgstr ""
+msgstr "Page Down"
 
 # game/screens.rpy:1139
 msgid "Rolls forward to later dialogue."
-msgstr ""
+msgstr "Daha sonraki diyaloğa geçer."
 
 # game/screens.rpy:1143
 msgid "Hides the user interface."
-msgstr ""
+msgstr "Kullanıcı arayüzünü gizler."
 
 # game/screens.rpy:1147
 msgid "Takes a screenshot."
-msgstr ""
+msgstr "Ekran görüntüsü alır."
 
 # game/screens.rpy:1151
 msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
@@ -298,24 +298,24 @@ msgstr ""
 
 # game/screens.rpy:1157
 msgid "Left Click"
-msgstr ""
+msgstr "Sol Tık"
 
 # game/screens.rpy:1161
 msgid "Middle Click"
-msgstr ""
+msgstr "Tekerlek"
 
 # game/screens.rpy:1165
 msgid "Right Click"
-msgstr ""
+msgstr "Sağ Tık"
 
 # game/screens.rpy:1169
 msgid "Mouse Wheel Up\n"
 "Click Rollback Side"
-msgstr ""
+msgstr "Yukarı Mouse Tekerleği"
 
 # game/screens.rpy:1173
 msgid "Mouse Wheel Down"
-msgstr ""
+msgstr "Aşağı Mouse Tekerleği"
 
 # game/screens.rpy:1180
 msgid "Right Trigger\n"
@@ -349,5 +349,5 @@ msgstr ""
 
 # game/screens.rpy:1316
 msgid "Skipping"
-msgstr ""
+msgstr "Atlanıyor"
 
