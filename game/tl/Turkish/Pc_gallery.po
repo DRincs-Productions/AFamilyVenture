@@ -4,111 +4,131 @@ msgstr ""
 "X-Crowdin-Project: a-family-venture\n"
 "X-Crowdin-Project-ID: 492487\n"
 "X-Crowdin-Language: tr\n"
-"X-Crowdin-File: /[DonRP.AFV] main/game/tl/crowdin/Pc_gallery.po\n"
-"X-Crowdin-File-ID: 1305\n"
+"X-Crowdin-File: /main/game/tl/crowdin/Pc_gallery.po\n"
+"X-Crowdin-File-ID: 4433\n"
 "Project-Id-Version: a-family-venture\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-27 09:09\n"
+"PO-Revision-Date: 2022-12-02 17:09\n"
 
-# TODO: Translation updated at 2022-04-23 HH:HH# game/Pc_gallery.rpy:824 ## translate crowdin fap_mom_18b092ef:
-msgid "[RT] {i}I don't have time for that. The DeCapos will be here any minute.{/i}"
-msgstr "[RT] {i}Bunun için zamanım yok. DeCapolar her an burada olabilirler.{/i}"
+# TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/Pc_gallery.rpy:853 #-#-# translate crowdin fap_mom_7d32c6a7:
+msgid "[_RT_] {i}I don't have time for that right now. I've got to get ready to visit Dad in prison.{/i}"
+msgstr ""
 
-# game/Pc_gallery.rpy:828 ## translate crowdin fap_mom_e2f4c4f8:
-msgid "[RT] {i}Someday I will have you for real!{/i}"
-msgstr "[RT] {i}Bir gün gerçekten sana sahip olacağım!{/i}"
+# game/Pc_gallery.rpy:858 #-#-# translate crowdin fap_mom_18b092ef:
+msgid "[_RT_] {i}I don't have time for that. The DeCapos will be here any minute.{/i}"
+msgstr ""
 
-# game/Pc_gallery.rpy:832 ## translate crowdin fap_mom_52f9eca8:
-msgid "[RT] {i}Nah, I feel like something else right now.{/i}"
-msgstr "[RT] {i}Hayır, şu anda başka bir şey gibi hissediyorum.{/i}"
+# game/Pc_gallery.rpy:862 #-#-# translate crowdin fap_mom_e2f4c4f8:
+msgid "[_RT_] {i}Someday I will have you for real!{/i}"
+msgstr ""
 
-# game/Pc_gallery.rpy:836 ## translate crowdin fap_mom_88e99dc5:
-msgid "[RT] {i}I can't waist time. I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
-msgstr "[RT] {i}Zaman kaybedemem. Okula gidip Lauren'in öğrenci birliği seçim anketinde ne yaptığına bakmalıyım.{/i}"
+# game/Pc_gallery.rpy:866 #-#-# translate crowdin fap_mom_52f9eca8:
+msgid "[_RT_] {i}Nah, I feel like something else right now.{/i}"
+msgstr ""
 
-# game/Pc_gallery.rpy:840 ## translate crowdin fap_mom_e2f4c4f8_1:
-msgid "[RT] {i}Someday I will have you for real!{/i}"
-msgstr "[RT] {i}Bir gün gerçekten sana sahip olacağım!{/i}"
+# game/Pc_gallery.rpy:870 #-#-# translate crowdin fap_mom_88e99dc5:
+msgid "[_RT_] {i}I can't waist time. I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
+msgstr ""
 
-# game/Pc_gallery.rpy:852 ## translate crowdin fap_lauren_18b092ef:
-msgid "[RT] {i}I don't have time for that. The DeCapos will be here any minute.{/i}"
-msgstr "[RT] {i}Bunun için zamanım yok. DeCapolar her an burada olabilirler.{/i}"
+# game/Pc_gallery.rpy:874 #-#-# translate crowdin fap_mom_e2f4c4f8_1:
+msgid "[_RT_] {i}Someday I will have you for real!{/i}"
+msgstr ""
 
-# game/Pc_gallery.rpy:856 ## translate crowdin fap_lauren_651ffd2f:
-msgid "[RT] {i}Soon I will have you for real!{/i}"
-msgstr "[RT] {i}Yakında sana gerçekten sahip olacağım!{/i}"
+# game/Pc_gallery.rpy:885 #-#-# translate crowdin fap_lauren_7d32c6a7:
+msgid "[_RT_] {i}I don't have time for that right now. I've got to get ready to visit Dad in prison.{/i}"
+msgstr ""
 
-# game/Pc_gallery.rpy:860 ## translate crowdin fap_lauren_52f9eca8:
-msgid "[RT] {i}Nah, I feel like something else right now.{/i}"
-msgstr "[RT] {i}Hayır, şu anda başka bir şey gibi hissediyorum.{/i}"
+# game/Pc_gallery.rpy:890 #-#-# translate crowdin fap_lauren_18b092ef:
+msgid "[_RT_] {i}I don't have time for that. The DeCapos will be here any minute.{/i}"
+msgstr ""
 
-# game/Pc_gallery.rpy:864 ## translate crowdin fap_lauren_88e99dc5:
-msgid "[RT] {i}I can't waist time. I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
-msgstr "[RT] {i}Zaman kaybedemem. Okula gidip Lauren'in öğrenci birliği seçim anketinde ne yaptığına bakmalıyım.{/i}"
+# game/Pc_gallery.rpy:894 #-#-# translate crowdin fap_lauren_651ffd2f:
+msgid "[_RT_] {i}Soon I will have you for real!{/i}"
+msgstr ""
 
-# game/Pc_gallery.rpy:868 ## translate crowdin fap_lauren_651ffd2f_1:
-msgid "[RT] {i}Soon I will have you for real!{/i}"
-msgstr "[RT] {i}Yakında sana gerçekten sahip olacağım!{/i}"
+# game/Pc_gallery.rpy:898 #-#-# translate crowdin fap_lauren_52f9eca8:
+msgid "[_RT_] {i}Nah, I feel like something else right now.{/i}"
+msgstr ""
 
-# game/Pc_gallery.rpy:880 ## translate crowdin fap_sidney_18b092ef:
-msgid "[RT] {i}I don't have time for that. The DeCapos will be here any minute.{/i}"
-msgstr "[RT] {i}Bunun için zamanım yok. DeCapolar her an burada olabilirler.{/i}"
+# game/Pc_gallery.rpy:902 #-#-# translate crowdin fap_lauren_88e99dc5:
+msgid "[_RT_] {i}I can't waist time. I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
+msgstr ""
 
-# game/Pc_gallery.rpy:884 ## translate crowdin fap_sidney_a0696df8:
-msgid "[RT] {i}Why are you so sexy?{/i}"
-msgstr "[RT] {i}Neden bu kadar seksisin?{/i}"
+# game/Pc_gallery.rpy:906 #-#-# translate crowdin fap_lauren_651ffd2f_1:
+msgid "[_RT_] {i}Soon I will have you for real!{/i}"
+msgstr ""
 
-# game/Pc_gallery.rpy:888 ## translate crowdin fap_sidney_52f9eca8:
-msgid "[RT] {i}Nah, I feel like something else right now.{/i}"
-msgstr "[RT] {i}Hayır, şu anda başka bir şey gibi hissediyorum.{/i}"
+# game/Pc_gallery.rpy:917 #-#-# translate crowdin fap_sidney_7d32c6a7:
+msgid "[_RT_] {i}I don't have time for that right now. I've got to get ready to visit Dad in prison.{/i}"
+msgstr ""
 
-# game/Pc_gallery.rpy:892 ## translate crowdin fap_sidney_88e99dc5:
-msgid "[RT] {i}I can't waist time. I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
-msgstr "[RT] {i}Zaman kaybedemem. Okula gidip Lauren'in öğrenci birliği seçim anketinde ne yaptığına bakmalıyım.{/i}"
+# game/Pc_gallery.rpy:922 #-#-# translate crowdin fap_sidney_18b092ef:
+msgid "[_RT_] {i}I don't have time for that. The DeCapos will be here any minute.{/i}"
+msgstr ""
 
-# game/Pc_gallery.rpy:896 ## translate crowdin fap_sidney_a0696df8_1:
-msgid "[RT] {i}Why are you so sexy?{/i}"
-msgstr "[RT] {i}Neden bu kadar seksisin?{/i}"
+# game/Pc_gallery.rpy:926 #-#-# translate crowdin fap_sidney_a0696df8:
+msgid "[_RT_] {i}Why are you so sexy?{/i}"
+msgstr ""
 
-# game/Pc_gallery.rpy:908 ## translate crowdin fap_aunt_18b092ef:
-msgid "[RT] {i}I don't have time for that. The DeCapos will be here any minute.{/i}"
-msgstr "[RT] {i}Bunun için zamanım yok. DeCapolar her an burada olabilirler.{/i}"
+# game/Pc_gallery.rpy:930 #-#-# translate crowdin fap_sidney_52f9eca8:
+msgid "[_RT_] {i}Nah, I feel like something else right now.{/i}"
+msgstr ""
 
-# game/Pc_gallery.rpy:912 ## translate crowdin fap_aunt_a0696df8:
-msgid "[RT] {i}Why are you so sexy?{/i}"
-msgstr "[RT] {i}Neden bu kadar seksisin?{/i}"
+# game/Pc_gallery.rpy:934 #-#-# translate crowdin fap_sidney_88e99dc5:
+msgid "[_RT_] {i}I can't waist time. I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
+msgstr ""
 
-# game/Pc_gallery.rpy:916 ## translate crowdin fap_aunt_52f9eca8:
-msgid "[RT] {i}Nah, I feel like something else right now.{/i}"
-msgstr "[RT] {i}Hayır, şu anda başka bir şey gibi hissediyorum.{/i}"
+# game/Pc_gallery.rpy:938 #-#-# translate crowdin fap_sidney_a0696df8_1:
+msgid "[_RT_] {i}Why are you so sexy?{/i}"
+msgstr ""
 
-# game/Pc_gallery.rpy:920 ## translate crowdin fap_aunt_88e99dc5:
-msgid "[RT] {i}I can't waist time. I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
-msgstr "[RT] {i}Zaman kaybedemem. Okula gidip Lauren'in öğrenci birliği seçim anketinde ne yaptığına bakmalıyım.{/i}"
+# game/Pc_gallery.rpy:949 #-#-# translate crowdin fap_aunt_7d32c6a7:
+msgid "[_RT_] {i}I don't have time for that right now. I've got to get ready to visit Dad in prison.{/i}"
+msgstr ""
 
-# game/Pc_gallery.rpy:924 ## translate crowdin fap_aunt_a0696df8_1:
-msgid "[RT] {i}Why are you so sexy?{/i}"
-msgstr "[RT] {i}Neden bu kadar seksisin?{/i}"
+# game/Pc_gallery.rpy:954 #-#-# translate crowdin fap_aunt_18b092ef:
+msgid "[_RT_] {i}I don't have time for that. The DeCapos will be here any minute.{/i}"
+msgstr ""
 
-# game/Pc_gallery.rpy:935 ## translate crowdin fap_cousin_18b092ef:
-msgid "[RT] {i}I don't have time for that. The DeCapos will be here any minute.{/i}"
-msgstr "[RT] {i}Bunun için zamanım yok. DeCapolar her an burada olabilirler.{/i}"
+# game/Pc_gallery.rpy:958 #-#-# translate crowdin fap_aunt_a0696df8:
+msgid "[_RT_] {i}Why are you so sexy?{/i}"
+msgstr ""
 
-# game/Pc_gallery.rpy:939 ## translate crowdin fap_cousin_a0696df8:
-msgid "[RT] {i}Why are you so sexy?{/i}"
-msgstr "[RT] {i}Neden bu kadar seksisin?{/i}"
+# game/Pc_gallery.rpy:962 #-#-# translate crowdin fap_aunt_52f9eca8:
+msgid "[_RT_] {i}Nah, I feel like something else right now.{/i}"
+msgstr ""
 
-# game/Pc_gallery.rpy:943 ## translate crowdin fap_cousin_52f9eca8:
-msgid "[RT] {i}Nah, I feel like something else right now.{/i}"
-msgstr "[RT] {i}Hayır, şu anda başka bir şey gibi hissediyorum.{/i}"
+# game/Pc_gallery.rpy:966 #-#-# translate crowdin fap_aunt_88e99dc5:
+msgid "[_RT_] {i}I can't waist time. I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
+msgstr ""
 
-# game/Pc_gallery.rpy:947 ## translate crowdin fap_cousin_88e99dc5:
-msgid "[RT] {i}I can't waist time. I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
-msgstr "[RT] {i}Zaman kaybedemem. Okula gidip Lauren'in öğrenci birliği seçim anketinde ne yaptığına bakmalıyım.{/i}"
+# game/Pc_gallery.rpy:970 #-#-# translate crowdin fap_aunt_a0696df8_1:
+msgid "[_RT_] {i}Why are you so sexy?{/i}"
+msgstr ""
 
-# game/Pc_gallery.rpy:951 ## translate crowdin fap_cousin_a0696df8_1:
-msgid "[RT] {i}Why are you so sexy?{/i}"
-msgstr "[RT] {i}Neden bu kadar seksisin?{/i}"
+# game/Pc_gallery.rpy:980 #-#-# translate crowdin fap_cousin_7d32c6a7:
+msgid "[_RT_] {i}I don't have time for that right now. I've got to get ready to visit Dad in prison.{/i}"
+msgstr ""
+
+# game/Pc_gallery.rpy:985 #-#-# translate crowdin fap_cousin_18b092ef:
+msgid "[_RT_] {i}I don't have time for that. The DeCapos will be here any minute.{/i}"
+msgstr ""
+
+# game/Pc_gallery.rpy:989 #-#-# translate crowdin fap_cousin_a0696df8:
+msgid "[_RT_] {i}Why are you so sexy?{/i}"
+msgstr ""
+
+# game/Pc_gallery.rpy:993 #-#-# translate crowdin fap_cousin_52f9eca8:
+msgid "[_RT_] {i}Nah, I feel like something else right now.{/i}"
+msgstr ""
+
+# game/Pc_gallery.rpy:997 #-#-# translate crowdin fap_cousin_88e99dc5:
+msgid "[_RT_] {i}I can't waist time. I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
+msgstr ""
+
+# game/Pc_gallery.rpy:1001 #-#-# translate crowdin fap_cousin_a0696df8_1:
+msgid "[_RT_] {i}Why are you so sexy?{/i}"
+msgstr ""
 
