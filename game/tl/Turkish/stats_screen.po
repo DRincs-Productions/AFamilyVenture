@@ -1,194 +1,134 @@
 msgid ""
 msgstr ""
+"{color=#42f456}Mom's:{/color}\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: a-family-venture\n"
 "X-Crowdin-Project-ID: 492487\n"
 "X-Crowdin-Language: tr\n"
-"X-Crowdin-File: /[DonRP.AFV] main/game/tl/crowdin/stats_screen.po\n"
-"X-Crowdin-File-ID: 1357\n"
+"X-Crowdin-File: /main/game/tl/crowdin/stats_screen.po\n"
+"X-Crowdin-File-ID: 4489\n"
 "Project-Id-Version: a-family-venture\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-24 08:47\n"
+"PO-Revision-Date: 2022-12-02 17:12\n"
 
-# TODO: Translation updated at 2022-04-23 HH:HH# XXtranslate crowdin strings:XX# XX## game/stats_screen.rpy:28
 msgid "{color=#42f456}Mom's:{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:29
+# game/stats_screen.rpy:29
 msgid "{color=#000000}Respect..............[momrespect]{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:30
+# game/stats_screen.rpy:30
 msgid "{color=#000000}Affection............[momaffection]{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:31
+# game/stats_screen.rpy:31
 msgid "{color=#000000}Libido................[momlibido]{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:32
+# game/stats_screen.rpy:32
 msgid "{color=#000000}Submission........[momsubmission]{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:33
+# game/stats_screen.rpy:33
 msgid "{color=#000000}Anger..................[momanger]{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:35
+# game/stats_screen.rpy:35
 msgid "{color=#f442d9}Lauren's:{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:36
+# game/stats_screen.rpy:36
 msgid "{color=#000000}Respect............[laurenrespect]{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:37
+# game/stats_screen.rpy:37
 msgid "{color=#000000}Affection.........[laurenaffection]{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:38
+# game/stats_screen.rpy:38
 msgid "{color=#000000}Libido.............[laurenlibido]{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:39
+# game/stats_screen.rpy:39
 msgid "{color=#000000}Submission....[laurensubmission]{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:40
+# game/stats_screen.rpy:40
 msgid "{color=#000000}Anger..............[laurenanger]{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:42
+# game/stats_screen.rpy:42
 msgid "{color=#006600}Sidney's:{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:43
+# game/stats_screen.rpy:43
 msgid "{color=#000000}Respect............[sidneyrespect]{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:44
+# game/stats_screen.rpy:44
 msgid "{color=#000000}Affection.........[sidneyaffection]{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:45
+# game/stats_screen.rpy:45
 msgid "{color=#000000}Libido.............[sidneylibido]{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:46
+# game/stats_screen.rpy:46
 msgid "{color=#000000}Submission.....[sidneysubmission]{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:47
+# game/stats_screen.rpy:47
 msgid "{color=#000000}Anger...............[sidneyanger]{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:49
+# game/stats_screen.rpy:49
 msgid "{color=#9966FF}Aunt Camille's:{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:50
+# game/stats_screen.rpy:50
 msgid "{color=#000000}Respect............[auntrespect]{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:51
+# game/stats_screen.rpy:51
 msgid "{color=#000000}Affection.........[auntaffection]{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:52
+# game/stats_screen.rpy:52
 msgid "{color=#000000}Libido.............[auntlibido]{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:53
+# game/stats_screen.rpy:53
 msgid "{color=#000000}Submission.....[auntsubmission]{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:54
+# game/stats_screen.rpy:54
 msgid "{color=#000000}Anger...............[auntanger]{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:56
+# game/stats_screen.rpy:56
 msgid "{color=#85c1e9}Mandy's:{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:57
+# game/stats_screen.rpy:57
 msgid "{color=#000000}Respect............[cousinrespect]{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:58
+# game/stats_screen.rpy:58
 msgid "{color=#000000}Affection.........[cousinaffection]{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:59
+# game/stats_screen.rpy:59
 msgid "{color=#000000}Libido.............[cousinlibido]{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:60
+# game/stats_screen.rpy:60
 msgid "{color=#000000}Submission.....[cousinsubmission]{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/stats_screen.rpy:61
+# game/stats_screen.rpy:61
 msgid "{color=#000000}Anger...............[cousinanger]{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
