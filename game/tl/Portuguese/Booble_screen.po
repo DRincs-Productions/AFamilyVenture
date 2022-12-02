@@ -4,31 +4,26 @@ msgstr ""
 "X-Crowdin-Project: a-family-venture\n"
 "X-Crowdin-Project-ID: 492487\n"
 "X-Crowdin-Language: pt-PT\n"
-"X-Crowdin-File: /[DonRP.AFV] main/game/tl/crowdin/Booble_screen.po\n"
-"X-Crowdin-File-ID: 1283\n"
+"X-Crowdin-File: /main/game/tl/crowdin/Booble_screen.po\n"
+"X-Crowdin-File-ID: 4409\n"
 "Project-Id-Version: a-family-venture\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2022-05-31 04:16\n"
+"PO-Revision-Date: 2022-12-02 17:08\n"
 
-# TODO: Translation updated at 2022-04-23 HH:HH# game/Booble_screen.rpy:51 ## translate crowdin booble_search_f6ce98ce:
-msgid "[RT] {i}I should do a search on booble.com to find a way to buy the stuff I need so that the FBI won't ask me from where I got the money.{/i}"
-msgstr "[RT] {i}Devia fazer uma pesquisa em booble.com para encontrar uma forma de comprar o material de que preciso para que o FBI não me pergunte de onde consegui o dinheiro.{/i}"
+# TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/Booble_screen.rpy:51 #-#-# translate crowdin booble_search_f6ce98ce:
+msgid "[_RT_] {i}I should do a search on booble.com to find a way to buy the stuff I need so that the FBI won't ask me from where I got the money.{/i}"
+msgstr ""
 
-# game/Booble_screen.rpy:67 ## translate crowdin booble_search_ce876757:
-msgid "[RT] {i}What should I do today on the internet?{/i}"
-msgstr "[RT] {i}O que devo fazer hoje na Internet?{/i}"
+# game/Booble_screen.rpy:67 #-#-# translate crowdin booble_search_ce876757:
+msgid "[_RT_] {i}What should I do today on the internet?{/i}"
+msgstr ""
 
-# XXtranslate crowdin strings:XX# XX## game/Booble_screen.rpy:33
 msgid "{color=#ffffff}{b}hardnLong.dong online shopping{/b}{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] "{color=#ffffffff}{b}hardnLong.dong online shopping{/b}{/color}"
-msgstr[1] "Ignorar isto. traduzir apenas: Um"
+msgstr ""
 
-# XX## game/Booble_screen.rpy:39
+# game/Booble_screen.rpy:39
 msgid "{color=#ffffff}{b}cosplayheaven.cos cosplay site{/b}{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] "{color=#ffffffff}{b}cosplayheaven.cos cos cosplay site{/b}{/cor}"
-msgstr[1] "Ignorar isto. traduzir apenas: Um"
+msgstr ""
 
