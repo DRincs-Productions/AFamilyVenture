@@ -117,9 +117,9 @@ translate spanish strings:
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
     new "Las opciones en este menú están destinadas a mejorar la accesibilidad. Es posible que no funcionen con todos los juegos, y algunas combinaciones de opciones pueden hacer que el juego no se pueda jugar. Esto no es un problema con el juego o el motor. Para obtener los mejores resultados al cambiar las fuentes, intenta mantener el tamaño del texto igual al original."
 
-    # renpy/common/00accessibility.rpy:229
-    old "Return"
-    new "Volver"
+    # # renpy/common/00accessibility.rpy:229
+    # old "Return"
+    # new "Volver"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"

@@ -117,9 +117,9 @@ translate french strings:
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
     new "Les options de ce menu ont pour objectif d'augmenter l'accessibilité. Elles peuvent ne pas fonctionner sur tous les jeux, et certaines combinations d'options peuvent rendre le jeu injouable. Le problème ne vient pas du jeu ou du moteur. Pour de meilleurs résultats en changeant la police, essayez de maintenir le texte de la même taille qu'avant."
 
-    # renpy/common/00accessibility.rpy:229
-    old "Return"
-    new "Retour"
+    # # renpy/common/00accessibility.rpy:229
+    # old "Return"
+    # new "Retour"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"

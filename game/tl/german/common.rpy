@@ -117,9 +117,9 @@ translate german strings:
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
     new "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
 
-    # renpy/common/00accessibility.rpy:229
-    old "Return"
-    new "Zurück"
+    # # renpy/common/00accessibility.rpy:229
+    # old "Return"
+    # new "Zurück"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
