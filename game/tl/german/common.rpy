@@ -85,9 +85,9 @@ translate german strings:
     old "Enable"
     new "Enable"
 
-    # renpy/common/00accessibility.rpy:186
-    old "Disable"
-    new "Disable"
+    # # renpy/common/00accessibility.rpy:186
+    # old "Disable"
+    # new "Disable"
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing"
@@ -801,9 +801,9 @@ translate german strings:
     old "slideshow"
     new "slideshow"
 
-    # renpy/common/00gallery.rpy:650
-    old "return"
-    new "zurück"
+    # # renpy/common/00gallery.rpy:650
+    # old "return"
+    # new "zurück"
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
@@ -837,17 +837,17 @@ translate german strings:
     old "Force GLES2 Renderer"
     new "Force GLES2 Renderer"
 
-    # renpy/common/00gltest.rpy:132
-    old "Gamepad"
-    new "Gamepad"
+    # # renpy/common/00gltest.rpy:132
+    # old "Gamepad"
+    # new "Gamepad"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
     new "Enable (No Blocklist)"
 
-    # renpy/common/00gltest.rpy:150
-    old "Calibrate"
-    new "Calibrate"
+    # # renpy/common/00gltest.rpy:150
+    # old "Calibrate"
+    # new "Calibrate"
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"

@@ -85,9 +85,9 @@ translate french strings:
     old "Enable"
     new "Active"
 
-    # renpy/common/00accessibility.rpy:186
-    old "Disable"
-    new "Désactivé"
+    # # renpy/common/00accessibility.rpy:186
+    # old "Disable"
+    # new "Désactivé"
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing"
@@ -801,9 +801,9 @@ translate french strings:
     old "slideshow"
     new "diaporama"
 
-    # renpy/common/00gallery.rpy:650
-    old "return"
-    new "retour"
+    # # renpy/common/00gallery.rpy:650
+    # old "return"
+    # new "retour"
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
@@ -837,17 +837,17 @@ translate french strings:
     old "Force GLES2 Renderer"
     new "Forcer le moteur de rendu GLES2"
 
-    # renpy/common/00gltest.rpy:132
-    old "Gamepad"
-    new "Manette"
+    # # renpy/common/00gltest.rpy:132
+    # old "Gamepad"
+    # new "Manette"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
     new "Activer (Sans Blocklist)"
 
-    # renpy/common/00gltest.rpy:150
-    old "Calibrate"
-    new "Calibrage"
+    # # renpy/common/00gltest.rpy:150
+    # old "Calibrate"
+    # new "Calibrage"
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"

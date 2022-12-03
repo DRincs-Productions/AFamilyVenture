@@ -85,9 +85,9 @@ translate spanish strings:
     old "Enable"
     new "Activar"
 
-    # renpy/common/00accessibility.rpy:186
-    old "Disable"
-    new "Desactivar"
+    # # renpy/common/00accessibility.rpy:186
+    # old "Disable"
+    # new "Desactivar"
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing"
@@ -801,9 +801,9 @@ translate spanish strings:
     old "slideshow"
     new "presentación"
 
-    # renpy/common/00gallery.rpy:650
-    old "return"
-    new "volver"
+    # # renpy/common/00gallery.rpy:650
+    # old "return"
+    # new "volver"
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
@@ -837,17 +837,17 @@ translate spanish strings:
     old "Force GLES2 Renderer"
     new "Forzar renderizador GLES2"
 
-    # renpy/common/00gltest.rpy:132
-    old "Gamepad"
-    new "Mando"
+    # # renpy/common/00gltest.rpy:132
+    # old "Gamepad"
+    # new "Mando"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
     new "Habilitar (sin Blocklist)"
 
-    # renpy/common/00gltest.rpy:150
-    old "Calibrate"
-    new "Calibrar"
+    # # renpy/common/00gltest.rpy:150
+    # old "Calibrate"
+    # new "Calibrar"
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"
@@ -1001,9 +1001,9 @@ translate spanish strings:
     old "Reloads the game from disk, saving and restoring game state if possible."
     new "Recarga el juego desde el disco, guardando y restaurando la partida si es posible."
 
-    # renpy/common/_errorhandling.rpym:637
-    old "Console"
-    new "Consola"
+    # # renpy/common/_errorhandling.rpym:637
+    # old "Console"
+    # new "Consola"
 
     # renpy/common/_errorhandling.rpym:639
     old "Opens a console to allow debugging the problem."
