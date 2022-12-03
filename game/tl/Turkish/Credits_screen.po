@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-12-03 09:20\n"
+"PO-Revision-Date: 2022-12-03 16:24\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # §translate crowdin strings: #|#|# # game/Credits_screen.rpy:57
 msgid "                               Credits"
@@ -123,7 +123,8 @@ msgstr ""
 # game/Credits_screen.rpy:189
 msgid "\n"
 "{b}{i}My Family:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Ailem:{/i}{/b} \n"
 
 # game/Credits_screen.rpy:191
 msgid "Alex#17bc64b8"
