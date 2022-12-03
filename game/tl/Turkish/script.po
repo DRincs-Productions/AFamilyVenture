@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-12-02 19:29\n"
+"PO-Revision-Date: 2022-12-03 09:23\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/script.rpy:320 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -8648,6 +8648,7 @@ msgstr "[_RT_] {i}Kontrolden çıktım.... belki de yardım almalıyım? Hayır,
 msgid "[_RT_] {i}Now I better get out of here before she notices me.{/i}"
 msgstr "[_RT_] {i}Şimdi o beni fark etmeden buradan gitsem iyi olacak.{/i}"
 
+# §translate crowdin strings: #|#|# # game/script.rpy:321
 msgid "Would you like to see the tutorial?"
 msgstr "Öğretiyici görmek ister misiniz?"
 
