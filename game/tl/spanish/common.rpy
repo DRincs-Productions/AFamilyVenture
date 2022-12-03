@@ -301,17 +301,17 @@ translate spanish strings:
     old "File page [text]"
     new "Página de archivos [text]"
 
-    # renpy/common/00action_file.rpy:639
-    old "Page {}"
-    new "Página {}"
+    # # renpy/common/00action_file.rpy:639
+    # old "Page {}"
+    # new "Página {}"
 
-    # renpy/common/00action_file.rpy:639
-    old "Automatic saves"
-    new "Grabación automática"
+    # # renpy/common/00action_file.rpy:639
+    # old "Automatic saves"
+    # new "Grabación automática"
 
-    # renpy/common/00action_file.rpy:639
-    old "Quick saves"
-    new "Grabación rápida"
+    # # renpy/common/00action_file.rpy:639
+    # old "Quick saves"
+    # new "Grabación rápida"
 
     # renpy/common/00action_file.rpy:780
     old "Next file page."
@@ -781,9 +781,9 @@ translate spanish strings:
     old "Proceed"
     new "Continuar"
 
-    # renpy/common/00compat.rpy:371
-    old "Fullscreen"
-    new "Pantalla completa"
+    # # renpy/common/00compat.rpy:371
+    # old "Fullscreen"
+    # new "Pantalla completa"
 
     # renpy/common/00gallery.rpy:627
     old "Image [index] of [count] locked."

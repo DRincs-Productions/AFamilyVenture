@@ -301,17 +301,17 @@ translate french strings:
     old "File page [text]"
     new "Page [text]"
 
-    # renpy/common/00action_file.rpy:639
-    old "Page {}"
-    new "Page {}"
+    # # renpy/common/00action_file.rpy:639
+    # old "Page {}"
+    # new "Page {}"
 
-    # renpy/common/00action_file.rpy:639
-    old "Automatic saves"
-    new "Sauvegardes automatiques"
+    # # renpy/common/00action_file.rpy:639
+    # old "Automatic saves"
+    # new "Sauvegardes automatiques"
 
-    # renpy/common/00action_file.rpy:639
-    old "Quick saves"
-    new "Sauvegardes rapides"
+    # # renpy/common/00action_file.rpy:639
+    # old "Quick saves"
+    # new "Sauvegardes rapides"
 
     # renpy/common/00action_file.rpy:780
     old "Next file page."
@@ -781,9 +781,9 @@ translate french strings:
     old "Proceed"
     new "Continuer"
 
-    # renpy/common/00compat.rpy:371
-    old "Fullscreen"
-    new "Plein écran"
+    # # renpy/common/00compat.rpy:371
+    # old "Fullscreen"
+    # new "Plein écran"
 
     # renpy/common/00gallery.rpy:627
     old "Image [index] of [count] locked."
