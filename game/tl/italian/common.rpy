@@ -877,9 +877,9 @@ translate italian strings:
     old "Changes will take effect the next time this program is run."
     new "Le modifiche avranno effetto al prossimo avvio di questo programma."
 
-    # renpy/common/00gltest.rpy:214
-    old "Quit"
-    new "Esci"
+    # # renpy/common/00gltest.rpy:214
+    # old "Quit"
+    # new "Esci"
 
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"
@@ -1001,9 +1001,9 @@ translate italian strings:
     old "Reloads the game from disk, saving and restoring game state if possible."
     new "Ricarica il gioco dal disco, salvando e ripristinando lo stato di gioco se possibile."
 
-    # renpy/common/_errorhandling.rpym:637
-    old "Console"
-    new "Console"
+    # # renpy/common/_errorhandling.rpym:637
+    # old "Console"
+    # new "Console"
 
     # renpy/common/_errorhandling.rpym:639
     old "Opens a console to allow debugging the problem."
