@@ -1,18 +1,4 @@
-#     old ""
-#     ""
-# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-italian-Project: a-family-venture\n"
-# "X-italian-Project-ID: 492487\n"
-# "X-italian-Language: it\n"
-# "X-italian-File: /[DonRP.AFV] main/game/tl/italian/Brain_game.po\n"
-# "X-italian-File-ID: 1285\n"
-# "Project-Id-Version: a-family-venture\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: Italian\n"
-# "Language: it_IT\n"
-# "PO-Revision-Date: 2022-04-24 09:36\n"
-
-# TODO: Translation updated at 2022-04-23 HH:HH
+# TODO: Translation updated at 2022-12-01 22:29
 
 # game/Brain_game.rpy:599
 translate italian map_location_e011db0e:
@@ -47,5 +33,4 @@ translate italian strings:
     # game/Brain_game.rpy:519
     old "YOU WON!!!"
     new "HAI VINTO!!!"
-#--- "Ignore this. translate only: One"
 

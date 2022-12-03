@@ -1,18 +1,4 @@
-#     old ""
-#     ""
-# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-italian-Project: a-family-venture\n"
-# "X-italian-Project-ID: 492487\n"
-# "X-italian-Language: it\n"
-# "X-italian-File: /[DonRP.AFV] main/game/tl/italian/Cosplay_gallery.po\n"
-# "X-italian-File-ID: 1287\n"
-# "Project-Id-Version: a-family-venture\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: Italian\n"
-# "Language: it_IT\n"
-# "PO-Revision-Date: 2022-04-24 09:36\n"
-
-# TODO: Translation updated at 2022-04-23 HH:HH
+# TODO: Translation updated at 2022-12-01 22:29
 
 # game/Cosplay_gallery.rpy:1213
 translate italian cosplay_label_c1f386dd:
@@ -29,13 +15,13 @@ translate italian cosplay_label_16130f80:
 # game/Cosplay_gallery.rpy:1793
 translate italian supporters_income_photoshoot_26a16025:
 
-    # You were sponsored by a total of [var_total_supporters] supporters and earned $[var_earnings_from_supporters]!"
+    # "You were sponsored by a total of [var_total_supporters] supporters and earned $[var_earnings_from_supporters]!"
     "Sei stato sponsorizzato da un totale di [var_total_supporters] sostenitori e hai guadagnato $[var_earnings_from_supporters]!"
 
 # game/Cosplay_gallery.rpy:1798
 translate italian supporters_income_photoshoot_aa36c7f3:
 
-    # You have already withdrawn the money that you have earned this month!"
+    # "You have already withdrawn the money that you have earned this month!"
     "Hai già ritirato il denaro che hai guadagnato questo mese!"
 
 # game/Cosplay_gallery.rpy:1803
@@ -47,13 +33,13 @@ translate italian supporters_income_photoshoot_ed87ddab:
 # game/Cosplay_gallery.rpy:1822
 translate italian income_photoshoot_9eef3851:
 
-    # You have received [new_likes] new likes and earned $[income]!"
+    # "You have received [new_likes] new likes and earned $[income]!"
     "Hai ricevuto [new_likes] nuovi Mi piace e guadagnato $[income]!"
 
 # game/Cosplay_gallery.rpy:1827
 translate italian income_photoshoot_e4c275b3:
 
-    # You have already withdrawn the money that you have earned!"
+    # "You have already withdrawn the money that you have earned!"
     "Hai già ritirato il denaro che hai guadagnato!"
 
 # game/Cosplay_gallery.rpy:1832
@@ -151,5 +137,4 @@ translate italian strings:
     # game/Cosplay_gallery.rpy:1084
     old " {b}{color=#ffffff}Press to receive\n{size=18} monthly earnings:{/size}\n{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
     new " {b}{color=#ffffff}Premi per ricevere\n{size=18} guadagni mensili:{/size}\n{color=#00ff00}{outlinecolor=#000000}{size=16} $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
-#--- "Ignore this. translate only: One"
 

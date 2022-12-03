@@ -1,18 +1,4 @@
-#     old ""
-#     ""
-# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-italian-Project: a-family-venture\n"
-# "X-italian-Project-ID: 492487\n"
-# "X-italian-Language: it\n"
-# "X-italian-File: /[DonRP.AFV] main/game/tl/italian/New_inventory.po\n"
-# "X-italian-File-ID: 1299\n"
-# "Project-Id-Version: a-family-venture\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: Italian\n"
-# "Language: it_IT\n"
-# "PO-Revision-Date: 2022-04-24 09:36\n"
-
-# TODO: Translation updated at 2022-04-23 HH:HH
+# TODO: Translation updated at 2022-12-01 22:29
 
 translate italian strings:
 
@@ -88,16 +74,19 @@ translate italian strings:
     old "Third book in the Perry Hotter Series."
     new "Terzo libro della serie Perry Hotter."
 
-    # game/New_inventory.rpy:257
+    # game/New_inventory.rpy:245
+    old "I've got to keep replacing Mom's wine."
+    new "Devo continuare a sostituire il vino della mamma."
+
+    # game/New_inventory.rpy:258
     old "Money:$[money]"
     new "Denaro:$[money]"
 
-    # game/New_inventory.rpy:259
+    # game/New_inventory.rpy:260
     old "INVENTORY"
     new "INVENTARIO"
 
-    # game/New_inventory.rpy:291
+    # game/New_inventory.rpy:292
     old "[amount]"
     new "[amount]"
-#--- "Ignore this. translate only: One"
 
