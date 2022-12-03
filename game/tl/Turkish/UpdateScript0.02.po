@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-12-02 19:28\n"
+"PO-Revision-Date: 2022-12-03 09:22\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/UpdateScript0.02.rpy:10 #-#-# translate crowdin cosplaywakeme_8a3aa425:
 msgid "[_L_] See, it's like this almost every morning."
@@ -6212,6 +6212,7 @@ msgstr ""
 msgid "[_RT_] {i}{b}(HINT){/b} I need to keep \"Talking to Mom about the Oedipus assignment\" in her office. Is it me, or does she seem flushed when I come see her... maybe if I don't get distracted on the way, I can see what she's doing in there.{/i}"
 msgstr ""
 
+# §translate crowdin strings: #|#|# # game/UpdateScript0.02.rpy:249
 msgid "What will she do?"
 msgstr ""
 
