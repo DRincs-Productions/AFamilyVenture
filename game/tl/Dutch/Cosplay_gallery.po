@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2022-12-02 17:08\n"
+"PO-Revision-Date: 2022-12-03 09:20\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/Cosplay_gallery.rpy:1213 #-#-# translate crowdin cosplay_label_c1f386dd:
 msgid "[_RT_] {i}Yes... I have sold another pair of oufits for $[sold] more.{/i}"
@@ -76,6 +76,7 @@ msgstr ""
 msgid "[_RT_] {i}I hope we can sell more of them.{/i}"
 msgstr ""
 
+# §translate crowdin strings: #|#|# # game/Cosplay_gallery.rpy:562
 msgid "{color=#ffffff}{b}Supporters{/b}{/color}"
 msgstr ""
 
