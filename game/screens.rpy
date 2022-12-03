@@ -792,6 +792,7 @@ screen preferences():
                     textbutton "Español" action Language("spanish")
                     textbutton "Italiano" action Language("italian")
                     textbutton "Français" action Language("french")
+                    textbutton "Türkçe" action Language("turkish")
 
 
 
