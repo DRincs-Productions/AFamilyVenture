@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-12-02 19:27\n"
+"PO-Revision-Date: 2022-12-03 09:21\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/UpdateScript0.05.rpy:476 #-#-# translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -11608,6 +11608,7 @@ msgstr ""
 msgid "[_RT_] {i}{b}(HINT){/b}I need to visit Sidney at the club and find out everything I can. I should ask her every question that comes to mind.{/i}"
 msgstr ""
 
+# §translate crowdin strings: #|#|# # game/UpdateScript0.05.rpy:7
 msgid "Crazy Old Man"
 msgstr ""
 
