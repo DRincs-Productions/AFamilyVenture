@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2022-12-02 17:09\n"
+"PO-Revision-Date: 2022-12-03 09:21\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/Phone_event_screen.rpy:1071 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -1124,6 +1124,7 @@ msgstr ""
 msgid "End of tutorial."
 msgstr ""
 
+# §translate crowdin strings: #|#|# # game/Phone_event_screen.rpy:25
 msgid "[event_num]:     Complete"
 msgstr ""
 
