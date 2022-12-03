@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-02 22:41\n"
+"PO-Revision-Date: 2022-12-03 09:21\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/UpdateScript0.04.rpy:320 #-#-# translate crowdin get_sidney_modeling_68a39f05:
 msgid "[_RT_] {i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
@@ -13112,6 +13112,7 @@ msgstr "[_R_] K, e resterò e ripulirò un po', e ti vedrò presto!"
 msgid "[_S_] See ya later brother!"
 msgstr "[_S_] Vedi ya fratello più tardi!"
 
+# §translate crowdin strings: #|#|# # game/UpdateScript0.04.rpy:321
 msgid "Just leave her alone."
 msgstr "Lasciala in pace."
 
