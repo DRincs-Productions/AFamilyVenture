@@ -1,30 +1,38 @@
-# TODO: Translation updated at 2022-04-23 HH:HH# game/images/interface_images/minigame/Shower_Run_03_timed_event.rpy:125 ## translate italian Shower_Run03_game_start_lbl_3033e668:
+# TODO: Translation updated at 2022-12-03 11:46
 
-    # "[RT] {i}I can't even believe my luck.{/i}"
-    "[RT] {i}Non riesco nemmeno a credere alla mia fortuna.{/i}"
+# game/images/interface_images/minigame/Shower_Run_03_timed_event.rpy:125
+translate italian Shower_Run03_game_start_lbl_3033e668:
 
-# game/images/interface_images/minigame/Shower_Run_03_timed_event.rpy:137 ## translate italian Shower_Run03_game_end_lbl_d81943ed:
+    # RT "{i}I can't even believe my luck.{/i}"
+    RT "{i}Non posso credere alla mia fortuna."
 
-    # "[RT] {i}Thank God!... I made it!... And there's a clear path to the shower!{/i}"
-    "[RT] {i}Grazie Dio!... L'ho fatto!... E c'è un percorso chiaro per la doccia!{/i}"
+# game/images/interface_images/minigame/Shower_Run_03_timed_event.rpy:137
+translate italian Shower_Run03_game_end_lbl_d81943ed:
 
-# game/images/interface_images/minigame/Shower_Run_03_timed_event.rpy:142 ## translate italian Shower_Run03_game_end_lbl_e6a7c3df:
+    # RT "{i}Thank God!... I made it!... And there's a clear path to the shower!{/i}"
+    RT "{i}Grazie a Dio! Ce l'ho fatta! E c'è una via libera per la doccia!"
 
-    # "[RT] {i}Those swimmers have sexy bodies... I wish Kenzie had her suit off.{/i}"
-    "[RT] {i}Quei nuotatori hanno corpi sexy... Vorrei che Kenzie avesse il suo seme.{/i}"
+# game/images/interface_images/minigame/Shower_Run_03_timed_event.rpy:142
+translate italian Shower_Run03_game_end_lbl_e6a7c3df:
 
-# game/images/interface_images/minigame/Shower_Run_03_timed_event.rpy:143 ## translate italian Shower_Run03_game_end_lbl_7844f44d:
+    # RT "{i}Those swimmers have sexy bodies... I wish Kenzie had her suit off.{/i}"
+    RT "{i}Queste nuotatrici hanno corpi sexy... Vorrei che Kenzie si fosse tolta il costume."
 
-    # "[RT] {i}I've got to stop staring and focus on getting past them.{/i}"
-    "[RT] {i}Devo smettere di fissare e concentrarmi sul superarli.{/i}"
+# game/images/interface_images/minigame/Shower_Run_03_timed_event.rpy:143
+translate italian Shower_Run03_game_end_lbl_7844f44d:
 
-# game/images/interface_images/minigame/Shower_Run_03_timed_event.rpy:144 ## translate italian Shower_Run03_game_end_lbl_dfe2721c:
+    # RT "{i}I've got to stop staring and focus on getting past them.{/i}"
+    RT "{i}Devo smettere di fissarli e concentrarmi sul superarli.{/i}"
 
-    # "[RT] {i}Just a little further and I can turn left.{/i}"
-    "[RT] {i}Solo un po 'più lontano e posso girare a sinistra.{/i}"
+# game/images/interface_images/minigame/Shower_Run_03_timed_event.rpy:144
+translate italian Shower_Run03_game_end_lbl_dfe2721c:
 
-# game/images/interface_images/minigame/Shower_Run_03_timed_event.rpy:152 ## translate italian Shower_Run03_game_end_lbl_1d59b54d:
+    # RT "{i}Just a little further and I can turn left.{/i}"
+    RT "{i}Solo un pò più avanti e posso girare a sinistra.{/i}"
 
-    # "[R] Goddammit!"
-    "[R] Goddammit!"
+# game/images/interface_images/minigame/Shower_Run_03_timed_event.rpy:152
+translate italian Shower_Run03_game_end_lbl_1d59b54d:
+
+    # R "Goddammit!"
+    R "Goddammit!"
 
