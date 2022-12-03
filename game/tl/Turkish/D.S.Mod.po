@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-12-03 09:19\n"
+"PO-Revision-Date: 2022-12-03 17:27\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/Patreon_$5_Gallery/D.S.Mod.rpy:2269 #-#-# translate crowdin input_money_9c2e4d68:
 msgid "[_DS_] You added $[addmoney] and now have: $[money]."
@@ -23,7 +23,7 @@ msgstr "Tamam, yeni adınız: ({color=#0000CC}[ryan]{/color})."
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2332 #-#-# translate crowdin ds_change_name_mom_2e923a8a:
 msgid "[_DS_] Okay, her new name is: ({color=#0000CC}[mom_name]{/color})."
-msgstr "[_DS_] Tamam, yeni adınız: ({color=#0000CC}[mom_name]{/color})."
+msgstr "[_DS_] Tamam, yeni adı: ({color=#0000CC}[mom_name]{/color})."
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2348 #-#-# translate crowdin ds_change_name_Ryan_602ad794:
 msgid "[_DS_] Okay, your new name is: ({color=#0000CC}[ryan]{/color})."
