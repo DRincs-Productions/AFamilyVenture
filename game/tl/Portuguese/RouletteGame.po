@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2022-12-03 11:17\n"
+"PO-Revision-Date: 2022-12-03 13:00\n"
 
 # TODO: Translation updated at 2022-12-03 11:46 #|#|# # game/images/interface_images/Roulette/RouletteGame.rpy:607 #-#-# translate crowdin test_feb4bc5b:
 msgid "[betPickVar]"
-msgstr ""
+msgstr "[betPickVar]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:617 #-#-# translate crowdin gameTypeErrorCheck_be76e8b9:
 msgid "[_RLT_dealer_] Error: You haven't bet any amount of money.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Erro: Você não apostou nenhuma quantia em dinheiro. {w=3.0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:624 #-#-# translate crowdin gameTypeErrorCheck_76d464ef:
 msgid "[_RLT_dealer_] Error: With the Straight betting game you can pick any roulette number. Please supply a list of one number.{w=3.0}{nw} [withDissolve20]"
