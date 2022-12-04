@@ -28,7 +28,7 @@ translate turkish Shower_Run01_game_end_lbl_87277f79_1:
 translate turkish Shower_Run01_game_end_lbl_ba56d138:
 
     # RT "{i}Shit!... The cheerleaders are here again!{/i}"
-    ""
+    RT "{i}Kahretsin!.... Amigolar yine burada!{/i}"
 
 # game/images/interface_images/minigame/Shower_Run_01_timed_event.rpy:148
 translate turkish Shower_Run01_game_end_lbl_c5894761:

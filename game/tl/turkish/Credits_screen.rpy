@@ -100,7 +100,7 @@ translate turkish strings:
 
     # game/Credits_screen.rpy:189
     old "\n{b}{i}My Family:{/i}{/b} \n"
-    new ""
+    new "\n{b}{i}Ailem:{/i}{/b} \n"
 
     # game/Credits_screen.rpy:191
     old "Alex#17bc64b8"

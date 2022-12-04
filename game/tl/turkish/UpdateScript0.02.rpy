@@ -700,7 +700,7 @@ translate turkish checkforlikes_0e15c0c6:
 translate turkish checkforlikes_e82f728d:
 
     # L "Thanks, [ryan]!"
-    ""
+    L "Teşekkürler [ryan]!"
 
 # game/UpdateScript0.02.rpy:232
 translate turkish checkforlikes_2a1c2d04:
