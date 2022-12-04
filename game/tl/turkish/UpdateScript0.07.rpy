@@ -13936,7 +13936,7 @@ translate turkish actual_election_de223ed4:
 translate turkish actual_election_e82f728d:
 
     # L "Thanks, [ryan]!"
-    ""
+    L "Teşekkürler [ryan]!"
 
 # game/UpdateScript0.07.rpy:6192
 translate turkish actual_election_ecbae356:
@@ -26668,7 +26668,7 @@ translate turkish talk_to_megan_47e57a29:
 translate turkish talk_to_megan_7d8d11b5:
 
     # MG "Thanks, [ryan]!"
-    ""
+    MG "Teşekkürler [ryan]!"
 
 # game/UpdateScript0.07.rpy:11156
 translate turkish talk_to_megan_ff64b69d_2:

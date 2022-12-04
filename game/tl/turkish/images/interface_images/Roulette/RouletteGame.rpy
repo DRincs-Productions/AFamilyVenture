@@ -172,7 +172,7 @@ translate turkish lblCheckRoll_38a91ca2_4:
 translate turkish lblCheckRoll_f11f7ab8:
 
     # RLT_dealer "The payout is 6 to 1, so you won $[payout]!{w=3.0}{nw}"
-    ""
+    RLT_dealer "Ödeme 6'e 1'dir, yani $[payout] kazandınız!{w=3.0}{nw} [withDissolve"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:809
 translate turkish lblCheckRoll_bf9f0393_4:
@@ -190,7 +190,7 @@ translate turkish lblCheckRoll_38a91ca2_5:
 translate turkish lblCheckRoll_bf6213fd:
 
     # RLT_dealer "The payout is 5 to 1, so you won $[payout]!{w=3.0}{nw}"
-    ""
+    RLT_dealer "Ödeme 5'e 1'dir, yani $[payout] kazandınız!{w=3.0}{nw} [withDissolve"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:823
 translate turkish lblCheckRoll_bf9f0393_5:
@@ -256,19 +256,19 @@ translate turkish strings:
 
     # game/images/interface_images/Roulette/RouletteGame.rpy:236
     old "Croupier"
-    new ""
+    new "Krupiye"
 
     # game/images/interface_images/Roulette/RouletteGame.rpy:338
     old "Do you want to play the Roulette?"
-    new ""
+    new "Rulet oynamak ister misin?"
 
     # game/images/interface_images/Roulette/RouletteGame.rpy:356
     old "What type of game do you want to play?"
-    new ""
+    new "Ne tür bir oyun oynamak istiyorsunuz?"
 
     # game/images/interface_images/Roulette/RouletteGame.rpy:571
     old "Game type: [betType]\nYou bet on: [playerPiked]"
-    new ""
+    new "Oyun türü: [betType]\nÜzerine bahis oynarsınız: [playerPiked]"
 
     # game/images/interface_images/Roulette/RouletteGame.rpy:603
     old "Do you want to leave the Roulette game?"

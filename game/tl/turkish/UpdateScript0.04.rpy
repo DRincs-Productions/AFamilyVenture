@@ -18712,7 +18712,7 @@ translate turkish wr_gape_94a367d5:
 translate turkish wr_gape_e043f50a:
 
     # R ".... Yeah.... of course!..."
-    ""
+    R ".... Evet!.... Tabii ki!..."
 
 # game/UpdateScript0.04.rpy:6418
 translate turkish wr_gape_2b231f84:

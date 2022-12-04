@@ -11626,7 +11626,7 @@ translate turkish prison_fashion_show_2c167c04:
 translate turkish prison_fashion_show_b4e9b02c:
 
     # M "Thanks, [ryan]!"
-    ""
+    M "Teşekkürler [ryan]!"
 
 # game/UpdateScript0.08.rpy:4845
 translate turkish prison_fashion_show_68f9f9ad:

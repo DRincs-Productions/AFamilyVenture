@@ -16,13 +16,13 @@ translate turkish Shower_Run02_game_start_lbl_5c071e92:
 translate turkish Shower_Run02_game_start_lbl_0480f1ff:
 
     # RT "{i}I've got it this time.{/i}"
-    ""
+    RT "{i}Bu sefer anladım"
 
 # game/images/interface_images/minigame/Shower_Run_02_timed_event.rpy:130
 translate turkish Shower_Run02_game_start_lbl_93504167:
 
     # RT "{i}At least I get to sneak another peek.{/i}"
-    ""
+    RT "{i}En azından bir göz daha atabiliyorum. {/i}"
 
 # game/images/interface_images/minigame/Shower_Run_02_timed_event.rpy:143
 translate turkish Shower_Run02_game_end_lbl_87277f79:
@@ -46,7 +46,7 @@ translate turkish Shower_Run02_game_end_lbl_87277f79_1:
 translate turkish Shower_Run02_game_end_lbl_cb3dfaa4:
 
     # RT "{i}Damnit!... The swim team again? I've got the worst luck!{/i}"
-    ""
+    RT "{i}Kahretsin! Yine mi yüzme takımı? Çok şanssızım"
 
 # game/images/interface_images/minigame/Shower_Run_02_timed_event.rpy:153
 translate turkish Shower_Run02_game_end_lbl_ada0e35b:

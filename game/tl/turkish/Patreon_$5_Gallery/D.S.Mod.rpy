@@ -17,7 +17,7 @@ translate turkish change_names_34819df8:
 translate turkish ds_change_name_mom_2e923a8a:
 
     # DS "Okay, her new name is: ({color=#0000CC}[mom_name]{/color})."
-    DS "Tamam, yeni adınız: ({color=#0000CC}[mom_name]{/color})."
+    DS "Tamam, yeni adı: ({color=#0000CC}[mom_name]{/color})."
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2348
 translate turkish ds_change_name_Ryan_602ad794:

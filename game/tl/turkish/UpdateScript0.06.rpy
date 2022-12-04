@@ -30706,7 +30706,7 @@ translate turkish ph_shoot_941a6b4d:
 translate turkish ph_shoot_7d8d11b5:
 
     # MG "Thanks, [ryan]!"
-    ""
+    MG "Teşekkürler [ryan]!"
 
 # game/UpdateScript0.06.rpy:11970
 translate turkish ph_shoot_b45b7209:
