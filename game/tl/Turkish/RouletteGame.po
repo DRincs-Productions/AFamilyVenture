@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-12-05 00:44\n"
+"PO-Revision-Date: 2022-12-05 08:54\n"
 
 # TODO: Translation updated at 2022-12-03 11:46 #|#|# # game/images/interface_images/Roulette/RouletteGame.rpy:607 #-#-# translate crowdin test_feb4bc5b:
 msgid "[betPickVar]"
@@ -200,5 +200,5 @@ msgstr "Oyun türü: [betType]\n"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:603
 msgid "Do you want to leave the Roulette game?"
-msgstr "Mevcut oyundan ayrılmak istiyor musunuz?"
+msgstr "Rulet oyunundan ayrılmak istiyor musunuz?"
 
