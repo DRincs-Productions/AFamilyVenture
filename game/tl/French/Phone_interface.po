@@ -10,19 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-17 06:53\n"
+"PO-Revision-Date: 2022-12-17 20:04\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/Phone_interface.rpy:271 #-#-# translate crowdin mafia_warning_f561667c:
 msgid "[_RT_] {i}I can't waste time right now, the DeCapos will be here any minute.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}je ne peux pas perdre de temps en ce moment, les DeCapos seront là d'un moment à l'autre.{/i}"
 
 # game/Phone_interface.rpy:276 #-#-# translate crowdin night_warning_48ae09e0:
 msgid "[_RT_] {i}It's night, I should go to sleep.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Il fait nuit, je devrais dormir.{/i}"
 
 # game/Phone_interface.rpy:281 #-#-# translate crowdin school_warning_1afbbf5b:
 msgid "[_RT_] {i}Right now I'm at School, I must first go home to advance time.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}En ce moment je suis à l’école, je dois d’abord rentrer à la maison pour avancer dans le temps.{/i}"
 
 # game/Phone_interface.rpy:286 #-#-# translate crowdin campaign_warning_88e99dc5:
 msgid "[_RT_] {i}I can't waist time. I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
