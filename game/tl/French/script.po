@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-16 18:47\n"
+"PO-Revision-Date: 2022-12-17 06:53\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/script.rpy:320 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -5954,7 +5954,7 @@ msgstr ""
 
 # game/script.rpy:7506 #-#-# translate crowdin classroommorning_2863d310:
 msgid "[_RT_] {i}I've heard they have an exciting announcement to start it off. I'd better make sure I'm in {b}Mom's class every Monday morning{/b} so I don't miss the announcements.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}j’ai entendu dire qu’ils ont une annonce excitante pour commencer. Je ferais mieux de m’assurer que je suis dans {b}la classe de maman tous les lundis matin{/b} pour ne pas manquer les annonces. {/i}"
 
 # game/script.rpy:7521 #-#-# translate crowdin classroommorning_22f8779a_1:
 msgid "[_M_] Okay class, let's pick up where we left off last time with our discussion on the Oedipus tragedy, and its influence today."
