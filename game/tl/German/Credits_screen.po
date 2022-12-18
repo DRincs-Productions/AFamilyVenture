@@ -10,109 +10,115 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-12-03 09:19\n"
+"PO-Revision-Date: 2022-12-18 10:32\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # §translate crowdin strings: #|#|# # game/Credits_screen.rpy:57
 msgid "                               Credits"
-msgstr ""
+msgstr "                               Kredite"
 
 # game/Credits_screen.rpy:62
 msgid " We would like to thank all the game developers that have accepted to let us use some of their creations in our game, also we'd like to thank our subscribestar/patreon supporters that make this game posible."
-msgstr ""
+msgstr " Wir möchten uns bei allen Spieleentwicklern bedanken, die uns erlaubt haben, einige ihrer Kreationen in unserem Spiel zu verwenden. Außerdem möchten wir uns bei unseren Abonnenten/Patreon-Unterstützern bedanken, die dieses Spiel möglich machen."
 
 # game/Credits_screen.rpy:69
 msgid "Game developers"
-msgstr ""
+msgstr "Spieleentwickler"
 
 # game/Credits_screen.rpy:147
 msgid "Subscribers/Patrons"
-msgstr ""
+msgstr "Abonnenten/Gönner"
 
 # game/Credits_screen.rpy:157
 msgid "\n"
 "{b}{i}Game Designer, Master Coder, Patch Creator, Gallery Guru:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Game Designer, Master Coder, Patch Creator, Gallery Guru:{/i}{/b} \n"
 
 # game/Credits_screen.rpy:159
 msgid "{a=https://www.patreon.com/DS_sama}{image=icon_patreon} D.S.-Sama{/a}"
-msgstr ""
+msgstr "{a=https://www.patreon.com/DS_sama}{image=icon_patreon} D.S.-Sama{/a}"
 
 # game/Credits_screen.rpy:161
 msgid "\n"
 "{b}{i}Game Coding, Android Specialist:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Spielecodierung, Android Spezialist:{/i}{/b} \n"
 
 # game/Credits_screen.rpy:163
 msgid "Cybeon"
-msgstr ""
+msgstr "Cybeon"
 
 # game/Credits_screen.rpy:165
 msgid "\n"
 "{b}{i}Ghost Writer, Image Creator, Render Farm, Face Card Designer:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Ghostwriter, Image Creator, Render Farm, Face Card Designer:{/i}{/b} \n"
 
 # game/Credits_screen.rpy:167
 msgid "Strenif"
-msgstr ""
+msgstr "Strenif"
 
 # game/Credits_screen.rpy:169
 msgid "\n"
 "{b}{i}Spelling and Grammar Editor:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Editor für Rechtschreibung und Grammatik:{/i}{/b} \n"
 
 # game/Credits_screen.rpy:171
 msgid "lapdragon"
-msgstr ""
+msgstr "lapdragon"
 
 # game/Credits_screen.rpy:173
 msgid "\n"
 "{b}{i}Game Writer, Coder, Images, Animations:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Game Writer, Coder, Bilder, Animationen:{/i}{/b} \n"
 
 # game/Credits_screen.rpy:175
 msgid "Will Tylor"
-msgstr ""
+msgstr "Wirst du"
 
 # game/Credits_screen.rpy:177
 msgid "\n"
 "{b}{i}My Family with Benefits:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}My Family with Benefits:{/i}{/b} \n"
 
 # game/Credits_screen.rpy:179
 msgid "DD0"
-msgstr ""
+msgstr "DD0"
 
 # game/Credits_screen.rpy:180
 msgid "fatfrogs"
-msgstr ""
+msgstr "fatfrogs"
 
 # game/Credits_screen.rpy:181
 msgid "Frayed80"
-msgstr ""
+msgstr "Frayed80"
 
 # game/Credits_screen.rpy:182
 msgid "Grub"
-msgstr ""
+msgstr "Grub"
 
 # game/Credits_screen.rpy:183
 msgid "hyperion72"
-msgstr ""
+msgstr "hyperion72"
 
 # game/Credits_screen.rpy:184
 msgid "Jtf1357"
-msgstr ""
+msgstr "Jtf1357"
 
 # game/Credits_screen.rpy:185
 msgid "kingkoopa"
-msgstr ""
+msgstr "kingkoopa"
 
 # game/Credits_screen.rpy:186
 msgid "Tarakis"
-msgstr ""
+msgstr "Tarakis"
 
 # game/Credits_screen.rpy:187
 msgid "Urqy"
-msgstr ""
+msgstr "Urqy"
 
 # game/Credits_screen.rpy:189
 msgid "\n"
@@ -121,67 +127,67 @@ msgstr ""
 
 # game/Credits_screen.rpy:191
 msgid "Alex#17bc64b8"
-msgstr ""
+msgstr "Alex#17bc64b8"
 
 # game/Credits_screen.rpy:192
 msgid "Bremen"
-msgstr ""
+msgstr "Bremen"
 
 # game/Credits_screen.rpy:193
 msgid "Cs in SC"
-msgstr ""
+msgstr "Cs in SC"
 
 # game/Credits_screen.rpy:194
 msgid "deadpool25"
-msgstr ""
+msgstr "deadpool25"
 
 # game/Credits_screen.rpy:195
 msgid "DerSucher81"
-msgstr ""
+msgstr "DerSucher81"
 
 # game/Credits_screen.rpy:196
 msgid "Drew G"
-msgstr ""
+msgstr "Drew G"
 
 # game/Credits_screen.rpy:197
 msgid "Elthaun"
-msgstr ""
+msgstr "Elthaun"
 
 # game/Credits_screen.rpy:198
 msgid "Imyourbuddy"
-msgstr ""
+msgstr "Imyourbuddy"
 
 # game/Credits_screen.rpy:199
 msgid "Joelmartinez86"
-msgstr ""
+msgstr "Joelmartinez86"
 
 # game/Credits_screen.rpy:200
 msgid "Lokki87"
-msgstr ""
+msgstr "Lokki87"
 
 # game/Credits_screen.rpy:201
 msgid "mikey"
-msgstr ""
+msgstr "mikey"
 
 # game/Credits_screen.rpy:202
 msgid "Mr. Grey"
-msgstr ""
+msgstr "Mr. Grey"
 
 # game/Credits_screen.rpy:203
 msgid "o5zbh"
-msgstr ""
+msgstr "o5zbh"
 
 # game/Credits_screen.rpy:204
 msgid "Raist2"
-msgstr ""
+msgstr "Raist2"
 
 # game/Credits_screen.rpy:205
 msgid "TheSearcher81"
-msgstr ""
+msgstr "TheSearcher81"
 
 # game/Credits_screen.rpy:206
 msgid "troy sale"
-msgstr ""
+msgstr "troy sale"
 
 # game/Credits_screen.rpy:208
 msgid "\n"
@@ -190,35 +196,35 @@ msgstr ""
 
 # game/Credits_screen.rpy:210
 msgid "Alec Cross"
-msgstr ""
+msgstr "Alec Cross"
 
 # game/Credits_screen.rpy:211
 msgid "Allen Ho"
-msgstr ""
+msgstr "Allen Ho"
 
 # game/Credits_screen.rpy:212
 msgid "AN SOS"
-msgstr ""
+msgstr "AN SOS"
 
 # game/Credits_screen.rpy:213
 msgid "AnarchAngel"
-msgstr ""
+msgstr "AnarchAngel"
 
 # game/Credits_screen.rpy:214
 msgid "Andrea Al***"
-msgstr ""
+msgstr "Andrea Al * **"
 
 # game/Credits_screen.rpy:215
 msgid "AnthonySa*****"
-msgstr ""
+msgstr "AnthonySa*****"
 
 # game/Credits_screen.rpy:216
 msgid "ArcAngl"
-msgstr ""
+msgstr "ArcAngl"
 
 # game/Credits_screen.rpy:217
 msgid "BaeScout83"
-msgstr ""
+msgstr "BaeScout83"
 
 # game/Credits_screen.rpy:218
 msgid "Bailey C****"
