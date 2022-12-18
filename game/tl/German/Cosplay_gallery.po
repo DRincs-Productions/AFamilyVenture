@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-12-03 09:19\n"
+"PO-Revision-Date: 2022-12-18 10:32\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/Cosplay_gallery.rpy:1213 #-#-# translate crowdin cosplay_label_c1f386dd:
 msgid "[_RT_] {i}Yes... I have sold another pair of oufits for $[sold] more.{/i}"
@@ -46,7 +46,7 @@ msgstr "[_RT_] {i}Ich muss bis zum Ende des Monats warten, um mein Geld abzuhebe
 
 # game/Cosplay_gallery.rpy:1846 #-#-# translate crowdin advertising_label_4491e190:
 msgid "[_RT_] {i}For only 5 bucks I'll get more likes. I should remember to do this daily.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Für nur 5 Mäuse bekomme ich mehr Likes. Ich sollte daran denken, das täglich zu tun {/i}"
 
 # game/Cosplay_gallery.rpy:1849 #-#-# translate crowdin advertising_label_15ea30e2:
 msgid "[_RT_] {i}I already advertised today.{/i}"
@@ -62,61 +62,64 @@ msgstr "[_RT_] {i}Ich sollte die Cosplay-Kostüme verkaufen {/i}"
 
 # game/Cosplay_gallery.rpy:1873 #-#-# translate crowdin outfits_sell_label_5cd5db5b:
 msgid "[_RT_] {i}There... all outfits have been put up for sale, now I'll just have to wait and see if they'll sell.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}So... alle Outfits sind zum Verkauf angeboten worden, jetzt muss ich nur noch abwarten, ob sie sich verkaufen.{/i}"
 
 # game/Cosplay_gallery.rpy:1879 #-#-# translate crowdin outfits_sell_label_b7c5d749:
 msgid "[_RT_] {i}I don't have anything to sell.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ich habe nichts zu verkaufen.{/i}"
 
 # game/Cosplay_gallery.rpy:1888 #-#-# translate crowdin outfit_info_488a37ce:
 msgid "[_RT_] {i} The first cosplay outfit that [outfit_nfo_name] wore on our first photoshoot.{/i}"
-msgstr ""
+msgstr "[_RT_] {i} Das erste Cosplay-Outfit, das [outfit_nfo_name] bei unserem ersten Fotoshooting trug {/i}"
 
 # game/Cosplay_gallery.rpy:1889 #-#-# translate crowdin outfit_info_d4afad73:
 msgid "[_RT_] {i}I hope we can sell more of them.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ich hoffe, wir können mehr davon verkaufen"
 
 # §translate crowdin strings: #|#|# # game/Cosplay_gallery.rpy:562
 msgid "{color=#ffffff}{b}Supporters{/b}{/color}"
-msgstr ""
+msgstr "{color=#ffffff}{b}Unterstützer{/b}{/color}"
 
 # game/Cosplay_gallery.rpy:566
 msgid "{color=#ffffff}{b}Advertising{/b}{/color}"
-msgstr ""
+msgstr "{color=#ffffff}{b}Unterstützer{/b}{/color}"
 
 # game/Cosplay_gallery.rpy:570
 msgid "{color=#ffffff}{b}Images\n"
 "Videos{/b}{/color}"
-msgstr ""
+msgstr "{color=#ffffff}{b}Unterstützer{/b}{/color}"
 
 # game/Cosplay_gallery.rpy:575
 msgid "{color=#ffffff}{b}Outfits{/b}{/color}"
-msgstr ""
+msgstr "{color=#ffffff}{b}Unterstützer{/b}{/color}"
 
 # game/Cosplay_gallery.rpy:581
 msgid "{color=#000000}{b}Likes: [total_likes]{/b}{/color}"
-msgstr ""
+msgstr "{color=#000000}{b}Gefällt mir: [total_likes]{/b}{/color}"
 
 # game/Cosplay_gallery.rpy:582
 msgid "{color=#ffffff}{b}Press to change \n"
 " likes to money{/b}{/color}"
-msgstr ""
+msgstr "{color=#ffffff}{b}Drücken Sie, um \n"
+" in Geld zu ändern{/b}{/color}"
 
 # game/Cosplay_gallery.rpy:709
 msgid "{color=#000000}{b}Sell{/b}{/color}"
-msgstr ""
+msgstr "{color=#000000}{b}Gefällt mir: {/b}{/color}"
 
 # game/Cosplay_gallery.rpy:710
 msgid "{color=#000000}{b}outfits{/b}{/color}"
-msgstr ""
+msgstr "{color=#000000}{b}Gefällt mir: {/b}{/color}"
 
 # game/Cosplay_gallery.rpy:1077
 msgid "{color=#ff0000}{b}Supporters: [var_total_supporters]{/b}{/color}"
-msgstr ""
+msgstr "{color=#ff0000}{b}Unterstützer: [var_total_supporters]{/b}{/color}"
 
 # game/Cosplay_gallery.rpy:1084
 msgid " {b}{color=#ffffff}Press to receive\n"
 "{size=18} monthly earnings:{/size}\n"
 "{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
-msgstr ""
+msgstr " {b}{color=#ffffff}Drücken Sie, um\n"
+"{size=18} monatliche Einnahmen zu erhalten:{/size}\n"
+"{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
 
