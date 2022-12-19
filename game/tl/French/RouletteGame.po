@@ -10,19 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-03 11:17\n"
+"PO-Revision-Date: 2022-12-19 12:32\n"
 
 # TODO: Translation updated at 2022-12-03 11:46 #|#|# # game/images/interface_images/Roulette/RouletteGame.rpy:607 #-#-# translate crowdin test_feb4bc5b:
 msgid "[betPickVar]"
-msgstr ""
+msgstr "[betPickVar]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:617 #-#-# translate crowdin gameTypeErrorCheck_be76e8b9:
 msgid "[_RLT_dealer_] Error: You haven't bet any amount of money.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Erreur: Vous n'avez misé aucune somme d'argent.{w=3.0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:624 #-#-# translate crowdin gameTypeErrorCheck_76d464ef:
 msgid "[_RLT_dealer_] Error: With the Straight betting game you can pick any roulette number. Please supply a list of one number.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Erreur : Avec le jeu de paris directs, vous pouvez choisir n’importe quel numéro de la roulette. Veuillez fournir un numéro. {w=3.0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:633 #-#-# translate crowdin gameTypeErrorCheck_fbac9fac:
 msgid "[_RLT_dealer_] Error: With the Split betting game you can pick any 2 (two) roulette numbers. Please supply a list of two different numbers.{w=3.0}{nw} [withDissolve20]"
