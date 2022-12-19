@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-19 09:22\n"
+"PO-Revision-Date: 2022-12-19 10:20\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/script.rpy:320 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -4438,7 +4438,7 @@ msgstr ""
 
 # game/script.rpy:6252 #-#-# translate crowdin laurenangryroom_6e20e2d8:
 msgid "[_L_] Thank you so much!"
-msgstr ""
+msgstr "[_L_] Merci beaucoup!"
 
 # game/script.rpy:6253 #-#-# translate crowdin laurenangryroom_e3882901:
 msgid "[_RT_] {i}Oh, wow.{/i}"
@@ -5878,7 +5878,7 @@ msgstr ""
 
 # game/script.rpy:7370 #-#-# translate crowdin schoolhallwaymorning_d5337759:
 msgid "[_RT_] {i}I'm going to be late for class if I don't hurry.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Je vais être en retard pour les cours si je ne me dépêche pas.{/i}"
 
 # game/script.rpy:7376 #-#-# translate crowdin schoolmorningweekend_aa22f048:
 msgid "There's no school on the weekend."
@@ -5886,7 +5886,7 @@ msgstr ""
 
 # game/script.rpy:7386 #-#-# translate crowdin schoolhallwayafternoon_379aa1ba:
 msgid "[_RT_] {i}Should I sit through another class, or find something else to do?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Dois-je suivre une autre classe ou trouver autre chose à faire?{/i}"
 
 # game/script.rpy:7392 #-#-# translate crowdin schoolafternoonweekend_aa22f048:
 msgid "There's no school on the weekend."
@@ -6530,11 +6530,11 @@ msgstr "[_MG_] Hahaha.... n'en parle pas ! Il suffit que Matt te doive d'autres 
 
 # game/script.rpy:8098 #-#-# translate crowdin girlslockersmorning_b5e65263:
 msgid "[_RT_] {i}What am I doing here? I could get in a lot of trouble if somebody sees me.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Qu'est-ce que je fais ici? Je pourrais avoir beaucoup d'ennuis si quelqu'un me voit.{/i}"
 
 # game/script.rpy:8105 #-#-# translate crowdin girlslockersafternoon_b5e65263:
 msgid "[_RT_] {i}What am I doing here? I could get in a lot of trouble if somebody sees me.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Qu'est-ce que je fais ici? Je pourrais avoir beaucoup d'ennuis si quelqu'un me voit.{/i}"
 
 # game/script.rpy:8121 #-#-# translate crowdin girllocker_38fdacbf:
 msgid "{b}{i}\"You have found the \"Three of Spades!\" Card!\"{/i}{/b}"
