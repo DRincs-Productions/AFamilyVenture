@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-17 06:53\n"
+"PO-Revision-Date: 2022-12-20 14:11\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # §translate crowdin strings: #|#|# # game/New_inventory.rpy:219
 msgid "Lauren's first cosplay outfit, you can sell it online to make money."
@@ -86,7 +86,7 @@ msgstr "Troisième livre de la série Perry Hotter."
 
 # game/New_inventory.rpy:245
 msgid "I've got to keep replacing Mom's wine."
-msgstr ""
+msgstr "Je dois continuer à remplacer le vin de maman."
 
 # game/New_inventory.rpy:258
 msgid "Money:$[money]"
@@ -98,5 +98,5 @@ msgstr "INVENTAIRE"
 
 # game/New_inventory.rpy:292
 msgid "[amount]"
-msgstr ""
+msgstr "[amount]"
 
