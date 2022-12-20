@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-20 15:06\n"
+"PO-Revision-Date: 2022-12-20 18:29\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/UpdateScriptHalloweenEvent.rpy:256 #-#-# translate crowdin halloween_event_start_36b1bdbb:
 msgid "{i}{b}(HINT){/b} Happy Halloween!{/i}"
@@ -538,19 +538,19 @@ msgstr "[_R_] Sidney!"
 
 # game/UpdateScriptHalloweenEvent.rpy:676 #-#-# translate crowdin found_sidney_inside_out_5e0c5e0c:
 msgid "[_S_] You can hear me again?"
-msgstr ""
+msgstr "[_S_] Tu peux encore m'entendre ?"
 
 # game/UpdateScriptHalloweenEvent.rpy:677 #-#-# translate crowdin found_sidney_inside_out_8703231e:
 msgid "[_S_] Help! The monster's back!"
-msgstr ""
+msgstr "[_S_] A l'aide ! Le monstre est de retour !"
 
 # game/UpdateScriptHalloweenEvent.rpy:678 #-#-# translate crowdin found_sidney_inside_out_50b6f003:
 msgid "[_R_] How do I get in?"
-msgstr ""
+msgstr "[_R_] Comment puis-je entrer ?"
 
 # game/UpdateScriptHalloweenEvent.rpy:679 #-#-# translate crowdin found_sidney_inside_out_3aa56c5e:
 msgid "[_S_] He pulled me in through the slime!"
-msgstr ""
+msgstr "[_S_] Il m'a tiré à travers la bave !"
 
 # game/UpdateScriptHalloweenEvent.rpy:688 #-#-# translate crowdin sidney_loyalty_path_332593de:
 msgid "[_R_] Sidney!"
@@ -582,31 +582,31 @@ msgstr "[_RT_] {i}Peut-être que je peux l'étaler dans une assez grande flaque 
 
 # game/UpdateScriptHalloweenEvent.rpy:706 #-#-# translate crowdin sidney_loyalty_path_e56f555c:
 msgid "[_S_] [ryan], Help! It's got me!"
-msgstr ""
+msgstr "[_S_] [ryan] Au secours ! Il m'a eu !"
 
 # game/UpdateScriptHalloweenEvent.rpy:709 #-#-# translate crowdin sidney_loyalty_path_30d12913:
 msgid "[_S_] Aaarch... Lerch..."
-msgstr ""
+msgstr "[_S_] Aaarch... Lerch..."
 
 # game/UpdateScriptHalloweenEvent.rpy:710 #-#-# translate crowdin sidney_loyalty_path_fee21543:
 msgid "[_ST_] {i}What does it want? What is it doing?"
-msgstr ""
+msgstr "[_ST_] {i}Que veut-il ? Que fait-il ?"
 
 # game/UpdateScriptHalloweenEvent.rpy:711 #-#-# translate crowdin sidney_loyalty_path_97a1fbb2:
 msgid "[_ST_] {i}Why is it shoving it's huge claw into my mouth!{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Pourquoi est-ce qu'il enfonce ses énormes griffes dans ma bouche!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:716 #-#-# translate crowdin sidney_loyalty_path_ffc68175:
 msgid "[_ST_] {i}Oh, that's disgusting!{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Oh, c'est dégoûtant!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:717 #-#-# translate crowdin sidney_loyalty_path_90d9cc7f:
 msgid "[_ST_] {i}No, no, please, noooo!{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Non, non, s'il vous plaît, noooonnn!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:720 #-#-# translate crowdin sidney_loyalty_path_cc88d953:
 msgid "[_S_] {i}(Gurgling and gagging sounds){/i}"
-msgstr ""
+msgstr "[_S_] {i}(Bruits de gargouillement et de déglutition){/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:725 #-#-# translate crowdin sidney_loyalty_path_072fe4ac:
 msgid "[_RT_] {i}Hold on Sidney! I'm coming!{/i}"
@@ -914,83 +914,83 @@ msgstr "[_R_] Non, non, non, non, putain non !"
 
 # game/UpdateScriptHalloweenEvent.rpy:989 #-#-# translate crowdin sidney_monster_path_efafc304:
 msgid "[_R_] Sidney, There isn't any slime on the mirror!"
-msgstr ""
+msgstr "[_R_] Sidney, il n'y a pas de bave sur le miroir !"
 
 # game/UpdateScriptHalloweenEvent.rpy:990 #-#-# translate crowdin sidney_monster_path_97382a00:
 msgid "[_S_] No!... There has to be!"
-msgstr ""
+msgstr "[_S_] Non !... Il doit y en avoir !"
 
 # game/UpdateScriptHalloweenEvent.rpy:993 #-#-# translate crowdin sidney_monster_path_9db76692:
 msgid "[_RT_] {i}Fuck!... This isn't working!... I can't get to her!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Putain !... Ca ne marche pas !... Je n'arrive pas à l'atteindre!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1003 #-#-# translate crowdin sidney_monster_path_e56f555c:
 msgid "[_S_] [ryan], Help! It's got me!"
-msgstr ""
+msgstr "[_S_] [ryan] Au secours ! Il m'a eu !"
 
 # game/UpdateScriptHalloweenEvent.rpy:1006 #-#-# translate crowdin sidney_monster_path_30d12913:
 msgid "[_S_] Aaarch... Lerch..."
-msgstr ""
+msgstr "[_S_] Aaarch... Lerch..."
 
 # game/UpdateScriptHalloweenEvent.rpy:1007 #-#-# translate crowdin sidney_monster_path_fee21543:
 msgid "[_ST_] {i}What does it want? What is it doing?"
-msgstr ""
+msgstr "[_ST_] {i}Que veut-il ? Que fait-il ?"
 
 # game/UpdateScriptHalloweenEvent.rpy:1008 #-#-# translate crowdin sidney_monster_path_97a1fbb2:
 msgid "[_ST_] {i}Why is it shoving it's huge claw into my mouth!{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Pourquoi est-ce qu'il enfonce ses énormes griffes dans ma bouche!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1009 #-#-# translate crowdin sidney_monster_path_49df8e69:
 msgid "[_ST_] {i}I don't think [ryan] can hear or see me anymore!{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Je ne pense pas que [ryan] puisse m'entendre ou me voir désormais!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1010 #-#-# translate crowdin sidney_monster_path_c3cbdd25:
 msgid "[_ST_] {i}He's got to find a way to save me!{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Il doit trouver un moyen de me sauver!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1015 #-#-# translate crowdin sidney_monster_path_ffc68175:
 msgid "[_ST_] {i}Oh, that's disgusting!{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Oh, c'est dégoûtant!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1016 #-#-# translate crowdin sidney_monster_path_90d9cc7f:
 msgid "[_ST_] {i}No, no, please, noooo!{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Non, non, s'il vous plaît, noooonnn!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1019 #-#-# translate crowdin sidney_monster_path_cc88d953:
 msgid "[_S_] {i}(Gurgling and gagging sounds){/i}"
-msgstr ""
+msgstr "[_S_] {i}(Bruits de gargouillement et de déglutition){/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1024 #-#-# translate crowdin sidney_monster_path_45a1d83c:
 msgid "[_ST_] {i}Whoa... Whatever that was, It's making me feel weird!{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Whoa... Quoi que ce soit, ça me fait me sentir bizarre!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1025 #-#-# translate crowdin sidney_monster_path_b45f73d8:
 msgid "[_ST_] {i}Oh, no! Not that! No! Was I pulled into a fucking Hentai movie?!{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Oh, non ! Pas ça ! Non ! Est-ce que j'ai été entraîné dans un putain de film Hentai?!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1031 #-#-# translate crowdin sidney_monster_path_fd78b84f:
 msgid "[_S_] This can't be happening!"
-msgstr ""
+msgstr "[_S_] Ça ne peut pas arriver!"
 
 # game/UpdateScriptHalloweenEvent.rpy:1037 #-#-# translate crowdin sidney_monster_path_86de225c:
 msgid "[_ST_] {i}No! I can't have monster penis in my pussy!{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Non ! Je ne peux pas avoir un pénis de monstre dans ma chatte!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1038 #-#-# translate crowdin sidney_monster_path_ea5f9936:
 msgid "[_ST_] {i}This has to be a dream!{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Ça doit être un rêve!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1039 #-#-# translate crowdin sidney_monster_path_0a874b77:
 msgid "[_ST_] {i}Fuck! This monster's cock is way bigger than anything I've ever taken!{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Putain ! La bite de ce monstre est bien plus grosse que tout ce que j'ai jamais pris!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1042 #-#-# translate crowdin sidney_monster_path_ff852290:
 msgid "[_ST_] {i}I'm not in a hentai movie! This could kill me!{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Je ne suis pas dans un film hentai ! Ca pourrait me tuer!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1043 #-#-# translate crowdin sidney_monster_path_1534a83b:
 msgid "[_ST_] {i}It hurts!{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Ca fait mal!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1044 #-#-# translate crowdin sidney_monster_path_0020db13:
 msgid "[_ST_] ...."
@@ -998,7 +998,7 @@ msgstr "[_ST_] ...."
 
 # game/UpdateScriptHalloweenEvent.rpy:1045 #-#-# translate crowdin sidney_monster_path_0ede3b4f:
 msgid "[_ST_] {i}And yet, it's strangely satisfying!.{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Et pourtant, c'est étrangement satisfaisant !.{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1048 #-#-# translate crowdin sidney_monster_path_e2dde2c4:
 msgid "[_ST_] {i}I'm getting exhausted! And I can't keep fighting like this for long.{/i}"
