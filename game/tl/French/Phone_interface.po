@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-17 20:04\n"
+"PO-Revision-Date: 2022-12-20 14:11\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/Phone_interface.rpy:271 #-#-# translate crowdin mafia_warning_f561667c:
 msgid "[_RT_] {i}I can't waste time right now, the DeCapos will be here any minute.{/i}"
@@ -30,7 +30,7 @@ msgstr "[_RT_] {i}je ne peux pas perdre de temps. J’ai besoin d’aller à l�
 
 # game/Phone_interface.rpy:291 #-#-# translate crowdin prison_warning_5ae78a21:
 msgid "[_RT_] {i}I can't waist time. I need to get ready to visit Dad in prison.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Je ne peux pas perdre de temps. Je dois me préparer à rendre visite à papa en prison.{/i}"
 
 # game/Phone_interface.rpy:512 #-#-# translate crowdin memes_time_skip_e011db0e:
 msgid "[_RT_] {i}School has ended, I must return home.{/i}"
