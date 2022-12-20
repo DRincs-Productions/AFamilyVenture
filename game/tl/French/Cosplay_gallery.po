@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-16 18:47\n"
+"PO-Revision-Date: 2022-12-20 11:10\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/Cosplay_gallery.rpy:1213 #-#-# translate crowdin cosplay_label_c1f386dd:
 msgid "[_RT_] {i}Yes... I have sold another pair of oufits for $[sold] more.{/i}"
@@ -22,11 +22,11 @@ msgstr "[_RT_] {i}je devrais vérifier si j’ai obtenu des likes et si je peux 
 
 # game/Cosplay_gallery.rpy:1793 #-#-# translate crowdin supporters_income_photoshoot_26a16025:
 msgid "You were sponsored by a total of [var_total_supporters] supporters and earned $[var_earnings_from_supporters]!"
-msgstr ""
+msgstr "Vous avez été parrainé par un total de [var_total_supporters] supporters et avez gagné[var_earnings_from_supporters]$ !"
 
 # game/Cosplay_gallery.rpy:1798 #-#-# translate crowdin supporters_income_photoshoot_aa36c7f3:
 msgid "You have already withdrawn the money that you have earned this month!"
-msgstr ""
+msgstr "Vous avez déjà retiré l’argent que vous avez gagné ce mois-ci!"
 
 # game/Cosplay_gallery.rpy:1803 #-#-# translate crowdin supporters_income_photoshoot_ed87ddab:
 msgid "[_RT_] {i}I must wait until the end of the month to withdraw my funds.{/i}"
@@ -34,11 +34,11 @@ msgstr "[_RT_] {i}je dois attendre la fin du mois pour retirer mes fonds. {/i}"
 
 # game/Cosplay_gallery.rpy:1822 #-#-# translate crowdin income_photoshoot_9eef3851:
 msgid "You have received [new_likes] new likes and earned $[income]!"
-msgstr ""
+msgstr "Vous avez reçu [new_likes] nouveaux likes et gagné[income]$ !"
 
 # game/Cosplay_gallery.rpy:1827 #-#-# translate crowdin income_photoshoot_e4c275b3:
 msgid "You have already withdrawn the money that you have earned!"
-msgstr ""
+msgstr "Vous avez déjà retiré l’argent que vous avez gagné!"
 
 # game/Cosplay_gallery.rpy:1832 #-#-# translate crowdin income_photoshoot_35500616:
 msgid "[_RT_] {i}I must wait until the end of the week to withdraw my funds.{/i}"
@@ -78,7 +78,7 @@ msgstr "[_RT_] {i}j’espère que nous pourrons en vendre davantage. {/i}"
 
 # §translate crowdin strings: #|#|# # game/Cosplay_gallery.rpy:562
 msgid "{color=#ffffff}{b}Supporters{/b}{/color}"
-msgstr ""
+msgstr "{color=#ffffff}{b}Supporters{/b}{/color}"
 
 # game/Cosplay_gallery.rpy:566
 msgid "{color=#ffffff}{b}Advertising{/b}{/color}"
@@ -96,7 +96,7 @@ msgstr "{color=#ffffff}{b}Tenues{/b}{/color}"
 
 # game/Cosplay_gallery.rpy:581
 msgid "{color=#000000}{b}Likes: [total_likes]{/b}{/color}"
-msgstr ""
+msgstr "{color=#000000}{b}Likes: [total_likes]{/b}{/color}"
 
 # game/Cosplay_gallery.rpy:582
 msgid "{color=#ffffff}{b}Press to change \n"
@@ -114,7 +114,7 @@ msgstr "{color=#000000}{b}tenues{/b}{/color}"
 
 # game/Cosplay_gallery.rpy:1077
 msgid "{color=#ff0000}{b}Supporters: [var_total_supporters]{/b}{/color}"
-msgstr ""
+msgstr "{color=#ff0000}{b}Supporters: [var_total_supporters]{/b}{/color}"
 
 # game/Cosplay_gallery.rpy:1084
 msgid " {b}{color=#ffffff}Press to receive\n"
