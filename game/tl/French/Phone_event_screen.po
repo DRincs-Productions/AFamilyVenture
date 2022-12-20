@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-17 06:53\n"
+"PO-Revision-Date: 2022-12-20 11:10\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/Phone_event_screen.rpy:1071 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -1118,7 +1118,7 @@ msgstr "[_R_] Jusqu’à ce que je sois réveillé très tôt un jour, par un ap
 
 # game/Phone_event_screen.rpy:1969 #-#-# translate crowdin again_tutorial_dc7a84b6:
 msgid "[_R_] ...."
-msgstr ""
+msgstr "[_R_] ...."
 
 # game/Phone_event_screen.rpy:1972 #-#-# translate crowdin again_tutorial_076a53a8:
 msgid "End of tutorial."
