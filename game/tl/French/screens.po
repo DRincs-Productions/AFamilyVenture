@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-17 20:04\n"
+"PO-Revision-Date: 2022-12-20 15:06\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:265
 msgid "History"
@@ -22,7 +22,7 @@ msgstr "Ignorer"
 
 # game/screens.rpy:267
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 # game/screens.rpy:268
 msgid "Save"
@@ -86,7 +86,7 @@ msgstr "Retour"
 
 # game/screens.rpy:589
 msgid "Version [config.version!t]\n"
-msgstr ""
+msgstr "Version [config.version!t]\n"
 
 # game/screens.rpy:595
 msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
@@ -96,7 +96,7 @@ msgstr "Fait avec {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n
 
 # game/screens.rpy:635
 msgid "Page {}"
-msgstr ""
+msgstr "Page {}"
 
 # game/screens.rpy:635
 msgid "Automatic saves"
@@ -108,7 +108,7 @@ msgstr "Enregistrements rapides"
 
 # game/screens.rpy:677
 msgid "{#file_time}%A, %B %d %Y, %H:%M"
-msgstr ""
+msgstr "{#file_time}%A, %B %d %Y, %H:%M"
 
 # game/screens.rpy:677
 msgid "empty slot"
@@ -116,19 +116,19 @@ msgstr "emplacement vide"
 
 # game/screens.rpy:703
 msgid "<"
-msgstr ""
+msgstr "<"
 
 # game/screens.rpy:706
 msgid "{#auto_page}A"
-msgstr ""
+msgstr "{#auto_page}A"
 
 # game/screens.rpy:709
 msgid "{#quick_page}Q"
-msgstr ""
+msgstr "{#quick_page}Q"
 
 # game/screens.rpy:715
 msgid ">"
-msgstr ""
+msgstr ">"
 
 # game/screens.rpy:772
 msgid "Display"
@@ -168,7 +168,7 @@ msgstr "Après les choix"
 
 # game/screens.rpy:788
 msgid "Transitions"
-msgstr ""
+msgstr "Transitions"
 
 # game/screens.rpy:792
 msgid "Navigation settings"
@@ -196,7 +196,7 @@ msgstr "Volume du son"
 
 # game/screens.rpy:880
 msgid "Test"
-msgstr ""
+msgstr "Test"
 
 # game/screens.rpy:884
 msgid "Voice Volume"
@@ -256,7 +256,7 @@ msgstr "Accéder au menu du jeu."
 
 # game/screens.rpy:1126
 msgid "Ctrl"
-msgstr ""
+msgstr "Ctrl"
 
 # game/screens.rpy:1127
 msgid "Skips dialogue while held down."
@@ -338,7 +338,7 @@ msgstr "Bouton de droite"
 
 # game/screens.rpy:1193
 msgid "D-Pad, Sticks"
-msgstr ""
+msgstr "Croix directionnelle, Joystick"
 
 # game/screens.rpy:1197
 msgid "Start, Guide"
