@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-21 13:33\n"
+"PO-Revision-Date: 2022-12-21 15:03\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/UpdateScript0.05.rpy:476 #-#-# translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -11198,7 +11198,7 @@ msgstr "[_S_] Je ne le sens tout simplement pas ce soir."
 
 # game/UpdateScript0.05.rpy:6633 #-#-# translate crowdin club_fun_852315bd:
 msgid "{i}\"Sidney's libido must be at least 7+ to have fun with Sidney.\"{/i}"
-msgstr ""
+msgstr "{i}'La libido de Sidney doit être d'au moins 7 et plus pour s'amuser avec Sidney.'{/i}"
 
 # game/UpdateScript0.05.rpy:6634 #-#-# translate crowdin club_fun_b754a6cb:
 msgid "[_R_] Fine.... I'm already here anyways.... I might as well go watch the stripshow."
@@ -11634,7 +11634,7 @@ msgstr "Mme Stone"
 
 # game/UpdateScript0.05.rpy:13
 msgid "Armani"
-msgstr ""
+msgstr "Armani"
 
 # game/UpdateScript0.05.rpy:512
 msgid "I'm not going to miss this opportunity."
