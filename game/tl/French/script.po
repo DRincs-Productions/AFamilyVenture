@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-20 15:06\n"
+"PO-Revision-Date: 2022-12-21 11:25\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/script.rpy:320 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -3802,7 +3802,7 @@ msgstr "[_MT_] {i}Euh oh, je pense que ce câlin pourrait un peu trop exciter [r
 
 # game/script.rpy:5226 #-#-# translate crowdin mommorningweekend_3265e8ee:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Libido de maman +1»{/b}{/i}"
 
 # game/script.rpy:5230 #-#-# translate crowdin mommorningweekend_74f1049d:
 msgid "[_M_] Ok [ryan], why don't you run along."
