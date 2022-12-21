@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-21 13:33\n"
+"PO-Revision-Date: 2022-12-21 15:03\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/script.rpy:320 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -2694,7 +2694,7 @@ msgstr "[_M_] Oh mon Dieu, regardez tout le monde, Sidney est à la maison!"
 
 # game/script.rpy:4598 #-#-# translate crowdin sidneyenters_3af7a138:
 msgid "[_M_] It's so good to see you!"
-msgstr ""
+msgstr "[_M_] C'est si bon de te voir !"
 
 # game/script.rpy:4599 #-#-# translate crowdin sidneyenters_4c98659f:
 msgid "[_M_] How's everything going at school?"
@@ -4030,7 +4030,7 @@ msgstr "{i}{b}«Colère de maman +2»{/b}{/i}"
 
 # game/script.rpy:5575 #-#-# translate crowdin momangryroom_d1f9acd3:
 msgid "{i}\"You need higher affection to gift flowers.\"{/i}"
-msgstr ""
+msgstr "{i}'Vous avez besoin d'une plus grande affection pour offrir des fleurs.'{/i}"
 
 # game/script.rpy:5583 #-#-# translate crowdin momangryroom_1c730983:
 msgid "[_M_] Oh how sweet! I love them!"
@@ -4058,7 +4058,7 @@ msgstr "[_M_] Merci beaucoup!"
 
 # game/script.rpy:5592 #-#-# translate crowdin momangryroom_e3882901:
 msgid "[_RT_] {i}Oh, wow.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Oh, wow.{/i}"
 
 # game/script.rpy:5598 #-#-# translate crowdin momangryroom_4a9051d7:
 msgid "[_M_] Honey, I'm trying to get ready. Don't bother me anymore!"
@@ -4406,7 +4406,7 @@ msgstr "[_L_] Peut-être que la prochaine fois, essaies de penser à quelque cho
 
 # game/script.rpy:6234 #-#-# translate crowdin laurenangryroom_d49f35e4:
 msgid "{i}{b}\"Lauren's Affection -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}«Affection de Lauren -1»{/b}{/i}"
 
 # game/script.rpy:6235 #-#-# translate crowdin laurenangryroom_120bd643:
 msgid "{i}{b}\"Lauren's Anger +2\"{/b}{/i}"
@@ -4414,7 +4414,7 @@ msgstr "{i}{b}«Colère de lauren +2»{/b}{/i}"
 
 # game/script.rpy:6236 #-#-# translate crowdin laurenangryroom_d1f9acd3:
 msgid "{i}\"You need higher affection to gift flowers.\"{/i}"
-msgstr ""
+msgstr "{i}'Vous avez besoin d'une plus grande affection pour offrir des fleurs.'{/i}"
 
 # game/script.rpy:6244 #-#-# translate crowdin laurenangryroom_bb49b59c:
 msgid "[_L_] Oh my gosh! I love them!"
@@ -4442,7 +4442,7 @@ msgstr "[_L_] Merci beaucoup!"
 
 # game/script.rpy:6253 #-#-# translate crowdin laurenangryroom_e3882901:
 msgid "[_RT_] {i}Oh, wow.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Oh, wow.{/i}"
 
 # game/script.rpy:6259 #-#-# translate crowdin laurenangryroom_420fb78b:
 msgid "[_L_] OMG! You made me get up for that."
