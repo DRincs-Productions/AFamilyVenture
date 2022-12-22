@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-12-03 17:27\n"
+"PO-Revision-Date: 2022-12-05 00:44\n"
 
 # TODO: Translation updated at 2022-12-03 11:46 #|#|# # game/images/interface_images/blackjack/blackjack-DS.rpy:500 #-#-# translate crowdin startGameBJ_ddfcd22e:
 msgid "[_BJ_dealer_] I'll start dealing the cards!{w=2.0}{nw}"
@@ -26,7 +26,7 @@ msgstr "[_BJ_dealer_] Dağıtıcı Bust, $ kazandınız[betSum]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:594 #-#-# translate crowdin handCheckLabel_d1330db7:
 msgid "[_BJ_dealer_] Blackjack! The dealer also has blackjack, but you have insurance! You win $[betSum]!{w=2.0}{nw}"
-msgstr ""
+msgstr "[_BJ_dealer_] Blackjack! Satıcı da blackjack var, ama sigortam var! $[betSum] kazandınız! {w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:597 #-#-# translate crowdin handCheckLabel_f74531ea:
 msgid "[_BJ_dealer_] Blackjack! The dealer also has blackjack, so it's a push! You get your $[betSum] back!{w=2.0}{nw}"
@@ -38,7 +38,7 @@ msgstr "[_BJ_dealer_] Blackjack! Oyunu kazandınız, ödülünüz [betSum]!{w=2.
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:620 #-#-# translate crowdin handCheckLabel_4b09cedb:
 msgid "[_BJ_dealer_] Dealer has blackjack, but you have insurance! You make your bets back, $[betSum]!{w=2.0}{nw}"
-msgstr ""
+msgstr "[_BJ_dealer_] satıcısının blackjack var, ama sigortanız var! bahislerinizi geri kazanıyorsunuz,[betSum]$! {w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:623 #-#-# translate crowdin handCheckLabel_1d95a20c:
 msgid "[_BJ_dealer_] Dealer has blackjack! You lose the game and $[betSum]!{w=2.0}{nw}"
@@ -54,7 +54,7 @@ msgstr "[_BJ_dealer_] Oyunu ve $[betSum] kaybettiniz!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:658 #-#-# translate crowdin handCheckLabel_901a9a2d:
 msgid "[_BJ_dealer_] The dealer also has [computerScore], so it's a push! You get your $[betSum] back minus $[betIns] for insurance.{w=2.0}{nw}"
-msgstr ""
+msgstr "[Bj_dealer] Bayide ayrıca [computerScore] var, yani bir itme![betSum] dolarınızı geri alırsınız!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:660 #-#-# translate crowdin handCheckLabel_3615550f:
 msgid "[_BJ_dealer_] The dealer also has [computerScore], so it's a push! You get your $[betSum] back!{w=2.0}{nw}"
