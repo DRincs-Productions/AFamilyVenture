@@ -1432,7 +1432,7 @@ translate turkish nightly_sixtynine_2e4640a1:
 translate turkish nightly_sixtynine_971a98df:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:834
 translate turkish nightly_sixtynine_26744c39:
@@ -15064,7 +15064,7 @@ translate turkish removeshorts_7b7f7009:
 translate turkish removeshorts_971a98df:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:5386
 translate turkish removeshorts_61e1eba9:
@@ -15520,7 +15520,7 @@ translate turkish removeshirt_fbe931da:
 translate turkish removeshirt_971a98df:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:5525
 translate turkish removeshirt_eaab11ed:
@@ -15898,7 +15898,7 @@ translate turkish removeshirt_7b7f7009:
 translate turkish removeshirt_971a98df_1:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:5619
 translate turkish removeshirt_61e1eba9:
@@ -16402,7 +16402,7 @@ translate turkish showsidneytitties_fbe931da:
 translate turkish showsidneytitties_971a98df:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:5769
 translate turkish showsidneytitties_eaab11ed:
@@ -16774,7 +16774,7 @@ translate turkish showsidneytitties_7b7f7009:
 translate turkish showsidneytitties_971a98df_1:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:5856
 translate turkish showsidneytitties_61e1eba9:
@@ -17650,7 +17650,7 @@ translate turkish rippedundies_7b7f7009:
 translate turkish rippedundies_971a98df:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:6111
 translate turkish rippedundies_61e1eba9:
@@ -18058,7 +18058,7 @@ translate turkish wr_closeups_7b7f7009:
 translate turkish wr_closeups_971a98df:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:6227
 translate turkish wr_closeups_61e1eba9:
@@ -18262,7 +18262,7 @@ translate turkish wr_gape_08bc280c:
 translate turkish wr_gape_971a98df:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:6280
 translate turkish wr_gape_d3fa70f8:
@@ -18436,7 +18436,7 @@ translate turkish wr_gape_cabd229d:
 translate turkish wr_gape_971a98df_1:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:6344
 translate turkish wr_gape_16a249ae:
@@ -18652,7 +18652,7 @@ translate turkish wr_gape_9596bcab:
 translate turkish wr_gape_971a98df_2:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:6406
 translate turkish wr_gape_74e45c78:
@@ -19366,7 +19366,7 @@ translate turkish wr_gape_5cd12760:
 translate turkish wr_gape_971a98df_3:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:6669
 translate turkish wr_gape_caf54cc4:
@@ -19378,7 +19378,7 @@ translate turkish wr_gape_caf54cc4:
 translate turkish wr_gape_971a98df_4:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:6673
 translate turkish wr_gape_9b624be6:

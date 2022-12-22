@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: a-family-venture\n"
-# "X-french-Project-ID: 492487\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /[DonRP.AFV] main/game/tl/french/New_inventory.po\n"
-# "X-french-File-ID: 1299\n"
-# "Project-Id-Version: a-family-venture\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-04-28 09:22\n"
-
-# TODO: Translation updated at 2022-04-23 HH:HH
+# TODO: Translation updated at 2022-12-01 22:29
 
 translate french strings:
 
@@ -88,16 +74,19 @@ translate french strings:
     old "Third book in the Perry Hotter Series."
     new "Troisième livre de la série Perry Hotter."
 
-    # game/New_inventory.rpy:257
+    # game/New_inventory.rpy:245
+    old "I've got to keep replacing Mom's wine."
+    new "Je dois continuer à remplacer le vin de maman."
+
+    # game/New_inventory.rpy:258
     old "Money:$[money]"
     new "Argent: [money]$"
 
-    # game/New_inventory.rpy:259
+    # game/New_inventory.rpy:260
     old "INVENTORY"
     new "INVENTAIRE"
 
-    # game/New_inventory.rpy:291
+    # game/New_inventory.rpy:292
     old "[amount]"
     new "[amount]"
-#--- "Ignore this. translate only: One"
 

@@ -3382,7 +3382,7 @@ translate turkish sidney_search_7bd448f0:
 translate turkish sidney_search_1577b81e:
 
     # S "...."
-    ""
+    S "...."
 
 # game/UpdateScript0.05.rpy:1527
 translate turkish sidney_search_852e5841:
@@ -7018,7 +7018,7 @@ translate turkish reward_for_payment_81a2a53a:
 translate turkish reward_for_payment_ea75a6e4:
 
     # R "Mom!...."
-    ""
+    R "Anne!...."
 
 # game/UpdateScript0.05.rpy:2842
 translate turkish reward_for_payment_1f4bcbee:
@@ -10750,7 +10750,7 @@ translate turkish breakfast_events_acc4f3ed:
 translate turkish breakfast_events_a314db81:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.05.rpy:4285
 translate turkish breakfast_events_0093b117:
@@ -10822,7 +10822,7 @@ translate turkish breakfast_events_4e616e88:
 translate turkish breakfast_events_1577b81e:
 
     # S "...."
-    ""
+    S "...."
 
 # game/UpdateScript0.05.rpy:4317
 translate turkish breakfast_events_fe054e5b:
@@ -11080,7 +11080,7 @@ translate turkish breakfast_events_acc4f3ed_1:
 translate turkish breakfast_events_a314db81_1:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.05.rpy:4461
 translate turkish breakfast_events_0093b117_1:
@@ -11152,7 +11152,7 @@ translate turkish breakfast_events_4e616e88_1:
 translate turkish breakfast_events_1577b81e_1:
 
     # S "...."
-    ""
+    S "...."
 
 # game/UpdateScript0.05.rpy:4493
 translate turkish breakfast_events_fe054e5b_1:
@@ -14800,7 +14800,7 @@ translate turkish park_activities_5d6674e2:
 translate turkish park_activities_1577b81e:
 
     # S "...."
-    ""
+    S "...."
 
 # game/UpdateScript0.05.rpy:5718
 translate turkish park_activities_210f0c5d:
@@ -16666,7 +16666,7 @@ translate turkish money_chat_967e4276:
 translate turkish money_chat_1577b81e:
 
     # S "...."
-    ""
+    S "...."
 
 # game/UpdateScript0.05.rpy:6576
 translate turkish money_chat_efcb44dc_1:

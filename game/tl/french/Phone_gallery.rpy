@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: a-family-venture\n"
-# "X-french-Project-ID: 492487\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /[DonRP.AFV] main/game/tl/french/Phone_gallery.po\n"
-# "X-french-File-ID: 1309\n"
-# "Project-Id-Version: a-family-venture\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-04-28 09:22\n"
-
-# TODO: Translation updated at 2022-04-23 HH:HH
+# TODO: Translation updated at 2022-12-01 22:29
 
 translate french strings:
 
@@ -143,5 +129,16 @@ translate french strings:
     # game/Phone_gallery.rpy:493
     old "{image=images/interface_images/phone_screen_images/images_phone.png} Camille's room spy pic 06"
     new "{image=images/interface_images/phone_screen_images/images_phone.png} Photos espion dans la chambre de Camille 06"
-#--- "Ignore this. translate only: One"
+
+    # game/Phone_gallery.rpy:499
+    old "{image=images/interface_images/phone_screen_images/images_phone.png} Creepshot pic 07"
+    new "{image=images/interface_images/phone_screen_images/images_phone.png} Photo espion 07"
+
+    # game/Phone_gallery.rpy:505
+    old "{image=images/interface_images/phone_screen_images/images_phone.png} Creepshot pic 08"
+    new "{image=images/interface_images/phone_screen_images/images_phone.png} Photo espion 08"
+
+    # game/Phone_gallery.rpy:511
+    old "{image=images/interface_images/phone_screen_images/images_phone.png} Creepshot pic 09"
+    new "{image=images/interface_images/phone_screen_images/images_phone.png} Photo espion 09"
 

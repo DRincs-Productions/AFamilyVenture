@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: a-family-venture\n"
-# "X-french-Project-ID: 492487\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /[DonRP.AFV] main/game/tl/french/Cosplay_gallery.po\n"
-# "X-french-File-ID: 1287\n"
-# "Project-Id-Version: a-family-venture\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-04-28 09:21\n"
-
-# TODO: Translation updated at 2022-04-23 HH:HH
+# TODO: Translation updated at 2022-12-01 22:29
 
 # game/Cosplay_gallery.rpy:1213
 translate french cosplay_label_c1f386dd:
@@ -29,13 +15,13 @@ translate french cosplay_label_16130f80:
 # game/Cosplay_gallery.rpy:1793
 translate french supporters_income_photoshoot_26a16025:
 
-    # You were sponsored by a total of [var_total_supporters] supporters and earned $[var_earnings_from_supporters]!"
+    # "You were sponsored by a total of [var_total_supporters] supporters and earned $[var_earnings_from_supporters]!"
     "Vous avez été parrainé par un total de [var_total_supporters] supporters et avez gagné[var_earnings_from_supporters]$ !"
 
 # game/Cosplay_gallery.rpy:1798
 translate french supporters_income_photoshoot_aa36c7f3:
 
-    # You have already withdrawn the money that you have earned this month!"
+    # "You have already withdrawn the money that you have earned this month!"
     "Vous avez déjà retiré l’argent que vous avez gagné ce mois-ci!"
 
 # game/Cosplay_gallery.rpy:1803
@@ -47,13 +33,13 @@ translate french supporters_income_photoshoot_ed87ddab:
 # game/Cosplay_gallery.rpy:1822
 translate french income_photoshoot_9eef3851:
 
-    # You have received [new_likes] new likes and earned $[income]!"
+    # "You have received [new_likes] new likes and earned $[income]!"
     "Vous avez reçu [new_likes] nouveaux likes et gagné[income]$ !"
 
 # game/Cosplay_gallery.rpy:1827
 translate french income_photoshoot_e4c275b3:
 
-    # You have already withdrawn the money that you have earned!"
+    # "You have already withdrawn the money that you have earned!"
     "Vous avez déjà retiré l’argent que vous avez gagné!"
 
 # game/Cosplay_gallery.rpy:1832
@@ -151,5 +137,4 @@ translate french strings:
     # game/Cosplay_gallery.rpy:1084
     old " {b}{color=#ffffff}Press to receive\n{size=18} monthly earnings:{/size}\n{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
     new " {b}{color=#ffffff}Cliquez{size=18} gains mensuels:{/size}\n{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
-#--- "Ignore this. translate only: One"
 

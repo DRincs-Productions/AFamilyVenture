@@ -4972,7 +4972,7 @@ translate turkish commission_ph_outfit_b03ee2a6:
 translate turkish commission_ph_outfit_1577b81e:
 
     # S "...."
-    ""
+    S "...."
 
 # game/UpdateScript0.06.rpy:2672
 translate turkish commission_ph_outfit_15a4cd93:
@@ -5968,7 +5968,7 @@ translate turkish update_six_bfasts_2f1cf092:
 translate turkish update_six_bfasts_9993b94e:
 
     # L "..."
-    ""
+    L "..."
 
 # game/UpdateScript0.06.rpy:3002
 translate turkish update_six_bfasts_84b6ba1d:
@@ -6040,7 +6040,7 @@ translate turkish update_six_bfasts_e8609974:
 translate turkish update_six_bfasts_971a98df:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.06.rpy:3034
 translate turkish update_six_bfasts_f88ffa27:
@@ -6268,7 +6268,7 @@ translate turkish update_six_bfasts_2f1cf092_1:
 translate turkish update_six_bfasts_9993b94e_1:
 
     # L "..."
-    ""
+    L "..."
 
 # game/UpdateScript0.06.rpy:3165
 translate turkish update_six_bfasts_84b6ba1d_1:
@@ -6340,7 +6340,7 @@ translate turkish update_six_bfasts_e8609974_1:
 translate turkish update_six_bfasts_971a98df_1:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.06.rpy:3197
 translate turkish update_six_bfasts_f88ffa27_1:
@@ -49192,7 +49192,7 @@ translate turkish wr_sex_event_14f97bd1:
 translate turkish wr_sex_event_971a98df:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.06.rpy:17378
 translate turkish wr_sex_event_521e8ae4:
@@ -49204,7 +49204,7 @@ translate turkish wr_sex_event_521e8ae4:
 translate turkish wr_sex_event_971a98df_1:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.06.rpy:17382
 translate turkish wr_sex_event_9b624be6:

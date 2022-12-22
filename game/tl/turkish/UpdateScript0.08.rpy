@@ -16996,7 +16996,7 @@ translate turkish sexting_matt_ed3bec3e:
 translate turkish sexting_matt_a314db81:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.08.rpy:6671
 translate turkish sexting_matt_91aae13c:
@@ -17164,7 +17164,7 @@ translate turkish sexting_matt_c6eb71d8:
 translate turkish sexting_matt_a314db81_1:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.08.rpy:6708
 translate turkish sexting_matt_7f7e9bf4:

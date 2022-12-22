@@ -1,143 +1,129 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: a-family-venture\n"
-# "X-french-Project-ID: 492487\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /[DonRP.AFV] main/game/tl/french/Points_screen.po\n"
-# "X-french-File-ID: 1317\n"
-# "Project-Id-Version: a-family-venture\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-04-28 09:21\n"
 
-# TODO: Translation updated at 2022-04-23 HH:HH
+"Mom's stats:\n"# TODO: Translation updated at 2022-12-01 22:29
 
 translate french strings:
 
-    # game/Points_screen.rpy:115
+    # game/Points_screen.rpy:117
     old "Mom's stats:"
     new "Statistiques de Maman :"
 
-    # game/Points_screen.rpy:125
+    # game/Points_screen.rpy:127
     old "[momaffection]"
     new "[momaffection]"
 
-    # game/Points_screen.rpy:126
+    # game/Points_screen.rpy:128
     old "[momrespect]"
     new "[momrespect]"
 
-    # game/Points_screen.rpy:127
+    # game/Points_screen.rpy:129
     old "[momlibido]"
     new "[momlibido]"
 
-    # game/Points_screen.rpy:128
+    # game/Points_screen.rpy:130
     old "[momsubmission]"
     new "[momsubmission]"
 
-    # game/Points_screen.rpy:129
+    # game/Points_screen.rpy:131
     old "[momanger]"
     new "[momanger]"
 
-    # game/Points_screen.rpy:136
+    # game/Points_screen.rpy:138
     old "Lauren's stats:"
     new "Statistiques de Lauren:"
 
-    # game/Points_screen.rpy:145
+    # game/Points_screen.rpy:147
     old "[laurenaffection]"
     new "[laurenaffection]"
 
-    # game/Points_screen.rpy:146
+    # game/Points_screen.rpy:148
     old "[laurenrespect]"
     new "[laurenrespect]"
 
-    # game/Points_screen.rpy:147
+    # game/Points_screen.rpy:149
     old "[laurenlibido]"
     new "[laurenlibido]"
 
-    # game/Points_screen.rpy:148
+    # game/Points_screen.rpy:150
     old "[laurensubmission]"
     new "[laurensubmission]"
 
-    # game/Points_screen.rpy:149
+    # game/Points_screen.rpy:151
     old "[laurenanger]"
     new "[laurenanger]"
 
-    # game/Points_screen.rpy:156
+    # game/Points_screen.rpy:158
     old "Sidney's stats:"
     new "Statistiques de Sidney :"
 
-    # game/Points_screen.rpy:165
+    # game/Points_screen.rpy:167
     old "[sidneyaffection]"
     new "[sidneyaffection]"
 
-    # game/Points_screen.rpy:166
+    # game/Points_screen.rpy:168
     old "[sidneyrespect]"
     new "[sidneyrespect]"
 
-    # game/Points_screen.rpy:167
+    # game/Points_screen.rpy:169
     old "[sidneylibido]"
     new "[sidneylibido]"
 
-    # game/Points_screen.rpy:168
+    # game/Points_screen.rpy:170
     old "[sidneysubmission]"
     new "[sidneysubmission]"
 
-    # game/Points_screen.rpy:169
+    # game/Points_screen.rpy:171
     old "[sidneyanger]"
     new "[sidneyanger]"
 
-    # game/Points_screen.rpy:188
+    # game/Points_screen.rpy:190
     old "[auntaffection]"
     new "[auntaffection]"
 
-    # game/Points_screen.rpy:189
+    # game/Points_screen.rpy:191
     old "[auntrespect]"
     new "[auntrespect]"
 
-    # game/Points_screen.rpy:190
+    # game/Points_screen.rpy:192
     old "[auntlibido]"
     new "[auntlibido]"
 
-    # game/Points_screen.rpy:191
+    # game/Points_screen.rpy:193
     old "[auntsubmission]"
     new "[auntsubmission]"
 
-    # game/Points_screen.rpy:192
+    # game/Points_screen.rpy:194
     old "[auntanger]"
     new "[auntanger]"
 
-    # game/Points_screen.rpy:202
+    # game/Points_screen.rpy:204
     old "Mandy's stats:"
     new "Statistiques de Mandy:"
 
-    # game/Points_screen.rpy:211
+    # game/Points_screen.rpy:213
     old "[cousinaffection]"
     new "[cousinaffection]"
 
-    # game/Points_screen.rpy:212
+    # game/Points_screen.rpy:214
     old "[cousinrespect]"
     new "[cousinrespect]"
 
-    # game/Points_screen.rpy:213
+    # game/Points_screen.rpy:215
     old "[cousinlibido]"
     new "[cousinlibido]"
 
-    # game/Points_screen.rpy:214
+    # game/Points_screen.rpy:216
     old "[cousinsubmission]"
     new "[cousinsubmission]"
 
-    # game/Points_screen.rpy:215
+    # game/Points_screen.rpy:217
     old "[cousinanger]"
     new "[cousinanger]"
 
-    # game/Points_screen.rpy:217
+    # game/Points_screen.rpy:219
     old "<<"
     new "<<"
 
-    # game/Points_screen.rpy:228
+    # game/Points_screen.rpy:230
     old ">>"
     new ">>"
-#--- "Ignore this. translate only: One"
 

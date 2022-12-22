@@ -724,7 +724,7 @@ translate turkish diazvisit_5c05342c_1:
 translate turkish diazvisit_9993b94e:
 
     # L "..."
-    ""
+    L "..."
 
 # game/UpdateScript0.03.rpy:743
 translate turkish diazvisit_007e72e3:
@@ -2344,7 +2344,7 @@ translate turkish secondcosplayfitting_551269e3:
 translate turkish secondcosplayfitting_971a98df:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.03.rpy:1257
 translate turkish secondcosplayfitting_ce9c3fd8:

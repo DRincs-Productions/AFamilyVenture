@@ -3436,7 +3436,7 @@ translate turkish lounge_sex_c30a687f:
 translate turkish lounge_sex_9e561449:
 
     # L "Haha..."
-    ""
+    L "Haha..."
 
 # game/UpdateScript0.07.rpy:2153
 translate turkish lounge_sex_e0d0170d:
@@ -7804,7 +7804,7 @@ translate turkish breakfast_for_will_2f1cf092:
 translate turkish breakfast_for_will_9993b94e:
 
     # L "..."
-    ""
+    L "..."
 
 # game/UpdateScript0.07.rpy:4049
 translate turkish breakfast_for_will_84b6ba1d:
@@ -7876,7 +7876,7 @@ translate turkish breakfast_for_will_e8609974:
 translate turkish breakfast_for_will_971a98df:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.07.rpy:4081
 translate turkish breakfast_for_will_f88ffa27:
@@ -10822,7 +10822,7 @@ translate turkish finished_painting_cdb34e86:
 translate turkish finished_painting_ebf47662:
 
     # MS "...."
-    ""
+    MS "...."
 
 # game/UpdateScript0.07.rpy:5107
 translate turkish finished_painting_7abd877e:
@@ -11398,7 +11398,7 @@ translate turkish finished_painting_cdb34e86_1:
 translate turkish finished_painting_ebf47662_1:
 
     # MS "...."
-    ""
+    MS "...."
 
 # game/UpdateScript0.07.rpy:5294
 translate turkish finished_painting_7abd877e_1:
@@ -12934,7 +12934,7 @@ translate turkish finished_painting_2cee226b:
 translate turkish finished_painting_ebf47662_2:
 
     # MS "...."
-    ""
+    MS "...."
 
 # game/UpdateScript0.07.rpy:5776
 translate turkish finished_painting_86ffb6eb_1:
@@ -17986,7 +17986,7 @@ translate turkish shared_sex_1f239a1c:
 translate turkish shared_sex_9993b94e:
 
     # L "..."
-    ""
+    L "..."
 
 # game/UpdateScript0.07.rpy:7826
 translate turkish shared_sex_dec0faf3:
@@ -30862,7 +30862,7 @@ translate turkish campaign_headquarters_afternoon_1b70b35b:
 translate turkish campaign_headquarters_afternoon_a314db81:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.07.rpy:12803
 translate turkish campaign_headquarters_afternoon_7e218e55:
@@ -32728,7 +32728,7 @@ translate turkish best_polls_aftermath_7abf22c8:
 translate turkish best_polls_aftermath_a314db81:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.07.rpy:13475
 translate turkish best_polls_aftermath_35c603e3:
@@ -34852,7 +34852,7 @@ translate turkish best_polls_aftermath_82b7a6bd:
 translate turkish best_polls_aftermath_a314db81_1:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.07.rpy:14245
 translate turkish best_polls_aftermath_0e016c50_1:
@@ -35386,7 +35386,7 @@ translate turkish best_polls_aftermath_b4451c14:
 translate turkish best_polls_aftermath_a314db81_2:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.07.rpy:14457
 translate turkish best_polls_aftermath_e9f5808f:
@@ -36550,7 +36550,7 @@ translate turkish bad_polls_aftermath_1e899005:
 translate turkish bad_polls_aftermath_a314db81:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.07.rpy:14765
 translate turkish bad_polls_aftermath_8d58cb47:
@@ -36574,7 +36574,7 @@ translate turkish bad_polls_aftermath_ce8e3b0d:
 translate turkish bad_polls_aftermath_a314db81_1:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.07.rpy:14769
 translate turkish bad_polls_aftermath_6703f3d8:
@@ -40426,7 +40426,7 @@ translate turkish htbyd_fuck_a603e8bd:
 translate turkish htbyd_fuck_a314db81:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.07.rpy:16080
 translate turkish htbyd_fuck_222f51ba:
@@ -41182,7 +41182,7 @@ translate turkish htbyd_fuck_a603e8bd_1:
 translate turkish htbyd_fuck_a314db81_1:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.07.rpy:16306
 translate turkish htbyd_fuck_222f51ba_1:
@@ -41614,7 +41614,7 @@ translate turkish htbyd_fuck_12918519:
 translate turkish htbyd_fuck_a314db81_2:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.07.rpy:16465
 translate turkish htbyd_fuck_68be4f9c:
@@ -41872,7 +41872,7 @@ translate turkish htbyd_fuck_12918519_1:
 translate turkish htbyd_fuck_a314db81_3:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.07.rpy:16557
 translate turkish htbyd_fuck_68be4f9c_1:

@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: a-family-venture\n"
-# "X-french-Project-ID: 492487\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /[DonRP.AFV] main/game/tl/french/Booble_screen.po\n"
-# "X-french-File-ID: 1283\n"
-# "Project-Id-Version: a-family-venture\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-04-28 09:21\n"
-
-# TODO: Translation updated at 2022-04-23 HH:HH
+# TODO: Translation updated at 2022-12-01 22:29
 
 # game/Booble_screen.rpy:51
 translate french booble_search_f6ce98ce:
@@ -35,5 +21,4 @@ translate french strings:
     # game/Booble_screen.rpy:39
     old "{color=#ffffff}{b}cosplayheaven.cos cosplay site{/b}{/color}"
     new "{color=#ffffff}{b}cosplayheaven.cos site de cosplay{/b}{/color}"
-#--- "Ignore this. translate only: One"
 
