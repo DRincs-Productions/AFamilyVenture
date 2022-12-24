@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-12-24 14:54\n"
+"PO-Revision-Date: 2022-12-24 16:21\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/script.rpy:320 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -4198,7 +4198,7 @@ msgstr "[_RT_] {i}Kapı kilitli, Lauren giyiniyor olmalı. Keşke onu gözetleme
 
 # game/script.rpy:5940 #-#-# translate crowdin laurenatnight_a1954caa:
 msgid "[_RT_] {i}Huh... Mandy and Lauren aren't back from their convention yet. Or maybe they are spending the night with Mandy over at Uncle Bobby's house.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Huh... Mandy ve Lauren henüz kongreden dönmediler. Belki de geceyi Mandy ile Bobby Amca'nın evinde geçiriyorlardır.{/i}"
 
 # game/script.rpy:5946 #-#-# translate crowdin laurenatnight_ed872180:
 msgid "[_RT_] {i}Her door's still locked, and after what I just saw, I'm sure it won't be opening again until morning.{/i}"
