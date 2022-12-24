@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-12-05 08:56\n"
+"PO-Revision-Date: 2022-12-24 14:54\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/UpdateScript0.05.rpy:476 #-#-# translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -10610,7 +10610,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6243 #-#-# translate crowdin first_club_cum_6bf1c5f2:
 msgid "{b}{i}\"View this card in the gallery and the casino\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Galeride ve kasinoda bu kartı görüntüleyin\"{/i}{/b}"
 
 # game/UpdateScript0.05.rpy:6264 #-#-# translate crowdin first_club_cum_faaa387a:
 msgid "[_RT_] {i}{b}(HINT{/b}I need to visit Sidney while she's working at the club, maybe she'll have some time for a little more fun.{/i}"
