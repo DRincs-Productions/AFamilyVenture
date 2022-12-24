@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-12-24 14:54\n"
+"PO-Revision-Date: 2022-12-24 19:42\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/UpdateScript0.06.rpy:715 #-#-# translate crowdin move_in_day_31871088:
 msgid "[_RT_] {i}I... think I slept in... What time is it?{/i}"
@@ -798,7 +798,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:1082 #-#-# translate crowdin posting_ph_pics_2a5aa9f1:
 msgid "[_RT_] {i}Uploading the pictures now... and click submit... and now we just wait to see if anyone likes them.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Şimdi resimleri yüklüyorum... ve gönder'e tıklıyorum... ve şimdi sadece beğenen olup olmadığını görmek için bekliyoruz.{/i}"
 
 # game/UpdateScript0.06.rpy:1088 #-#-# translate crowdin posting_ph_pics_f35f728e:
 msgid "[_KT_] {i}Oh, my God! Is that Miss [mom_name] posing with Megan!?{/i}"
@@ -3934,7 +3934,7 @@ msgstr "[_R_] Sen her zaman doğru yapıyorsun."
 
 # game/UpdateScript0.06.rpy:2928 #-#-# translate crowdin update_six_bfasts_735f0028:
 msgid "[_M_] Ok... I guess I can do that."
-msgstr ""
+msgstr "[_M_] Tamam... Sanırım bunu yapabilirim."
 
 # game/UpdateScript0.06.rpy:2935 #-#-# translate crowdin update_six_bfasts_f830f74c:
 msgid "[_M_] There... how's that?"
@@ -4134,7 +4134,7 @@ msgstr "[_R_] Sen her zaman doğru yapıyorsun."
 
 # game/UpdateScript0.06.rpy:3091 #-#-# translate crowdin update_six_bfasts_735f0028_1:
 msgid "[_M_] Ok... I guess I can do that."
-msgstr ""
+msgstr "[_M_] Tamam... Sanırım bunu yapabilirim."
 
 # game/UpdateScript0.06.rpy:3098 #-#-# translate crowdin update_six_bfasts_f830f74c_1:
 msgid "[_M_] There... how's that?"
@@ -4590,7 +4590,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:3451 #-#-# translate crowdin aunt_angry_ce465d3d:
 msgid "[_C_] Maybe next time try to think of something a little less creepy."
-msgstr ""
+msgstr "[_C_] Belki bir dahaki sefere daha az korkunç bir şey düşünmeye çalışırsın."
 
 # game/UpdateScript0.06.rpy:3452 #-#-# translate crowdin aunt_angry_61f010f9:
 msgid "{i}{b}\"Aunt Camille's Affection -1\"{/b}{/i}"
@@ -9998,7 +9998,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:6327 #-#-# translate crowdin v_risky_dare_sequence_36e5bd82:
 msgid "[_R_] Like this?"
-msgstr ""
+msgstr "[_R_] Böyle mi?"
 
 # game/UpdateScript0.06.rpy:6331 #-#-# translate crowdin v_risky_dare_sequence_af9d0b85:
 msgid "[_MD_] I actually meant for you to rub it forward and back."
@@ -10654,7 +10654,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:6749 #-#-# translate crowdin mandy_angry_8e9ce409:
 msgid "[_RT_] {i}The door's locked. Mandy's pretty pissed off at me.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Kapı kilitli. Mandy bana çok kızdı.{/i}"
 
 # game/UpdateScript0.06.rpy:6754 #-#-# translate crowdin mandy_angry_3cc72377:
 msgid "[_MD_] What do you want, jerk?"
@@ -10666,7 +10666,7 @@ msgstr "[_MD_] Benim için bir şeyin mi var?"
 
 # game/UpdateScript0.06.rpy:6765 #-#-# translate crowdin mandy_angry_af2d1f83:
 msgid "[_MD_] Thank you, I love chocolate!"
-msgstr ""
+msgstr "[_MD_] Teşekkür ederim, çikolataya bayılırım!"
 
 # game/UpdateScript0.06.rpy:6766 #-#-# translate crowdin mandy_angry_9d198496:
 msgid "{i}{b}\"Mandy's Anger -2\"{/b}{/i}"
@@ -10674,7 +10674,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:6773 #-#-# translate crowdin mandy_angry_7a52c8b5:
 msgid "[_MD_] But this doesn't mean I'm not mad at you anymore. You acted like a jerk, and it's going to take me some more time to forgive you."
-msgstr ""
+msgstr "[_MD_] Ama bu artık sana kızgın olmadığım anlamına gelmiyor. Bir pislik gibi davrandın ve seni affetmem biraz daha zaman alacak."
 
 # game/UpdateScript0.06.rpy:6778 #-#-# translate crowdin mandy_angry_72e70b18:
 msgid "[_MD_] Thank you, [ryan]! It's hard to stay mad for very long at someone as sweet as you!"
@@ -10690,7 +10690,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:6792 #-#-# translate crowdin mandy_angry_7a52c8b5_1:
 msgid "[_MD_] But this doesn't mean I'm not mad at you anymore. You acted like a jerk, and it's going to take me some more time to forgive you."
-msgstr ""
+msgstr "[_MD_] Ama bu artık sana kızgın olmadığım anlamına gelmiyor. Bir pislik gibi davrandın ve seni affetmem biraz daha zaman alacak."
 
 # game/UpdateScript0.06.rpy:6797 #-#-# translate crowdin mandy_angry_72e70b18_1:
 msgid "[_MD_] Thank you, [ryan]! It's hard to stay mad for very long at someone as sweet as you!"
@@ -10698,7 +10698,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:6805 #-#-# translate crowdin mandy_angry_f489ce2d:
 msgid "[_MD_] What the hell are you thinking? I'm not your girlfriend!"
-msgstr ""
+msgstr "[_MD_] Aklından ne geçiyor senin? Ben senin kız arkadaşın değilim!"
 
 # game/UpdateScript0.06.rpy:6806 #-#-# translate crowdin mandy_angry_cb51b225:
 msgid "{i}\"Throws them in the trash\"{/i}"
@@ -10710,7 +10710,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:6808 #-#-# translate crowdin mandy_angry_9133862d:
 msgid "[_MD_] Maybe next time, try to think of something a little less creepy."
-msgstr ""
+msgstr "[_MD_] Belki bir dahaki sefere daha az korkunç bir şey düşünmeye çalışırsın."
 
 # game/UpdateScript0.06.rpy:6809 #-#-# translate crowdin mandy_angry_2faf6c00:
 msgid "{i}{b}\"Mandy's Affection -1\"{/b}{/i}"
@@ -19542,7 +19542,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:11429 #-#-# translate crowdin ph_shoot_7fea5cd9:
 msgid "[_MG_] How's this?"
-msgstr ""
+msgstr "[_MG_] Bu nasıl?"
 
 # game/UpdateScript0.06.rpy:11432 #-#-# translate crowdin ph_shoot_12c43774:
 msgid "[_MB_] That's great! Let me get a shot."
@@ -20182,7 +20182,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:11799 #-#-# translate crowdin ph_shoot_7fea5cd9_1:
 msgid "[_MG_] How's this?"
-msgstr ""
+msgstr "[_MG_] Bu nasıl?"
 
 # game/UpdateScript0.06.rpy:11802 #-#-# translate crowdin ph_shoot_8d38f99a:
 msgid "[_R_] That's great! Let me get a shot."
