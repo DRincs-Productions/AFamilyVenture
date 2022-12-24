@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-12-03 09:23\n"
+"PO-Revision-Date: 2022-12-24 14:54\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/script.rpy:320 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -4090,7 +4090,7 @@ msgstr ""
 
 # game/script.rpy:5637 #-#-# translate crowdin momnightstand_6bf1c5f2:
 msgid "{b}{i}\"View this card in the gallery and the casino\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Galeride ve kasinoda bu kartı görüntüleyin\"{/i}{/b}"
 
 # game/script.rpy:5647 #-#-# translate crowdin momnightstand_18b9b842:
 msgid "{i}Nope.... no loose money lying around.{/i}"
@@ -4602,7 +4602,7 @@ msgstr ""
 
 # game/script.rpy:6425 #-#-# translate crowdin laurendresser_6bf1c5f2:
 msgid "{b}{i}\"View this card in the gallery and the casino\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Galeride ve kasinoda bu kartı görüntüleyin\"{/i}{/b}"
 
 # game/script.rpy:6438 #-#-# translate crowdin laurendresser_6e1f3452:
 msgid "[_RT_] {i}Why would I go through her stuff?{/i}"
@@ -4658,11 +4658,11 @@ msgstr ""
 
 # game/script.rpy:6532 #-#-# translate crowdin laurenlaundry_31137a0e:
 msgid "{b}{i}\"You have found the \"Four of Clubs\" Card!\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Sinek Dörtlü\" Kartı buldunuz!{/i}{/b}"
 
 # game/script.rpy:6533 #-#-# translate crowdin laurenlaundry_6bf1c5f2:
 msgid "{b}{i}\"View this card in the gallery and the casino\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Galeride ve kasinoda bu kartı görüntüleyin\"{/i}{/b}"
 
 # game/script.rpy:6546 #-#-# translate crowdin laurenlaundry_1ca19cf2:
 msgid "[_RT_] {i}Dirty laundry, gross!{/i}"
@@ -5914,7 +5914,7 @@ msgstr ""
 
 # game/script.rpy:7439 #-#-# translate crowdin mylocker_6bf1c5f2:
 msgid "{b}{i}\"View this card in the gallery and the casino\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Galeride ve kasinoda bu kartı görüntüleyin\"{/i}{/b}"
 
 # game/script.rpy:7447 #-#-# translate crowdin mylocker_b8641e84:
 msgid "[_RT_] {i}I don't need anything out of there right now.{/i}"
@@ -6542,7 +6542,7 @@ msgstr ""
 
 # game/script.rpy:8122 #-#-# translate crowdin girllocker_6bf1c5f2:
 msgid "{b}{i}\"View this card in the gallery and the casino\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Galeride ve kasinoda bu kartı görüntüleyin\"{/i}{/b}"
 
 # game/script.rpy:8136 #-#-# translate crowdin girllocker_2a7e8ad1:
 msgid "[_RT_] {i}Nothing in here.{/i}"
