@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-12-25 13:54\n"
+"PO-Revision-Date: 2022-12-25 21:44\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/UpdateScript0.05.rpy:476 #-#-# translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -4614,7 +4614,7 @@ msgstr "[_RT_] {i}Ve bu sarılma beni çok mutlu ediyor!{/i}"
 
 # game/UpdateScript0.05.rpy:2812 #-#-# translate crowdin reward_for_payment_42d71c1f:
 msgid "[_RT_] ..."
-msgstr ""
+msgstr "[_RT_]..."
 
 # game/UpdateScript0.05.rpy:2813 #-#-# translate crowdin reward_for_payment_5314b939:
 msgid "[_RT_] {i}Maybe a little bit too happy!{/i}"
