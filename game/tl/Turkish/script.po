@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-12-25 11:22\n"
+"PO-Revision-Date: 2022-12-25 12:23\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/script.rpy:320 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -2022,7 +2022,7 @@ msgstr "[_RT_] {i}Sidney duş alıyor olmalı. Bekle.... az önce bir inleme mi 
 
 # game/script.rpy:3885 #-#-# translate crowdin sidneyhornybathroom_445042f6:
 msgid "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney'in azgınlığı -5\"{/b}{/i}"
 
 # game/script.rpy:3894 #-#-# translate crowdin sidneyhornybathroom_5b757f72:
 msgid "[_RT_] {i}Sidney must be taking a shower. Wait.... did I just hear some moaning?, uggh I've got to find a way to see what's going on in there.{/i}"
@@ -2030,7 +2030,7 @@ msgstr ""
 
 # game/script.rpy:3895 #-#-# translate crowdin sidneyhornybathroom_445042f6_1:
 msgid "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney'in azgınlığı -5\"{/b}{/i}"
 
 # game/script.rpy:3927 #-#-# translate crowdin bathafternoonweekend_b4945548:
 msgid "[_RT_] {i}Mom's taking a long shower.{/i}"
@@ -4310,7 +4310,7 @@ msgstr ""
 
 # game/script.rpy:6116 #-#-# translate crowdin sidneyhornybedroom_445042f6:
 msgid "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney'in azgınlığı -5\"{/b}{/i}"
 
 # game/script.rpy:6124 #-#-# translate crowdin sidneyhornybedroom_9e37090d:
 msgid "[_RT_] {i}The door's locked, Sidney must be getting dressed. {p}Wait, is that moaning I hear? {p}I'm pretty sure that's moaning.{/i}"
@@ -4318,7 +4318,7 @@ msgstr "[_RT_] {i}Kapı kilitli, Sidney giyiniyor olmalı. {p}Bekle, bu duyduğu
 
 # game/script.rpy:6125 #-#-# translate crowdin sidneyhornybedroom_445042f6_1:
 msgid "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney'in azgınlığı -5\"{/b}{/i}"
 
 # game/script.rpy:6127 #-#-# translate crowdin sidneyhornybedroom_3306ead2:
 msgid "[_RT_] {i}I've got to figure out a way to spy on her.{/i}"
