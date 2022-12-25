@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-12-24 19:42\n"
+"PO-Revision-Date: 2022-12-25 11:22\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/script.rpy:320 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -1986,7 +1986,7 @@ msgstr "{i}{b}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/script.rpy:3795 #-#-# translate crowdin laurenhornybathroom_c591abd8:
 msgid "[_RT_] {i}Lauren is taking her early morning shower. Wait.... did I just hear some moaning?, uggh I've got to find a way to see what's going on in there.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Lauren sabah duşunu alıyor. Bekle.... az önce bir inleme mi duydum?, uggh orada neler olduğunu görmenin bir yolunu bulmalıyım.{/i}"
 
 # game/script.rpy:3796 #-#-# translate crowdin laurenhornybathroom_de144e4d_1:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
