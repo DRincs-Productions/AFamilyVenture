@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-12-26 18:39\n"
+"PO-Revision-Date: 2022-12-29 16:35\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/UpdateScript0.04.rpy:320 #-#-# translate crowdin get_sidney_modeling_68a39f05:
 msgid "[_RT_] {i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
@@ -4514,7 +4514,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:2675 #-#-# translate crowdin bitchy_aunt_0f917df9:
 msgid "[_S_] [ryan].... don't be a prick..."
-msgstr ""
+msgstr "[_S_] [ryan].... hıyarlık etme..."
 
 # game/UpdateScript0.04.rpy:2676 #-#-# translate crowdin bitchy_aunt_c3d9dc5d:
 msgid "[_S_] I'm working, and you're just standing there doing nothing."
@@ -7322,19 +7322,19 @@ msgstr "[_RT_] {i}Sanırım yarın onunla tekrar konuşmayı denesem iyi olacak.
 
 # game/UpdateScript0.04.rpy:4142 #-#-# translate crowdin jacky_at_Laptop_4e56c265:
 msgid "[_RT_] {i}Hmmmm.... her door's shut again. I'll bet she's at it again. I'll Just take a peek.{/i}"
-msgstr "[_RT_] {i}Hmmmm ... kapısı yine kapalı. Bahse girerim yine o iştesin. Sadece bir göz atayım. { /i }"
+msgstr "[_RT_] {i}Hmmmm.... kapısı yine kapalı. Bahse girerim yine yapıyordur. Sadece bir göz atacağım.{/i}"
 
 # game/UpdateScript0.04.rpy:4148 #-#-# translate crowdin jacky_at_Laptop_ba1177ea:
 msgid "[_RT_] {i}Haha.... yep!.... She must really be missing Dad to be trying to squeeze a session in before class.{/i}"
-msgstr "[_RT_] {i}Haha .... yep! .... Dersten önce bir oturum sıkıştırabilmek için babamı gerçekten özlememiş olmalı."
+msgstr "[_RT_] {i}Haha... evet!... Dersten önce bir seans sıkıştırmaya çalıştığına göre babamı gerçekten özlüyor olmalı.{/i}"
 
 # game/UpdateScript0.04.rpy:4149 #-#-# translate crowdin jacky_at_Laptop_48d09da9:
 msgid "[_RT_] {i}Well, I've never been one to want to be left out.{/i}"
-msgstr "[_RT_] {i}Daha önce hiç bir zaman dışarı çıkmak istemedim. { /i }"
+msgstr "[_RT_] {i}Ben hiçbir zaman dışlanmak istemedim.{/i}"
 
 # game/UpdateScript0.04.rpy:4152 #-#-# translate crowdin jacky_at_Laptop_4b38c491:
 msgid "[_RT_] {i}Now looks like a good time.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Şimdi iyi bir zaman gibi görünüyor.{/i}"
 
 # game/UpdateScript0.04.rpy:4153 #-#-# translate crowdin jacky_at_Laptop_12b5ff40:
 msgid "[_R_] Uhhuuuhhemmmmm?"
@@ -7342,31 +7342,31 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:4158 #-#-# translate crowdin jacky_at_Laptop_5c0fec41:
 msgid "[_M_] [ryan]!.... You scared the hell out of me again!?"
-msgstr "[_M_] [ryan]! .... Yine ödümü kopardın, değil mi?"
+msgstr "[_M_] [ryan]!... Yine ödümü kopardın!?"
 
 # game/UpdateScript0.04.rpy:4159 #-#-# translate crowdin jacky_at_Laptop_06e4b3c3:
 msgid "[_M_] Why won't the school board just let us put locks on our office doors?"
-msgstr ""
+msgstr "[_M_] Okul yönetimi neden ofis kapılarımıza kilit takmamıza izin vermiyor ki?"
 
 # game/UpdateScript0.04.rpy:4160 #-#-# translate crowdin jacky_at_Laptop_33bc201e:
 msgid "[_R_] Probably so that you'll give your students your attention during school hours, rather than attending to personal business."
-msgstr ""
+msgstr "[_R_] Muhtemelen böylece okul saatlerinde kişisel işlerinle ilgilenmek yerine öğrencilerine dikkatini verebilirsin."
 
 # game/UpdateScript0.04.rpy:4162 #-#-# translate crowdin jacky_at_Laptop_23cddae3:
 msgid "[_M_] Don't be a prick."
-msgstr ""
+msgstr "[_M_] Hıyarlık etme."
 
 # game/UpdateScript0.04.rpy:4163 #-#-# translate crowdin jacky_at_Laptop_b7d4027e:
 msgid "[_M_] And can't you just wait until I'm finished?"
-msgstr ""
+msgstr "[_M_] Ve ben bitirene kadar bekleyemez misin?"
 
 # game/UpdateScript0.04.rpy:4164 #-#-# translate crowdin jacky_at_Laptop_7a5b0ced:
 msgid "[_R_] You know this is the only time I have to see you about school assignments."
-msgstr ""
+msgstr "[_R_] Biliyorsun, bu okul ödevleri için seni görmek zorunda olduğum tek zaman."
 
 # game/UpdateScript0.04.rpy:4165 #-#-# translate crowdin jacky_at_Laptop_c1784521:
 msgid "[_M_] Alright, well come in, and we'll get to work."
-msgstr ""
+msgstr "[_M_] Pekala, içeri gel ve işe koyulalım."
 
 # game/UpdateScript0.04.rpy:4168 #-#-# translate crowdin jacky_at_Laptop_ba1d8fe2:
 msgid "[_M_] Let's just pick up from where we left off."
@@ -7374,35 +7374,35 @@ msgstr "[_M_] Kaldığımız yerden devam edelim."
 
 # game/UpdateScript0.04.rpy:4169 #-#-# translate crowdin jacky_at_Laptop_f2ba6051:
 msgid "[_M_] Maybe there's more scenes in this game that will be good to mention in your paper."
-msgstr ""
+msgstr "[_M_] Belki bu oyunda ödevinde bahsetmek için iyi olacak başka sahneler de vardır."
 
 # game/UpdateScript0.04.rpy:4172 #-#-# translate crowdin jacky_at_Laptop_a4c1dbf6:
 msgid "[_M_] Darn it."
-msgstr ""
+msgstr "[_M_] Kahretsin."
 
 # game/UpdateScript0.04.rpy:4173 #-#-# translate crowdin jacky_at_Laptop_75bc7060:
 msgid "[_M_] I forgot to save the last time we played. We'll just have to click through the scenes quickly without reading it."
-msgstr ""
+msgstr "[_M_] Son oynadığımızda kaydetmeyi unutmuşum. Okumadan sahnelere hızlıca tıklamamız gerekecek."
 
 # game/UpdateScript0.04.rpy:4174 #-#-# translate crowdin jacky_at_Laptop_a56e97d0:
 msgid "[_M_] Oh, and before I forget, you might as well take it out right now before you put anymore strain on the stitching of those pants, and I'll make myself comfortable too."
-msgstr ""
+msgstr "[_M_] Unutmadan, pantolonun dikişlerini daha fazla zorlamadan hemen şimdi çıkarabilirsin, ben de rahatıma bakarım."
 
 # game/UpdateScript0.04.rpy:4175 #-#-# translate crowdin jacky_at_Laptop_a3ebed8e:
 msgid "[_R_] {i}Wow, she seems to be jumping right into it this time.{/i}"
-msgstr ""
+msgstr "[_R_] {i}Vay canına, bu sefer hemen atlıyor gibi görünüyor.{/i}"
 
 # game/UpdateScript0.04.rpy:4178 #-#-# translate crowdin jacky_at_Laptop_f88f3e78:
 msgid "[_MT_] {i}Uuuggghhh.... why does that little motherfucker.... I mean just fucker.... always have to catch me when I'm horny in my office.{/i}"
-msgstr "[_MT_] {i}Uuggulghhh .... neden o küçük orospu çocuğu ... Demek istediğim, sadece sikik ... ofisimde azgınken her zaman beni yakalamalıyım."
+msgstr "[_MT_] {i}Uuuggghhh... neden bu küçük orospu çocuğu... Yani sadece sikik... her zaman ofisimde azgınken beni yakalamak zorunda.{/i}"
 
 # game/UpdateScript0.04.rpy:4179 #-#-# translate crowdin jacky_at_Laptop_2a9a9168:
 msgid "[_MT_] {i}I'm already out of control! I've already invited him to take his dick out and pulled my skirt up to my waist.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Şimdiden kontrolden çıktım! Ona sikini çıkarmasını söyledim ve eteğimi belime kadar çektim.{/i}"
 
 # game/UpdateScript0.04.rpy:4180 #-#-# translate crowdin jacky_at_Laptop_5355e0d0:
 msgid "[_MT_] {i}Ok, [mom_name]!.... Use a little self control.... do not look over at his cock!{/i}"
-msgstr "[_MT_] {i}Tamam, [mom_name]! .... Biraz kendini kontrol et ... onun aletine bakma!"
+msgstr "[_MT_] {i}Tamam, [mom_name]!.... Biraz kendini kontrol et.... onun sikine bakma!{/i}"
 
 # game/UpdateScript0.04.rpy:4183 #-#-# translate crowdin jacky_at_Laptop_684bbe43:
 msgid "[_M_] {i}Shit!{/i}"
@@ -7410,27 +7410,27 @@ msgstr "[_M_] {i}Siktir!.... {/i}"
 
 # game/UpdateScript0.04.rpy:4187 #-#-# translate crowdin jacky_at_Laptop_ddd1237c:
 msgid "[_MT_] {i}Why am I doing this?{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Neden bunu yapıyorum?{/i}"
 
 # game/UpdateScript0.04.rpy:4188 #-#-# translate crowdin jacky_at_Laptop_02b15a0b:
 msgid "[_R_] I think we're coming to some new content."
-msgstr "[_R_] sanırım yeni bir içeriğe geliyoruz."
+msgstr "[_R_] Sanırım bazı yeni içeriklere ulaşıyoruz."
 
 # game/UpdateScript0.04.rpy:4200 #-#-# translate crowdin jacky_at_Laptop_873997cb:
 msgid "[_RT_] {i}Oh, wow.... she got right to it.... {/i}"
-msgstr "[_RT_] {i}Oh, wow .... onun hakkı var .... { /i }"
+msgstr "[_RT_] {i}Vay canına.... hemen işe koyuldu.... {/i}"
 
 # game/UpdateScript0.04.rpy:4201 #-#-# translate crowdin jacky_at_Laptop_f5c6c5c9:
 msgid "[_RT_] {i}Well, I guess there's no time like the present.{/i}"
-msgstr "[_RT_] {i}Sanırım şu an gibi bir zaman yok."
+msgstr "[_RT_] {i}Sanırım şimdiki zaman gibisi yoktur.{/i}"
 
 # game/UpdateScript0.04.rpy:4205 #-#-# translate crowdin jacky_at_Laptop_7aa9006c:
 msgid "[_MT_] {i}Well, fuck self control.... this feels too good.{/i}"
-msgstr "[_MT_] {i}Pekala, siktir git kendini kontrol et. Bu çok iyi hissettiriyor."
+msgstr "[_MT_] {i}Kendini kontrol etmeyi siktir et.... bu çok iyi hissettiriyor.{/i}"
 
 # game/UpdateScript0.04.rpy:4206 #-#-# translate crowdin jacky_at_Laptop_712363bc:
 msgid "[_RT_] {i}I think the time will be right very soon to push things a little further.... I'll just enjoy this for now.{/i}"
-msgstr "[_RT_] {i}sanırım zamanı biraz daha zorlamak için çok yakında doğru olacaktır .... Şimdi bunun tadını çıkarırım."
+msgstr "[_RT_] {i}Sanırım çok yakında işleri biraz daha ileri götürmek için doğru zaman gelecek.... Şimdilik bunun tadını çıkaracağım.{/i}"
 
 # game/UpdateScript0.04.rpy:4207 #-#-# translate crowdin jacky_at_Laptop_a820e4c6:
 msgid "[_RT_] {i}Oh.... fuck.... {/i}"
@@ -7438,28 +7438,27 @@ msgstr "[_RT_] {i}Oh.... sikeyim.... {/i}"
 
 # game/UpdateScript0.04.rpy:4220 #-#-# translate crowdin jacky_at_Laptop_48bb5537:
 msgid "[_M_] Haha.... did you see that!?"
-msgstr "[_M_] Haha .... gördün mü bunu?"
+msgstr "[_M_] Haha.... bunu gördün mü!?"
 
 # game/UpdateScript0.04.rpy:4221 #-#-# translate crowdin jacky_at_Laptop_507eb894:
 msgid "[_M_] I caught it this time!"
-msgstr "[_M_] bu sefer yakaladım!"
+msgstr "[_M_] Bu sefer yakaladım!"
 
 # game/UpdateScript0.04.rpy:4222 #-#-# translate crowdin jacky_at_Laptop_e9638de7:
 msgid "[_R_] Oh my gosh, Mom! Are you ok?"
-msgstr "\n"
-"Aman Tanrım, anne! İyi misin?"
+msgstr "[_R_] Aman Tanrım, anne! İyi misin?"
 
 # game/UpdateScript0.04.rpy:4223 #-#-# translate crowdin jacky_at_Laptop_cb76d178:
 msgid "[_M_] Of course, why wouldn't I be?"
-msgstr "[_M_] tabi ki, neden olmayayım?"
+msgstr "[_M_] Tabii ki, neden olmayayım ki?"
 
 # game/UpdateScript0.04.rpy:4224 #-#-# translate crowdin jacky_at_Laptop_7d7382cc:
 msgid "[_R_] You seemed so mad last time."
-msgstr "[_R_] Geçen sefer çok kızmış gibiydin."
+msgstr "[_R_] Geçen sefer çok kızgın görünüyordun."
 
 # game/UpdateScript0.04.rpy:4225 #-#-# translate crowdin jacky_at_Laptop_e8457307:
 msgid "[_M_] Yeah, well I've decided I'm happy to see my boy practicing good health habits."
-msgstr "[_M_] Evet, oğlumun sağlık alışkanlıklarını iyi bir şekilde alıştırabilmek için mutlu olduğuma karar verdim."
+msgstr "[_M_] Evet, oğlumun iyi sağlık alışkanlıkları edindiğini görmekten mutlu oldum."
 
 # game/UpdateScript0.04.rpy:4226 #-#-# translate crowdin jacky_at_Laptop_bbdc4e0a:
 msgid "[_R_] You're so cool!"
@@ -7467,7 +7466,7 @@ msgstr "[_R_] Çok havalısın!"
 
 # game/UpdateScript0.04.rpy:4227 #-#-# translate crowdin jacky_at_Laptop_283b4fe3:
 msgid "[_RT_] {i}I think I broke her.{/i}"
-msgstr "[_RT_] {i}Onu kırdım galiba."
+msgstr "[_RT_] {i}Sanırım onu hallettim.{/i}"
 
 # game/UpdateScript0.04.rpy:4228 #-#-# translate crowdin jacky_at_Laptop_3265e8ee:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
@@ -7475,11 +7474,11 @@ msgstr "{i}{b}\"Annemin azgınlığı +1\"{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4230 #-#-# translate crowdin jacky_at_Laptop_1d6c7bb5:
 msgid "[_M_] Now run along so I can finish taking care of myself before I go to class."
-msgstr "[_M_] Şimdi devam et, derse gitmeden önce kendi başımın çaresine bakabilirim."
+msgstr "[_M_] Şimdi git de derse girmeden önce kendimi temizlemeyi bitireyim."
 
 # game/UpdateScript0.04.rpy:4231 #-#-# translate crowdin jacky_at_Laptop_ccdbff1b:
 msgid "[_R_] Wait! Take care of yourself how?"
-msgstr "[_R_] Bekle! Kendine iyi bak, nasıl?"
+msgstr "[_R_] Bekle! Kendini nasıl temizleyeceksin?"
 
 # game/UpdateScript0.04.rpy:4232 #-#-# translate crowdin jacky_at_Laptop_4af3f6b5:
 msgid "[_M_] I think you know what I mean."
