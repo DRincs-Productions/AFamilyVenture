@@ -8,7 +8,7 @@ translate turkish strings:
 
     # game/Credits_screen.rpy:62
     old " We would like to thank all the game developers that have accepted to let us use some of their creations in our game, also we'd like to thank our subscribestar/patreon supporters that make this game posible."
-    new " Oyunumuzda bazı kreasyonları kullanmamıza izin veren tüm oyun geliştiricilere teşekkür etmek istiyoruz, ayrıca bu oyunu mümkün kılacak olan abone/patreon destekçilerimize teşekkür etmek istiyoruz."
+    new " Oyunumuzda bazı kreasyonları kullanmamıza izin veren tüm oyun geliştiricilere teşekkür etmek istiyoruz, ayrıca bu oyunu mümkün kılacak olan subscribestar/patreon destekçilerimize teşekkür etmek istiyoruz."
 
     # game/Credits_screen.rpy:69
     old "Game developers"
@@ -36,7 +36,7 @@ translate turkish strings:
 
     # game/Credits_screen.rpy:165
     old "\n{b}{i}Ghost Writer, Image Creator, Render Farm, Face Card Designer:{/i}{/b} \n"
-    new "\n{b}{i}Hayalet Yazar, Görüntü Oluşturucu, Render Çiftliği, Yüz Kartı Tasarımcısı:{/i}{/b} \n"
+    new "\n{b}{i}Hayalet Yazar, Fotoğraf Oluşturucu, Render Çiftliği, Yüz Kartı Tasarımcısı:{/i}{/b} \n"
 
     # game/Credits_screen.rpy:167
     old "Strenif"
@@ -52,11 +52,11 @@ translate turkish strings:
 
     # game/Credits_screen.rpy:173
     old "\n{b}{i}Game Writer, Coder, Images, Animations:{/i}{/b} \n"
-    new "\n{b}{i}Oyun Yazarı, Kodlayıcı, Görüntüler, Animasyonlar:{/i}{/b} \n"
+    new "\n{b}{i}Oyun Yazarı, Kodlayıcı, Fotoğraflar, Animasyonlar:{/i}{/b} \n"
 
     # game/Credits_screen.rpy:175
     old "Will Tylor"
-    new "Bana"
+    new "Will Tylor"
 
     # game/Credits_screen.rpy:177
     old "\n{b}{i}My Family with Benefits:{/i}{/b} \n"
@@ -72,31 +72,31 @@ translate turkish strings:
 
     # game/Credits_screen.rpy:181
     old "Frayed80"
-    new ""
+    new "Frayed80"
 
     # game/Credits_screen.rpy:182
     old "Grub"
-    new ""
+    new "Grub"
 
     # game/Credits_screen.rpy:183
     old "hyperion72"
-    new ""
+    new "hyperion72"
 
     # game/Credits_screen.rpy:184
     old "Jtf1357"
-    new ""
+    new "Jtf1357"
 
     # game/Credits_screen.rpy:185
     old "kingkoopa"
-    new ""
+    new "kingkoopa"
 
     # game/Credits_screen.rpy:186
     old "Tarakis"
-    new ""
+    new "Tarakis"
 
     # game/Credits_screen.rpy:187
     old "Urqy"
-    new ""
+    new "Urqy"
 
     # game/Credits_screen.rpy:189
     old "\n{b}{i}My Family:{/i}{/b} \n"
@@ -104,171 +104,171 @@ translate turkish strings:
 
     # game/Credits_screen.rpy:191
     old "Alex#17bc64b8"
-    new ""
+    new "Alex#17bc64b8"
 
     # game/Credits_screen.rpy:192
     old "Bremen"
-    new ""
+    new "Bremen"
 
     # game/Credits_screen.rpy:193
     old "Cs in SC"
-    new ""
+    new "Cs in SC"
 
     # game/Credits_screen.rpy:194
     old "deadpool25"
-    new ""
+    new "deadpool25"
 
     # game/Credits_screen.rpy:195
     old "DerSucher81"
-    new ""
+    new "DerSucher81"
 
     # game/Credits_screen.rpy:196
     old "Drew G"
-    new ""
+    new "Drew G"
 
     # game/Credits_screen.rpy:197
     old "Elthaun"
-    new ""
+    new "Elthaun"
 
     # game/Credits_screen.rpy:198
     old "Imyourbuddy"
-    new ""
+    new "Imyourbuddy"
 
     # game/Credits_screen.rpy:199
     old "Joelmartinez86"
-    new ""
+    new "Joelmartinez86"
 
     # game/Credits_screen.rpy:200
     old "Lokki87"
-    new ""
+    new "Lokki87"
 
     # game/Credits_screen.rpy:201
     old "mikey"
-    new ""
+    new "mikey"
 
     # game/Credits_screen.rpy:202
     old "Mr. Grey"
-    new ""
+    new "Mr. Grey"
 
     # game/Credits_screen.rpy:203
     old "o5zbh"
-    new ""
+    new "o5zbh"
 
     # game/Credits_screen.rpy:204
     old "Raist2"
-    new ""
+    new "Raist2"
 
     # game/Credits_screen.rpy:205
     old "TheSearcher81"
-    new ""
+    new "TheSearcher81"
 
     # game/Credits_screen.rpy:206
     old "troy sale"
-    new ""
+    new "troy sale"
 
     # game/Credits_screen.rpy:208
     old "\n{b}{i}My BFFS:{/i}{/b} \n"
-    new ""
+    new "\n{b}{i}En iyi arkadaşlarım:{/i}{/b} \n"
 
     # game/Credits_screen.rpy:210
     old "Alec Cross"
-    new ""
+    new "Alec Cross"
 
     # game/Credits_screen.rpy:211
     old "Allen Ho"
-    new ""
+    new "Allen Ho"
 
     # game/Credits_screen.rpy:212
     old "AN SOS"
-    new ""
+    new "AN SOS"
 
     # game/Credits_screen.rpy:213
     old "AnarchAngel"
-    new ""
+    new "AnarchAngel"
 
     # game/Credits_screen.rpy:214
     old "Andrea Al***"
-    new ""
+    new "Andrea Al * **"
 
     # game/Credits_screen.rpy:215
     old "AnthonySa*****"
-    new ""
+    new "AnthonySa*****"
 
     # game/Credits_screen.rpy:216
     old "ArcAngl"
-    new ""
+    new "ArcAngl"
 
     # game/Credits_screen.rpy:217
     old "BaeScout83"
-    new ""
+    new "BaeScout83"
 
     # game/Credits_screen.rpy:218
     old "Bailey C****"
-    new ""
+    new "Bailey C****"
 
     # game/Credits_screen.rpy:219
     old "Benja Talos"
-    new ""
+    new "Benja Talos"
 
     # game/Credits_screen.rpy:220
     old "blee lee"
-    new ""
+    new "blee lee"
 
     # game/Credits_screen.rpy:221
     old "bpatel007"
-    new ""
+    new "bpatel007"
 
     # game/Credits_screen.rpy:222
     old "braincandy"
-    new ""
+    new "braincandy"
 
     # game/Credits_screen.rpy:223
     old "BrianSi******"
-    new ""
+    new "BrianSi******"
 
     # game/Credits_screen.rpy:224
     old "Carmen Sandiego"
-    new ""
+    new "Carmen Sandiego"
 
     # game/Credits_screen.rpy:225
     old "carmen g*******"
-    new ""
+    new "carmen g*******"
 
     # game/Credits_screen.rpy:226
     old "ccc1221"
-    new ""
+    new "ccc1221"
 
     # game/Credits_screen.rpy:227
     old "Chenzillla"
-    new ""
+    new "Chenzillla"
 
     # game/Credits_screen.rpy:228
     old "Christian vo* *****"
-    new ""
+    new "Christian vo * *****"
 
     # game/Credits_screen.rpy:229
     old "Clambait"
-    new ""
+    new "Clambait"
 
     # game/Credits_screen.rpy:230
     old "Coscara88"
-    new ""
+    new "Coscara88"
 
     # game/Credits_screen.rpy:231
     old "DaemonSD"
-    new ""
+    new "DaemonSD"
 
     # game/Credits_screen.rpy:232
     old "dagbo"
-    new ""
+    new "dagbo"
 
     # game/Credits_screen.rpy:233
     old "DarkPlayground"
-    new ""
+    new "DarkPlayground"
 
     # game/Credits_screen.rpy:234
     old "Dartred"
-    new ""
+    new "Dartred"
 
     # game/Credits_screen.rpy:235
     old "David"
@@ -288,409 +288,409 @@ translate turkish strings:
 
     # game/Credits_screen.rpy:239
     old "Doric_Wolf"
-    new ""
+    new "Doric_Wolf"
 
     # game/Credits_screen.rpy:240
     old "DrSquishy"
-    new ""
+    new "DrSquishy"
 
     # game/Credits_screen.rpy:241
     old "DustyMamba"
-    new ""
+    new "DustyMamba"
 
     # game/Credits_screen.rpy:242
     old "ejc"
-    new ""
+    new "ejc"
 
     # game/Credits_screen.rpy:243
     old "EverynameDies"
-    new ""
+    new "EverynameDies"
 
     # game/Credits_screen.rpy:244
     old "Falcon2019"
-    new ""
+    new "Falcon2019"
 
     # game/Credits_screen.rpy:245
     old "fajr3"
-    new ""
+    new "fajr3"
 
     # game/Credits_screen.rpy:246
     old "Fangin"
-    new ""
+    new "Fangin"
 
     # game/Credits_screen.rpy:247
     old "Fantastic Georgette"
-    new ""
+    new "Fantastic Georgette"
 
     # game/Credits_screen.rpy:248
     old "Fen"
-    new ""
+    new "Fen"
 
     # game/Credits_screen.rpy:249
     old "four leaf"
-    new ""
+    new "four leaf"
 
     # game/Credits_screen.rpy:250
     old "FurryTracter"
-    new ""
+    new "FurryTracter"
 
     # game/Credits_screen.rpy:251
     old "gdfg"
-    new ""
+    new "gdfg"
 
     # game/Credits_screen.rpy:252
     old "Genesis423"
-    new ""
+    new "Genesis423"
 
     # game/Credits_screen.rpy:253
     old "Gnollage"
-    new ""
+    new "Gnollage"
 
     # game/Credits_screen.rpy:254
     old "group5"
-    new ""
+    new "group5"
 
     # game/Credits_screen.rpy:255
     old "HELLSCAR02"
-    new ""
+    new "HELLSCAR02"
 
     # game/Credits_screen.rpy:256
     old "InklessPen"
-    new ""
+    new "InklessPen"
 
     # game/Credits_screen.rpy:257
     old "Jaybo"
-    new ""
+    new "Jaybo"
 
     # game/Credits_screen.rpy:258
     old "Jess_2037"
-    new ""
+    new "Jes_2037"
 
     # game/Credits_screen.rpy:259
     old "John"
-    new ""
+    new "John"
 
     # game/Credits_screen.rpy:260
     old "Johnny"
-    new ""
+    new "Johnny"
 
     # game/Credits_screen.rpy:261
     old "Jones2099"
-    new ""
+    new "Jones2099"
 
     # game/Credits_screen.rpy:262
     old "Joseph Ma*****"
-    new ""
+    new "Joseph Ma*****"
 
     # game/Credits_screen.rpy:263
     old "Keeta Sh****"
-    new ""
+    new "Keeta Sh****"
 
     # game/Credits_screen.rpy:264
     old "killer33"
-    new ""
+    new "killer33"
 
     # game/Credits_screen.rpy:265
     old "King Hugi"
-    new ""
+    new "King Hugi"
 
     # game/Credits_screen.rpy:266
     old "Kitten"
-    new ""
+    new "Kitten"
 
     # game/Credits_screen.rpy:267
     old "Koalafied"
-    new ""
+    new "Koalafied"
 
     # game/Credits_screen.rpy:268
     old "kp helman"
-    new ""
+    new "kp helman"
 
     # game/Credits_screen.rpy:269
     old "Kristian Nophsker"
-    new ""
+    new "Kristian Nophsker"
 
     # game/Credits_screen.rpy:270
     old "kyle la*****"
-    new ""
+    new "kyle la*****"
 
     # game/Credits_screen.rpy:271
     old "Laryen35"
-    new ""
+    new "Laryen35"
 
     # game/Credits_screen.rpy:272
     old "lejunior"
-    new ""
+    new "lejunior"
 
     # game/Credits_screen.rpy:273
     old "lindenshield"
-    new ""
+    new "lindenshield"
 
     # game/Credits_screen.rpy:274
     old "Lothew"
-    new ""
+    new "Lothew"
 
     # game/Credits_screen.rpy:275
     old "Luca L******"
-    new ""
+    new "Luca L******"
 
     # game/Credits_screen.rpy:276
     old "Magnus"
-    new ""
+    new "Magnus"
 
     # game/Credits_screen.rpy:277
     old "MajorDespair"
-    new ""
+    new "MajorDespair"
 
     # game/Credits_screen.rpy:278
     old "Malidread"
-    new ""
+    new "Malidread"
 
     # game/Credits_screen.rpy:279
     old "mannybonao"
-    new ""
+    new "mannybonao"
 
     # game/Credits_screen.rpy:280
     old "MarcD"
-    new ""
+    new "MarcD"
 
     # game/Credits_screen.rpy:281
     old "Marco S****"
-    new ""
+    new "Marco S****"
 
     # game/Credits_screen.rpy:282
     old "Martin"
-    new ""
+    new "Martin"
 
     # game/Credits_screen.rpy:283
     old "marty1105"
-    new ""
+    new "marty1105"
 
     # game/Credits_screen.rpy:284
     old "Matthias A********"
-    new ""
+    new "Matthias A********"
 
     # game/Credits_screen.rpy:285
     old "Maverick62"
-    new ""
+    new "Maverick62"
 
     # game/Credits_screen.rpy:286
     old "maxivore"
-    new ""
+    new "maxivore"
 
     # game/Credits_screen.rpy:287
     old "michael stather"
-    new ""
+    new "michael stather"
 
     # game/Credits_screen.rpy:288
     old "Mike87"
-    new ""
+    new "Mike87"
 
     # game/Credits_screen.rpy:289
     old "wrangler062000"
-    new ""
+    new "wrangler062000"
 
     # game/Credits_screen.rpy:290
     old "Mushyman"
-    new ""
+    new "Mushyman"
 
     # game/Credits_screen.rpy:291
     old "Nathan Al*****"
-    new ""
+    new "Nathan Al*****"
 
     # game/Credits_screen.rpy:292
     old "Nathan R*****"
-    new ""
+    new "Nathan R*****"
 
     # game/Credits_screen.rpy:293
     old "NecroMan"
-    new ""
+    new "NecroMan"
 
     # game/Credits_screen.rpy:294
     old "NewUser22"
-    new ""
+    new "NewUser22"
 
     # game/Credits_screen.rpy:295
     old "NJ.VJ"
-    new ""
+    new "NJ.VJ"
 
     # game/Credits_screen.rpy:296
     old "Old Man"
-    new ""
+    new "Old Man"
 
     # game/Credits_screen.rpy:297
     old "ㅁㄴㅇㄹ"
-    new ""
+    new "ㅁㄴㅇㄹ"
 
     # game/Credits_screen.rpy:298
     old "ovonx"
-    new ""
+    new "ovonx"
 
     # game/Credits_screen.rpy:299
     old "pa bu"
-    new ""
+    new "pa bu"
 
     # game/Credits_screen.rpy:300
     old "Patch13"
-    new ""
+    new "Patch13"
 
     # game/Credits_screen.rpy:301
     old "Pikiriti"
-    new ""
+    new "Pikiriti"
 
     # game/Credits_screen.rpy:302
     old "Polaxymer"
-    new ""
+    new "Polaxymer"
 
     # game/Credits_screen.rpy:303
     old "Raincog"
-    new ""
+    new "Raincog"
 
     # game/Credits_screen.rpy:304
     old "RasGris"
-    new ""
+    new "RasGris"
 
     # game/Credits_screen.rpy:305
     old "razzmatazz"
-    new ""
+    new "razzmatazz"
 
     # game/Credits_screen.rpy:306
     old "Rhylar"
-    new ""
+    new "Rhylar"
 
     # game/Credits_screen.rpy:307
     old "Roger Jo***"
-    new ""
+    new "Roger Jo***"
 
     # game/Credits_screen.rpy:308
     old "reservist dude"
-    new ""
+    new "reservist dude"
 
     # game/Credits_screen.rpy:309
     old "SagaciousZu"
-    new ""
+    new "SagaciousZu"
 
     # game/Credits_screen.rpy:310
     old "SandPiper"
-    new ""
+    new "SandPiper"
 
     # game/Credits_screen.rpy:311
     old "SerJohn30"
-    new ""
+    new "SerJohn30"
 
     # game/Credits_screen.rpy:312
     old "Sletch"
-    new ""
+    new "Sletch"
 
     # game/Credits_screen.rpy:313
     old "Silvio lo**"
-    new ""
+    new "Silvio lo**"
 
     # game/Credits_screen.rpy:314
     old "Spandex"
-    new ""
+    new "Spandex"
 
     # game/Credits_screen.rpy:315
     old "ssneo 83"
-    new ""
+    new "ssneo 83"
 
     # game/Credits_screen.rpy:316
     old "Stampe64"
-    new ""
+    new "Stampe64"
 
     # game/Credits_screen.rpy:317
     old "Stefan"
-    new ""
+    new "Stefan"
 
     # game/Credits_screen.rpy:318
     old "Steve"
-    new ""
+    new "Steve"
 
     # game/Credits_screen.rpy:320
     old "Subscriber №759433cd"
-    new ""
+    new "Subscriber №759433cd"
 
     # game/Credits_screen.rpy:321
     old "Sunwind"
-    new ""
+    new "Sunwind"
 
     # game/Credits_screen.rpy:322
     old "Takola"
-    new ""
+    new "Takola"
 
     # game/Credits_screen.rpy:323
     old "taximan6430"
-    new ""
+    new "taximan6430"
 
     # game/Credits_screen.rpy:324
     old "the yak"
-    new ""
+    new "the yak"
 
     # game/Credits_screen.rpy:325
     old "TheHorror"
-    new ""
+    new "TheHorror"
 
     # game/Credits_screen.rpy:326
     old "thepigeon"
-    new ""
+    new "thepigeon"
 
     # game/Credits_screen.rpy:327
     old "Trold666"
-    new ""
+    new "Trold666"
 
     # game/Credits_screen.rpy:328
     old "Turbo"
-    new ""
+    new "Turbo"
 
     # game/Credits_screen.rpy:329
     old "Tyler Gu********"
-    new ""
+    new "Tyler Gu********"
 
     # game/Credits_screen.rpy:330
     old "Umorrian"
-    new ""
+    new "Umorrian"
 
     # game/Credits_screen.rpy:331
     old "uncejay"
-    new ""
+    new "uncejay"
 
     # game/Credits_screen.rpy:332
     old "User#1c09e0d2"
-    new ""
+    new "User#1c09e0d2"
 
     # game/Credits_screen.rpy:333
     old "User#2dc96ae9"
-    new ""
+    new "User#2dc96ae9"
 
     # game/Credits_screen.rpy:334
     old "User#534331E1"
-    new ""
+    new "User#534331E1"
 
     # game/Credits_screen.rpy:335
     old "Vivigatsu"
-    new ""
+    new "Vivigatsu"
 
     # game/Credits_screen.rpy:336
     old "XalfanmsX"
-    new ""
+    new "XalfanmsX"
 
     # game/Credits_screen.rpy:337
     old "ydoc kn***"
-    new ""
+    new "ydoc kn***"
 
     # game/Credits_screen.rpy:338
     old "YOUNGbilNYE69"
-    new ""
+    new "YOUNGbilNYE69"
 
     # game/Credits_screen.rpy:339
     old "zapper"
-    new ""
+    new "zapper"
 
     # game/Credits_screen.rpy:340
     old "zozo123"
-    new ""
+    new "zozo123"
 
     # game/Credits_screen.rpy:341
     old "狂乱刀刀"
-    new ""
+    new "狂乱刀刀"
 

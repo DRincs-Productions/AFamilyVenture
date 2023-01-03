@@ -1336,7 +1336,7 @@ translate turkish xmas_future_4fbfbc43:
 translate turkish xmas_future_c7938b4c:
 
     # RT "{i}Ohhh.... that feels so good!{/i}"
-    ""
+    RT "{i}Ohhh.... bu çok iyi hissettiriyor!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:637
 translate turkish xmas_future_720f8f02:
@@ -1432,7 +1432,7 @@ translate turkish xmas_future_1c538c65:
 translate turkish xmas_future_8f597427:
 
     # RT "{i}Holy shit!....{/i}"
-    ""
+    RT "{i}Hasiktir!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:658
 translate turkish xmas_future_9c45fea9:
@@ -4738,7 +4738,7 @@ translate turkish christmas_shoot_71d37fda:
 translate turkish christmas_shoot_42d71c1f:
 
     # RT "..."
-    ""
+    "[_RT_]..."
 
 # game/UpdateScriptChristmasEvent.rpy:1668
 translate turkish christmas_shoot_8d5b26f2:
@@ -5248,7 +5248,7 @@ translate turkish christmas_shoot_652b7528:
 translate turkish christmas_shoot_42d71c1f_1:
 
     # RT "..."
-    ""
+    "[_RT_]..."
 
 # game/UpdateScriptChristmasEvent.rpy:1793
 translate turkish christmas_shoot_710888da:

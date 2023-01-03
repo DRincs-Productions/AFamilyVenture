@@ -4,11 +4,11 @@ translate turkish strings:
 
     # game/New_inventory.rpy:219
     old "Lauren's first cosplay outfit, you can sell it online to make money."
-    new ""
+    new "Lauren'in ilk cosplay kıyafeti, para kazanmak için çevrimiçi satabilirsiniz."
 
     # game/New_inventory.rpy:220
     old "Mandy's first cosplay outfit, you can sell it online to make money."
-    new ""
+    new "Mandy'nin ilk cosplay kıyafeti, para kazanmak için çevrimiçi satabilirsiniz."
 
     # game/New_inventory.rpy:222
     old "Expensive, but the most stylish swimsuit for my mom."
@@ -40,7 +40,7 @@ translate turkish strings:
 
     # game/New_inventory.rpy:231
     old "The best DSLR camera I can afford for now."
-    new ""
+    new "Şimdilik alabileceğim en iyi DSLR fotoğraf makinesi."
 
     # game/New_inventory.rpy:232
     old "A green screen will make us look more professional."
@@ -76,7 +76,7 @@ translate turkish strings:
 
     # game/New_inventory.rpy:245
     old "I've got to keep replacing Mom's wine."
-    new ""
+    new "Annemin şarabını değiştirmeye devam etmeliyim."
 
     # game/New_inventory.rpy:258
     old "Money:$[money]"

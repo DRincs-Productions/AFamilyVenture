@@ -1,55 +1,44 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: a-family-venture\n"
-# "X-french-Project-ID: 492487\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /[DonRP.AFV] main/game/tl/french/Gallery_AFV_v0.2.po\n"
-# "X-french-File-ID: 1293\n"
-# "Project-Id-Version: a-family-venture\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-04-28 09:22\n"
-
-# TODO: Translation updated at 2022-04-23 HH:HH
+# TODO: Translation updated at 2022-12-01 22:29
 
 translate french strings:
 
-    # game/Gallery_AFV_v0.2.rpy:225
+    # game/Gallery_AFV_v0.2.rpy:265
     old "Mom's gallery"
     new "Galerie de maman"
 
-    # game/Gallery_AFV_v0.2.rpy:393
+    # game/Gallery_AFV_v0.2.rpy:433
     old "Lauren's gallery"
     new "Galerie de Lauren"
 
-    # game/Gallery_AFV_v0.2.rpy:521
+    # game/Gallery_AFV_v0.2.rpy:561
     old "Sidney's gallery"
     new "Galerie de Sidney"
 
-    # game/Gallery_AFV_v0.2.rpy:667
+    # game/Gallery_AFV_v0.2.rpy:725
     old "Aunt Camille's gallery"
     new "Galerie de tante Camille"
 
-    # game/Gallery_AFV_v0.2.rpy:756
+    # game/Gallery_AFV_v0.2.rpy:821
     old "Mandy's gallery"
     new "Galerie de Mandy"
 
-    # game/Gallery_AFV_v0.2.rpy:838
+    # game/Gallery_AFV_v0.2.rpy:903
     old "Harem \n     gallery"
     new "Harem \n     galerie"
 
-    # game/Gallery_AFV_v0.2.rpy:941
+    # game/Gallery_AFV_v0.2.rpy:1006
     old "Other girls gallery"
     new "Galerie d'autres filles"
 
-    # game/Gallery_AFV_v0.2.rpy:1037
+    # game/Gallery_AFV_v0.2.rpy:1109
     old "NTR gallery"
     new "Galerie NTR"
 
-    # game/Gallery_AFV_v0.2.rpy:1158
+    # game/Gallery_AFV_v0.2.rpy:1244
     old "Cosplay gallery"
     new "Galerie Cosplay"
-#--- "Ignore this. translate only: One"
+
+    # game/Gallery_AFV_v0.2.rpy:1340
+    old "                          Face Card gallery"
+    new "                          Galerie de cartes faciales"
 

@@ -10,7 +10,7 @@ translate turkish get_sidney_modeling_68a39f05:
 translate turkish get_sidney_modeling_55ee820d:
 
     # RT "{i}Ok, she looks like she's asleep, but let's find out if the predator is ready to strike again.{/i}"
-    ""
+    RT "{i}Tamam, uyuyor gibi görünüyor ama bakalım avcı tekrar saldırmaya hazır mı?{/i}"
 
 # game/UpdateScript0.04.rpy:329
 translate turkish get_sidney_modeling_609ec708:
@@ -22,13 +22,13 @@ translate turkish get_sidney_modeling_609ec708:
 translate turkish get_sidney_modeling_b552b395:
 
     # RT "{i}Hmmm.... what is that feeling?.... Did I doze off?.... Where am I?.... {/i}"
-    ""
+    RT "{i}Hmmm.... bu his de ne?.... Uyuya mı kaldım?.... Neredeyim ben?.... {/i}"
 
 # game/UpdateScript0.04.rpy:339
 translate turkish get_sidney_modeling_a8826143:
 
     # RT "{i}Oh yeah, now I remember! Perfect!.... Sidney's jerkin on my gerkin again!{/i}"
-    ""
+    RT "{i}Evet, şimdi hatırladım! Mükemmel!.... Sidney yine benimkine asılıyor!{/i}"
 
 # game/UpdateScript0.04.rpy:342
 translate turkish get_sidney_modeling_200e2379:
@@ -40,13 +40,13 @@ translate turkish get_sidney_modeling_200e2379:
 translate turkish get_sidney_modeling_95ace776:
 
     # ST "{i}Time to take the cum shower precaution again.{/i}"
-    ""
+    ST "{i}Tekrardan sperm duşu önlemi alma zamanı.{/i}"
 
 # game/UpdateScript0.04.rpy:352
 translate turkish get_sidney_modeling_e298027e:
 
     # ST "{i}If I wipe it up with my panties again, he'll never be the wiser.{/i}"
-    ""
+    ST "{i}Tekrar külotumla silersem, asla akıllanmayacak.{/i}"
 
 # game/UpdateScript0.04.rpy:355
 translate turkish get_sidney_modeling_40f156ae:
@@ -64,13 +64,13 @@ translate turkish get_sidney_modeling_11fccb0d:
 translate turkish get_sidney_modeling_e4e71e72:
 
     # RT "{i}And there's my sister's bare ass on my bed again, just playing with my cock as if it's just a normal everyday occurance.{/i}"
-    ""
+    RT "{i}Ve işte kız kardeşimin çıplak götü yine yatağımda, sanki her gün olan normal bir şeymiş gibi sikimle oynuyor.{/i}"
 
 # game/UpdateScript0.04.rpy:360
 translate turkish get_sidney_modeling_0cb05509:
 
     # RT "{i}I think I've made her just as twisted as me.{/i}"
-    ""
+    RT "{i}Sanırım onu da kendim gibi sapkın yaptım.{/i}"
 
 # game/UpdateScript0.04.rpy:363
 translate turkish get_sidney_modeling_c9f57903:
@@ -994,7 +994,7 @@ translate turkish posting_the_wr_pics_b5e1a766:
 translate turkish posting_the_wr_pics_1ec43bb1:
 
     # RT "{i}Uploading the pictures now.... and click submit.... and now we just wait to see if anyone likes them.{/i}"
-    ""
+    RT "{i}Şimdi resimleri yüklüyorum.... ve gönder'e tıklıyorum.... ve şimdi sadece beğenen olup olmadığını görmek için bekliyoruz.{/i}"
 
 # game/UpdateScript0.04.rpy:642
 translate turkish posting_the_wr_pics_af40ba16:
@@ -1432,7 +1432,7 @@ translate turkish nightly_sixtynine_2e4640a1:
 translate turkish nightly_sixtynine_971a98df:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:834
 translate turkish nightly_sixtynine_26744c39:
@@ -1834,7 +1834,7 @@ translate turkish nightly_sixtynine_9c326c27:
 translate turkish nightly_sixtynine_445042f6:
 
     # "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-    ""
+    "{i}{b}\"Sidney'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:1010
 translate turkish nightly_sixtynine_80ea4dad:
@@ -6454,7 +6454,7 @@ translate turkish commission_wr_outfit_8b1e66d6:
 translate turkish im_working_on_it_52298b4b:
 
     # S "I'm still working on my cosplay outfit. Try back again tomorrow, maybe I'll be done by then."
-    ""
+    S "Hala cosplay kıyafetim üzerinde çalışıyorum. Yarın tekrar dene, belki o zamana kadar bitirmiş olurum."
 
 # game/UpdateScript0.04.rpy:2599
 translate turkish wr_cosplayfitting_960a2692:
@@ -6754,7 +6754,7 @@ translate turkish bitchy_aunt_296c4ad2:
 translate turkish bitchy_aunt_0f917df9:
 
     # S "[ryan].... don't be a prick..."
-    ""
+    S "[ryan].... hıyarlık etme..."
 
 # game/UpdateScript0.04.rpy:2676
 translate turkish bitchy_aunt_c3d9dc5d:
@@ -10108,7 +10108,7 @@ translate turkish yoga_with_aunt_2e367468:
 translate turkish yoga_with_aunt_7ccb0083:
 
     # M "{i}(Yelling through the door){/i} Who is it?"
-    ""
+    M "{i}(Kapıdan bağırır)){/i} Kim o?"
 
 # game/UpdateScript0.04.rpy:3778
 translate turkish yoga_with_aunt_d428c608:
@@ -10426,43 +10426,43 @@ translate turkish yoga_with_aunt_4af2d87c_2:
 translate turkish jacky_caught_office_4c90c24b:
 
     # R "Oh, hey Megan, hey Matt. Where's Miss [mom_name]? I thought I just saw her up here."
-    ""
+    R "Selam Megan, selam Matt. Bayan [mom_name] nerede? Onu burada gördüğümü sanmıştım."
 
 # game/UpdateScript0.04.rpy:3933
 translate turkish jacky_caught_office_ec48f479:
 
     # MG "She took off, she seemed to be kind of in a hurry. Probably needed to get something done before her next class starts."
-    ""
+    MG "Gitti, acelesi varmış gibi görünüyordu. Muhtemelen bir sonraki dersi başlamadan önce bir şeyler yapması gerekiyordu."
 
 # game/UpdateScript0.04.rpy:3934
 translate turkish jacky_caught_office_8b78ea83:
 
     # MG "Is everything ok?"
-    ""
+    MG "Her şey yolunda mı?"
 
 # game/UpdateScript0.04.rpy:3935
 translate turkish jacky_caught_office_3a55d753:
 
     # R "Yeah.... of course.... I just need to talk to her some more about this stupid Oedipus assignment."
-    ""
+    R "Evet.... tabii ki.... Şu aptal Oedipus ödevi hakkında onunla biraz daha konuşmam gerek."
 
 # game/UpdateScript0.04.rpy:3936
 translate turkish jacky_caught_office_acb772d1:
 
     # MB "Haha.... yeah, that's some kinky shit to be teaching us in school."
-    ""
+    MB "Haha.... evet, bu bize okulda öğretilen sapıkça bir şey."
 
 # game/UpdateScript0.04.rpy:3937
 translate turkish jacky_caught_office_f570eda3:
 
     # MB "Are you sure you're not just exploring the Oedipal Complex side of this assignment with your mom in her office? Hahahahah..."
-    ""
+    MB "Bu ödevin Ödipal Kompleks tarafını annenin ofisinde keşfetmediğine emin misin? Hahahah..."
 
 # game/UpdateScript0.04.rpy:3938
 translate turkish jacky_caught_office_5993d2d9:
 
     # R "What?.... no.... shut up!"
-    ""
+    R "Ne?.... hayır.... kapa çeneni!"
 
 # game/UpdateScript0.04.rpy:3939
 translate turkish jacky_caught_office_40cd6e2d:
@@ -10480,145 +10480,145 @@ translate turkish jacky_caught_office_4881927b:
 translate turkish jacky_caught_office_9f8333c6:
 
     # MG "I just got a mental image.... wow!.... That really turns me on for some reason."
-    ""
+    MG "Aklıma bir görüntü geldi.... vay canına!.... Nedense bu beni gerçekten tahrik ediyor."
 
 # game/UpdateScript0.04.rpy:3942
 translate turkish jacky_caught_office_4580e4dd:
 
     # R "What?.... No.... don't get a mental image!.... There's nothing to get an image about.... there's nothing going on with me and Miss [mom_name]!"
-    ""
+    R "Ne? .... Hayır.... aklına bir şey gelmesin!.... Hayal kuracak bir şey yok.... ben ve Bayan [mom_name] arasında hiçbir şey yok.!"
 
 # game/UpdateScript0.04.rpy:3943
 translate turkish jacky_caught_office_6efad675:
 
     # MG "Matt! Follow me.... I've got something.... I need to.... take care of..."
-    ""
+    MG "Matt! Beni takip et.... Bir şey buldum.... Yapmam gereken.... halletmem gereken..."
 
 # game/UpdateScript0.04.rpy:3946
 translate turkish jacky_caught_office_8d6de886:
 
     # RT "{i}Ok, Mom's probably in her office. I could go talk to her, or should I maybe look around and see if I can tell where Matt and Megan went.... maybe I can sneak a peek.... {/i}"
-    ""
+    RT "{i}Tamam, annem muhtemelen ofistedir. Gidip onunla konuşabilirim ya da etrafa bakıp Matt ve Megan'ın nereye gittiklerini öğrenebilir miyim diye bakabilirim.... belki gizlice bir göz atabilirim....{/i}"
 
 # game/UpdateScript0.04.rpy:3949
 translate turkish jacky_caught_office_338ce48a:
 
     # RT "{i}Just a few weeks ago, I would have considered spying on Matt and Megan super creepy, but with some of the choices I've made lately, it seems pretty mild.... what am I becoming?{/i}"
-    ""
+    RT "{i}Sadece birkaç hafta önce Matt ve Megan'ı gözetlemeyi çok ürkütücü bulurdum, ama son zamanlarda yaptığım bazı seçimlerle bu oldukça hafif görünüyor.... neye dönüşüyorum?{/i}"
 
 # game/UpdateScript0.04.rpy:3955
 translate turkish jacky_caught_office_efc84d67:
 
     # RT "{i}Huh.... no feet under the stalls.... I thought for sure they'd be here. After all this is where Matt sent Megan to come service me.{/i}"
-    ""
+    RT "{i}Huh.... kapıların altında ayak yok.... Burada olacaklarından emindim. Ne de olsa Matt'in Megan'ı bana hizmet etmesi için gönderdiği yer burası.{/i}"
 
 # game/UpdateScript0.04.rpy:3957
 translate turkish jacky_caught_office_1f01abde:
 
     # RT "{i}Huh.... no feet under the stalls.... I thought for sure they'd be here. After all this is where Megan brought me.{/i}"
-    ""
+    RT "{i}Huh.... kapıların altında ayak yok.... Burada olacaklarından emindim. Ne de olsa Matt'in Megan'ı bana hizmet etmesi için gönderdiği yer burası.{/i}"
 
 # game/UpdateScript0.04.rpy:3959
 translate turkish jacky_caught_office_7afcbb3d:
 
     # RT "{i}Huh.... no feet under the stalls.... I guess I should just keep looking.{/i}"
-    ""
+    RT "{i}Hah .... Ayakların altında ayak yok .... Sanırım aramaya devam etmeliydim."
 
 # game/UpdateScript0.04.rpy:3960
 translate turkish jacky_caught_office_e10509a5:
 
     # RT "{i}Hmmmmm.... where else?.... Oh I'll bet I know.{/i}"
-    ""
+    RT "{i}Hmmmmm.... başka nerede olabilir? .... Bahse girerim ki biliyorum.{/i}"
 
 # game/UpdateScript0.04.rpy:3970
 translate turkish jacky_caught_office_8338c75e:
 
     # RT "{i}Oh, shit.... there they are.... {/i}"
-    ""
+    RT "{i}Oh, siktir.... işte oradalar.... {/i}"
 
 # game/UpdateScript0.04.rpy:3971
 translate turkish jacky_caught_office_de2f9be9:
 
     # RT "{i}Nice!.... Megan is really into it!{/i}"
-    ""
+    RT "{i}Güzel!.... Megan gerçekten bu işin içinde!{/i}"
 
 # game/UpdateScript0.04.rpy:3972
 translate turkish jacky_caught_office_5e848239:
 
     # MG "Ohhh.... yeahh.... fuck me like [ryan] fucks his mom!"
-    ""
+    MG "Ohhh.... yeahh.... annesini siken [ryan] gibi sik beni!"
 
 # game/UpdateScript0.04.rpy:3973
 translate turkish jacky_caught_office_6ac7cc45:
 
     # MG "Speaking of.... have we made.... much progress?..."
-    ""
+    MG "Demişken.... çok ilerleme kaydettik mi?..."
 
 # game/UpdateScript0.04.rpy:3974
 translate turkish jacky_caught_office_d5fa5170:
 
     # MB "Not much.... and would you at least.... pretend you enjoy fucking me.... just because it's me?..."
-    ""
+    MB "Çok değil... ve en azından... sırf ben olduğum için... beni becermekten hoşlanıyormuş gibi yapar mısın?..."
 
 # game/UpdateScript0.04.rpy:3975
 translate turkish jacky_caught_office_7a9f7a98:
 
     # MG "I'm sorry.... but it's so much.... better if I say this stuff.... out loouuuud!..."
-    ""
+    MG "Özür dilerim.... ama bu şeyi.... yüksek sesle söylersem.... çok daha iyi olur!..."
 
 # game/UpdateScript0.04.rpy:3976
 translate turkish jacky_caught_office_5fa743d2:
 
     # RT "{i}They're going at it again.{/i}"
-    ""
+    RT "{i}Yine başlıyorlar.{/i}"
 
 # game/UpdateScript0.04.rpy:3977
 translate turkish jacky_caught_office_4ee92848:
 
     # RT "{i}Still fucking.... and still scheming.{/i}"
-    ""
+    RT "{i}Hala sikişiyorlar.... plan düşünerek.{/i}"
 
 # game/UpdateScript0.04.rpy:3978
 translate turkish jacky_caught_office_ff845141:
 
     # RT "{i}I'd better go find Mom.{/i}"
-    ""
+    RT "{i}Gidip annemi bulsam iyi olacak.{/i}"
 
 # game/UpdateScript0.04.rpy:3992
 translate turkish jacky_caught_office_8338c75e_1:
 
     # RT "{i}Oh, shit.... there they are.... {/i}"
-    ""
+    RT "{i}Oh, siktir.... işte oradalar.... {/i}"
 
 # game/UpdateScript0.04.rpy:3993
 translate turkish jacky_caught_office_de2f9be9_1:
 
     # RT "{i}Nice!.... Megan is really into it!{/i}"
-    ""
+    RT "{i}Güzel!.... Megan gerçekten bu işin içinde!{/i}"
 
 # game/UpdateScript0.04.rpy:3994
 translate turkish jacky_caught_office_5e848239_1:
 
     # MG "Ohhh.... yeahh.... fuck me like [ryan] fucks his mom!"
-    ""
+    MG "Ohhh.... yeahh.... annesini siken [ryan] gibi sik beni!"
 
 # game/UpdateScript0.04.rpy:3995
 translate turkish jacky_caught_office_7474ddf2:
 
     # MB "I don't think they've.... done any fucking yet.... I don't think they've .... done hardly .... anything yet."
-    ""
+    MB "Sanırım.... henüz hiçbir şey yapmadılar.... Henüz.... pek bir şey yaptıklarını.... sanmıyorum."
 
 # game/UpdateScript0.04.rpy:3996
 translate turkish jacky_caught_office_b8aa2b57:
 
     # MG "Shut up! Don't.... ruin .... my fantasy .... right now!"
-    ""
+    MG "Kapa çeneni! Şu anda.... fantezimi.... mahvetme!"
 
 # game/UpdateScript0.04.rpy:3997
 translate turkish jacky_caught_office_2b118f35:
 
     # MG "You know .... I need.... taboo .... thoughts.... to be able .... to cum.... anymore!"
-    ""
+    MG "Bilirsin.... Artık boşalabilmek için.... tabu.... düşüncelerine.... ihtiyacım var!"
 
 # game/UpdateScript0.04.rpy:3998
 translate turkish jacky_caught_office_01e75c77:
@@ -10630,7 +10630,7 @@ translate turkish jacky_caught_office_01e75c77:
 translate turkish jacky_caught_office_2fed0a60:
 
     # MG "How's that.... going to.... happen.... I thought he told you.... to fuck off."
-    ""
+    MG "O nasıl ... olacak .... Olacak .... Sana siktir olup olmadığını söyledi sanıyordum."
 
 # game/UpdateScript0.04.rpy:4001
 translate turkish jacky_caught_office_1f651090:
@@ -10642,193 +10642,193 @@ translate turkish jacky_caught_office_1f651090:
 translate turkish jacky_caught_office_63fc8b23:
 
     # MB "But I've got to.... figure how to get a piece of.... [mom_name]'s ass for myself."
-    ""
+    MB "ama ben ... nasıl bir parça ... [mom_name]' nin popolarını kendim için bulayım."
 
 # game/UpdateScript0.04.rpy:4004
 translate turkish jacky_caught_office_57e69d2a:
 
     # MG "Have you.... figured out a .... plan to get them.... together yet?"
-    ""
+    MG "Onları.... bir araya getirmek için.... bir plan yaptın mı?"
 
 # game/UpdateScript0.04.rpy:4005
 translate turkish jacky_caught_office_1213fd85:
 
     # MB "I'm still working.... out the details.... but it's going to involve you.... getting close to his family."
-    ""
+    MB "Hâlâ.... ayrıntılar üzerinde çalışıyorum.... ama bu senin.... onun ailesiyle yakınlaşmanı gerektirecek."
 
 # game/UpdateScript0.04.rpy:4006
 translate turkish jacky_caught_office_b48117c8:
 
     # MB "Maybe you can.... get close.... through his sister.... Lauren."
-    ""
+    MB "Belki.... kız kardeşi.... Lauren aracılığıyla.... yakınlaşabilirsin."
 
 # game/UpdateScript0.04.rpy:4007
 translate turkish jacky_caught_office_e0fe6189:
 
     # MG "Well, that's easy.... she seems pretty.... easy to influence..."
-    ""
+    MG "Bu kolay.... onu etkilemek oldukça.... kolay görünüyor..."
 
 # game/UpdateScript0.04.rpy:4008
 translate turkish jacky_caught_office_4a1e4820:
 
     # MB "Well, whatever we do.... I can't wait.... to get a piece of.... [mom_name]'s ass for myself."
-    ""
+    MB "Ne yaparsak yapalım.... Sabırsızlanıyorum.... bir parça almak için.... [mom_name]'in götünü kendime ait yapmak için."
 
 # game/UpdateScript0.04.rpy:4009
 translate turkish jacky_caught_office_79f01eb4:
 
     # MG "Whatever we do.... we need to hurry it along."
-    ""
+    MG "Ne yaparsak yapalım.... acele etmemiz gerekiyor."
 
 # game/UpdateScript0.04.rpy:4010
 translate turkish jacky_caught_office_b3defae4:
 
     # MB "Yeah.... so far.... it's been like.... one of those crappy incest games.... that leaves you with blue balls.... and never gets.... to the good stuff."
-    ""
+    MB "Evet.... şu ana kadar.... şu berbat ensest oyunlarından biri gibiydi.... seni mavi toplarla bırakan.... ve asla.... iyi şeylere ulaşamayan."
 
 # game/UpdateScript0.04.rpy:4011
 translate turkish jacky_caught_office_af8362ff:
 
     # RT "{i}Holy shit.... those two are quite the schemers!{/i}"
-    ""
+    RT "{i}Vay anasını.... bu ikisi tam bir düzenbaz!{/i}"
 
 # game/UpdateScript0.04.rpy:4013
 translate turkish jacky_caught_office_a688357a:
 
     # RT "{i}Matt thinks he can use his girlfriend to get to Mom{/i}"
-    ""
+    RT "{i}Matt sevgilisini anneme ulaşmak için kullanabileceğini düşünüyor { /i }"
 
 # game/UpdateScript0.04.rpy:4014
 translate turkish jacky_caught_office_f722b5d6:
 
     # RT "{i}Somehow I've got to figure out how to take Megan away from him instead.{/i}"
-    ""
+    RT "{i}Bir şekilde Megan 'ı ondan nasıl uzaklaştıracağımı çözmem lazım."
 
 # game/UpdateScript0.04.rpy:4015
 translate turkish jacky_caught_office_5f606d9b:
 
     # RT "{i}That will show that arrogant jock.{/i}"
-    ""
+    RT "{i}O kibirli sporcu bunu gösterecek. { /i }"
 
 # game/UpdateScript0.04.rpy:4017
 translate turkish jacky_caught_office_a8e6354c:
 
     # RT "{i}It's good to see that Matt's doing his best to get Mom and I together.{/i}"
-    ""
+    RT "{i}Matt'in annemle beni bir araya getirmek için elinden geleni yaptığını görmek güzel.{/i}"
 
 # game/UpdateScript0.04.rpy:4018
 translate turkish jacky_caught_office_d9ccd511:
 
     # RT "{i}And having Megan around will be nice too. I hope I can get another blowjob, or maybe even more from her as long as she's hanging around.{/i}"
-    ""
+    RT "{i}Megan'ın etrafta olması da güzel olacak. Umarım bir oral seks daha yapabilirim, hatta belki de o buralarda olduğu sürece daha fazlasını.{/i}"
 
 # game/UpdateScript0.04.rpy:4019
 translate turkish jacky_caught_office_497b95a0:
 
     # RT "{i}Shit!.... But why did I tell him he could have Mom after I've had her. I don't want to share her.... {/i}"
-    ""
+    RT "{i}Siktir! .... Ama neden ona annemi benden sonra alabileceğini söyledim? Onu paylaşmak istemiyorum.... {/i}"
 
 # game/UpdateScript0.04.rpy:4020
 translate turkish jacky_caught_office_3a0216b2:
 
     # RT "{i}I've got to figure some way to please Matt instead of giving him Mom.{/i}"
-    ""
+    RT "{i}Matt'e annemi vermek yerine onu memnun etmenin bir yolunu bulmalıyım.{/i}"
 
 # game/UpdateScript0.04.rpy:4021
 translate turkish jacky_caught_office_877702ea:
 
     # RT "{i}Speaking of, I better get out of here and go see her in her office.{/i}"
-    ""
+    RT "{i}Lafı açılmışken, buradan çıkıp onu ofisinde görsem iyi olacak./i}"
 
 # game/UpdateScript0.04.rpy:4049
 translate turkish jacky_caught_office_8338c75e_2:
 
     # RT "{i}Oh, shit.... there they are.... {/i}"
-    ""
+    RT "{i}Oh, siktir.... işte oradalar.... {/i}"
 
 # game/UpdateScript0.04.rpy:4050
 translate turkish jacky_caught_office_de2f9be9_2:
 
     # RT "{i}Nice!.... Megan is really into it!{/i}"
-    ""
+    RT "{i}Güzel!.... Megan gerçekten bu işin içinde!{/i}"
 
 # game/UpdateScript0.04.rpy:4051
 translate turkish jacky_caught_office_5e848239_2:
 
     # MG "Ohhh.... yeahh.... fuck me like [ryan] fucks his mom!"
-    ""
+    MG "Ohhh.... yeahh.... annesini siken [ryan] gibi sik beni!"
 
 # game/UpdateScript0.04.rpy:4052
 translate turkish jacky_caught_office_6ac7cc45_1:
 
     # MG "Speaking of.... have we made.... much progress?..."
-    ""
+    MG "Demişken.... çok ilerleme kaydettik mi?..."
 
 # game/UpdateScript0.04.rpy:4053
 translate turkish jacky_caught_office_d5fa5170_1:
 
     # MB "Not much.... and would you at least.... pretend you enjoy fucking me.... just because it's me?..."
-    ""
+    MB "Çok değil... ve en azından... sırf ben olduğum için... beni becermekten hoşlanıyormuş gibi yapar mısın?..."
 
 # game/UpdateScript0.04.rpy:4054
 translate turkish jacky_caught_office_7a9f7a98_1:
 
     # MG "I'm sorry.... but it's so much.... better if I say this stuff.... out loouuuud!..."
-    ""
+    MG "Özür dilerim.... ama bu şeyi.... yüksek sesle söylersem.... çok daha iyi olur!..."
 
 # game/UpdateScript0.04.rpy:4055
 translate turkish jacky_caught_office_5fa743d2_1:
 
     # RT "{i}They're going at it again.{/i}"
-    ""
+    RT "{i}Yine başlıyorlar.{/i}"
 
 # game/UpdateScript0.04.rpy:4056
 translate turkish jacky_caught_office_4ee92848_1:
 
     # RT "{i}Still fucking.... and still scheming.{/i}"
-    ""
+    RT "{i}Hala sikişiyorlar.... plan düşünerek.{/i}"
 
 # game/UpdateScript0.04.rpy:4057
 translate turkish jacky_caught_office_ff845141_1:
 
     # RT "{i}I'd better go find Mom.{/i}"
-    ""
+    RT "{i}Gidip annemi bulsam iyi olacak.{/i}"
 
 # game/UpdateScript0.04.rpy:4071
 translate turkish jacky_caught_office_8338c75e_3:
 
     # RT "{i}Oh, shit.... there they are.... {/i}"
-    ""
+    RT "{i}Oh, siktir.... işte oradalar.... {/i}"
 
 # game/UpdateScript0.04.rpy:4072
 translate turkish jacky_caught_office_de2f9be9_3:
 
     # RT "{i}Nice!.... Megan is really into it!{/i}"
-    ""
+    RT "{i}Güzel!.... Megan gerçekten bu işin içinde!{/i}"
 
 # game/UpdateScript0.04.rpy:4073
 translate turkish jacky_caught_office_5e848239_3:
 
     # MG "Ohhh.... yeahh.... fuck me like [ryan] fucks his mom!"
-    ""
+    MG "Ohhh.... yeahh.... annesini siken [ryan] gibi sik beni!"
 
 # game/UpdateScript0.04.rpy:4074
 translate turkish jacky_caught_office_7474ddf2_1:
 
     # MB "I don't think they've.... done any fucking yet.... I don't think they've .... done hardly .... anything yet."
-    ""
+    MB "Sanırım.... henüz hiçbir şey yapmadılar.... Henüz.... pek bir şey yaptıklarını.... sanmıyorum."
 
 # game/UpdateScript0.04.rpy:4075
 translate turkish jacky_caught_office_b8aa2b57_1:
 
     # MG "Shut up! Don't.... ruin .... my fantasy .... right now!"
-    ""
+    MG "Kapa çeneni! Şu anda.... fantezimi.... mahvetme!"
 
 # game/UpdateScript0.04.rpy:4076
 translate turkish jacky_caught_office_2b118f35_1:
 
     # MG "You know .... I need.... taboo .... thoughts.... to be able .... to cum.... anymore!"
-    ""
+    MG "Bilirsin.... Artık boşalabilmek için.... tabu.... düşüncelerine.... ihtiyacım var!"
 
 # game/UpdateScript0.04.rpy:4077
 translate turkish jacky_caught_office_01e75c77_1:
@@ -10840,7 +10840,7 @@ translate turkish jacky_caught_office_01e75c77_1:
 translate turkish jacky_caught_office_2fed0a60_1:
 
     # MG "How's that.... going to.... happen.... I thought he told you.... to fuck off."
-    ""
+    MG "O nasıl ... olacak .... Olacak .... Sana siktir olup olmadığını söyledi sanıyordum."
 
 # game/UpdateScript0.04.rpy:4080
 translate turkish jacky_caught_office_1f651090_1:
@@ -10852,139 +10852,139 @@ translate turkish jacky_caught_office_1f651090_1:
 translate turkish jacky_caught_office_63fc8b23_1:
 
     # MB "But I've got to.... figure how to get a piece of.... [mom_name]'s ass for myself."
-    ""
+    MB "ama ben ... nasıl bir parça ... [mom_name]' nin popolarını kendim için bulayım."
 
 # game/UpdateScript0.04.rpy:4083
 translate turkish jacky_caught_office_57e69d2a_1:
 
     # MG "Have you.... figured out a .... plan to get them.... together yet?"
-    ""
+    MG "Onları.... bir araya getirmek için.... bir plan yaptın mı?"
 
 # game/UpdateScript0.04.rpy:4084
 translate turkish jacky_caught_office_1213fd85_1:
 
     # MB "I'm still working.... out the details.... but it's going to involve you.... getting close to his family."
-    ""
+    MB "Hâlâ.... ayrıntılar üzerinde çalışıyorum.... ama bu senin.... onun ailesiyle yakınlaşmanı gerektirecek."
 
 # game/UpdateScript0.04.rpy:4085
 translate turkish jacky_caught_office_b48117c8_1:
 
     # MB "Maybe you can.... get close.... through his sister.... Lauren."
-    ""
+    MB "Belki.... kız kardeşi.... Lauren aracılığıyla.... yakınlaşabilirsin."
 
 # game/UpdateScript0.04.rpy:4086
 translate turkish jacky_caught_office_e0fe6189_1:
 
     # MG "Well, that's easy.... she seems pretty.... easy to influence..."
-    ""
+    MG "Bu kolay.... onu etkilemek oldukça.... kolay görünüyor..."
 
 # game/UpdateScript0.04.rpy:4087
 translate turkish jacky_caught_office_4a1e4820_1:
 
     # MB "Well, whatever we do.... I can't wait.... to get a piece of.... [mom_name]'s ass for myself."
-    ""
+    MB "Ne yaparsak yapalım.... Sabırsızlanıyorum.... bir parça almak için.... [mom_name]'in götünü kendime ait yapmak için."
 
 # game/UpdateScript0.04.rpy:4088
 translate turkish jacky_caught_office_79f01eb4_1:
 
     # MG "Whatever we do.... we need to hurry it along."
-    ""
+    MG "Ne yaparsak yapalım.... acele etmemiz gerekiyor."
 
 # game/UpdateScript0.04.rpy:4089
 translate turkish jacky_caught_office_b3defae4_1:
 
     # MB "Yeah.... so far.... it's been like.... one of those crappy incest games.... that leaves you with blue balls.... and never gets.... to the good stuff."
-    ""
+    MB "Evet.... şu ana kadar.... şu berbat ensest oyunlarından biri gibiydi.... seni mavi toplarla bırakan.... ve asla.... iyi şeylere ulaşamayan."
 
 # game/UpdateScript0.04.rpy:4090
 translate turkish jacky_caught_office_af8362ff_1:
 
     # RT "{i}Holy shit.... those two are quite the schemers!{/i}"
-    ""
+    RT "{i}Vay anasını.... bu ikisi tam bir düzenbaz!{/i}"
 
 # game/UpdateScript0.04.rpy:4092
 translate turkish jacky_caught_office_a688357a_1:
 
     # RT "{i}Matt thinks he can use his girlfriend to get to Mom{/i}"
-    ""
+    RT "{i}Matt sevgilisini anneme ulaşmak için kullanabileceğini düşünüyor { /i }"
 
 # game/UpdateScript0.04.rpy:4093
 translate turkish jacky_caught_office_f722b5d6_1:
 
     # RT "{i}Somehow I've got to figure out how to take Megan away from him instead.{/i}"
-    ""
+    RT "{i}Bir şekilde Megan 'ı ondan nasıl uzaklaştıracağımı çözmem lazım."
 
 # game/UpdateScript0.04.rpy:4094
 translate turkish jacky_caught_office_5f606d9b_1:
 
     # RT "{i}That will show that arrogant jock.{/i}"
-    ""
+    RT "{i}O kibirli sporcu bunu gösterecek. { /i }"
 
 # game/UpdateScript0.04.rpy:4096
 translate turkish jacky_caught_office_a8e6354c_1:
 
     # RT "{i}It's good to see that Matt's doing his best to get Mom and I together.{/i}"
-    ""
+    RT "{i}Matt'in annemle beni bir araya getirmek için elinden geleni yaptığını görmek güzel.{/i}"
 
 # game/UpdateScript0.04.rpy:4097
 translate turkish jacky_caught_office_d9ccd511_1:
 
     # RT "{i}And having Megan around will be nice too. I hope I can get another blowjob, or maybe even more from her as long as she's hanging around.{/i}"
-    ""
+    RT "{i}Megan'ın etrafta olması da güzel olacak. Umarım bir oral seks daha yapabilirim, hatta belki de o buralarda olduğu sürece daha fazlasını.{/i}"
 
 # game/UpdateScript0.04.rpy:4098
 translate turkish jacky_caught_office_497b95a0_1:
 
     # RT "{i}Shit!.... But why did I tell him he could have Mom after I've had her. I don't want to share her.... {/i}"
-    ""
+    RT "{i}Siktir! .... Ama neden ona annemi benden sonra alabileceğini söyledim? Onu paylaşmak istemiyorum.... {/i}"
 
 # game/UpdateScript0.04.rpy:4099
 translate turkish jacky_caught_office_3a0216b2_1:
 
     # RT "{i}I've got to figure some way to please Matt instead of giving him Mom.{/i}"
-    ""
+    RT "{i}Matt'e annemi vermek yerine onu memnun etmenin bir yolunu bulmalıyım.{/i}"
 
 # game/UpdateScript0.04.rpy:4100
 translate turkish jacky_caught_office_877702ea_1:
 
     # RT "{i}Speaking of, I better get out of here and go see her in her office.{/i}"
-    ""
+    RT "{i}Lafı açılmışken, buradan çıkıp onu ofisinde görsem iyi olacak./i}"
 
 # game/UpdateScript0.04.rpy:4130
 translate turkish jacky_at_Laptop_4934e3ff:
 
     # RT "{i}Dammit, I took too long. I'm sure she's probably back in class getting ready to start her next lesson.{/i}"
-    ""
+    RT "{i}Siktir, çok uzun sürdü. Eminim şu anda sınıfta bir sonraki derse hazırlanıyor.{/i}"
 
 # game/UpdateScript0.04.rpy:4131
 translate turkish jacky_at_Laptop_1a92ccbb:
 
     # RT "{i}I guess I better try to talk to her again tomorrow.{/i}"
-    ""
+    RT "{i}Sanırım yarın onunla tekrar konuşmayı denesem iyi olacak.{/i}"
 
 # game/UpdateScript0.04.rpy:4142
 translate turkish jacky_at_Laptop_4e56c265:
 
     # RT "{i}Hmmmm.... her door's shut again. I'll bet she's at it again. I'll Just take a peek.{/i}"
-    ""
+    RT "{i}Hmmmm.... kapısı yine kapalı. Bahse girerim yine yapıyordur. Sadece bir göz atacağım.{/i}"
 
 # game/UpdateScript0.04.rpy:4148
 translate turkish jacky_at_Laptop_ba1177ea:
 
     # RT "{i}Haha.... yep!.... She must really be missing Dad to be trying to squeeze a session in before class.{/i}"
-    ""
+    RT "{i}Haha... evet!... Dersten önce bir seans sıkıştırmaya çalıştığına göre babamı gerçekten özlüyor olmalı.{/i}"
 
 # game/UpdateScript0.04.rpy:4149
 translate turkish jacky_at_Laptop_48d09da9:
 
     # RT "{i}Well, I've never been one to want to be left out.{/i}"
-    ""
+    RT "{i}Ben hiçbir zaman dışlanmak istemedim.{/i}"
 
 # game/UpdateScript0.04.rpy:4152
 translate turkish jacky_at_Laptop_4b38c491:
 
     # RT "{i}Now looks like a good time.{/i}"
-    ""
+    RT "{i}Şimdi iyi bir zaman gibi görünüyor.{/i}"
 
 # game/UpdateScript0.04.rpy:4153
 translate turkish jacky_at_Laptop_12b5ff40:
@@ -10996,193 +10996,193 @@ translate turkish jacky_at_Laptop_12b5ff40:
 translate turkish jacky_at_Laptop_5c0fec41:
 
     # M "[ryan]!.... You scared the hell out of me again!?"
-    ""
+    M "[ryan]!... Yine ödümü kopardın!?"
 
 # game/UpdateScript0.04.rpy:4159
 translate turkish jacky_at_Laptop_06e4b3c3:
 
     # M "Why won't the school board just let us put locks on our office doors?"
-    ""
+    M "Okul yönetimi neden ofis kapılarımıza kilit takmamıza izin vermiyor ki?"
 
 # game/UpdateScript0.04.rpy:4160
 translate turkish jacky_at_Laptop_33bc201e:
 
     # R "Probably so that you'll give your students your attention during school hours, rather than attending to personal business."
-    ""
+    R "Muhtemelen böylece okul saatlerinde kişisel işlerinle ilgilenmek yerine öğrencilerine dikkatini verebilirsin."
 
 # game/UpdateScript0.04.rpy:4162
 translate turkish jacky_at_Laptop_23cddae3:
 
     # M "Don't be a prick."
-    ""
+    M "Hıyarlık etme."
 
 # game/UpdateScript0.04.rpy:4163
 translate turkish jacky_at_Laptop_b7d4027e:
 
     # M "And can't you just wait until I'm finished?"
-    ""
+    M "Ve ben bitirene kadar bekleyemez misin?"
 
 # game/UpdateScript0.04.rpy:4164
 translate turkish jacky_at_Laptop_7a5b0ced:
 
     # R "You know this is the only time I have to see you about school assignments."
-    ""
+    R "Biliyorsun, bu okul ödevleri için seni görmek zorunda olduğum tek zaman."
 
 # game/UpdateScript0.04.rpy:4165
 translate turkish jacky_at_Laptop_c1784521:
 
     # M "Alright, well come in, and we'll get to work."
-    ""
+    M "Pekala, içeri gel ve işe koyulalım."
 
 # game/UpdateScript0.04.rpy:4168
 translate turkish jacky_at_Laptop_ba1d8fe2:
 
     # M "Let's just pick up from where we left off."
-    ""
+    M "Kaldığımız yerden devam edelim."
 
 # game/UpdateScript0.04.rpy:4169
 translate turkish jacky_at_Laptop_f2ba6051:
 
     # M "Maybe there's more scenes in this game that will be good to mention in your paper."
-    ""
+    M "Belki bu oyunda ödevinde bahsetmek için iyi olacak başka sahneler de vardır."
 
 # game/UpdateScript0.04.rpy:4172
 translate turkish jacky_at_Laptop_a4c1dbf6:
 
     # M "Darn it."
-    ""
+    M "Kahretsin."
 
 # game/UpdateScript0.04.rpy:4173
 translate turkish jacky_at_Laptop_75bc7060:
 
     # M "I forgot to save the last time we played. We'll just have to click through the scenes quickly without reading it."
-    ""
+    M "Son oynadığımızda kaydetmeyi unutmuşum. Okumadan sahnelere hızlıca tıklamamız gerekecek."
 
 # game/UpdateScript0.04.rpy:4174
 translate turkish jacky_at_Laptop_a56e97d0:
 
     # M "Oh, and before I forget, you might as well take it out right now before you put anymore strain on the stitching of those pants, and I'll make myself comfortable too."
-    ""
+    M "Unutmadan, pantolonun dikişlerini daha fazla zorlamadan hemen şimdi çıkarabilirsin, ben de rahatıma bakarım."
 
 # game/UpdateScript0.04.rpy:4175
 translate turkish jacky_at_Laptop_a3ebed8e:
 
     # R "{i}Wow, she seems to be jumping right into it this time.{/i}"
-    ""
+    R "{i}Vay canına, bu sefer hemen atlıyor gibi görünüyor.{/i}"
 
 # game/UpdateScript0.04.rpy:4178
 translate turkish jacky_at_Laptop_f88f3e78:
 
     # MT "{i}Uuuggghhh.... why does that little motherfucker.... I mean just fucker.... always have to catch me when I'm horny in my office.{/i}"
-    ""
+    MT "{i}Uuuggghhh... neden bu küçük orospu çocuğu... Yani sadece sikik... her zaman ofisimde azgınken beni yakalamak zorunda.{/i}"
 
 # game/UpdateScript0.04.rpy:4179
 translate turkish jacky_at_Laptop_2a9a9168:
 
     # MT "{i}I'm already out of control! I've already invited him to take his dick out and pulled my skirt up to my waist.{/i}"
-    ""
+    MT "{i}Şimdiden kontrolden çıktım! Ona sikini çıkarmasını söyledim ve eteğimi belime kadar çektim.{/i}"
 
 # game/UpdateScript0.04.rpy:4180
 translate turkish jacky_at_Laptop_5355e0d0:
 
     # MT "{i}Ok, [mom_name]!.... Use a little self control.... do not look over at his cock!{/i}"
-    ""
+    MT "{i}Tamam, [mom_name]!.... Biraz kendini kontrol et.... onun sikine bakma!{/i}"
 
 # game/UpdateScript0.04.rpy:4183
 translate turkish jacky_at_Laptop_684bbe43:
 
     # M "{i}Shit!{/i}"
-    ""
+    M "{i}Siktir!.... {/i}"
 
 # game/UpdateScript0.04.rpy:4187
 translate turkish jacky_at_Laptop_ddd1237c:
 
     # MT "{i}Why am I doing this?{/i}"
-    ""
+    MT "{i}Neden bunu yapıyorum?{/i}"
 
 # game/UpdateScript0.04.rpy:4188
 translate turkish jacky_at_Laptop_02b15a0b:
 
     # R "I think we're coming to some new content."
-    ""
+    R "Sanırım bazı yeni içeriklere ulaşıyoruz."
 
 # game/UpdateScript0.04.rpy:4200
 translate turkish jacky_at_Laptop_873997cb:
 
     # RT "{i}Oh, wow.... she got right to it.... {/i}"
-    ""
+    RT "{i}Vay canına.... hemen işe koyuldu.... {/i}"
 
 # game/UpdateScript0.04.rpy:4201
 translate turkish jacky_at_Laptop_f5c6c5c9:
 
     # RT "{i}Well, I guess there's no time like the present.{/i}"
-    ""
+    RT "{i}Sanırım şimdiki zaman gibisi yoktur.{/i}"
 
 # game/UpdateScript0.04.rpy:4205
 translate turkish jacky_at_Laptop_7aa9006c:
 
     # MT "{i}Well, fuck self control.... this feels too good.{/i}"
-    ""
+    MT "{i}Kendini kontrol etmeyi siktir et.... bu çok iyi hissettiriyor.{/i}"
 
 # game/UpdateScript0.04.rpy:4206
 translate turkish jacky_at_Laptop_712363bc:
 
     # RT "{i}I think the time will be right very soon to push things a little further.... I'll just enjoy this for now.{/i}"
-    ""
+    RT "{i}Sanırım çok yakında işleri biraz daha ileri götürmek için doğru zaman gelecek.... Şimdilik bunun tadını çıkaracağım.{/i}"
 
 # game/UpdateScript0.04.rpy:4207
 translate turkish jacky_at_Laptop_a820e4c6:
 
     # RT "{i}Oh.... fuck.... {/i}"
-    ""
+    RT "{i}Oh.... sikeyim.... {/i}"
 
 # game/UpdateScript0.04.rpy:4220
 translate turkish jacky_at_Laptop_48bb5537:
 
     # M "Haha.... did you see that!?"
-    ""
+    M "Haha.... bunu gördün mü!?"
 
 # game/UpdateScript0.04.rpy:4221
 translate turkish jacky_at_Laptop_507eb894:
 
     # M "I caught it this time!"
-    ""
+    M "Bu sefer yakaladım!"
 
 # game/UpdateScript0.04.rpy:4222
 translate turkish jacky_at_Laptop_e9638de7:
 
     # R "Oh my gosh, Mom! Are you ok?"
-    ""
+    R "Aman Tanrım, anne! İyi misin?"
 
 # game/UpdateScript0.04.rpy:4223
 translate turkish jacky_at_Laptop_cb76d178:
 
     # M "Of course, why wouldn't I be?"
-    ""
+    M "Tabii ki, neden olmayayım ki?"
 
 # game/UpdateScript0.04.rpy:4224
 translate turkish jacky_at_Laptop_7d7382cc:
 
     # R "You seemed so mad last time."
-    ""
+    R "Geçen sefer çok kızgın görünüyordun."
 
 # game/UpdateScript0.04.rpy:4225
 translate turkish jacky_at_Laptop_e8457307:
 
     # M "Yeah, well I've decided I'm happy to see my boy practicing good health habits."
-    ""
+    M "Evet, oğlumun iyi sağlık alışkanlıkları edindiğini görmekten mutlu oldum."
 
 # game/UpdateScript0.04.rpy:4226
 translate turkish jacky_at_Laptop_bbdc4e0a:
 
     # R "You're so cool!"
-    ""
+    R "Çok havalısın!"
 
 # game/UpdateScript0.04.rpy:4227
 translate turkish jacky_at_Laptop_283b4fe3:
 
     # RT "{i}I think I broke her.{/i}"
-    ""
+    RT "{i}Sanırım onu hallettim.{/i}"
 
 # game/UpdateScript0.04.rpy:4228
 translate turkish jacky_at_Laptop_3265e8ee:
@@ -11194,109 +11194,109 @@ translate turkish jacky_at_Laptop_3265e8ee:
 translate turkish jacky_at_Laptop_1d6c7bb5:
 
     # M "Now run along so I can finish taking care of myself before I go to class."
-    ""
+    M "Şimdi git de derse girmeden önce kendimi temizlemeyi bitireyim."
 
 # game/UpdateScript0.04.rpy:4231
 translate turkish jacky_at_Laptop_ccdbff1b:
 
     # R "Wait! Take care of yourself how?"
-    ""
+    R "Bekle! Kendini nasıl temizleyeceksin?"
 
 # game/UpdateScript0.04.rpy:4232
 translate turkish jacky_at_Laptop_4af3f6b5:
 
     # M "I think you know what I mean."
-    ""
+    M "Aptal numarası yapma, ne demek istediğimi anladın."
 
 # game/UpdateScript0.04.rpy:4233
 translate turkish jacky_at_Laptop_7cdca3b0:
 
     # R "Can I watch?"
-    ""
+    R "İzleyebilir miyim?"
 
 # game/UpdateScript0.04.rpy:4234
 translate turkish jacky_at_Laptop_43ae3973:
 
     # MT "{i}This kid needs to get the fuck out of my office!! I don't have much time before class!{/i}"
-    ""
+    MT "{i}Bu çocuk ofisimden defolup gitmeli! Dersten önce fazla zamanım yok!{/i}"
 
 # game/UpdateScript0.04.rpy:4235
 translate turkish jacky_at_Laptop_147f77f3:
 
     # M "Now please hurry along.... before I cut your cock off."
-    ""
+    M "Şimdi lütfen acele et.... yoksa sikini keseceğim."
 
 # game/UpdateScript0.04.rpy:4236
 translate turkish jacky_at_Laptop_73105964:
 
     # R "Ok.... I'm going!"
-    ""
+    R "Tamam.... Gidiyorum!"
 
 # game/UpdateScript0.04.rpy:4245
 translate turkish jacky_at_Laptop_7d5805a9:
 
     # RT "{i}Hmmmm.... her door's shut, I'll just peek in and see if she's here.{/i}"
-    ""
+    RT "{i}Hmmmm.... kapısı kapalı, içeriye bir göz atıp burada olup olmadığına bakacağım.{/i}"
 
 # game/UpdateScript0.04.rpy:4248
 translate turkish jacky_at_Laptop_2932940b:
 
     # RT "{i}Oh, good.... she's here. She must be concentrating on her work. I don't think she noticed me come in.{/i}"
-    ""
+    RT "{i}Oh, güzel.... o burada. İşine konsantre olmuş olmalı. İçeri girdiğimi fark ettiğini sanmıyorum.{/i}"
 
 # game/UpdateScript0.04.rpy:4254
 translate turkish jacky_at_Laptop_7b3f10e2:
 
     # RT "{i}Oh my God! Is she doing what I think she's doing?{/i}"
-    ""
+    RT "{i}Aman Tanrım! Düşündüğüm şeyi mi yapıyor?{/i}"
 
 # game/UpdateScript0.04.rpy:4257
 translate turkish jacky_at_Laptop_2e573291:
 
     # R "Uhhhhh.... Mom?"
-    ""
+    R "Ehem.... Anne?"
 
 # game/UpdateScript0.04.rpy:4262
 translate turkish jacky_at_Laptop_537b186a:
 
     # M "[ryan]!.... Why didn't you knock!?"
-    ""
+    M "[ryan]!.... Neden kapıyı çalmadın!?"
 
 # game/UpdateScript0.04.rpy:4263
 translate turkish jacky_at_Laptop_ca691c43:
 
     # R "Ummmmm.... sorry?"
-    ""
+    R "Ummm.... pardon?"
 
 # game/UpdateScript0.04.rpy:4264
 translate turkish jacky_at_Laptop_3cb5c049:
 
     # M "How long have you been standing there?"
-    ""
+    M "Ne zamandır orada duruyorsun?"
 
 # game/UpdateScript0.04.rpy:4267
 translate turkish jacky_at_Laptop_c70ff9dd:
 
     # R "I just barely came in."
-    ""
+    R "Zar zor içeri girdim."
 
 # game/UpdateScript0.04.rpy:4268
 translate turkish jacky_at_Laptop_bce71e42:
 
     # R "Why do you ask."
-    ""
+    R "Neden soruyorsun?"
 
 # game/UpdateScript0.04.rpy:4269
 translate turkish jacky_at_Laptop_1f189f01:
 
     # M "{i}(relieved voice){/i} Oh.... no reason.... I was just doing some of my own research for the Oedipal curriculum?"
-    ""
+    M "{i}(rahatlama sesi){/i} Oh.... nedeni yok.... Oedipal müfredatı için kendi araştırmamı yapıyordum."
 
 # game/UpdateScript0.04.rpy:4271
 translate turkish jacky_at_Laptop_bb353bbe:
 
     # R "Long enough to know why you wanted your office door shut."
-    ""
+    R "Ofis kapını neden kapatmak istediğini bilecek kadar uzun."
 
 # game/UpdateScript0.04.rpy:4274
 translate turkish jacky_at_Laptop_dcdec28a:
@@ -11308,43 +11308,43 @@ translate turkish jacky_at_Laptop_dcdec28a:
 translate turkish jacky_at_Laptop_afe1f9c1:
 
     # M "[ryan]! I don't know what you think you saw, but I wasn't doing anything out of the ordinary."
-    ""
+    M "[ryan]! Ne gördüğünü sandığını bilmiyorum ama ben sıra dışı bir şey yapmıyordum."
 
 # game/UpdateScript0.04.rpy:4277
 translate turkish jacky_at_Laptop_198ea9c3:
 
     # R "Oh, you mean other teachers do that in their office too?"
-    ""
+    R "Yani diğer öğretmenler de mi bunu ofislerinde yapıyor?"
 
 # game/UpdateScript0.04.rpy:4278
 translate turkish jacky_at_Laptop_d889d328:
 
     # R "I wonder.... I should go ask Mrs. Vaughn if she does those kinds of things in her office."
-    ""
+    R "Merak ediyorum.... Bayan Vaughn'a gidip ofisinde bu tür şeyler yapıp yapmadığını sormalıyım."
 
 # game/UpdateScript0.04.rpy:4279
 translate turkish jacky_at_Laptop_d0d5dbb6:
 
     # M "No.... [ryan]..."
-    ""
+    M "Hayır.... [ryan]..."
 
 # game/UpdateScript0.04.rpy:4280
 translate turkish jacky_at_Laptop_bbf3980d:
 
     # R "I didn't even know that married women did those kinds of things. I just thought they wouldn't need to since..."
-    ""
+    R "Evli kadınların bu tür şeyler yaptığını bile bilmiyordum. Sadece.... o zamandan beri ihtiyaç duymayacaklarını düşünmüştüm."
 
 # game/UpdateScript0.04.rpy:4281
 translate turkish jacky_at_Laptop_dc12f01a:
 
     # R "Oh.... is this because Dad's not here to.... '"
-    ""
+    R "Oh.... bu, babam burada olmadığı için mi.... '"
 
 # game/UpdateScript0.04.rpy:4284
 translate turkish jacky_at_Laptop_27d09831:
 
     # M "No.... I mean.... yes.... kind of.... [ryan]! .... I was just.... doing some of my own research on the Oedipal curriculum, and I might have gotten carried away!"
-    ""
+    M "Hayır.... Yani.... evet.... bir çeşit.... [ryan]! .... Sadece.... Oedipal müfredat üzerine kendi araştırmamı yapıyordum ve kendimi kaptırmış olabilirim!"
 
 # game/UpdateScript0.04.rpy:4286
 translate turkish jacky_at_Laptop_b47c24a5:
@@ -11356,145 +11356,145 @@ translate turkish jacky_at_Laptop_b47c24a5:
 translate turkish jacky_at_Laptop_f9d2cad6:
 
     # R "Oh, well that's what I wanted to talk to you about. I'm having trouble finding more sources for the Oedipus assignment."
-    ""
+    R "Ben de seninle bu konuda konuşmak istiyordum. Oedipus ödevi için daha fazla kaynak bulmakta zorlanıyorum."
 
 # game/UpdateScript0.04.rpy:4289
 translate turkish jacky_at_Laptop_1f98d13a:
 
     # M "Ok, well come sit down. I might have something that will help."
-    ""
+    M "Tamam, gel otur. Yardımcı olacak bir şeyim olabilir."
 
 # game/UpdateScript0.04.rpy:4292
 translate turkish jacky_at_Laptop_3f5ec31e:
 
     # M "During my online research, I went to that site you mentioned, F95zone, where I found a lot of inappropriate games."
-    ""
+    M "İnternette araştırma sırasında, bahsettiğin F95zone sitesine girdim ve burada pek çok uygunsuz oyun buldum."
 
 # game/UpdateScript0.04.rpy:4293
 translate turkish jacky_at_Laptop_c2c98b5b:
 
     # M "I know you were only there for research too, but you should really try to stay off that site! But I did find a few more games that seemed to fit in with the Oedipus curriculum."
-    ""
+    M "Senin de sadece araştırma için orada olduğunu biliyorum ama o siteden uzak durmaya çalışmalısın! Ama Oedipus müfredatına uygun görünen birkaç oyun daha buldum."
 
 # game/UpdateScript0.04.rpy:4294
 translate turkish jacky_at_Laptop_cbdf2ffa:
 
     # RT "{i}Hmmm.... I wonder what her user name is. I could have some interesting exchanges with her.{/i}"
-    ""
+    RT "{i}Hmmm.... Kullanıcı adının ne olduğunu merak ediyorum. Onunla ilginç konuşmalar yapabilirim.{/i}"
 
 # game/UpdateScript0.04.rpy:4295
 translate turkish jacky_at_Laptop_afefae00:
 
     # M "This one here is called \"Man of the House.\" by a developer named Faerin."
-    ""
+    M "Bunun adı \"Man of the House.\" Faerin adlı bir geliştirici tarafından yapılmış."
 
 # game/UpdateScript0.04.rpy:4296
 translate turkish jacky_at_Laptop_f4bb4c3b:
 
     # R "Is this what you were playing when I came in?"
-    ""
+    R "Ben içeri girdiğimde bununla mı oynuyordun?"
 
 # game/UpdateScript0.04.rpy:4297
 translate turkish jacky_at_Laptop_50bae3fe:
 
     # M "Not playing.... researching."
-    ""
+    M "Oynamak değil.... araştırmak."
 
 # game/UpdateScript0.04.rpy:4298
 translate turkish jacky_at_Laptop_dd6e702c:
 
     # R "Oh.... right.... Is this what you were researching when I came in here?"
-    ""
+    R "Oh.... doğru.... Ben buraya geldiğimde araştırdığın şey bu muydu?"
 
 # game/UpdateScript0.04.rpy:4299
 translate turkish jacky_at_Laptop_3dfc6c6a:
 
     # M "Ummm.... yes..."
-    ""
+    M "Ummm.... evet..."
 
 # game/UpdateScript0.04.rpy:4300
 translate turkish jacky_at_Laptop_637f1b7b:
 
     # M "Let's just pick up from where I left off."
-    ""
+    M "Kaldığım yerden devam edelim."
 
 # game/UpdateScript0.04.rpy:4303
 translate turkish jacky_at_Laptop_ae1bfc21:
 
     # M "So the son, which you can name yourself, I named him [ryan], in your honor since you introduced this genre of game to me, has been helping his mom to achieve better yoga positions."
-    ""
+    M "Yani kendi adını verebileceğin oğlun var, bu oyun türünü bana tanıttığın için ona senin onuruna [ryan] adını verdim, annesinin daha iyi yoga pozisyonları elde etmesine yardımcı oluyor."
 
 # game/UpdateScript0.04.rpy:4304
 translate turkish jacky_at_Laptop_65f0a32c:
 
     # M "Not a bad idea, I'm sure you'd get better gains with a little assistance."
-    ""
+    M "Fena fikir değil, biraz yardımla daha iyi kazançlar elde edeceğine eminim."
 
 # game/UpdateScript0.04.rpy:4305
 translate turkish jacky_at_Laptop_86b6282a:
 
     # R "Well, if you need some help with your yoga, just let me know. I can come help you too."
-    ""
+    R "Yoga konusunda yardıma ihtiyacın olursa haberim olsun. Ben de sana yardıma gelebilirim."
 
 # game/UpdateScript0.04.rpy:4306
 translate turkish jacky_at_Laptop_bca912cb:
 
     # M "Not if you help in the way the MC is going to be soon."
-    ""
+    M "Eğer MC'nin yakında olacağı şekilde yardım edersen olmaz."
 
 # game/UpdateScript0.04.rpy:4309
 translate turkish jacky_at_Laptop_03f0d660:
 
     # R "Oh, shit!.... They took their clothes off."
-    ""
+    R "Oh, kahretsin!.... Kıyafetlerini çıkardılar."
 
 # game/UpdateScript0.04.rpy:4310
 translate turkish jacky_at_Laptop_fdd0dbe6:
 
     # M "Haha.... yeah, I guess they thought they were too restrictive for movement?"
-    ""
+    M "Haha.... evet, sanırım hareket için çok kısıtlayıcı olduklarını düşündüler?"
 
 # game/UpdateScript0.04.rpy:4311
 translate turkish jacky_at_Laptop_a1c46ac2:
 
     # M "So, in this game you're trying to bed several women, one of them being the son's mom."
-    ""
+    M "Bu oyunda birkaç kadınla yatmaya çalışıyorsun, bunlardan biri de oğlunun annesi."
 
 # game/UpdateScript0.04.rpy:4312
 translate turkish jacky_at_Laptop_721c833d:
 
     # M "So, in that way it's a source you can mention in your Oedipal paper."
-    ""
+    M "Yani, bu şekilde Oedipal ödevinde bahsedebileceğin bir kaynak."
 
 # game/UpdateScript0.04.rpy:4313
 translate turkish jacky_at_Laptop_d692dd85:
 
     # M "Just no visual representations in your oral presentation please!"
-    ""
+    M "Sözlü sunumunda görsel temsili fotoğraflar kullanma lütfen!"
 
 # game/UpdateScript0.04.rpy:4314
 translate turkish jacky_at_Laptop_73813626:
 
     # R "Haha.... can you imagine?"
-    ""
+    R "Haha.... hayal edebiliyor musun?"
 
 # game/UpdateScript0.04.rpy:4315
 translate turkish jacky_at_Laptop_48387a1c:
 
     # MT "{i}Shit! Yeah, I kind of can.{/i}"
-    ""
+    MT "{i}Kahretsin! Evet, biraz yapabilirim.{/i}"
 
 # game/UpdateScript0.04.rpy:4316
 translate turkish jacky_at_Laptop_cacec065:
 
     # MT "{i}Showing this kind of stuff in front of all my students, with my own son sitting 3 feet away from me.{/i}"
-    ""
+    MT "{i}Bu tür şeyleri tüm öğrencilerimin önünde, kendi oğlum benden üç adım ötede otururken gösteriyorum.{/i}"
 
 # game/UpdateScript0.04.rpy:4317
 translate turkish jacky_at_Laptop_d40413cd:
 
     # MT "{i}I know exactly what they would all be thinking about.{/i}"
-    ""
+    MT "{i}Hepsinin ne düşündüğünü çok iyi biliyorum.{/i}"
 
 # game/UpdateScript0.04.rpy:4318
 translate turkish jacky_at_Laptop_3265e8ee_1:
@@ -11506,19 +11506,19 @@ translate turkish jacky_at_Laptop_3265e8ee_1:
 translate turkish jacky_at_Laptop_0c7fb8a2:
 
     # R "So, what happens next?"
-    ""
+    R "Ee, daha sonra ne oluyor?"
 
 # game/UpdateScript0.04.rpy:4323
 translate turkish jacky_at_Laptop_163a184d:
 
     # M "So, you can keep progressing through the scene as you build up her special points."
-    ""
+    M "Böylece, onun özel puanlarını oluştururken sahnede ilerlemeye devam edebiliyorsun."
 
 # game/UpdateScript0.04.rpy:4324
 translate turkish jacky_at_Laptop_b9b798ca:
 
     # M "You also have to increase her arousal stat to continue into steamier scenes."
-    ""
+    M "Ayrıca daha şehvetli sahnelere devam etmek için onun uyarılma statüsünü artırman gerekiyor."
 
 # game/UpdateScript0.04.rpy:4325
 translate turkish jacky_at_Laptop_3265e8ee_2:
@@ -11530,37 +11530,37 @@ translate turkish jacky_at_Laptop_3265e8ee_2:
 translate turkish jacky_at_Laptop_e257f4d1:
 
     # MT "{i}Holy Mary! [ryan]'s about to burst through his pants!{/i}"
-    ""
+    MT "{i}Kutsal Meryem Ana! Pantolonu patlamak üzere!{/i}"
 
 # game/UpdateScript0.04.rpy:4328
 translate turkish jacky_at_Laptop_8a49b21d:
 
     # MT "{i}I am so horny right now! [ryan] barged in here before I could take care of myself.{/i}"
-    ""
+    MT "{i}Şu an çok azgınım! [ryan], ben başımın çaresine bakamadan içeri daldı.{/i}"
 
 # game/UpdateScript0.04.rpy:4329
 translate turkish jacky_at_Laptop_995c26db:
 
     # MT "{i}And now here he is dominating my office with that huge cock of his!{/i}"
-    ""
+    MT "{i}Ve şimdi burada o kocaman sikiyle ofisime hükmediyor!{/i}"
 
 # game/UpdateScript0.04.rpy:4330
 translate turkish jacky_at_Laptop_fe0dc4a6:
 
     # MT "{i}I wouldn't mind getting a better look at it right now.{/i}"
-    ""
+    MT "{i}Şu anda ona daha iyi bakabilirim.{/i}"
 
 # game/UpdateScript0.04.rpy:4331
 translate turkish jacky_at_Laptop_d11e034f:
 
     # MT "{i}But how would I do that?{/i}"
-    ""
+    MT "{i}Ama bunu nasıl yapacağım?{/i}"
 
 # game/UpdateScript0.04.rpy:4332
 translate turkish jacky_at_Laptop_b0d003f7:
 
     # MT "{i}Hmmmmmm.... {/i}"
-    ""
+    MT "{i}.... hmmm.... {/i}"
 
 # game/UpdateScript0.04.rpy:4333
 translate turkish jacky_at_Laptop_c93d9342:
@@ -11572,7 +11572,7 @@ translate turkish jacky_at_Laptop_c93d9342:
 translate turkish jacky_at_Laptop_deec1276:
 
     # M "Look at you!"
-    ""
+    M "Şu haline bak!"
 
 # game/UpdateScript0.04.rpy:4335
 translate turkish jacky_at_Laptop_4881927b:
@@ -11584,7 +11584,7 @@ translate turkish jacky_at_Laptop_4881927b:
 translate turkish jacky_at_Laptop_24c238ee:
 
     # M "You're going to tear a hole right through your good school pants."
-    ""
+    M "Kaliteli okul pantolonuna bir delik açacaksın."
 
 # game/UpdateScript0.04.rpy:4337
 translate turkish jacky_at_Laptop_53e9213e:
@@ -11596,97 +11596,97 @@ translate turkish jacky_at_Laptop_53e9213e:
 translate turkish jacky_at_Laptop_ad31d81d:
 
     # M "You know.... your.... penis."
-    ""
+    M "Bilirsin.... senin.... penisin."
 
 # game/UpdateScript0.04.rpy:4339
 translate turkish jacky_at_Laptop_eb1e7122:
 
     # M "It's uhh.... very erect."
-    ""
+    M "Bu uh.... erekte oluyorsun."
 
 # game/UpdateScript0.04.rpy:4340
 translate turkish jacky_at_Laptop_5dc2d64b:
 
     # R "Yeah, well.... you're the one who started showing me this game!"
-    ""
+    R "Evet.... bana bu oyunu göstermeye başlayan sendin!"
 
 # game/UpdateScript0.04.rpy:4341
 translate turkish jacky_at_Laptop_edf902d9:
 
     # R "I'm not into these incest games, but.... I can't help what it's doing to me."
-    ""
+    R "Bu ensest ilişki oyunlarından hoşlanmıyorum ama.... Bana gösterdiklerine karşı koyamıyorum."
 
 # game/UpdateScript0.04.rpy:4342
 translate turkish jacky_at_Laptop_ef2c8404:
 
     # M "I'm not into these incest games either!..."
-    ""
+    M "Ben de bu ensest oyunlarından hoşlanmıyorum!..."
 
 # game/UpdateScript0.04.rpy:4343
 translate turkish jacky_at_Laptop_05a6e783:
 
     # MT "{i}Shit!.... I kind of have been getting hooked on them the last couple weeks!{/i}"
-    ""
+    MT "{i}Aynen amk!.... Son birkaç haftadır onlara bağımlı olmaya başladım!{/i}"
 
 # game/UpdateScript0.04.rpy:4344
 translate turkish jacky_at_Laptop_ae83e740:
 
     # M "And don't get me wrong. I'm not mad."
-    ""
+    M "Ve beni yanlış anlama. Kızgın değilim."
 
 # game/UpdateScript0.04.rpy:4345
 translate turkish jacky_at_Laptop_91b7d50b:
 
     # M "I'm just worried that you're uncomfortable..."
-    ""
+    M "Ben sadece senin rahatsız olmandan endişeleniyorum..."
 
 # game/UpdateScript0.04.rpy:4346
 translate turkish jacky_at_Laptop_3d037411:
 
     # M "And that I'm going to have to buy you a new pair of pants.... cuz you're just sooo big!"
-    ""
+    M "Ve sana yeni bir pantolon almak zorunda kalacağım.... çünkü çok büyük!"
 
 # game/UpdateScript0.04.rpy:4347
 translate turkish jacky_at_Laptop_b419cec2:
 
     # M ".... We both know I've seen you down there very recently..."
-    ""
+    M ".... İkimiz de seni son zamanlarda orada gördüğümü biliyoruz..."
 
 # game/UpdateScript0.04.rpy:4348
 translate turkish jacky_at_Laptop_67fad9c6:
 
     # M "So, it shouldn't be a big deal if you..."
-    ""
+    M "Bu yüzden.... çok da büyük bir sorun olmamalı..."
 
 # game/UpdateScript0.04.rpy:4349
 translate turkish jacky_at_Laptop_6d9f93d1:
 
     # M "Wanted to just let him.... breath a little."
-    ""
+    M "Ona.... biraz nefes aldırmak isterdim."
 
 # game/UpdateScript0.04.rpy:4350
 translate turkish jacky_at_Laptop_999dd6dd:
 
     # RT "{i}Oh.... my.... God!{/i}"
-    ""
+    RT "{i}AmAn.... TaNRım!{/i}"
 
 # game/UpdateScript0.04.rpy:4351
 translate turkish jacky_at_Laptop_11550c79:
 
     # RT "{i}This is working too well!{/i}"
-    ""
+    RT "{i}Bu çok işe yarıyor!{/i}"
 
 # game/UpdateScript0.04.rpy:4352
 translate turkish jacky_at_Laptop_9f689030:
 
     # RT "{i}It's like I'm in my own incest game or something!.... {/i}"
-    ""
+    RT "{i}Sanki kendi ensest oyunumda gibiyim!.... {/i}"
 
 # game/UpdateScript0.04.rpy:4353
 translate turkish jacky_at_Laptop_8d3f54b1:
 
     # RT "{i}I'd better act naive.{/i}"
-    ""
+    RT "{i}Aptal numarası yapsam iyi olacak.{/i}"
 
 # game/UpdateScript0.04.rpy:4354
 translate turkish jacky_at_Laptop_b2504771:
@@ -11698,37 +11698,37 @@ translate turkish jacky_at_Laptop_b2504771:
 translate turkish jacky_at_Laptop_259349e1:
 
     # M "You know.... just unzip your pants and let your penis out."
-    ""
+    M "Biliyorsun.... sadece pantolonunun fermuarını aç ve penisini dışarı çıkar."
 
 # game/UpdateScript0.04.rpy:4358
 translate turkish jacky_at_Laptop_2f23e876:
 
     # M "Here, if it's easier for you I'll let myself breath down there a little too."
-    ""
+    M "Al, eğer senin için daha kolaysa ben de benimkine nefes aldırayım."
 
 # game/UpdateScript0.04.rpy:4359
 translate turkish jacky_at_Laptop_9e9b1236:
 
     # R "What are you talking abou..."
-    ""
+    R "Sen neden bahsediyors..."
 
 # game/UpdateScript0.04.rpy:4362
 translate turkish jacky_at_Laptop_713f3c98:
 
     # R "Oh my God!"
-    ""
+    R "Aman Tanrım!"
 
 # game/UpdateScript0.04.rpy:4363
 translate turkish jacky_at_Laptop_ad97561d:
 
     # R "Are you taking off all your clothes?!"
-    ""
+    R "Bütün kıyafetlerini mi çıkarıyorsun?!"
 
 # game/UpdateScript0.04.rpy:4364
 translate turkish jacky_at_Laptop_2c7311a7:
 
     # M "No.... [ryan]! Sometimes I worry I've raised an idiot."
-    ""
+    M "Hayır.... [ryan]! Bazen bir aptal yetiştirdiğimden endişeleniyorum."
 
 # game/UpdateScript0.04.rpy:4365
 translate turkish jacky_at_Laptop_b4a078ed:
@@ -11740,121 +11740,121 @@ translate turkish jacky_at_Laptop_b4a078ed:
 translate turkish jacky_at_Laptop_f8e34e9c:
 
     # M "Sorry, that wasn't nice."
-    ""
+    M "Üzgünüm, bu hoş değildi."
 
 # game/UpdateScript0.04.rpy:4367
 translate turkish jacky_at_Laptop_2a7e1e75:
 
     # M "I'm just getting more comfortable, so you can be more comfortable."
-    ""
+    M "Ben daha rahat oluyorum, böylece sen de daha rahat olabilirsin."
 
 # game/UpdateScript0.04.rpy:4368
 translate turkish jacky_at_Laptop_027c994a:
 
     # M "Let's just get back to our project research."
-    ""
+    M "Proje araştırmamıza geri dönelim."
 
 # game/UpdateScript0.04.rpy:4369
 translate turkish jacky_at_Laptop_baa60193:
 
     # M "But take your penis out of your pants before you ruin them!"
-    ""
+    M "Ama pantolonunu mahvetmeden önce penisini pantolonundan çıkar!"
 
 # game/UpdateScript0.04.rpy:4370
 translate turkish jacky_at_Laptop_0d0e1936:
 
     # R "Yes, Mom."
-    ""
+    R "Evet, tamam anne."
 
 # game/UpdateScript0.04.rpy:4373
 translate turkish jacky_at_Laptop_6a47ffec:
 
     # MT "{i}Oh my God, it worked!{/i}"
-    ""
+    MT "{i}Aman Tanrım, işe yaradı!{/i}"
 
 # game/UpdateScript0.04.rpy:4374
 translate turkish jacky_at_Laptop_950f4c94:
 
     # MT "{i}I can't believe I'm staring at my son's cock, while playing an incest game!{/i}"
-    ""
+    MT "{i}Ensest bir oyun oynarken oğlumun sikine baktığıma inanamıyorum!{/i}"
 
 # game/UpdateScript0.04.rpy:4375
 translate turkish jacky_at_Laptop_5bd7bf8d:
 
     # MT "{i}Oh no!.... Somethings really wrong with me!!!{/i}"
-    ""
+    MT "{i}Oh hayır!.... Bende gerçekten bir sorun var!!!{/i}"
 
 # game/UpdateScript0.04.rpy:4376
 translate turkish jacky_at_Laptop_c1d704cb:
 
     # MT "{i}I'd better not let him catch me staring.{/i}"
-    ""
+    MT "{i}Beni bakarken yakalamasına izin vermesem iyi olur.{/i}"
 
 # game/UpdateScript0.04.rpy:4379
 translate turkish jacky_at_Laptop_c5437802:
 
     # RT "{i}Oh my God, it worked!{/i}"
-    ""
+    RT "{i}Aman Tanrım, işe yaradı!{/i}"
 
 # game/UpdateScript0.04.rpy:4380
 translate turkish jacky_at_Laptop_fd80025f:
 
     # RT "{i}I can't believe Mom took so eagerly to those incest games!{/i}"
-    ""
+    RT "{i}Annemin o ensest oyunlarını bu kadar hevesle kabul ettiğine inanamıyorum!{/i}"
 
 # game/UpdateScript0.04.rpy:4381
 translate turkish jacky_at_Laptop_64ab1e95:
 
     # RT "{i}Well, they do say that porn is addictive.{/i}"
-    ""
+    RT "{i}Pornonun bağımlılık yaptığını söylüyorlar.{/i}"
 
 # game/UpdateScript0.04.rpy:4382
 translate turkish jacky_at_Laptop_2bb62b41:
 
     # RT "{i}And now she tells me to take my dick out!?{/i}"
-    ""
+    RT "{i}Şimdi de bana sikimi çıkarmamı mı söylüyor?{/i}"
 
 # game/UpdateScript0.04.rpy:4383
 translate turkish jacky_at_Laptop_a3ec1ddb:
 
     # RT "{i}She's not really worried about me ripping my pants is she?{/i}"
-    ""
+    RT "{i}Pantolonumu yırtmamdan endişelenmiyor, değil mi?{/i}"
 
 # game/UpdateScript0.04.rpy:4384
 translate turkish jacky_at_Laptop_eb0e5aa6:
 
     # RT "{i}Does she want the \"D\" from me?{/i}"
-    ""
+    RT "{i}Benden \"P\" mi istiyor?{/i}"
 
 # game/UpdateScript0.04.rpy:4385
 translate turkish jacky_at_Laptop_da5524e7:
 
     # RT "{i}Maybe she just wants to see a \"D\".... Like a piece of meat.{/i}"
-    ""
+    RT "{i}Belki de sadece bir \"P\".... görmek istiyordur. Bir et parçası gibi.{/i}"
 
 # game/UpdateScript0.04.rpy:4386
 translate turkish jacky_at_Laptop_dd0a6904:
 
     # RT "{i}Now I feel so objectified.... haha.... like I care.... {/i}"
-    ""
+    RT "{i}Şimdi kendimi objeleştirilmiş hissediyorum.... haha.... sanki umurumdaymış gibi.... {/i}"
 
 # game/UpdateScript0.04.rpy:4387
 translate turkish jacky_at_Laptop_348446e1:
 
     # RT "{i}Why does she drive me so crazy? I think this Freud character we've been studying might have been on to something.{/i}"
-    ""
+    RT "{i}Neden beni bu kadar deli ediyor? Sanırım üzerinde çalıştığımız Freud karakteri bir şeylerin peşinde olabilir.{/i}"
 
 # game/UpdateScript0.04.rpy:4388
 translate turkish jacky_at_Laptop_73f9f15c:
 
     # RT "{i}And here she is with her skirt hiked up, flashing me her sexy panties!{/i}"
-    ""
+    RT "{i}Ve işte eteğini yukarı kaldırmış, bana seksi külotunu gösteriyor!{/i}"
 
 # game/UpdateScript0.04.rpy:4389
 translate turkish jacky_at_Laptop_b4d5ce77:
 
     # RT "{i}Uhhhhggghhh.... I need to take care of this.... I wonder if she'd notice.{/i}"
-    ""
+    RT "{i}Uhhhhggghhh.... Bununla ilgilenmem gerek.... Acaba fark eder mi?{/i}"
 
 # game/UpdateScript0.04.rpy:4395
 translate turkish jacky_at_Laptop_187fa638:
@@ -11866,241 +11866,241 @@ translate turkish jacky_at_Laptop_187fa638:
 translate turkish jacky_at_Laptop_c35eda76:
 
     # M "So, what do you think so far?"
-    ""
+    M "Peki, şu ana kadar ne düşünüyorsun?"
 
 # game/UpdateScript0.04.rpy:4397
 translate turkish jacky_at_Laptop_929dd5c9:
 
     # M "Is this game something you'll want to mention in your paper?"
-    ""
+    M "Bu oyun, ödevinde bahsetmek isteyeceğin bir şey mi?"
 
 # game/UpdateScript0.04.rpy:4398
 translate turkish jacky_at_Laptop_10c763f9:
 
     # R "Uuuhhh.... yeah.... I think so.... maybe we better see it to the end though to make sure."
-    ""
+    R "Uuuhhh.... evet.... Sanırım öyle.... belki de emin olmak için sonuna kadar oynamalıyız."
 
 # game/UpdateScript0.04.rpy:4399
 translate turkish jacky_at_Laptop_e7117dbd:
 
     # MT "{i}Haha.... what a horndog.... he must take after his father.... shit.... I am too.... {/i}"
-    ""
+    MT "{i}Haha.... ne azgın bir köpek.... babasına çekmiş olmalı.... siktir.... Ben de öyleyim.... {/i}"
 
 # game/UpdateScript0.04.rpy:4400
 translate turkish jacky_at_Laptop_1ef50a13:
 
     # MT "{i}Now [mom_name], you aren't turned on because you're looking at your son's penis. You're just turned on because you're looking at a huge penis.{/i}"
-    ""
+    MT "{i}Şimdi [mom_name], oğlunun penisine baktığın için tahrik olmuyorsun. Sadece kocaman bir penise baktığın için tahrik oluyorsun.{/i}"
 
 # game/UpdateScript0.04.rpy:4401
 translate turkish jacky_at_Laptop_4bfbaac3:
 
     # MT "{i}Fuck.... I just need a little relief.... {/i}"
-    ""
+    MT "{i}Sikeyim.... Sadece biraz rahatlamaya ihtiyacım var.... {/i}"
 
 # game/UpdateScript0.04.rpy:4405
 translate turkish jacky_at_Laptop_9575b9b5:
 
     # RT "{i}Did I just see Mom rubbing herself out of the corner of my eye?{/i}"
-    ""
+    RT "{i}Gözümün ucuyla annemin amıyla oynadığını mı gördüm?{/i}"
 
 # game/UpdateScript0.04.rpy:4408
 translate turkish jacky_at_Laptop_0616da02:
 
     # MT "{i}Shit.... did he see me?{/i}"
-    ""
+    MT "{i}Siktir.... beni gördü mü?{/i}"
 
 # game/UpdateScript0.04.rpy:4409
 translate turkish jacky_at_Laptop_bd8e4c16:
 
     # MT "{i}I wonder what he's looking at?{/i}"
-    ""
+    MT "{i}Neye baktığını merak ediyorum.{/i}"
 
 # game/UpdateScript0.04.rpy:4410
 translate turkish jacky_at_Laptop_d5b4e7f7:
 
     # MT "{i}Is he staring up my skirt?{/i}"
-    ""
+    MT "{i}Eteğimin altına mı bakıyor?{/i}"
 
 # game/UpdateScript0.04.rpy:4411
 translate turkish jacky_at_Laptop_dfcf669f:
 
     # MT "{i}Fuck!.... Thinking about him looking up my skirt is making me wet.{/i}"
-    ""
+    MT "{i}Sikeyim!.... Eteğimin altına baktığını düşünmek beni ıslatıyor.{/i}"
 
 # game/UpdateScript0.04.rpy:4412
 translate turkish jacky_at_Laptop_f33a12a3:
 
     # MT "{i}Oh, God!.... I hope he doesn't notice!.... {/i}"
-    ""
+    MT "{i}Oh, Tanrım!.... Umarım fark etmez!.... {/i}"
 
 # game/UpdateScript0.04.rpy:4413
 translate turkish jacky_at_Laptop_20a5b2d8:
 
     # RT "{i}Oh my God.... I think she was rubbing herself.... her panties are starting to get wet.{/i}"
-    ""
+    RT "{i}Aman Tanrım.... Sanırım kendini okşuyordu.... külotu ıslanmaya başladı.{/i}"
 
 # game/UpdateScript0.04.rpy:4414
 translate turkish jacky_at_Laptop_80320651:
 
     # RT "{i}Fuck that's hot.... I wish she would move her hand so I could get a better view. It'd be nice to get those panties out of the way too, as sexy as they may be.{/i}"
-    ""
+    RT "{i}Siktir adamım bu çok ateşli.... Keşke elini çekse de daha iyi görebilsem. Ne kadar seksi olsalar da şu külotları da aradan çıkarmak iyi olurdu.{/i}"
 
 # game/UpdateScript0.04.rpy:4418
 translate turkish jacky_at_Laptop_663c9218:
 
     # MT "{i}Ha I knew it, I can see him masturbating too out of the corner of my eye.{/i}"
-    ""
+    MT "{i}Biliyordum, göz ucuyla onun da mastürbasyon yaptığını görebiliyorum.{/i}"
 
 # game/UpdateScript0.04.rpy:4421
 translate turkish jacky_at_Laptop_d5b33f9b:
 
     # MT "{i}Ohhhh.... that means he was jacking himself to me.... not the game.... {/i}"
-    ""
+    MT "{i}Ohhhh.... bu demek oluyor ki.... oyuna değil.... benim için asılıyor.... {/i}"
 
 # game/UpdateScript0.04.rpy:4422
 translate turkish jacky_at_Laptop_f03db5d4:
 
     # MT "{i}Dammit.... stay in control, [mom_name]!.... Don't let that turn you on so much!{/i}"
-    ""
+    MT "{i}Kahretsin.... kontrol sende olsun, [mom_name]!.... Bunun seni bu kadar tahrik etmesine izin verme!{/i}"
 
 # game/UpdateScript0.04.rpy:4423
 translate turkish jacky_at_Laptop_62b6dd03:
 
     # MT "{i}Ahhhh.... fuck it!{/i}"
-    ""
+    MT "{i}Ahhhh.... siktir et!{/i}"
 
 # game/UpdateScript0.04.rpy:4438
 translate turkish jacky_at_Laptop_ba38ff93:
 
     # RT "{i}She's rubbing herself right in front of me!.... Should I do the same?{/i}"
-    ""
+    RT "{i}Gözümün önünde amını ovuşturuyor!.... Ben de aynısını yapmalı mıyım?{/i}"
 
 # game/UpdateScript0.04.rpy:4439
 translate turkish jacky_at_Laptop_cde0c7df:
 
     # MT "{i}Did I just do that in front of my own son?!.... He's not looking away!{/i}"
-    ""
+    MT "{i}Bunu kendi oğlumun önünde mi yaptım?!.... Başka tarafa bakmıyor!{/i}"
 
 # game/UpdateScript0.04.rpy:4443
 translate turkish jacky_at_Laptop_89650ace:
 
     # MT "{i}Well, this will be an intersesting confession to father McGrady next time I go to mass.... {/i}"
-    ""
+    MT "{i}Bir dahaki sefere kiliseye gittiğimde Peder McGrady'ye ilginç bir itirafta bulunacağım.... {/i}"
 
 # game/UpdateScript0.04.rpy:4445
 translate turkish jacky_at_Laptop_9133fe56:
 
     # MT "{i}Oh, God!.... {/i}"
-    ""
+    MT "{i}Oh, Tanrım!.... {/i}"
 
 # game/UpdateScript0.04.rpy:4446
 translate turkish jacky_at_Laptop_a820e4c6_1:
 
     # RT "{i}Oh.... fuck.... {/i}"
-    ""
+    RT "{i}Oh.... sikeyim.... {/i}"
 
 # game/UpdateScript0.04.rpy:4460
 translate turkish jacky_at_Laptop_357fc127:
 
     # RT "{i}Oh, shit.... I might have gone too far.{/i}"
-    ""
+    RT "{i}Oh, siktir.... Çok ileri gitmiş olabilirim.{/i}"
 
 # game/UpdateScript0.04.rpy:4461
 translate turkish jacky_at_Laptop_b7c29b55:
 
     # M ".... Fuck!"
-    ""
+    M ".... Siktir!"
 
 # game/UpdateScript0.04.rpy:4462
 translate turkish jacky_at_Laptop_1519f24d:
 
     # R "Mom!.... You don't ever swear!"
-    ""
+    R "Anne! .... Sen asla küfretmezsin!"
 
 # game/UpdateScript0.04.rpy:4465
 translate turkish jacky_at_Laptop_da9e8d36:
 
     # M "Actually, [ryan].... yeah.... I sometimes do!"
-    ""
+    M "Aslında, [ryan].... evet.... bazen ederim!"
 
 # game/UpdateScript0.04.rpy:4466
 translate turkish jacky_at_Laptop_cd0ff385:
 
     # M "Like when my own son blows his load all over my foot.... then yeah.... that will usually do it."
-    ""
+    M "Mesela kendi oğlum ayağıma boşalırsa.... o zaman evet.... bu genellikle işe yarar."
 
 # game/UpdateScript0.04.rpy:4467
 translate turkish jacky_at_Laptop_a3a71b2f:
 
     # M "I mean look at it!.... That's got to be at least four times as much as your dad usually blows..."
-    ""
+    M "Yani şuna bak!.... Bu babanın normalde boşaldığının en az dört katı olmalı..."
 
 # game/UpdateScript0.04.rpy:4468
 translate turkish jacky_at_Laptop_27ca2911:
 
     # R "Mom! TMI!"
-    ""
+    R "Anne! Bu kadar detaya girmene gerek yoktu!"
 
 # game/UpdateScript0.04.rpy:4469
 translate turkish jacky_at_Laptop_d32f157e:
 
     # M "That's Miss [mom_name] to you!"
-    ""
+    M "Bayan [mom_name]'den sana!"
 
 # game/UpdateScript0.04.rpy:4470
 translate turkish jacky_at_Laptop_c68727f1:
 
     # R "Uuuhhhhh.... fine!"
-    ""
+    R "Ehhhh.... iyi!"
 
 # game/UpdateScript0.04.rpy:4471
 translate turkish jacky_at_Laptop_7f031fc1:
 
     # R "Miss [mom_name]!..."
-    ""
+    R "Bayan [mom_name]!..."
 
 # game/UpdateScript0.04.rpy:4472
 translate turkish jacky_at_Laptop_40bd14b3:
 
     # R "You were watching me.... you knew exactly what I was doing.... and you didn't stop me..."
-    ""
+    R "Beni izliyordun.... ne yaptığımı çok iyi biliyordun.... ve beni durdurmadın..."
 
 # game/UpdateScript0.04.rpy:4473
 translate turkish jacky_at_Laptop_44212982:
 
     # R "I think you're more experienced than I am to know what happens at the end of that particular action."
-    ""
+    R "Sanırım bu eylemin sonunda ne olacağını bilecek kadar benden daha deneyimlisin."
 
 # game/UpdateScript0.04.rpy:4474
 translate turkish jacky_at_Laptop_428968f8:
 
     # R "So, don't be mad at me."
-    ""
+    R "O yüzden bana kızma."
 
 # game/UpdateScript0.04.rpy:4475
 translate turkish jacky_at_Laptop_d1dece41:
 
     # M "I'm sorry, you're right. I just overreacted to the situation. Maybe you better run.... I've got a class in just a couple minutes and I've got to clean up."
-    ""
+    M "Özür dilerim, haklısın. Sadece duruma aşırı tepki gösterdim. Belki de koşsan iyi olur.... Birkaç dakika sonra dersim var ve temizlenmem gerek."
 
 # game/UpdateScript0.04.rpy:4476
 translate turkish jacky_at_Laptop_bdf79b68:
 
     # R "So, you're not mad at me?"
-    ""
+    R "Yani, bana kızgın değil misin?"
 
 # game/UpdateScript0.04.rpy:4477
 translate turkish jacky_at_Laptop_ee8623fd:
 
     # M "No.... you're right.... that was my fault..."
-    ""
+    M "Hayır.... haklısın.... bu benim hatamdı..."
 
 # game/UpdateScript0.04.rpy:4478
 translate turkish jacky_at_Laptop_8a7b9d21:
 
     # R "No, I wasn't trying to put the blame on..."
-    ""
+    R "Hayır, suçu birilerinin üzerine atmaya çalışmıyordum."
 
 # game/UpdateScript0.04.rpy:4479
 translate turkish jacky_at_Laptop_1960dfaf:
@@ -12112,55 +12112,55 @@ translate turkish jacky_at_Laptop_1960dfaf:
 translate turkish jacky_at_Laptop_b108a7e9:
 
     # MT "{i}Shit!.... I really did let that go too far.... {/i}"
-    ""
+    MT "{i}Siktir!.... Gerçekten çok ileri gittim.... {/i}"
 
 # game/UpdateScript0.04.rpy:4483
 translate turkish jacky_at_Laptop_b6e32b91:
 
     # MT "{i}How could I let myself get carried away like that?{/i}"
-    ""
+    MT "{i}Kendimi böyle kaptırmama nasıl izin verebildim?{/i}"
 
 # game/UpdateScript0.04.rpy:4484
 translate turkish jacky_at_Laptop_2abe5a62:
 
     # MT "{i}I was just so horny!{/i}"
-    ""
+    MT "{i}O kadar azmıştım ki!{/i}"
 
 # game/UpdateScript0.04.rpy:4485
 translate turkish jacky_at_Laptop_26b5416c:
 
     # MT "{i}I'm like a whole different person when I'm horny.{/i}"
-    ""
+    MT "{i}Azdığım zaman bambaşka birisi oluyorum.{/i}"
 
 # game/UpdateScript0.04.rpy:4486
 translate turkish jacky_at_Laptop_15c16493:
 
     # MT "{i}I've just got to be careful not to be around my son, or my girls, or anybody when I'm that bad.{/i}"
-    ""
+    MT "{i}Bu kadar kötü olduğumda oğlumun, kızlarımın ya da herhangi birinin yanında olmamaya dikkat etmeliyim.{/i}"
 
 # game/UpdateScript0.04.rpy:4487
 translate turkish jacky_at_Laptop_ed31316d:
 
     # MT "{i}The problem is masturbation just isn't doing enough. I need a cock!!{/i}"
-    ""
+    MT "{i}Sorun şu ki mastürbasyon yeterince işe yaramıyor. Bana bir yarrak lazım!!{/i}"
 
 # game/UpdateScript0.04.rpy:4488
 translate turkish jacky_at_Laptop_2a2d84ac:
 
     # MT "{i}I mean I need [dad_name]'s cock.... of course.{/i}"
-    ""
+    MT "{i}Yani [dad_name]'in sikine.... tabi ki de.{/i}"
 
 # game/UpdateScript0.04.rpy:4505
 translate turkish jacky_at_Laptop_d0ec7b7c:
 
     # RT "{i}{b}(HINT){/b} I can't believe how comfortable Mom was watching me jack off... Maybe I don't need to worry so much about getting boners around her, especially when she hugs me after I pay the mafia debt.{/i}"
-    ""
+    RT "{i}{b}(İPUCU){/b} Annemin beni mastürbasyon yaparken bu kadar rahat izlediğine inanamıyorum. Belki de onun yanında ereksiyon olmak konusunda o kadar endişelenmeme gerek yoktur, özellikle de mafya borcumu ödedikten sonra bana sarıldığında.{/i}"
 
 # game/UpdateScript0.04.rpy:4512
 translate turkish jacky_at_Laptop_cc738b75:
 
     # RT "{i}{b}(HINT){/b} Messing around in Mom's office is super risky... Her door doesn't even have a lock! The more we mess around in there, the greater our chances are of getting caught.{/i}"
-    ""
+    RT "{i}{b}(İPUCU){/b} Annemin ofisinde dolaşmak çok riskli. Kapısının kilidi bile yok! Orayı ne kadar çok karıştırırsak, yakalanma ihtimalimiz o kadar artar.{/i}"
 
 # game/UpdateScript0.04.rpy:4523
 translate turkish bye_bobby_35885d12:
@@ -13120,7 +13120,7 @@ translate turkish wrshoot_38ab4042:
 translate turkish wrshoot_5826fcef:
 
     # S "How's this?"
-    ""
+    S "Bu nasıl?"
 
 # game/UpdateScript0.04.rpy:4824
 translate turkish wrshoot_f7536a21:
@@ -15064,7 +15064,7 @@ translate turkish removeshorts_7b7f7009:
 translate turkish removeshorts_971a98df:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:5386
 translate turkish removeshorts_61e1eba9:
@@ -15286,7 +15286,7 @@ translate turkish removeshorts_b43df12f:
 translate turkish removeshirt_5826fcef:
 
     # S "How's this?"
-    ""
+    S "Bu nasıl?"
 
 # game/UpdateScript0.04.rpy:5453
 translate turkish removeshirt_1d59362d:
@@ -15520,7 +15520,7 @@ translate turkish removeshirt_fbe931da:
 translate turkish removeshirt_971a98df:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:5525
 translate turkish removeshirt_eaab11ed:
@@ -15898,7 +15898,7 @@ translate turkish removeshirt_7b7f7009:
 translate turkish removeshirt_971a98df_1:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:5619
 translate turkish removeshirt_61e1eba9:
@@ -16324,7 +16324,7 @@ translate turkish showsidneytitties_1ef86003:
 translate turkish showsidneytitties_5826fcef:
 
     # S "How's this?"
-    ""
+    S "Bu nasıl?"
 
 # game/UpdateScript0.04.rpy:5737
 translate turkish showsidneytitties_653445ed:
@@ -16402,7 +16402,7 @@ translate turkish showsidneytitties_fbe931da:
 translate turkish showsidneytitties_971a98df:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:5769
 translate turkish showsidneytitties_eaab11ed:
@@ -16774,7 +16774,7 @@ translate turkish showsidneytitties_7b7f7009:
 translate turkish showsidneytitties_971a98df_1:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:5856
 translate turkish showsidneytitties_61e1eba9:
@@ -17188,7 +17188,7 @@ translate turkish rippedundies_8297a3fe:
 translate turkish rippedundies_af5c25fa:
 
     # S "Like this?"
-    ""
+    S "Böyle mi?"
 
 # game/UpdateScript0.04.rpy:5983
 translate turkish rippedundies_44e684e7:
@@ -17650,7 +17650,7 @@ translate turkish rippedundies_7b7f7009:
 translate turkish rippedundies_971a98df:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:6111
 translate turkish rippedundies_61e1eba9:
@@ -18058,7 +18058,7 @@ translate turkish wr_closeups_7b7f7009:
 translate turkish wr_closeups_971a98df:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:6227
 translate turkish wr_closeups_61e1eba9:
@@ -18262,7 +18262,7 @@ translate turkish wr_gape_08bc280c:
 translate turkish wr_gape_971a98df:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:6280
 translate turkish wr_gape_d3fa70f8:
@@ -18436,7 +18436,7 @@ translate turkish wr_gape_cabd229d:
 translate turkish wr_gape_971a98df_1:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:6344
 translate turkish wr_gape_16a249ae:
@@ -18652,7 +18652,7 @@ translate turkish wr_gape_9596bcab:
 translate turkish wr_gape_971a98df_2:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:6406
 translate turkish wr_gape_74e45c78:
@@ -19366,7 +19366,7 @@ translate turkish wr_gape_5cd12760:
 translate turkish wr_gape_971a98df_3:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:6669
 translate turkish wr_gape_caf54cc4:
@@ -19378,7 +19378,7 @@ translate turkish wr_gape_caf54cc4:
 translate turkish wr_gape_971a98df_4:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.04.rpy:6673
 translate turkish wr_gape_9b624be6:

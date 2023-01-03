@@ -1,18 +1,5 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: a-family-venture\n"
-# "X-french-Project-ID: 492487\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /[DonRP.AFV] main/game/tl/french/stats_screen.po\n"
-# "X-french-File-ID: 1357\n"
-# "Project-Id-Version: a-family-venture\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-04-28 09:21\n"
 
-# TODO: Translation updated at 2022-04-23 HH:HH
+"{color=#42f456}Mom's:{/color}\n"# TODO: Translation updated at 2022-12-01 22:29
 
 translate french strings:
 
@@ -135,5 +122,4 @@ translate french strings:
     # game/stats_screen.rpy:61
     old "{color=#000000}Anger...............[cousinanger]{/color}"
     new "{color=#000000}Colère...............[cousinanger]{/color}"
-#--- "Ignore this. translate only: One"
 

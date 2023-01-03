@@ -3382,7 +3382,7 @@ translate turkish sidney_search_7bd448f0:
 translate turkish sidney_search_1577b81e:
 
     # S "...."
-    ""
+    S "...."
 
 # game/UpdateScript0.05.rpy:1527
 translate turkish sidney_search_852e5841:
@@ -4816,7 +4816,7 @@ translate turkish tv_together_04669380:
 translate turkish tv_together_fff0af16:
 
     # L "That feels so good!"
-    ""
+    L "Bu çok iyi hissettiriyor!"
 
 # game/UpdateScript0.05.rpy:2022
 translate turkish tv_together_661b7ef7:
@@ -4840,7 +4840,7 @@ translate turkish tv_together_9e0f9773:
 translate turkish tv_together_fb75ab3a:
 
     # RT "{i}Oh.... my.... God!....{/i}"
-    ""
+    RT "{i}Aman.... Tanrım!.... {/i}"
 
 # game/UpdateScript0.05.rpy:2034
 translate turkish tv_together_89accacf:
@@ -6526,7 +6526,7 @@ translate turkish lounge_finger_368a5c95:
 translate turkish lounge_finger_fff0af16:
 
     # L "That feels so good!"
-    ""
+    L "Bu çok iyi hissettiriyor!"
 
 # game/UpdateScript0.05.rpy:2586
 translate turkish lounge_finger_661b7ef7:
@@ -6550,7 +6550,7 @@ translate turkish lounge_finger_9e0f9773:
 translate turkish lounge_finger_fb75ab3a:
 
     # RT "{i}Oh.... my.... God!....{/i}"
-    ""
+    RT "{i}Aman.... Tanrım!.... {/i}"
 
 # game/UpdateScript0.05.rpy:2598
 translate turkish lounge_finger_6a3ce845:
@@ -6904,7 +6904,7 @@ translate turkish reward_for_payment_b72fcdc5:
 translate turkish reward_for_payment_42d71c1f:
 
     # RT "..."
-    ""
+    "[_RT_]..."
 
 # game/UpdateScript0.05.rpy:2813
 translate turkish reward_for_payment_5314b939:
@@ -7018,7 +7018,7 @@ translate turkish reward_for_payment_81a2a53a:
 translate turkish reward_for_payment_ea75a6e4:
 
     # R "Mom!...."
-    ""
+    R "Anne!...."
 
 # game/UpdateScript0.05.rpy:2842
 translate turkish reward_for_payment_1f4bcbee:
@@ -7444,7 +7444,7 @@ translate turkish reward_for_payment_fff7d5b5:
 translate turkish reward_for_payment_36e5bd82:
 
     # R "Like this?"
-    ""
+    R "Böyle mi?"
 
 # game/UpdateScript0.05.rpy:2945
 translate turkish reward_for_payment_23d51e32:
@@ -7858,7 +7858,7 @@ translate turkish reward_for_payment_cc559e70:
 translate turkish reward_for_payment_36e5bd82_1:
 
     # R "Like this?"
-    ""
+    R "Böyle mi?"
 
 # game/UpdateScript0.05.rpy:3073
 translate turkish reward_for_payment_dbe19c75:
@@ -9910,31 +9910,31 @@ translate turkish breakfast_events_8d9a4b12_2:
 translate turkish breakfast_events_2ab7780b:
 
     # M "Oh, Lauren.... I forgot to ask you how your costume convention went."
-    ""
+    M "Oh, Lauren.... Kostüm kongresinin nasıl geçtiğini sormayı unuttum."
 
 # game/UpdateScript0.05.rpy:3801
 translate turkish breakfast_events_eebb36c0:
 
     # L "It's cosplay Mom, and it was fun."
-    ""
+    L "Anne, bu bir cosplay ile ilgiliydi ve eğlenceliydi."
 
 # game/UpdateScript0.05.rpy:3802
 translate turkish breakfast_events_23e7f8f8:
 
     # M "I'm glad to hear it. I wanted to ask you the next morning, but you were nowhere to be found."
-    ""
+    M "Bunu duyduğuma sevindim. Ertesi sabah sana sormak istedim ama seni hiçbir yerde bulamadım."
 
 # game/UpdateScript0.05.rpy:3809
 translate turkish breakfast_events_ee9bcf28:
 
     # L "Yeah, Mandy and I talked [ryan] into going to Dad's warehouse to take some pictures of us in our costumes."
-    ""
+    L "Evet, Mandy ve ben [ryan]'ı babamın deposuna gidip kostümlerimizle fotoğraflarımızı çekmesi için ikna ettik."
 
 # game/UpdateScript0.05.rpy:3816
 translate turkish breakfast_events_4a66ad35:
 
     # M "Oh, good! I love pictures. [ryan], would you please email me those pictures!"
-    ""
+    M "Oh, güzel! Resimlere bayılırım. [ryan], lütfen o resimleri bana e-postayla gönderir misin!"
 
 # game/UpdateScript0.05.rpy:3817
 translate turkish breakfast_events_f16f0cd3:
@@ -9946,25 +9946,25 @@ translate turkish breakfast_events_f16f0cd3:
 translate turkish breakfast_events_99866278:
 
     # L "Yeah [ryan], Mom will be so impressed with your photography skills."
-    ""
+    L "Evet [ryan], annem fotoğrafçılık yeteneklerinden çok etkilenecek."
 
 # game/UpdateScript0.05.rpy:3825
 translate turkish breakfast_events_bc91da4d:
 
     # R "Ummm.... Ok.... I'll try to remember to send them over."
-    ""
+    R "Ummm.... Tamam.... Onları göndermeyi unutmamaya çalışacağım."
 
 # game/UpdateScript0.05.rpy:3826
 translate turkish breakfast_events_748678dc:
 
     # RT "{i}Oh, shoot!.... looks like the memory card in the camera is going to have to get damaged before I get a chance to download them onto my computer, and post them online.{/i}"
-    ""
+    RT "{i}Oh, siktir!.... Görünüşe göre bunları bilgisayarıma indirip internette yayınlayabilmem için fotoğraf makinesindeki hafıza kartının hasar görmesi gerekecek.{/i}"
 
 # game/UpdateScript0.05.rpy:3827
 translate turkish breakfast_events_1cf37310:
 
     # RT "{i}As long as Mom isn't a closet cosplay fan, with a secret Cosplay Heaven account, I think we'll be alright.{/i}"
-    ""
+    RT "{i}Annem gizli bir Cosplay Heaven hesabı olan gizli bir cosplay hayranı olmadığı sürece, sanırım sorun yaşamayacağız.{/i}"
 
 # game/UpdateScript0.05.rpy:3839
 translate turkish breakfast_events_8d9a4b12_3:
@@ -10150,55 +10150,55 @@ translate turkish breakfast_events_8d9a4b12_4:
 translate turkish breakfast_events_4c85a835:
 
     # L "So, guess who my friend Kenzie saw at the pool the other day."
-    ""
+    L "Bilin bakalım arkadaşım Kenzie geçen gün havuzda kimi görmüş."
 
 # game/UpdateScript0.05.rpy:3933
 translate turkish breakfast_events_b3dbbf75:
 
     # R "Shamu?"
-    ""
+    R "Shamu?"
 
 # game/UpdateScript0.05.rpy:3940
 translate turkish breakfast_events_637e11b5:
 
     # L "Why didn't I get to go?"
-    ""
+    L "Neden ben gidemedim?"
 
 # game/UpdateScript0.05.rpy:3947
 translate turkish breakfast_events_2a560edd:
 
     # M "Because I wanted to do something nice for just [ryan]."
-    ""
+    M "Çünkü sadece [ryan] için güzel bir şey yapmak istedim."
 
 # game/UpdateScript0.05.rpy:3948
 translate turkish breakfast_events_a6dac306:
 
     # M "He's made enough money that I haven't had to go work for the DeCapos for quite a few weeks in a row."
-    ""
+    M "O kadar çok para kazandı ki, birkaç hafta üst üste DeCapo'lar için çalışmak zorunda kalmadım."
 
 # game/UpdateScript0.05.rpy:3955
 translate turkish breakfast_events_b80c01fb:
 
     # L "I wish I'd been there. Kenzie said there was some kind of incident with Mom when you all were playing Marco Polo."
-    ""
+    L "Keşke ben de orada olsaydım. Kenzie, siz Marco Polo oynarken annemle aranızda bir olay olduğunu söyledi."
 
 # game/UpdateScript0.05.rpy:3956
 translate turkish breakfast_events_91f17d58:
 
     # L "But she wouldn't tell me any details."
-    ""
+    L "Ama bana detay vermedi."
 
 # game/UpdateScript0.05.rpy:3957
 translate turkish breakfast_events_d1f5e8c4:
 
     # LT "{i}She told me all the details, but I'd like to see Mom squirm a little.{/i}"
-    ""
+    LT "{i}Bana tüm detayları anlattı ama annemin biraz kıvrandığını görmek isterdim.{/i}"
 
 # game/UpdateScript0.05.rpy:3964
 translate turkish breakfast_events_5780dd7a:
 
     # MT "{i}Oh, shit!.... Does the whole school know?{/i}"
-    ""
+    MT "{i}Oh, siktir!.... Bütün okul biliyor mu?{/i}"
 
 # game/UpdateScript0.05.rpy:3976
 translate turkish breakfast_events_8d9a4b12_5:
@@ -10750,7 +10750,7 @@ translate turkish breakfast_events_acc4f3ed:
 translate turkish breakfast_events_a314db81:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.05.rpy:4285
 translate turkish breakfast_events_0093b117:
@@ -10822,7 +10822,7 @@ translate turkish breakfast_events_4e616e88:
 translate turkish breakfast_events_1577b81e:
 
     # S "...."
-    ""
+    S "...."
 
 # game/UpdateScript0.05.rpy:4317
 translate turkish breakfast_events_fe054e5b:
@@ -11080,7 +11080,7 @@ translate turkish breakfast_events_acc4f3ed_1:
 translate turkish breakfast_events_a314db81_1:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.05.rpy:4461
 translate turkish breakfast_events_0093b117_1:
@@ -11152,7 +11152,7 @@ translate turkish breakfast_events_4e616e88_1:
 translate turkish breakfast_events_1577b81e_1:
 
     # S "...."
-    ""
+    S "...."
 
 # game/UpdateScript0.05.rpy:4493
 translate turkish breakfast_events_fe054e5b_1:
@@ -11530,7 +11530,7 @@ translate turkish fix_washer_23d59b24:
 translate turkish fix_washer_4e1d9024:
 
     # R "Sorry.... but yeah.... The YourTube video said that's the only way to fix this model of washing machine."
-    ""
+    R "Üzgünüm.... ama evet.... YourTube videosunda bu model çamaşır makinesini tamir etmenin tek yolunun bu olduğu yazıyordu."
 
 # game/UpdateScript0.05.rpy:4638
 translate turkish fix_washer_8aa4e569:
@@ -11584,7 +11584,7 @@ translate turkish fix_washer_270b92c1:
 translate turkish fix_washer_35d42553:
 
     # R "Don't worry Mom. My penis is as soft as can be."
-    ""
+    R "Merak etme anne. Penisim olabildiğince yumuşak."
 
 # game/UpdateScript0.05.rpy:4652
 translate turkish fix_washer_7dfed6d8:
@@ -11608,7 +11608,7 @@ translate turkish fix_washer_7977cb7b:
 translate turkish fix_washer_00c88a88:
 
     # R "I didn't mean to!"
-    ""
+    R "İsteyerek olmadı!"
 
 # game/UpdateScript0.05.rpy:4660
 translate turkish fix_washer_430368c1:
@@ -11626,7 +11626,7 @@ translate turkish fix_washer_21fd1da2:
 translate turkish fix_washer_9a8e848e:
 
     # M "Ghrrrrr.... You have got to be kidding me, [ryan]!"
-    ""
+    M "Ghrrrrr.... Benimle dalga geçiyor olmalısın, [ryan]!"
 
 # game/UpdateScript0.05.rpy:4667
 translate turkish fix_washer_98470072:
@@ -11650,7 +11650,7 @@ translate turkish fix_washer_b23a94e6:
 translate turkish fix_washer_5ce8e4b5:
 
     # M "Well, I can't take this.... I'm going to come out while you're doing that!"
-    ""
+    M "Buna katlanamam.... Sen bunu yaparken ben dışarı çıkacağım!"
 
 # game/UpdateScript0.05.rpy:4675
 translate turkish fix_washer_20d07906:
@@ -11662,13 +11662,13 @@ translate turkish fix_washer_20d07906:
 translate turkish fix_washer_19e64904:
 
     # M "Why?"
-    ""
+    M "Neden?"
 
 # game/UpdateScript0.05.rpy:4677
 translate turkish fix_washer_02646db2:
 
     # R "Because if you let go of the wrench, the bearings will turn with the belt, and it won't fix the problem."
-    ""
+    R "Çünkü anahtarı bırakırsan, rulmanlar kayışla birlikte dönecek ve sorunu çözmeyecek."
 
 # game/UpdateScript0.05.rpy:4679
 translate turkish fix_washer_4a5dda41:
@@ -11770,13 +11770,13 @@ translate turkish fix_washer_2e991090:
 translate turkish fix_washer_8a8c67d6:
 
     # RT "{i}I've got to get my pants back up!{/i}"
-    ""
+    RT "{i}Pantolonumu geri giymeliyim!{/i}"
 
 # game/UpdateScript0.05.rpy:4730
 translate turkish fix_washer_36d6d486:
 
     # RT "{i}Pheww.... That was close.{/i}"
-    ""
+    RT "{i}Pheww.... Ucuz yırttım.{/i}"
 
 # game/UpdateScript0.05.rpy:4731
 translate turkish fix_washer_09d67b08:
@@ -11950,13 +11950,13 @@ translate turkish fix_washer_5244da61:
 translate turkish fix_washer_9bb18023:
 
     # RT "{i}I've got to get my pants back up! {/i}"
-    ""
+    RT "{i}Pantolonumu geri giymeliyim! {/i}"
 
 # game/UpdateScript0.05.rpy:4798
 translate turkish fix_washer_36d6d486_1:
 
     # RT "{i}Pheww.... That was close.{/i}"
-    ""
+    RT "{i}Pheww.... Ucuz yırttım.{/i}"
 
 # game/UpdateScript0.05.rpy:4799
 translate turkish fix_washer_09d67b08_1:
@@ -12076,13 +12076,13 @@ translate turkish fix_washer_c318e1af:
 translate turkish fix_washer_cdef383e:
 
     # RT "{i}Wow! Where did she get those shorts!?.... Sexy pink crop top.... I like the direction this is going!.... {/i}"
-    ""
+    RT "{i}Vay canına! Bu şortu nereden bulmuş!.... Seksi pembe üst.... Bu işin gidişatını beğendim!.... {/i}"
 
 # game/UpdateScript0.05.rpy:4828
 translate turkish fix_washer_51a0e7fc:
 
     # RT "{i}It's a good thing Dad's in prison.... He would have an aneurysm if he saw Mom dressed like this.{/i}"
-    ""
+    RT "{i}Babamın hapishanede olması iyi bir şey.... Annemi böyle giyinmiş görse anevrizma geçirirdi.{/i}"
 
 # game/UpdateScript0.05.rpy:4829
 translate turkish fix_washer_ce983c29:
@@ -12094,13 +12094,13 @@ translate turkish fix_washer_ce983c29:
 translate turkish fix_washer_9942ab9a:
 
     # RT "{i}I've got to make her see how much better her life can be without him.{/i}"
-    ""
+    RT "{i}Hayatının onsuz ne kadar daha iyi olabileceğini görmesini sağlamalıyım.{/i}"
 
 # game/UpdateScript0.05.rpy:4831
 translate turkish fix_washer_bf861604:
 
     # RT "{i}Time to show her I can take his place in her life.{/i}"
-    ""
+    RT "{i}Ona hayatında onun yerini alabileceğimi gösterme zamanı.{/i}"
 
 # game/UpdateScript0.05.rpy:4832
 translate turkish fix_washer_f98d596c:
@@ -12112,67 +12112,67 @@ translate turkish fix_washer_f98d596c:
 translate turkish fix_washer_2d04429b:
 
     # R "Hey, Mom. Lookin good today. Love the new outfit!"
-    ""
+    R "Selam anne. Bugün iyi görünüyorsun. Yeni kıyafetine bayıldım!"
 
 # game/UpdateScript0.05.rpy:4839
 translate turkish fix_washer_a0c4ffed:
 
     # M "Oh hi, [ryan].... Thank you, but I only put it on because I was feeling hot."
-    ""
+    M "Oh merhaba, [ryan].... Teşekkür ederim, ama sadece sıcak hissettiğim için giydim."
 
 # game/UpdateScript0.05.rpy:4840
 translate turkish fix_washer_cb9af363:
 
     # R "I'll say, and you're looking hot too."
-    ""
+    R "Söylemeliyimki, sen de çok seksi görünüyorsun."
 
 # game/UpdateScript0.05.rpy:4843
 translate turkish fix_washer_487cba8a:
 
     # M "I think you know that I meant temperature...."
-    ""
+    M "Sanırım derece olarak kastettiğimi biliyorsun........"
 
 # game/UpdateScript0.05.rpy:4844
 translate turkish fix_washer_5595b8ae:
 
     # R "Haha.... Yeah of course, but I didn't mean it that way."
-    ""
+    R "Haha.... Evet, tabii ki, ama öyle demek istemedim."
 
 # game/UpdateScript0.05.rpy:4846
 translate turkish fix_washer_fa75a93d:
 
     # M "[ryan]!.... You're not supposed to talk to your mother that way!"
-    ""
+    M "[ryan]!.... Annenle bu şekilde konuşmamalısın!"
 
 # game/UpdateScript0.05.rpy:4847
 translate turkish fix_washer_e207bf81:
 
     # R "What?... I can't tell my mother that she looks good?"
-    ""
+    R "Ne? Anneme iyi göründüğünü söyleyemez miyim?"
 
 # game/UpdateScript0.05.rpy:4848
 translate turkish fix_washer_67b3ef90:
 
     # R "I was just trying to give you a compliment."
-    ""
+    R "Sadece sana iltifat etmeye çalışıyordum."
 
 # game/UpdateScript0.05.rpy:4849
 translate turkish fix_washer_046db5ac:
 
     # M "Well.... Yeah.... Saying I look good is fine. But saying I look hot, or sexy, that kind of stuff is creepy...."
-    ""
+    M "İyi.... Evet.... İyi göründüğümü söylemek iyidir. Ama ateşli ya da seksi göründüğümü söylemek.... bu tür şeyler tüyler ürpertici."
 
 # game/UpdateScript0.05.rpy:4850
 translate turkish fix_washer_05f7c20b:
 
     # M "You know.... coming from my own son."
-    ""
+    M "Anlarsın.... bunu benim öz oğlum söylüyor."
 
 # game/UpdateScript0.05.rpy:4851
 translate turkish fix_washer_438c34f6:
 
     # R "Sorry.... I won't say that anymore."
-    ""
+    R "Üzgünüm.... Artık bunu söylemeyeceğim."
 
 # game/UpdateScript0.05.rpy:4852
 translate turkish fix_washer_fa18e4ef:
@@ -12184,79 +12184,79 @@ translate turkish fix_washer_fa18e4ef:
 translate turkish fix_washer_72099235:
 
     # R "I'll just think it instead."
-    ""
+    R "Bunu düşüneceğim."
 
 # game/UpdateScript0.05.rpy:4856
 translate turkish fix_washer_f4927d21:
 
     # M "No.... That's not.... Never mind!...."
-    ""
+    M "Hayır.... Bu değil.... Boş ver!...."
 
 # game/UpdateScript0.05.rpy:4857
 translate turkish fix_washer_59aae708:
 
     # M "Did you need something? I'm kind of busy."
-    ""
+    M "Bir şeye mi ihtiyacın vardı? Biraz meşgulüm."
 
 # game/UpdateScript0.05.rpy:4858
 translate turkish fix_washer_16effa15:
 
     # R "Yeah.... I just thought I'd see if you need me to tackle another item on the \"honey-do list.\""
-    ""
+    R "Evet.... \"ballı yapılacaklar listesi\"ndeki başka bir maddeyi halletmemi ister misin diye bir bakayım dedim."
 
 # game/UpdateScript0.05.rpy:4859
 translate turkish fix_washer_7c048da8:
 
     # M "hmmmm.... Well, the sink stopped leaking."
-    ""
+    M "hmmmm.... Lavabonun sızıntısı durdu."
 
 # game/UpdateScript0.05.rpy:4860
 translate turkish fix_washer_7ec99fa7:
 
     # R "Thank God!"
-    ""
+    R "Tanrıya şükür!"
 
 # game/UpdateScript0.05.rpy:4861
 translate turkish fix_washer_4e670cfa:
 
     # M "You're telling me!"
-    ""
+    M "Sen mi söylüyorsun!"
 
 # game/UpdateScript0.05.rpy:4862
 translate turkish fix_washer_4a058692:
 
     # M "So, I can't really think of anything off the top of my head.... unless you think you could fix a washing machine.... Ours keeps quitting mid-load."
-    ""
+    M "Bu yüzden aklıma bir şey gelmiyor.... tabii bir çamaşır makinesini tamir edebileceğini düşünmüyorsan.... Bizimki yükün ortasında bırakıp duruyor."
 
 # game/UpdateScript0.05.rpy:4863
 translate turkish fix_washer_bbc97afe:
 
     # R "I could try."
-    ""
+    R "Denerim."
 
 # game/UpdateScript0.05.rpy:4864
 translate turkish fix_washer_dfdd6f2a:
 
     # M "No.... I was just kidding.... We'll need an actual repair man to fix that."
-    ""
+    M "Hayır.... Sadece şaka yapıyordum.... Bunu düzeltmek için gerçek bir tamirciye ihtiyacımız olacak."
 
 # game/UpdateScript0.05.rpy:4867
 translate turkish fix_washer_97787618:
 
     # R "Mom.... An actual repair man costs a lot of money."
-    ""
+    R "Anne.... Gerçek bir tamirci çok paraya mal olur."
 
 # game/UpdateScript0.05.rpy:4868
 translate turkish fix_washer_b6756555:
 
     # R "Do you want to have to strip in the club this week?"
-    ""
+    R "Bu hafta kulüpte soyunmak zorunda kalmak ister misin?"
 
 # game/UpdateScript0.05.rpy:4870
 translate turkish fix_washer_bc4e9ae4:
 
     # MT "{i}I have been feeling rather bored lately.... Stripping for horny men sounds kind of exciting.{/i}"
-    ""
+    MT "{i}Son zamanlarda oldukça sıkılmış hissediyorum.... Azgın erkekler için soyunmak kulağa heyecan verici geliyor.{/i}"
 
 # game/UpdateScript0.05.rpy:4872
 translate turkish fix_washer_af81fe82:
@@ -12268,307 +12268,307 @@ translate turkish fix_washer_af81fe82:
 translate turkish fix_washer_5cb4ff64:
 
     # M "No.... of course not."
-    ""
+    M "Hayır.... elbette hayır."
 
 # game/UpdateScript0.05.rpy:4874
 translate turkish fix_washer_10713cc0:
 
     # R "Then just finish sweeping the floor, I'll run and watch some YourTube videos about how to fix washing machines, and I'll be right back."
-    ""
+    R "Sonra yerleri süpürmeyi bitirip koşacağım ve çamaşır makinelerinin nasıl tamir edileceğine dair birkaç YourTube videosu izleyeceğim ve hemen geri döneceğim."
 
 # game/UpdateScript0.05.rpy:4877
 translate turkish fix_washer_839440d8:
 
     # "{i}\"A few YourTube videos later.\"{/i}"
-    ""
+    "{i}\"Birkaç YourTube videosu sonra.\"{/i}"
 
 # game/UpdateScript0.05.rpy:4882
 translate turkish fix_washer_4d8f55a2:
 
     # "Ok Mom I think I'm ready. Why don't you show me what the problem is."
-    ""
+    "Tamam anne, sanırım hazırım. Neden bana sorunun ne olduğunu göstermiyorsun?"
 
 # game/UpdateScript0.05.rpy:4885
 translate turkish fix_washer_83c8a731:
 
     # M "You're sure you can do this?"
-    ""
+    M "Bunu yapabileceğinden emin misin?"
 
 # game/UpdateScript0.05.rpy:4886
 translate turkish fix_washer_fe4ba893:
 
     # R "Well, not completely, but I can at least try."
-    ""
+    R "Tam olarak değil ama en azından deneyebilirim."
 
 # game/UpdateScript0.05.rpy:4887
 translate turkish fix_washer_371b7f66:
 
     # M "Alright.... Let's go down to the basement."
-    ""
+    M "Pekala.... Hadi bodruma inelim."
 
 # game/UpdateScript0.05.rpy:4893
 translate turkish fix_washer_5ebdc40c:
 
     # RT "{i}Uugghh.... I've always hated this basement!{/i}"
-    ""
+    RT "{i}Uugghh.... Bu bodrumdan hep nefret etmişimdir!{/i}"
 
 # game/UpdateScript0.05.rpy:4894
 translate turkish fix_washer_f6ecc227:
 
     # RT "{i}But I'd follow that ass anywhere.{/i}"
-    ""
+    RT "{i}Ama o götü her yerde takip ederim.{/i}"
 
 # game/UpdateScript0.05.rpy:4895
 translate turkish fix_washer_f1ed9471:
 
     # RT "{i}In fact, now's a great opportunity to add another pic to my collection.{/i}"
-    ""
+    RT "{i}Aslında şimdi koleksiyonuma bir fotoğraf daha eklemek için harika bir fırsat.{/i}"
 
 # game/UpdateScript0.05.rpy:4898
 translate turkish fix_washer_c2468690:
 
     # RT "{i}I've got to make this fast.{/i}"
-    ""
+    RT "{i}Bunu çabuk yapmalıyım.{/i}"
 
 # game/UpdateScript0.05.rpy:4901
 translate turkish fix_washer_d2cff3d3:
 
     # RT "{i}Oh, that's beautiful!{/i}"
-    ""
+    RT "{i}Oh, bu çok güzel!{/i}"
 
 # game/UpdateScript0.05.rpy:4907
 translate turkish fix_washer_bc1dd7eb:
 
     # RT "{i}Got it!{/i}"
-    ""
+    RT "{i}Tamamdır!{/i}"
 
 # game/UpdateScript0.05.rpy:4913
 translate turkish fix_washer_0dc23196:
 
     # M "So, the washing machine keeps quitting in the middle of the cycle."
-    ""
+    M "Yani, çamaşır makinesi döngünün ortasında durup duruyor."
 
 # game/UpdateScript0.05.rpy:4914
 translate turkish fix_washer_88a1f3bd:
 
     # M "Did you figure out how to fix that?"
-    ""
+    M "Bunu nasıl düzelteceğini buldun mu?"
 
 # game/UpdateScript0.05.rpy:4915
 translate turkish fix_washer_d44d5ac0:
 
     # R "Yeah I think so.... It sounds like the belt that turns the drum got too tight."
-    ""
+    R "Evet sanırım öyle.... Tamburu döndüren kayış çok sıkılmış gibi görünüyor."
 
 # game/UpdateScript0.05.rpy:4916
 translate turkish fix_washer_e3fbfdff:
 
     # R "To fix it, I'm going to need your help."
-    ""
+    R "Bunu düzeltmek için yardımına ihtiyacım var."
 
 # game/UpdateScript0.05.rpy:4917
 translate turkish fix_washer_3cd8a9d1:
 
     # M "Great.... as long as you can guarantee my shirt will stay dry.... Just tell me what to do."
-    ""
+    M "Harika.... gömleğimin kuru kalacağını garanti ettiğin sürece.... Sadece ne yapacağımı söyle."
 
 # game/UpdateScript0.05.rpy:4920
 translate turkish fix_washer_4ebc1dc3:
 
     # R "Take this wrench, and inside of the washing machine, at the very back, there is a nut that you have to secure the wrench on to keep it from turning."
-    ""
+    R "Bu anahtarı al ve çamaşır makinesinin içinde, en arkada, dönmesini engellemek için anahtarı sabitlemen gereken bir somun var."
 
 # game/UpdateScript0.05.rpy:4921
 translate turkish fix_washer_73e88436:
 
     # M "How will I know which nut to secure?"
-    ""
+    M "Hangi somunu sabitleyeceğimi nasıl bileceğim?"
 
 # game/UpdateScript0.05.rpy:4922
 translate turkish fix_washer_889daa1a:
 
     # R "It's the only one, and it should fit that wrench perfectly."
-    ""
+    R "Bu tek ve bu anahtara mükemmel şekilde uymalı."
 
 # game/UpdateScript0.05.rpy:4923
 translate turkish fix_washer_09f6c9bf:
 
     # R "Now climb on in there."
-    ""
+    R "Şimdi oraya tırman."
 
 # game/UpdateScript0.05.rpy:4926
 translate turkish fix_washer_9e9b9650:
 
     # M "So, I see a nut.... Is it right in the middle of the drum?"
-    ""
+    M "Bir somun görüyorum.... Tamburun tam ortasındaki mi?"
 
 # game/UpdateScript0.05.rpy:4927
 translate turkish fix_washer_2c54cdd8:
 
     # R "Yeah, that should be it."
-    ""
+    R "Evet, öyle olmalı."
 
 # game/UpdateScript0.05.rpy:4928
 translate turkish fix_washer_32b89623:
 
     # M "Ok, I've got it, now what are you going to do?"
-    ""
+    M "Tamam, anladım, şimdi ne yapacaksın?"
 
 # game/UpdateScript0.05.rpy:4931
 translate turkish fix_washer_9722140f:
 
     # R "I've just got to remove this panel so I can get into where the belt is."
-    ""
+    R "Kayışın olduğu yere girebilmek için bu paneli çıkarmam gerekiyor."
 
 # game/UpdateScript0.05.rpy:4932
 translate turkish fix_washer_02bc43d1:
 
     # M "Well, this is kind of awkward.... Do you have to kneel right exactly there?"
-    ""
+    M "Bu biraz garip.... Tam orada diz çökmek zorunda mısın?"
 
 # game/UpdateScript0.05.rpy:4933
 translate turkish fix_washer_4e1d9024_1:
 
     # R "Sorry.... but yeah.... The YourTube video said that's the only way to fix this model of washing machine."
-    ""
+    R "Üzgünüm.... ama evet.... YourTube videosunda bu model çamaşır makinesini tamir etmenin tek yolunun bu olduğu yazıyordu."
 
 # game/UpdateScript0.05.rpy:4936
 translate turkish fix_washer_65e377b0:
 
     # M "Now do you really have to lean into me like that?"
-    ""
+    M "Şimdi gerçekten bana böyle yaslanmak zorunda mısın?"
 
 # game/UpdateScript0.05.rpy:4937
 translate turkish fix_washer_9d738a29:
 
     # R "Yeah, it's the only way I can reach the belt clear in the back."
-    ""
+    R "Evet, arka taraftaki kayışa ulaşabilmemin tek yolu bu."
 
 # game/UpdateScript0.05.rpy:4938
 translate turkish fix_washer_ce024178:
 
     # M "I'll bet repair men really hate this model of washing machine."
-    ""
+    M "Bahse girerim tamirciler bu çamaşır makinesi modelinden gerçekten nefret ediyorlardır."
 
 # game/UpdateScript0.05.rpy:4939
 translate turkish fix_washer_a985b90c:
 
     # R "Haha....Yeah, it's probably pretty awkward for two straight men to repair this together."
-    ""
+    R "Haha....Evet, iki heteroseksüel erkeğin bunu birlikte tamir etmesi muhtemelen oldukça gariptir."
 
 # game/UpdateScript0.05.rpy:4940
 translate turkish fix_washer_e4ca91c6:
 
     # M "Yeah?.... Well, it's not much better for a mother and son."
-    ""
+    M "Öyle mi?.... Bir anne ve oğul için de durum pek iyi değil."
 
 # game/UpdateScript0.05.rpy:4941
 translate turkish fix_washer_70799dd7:
 
     # R "What do you mean? What could possibly make this awkward?"
-    ""
+    R "Ne demek istiyorsun? Bunu garip yapan ne olabilir?"
 
 # game/UpdateScript0.05.rpy:4942
 translate turkish fix_washer_c575b229:
 
     # RT "{i}Holy shit!.... Mom's pretty much stuck in there.... I don't think she could turn around if she wanted to.{/i}"
-    ""
+    RT "{i}Vay anasını!.... Annem orada sıkışıp kaldı.... İstese bile geri dönebileceğini sanmıyorum.{/i}"
 
 # game/UpdateScript0.05.rpy:4943
 translate turkish fix_washer_b2ea0305:
 
     # RT "{i}How am I going to take advantage of this situation?{/i}"
-    ""
+    RT "{i}Bu durumdan nasıl faydalanacağım?{/i}"
 
 # game/UpdateScript0.05.rpy:4944
 translate turkish fix_washer_93fab24b:
 
     # RT "{i}Oh yeah.... I have an idea.{/i}"
-    ""
+    RT "{i}Oh evet.... Bir fikrim var.{/i}"
 
 # game/UpdateScript0.05.rpy:4948
 translate turkish fix_washer_13c7d0b3:
 
     # M "Well, it would be pretty awkward if you grinding into me while you're fixing that belt gave you an erection."
-    ""
+    M "O kayışı tamir ederken bana sürtünmen ereksiyon olmana neden olursa oldukça garip olur."
 
 # game/UpdateScript0.05.rpy:4951
 translate turkish fix_washer_35d42553_1:
 
     # R "Don't worry Mom. My penis is as soft as can be."
-    ""
+    R "Merak etme anne. Penisim olabildiğince yumuşak."
 
 # game/UpdateScript0.05.rpy:4952
 translate turkish fix_washer_487678b2:
 
     # M "Well, that's good to hear."
-    ""
+    M "Bunu duyduğuma sevindim."
 
 # game/UpdateScript0.05.rpy:4955
 translate turkish fix_washer_68bddca0:
 
     # R "Ummmm.... actually...."
-    ""
+    R "Ummmm.... aslında...."
 
 # game/UpdateScript0.05.rpy:4956
 translate turkish fix_washer_e3ace639:
 
     # M "Shit!.... [ryan]?.... Did you just make things more awkward?"
-    ""
+    M "Siktir!.... [ryan]?.... İşleri daha da mı garipleştirdin?"
 
 # game/UpdateScript0.05.rpy:4959
 translate turkish fix_washer_00c88a88_1:
 
     # R "I didn't mean to!"
-    ""
+    R "İsteyerek olmadı!"
 
 # game/UpdateScript0.05.rpy:4960
 translate turkish fix_washer_55bf0946:
 
     # R "It's because you brought it up!"
-    ""
+    R "Konuyu sen açtın da ondan!"
 
 # game/UpdateScript0.05.rpy:4963
 translate turkish fix_washer_ac956bb6:
 
     # R "If you hadn't brought it up,...."
-    ""
+    R "Eğer bu konuyu açmasaydın,...."
 
 # game/UpdateScript0.05.rpy:4964
 translate turkish fix_washer_a8ea981f:
 
     # R "I would probably still be soft."
-    ""
+    R "Muhtemelen hala yumuşak olacaktı."
 
 # game/UpdateScript0.05.rpy:4967
 translate turkish fix_washer_9a8e848e_1:
 
     # M "Ghrrrrr.... You have got to be kidding me, [ryan]!"
-    ""
+    M "Ghrrrrr.... Benimle dalga geçiyor olmalısın, [ryan]!"
 
 # game/UpdateScript0.05.rpy:4968
 translate turkish fix_washer_13127911:
 
     # M "And why are you moving around so much back there?"
-    ""
+    M "Ve neden arkada bu kadar çok hareket ediyorsun?"
 
 # game/UpdateScript0.05.rpy:4971
 translate turkish fix_washer_2bc8bc63:
 
     # R "I'm sorry, I have to keep cranking this belt until it loosens up the motor bearings enough that they can turn easily on their own."
-    ""
+    R "Üzgünüm, motor yataklarını kendi başlarına kolayca dönebilecekleri kadar gevşetene kadar bu kayışı kranklamaya devam etmem gerekiyor."
 
 # game/UpdateScript0.05.rpy:4972
 translate turkish fix_washer_7dc5ae3e:
 
     # R "And I can't crank the belt without moving around."
-    ""
+    R "Ve hareket etmeden kayışı çeviremiyorum."
 
 # game/UpdateScript0.05.rpy:4975
 translate turkish fix_washer_5ce8e4b5_1:
 
     # M "Well, I can't take this.... I'm going to come out while you're doing that!"
-    ""
+    M "Buna katlanamam.... Sen bunu yaparken ben dışarı çıkacağım!"
 
 # game/UpdateScript0.05.rpy:4976
 translate turkish fix_washer_20d07906_1:
@@ -12580,13 +12580,13 @@ translate turkish fix_washer_20d07906_1:
 translate turkish fix_washer_19e64904_1:
 
     # M "Why?"
-    ""
+    M "Neden?"
 
 # game/UpdateScript0.05.rpy:4978
 translate turkish fix_washer_02646db2_1:
 
     # R "Because if you let go of the wrench, the bearings will turn with the belt, and it won't fix the problem."
-    ""
+    R "Çünkü anahtarı bırakırsan, rulmanlar kayışla birlikte dönecek ve sorunu çözmeyecek."
 
 # game/UpdateScript0.05.rpy:4980
 translate turkish fix_washer_4a5dda41_1:
@@ -12676,13 +12676,13 @@ translate turkish fix_washer_2e991090_1:
 translate turkish fix_washer_8a8c67d6_1:
 
     # RT "{i}I've got to get my pants back up!{/i}"
-    ""
+    RT "{i}Pantolonumu geri giymeliyim!{/i}"
 
 # game/UpdateScript0.05.rpy:5025
 translate turkish fix_washer_36d6d486_2:
 
     # RT "{i}Pheww.... That was close.{/i}"
-    ""
+    RT "{i}Pheww.... Ucuz yırttım.{/i}"
 
 # game/UpdateScript0.05.rpy:5026
 translate turkish fix_washer_15faf34e:
@@ -12838,19 +12838,19 @@ translate turkish fix_washer_cc865211:
 translate turkish fix_washer_df213acf:
 
     # M "I don't care!.... You're literally grinding against my ass!"
-    ""
+    M "Umurumda değil! .... Resmen götüme sürtünüyorsun!"
 
 # game/UpdateScript0.05.rpy:5070
 translate turkish fix_washer_9bb18023_1:
 
     # RT "{i}I've got to get my pants back up! {/i}"
-    ""
+    RT "{i}Pantolonumu geri giymeliyim! {/i}"
 
 # game/UpdateScript0.05.rpy:5073
 translate turkish fix_washer_36d6d486_3:
 
     # RT "{i}Pheww.... That was close.{/i}"
-    ""
+    RT "{i}Pheww.... Ucuz yırttım.{/i}"
 
 # game/UpdateScript0.05.rpy:5074
 translate turkish fix_washer_15faf34e_1:
@@ -14800,7 +14800,7 @@ translate turkish park_activities_5d6674e2:
 translate turkish park_activities_1577b81e:
 
     # S "...."
-    ""
+    S "...."
 
 # game/UpdateScript0.05.rpy:5718
 translate turkish park_activities_210f0c5d:
@@ -15898,7 +15898,7 @@ translate turkish first_club_cum_a90417ab:
 translate turkish first_club_cum_6bf1c5f2:
 
     # "{b}{i}\"View this card in the gallery and the casino\"{/i}{/b}"
-    ""
+    "{b}{i}\"Galeride ve kasinoda bu kartı görüntüleyin\"{/i}{/b}"
 
 # game/UpdateScript0.05.rpy:6264
 translate turkish first_club_cum_faaa387a:
@@ -16666,7 +16666,7 @@ translate turkish money_chat_967e4276:
 translate turkish money_chat_1577b81e:
 
     # S "...."
-    ""
+    S "...."
 
 # game/UpdateScript0.05.rpy:6576
 translate turkish money_chat_efcb44dc_1:

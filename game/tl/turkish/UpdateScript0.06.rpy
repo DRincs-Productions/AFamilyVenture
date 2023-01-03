@@ -436,7 +436,7 @@ translate turkish move_in_day_cd214f46:
 translate turkish move_in_day_3cb5c049:
 
     # M "How long have you been standing there?"
-    ""
+    M "Ne zamandır orada duruyorsun?"
 
 # game/UpdateScript0.06.rpy:835
 translate turkish move_in_day_6a249927:
@@ -1180,7 +1180,7 @@ translate turkish posting_ph_pics_b5e1a766:
 translate turkish posting_ph_pics_2a5aa9f1:
 
     # RT "{i}Uploading the pictures now... and click submit... and now we just wait to see if anyone likes them.{/i}"
-    ""
+    RT "{i}Şimdi resimleri yüklüyorum... ve gönder'e tıklıyorum... ve şimdi sadece beğenen olup olmadığını görmek için bekliyoruz.{/i}"
 
 # game/UpdateScript0.06.rpy:1088
 translate turkish posting_ph_pics_f35f728e:
@@ -1738,7 +1738,7 @@ translate turkish sidney_bed_sex_f30d3e29:
 translate turkish sidney_bed_sex_445042f6:
 
     # "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-    ""
+    "{i}{b}\"Sidney'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:1424
 translate turkish sidney_bed_sex_da56687e:
@@ -1978,7 +1978,7 @@ translate turkish sidney_bed_sex_0fef8b61:
 translate turkish sidney_bed_sex_244f8653:
 
     # S "Oh my God, [ryan]!"
-    ""
+    S "Aman Tanrım, [ryan]!"
 
 # game/UpdateScript0.06.rpy:1520
 translate turkish sidney_bed_sex_d2bcd4ed:
@@ -2560,7 +2560,7 @@ translate turkish ph_reading_time_6448c769:
 translate turkish ph_reading_time_42d71c1f:
 
     # RT "..."
-    ""
+    "[_RT_]..."
 
 # game/UpdateScript0.06.rpy:1706
 translate turkish ph_reading_time_22184bc5:
@@ -2968,7 +2968,7 @@ translate turkish ph_reading_time_6448c769_1:
 translate turkish ph_reading_time_42d71c1f_1:
 
     # RT "..."
-    ""
+    "[_RT_]..."
 
 # game/UpdateScript0.06.rpy:1823
 translate turkish ph_reading_time_22184bc5_1:
@@ -3388,7 +3388,7 @@ translate turkish ph_reading_time_0e21baa0:
 translate turkish ph_reading_time_42d71c1f_2:
 
     # RT "..."
-    ""
+    "[_RT_]..."
 
 # game/UpdateScript0.06.rpy:1952
 translate turkish ph_reading_time_10ba1431:
@@ -3796,7 +3796,7 @@ translate turkish ph_reading_time_0e21baa0_1:
 translate turkish ph_reading_time_42d71c1f_3:
 
     # RT "..."
-    ""
+    "[_RT_]..."
 
 # game/UpdateScript0.06.rpy:2072
 translate turkish ph_reading_time_10ba1431_1:
@@ -4216,7 +4216,7 @@ translate turkish ph_reading_time_0e21baa0_2:
 translate turkish ph_reading_time_42d71c1f_4:
 
     # RT "..."
-    ""
+    "[_RT_]..."
 
 # game/UpdateScript0.06.rpy:2205
 translate turkish ph_reading_time_22184bc5_2:
@@ -4468,13 +4468,13 @@ translate turkish mandyfingerselfbath_7ee37e1e:
 translate turkish mandyfingerselfbath_2137efd9:
 
     # RT "{i}Oh my God, yes! This is so awesome!{/i}"
-    ""
+    RT "{i}Aman Tanrım, evet! Bu çok harika!{/i}"
 
 # game/UpdateScript0.06.rpy:2388
 translate turkish mandyfingerselfbath_8db279a4:
 
     # RT "{i}And thanks to modern technology I can watch it all.{/i}"
-    ""
+    RT "{i}Ve modern teknoloji sayesinde hepsini izleyebiliyorum.{/i}"
 
 # game/UpdateScript0.06.rpy:2392
 translate turkish mandyfingerselfbath_e85a7e44:
@@ -4516,7 +4516,7 @@ translate turkish mandyfingerselfbath_4ab07f0b:
 translate turkish mandyfingerselfbath_96000ade:
 
     # RT "{i}Perfect! That beautiful image will be on my computer next time I check it.{/i}"
-    ""
+    RT "{i}Mükemmel! Bir dahaki sefere kontrol ettiğimde bu güzel resim bilgisayarımda olacak.{/i}"
 
 # game/UpdateScript0.06.rpy:2406
 translate turkish mandyfingerselfbath_7c577a33:
@@ -4726,7 +4726,7 @@ translate turkish auntfingerselfbath_4ab07f0b:
 translate turkish auntfingerselfbath_96000ade:
 
     # RT "{i}Perfect! That beautiful image will be on my computer next time I check it.{/i}"
-    ""
+    RT "{i}Mükemmel! Bir dahaki sefere kontrol ettiğimde bu güzel resim bilgisayarımda olacak.{/i}"
 
 # game/UpdateScript0.06.rpy:2551
 translate turkish auntfingerselfbath_eaa32c9f:
@@ -4852,7 +4852,7 @@ translate turkish commission_ph_outfit_0770ae02:
 translate turkish commission_ph_outfit_abce7014:
 
     # S "Yeah, well I guess it's your money. You earned it. If you'd rather pay me for a sexy costumes for Mom and your school girlfriend, than keeping Mom safe from the Mafia, that's up to you."
-    ""
+    S "Evet, sanırım bu senin paran. Sen kazandın. Annemi mafyadan korumak yerine seksi kostümler için bana para ödemeyi tercih ediyorsan, bu sana kalmış."
 
 # game/UpdateScript0.06.rpy:2625
 translate turkish commission_ph_outfit_81c09fc9:
@@ -4972,7 +4972,7 @@ translate turkish commission_ph_outfit_b03ee2a6:
 translate turkish commission_ph_outfit_1577b81e:
 
     # S "...."
-    ""
+    S "...."
 
 # game/UpdateScript0.06.rpy:2672
 translate turkish commission_ph_outfit_15a4cd93:
@@ -5242,7 +5242,7 @@ translate turkish commission_ph_outfit_0770ae02_1:
 translate turkish commission_ph_outfit_199ae1e6:
 
     # S "Yeah, well I guess it's your money. You earned it. If you'd rather pay me for a sexy costumes for Mom and your school girlfriend, then keeping Mom safe from the Mafia, that's up to you."
-    ""
+    S "Evet, sanırım bu senin paran. Sen kazandın. Annemi mafyadan korumak yerine seksi kostümler için bana para ödemeyi tercih ediyorsan, bu sana kalmış."
 
 # game/UpdateScript0.06.rpy:2742
 translate turkish commission_ph_outfit_81c09fc9_1:
@@ -5458,7 +5458,7 @@ translate turkish ph_cosplayfitting_b65e379e:
 translate turkish ph_cosplayfitting_244f8653:
 
     # S "Oh my God, [ryan]!"
-    ""
+    S "Aman Tanrım, [ryan]!"
 
 # game/UpdateScript0.06.rpy:2809
 translate turkish ph_cosplayfitting_e92c6318:
@@ -5884,7 +5884,7 @@ translate turkish update_six_bfasts_9a25c148:
 translate turkish update_six_bfasts_735f0028:
 
     # M "Ok... I guess I can do that."
-    ""
+    M "Tamam... Sanırım bunu yapabilirim."
 
 # game/UpdateScript0.06.rpy:2935
 translate turkish update_six_bfasts_f830f74c:
@@ -5968,7 +5968,7 @@ translate turkish update_six_bfasts_2f1cf092:
 translate turkish update_six_bfasts_9993b94e:
 
     # L "..."
-    ""
+    L "..."
 
 # game/UpdateScript0.06.rpy:3002
 translate turkish update_six_bfasts_84b6ba1d:
@@ -6040,7 +6040,7 @@ translate turkish update_six_bfasts_e8609974:
 translate turkish update_six_bfasts_971a98df:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.06.rpy:3034
 translate turkish update_six_bfasts_f88ffa27:
@@ -6184,7 +6184,7 @@ translate turkish update_six_bfasts_9a25c148_1:
 translate turkish update_six_bfasts_735f0028_1:
 
     # M "Ok... I guess I can do that."
-    ""
+    M "Tamam... Sanırım bunu yapabilirim."
 
 # game/UpdateScript0.06.rpy:3098
 translate turkish update_six_bfasts_f830f74c_1:
@@ -6268,7 +6268,7 @@ translate turkish update_six_bfasts_2f1cf092_1:
 translate turkish update_six_bfasts_9993b94e_1:
 
     # L "..."
-    ""
+    L "..."
 
 # game/UpdateScript0.06.rpy:3165
 translate turkish update_six_bfasts_84b6ba1d_1:
@@ -6340,7 +6340,7 @@ translate turkish update_six_bfasts_e8609974_1:
 translate turkish update_six_bfasts_971a98df_1:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.06.rpy:3197
 translate turkish update_six_bfasts_f88ffa27_1:
@@ -6868,7 +6868,7 @@ translate turkish aunt_angry_d0d849ee:
 translate turkish aunt_angry_ce465d3d:
 
     # C "Maybe next time try to think of something a little less creepy."
-    ""
+    C "Belki bir dahaki sefere daha az korkunç bir şey düşünmeye çalışırsın."
 
 # game/UpdateScript0.06.rpy:3452
 translate turkish aunt_angry_61f010f9:
@@ -6958,25 +6958,25 @@ translate turkish naughty_pranks_on_mom_505e98a3:
 translate turkish naughty_pranks_on_mom_5da983b7:
 
     # RT "{i}I'm getting addicted to Mom's body... I can't wait until she gives it to me willingly.{/i}"
-    ""
+    RT "{i}Annemin vücuduna bağımlı olmaya başladım. Bana isteyerek verene kadar bekleyemem.{/i}"
 
 # game/UpdateScript0.06.rpy:3534
 translate turkish naughty_pranks_on_mom_ba1a5914:
 
     # RT "{i}So what whould I choose tonight?{/i}"
-    ""
+    RT "{i}Peki bu gece neyi seçeceğim?{/i}"
 
 # game/UpdateScript0.06.rpy:3537
 translate turkish naughty_pranks_on_mom_3999dc02:
 
     # RT "{i}I've gotta take off that bra so I have some goods to look at while her feet are caressing my cock.{/i}"
-    ""
+    RT "{i}Sütyenini çıkarmalıyım ki ayakları sikimi okşarken bakabileceğim bir şeyler olsun.{/i}"
 
 # game/UpdateScript0.06.rpy:3542
 translate turkish naughty_pranks_on_mom_5cf076b6:
 
     # RT "{i}I can't wait to cum all over them!{/i}"
-    ""
+    RT "{i}Üzerlerine boşalmak için sabırsızlanıyorum!{/i}"
 
 # game/UpdateScript0.06.rpy:3546
 translate turkish naughty_pranks_on_mom_05d627cd:
@@ -7006,7 +7006,7 @@ translate turkish naughty_pranks_on_mom_a25e7d20:
 translate turkish naughty_pranks_on_mom_bd444627:
 
     # RT "{i}This was such a good idea!{/i}"
-    RT "{i}Bu çok iyi bir fikirdi!{/i}"
+    RT "{i}Bu çok iyi bir fikir!{/i}"
 
 # game/UpdateScript0.06.rpy:3552
 translate turkish naughty_pranks_on_mom_7eefae07:
@@ -7030,19 +7030,19 @@ translate turkish naughty_pranks_on_mom_3e9faf11:
 translate turkish naughty_pranks_on_mom_bd2edb1a:
 
     # RT "{i}First I've got to get those tiny panties off and turn her on her stomach.{/i}"
-    ""
+    RT "{i}Önce o küçük külotu çıkarıp onu yüzüstü çevirmeliyim.{/i}"
 
 # game/UpdateScript0.06.rpy:3583
 translate turkish naughty_pranks_on_mom_bc729988:
 
     # RT "{i}I'm going to cum all over that ass!{/i}"
-    ""
+    RT "{i}O götün her yerine boşalacağım!{/i}"
 
 # game/UpdateScript0.06.rpy:3587
 translate turkish naughty_pranks_on_mom_32a05702:
 
     # RT "{i}Oh, wow! This is where my dick belongs!{/i}"
-    ""
+    RT "{i}Oh, wow! Burası benim sikimin ait olduğu yer!{/i}"
 
 # game/UpdateScript0.06.rpy:3589
 translate turkish naughty_pranks_on_mom_6d03abe7:
@@ -7276,7 +7276,7 @@ translate turkish naughty_pranks_on_mom_a25e7d20_1:
 translate turkish naughty_pranks_on_mom_bd444627_1:
 
     # RT "{i}This was such a good idea!{/i}"
-    RT "{i}Bu çok iyi bir fikirdi!{/i}"
+    RT "{i}Bu çok iyi bir fikir!{/i}"
 
 # game/UpdateScript0.06.rpy:3732
 translate turkish naughty_pranks_on_mom_7eefae07_1:
@@ -7822,19 +7822,19 @@ translate turkish moms_update_six_mbate_thoughts_c2dfdf12:
 translate turkish moms_update_six_mbate_thoughts_dbfe2aaa:
 
     # MT "{i}Oh, fuuuuuuck!!!{/i}"
-    ""
+    MT "{i}Oh, siktiiiirrrrr!!!{/i}"
 
 # game/UpdateScript0.06.rpy:3967
 translate turkish moms_update_six_mbate_thoughts_21814ec9:
 
     # MT "{i}Oh, my God!... I'm squirting!!{/i}"
-    ""
+    MT "{i}Aman Tanrım!.... Boşalıyorum!!{/i}"
 
 # game/UpdateScript0.06.rpy:3971
 translate turkish moms_update_six_mbate_thoughts_4f46adf6:
 
     # MT "{i}Oh, yes!! Fucking squirted again!{/i}"
-    ""
+    MT "{i}Oh evet!! Yine boşaldım!{/i}"
 
 # game/UpdateScript0.06.rpy:3972
 translate turkish moms_update_six_mbate_thoughts_ac71da3b:
@@ -7858,7 +7858,7 @@ translate turkish moms_update_six_mbate_thoughts_0aa2af95:
 translate turkish moms_update_six_mbate_thoughts_e260b4ad:
 
     # MT "{i}What's wrong with me?{/i}"
-    ""
+    MT "{i}Neyim var benim?{/i}"
 
 # game/UpdateScript0.06.rpy:3977
 translate turkish moms_update_six_mbate_thoughts_4abf2a82:
@@ -7912,7 +7912,7 @@ translate turkish moms_update_six_mbate_thoughts_d48550d7:
 translate turkish moms_update_six_mbate_thoughts_eccb6e7c:
 
     # RT "{i}Wow, Mom's a real squirter!{/i}"
-    ""
+    RT "{i}Vay canına! Annem de çeşme kadınıymış.{/i}"
 
 # game/UpdateScript0.06.rpy:3989
 translate turkish moms_update_six_mbate_thoughts_016530b8:
@@ -7942,7 +7942,7 @@ translate turkish moms_update_six_mbate_thoughts_3b100cf1:
 translate turkish moms_update_six_mbate_thoughts_8aae703e:
 
     # RT "{i}I should run before I get caught.{/i}"
-    ""
+    RT "{i}IYakalanmadan önce kaçmalıyım.{/i}"
 
 # game/UpdateScript0.06.rpy:4007
 translate turkish moms_update_six_mbate_thoughts_528aec30:
@@ -7966,19 +7966,19 @@ translate turkish moms_update_six_mbate_thoughts_f2d7452a:
 translate turkish moms_update_six_mbate_thoughts_dbfe2aaa_1:
 
     # MT "{i}Oh, fuuuuuuck!!!{/i}"
-    ""
+    MT "{i}Oh, siktiiiirrrrr!!!{/i}"
 
 # game/UpdateScript0.06.rpy:4029
 translate turkish moms_update_six_mbate_thoughts_21814ec9_1:
 
     # MT "{i}Oh, my God!... I'm squirting!!{/i}"
-    ""
+    MT "{i}Aman Tanrım!.... Boşalıyorum!!{/i}"
 
 # game/UpdateScript0.06.rpy:4033
 translate turkish moms_update_six_mbate_thoughts_4f46adf6_1:
 
     # MT "{i}Oh, yes!! Fucking squirted again!{/i}"
-    ""
+    MT "{i}Oh evet!! Yine boşaldım!{/i}"
 
 # game/UpdateScript0.06.rpy:4034
 translate turkish moms_update_six_mbate_thoughts_ac71da3b_1:
@@ -8002,7 +8002,7 @@ translate turkish moms_update_six_mbate_thoughts_0aa2af95_1:
 translate turkish moms_update_six_mbate_thoughts_e260b4ad_1:
 
     # MT "{i}What's wrong with me?{/i}"
-    ""
+    MT "{i}Neyim var benim?{/i}"
 
 # game/UpdateScript0.06.rpy:4039
 translate turkish moms_update_six_mbate_thoughts_32520aea:
@@ -8056,7 +8056,7 @@ translate turkish moms_update_six_mbate_thoughts_d48550d7_1:
 translate turkish moms_update_six_mbate_thoughts_eccb6e7c_1:
 
     # RT "{i}Wow, Mom's a real squirter!{/i}"
-    ""
+    RT "{i}Vay canına! Annem de çeşme kadınıymış.{/i}"
 
 # game/UpdateScript0.06.rpy:4051
 translate turkish moms_update_six_mbate_thoughts_016530b8_1:
@@ -8086,7 +8086,7 @@ translate turkish moms_update_six_mbate_thoughts_3b100cf1_1:
 translate turkish moms_update_six_mbate_thoughts_8aae703e_1:
 
     # RT "{i}I should run before I get caught.{/i}"
-    ""
+    RT "{i}IYakalanmadan önce kaçmalıyım.{/i}"
 
 # game/UpdateScript0.06.rpy:4076
 translate turkish update_six_momspycamroommad_fd4d94cb:
@@ -10678,7 +10678,7 @@ translate turkish lauren_night_a91fe7ee:
 translate turkish lauren_night_371f4f8d:
 
     # RT "{i}Nice!{/i}"
-    ""
+    RT "{i}Güzel!{/i}"
 
 # game/UpdateScript0.06.rpy:4837
 translate turkish lauren_night_490a2a0c:
@@ -14980,7 +14980,7 @@ translate turkish v_risky_dare_sequence_e41ebcad:
 translate turkish v_risky_dare_sequence_36e5bd82:
 
     # R "Like this?"
-    ""
+    R "Böyle mi?"
 
 # game/UpdateScript0.06.rpy:6331
 translate turkish v_risky_dare_sequence_af9d0b85:
@@ -15742,7 +15742,7 @@ translate turkish cum_hj_1e88eb84:
 translate turkish cum_hj_6bf1c5f2:
 
     # "{b}{i}\"View this card in the gallery and the casino\"{/i}{/b}"
-    ""
+    "{b}{i}\"Galeride ve kasinoda bu kartı görüntüleyin\"{/i}{/b}"
 
 # game/UpdateScript0.06.rpy:6628
 translate turkish cum_thighs_451462ac:
@@ -15946,7 +15946,7 @@ translate turkish cum_thighs_1e88eb84:
 translate turkish cum_thighs_6bf1c5f2:
 
     # "{b}{i}\"View this card in the gallery and the casino\"{/i}{/b}"
-    ""
+    "{b}{i}\"Galeride ve kasinoda bu kartı görüntüleyin\"{/i}{/b}"
 
 # game/UpdateScript0.06.rpy:6734
 translate turkish mandy_angry_b20748a7:
@@ -15964,7 +15964,7 @@ translate turkish mandy_angry_25f4cb9b:
 translate turkish mandy_angry_8e9ce409:
 
     # RT "{i}The door's locked. Mandy's pretty pissed off at me.{/i}"
-    ""
+    RT "{i}Kapı kilitli. Mandy bana çok kızdı.{/i}"
 
 # game/UpdateScript0.06.rpy:6754
 translate turkish mandy_angry_3cc72377:
@@ -15982,7 +15982,7 @@ translate turkish mandy_angry_f702edc5:
 translate turkish mandy_angry_af2d1f83:
 
     # MD "Thank you, I love chocolate!"
-    ""
+    MD "Teşekkür ederim, çikolataya bayılırım!"
 
 # game/UpdateScript0.06.rpy:6766
 translate turkish mandy_angry_9d198496:
@@ -15994,7 +15994,7 @@ translate turkish mandy_angry_9d198496:
 translate turkish mandy_angry_7a52c8b5:
 
     # MD "But this doesn't mean I'm not mad at you anymore. You acted like a jerk, and it's going to take me some more time to forgive you."
-    ""
+    MD "Ama bu artık sana kızgın olmadığım anlamına gelmiyor. Bir pislik gibi davrandın ve seni affetmem biraz daha zaman alacak."
 
 # game/UpdateScript0.06.rpy:6778
 translate turkish mandy_angry_72e70b18:
@@ -16018,7 +16018,7 @@ translate turkish mandy_angry_3e5ca053:
 translate turkish mandy_angry_7a52c8b5_1:
 
     # MD "But this doesn't mean I'm not mad at you anymore. You acted like a jerk, and it's going to take me some more time to forgive you."
-    ""
+    MD "Ama bu artık sana kızgın olmadığım anlamına gelmiyor. Bir pislik gibi davrandın ve seni affetmem biraz daha zaman alacak."
 
 # game/UpdateScript0.06.rpy:6797
 translate turkish mandy_angry_72e70b18_1:
@@ -16030,7 +16030,7 @@ translate turkish mandy_angry_72e70b18_1:
 translate turkish mandy_angry_f489ce2d:
 
     # MD "What the hell are you thinking? I'm not your girlfriend!"
-    ""
+    MD "Aklından ne geçiyor senin? Ben senin kız arkadaşın değilim!"
 
 # game/UpdateScript0.06.rpy:6806
 translate turkish mandy_angry_cb51b225:
@@ -16048,7 +16048,7 @@ translate turkish mandy_angry_a83795a0:
 translate turkish mandy_angry_9133862d:
 
     # MD "Maybe next time, try to think of something a little less creepy."
-    ""
+    MD "Belki bir dahaki sefere daha az korkunç bir şey düşünmeye çalışırsın."
 
 # game/UpdateScript0.06.rpy:6809
 translate turkish mandy_angry_2faf6c00:
@@ -17008,7 +17008,7 @@ translate turkish update_six_sidneyspycamroomhorny_0fb8af50:
 translate turkish update_six_sidneyspycamroomhorny_5defb2ed:
 
     # ST "{i}What's wrong with me?{/i}"
-    ""
+    ST "{i}Neyim var benim?{/i}"
 
 # game/UpdateScript0.06.rpy:7255
 translate turkish update_six_sidneyspycamroomhorny_59c153b6:
@@ -17074,7 +17074,7 @@ translate turkish update_six_sidneyspycamroomhorny_016530b8:
 translate turkish update_six_sidneyspycamroomhorny_445042f6:
 
     # "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-    ""
+    "{i}{b}\"Sidney'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:7269
 translate turkish update_six_sidneyspycamroomhorny_16d37eb8:
@@ -17086,7 +17086,7 @@ translate turkish update_six_sidneyspycamroomhorny_16d37eb8:
 translate turkish update_six_sidneyspycamroomhorny_8aae703e:
 
     # RT "{i}I should run before I get caught.{/i}"
-    ""
+    RT "{i}IYakalanmadan önce kaçmalıyım.{/i}"
 
 # game/UpdateScript0.06.rpy:7282
 translate turkish diaz_is_back_75504434:
@@ -21490,13 +21490,13 @@ translate turkish diaz_lauren_and_mandy_51b0537e:
 translate turkish both_caught_069576ca:
 
     # RT "{i}Hmmmm... her door's shut again. I'll bet she's at it again. I'll Just take a peek.{/i}"
-    ""
+    RT "{i}Hmmmm... kapısı yine kapalı. Bahse girerim yine o iştesin. Sadece bir göz atayım. { /i }"
 
 # game/UpdateScript0.06.rpy:8757
 translate turkish both_caught_2a679734:
 
     # RT "{i}Haha... yep!... She must really be missing Dad to be trying to squeeze a session in before class.{/i}"
-    ""
+    RT "{i}Haha... evet!... Dersten önce bir seans sıkıştırmaya çalıştığına göre babamı gerçekten özlüyor olmalı.{/i}"
 
 # game/UpdateScript0.06.rpy:8758
 translate turkish both_caught_d3311f2b:
@@ -21508,7 +21508,7 @@ translate turkish both_caught_d3311f2b:
 translate turkish both_caught_4b38c491:
 
     # RT "{i}Now looks like a good time.{/i}"
-    ""
+    RT "{i}Şimdi iyi bir zaman gibi görünüyor.{/i}"
 
 # game/UpdateScript0.06.rpy:8762
 translate turkish both_caught_12b5ff40:
@@ -21520,97 +21520,97 @@ translate turkish both_caught_12b5ff40:
 translate turkish both_caught_08666754:
 
     # M "[ryan]!... You scared the hell out of me again!?"
-    ""
+    M "[ryan]!... Yine ödümü kopardın!?"
 
 # game/UpdateScript0.06.rpy:8768
 translate turkish both_caught_06e4b3c3:
 
     # M "Why won't the school board just let us put locks on our office doors?"
-    ""
+    M "Okul yönetimi neden ofis kapılarımıza kilit takmamıza izin vermiyor ki?"
 
 # game/UpdateScript0.06.rpy:8769
 translate turkish both_caught_33bc201e:
 
     # R "Probably so that you'll give your students your attention during school hours, rather than attending to personal business."
-    ""
+    R "Muhtemelen böylece okul saatlerinde kişisel işlerinle ilgilenmek yerine öğrencilerine dikkatini verebilirsin."
 
 # game/UpdateScript0.06.rpy:8771
 translate turkish both_caught_23cddae3:
 
     # M "Don't be a prick."
-    ""
+    M "Hıyarlık etme."
 
 # game/UpdateScript0.06.rpy:8772
 translate turkish both_caught_b7d4027e:
 
     # M "And can't you just wait until I'm finished?"
-    ""
+    M "Ve ben bitirene kadar bekleyemez misin?"
 
 # game/UpdateScript0.06.rpy:8773
 translate turkish both_caught_7a5b0ced:
 
     # R "You know this is the only time I have to see you about school assignments."
-    ""
+    R "Biliyorsun, bu okul ödevleri için seni görmek zorunda olduğum tek zaman."
 
 # game/UpdateScript0.06.rpy:8774
 translate turkish both_caught_c1784521:
 
     # M "Alright, well come in, and we'll get to work."
-    ""
+    M "Pekala, içeri gel ve işe koyulalım."
 
 # game/UpdateScript0.06.rpy:8777
 translate turkish both_caught_ba1d8fe2:
 
     # M "Let's just pick up from where we left off."
-    ""
+    M "Kaldığımız yerden devam edelim."
 
 # game/UpdateScript0.06.rpy:8778
 translate turkish both_caught_f2ba6051:
 
     # M "Maybe there's more scenes in this game that will be good to mention in your paper."
-    ""
+    M "Belki bu oyunda ödevinde bahsetmek için iyi olacak başka sahneler de vardır."
 
 # game/UpdateScript0.06.rpy:8781
 translate turkish both_caught_a4c1dbf6:
 
     # M "Darn it."
-    ""
+    M "Kahretsin."
 
 # game/UpdateScript0.06.rpy:8782
 translate turkish both_caught_75bc7060:
 
     # M "I forgot to save the last time we played. We'll just have to click through the scenes quickly without reading it."
-    ""
+    M "Son oynadığımızda kaydetmeyi unutmuşum. Okumadan sahnelere hızlıca tıklamamız gerekecek."
 
 # game/UpdateScript0.06.rpy:8783
 translate turkish both_caught_a56e97d0:
 
     # M "Oh, and before I forget, you might as well take it out right now before you put anymore strain on the stitching of those pants, and I'll make myself comfortable too."
-    ""
+    M "Unutmadan, pantolonun dikişlerini daha fazla zorlamadan hemen şimdi çıkarabilirsin, ben de rahatıma bakarım."
 
 # game/UpdateScript0.06.rpy:8784
 translate turkish both_caught_a3ebed8e:
 
     # R "{i}Wow, she seems to be jumping right into it this time.{/i}"
-    ""
+    R "{i}Vay canına, bu sefer hemen atlıyor gibi görünüyor.{/i}"
 
 # game/UpdateScript0.06.rpy:8787
 translate turkish both_caught_c8625dc2:
 
     # MT "{i}Uuuggghhh... why does that little motherfucker... I mean just fucker... always have to catch me when I'm horny in my office.{/i}"
-    ""
+    MT "{i}Uuuggghhh... neden bu küçük orospu çocuğu... Yani sadece sikik... her zaman ofisimde azgınken beni yakalamak zorunda.{/i}"
 
 # game/UpdateScript0.06.rpy:8788
 translate turkish both_caught_2a9a9168:
 
     # MT "{i}I'm already out of control! I've already invited him to take his dick out and pulled my skirt up to my waist.{/i}"
-    ""
+    MT "{i}Şimdiden kontrolden çıktım! Ona sikini çıkarmasını söyledim ve eteğimi belime kadar çektim.{/i}"
 
 # game/UpdateScript0.06.rpy:8789
 translate turkish both_caught_cb42d482:
 
     # MT "{i}Ok, [mom_name]!... Use a little self-control... do not look over at his cock!{/i}"
-    ""
+    MT "{i}Tamam, [mom_name]!... Biraz kendini kontrol et... onun sikine bakma!{/i}"
 
 # game/UpdateScript0.06.rpy:8792
 translate turkish both_caught_6d7041fc:
@@ -21622,7 +21622,7 @@ translate turkish both_caught_6d7041fc:
 translate turkish both_caught_ddd1237c:
 
     # MT "{i}Why am I doing this?{/i}"
-    ""
+    MT "{i}Neden bunu yapıyorum?{/i}"
 
 # game/UpdateScript0.06.rpy:8797
 translate turkish both_caught_c938ba19:
@@ -21700,7 +21700,7 @@ translate turkish both_caught_ce73a1d5:
 translate turkish both_caught_a42dc315:
 
     # RT "{i}I think the time will be right very soon to push things a little further... I'll just enjoy this for now.{/i}"
-    ""
+    RT "{i}Sanırım çok yakında işleri biraz daha ileri götürmek için doğru zaman gelecek... Şimdilik bunun tadını çıkaracağım.{/i}"
 
 # game/UpdateScript0.06.rpy:8813
 translate turkish both_caught_89945ddc:
@@ -21712,7 +21712,7 @@ translate turkish both_caught_89945ddc:
 translate turkish both_caught_0f171260:
 
     # M "Haha... did you see that!?"
-    ""
+    M "Haha... bunu gördün mü!?"
 
 # game/UpdateScript0.06.rpy:8827
 translate turkish both_caught_53862ad2:
@@ -21736,7 +21736,7 @@ translate turkish both_caught_84ca398f:
 translate turkish both_caught_bbdc4e0a:
 
     # R "You're so cool!"
-    ""
+    R "Çok havalısın!"
 
 # game/UpdateScript0.06.rpy:8832
 translate turkish both_caught_eb62dd32:
@@ -21754,37 +21754,37 @@ translate turkish both_caught_3265e8ee:
 translate turkish both_caught_1d6c7bb5:
 
     # M "Now run along so I can finish taking care of myself before I go to class."
-    ""
+    M "Şimdi git de derse girmeden önce kendimi temizlemeyi bitireyim."
 
 # game/UpdateScript0.06.rpy:8838
 translate turkish both_caught_ccdbff1b:
 
     # R "Wait! Take care of yourself how?"
-    ""
+    R "Bekle! Kendini nasıl temizleyeceksin?"
 
 # game/UpdateScript0.06.rpy:8839
 translate turkish both_caught_4af3f6b5:
 
     # M "I think you know what I mean."
-    ""
+    M "Aptal numarası yapma, ne demek istediğimi anladın."
 
 # game/UpdateScript0.06.rpy:8840
 translate turkish both_caught_7cdca3b0:
 
     # R "Can I watch?"
-    ""
+    R "İzleyebilir miyim?"
 
 # game/UpdateScript0.06.rpy:8841
 translate turkish both_caught_43ae3973:
 
     # MT "{i}This kid needs to get the fuck out of my office!! I don't have much time before class!{/i}"
-    ""
+    MT "{i}Bu çocuk ofisimden defolup gitmeli! Dersten önce fazla zamanım yok!{/i}"
 
 # game/UpdateScript0.06.rpy:8842
 translate turkish both_caught_a8bf3182:
 
     # M "Now please hurry along... before I cut your cock off."
-    ""
+    M "Şimdi lütfen acele et... yoksa sikini keseceğim."
 
 # game/UpdateScript0.06.rpy:8843
 translate turkish both_caught_e2944acd:
@@ -21862,13 +21862,13 @@ translate turkish both_caught_351e6d4d:
 translate turkish both_caught_069576ca_1:
 
     # RT "{i}Hmmmm... her door's shut again. I'll bet she's at it again. I'll Just take a peek.{/i}"
-    ""
+    RT "{i}Hmmmm... kapısı yine kapalı. Bahse girerim yine o iştesin. Sadece bir göz atayım. { /i }"
 
 # game/UpdateScript0.06.rpy:8878
 translate turkish both_caught_2a679734_1:
 
     # RT "{i}Haha... yep!... She must really be missing Dad to be trying to squeeze a session in before class.{/i}"
-    ""
+    RT "{i}Haha... evet!... Dersten önce bir seans sıkıştırmaya çalıştığına göre babamı gerçekten özlüyor olmalı.{/i}"
 
 # game/UpdateScript0.06.rpy:8879
 translate turkish both_caught_d3311f2b_1:
@@ -21880,7 +21880,7 @@ translate turkish both_caught_d3311f2b_1:
 translate turkish both_caught_4b38c491_1:
 
     # RT "{i}Now looks like a good time.{/i}"
-    ""
+    RT "{i}Şimdi iyi bir zaman gibi görünüyor.{/i}"
 
 # game/UpdateScript0.06.rpy:8883
 translate turkish both_caught_12b5ff40_1:
@@ -21892,97 +21892,97 @@ translate turkish both_caught_12b5ff40_1:
 translate turkish both_caught_08666754_1:
 
     # M "[ryan]!... You scared the hell out of me again!?"
-    ""
+    M "[ryan]!... Yine ödümü kopardın!?"
 
 # game/UpdateScript0.06.rpy:8889
 translate turkish both_caught_06e4b3c3_1:
 
     # M "Why won't the school board just let us put locks on our office doors?"
-    ""
+    M "Okul yönetimi neden ofis kapılarımıza kilit takmamıza izin vermiyor ki?"
 
 # game/UpdateScript0.06.rpy:8890
 translate turkish both_caught_33bc201e_1:
 
     # R "Probably so that you'll give your students your attention during school hours, rather than attending to personal business."
-    ""
+    R "Muhtemelen böylece okul saatlerinde kişisel işlerinle ilgilenmek yerine öğrencilerine dikkatini verebilirsin."
 
 # game/UpdateScript0.06.rpy:8892
 translate turkish both_caught_23cddae3_1:
 
     # M "Don't be a prick."
-    ""
+    M "Hıyarlık etme."
 
 # game/UpdateScript0.06.rpy:8893
 translate turkish both_caught_b7d4027e_1:
 
     # M "And can't you just wait until I'm finished?"
-    ""
+    M "Ve ben bitirene kadar bekleyemez misin?"
 
 # game/UpdateScript0.06.rpy:8894
 translate turkish both_caught_7a5b0ced_1:
 
     # R "You know this is the only time I have to see you about school assignments."
-    ""
+    R "Biliyorsun, bu okul ödevleri için seni görmek zorunda olduğum tek zaman."
 
 # game/UpdateScript0.06.rpy:8895
 translate turkish both_caught_c1784521_1:
 
     # M "Alright, well come in, and we'll get to work."
-    ""
+    M "Pekala, içeri gel ve işe koyulalım."
 
 # game/UpdateScript0.06.rpy:8898
 translate turkish both_caught_ba1d8fe2_1:
 
     # M "Let's just pick up from where we left off."
-    ""
+    M "Kaldığımız yerden devam edelim."
 
 # game/UpdateScript0.06.rpy:8899
 translate turkish both_caught_f2ba6051_1:
 
     # M "Maybe there's more scenes in this game that will be good to mention in your paper."
-    ""
+    M "Belki bu oyunda ödevinde bahsetmek için iyi olacak başka sahneler de vardır."
 
 # game/UpdateScript0.06.rpy:8902
 translate turkish both_caught_a4c1dbf6_1:
 
     # M "Darn it."
-    ""
+    M "Kahretsin."
 
 # game/UpdateScript0.06.rpy:8903
 translate turkish both_caught_75bc7060_1:
 
     # M "I forgot to save the last time we played. We'll just have to click through the scenes quickly without reading it."
-    ""
+    M "Son oynadığımızda kaydetmeyi unutmuşum. Okumadan sahnelere hızlıca tıklamamız gerekecek."
 
 # game/UpdateScript0.06.rpy:8904
 translate turkish both_caught_a56e97d0_1:
 
     # M "Oh, and before I forget, you might as well take it out right now before you put anymore strain on the stitching of those pants, and I'll make myself comfortable too."
-    ""
+    M "Unutmadan, pantolonun dikişlerini daha fazla zorlamadan hemen şimdi çıkarabilirsin, ben de rahatıma bakarım."
 
 # game/UpdateScript0.06.rpy:8905
 translate turkish both_caught_a3ebed8e_1:
 
     # R "{i}Wow, she seems to be jumping right into it this time.{/i}"
-    ""
+    R "{i}Vay canına, bu sefer hemen atlıyor gibi görünüyor.{/i}"
 
 # game/UpdateScript0.06.rpy:8908
 translate turkish both_caught_c8625dc2_1:
 
     # MT "{i}Uuuggghhh... why does that little motherfucker... I mean just fucker... always have to catch me when I'm horny in my office.{/i}"
-    ""
+    MT "{i}Uuuggghhh... neden bu küçük orospu çocuğu... Yani sadece sikik... her zaman ofisimde azgınken beni yakalamak zorunda.{/i}"
 
 # game/UpdateScript0.06.rpy:8909
 translate turkish both_caught_2a9a9168_1:
 
     # MT "{i}I'm already out of control! I've already invited him to take his dick out and pulled my skirt up to my waist.{/i}"
-    ""
+    MT "{i}Şimdiden kontrolden çıktım! Ona sikini çıkarmasını söyledim ve eteğimi belime kadar çektim.{/i}"
 
 # game/UpdateScript0.06.rpy:8910
 translate turkish both_caught_cb42d482_1:
 
     # MT "{i}Ok, [mom_name]!... Use a little self-control... do not look over at his cock!{/i}"
-    ""
+    MT "{i}Tamam, [mom_name]!... Biraz kendini kontrol et... onun sikine bakma!{/i}"
 
 # game/UpdateScript0.06.rpy:8913
 translate turkish both_caught_6d7041fc_1:
@@ -21994,7 +21994,7 @@ translate turkish both_caught_6d7041fc_1:
 translate turkish both_caught_ddd1237c_1:
 
     # MT "{i}Why am I doing this?{/i}"
-    ""
+    MT "{i}Neden bunu yapıyorum?{/i}"
 
 # game/UpdateScript0.06.rpy:8918
 translate turkish both_caught_c938ba19_1:
@@ -26578,7 +26578,7 @@ translate turkish find_sidney_0b26a1ac:
 translate turkish find_sidney_aff0e59d:
 
     # "{b}{i}\"View this card in the gallery and casino\"{/i}{/b}"
-    ""
+    "{b}{i}\"Galeride ve kasinoda bu kartı görüntüleyin\"{/i}{/b}"
 
 # game/UpdateScript0.06.rpy:10364
 translate turkish find_sidney_145f0ca5:
@@ -27028,7 +27028,7 @@ translate turkish club_sex_31e40256:
 translate turkish club_sex_445042f6:
 
     # "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-    ""
+    "{i}{b}\"Sidney'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:10553
 translate turkish club_sex_b6514ddd:
@@ -27220,7 +27220,7 @@ translate turkish club_sex_7984de58:
 translate turkish club_sex_445042f6_1:
 
     # "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-    ""
+    "{i}{b}\"Sidney'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:10683
 translate turkish club_sex_97756f08:
@@ -29296,7 +29296,7 @@ translate turkish ph_shoot_5e36ea3b:
 translate turkish ph_shoot_7fea5cd9:
 
     # MG "How's this?"
-    ""
+    MG "Bu nasıl?"
 
 # game/UpdateScript0.06.rpy:11432
 translate turkish ph_shoot_12c43774:
@@ -30256,7 +30256,7 @@ translate turkish ph_shoot_e76f523f:
 translate turkish ph_shoot_7fea5cd9_1:
 
     # MG "How's this?"
-    ""
+    MG "Bu nasıl?"
 
 # game/UpdateScript0.06.rpy:11802
 translate turkish ph_shoot_8d38f99a:
@@ -49192,7 +49192,7 @@ translate turkish wr_sex_event_14f97bd1:
 translate turkish wr_sex_event_971a98df:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.06.rpy:17378
 translate turkish wr_sex_event_521e8ae4:
@@ -49204,7 +49204,7 @@ translate turkish wr_sex_event_521e8ae4:
 translate turkish wr_sex_event_971a98df_1:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.06.rpy:17382
 translate turkish wr_sex_event_9b624be6:
@@ -49546,7 +49546,7 @@ translate turkish wr_sex_event_97f8395c:
 translate turkish wr_sex_event_445042f6:
 
     # "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-    ""
+    "{i}{b}\"Sidney'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:17553
 translate turkish wr_sex_event_da56687e:
@@ -49780,7 +49780,7 @@ translate turkish wr_sex_event_31e40256:
 translate turkish wr_sex_event_445042f6_1:
 
     # "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-    ""
+    "{i}{b}\"Sidney'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:17631
 translate turkish wr_sex_event_7dce3990_1:
@@ -49804,7 +49804,7 @@ translate turkish wr_sex_event_0fef8b61:
 translate turkish wr_sex_event_244f8653:
 
     # S "Oh my God, [ryan]!"
-    ""
+    S "Aman Tanrım, [ryan]!"
 
 # game/UpdateScript0.06.rpy:17646
 translate turkish wr_sex_event_d2bcd4ed:
@@ -49816,7 +49816,7 @@ translate turkish wr_sex_event_d2bcd4ed:
 translate turkish wr_sex_event_445042f6_2:
 
     # "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-    ""
+    "{i}{b}\"Sidney'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:17653
 translate turkish wr_sex_event_2229bab9_1:
@@ -50116,7 +50116,7 @@ translate turkish park_sex_31e40256:
 translate turkish park_sex_445042f6:
 
     # "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-    ""
+    "{i}{b}\"Sidney'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:17754
 translate turkish park_sex_7dce3990_1:
@@ -50140,7 +50140,7 @@ translate turkish park_sex_0fef8b61:
 translate turkish park_sex_244f8653:
 
     # S "Oh my God, [ryan]!"
-    ""
+    S "Aman Tanrım, [ryan]!"
 
 # game/UpdateScript0.06.rpy:17769
 translate turkish park_sex_d2bcd4ed:
@@ -50152,7 +50152,7 @@ translate turkish park_sex_d2bcd4ed:
 translate turkish park_sex_445042f6_1:
 
     # "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-    ""
+    "{i}{b}\"Sidney'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:17777
 translate turkish park_sex_1b5e7340:

@@ -394,7 +394,7 @@ translate turkish event_info_33_b0d7745d:
 translate turkish event_info_33_46f5fc45:
 
     # RT "{i}I need to keep \"Talking to Mom about the Oedipus assignment\" in her office, that is unless I have the chance to see where Matt and Megan sneak off to.{/i}"
-    ""
+    RT "{i}\"Annemle Oedipus ödevi hakkında konuşmayı\" ofisinde tutmam gerekiyor, tabii Matt ve Megan'ın nereye kaçtığını görme şansım olmazsa.{/i}"
 
 # game/Phone_event_screen.rpy:1309
 translate turkish event_info_34_b0d7745d:

@@ -4,7 +4,7 @@
 translate italian booble_search_f6ce98ce:
 
     # RT "{i}I should do a search on booble.com to find a way to buy the stuff I need so that the FBI won't ask me from where I got the money.{/i}"
-    RT "{i}Dovrei fare una ricerca su Booble.com per trovare un modo di comprare la roba che mi serve così l'FBI non mi chiederà da dove ho preso i soldi.{/i}"
+    RT "{i}I should do a search on booble.com to find a way to buy the stuff I need so that the FBI won't ask me from where I got the money.{/i}"
 
 # game/Booble_screen.rpy:67
 translate italian booble_search_ce876757:

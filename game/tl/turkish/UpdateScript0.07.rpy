@@ -3328,7 +3328,7 @@ translate turkish lounge_sex_fd9c5a4b:
 translate turkish lounge_sex_058ef1c2:
 
     # "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    ""
+    "{b}{i}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:2126
 translate turkish lounge_sex_0b8cdb83:
@@ -3436,7 +3436,7 @@ translate turkish lounge_sex_c30a687f:
 translate turkish lounge_sex_9e561449:
 
     # L "Haha..."
-    ""
+    L "Haha..."
 
 # game/UpdateScript0.07.rpy:2153
 translate turkish lounge_sex_e0d0170d:
@@ -3802,7 +3802,7 @@ translate turkish lounge_sex_fd9c5a4b_1:
 translate turkish lounge_sex_058ef1c2_1:
 
     # "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    ""
+    "{b}{i}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:2304
 translate turkish lounge_sex_0b8cdb83_1:
@@ -4180,7 +4180,7 @@ translate turkish lauren_bath_fuck_a97b39f8:
 translate turkish lauren_bath_fuck_a5e1402c:
 
     # L "Hahaha... You idiot."
-    ""
+    L "Ahaha, seni aptal."
 
 # game/UpdateScript0.07.rpy:2510
 translate turkish lauren_bath_fuck_50ff1dda:
@@ -4786,7 +4786,7 @@ translate turkish lauren_bath_fuck_fd9c5a4b:
 translate turkish lauren_bath_fuck_058ef1c2:
 
     # "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    ""
+    "{b}{i}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:2762
 translate turkish lauren_bath_fuck_d1b94c5f:
@@ -4852,7 +4852,7 @@ translate turkish lauren_bath_fuck_cb2f2fad:
 translate turkish lauren_bath_fuck_058ef1c2_1:
 
     # "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    ""
+    "{b}{i}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:2803
 translate turkish lauren_bath_fuck_cdbadf80:
@@ -5500,7 +5500,7 @@ translate turkish lauren_bath_fuck_fd9c5a4b_1:
 translate turkish lauren_bath_fuck_058ef1c2_2:
 
     # "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    ""
+    "{b}{i}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:3062
 translate turkish lauren_bath_fuck_d1b94c5f_1:
@@ -5566,7 +5566,7 @@ translate turkish lauren_bath_fuck_cb2f2fad_1:
 translate turkish lauren_bath_fuck_058ef1c2_3:
 
     # "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    ""
+    "{b}{i}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:3103
 translate turkish lauren_bath_fuck_cdbadf80_1:
@@ -6466,7 +6466,7 @@ translate turkish lauren_bath_fuck_fd9c5a4b_2:
 translate turkish lauren_bath_fuck_058ef1c2_4:
 
     # "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    ""
+    "{b}{i}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:3441
 translate turkish lauren_bath_fuck_d1b94c5f_2:
@@ -6532,7 +6532,7 @@ translate turkish lauren_bath_fuck_cb2f2fad_2:
 translate turkish lauren_bath_fuck_058ef1c2_5:
 
     # "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    ""
+    "{b}{i}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:3482
 translate turkish lauren_bath_fuck_91004442:
@@ -7258,7 +7258,7 @@ translate turkish lauren_bath_fuck_fd9c5a4b_3:
 translate turkish lauren_bath_fuck_058ef1c2_6:
 
     # "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    ""
+    "{b}{i}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:3779
 translate turkish lauren_bath_fuck_d1b94c5f_3:
@@ -7324,7 +7324,7 @@ translate turkish lauren_bath_fuck_cb2f2fad_3:
 translate turkish lauren_bath_fuck_058ef1c2_7:
 
     # "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    ""
+    "{b}{i}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:3820
 translate turkish lauren_bath_fuck_91004442_1:
@@ -7720,7 +7720,7 @@ translate turkish breakfast_for_will_9a25c148:
 translate turkish breakfast_for_will_735f0028:
 
     # M "Ok... I guess I can do that."
-    ""
+    M "Tamam... Sanırım bunu yapabilirim."
 
 # game/UpdateScript0.07.rpy:3982
 translate turkish breakfast_for_will_f830f74c:
@@ -7804,7 +7804,7 @@ translate turkish breakfast_for_will_2f1cf092:
 translate turkish breakfast_for_will_9993b94e:
 
     # L "..."
-    ""
+    L "..."
 
 # game/UpdateScript0.07.rpy:4049
 translate turkish breakfast_for_will_84b6ba1d:
@@ -7876,7 +7876,7 @@ translate turkish breakfast_for_will_e8609974:
 translate turkish breakfast_for_will_971a98df:
 
     # S "..."
-    ""
+    S "..."
 
 # game/UpdateScript0.07.rpy:4081
 translate turkish breakfast_for_will_f88ffa27:
@@ -10822,7 +10822,7 @@ translate turkish finished_painting_cdb34e86:
 translate turkish finished_painting_ebf47662:
 
     # MS "...."
-    ""
+    MS "...."
 
 # game/UpdateScript0.07.rpy:5107
 translate turkish finished_painting_7abd877e:
@@ -11398,7 +11398,7 @@ translate turkish finished_painting_cdb34e86_1:
 translate turkish finished_painting_ebf47662_1:
 
     # MS "...."
-    ""
+    MS "...."
 
 # game/UpdateScript0.07.rpy:5294
 translate turkish finished_painting_7abd877e_1:
@@ -11542,7 +11542,7 @@ translate turkish finished_painting_af15112c:
 translate turkish finished_painting_6bf1c5f2:
 
     # "{b}{i}\"View this card in the gallery and the casino\"{/i}{/b}"
-    ""
+    "{b}{i}\"Galeride ve kasinoda bu kartı görüntüleyin\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:5368
 translate turkish finished_painting_6c6ad862_1:
@@ -12934,7 +12934,7 @@ translate turkish finished_painting_2cee226b:
 translate turkish finished_painting_ebf47662_2:
 
     # MS "...."
-    ""
+    MS "...."
 
 # game/UpdateScript0.07.rpy:5776
 translate turkish finished_painting_86ffb6eb_1:
@@ -14482,7 +14482,7 @@ translate turkish actual_election_9180a755:
 translate turkish actual_election_26729b0b:
 
     # R "Lauren!... Open your eyes!"
-    ""
+    R "Lauren!... Gözlerini aç!"
 
 # game/UpdateScript0.07.rpy:6425
 translate turkish actual_election_7c310648:
@@ -16240,7 +16240,7 @@ translate turkish exclusive_sex_2cac000d:
 translate turkish exclusive_sex_fff0af16:
 
     # L "That feels so good!"
-    ""
+    L "Bu çok iyi hissettiriyor!"
 
 # game/UpdateScript0.07.rpy:7158
 translate turkish exclusive_sex_fade9c2d:
@@ -16330,7 +16330,7 @@ translate turkish exclusive_sex_d430f18e:
 translate turkish exclusive_sex_fff0af16_1:
 
     # L "That feels so good!"
-    ""
+    L "Bu çok iyi hissettiriyor!"
 
 # game/UpdateScript0.07.rpy:7202
 translate turkish exclusive_sex_94dee179:
@@ -16786,7 +16786,7 @@ translate turkish exclusive_sex_fd9c5a4b:
 translate turkish exclusive_sex_058ef1c2:
 
     # "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    ""
+    "{b}{i}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:7351
 translate turkish exclusive_sex_6e36278c:
@@ -17080,7 +17080,7 @@ translate turkish exclusive_sex_939e5a25:
 translate turkish exclusive_sex_aff0e59d:
 
     # "{b}{i}\"View this card in the gallery and casino\"{/i}{/b}"
-    ""
+    "{b}{i}\"Galeride ve kasinoda bu kartı görüntüleyin\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:7444
 translate turkish exclusive_sex_143ee739:
@@ -17146,7 +17146,7 @@ translate turkish exclusive_sex_5d436c31:
 translate turkish exclusive_sex_058ef1c2_1:
 
     # "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    ""
+    "{b}{i}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:7499
 translate turkish exclusive_sex_dcc7b8c8:
@@ -17278,7 +17278,7 @@ translate turkish exclusive_sex_939e5a25_1:
 translate turkish exclusive_sex_aff0e59d_1:
 
     # "{b}{i}\"View this card in the gallery and casino\"{/i}{/b}"
-    ""
+    "{b}{i}\"Galeride ve kasinoda bu kartı görüntüleyin\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:7552
 translate turkish exclusive_sex_143ee739_1:
@@ -17986,7 +17986,7 @@ translate turkish shared_sex_1f239a1c:
 translate turkish shared_sex_9993b94e:
 
     # L "..."
-    ""
+    L "..."
 
 # game/UpdateScript0.07.rpy:7826
 translate turkish shared_sex_dec0faf3:
@@ -18610,7 +18610,7 @@ translate turkish shared_sex_eecc8755:
 translate turkish shared_sex_fff0af16:
 
     # L "That feels so good!"
-    ""
+    L "Bu çok iyi hissettiriyor!"
 
 # game/UpdateScript0.07.rpy:8001
 translate turkish shared_sex_4dc43f04:
@@ -19000,7 +19000,7 @@ translate turkish shared_sex_fd9c5a4b:
 translate turkish shared_sex_058ef1c2:
 
     # "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    ""
+    "{b}{i}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:8143
 translate turkish shared_sex_6e36278c:
@@ -19228,7 +19228,7 @@ translate turkish shared_sex_939e5a25:
 translate turkish shared_sex_aff0e59d:
 
     # "{b}{i}\"View this card in the gallery and casino\"{/i}{/b}"
-    ""
+    "{b}{i}\"Galeride ve kasinoda bu kartı görüntüleyin\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8223
 translate turkish shared_sex_143ee739:
@@ -19300,7 +19300,7 @@ translate turkish shared_sex_dcc7b8c8:
 translate turkish shared_sex_058ef1c2_1:
 
     # "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    ""
+    "{b}{i}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:8279
 translate turkish shared_sex_3ba57db3:
@@ -19408,7 +19408,7 @@ translate turkish shared_sex_939e5a25_1:
 translate turkish shared_sex_aff0e59d_1:
 
     # "{b}{i}\"View this card in the gallery and casino\"{/i}{/b}"
-    ""
+    "{b}{i}\"Galeride ve kasinoda bu kartı görüntüleyin\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:8326
 translate turkish shared_sex_143ee739_1:
@@ -19516,7 +19516,7 @@ translate turkish lauren_cum_fd9c5a4b:
 translate turkish lauren_cum_058ef1c2:
 
     # "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    ""
+    "{b}{i}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:8475
 translate turkish lauren_cum_6e36278c:
@@ -19750,7 +19750,7 @@ translate turkish lauren_cum_5d436c31:
 translate turkish lauren_cum_058ef1c2_1:
 
     # "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    ""
+    "{b}{i}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:8549
 translate turkish lauren_cum_dcc7b8c8:
@@ -19900,7 +19900,7 @@ translate turkish lauren_cum_fd9c5a4b_1:
 translate turkish lauren_cum_058ef1c2_2:
 
     # "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    ""
+    "{b}{i}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:8606
 translate turkish lauren_cum_6e36278c_1:
@@ -20092,7 +20092,7 @@ translate turkish lauren_cum_5d436c31_1:
 translate turkish lauren_cum_058ef1c2_3:
 
     # "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    ""
+    "{b}{i}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:8673
 translate turkish lauren_cum_dcc7b8c8_1:
@@ -21076,7 +21076,7 @@ translate turkish hall_ambush_ed9a3370:
 translate turkish hall_ambush_29387bb4:
 
     # "{b}{i}\"Lauren's Anger +5\"{/i}{/b}"
-    ""
+    "{b}{i}\"Lauren'in kızgınlığı +5\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:9031
 translate turkish hall_ambush_1a548d37:
@@ -22312,37 +22312,37 @@ translate turkish mom_angry_about_posters_e03ea699:
 translate turkish new_jacky_caught_office_4c90c24b:
 
     # R "Oh, hey Megan, hey Matt. Where's Miss [mom_name]? I thought I just saw her up here."
-    ""
+    R "Selam Megan, selam Matt. Bayan [mom_name] nerede? Onu burada gördüğümü sanmıştım."
 
 # game/UpdateScript0.07.rpy:9393
 translate turkish new_jacky_caught_office_ec48f479:
 
     # MG "She took off, she seemed to be kind of in a hurry. Probably needed to get something done before her next class starts."
-    ""
+    MG "Gitti, acelesi varmış gibi görünüyordu. Muhtemelen bir sonraki dersi başlamadan önce bir şeyler yapması gerekiyordu."
 
 # game/UpdateScript0.07.rpy:9394
 translate turkish new_jacky_caught_office_8b78ea83:
 
     # MG "Is everything ok?"
-    ""
+    MG "Her şey yolunda mı?"
 
 # game/UpdateScript0.07.rpy:9395
 translate turkish new_jacky_caught_office_3a55d753:
 
     # R "Yeah.... of course.... I just need to talk to her some more about this stupid Oedipus assignment."
-    ""
+    R "Evet.... tabii ki.... Şu aptal Oedipus ödevi hakkında onunla biraz daha konuşmam gerek."
 
 # game/UpdateScript0.07.rpy:9396
 translate turkish new_jacky_caught_office_acb772d1:
 
     # MB "Haha.... yeah, that's some kinky shit to be teaching us in school."
-    ""
+    MB "Haha.... evet, bu bize okulda öğretilen sapıkça bir şey."
 
 # game/UpdateScript0.07.rpy:9397
 translate turkish new_jacky_caught_office_f570eda3:
 
     # MB "Are you sure you're not just exploring the Oedipal Complex side of this assignment with your mom in her office? Hahahahah..."
-    ""
+    MB "Bu ödevin Ödipal Kompleks tarafını annenin ofisinde keşfetmediğine emin misin? Hahahah..."
 
 # game/UpdateScript0.07.rpy:9398
 translate turkish new_jacky_caught_office_8eb0e85f:
@@ -22366,13 +22366,13 @@ translate turkish new_jacky_caught_office_4881927b:
 translate turkish new_jacky_caught_office_9f8333c6:
 
     # MG "I just got a mental image.... wow!.... That really turns me on for some reason."
-    ""
+    MG "Aklıma bir görüntü geldi.... vay canına!.... Nedense bu beni gerçekten tahrik ediyor."
 
 # game/UpdateScript0.07.rpy:9402
 translate turkish new_jacky_caught_office_4580e4dd:
 
     # R "What?.... No.... don't get a mental image!.... There's nothing to get an image about.... there's nothing going on with me and Miss [mom_name]!"
-    ""
+    R "Ne? .... Hayır.... aklına bir şey gelmesin!.... Hayal kuracak bir şey yok.... ben ve Bayan [mom_name] arasında hiçbir şey yok.!"
 
 # game/UpdateScript0.07.rpy:9403
 translate turkish new_jacky_caught_office_2c78093e:
@@ -24130,7 +24130,7 @@ translate turkish election_announcement_25341c6b:
 translate turkish election_announcement_6e0b93ff:
 
     # M "Shhhh..."
-    ""
+    M "Ne?..."
 
 # game/UpdateScript0.07.rpy:10177
 translate turkish election_announcement_95b09ca1:
@@ -26686,7 +26686,7 @@ translate turkish talk_to_megan_9cf3c6cb:
 translate turkish talk_to_megan_6bf1c5f2:
 
     # "{b}{i}\"View this card in the gallery and the casino\"{/i}{/b}"
-    ""
+    "{b}{i}\"Galeride ve kasinoda bu kartı görüntüleyin\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:11173
 translate turkish talk_to_megan_ae1267da:
@@ -30550,7 +30550,7 @@ translate turkish campaign_headquarters_afternoon_6defa008:
 translate turkish campaign_headquarters_afternoon_e635f1ea:
 
     # L "They look great!"
-    ""
+    L "Harika görünüyorlar!"
 
 # game/UpdateScript0.07.rpy:12681
 translate turkish campaign_headquarters_afternoon_791d68e0:
@@ -30862,7 +30862,7 @@ translate turkish campaign_headquarters_afternoon_1b70b35b:
 translate turkish campaign_headquarters_afternoon_a314db81:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.07.rpy:12803
 translate turkish campaign_headquarters_afternoon_7e218e55:
@@ -32026,7 +32026,7 @@ translate turkish best_polls_aftermath_ea121b65:
 translate turkish best_polls_aftermath_058ef1c2:
 
     # "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    ""
+    "{b}{i}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:13238
 translate turkish best_polls_aftermath_0e19b85f:
@@ -32728,7 +32728,7 @@ translate turkish best_polls_aftermath_7abf22c8:
 translate turkish best_polls_aftermath_a314db81:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.07.rpy:13475
 translate turkish best_polls_aftermath_35c603e3:
@@ -33088,7 +33088,7 @@ translate turkish best_polls_aftermath_ea121b65_1:
 translate turkish best_polls_aftermath_058ef1c2_1:
 
     # "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    ""
+    "{b}{i}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:13570
 translate turkish best_polls_aftermath_0e19b85f_1:
@@ -34852,7 +34852,7 @@ translate turkish best_polls_aftermath_82b7a6bd:
 translate turkish best_polls_aftermath_a314db81_1:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.07.rpy:14245
 translate turkish best_polls_aftermath_0e016c50_1:
@@ -35386,7 +35386,7 @@ translate turkish best_polls_aftermath_b4451c14:
 translate turkish best_polls_aftermath_a314db81_2:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.07.rpy:14457
 translate turkish best_polls_aftermath_e9f5808f:
@@ -35920,7 +35920,7 @@ translate turkish bad_polls_aftermath_45ef0aa7:
 translate turkish bad_polls_aftermath_e4849e56:
 
     # "{b}{i}\"Lauren's Anger -2\"{/i}{/b}"
-    ""
+    "{b}{i}\"Lauren'in kızgınlığı -2\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:14624
 translate turkish bad_polls_aftermath_bdd4a99a:
@@ -36550,7 +36550,7 @@ translate turkish bad_polls_aftermath_1e899005:
 translate turkish bad_polls_aftermath_a314db81:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.07.rpy:14765
 translate turkish bad_polls_aftermath_8d58cb47:
@@ -36574,7 +36574,7 @@ translate turkish bad_polls_aftermath_ce8e3b0d:
 translate turkish bad_polls_aftermath_a314db81_1:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.07.rpy:14769
 translate turkish bad_polls_aftermath_6703f3d8:
@@ -40426,7 +40426,7 @@ translate turkish htbyd_fuck_a603e8bd:
 translate turkish htbyd_fuck_a314db81:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.07.rpy:16080
 translate turkish htbyd_fuck_222f51ba:
@@ -41182,7 +41182,7 @@ translate turkish htbyd_fuck_a603e8bd_1:
 translate turkish htbyd_fuck_a314db81_1:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.07.rpy:16306
 translate turkish htbyd_fuck_222f51ba_1:
@@ -41614,7 +41614,7 @@ translate turkish htbyd_fuck_12918519:
 translate turkish htbyd_fuck_a314db81_2:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.07.rpy:16465
 translate turkish htbyd_fuck_68be4f9c:
@@ -41872,7 +41872,7 @@ translate turkish htbyd_fuck_12918519_1:
 translate turkish htbyd_fuck_a314db81_3:
 
     # L "...."
-    ""
+    L "...."
 
 # game/UpdateScript0.07.rpy:16557
 translate turkish htbyd_fuck_68be4f9c_1:
@@ -41974,7 +41974,7 @@ translate turkish dragon_cum_fd9c5a4b:
 translate turkish dragon_cum_058ef1c2:
 
     # "{b}{i}\"Lauren's Libido -5\"{/i}{/b}"
-    ""
+    "{b}{i}\"Lauren'in azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.07.rpy:16656
 translate turkish dragon_cum_2ca0bc1e:
@@ -44968,7 +44968,7 @@ translate turkish diaz_help_e3140a63:
 translate turkish diaz_help_d6542b8d:
 
     # AD "Uh huh... Sure."
-    ""
+    AD "Uh huh... Tabi."
 
 # game/UpdateScript0.07.rpy:17798
 translate turkish diaz_help_0a659602:
@@ -45094,7 +45094,7 @@ translate turkish diaz_help_e3140a63_1:
 translate turkish diaz_help_d6542b8d_1:
 
     # AD "Uh huh... Sure."
-    ""
+    AD "Uh huh... Tabi."
 
 # game/UpdateScript0.07.rpy:17840
 translate turkish diaz_help_0a659602_1:
@@ -45178,7 +45178,7 @@ translate turkish diaz_help_e3140a63_2:
 translate turkish diaz_help_d6542b8d_2:
 
     # AD "Uh huh... Sure."
-    ""
+    AD "Uh huh... Tabi."
 
 # game/UpdateScript0.07.rpy:17872
 translate turkish diaz_help_0a659602_2:
@@ -46072,7 +46072,7 @@ translate turkish diaz_help_dc7a84b6:
 translate turkish diaz_help_7ef6c0cc:
 
     # AD "Oh my God, [ryan]!"
-    ""
+    AD "Aman Tanrım, [ryan]!"
 
 # game/UpdateScript0.07.rpy:18155
 translate turkish diaz_help_4acb64be:
@@ -46990,7 +46990,7 @@ translate turkish diaz_cum_093ec4ea:
 translate turkish diaz_cum_6bf1c5f2:
 
     # "{b}{i}\"View this card in the gallery and the casino\"{/i}{/b}"
-    ""
+    "{b}{i}\"Galeride ve kasinoda bu kartı görüntüleyin\"{/i}{/b}"
 
 # game/UpdateScript0.07.rpy:18520
 translate turkish diaz_cum_31ebd9b7:
