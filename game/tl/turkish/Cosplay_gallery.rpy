@@ -88,7 +88,7 @@ translate turkish outfits_sell_label_b7c5d749:
 translate turkish outfit_info_488a37ce:
 
     # RT "{i} The first cosplay outfit that [outfit_nfo_name] wore on our first photoshoot.{/i}"
-    RT "{i} [outfit_nfo_name] 'un ilk fotoğraf çekimimizde giydiği ilk cosplay kıyafeti.{/i}"
+    RT "{i} [outfit_nfo_name] ile ilk fotoğraf çekimimizde giydiği ilk cosplay kıyafeti.{/i}"
 
 # game/Cosplay_gallery.rpy:1889
 translate turkish outfit_info_d4afad73:
@@ -120,7 +120,7 @@ translate turkish strings:
 
     # game/Cosplay_gallery.rpy:582
     old "{color=#ffffff}{b}Press to change \n likes to money{/b}{/color}"
-    new "{color=#ffffff}{b} \n beğenilerini paraya çevirmek için basın{/b}{/color}"
+    new "{color=#ffffff}{b} \n beğenileri paraya çevirmek için basın{/b}{/color}"
 
     # game/Cosplay_gallery.rpy:709
     old "{color=#000000}{b}Sell{/b}{/color}"

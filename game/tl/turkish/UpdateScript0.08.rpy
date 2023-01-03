@@ -484,7 +484,7 @@ translate turkish mom_investigates_d3691ac3:
 translate turkish mom_investigates_a5001052:
 
     # R "Is everything ok?"
-    ""
+    R "Her şey yolunda mı?"
 
 # game/UpdateScript0.08.rpy:1173
 translate turkish mom_investigates_f250a5fe:
@@ -5416,7 +5416,7 @@ translate turkish aunt_accepted_0fdab52b:
 translate turkish aunt_accepted_371f4f8d:
 
     # RT "{i}Nice!{/i}"
-    ""
+    RT "{i}Güzel!{/i}"
 
 # game/UpdateScript0.08.rpy:2813
 translate turkish aunt_accepted_3db69ca4:
@@ -5806,7 +5806,7 @@ translate turkish aunt_accepted_13843d25:
 translate turkish aunt_accepted_371f4f8d_1:
 
     # RT "{i}Nice!{/i}"
-    ""
+    RT "{i}Güzel!{/i}"
 
 # game/UpdateScript0.08.rpy:2976
 translate turkish aunt_accepted_3db69ca4_1:
@@ -6226,7 +6226,7 @@ translate turkish six_of_hearts_7e057b50:
 translate turkish six_of_hearts_6bf1c5f2:
 
     # "{b}{i}\"View this card in the gallery and the casino\"{/i}{/b}"
-    ""
+    "{b}{i}\"Galeride ve kasinoda bu kartı görüntüleyin\"{/i}{/b}"
 
 # game/UpdateScript0.08.rpy:3168
 translate turkish shower_in_front_of_cami_1223013d:
@@ -7288,7 +7288,7 @@ translate turkish pussy_block_bath_b1542f23:
 translate turkish pussy_block_bath_7b0e9b0f:
 
     # "{b}{i}\"Mom's Anger +1\"{/i}{/b}"
-    ""
+    "{b}{i}\"Annemin kızgınlığı +1\"{/b}{/i}"
 
 # game/UpdateScript0.08.rpy:3515
 translate turkish pussy_block_bath_11c7134b:
@@ -7360,7 +7360,7 @@ translate turkish pussy_block_bath_1dcb761e:
 translate turkish pussy_block_bath_9f22c982:
 
     # R "Uhhh... Mom?"
-    ""
+    R "Ehem... Anne?"
 
 # game/UpdateScript0.08.rpy:3541
 translate turkish pussy_block_bath_62720feb:
@@ -7774,7 +7774,7 @@ translate turkish pussy_block_bath_b1542f23_1:
 translate turkish pussy_block_bath_7b0e9b0f_1:
 
     # "{b}{i}\"Mom's Anger +1\"{/i}{/b}"
-    ""
+    "{b}{i}\"Annemin kızgınlığı +1\"{/b}{/i}"
 
 # game/UpdateScript0.08.rpy:3676
 translate turkish pussy_block_bath_11c7134b_1:
@@ -7846,7 +7846,7 @@ translate turkish pussy_block_bath_1dcb761e_1:
 translate turkish pussy_block_bath_9f22c982_1:
 
     # R "Uhhh... Mom?"
-    ""
+    R "Ehem... Anne?"
 
 # game/UpdateScript0.08.rpy:3702
 translate turkish pussy_block_bath_62720feb_1:
@@ -8482,7 +8482,7 @@ translate turkish bathroom_relief_f2ffaa62:
 translate turkish bathroom_relief_de12549a:
 
     # MT "{i}God... What's wrong with me?{/i}"
-    ""
+    MT "{i}Tanrım... neyim var benim?{/i}"
 
 # game/UpdateScript0.08.rpy:3937
 translate turkish bathroom_relief_0d2dd23f:
@@ -8620,7 +8620,7 @@ translate turkish bathroom_relief_25320f76:
 translate turkish bathroom_relief_fd4a7009:
 
     # "{b}{i}\"Mom's Submission +1\"{/i}{/b}"
-    ""
+    "{b}{i}\"Annemin saygısı +1\"{/i}{/b}"
 
 # game/UpdateScript0.08.rpy:3980
 translate turkish bathroom_relief_38e6af1f:
@@ -10036,7 +10036,7 @@ translate turkish bathroom_relief_25320f76_1:
 translate turkish bathroom_relief_fd4a7009_1:
 
     # "{b}{i}\"Mom's Submission +1\"{/i}{/b}"
-    ""
+    "{b}{i}\"Annemin saygısı +1\"{/i}{/b}"
 
 # game/UpdateScript0.08.rpy:4361
 translate turkish bathroom_relief_38e6af1f_1:
@@ -11872,7 +11872,7 @@ translate turkish prison_fashion_show_06d90022:
 translate turkish prison_fashion_show_7b0e9b0f:
 
     # "{b}{i}\"Mom's Anger +1\"{/i}{/b}"
-    ""
+    "{b}{i}\"Annemin kızgınlığı +1\"{/b}{/i}"
 
 # game/UpdateScript0.08.rpy:4906
 translate turkish prison_fashion_show_435a36a0:
@@ -12304,7 +12304,7 @@ translate turkish pussy_block_bedroom_32145282:
 translate turkish pussy_block_bedroom_7b0e9b0f:
 
     # "{b}{i}\"Mom's Anger +1\"{/i}{/b}"
-    ""
+    "{b}{i}\"Annemin kızgınlığı +1\"{/b}{/i}"
 
 # game/UpdateScript0.08.rpy:5067
 translate turkish pussy_block_bedroom_081a8e96:
@@ -12814,7 +12814,7 @@ translate turkish pussy_block_bedroom_32145282_1:
 translate turkish pussy_block_bedroom_7b0e9b0f_1:
 
     # "{b}{i}\"Mom's Anger +1\"{/i}{/b}"
-    ""
+    "{b}{i}\"Annemin kızgınlığı +1\"{/b}{/i}"
 
 # game/UpdateScript0.08.rpy:5256
 translate turkish pussy_block_bedroom_081a8e96_1:
@@ -16138,7 +16138,7 @@ translate turkish butt_grab_room_a501831c:
 translate turkish butt_grab_room_7b0e9b0f:
 
     # "{b}{i}\"Mom's Anger +1\"{/i}{/b}"
-    ""
+    "{b}{i}\"Annemin kızgınlığı +1\"{/b}{/i}"
 
 # game/UpdateScript0.08.rpy:6370
 translate turkish butt_grab_room_966f0e60:
@@ -17818,7 +17818,7 @@ translate turkish pussy_block_office_389eaa22:
 translate turkish pussy_block_office_7b0e9b0f:
 
     # "{b}{i}\"Mom's Anger +1\"{/i}{/b}"
-    ""
+    "{b}{i}\"Annemin kızgınlığı +1\"{/b}{/i}"
 
 # game/UpdateScript0.08.rpy:6936
 translate turkish pussy_block_office_899d8fbf:
@@ -17878,7 +17878,7 @@ translate turkish pussy_block_office_f07f087f:
 translate turkish pussy_block_office_7b0e9b0f_1:
 
     # "{b}{i}\"Mom's Anger +1\"{/i}{/b}"
-    ""
+    "{b}{i}\"Annemin kızgınlığı +1\"{/b}{/i}"
 
 # game/UpdateScript0.08.rpy:6948
 translate turkish pussy_block_office_c8a43ef0:
@@ -18340,7 +18340,7 @@ translate turkish pussy_block_office_60cfe02d_1:
 translate turkish pussy_block_office_7b0e9b0f_2:
 
     # "{b}{i}\"Mom's Anger +1\"{/i}{/b}"
-    ""
+    "{b}{i}\"Annemin kızgınlığı +1\"{/b}{/i}"
 
 # game/UpdateScript0.08.rpy:7095
 translate turkish pussy_block_office_34a70830_1:
@@ -26140,7 +26140,7 @@ translate turkish prison_visit_3a86b8c7:
 translate turkish prison_visit_fd4a7009:
 
     # "{b}{i}\"Mom's Submission +1\"{/i}{/b}"
-    ""
+    "{b}{i}\"Annemin saygısı +1\"{/i}{/b}"
 
 # game/UpdateScript0.08.rpy:10693
 translate turkish prison_visit_1a8c6e11:
@@ -29368,7 +29368,7 @@ translate turkish prison_visit_2a618cf4:
 translate turkish prison_visit_90d8380e:
 
     # M "Fucking [dad_name]!"
-    ""
+    M "Sikik [dad_name]!"
 
 # game/UpdateScript0.08.rpy:11753
 translate turkish prison_visit_b023e289_1:

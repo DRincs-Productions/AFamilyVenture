@@ -616,13 +616,13 @@ translate turkish myroom_b9a06102:
 translate turkish myroom_c2bbc9a3:
 
     # L "I'm still pissed off at you remember."
-    ""
+    L "Sana hâlâ kızgınım, unutma."
 
 # game/script.rpy:1043
 translate turkish myroom_e4a1a96b:
 
     # L "Ugghh.... I'm just going to go to my room."
-    ""
+    L "Ugghh.... Ben odama gidiyorum."
 
 # game/script.rpy:1052
 translate turkish myroom_0f0ac225:
@@ -1660,13 +1660,13 @@ translate turkish loungeevening_b9a06102:
 translate turkish loungeevening_c2bbc9a3:
 
     # L "I'm still pissed off at you remember."
-    ""
+    L "Sana hâlâ kızgınım, unutma."
 
 # game/script.rpy:2917
 translate turkish loungeevening_e4a1a96b:
 
     # L "Ugghh.... I'm just going to go to my room."
-    ""
+    L "Ugghh.... Ben odama gidiyorum."
 
 # game/script.rpy:2932
 translate turkish loungeevening_cf4c0aae:
@@ -1828,19 +1828,19 @@ translate turkish loungeevening_20e78f80:
 translate turkish loungeevening_82478000:
 
     # R "Do you mind if I watch some TV with you?"
-    ""
+    R "Seninle biraz televizyon izlememin sakıncası var mı?"
 
 # game/script.rpy:3006
 translate turkish loungeevening_c2bbc9a3_1:
 
     # L "I'm still pissed off at you remember."
-    ""
+    L "Sana hâlâ kızgınım, unutma."
 
 # game/script.rpy:3007
 translate turkish loungeevening_e4a1a96b_1:
 
     # L "Ugghh.... I'm just going to go to my room."
-    ""
+    L "Ugghh.... Ben odama gidiyorum."
 
 # game/script.rpy:3016
 translate turkish loungeevening_e85188a6:
@@ -1972,19 +1972,19 @@ translate turkish loungeevening_ec117b46:
 translate turkish loungeevening_82478000_1:
 
     # R "Do you mind if I watch some TV with you?"
-    ""
+    R "Seninle biraz televizyon izlememin sakıncası var mı?"
 
 # game/script.rpy:3061
 translate turkish loungeevening_c2bbc9a3_2:
 
     # L "I'm still pissed off at you remember."
-    ""
+    L "Sana hâlâ kızgınım, unutma."
 
 # game/script.rpy:3062
 translate turkish loungeevening_e4a1a96b_2:
 
     # L "Ugghh.... I'm just going to go to my room."
-    ""
+    L "Ugghh.... Ben odama gidiyorum."
 
 # game/script.rpy:3071
 translate turkish loungeevening_e85188a6_1:
@@ -2206,13 +2206,13 @@ translate turkish loungeeveningweekend_b9a06102:
 translate turkish loungeeveningweekend_c2bbc9a3:
 
     # L "I'm still pissed off at you remember."
-    ""
+    L "Sana hâlâ kızgınım, unutma."
 
 # game/script.rpy:3168
 translate turkish loungeeveningweekend_e4a1a96b:
 
     # L "Ugghh.... I'm just going to go to my room."
-    ""
+    L "Ugghh.... Ben odama gidiyorum."
 
 # game/script.rpy:3183
 translate turkish loungeeveningweekend_cf4c0aae:
@@ -2374,19 +2374,19 @@ translate turkish loungeeveningweekend_20e78f80:
 translate turkish loungeeveningweekend_82478000:
 
     # R "Do you mind if I watch some TV with you?"
-    ""
+    R "Seninle biraz televizyon izlememin sakıncası var mı?"
 
 # game/script.rpy:3257
 translate turkish loungeeveningweekend_c2bbc9a3_1:
 
     # L "I'm still pissed off at you remember."
-    ""
+    L "Sana hâlâ kızgınım, unutma."
 
 # game/script.rpy:3258
 translate turkish loungeeveningweekend_e4a1a96b_1:
 
     # L "Ugghh.... I'm just going to go to my room."
-    ""
+    L "Ugghh.... Ben odama gidiyorum."
 
 # game/script.rpy:3267
 translate turkish loungeeveningweekend_e85188a6:
@@ -2518,19 +2518,19 @@ translate turkish loungeeveningweekend_ec117b46:
 translate turkish loungeeveningweekend_82478000_1:
 
     # R "Do you mind if I watch some TV with you?"
-    ""
+    R "Seninle biraz televizyon izlememin sakıncası var mı?"
 
 # game/script.rpy:3312
 translate turkish loungeeveningweekend_c2bbc9a3_2:
 
     # L "I'm still pissed off at you remember."
-    ""
+    L "Sana hâlâ kızgınım, unutma."
 
 # game/script.rpy:3313
 translate turkish loungeeveningweekend_e4a1a96b_2:
 
     # L "Ugghh.... I'm just going to go to my room."
-    ""
+    L "Ugghh.... Ben odama gidiyorum."
 
 # game/script.rpy:3322
 translate turkish loungeeveningweekend_e85188a6_1:
@@ -2962,7 +2962,7 @@ translate turkish laurenhornybathroom_de144e4d:
 translate turkish laurenhornybathroom_c591abd8:
 
     # RT "{i}Lauren is taking her early morning shower. Wait.... did I just hear some moaning?, uggh I've got to find a way to see what's going on in there.{/i}"
-    ""
+    RT "{i}Lauren sabah duşunu alıyor. Bekle.... az önce bir inleme mi duydum?, uggh orada neler olduğunu görmenin bir yolunu bulmalıyım.{/i}"
 
 # game/script.rpy:3796
 translate turkish laurenhornybathroom_de144e4d_1:
@@ -3016,7 +3016,7 @@ translate turkish sidneyhornybathroom_9e1a138c:
 translate turkish sidneyhornybathroom_445042f6:
 
     # "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-    ""
+    "{i}{b}\"Sidney'in azgınlığı -5\"{/b}{/i}"
 
 # game/script.rpy:3894
 translate turkish sidneyhornybathroom_5b757f72:
@@ -3028,7 +3028,7 @@ translate turkish sidneyhornybathroom_5b757f72:
 translate turkish sidneyhornybathroom_445042f6_1:
 
     # "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-    ""
+    "{i}{b}\"Sidney'in azgınlığı -5\"{/b}{/i}"
 
 # game/script.rpy:3927
 translate turkish bathafternoonweekend_b4945548:
@@ -3112,7 +3112,7 @@ translate turkish toilet_a40a1927:
 translate turkish shower_e48d4a85:
 
     # RT "{i}No time for a shower.{/i}"
-    ""
+    RT "{i}Duş almaya vakit yok.{/i}"
 
 # game/script.rpy:4139
 translate turkish kitchenearlymorningweekend_b5680096:
@@ -3778,13 +3778,13 @@ translate turkish dishes_b9a06102:
 translate turkish dishes_c2bbc9a3:
 
     # L "I'm still pissed off at you remember."
-    ""
+    L "Sana hâlâ kızgınım, unutma."
 
 # game/script.rpy:4456
 translate turkish dishes_e4a1a96b:
 
     # L "Ugghh.... I'm just going to go to my room."
-    ""
+    L "Ugghh.... Ben odama gidiyorum."
 
 # game/script.rpy:4471
 translate turkish dishes_cf4c0aae:
@@ -5116,49 +5116,49 @@ translate turkish momearlymorning_c85ca467:
 translate turkish momearlymorning_23e267ee:
 
     # RT "{i}Mom's usually doing her yoga in her bedroom this early in the morning. She usually locks her door. Should I knock and see if she'll let me in?{/i}"
-    ""
+    RT "{i}Annem genellikle sabahın bu erken saatlerinde yatak odasında yoga yapar. Genelde kapısını kilitler. Kapıyı çalıp içeri girmeme izin verecek mi diye bakayım mı?{/i}"
 
 # game/script.rpy:5036
 translate turkish momearlymorning_7ccb0083:
 
     # M "{i}(Yelling through the door){/i} Who is it?"
-    ""
+    M "{i}(Kapıdan bağırır)){/i} Kim o?"
 
 # game/script.rpy:5037
 translate turkish momearlymorning_59e5f164:
 
     # R "It's me, Mom!... Will you let me in?"
-    ""
+    R "Benim, anne! Beni içeri alır mısın?"
 
 # game/script.rpy:5038
 translate turkish momearlymorning_632cef68:
 
     # M "Try the door. Sometimes I don't lock it."
-    ""
+    M "Kapıyı dene. Bazen kilitlemiyorum."
 
 # game/script.rpy:5043
 translate turkish momearlymorning_5887ffdc:
 
     # R "Uhh... It's locked."
-    ""
+    R "Uhh... Kilitli."
 
 # game/script.rpy:5044
 translate turkish momearlymorning_ee26003f:
 
     # M "Sorry, Honey. I'm trying to hold a position. And as soon as I'm done, I'll have to hurry and get dressed."
-    ""
+    M "Üzgünüm, tatlım. Pozisyonumu korumaya çalışıyorum. Ve işim biter bitmez, acele edip giyinmem gerekecek."
 
 # game/script.rpy:5045
 translate turkish momearlymorning_3c8605c6:
 
     # M "You're just going to have to talk to me later."
-    ""
+    M "Benimle sonra konuşmak zorunda kalacaksın."
 
 # game/script.rpy:5046
 translate turkish momearlymorning_c57ce9d2:
 
     # R "Alright, talk to you later."
-    ""
+    R "Tamam, sonra konuşuruz."
 
 # game/script.rpy:5047
 translate turkish momearlymorning_732db81d:
@@ -5176,49 +5176,49 @@ translate turkish momearlymorningweekend_c85ca467:
 translate turkish momearlymorningweekend_23e267ee:
 
     # RT "{i}Mom's usually doing her yoga in her bedroom this early in the morning. She usually locks her door. Should I knock and see if she'll let me in?{/i}"
-    ""
+    RT "{i}Annem genellikle sabahın bu erken saatlerinde yatak odasında yoga yapar. Genelde kapısını kilitler. Kapıyı çalıp içeri girmeme izin verecek mi diye bakayım mı?{/i}"
 
 # game/script.rpy:5080
 translate turkish momearlymorningweekend_7ccb0083:
 
     # M "{i}(Yelling through the door){/i} Who is it?"
-    ""
+    M "{i}(Kapıdan bağırır)){/i} Kim o?"
 
 # game/script.rpy:5081
 translate turkish momearlymorningweekend_59e5f164:
 
     # R "It's me, Mom!... Will you let me in?"
-    ""
+    R "Benim, anne! Beni içeri alır mısın?"
 
 # game/script.rpy:5082
 translate turkish momearlymorningweekend_632cef68:
 
     # M "Try the door. Sometimes I don't lock it."
-    ""
+    M "Kapıyı dene. Bazen kilitlemiyorum."
 
 # game/script.rpy:5087
 translate turkish momearlymorningweekend_5887ffdc:
 
     # R "Uhh... It's locked."
-    ""
+    R "Uhh... Kilitli."
 
 # game/script.rpy:5088
 translate turkish momearlymorningweekend_ee26003f:
 
     # M "Sorry, Honey. I'm trying to hold a position. And as soon as I'm done, I'll have to hurry and get dressed."
-    ""
+    M "Üzgünüm, tatlım. Pozisyonumu korumaya çalışıyorum. Ve işim biter bitmez, acele edip giyinmem gerekecek."
 
 # game/script.rpy:5089
 translate turkish momearlymorningweekend_3c8605c6:
 
     # M "You're just going to have to talk to me later."
-    ""
+    M "Benimle sonra konuşmak zorunda kalacaksın."
 
 # game/script.rpy:5090
 translate turkish momearlymorningweekend_c57ce9d2:
 
     # R "Alright, talk to you later."
-    ""
+    R "Tamam, sonra konuşuruz."
 
 # game/script.rpy:5091
 translate turkish momearlymorningweekend_732db81d:
@@ -5782,7 +5782,7 @@ translate turkish momsneakingnight_175da814:
 translate turkish momsneakingnight_42d71c1f:
 
     # RT "..."
-    ""
+    "[_RT_]..."
 
 # game/script.rpy:5408
 translate turkish momsneakingnight_fc22dab9:
@@ -6010,7 +6010,7 @@ translate turkish momangryroom_b5494025:
 translate turkish momangryroom_d234b8a6:
 
     # M "Maybe next time try to think of something a little less creepy."
-    ""
+    M "Belki bir dahaki sefere daha az korkunç bir şey düşünmeye çalışırsın."
 
 # game/script.rpy:5573
 translate turkish momangryroom_3d3b9d3e:
@@ -6118,7 +6118,7 @@ translate turkish momnightstand_2adae9ae:
 translate turkish momnightstand_6bf1c5f2:
 
     # "{b}{i}\"View this card in the gallery and the casino\"{/i}{/b}"
-    ""
+    "{b}{i}\"Galeride ve kasinoda bu kartı görüntüleyin\"{/i}{/b}"
 
 # game/script.rpy:5647
 translate turkish momnightstand_18b9b842:
@@ -6280,7 +6280,7 @@ translate turkish laurenmorningweekend_27cd4088:
 translate turkish laurenatnight_a1954caa:
 
     # RT "{i}Huh... Mandy and Lauren aren't back from their convention yet. Or maybe they are spending the night with Mandy over at Uncle Bobby's house.{/i}"
-    ""
+    RT "{i}Huh... Mandy ve Lauren henüz kongreden dönmediler. Belki de geceyi Mandy ile Bobby Amca'nın evinde geçiriyorlardır.{/i}"
 
 # game/script.rpy:5946
 translate turkish laurenatnight_ed872180:
@@ -6448,7 +6448,7 @@ translate turkish sidneyhornybedroom_ed954916:
 translate turkish sidneyhornybedroom_445042f6:
 
     # "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-    ""
+    "{i}{b}\"Sidney'in azgınlığı -5\"{/b}{/i}"
 
 # game/script.rpy:6124
 translate turkish sidneyhornybedroom_9e37090d:
@@ -6460,7 +6460,7 @@ translate turkish sidneyhornybedroom_9e37090d:
 translate turkish sidneyhornybedroom_445042f6_1:
 
     # "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-    ""
+    "{i}{b}\"Sidney'in azgınlığı -5\"{/b}{/i}"
 
 # game/script.rpy:6127
 translate turkish sidneyhornybedroom_3306ead2:
@@ -6502,13 +6502,13 @@ translate turkish laurenangryroom_1d673130:
 translate turkish laurenangryroom_249959a1:
 
     # RT "{i}Her door's locked. Lauren's pretty pissed off at me.{/i}"
-    ""
+    RT "{i}Kapısı kilitli. Lauren bana çok kızgın.{/i}"
 
 # game/script.rpy:6178
 translate turkish laurenangryroom_09e8eef0:
 
     # L "What do you want dickwad?"
-    ""
+    L "Ne istiyorsun sik kafalı?"
 
 # game/script.rpy:6184
 translate turkish laurenangryroom_70ab65f1:
@@ -6526,13 +6526,13 @@ translate turkish laurenangryroom_3c6fe325:
 translate turkish laurenangryroom_505691c9:
 
     # "{i}{b}\"Lauren's Anger -2\"{/b}{/i}"
-    ""
+    "{i}{b}\"Lauren'in kızgınlığı -2\"{/b}{/i}"
 
 # game/script.rpy:6197
 translate turkish laurenangryroom_a187e2bc:
 
     # L "But this doesn't mean I'm not mad at you anymore. That was a dick move, and it's going to take me some more time to forgive you."
-    ""
+    L "Ama bu artık sana kızgın olmadığım anlamına gelmiyor. Bu aptalca bir hareketti ve seni affetmem biraz daha zaman alacak."
 
 # game/script.rpy:6202
 translate turkish laurenangryroom_fd1cc03b:
@@ -6556,7 +6556,7 @@ translate turkish laurenangryroom_9a3c1f61:
 translate turkish laurenangryroom_a187e2bc_1:
 
     # L "But this doesn't mean I'm not mad at you anymore. That was a dick move, and it's going to take me some more time to forgive you."
-    ""
+    L "Ama bu artık sana kızgın olmadığım anlamına gelmiyor. Bu aptalca bir hareketti ve seni affetmem biraz daha zaman alacak."
 
 # game/script.rpy:6222
 translate turkish laurenangryroom_fd1cc03b_1:
@@ -6568,7 +6568,7 @@ translate turkish laurenangryroom_fd1cc03b_1:
 translate turkish laurenangryroom_9d07c7ae:
 
     # L "What the hell kind of present is that? I'm not your girlfriend!"
-    ""
+    L "Bu ne biçim bir hediye böyle? Ben senin kız arkadaşın değilim!"
 
 # game/script.rpy:6231
 translate turkish laurenangryroom_567898de:
@@ -6580,13 +6580,13 @@ translate turkish laurenangryroom_567898de:
 translate turkish laurenangryroom_9fa5814f:
 
     # L "Thanks, I hate it!"
-    ""
+    L "Teşekkürler, nefret ettim!"
 
 # game/script.rpy:6233
 translate turkish laurenangryroom_cb877ce4:
 
     # L "Maybe next time try to think of something a little less creepy."
-    ""
+    L "Belki bir dahaki sefere daha az korkunç bir şey düşünmeye çalışırsın."
 
 # game/script.rpy:6234
 translate turkish laurenangryroom_d49f35e4:
@@ -6652,7 +6652,7 @@ translate turkish laurenangryroom_e3882901:
 translate turkish laurenangryroom_420fb78b:
 
     # L "OMG! You made me get up for that."
-    ""
+    L "Aman Tanrım! Beni bunun için ayağa kaldırdın."
 
 # game/script.rpy:6260
 translate turkish laurenangryroom_9484f841:
@@ -6730,7 +6730,7 @@ translate turkish sidneyangryroom_5375399e:
 translate turkish sidneyangryroom_679f998d:
 
     # S "But this doesn't mean I'm not mad at you anymore. It's going to take me some more time to forgive you."
-    ""
+    S "Ama bu artık sana kızgın olmadığım anlamına gelmiyor. Seni affetmem biraz daha zaman alacak."
 
 # game/script.rpy:6330
 translate turkish sidneyangryroom_c12c55e1:
@@ -6754,7 +6754,7 @@ translate turkish sidneyangryroom_ee3db03c:
 translate turkish sidneyangryroom_679f998d_1:
 
     # S "But this doesn't mean I'm not mad at you anymore. It's going to take me some more time to forgive you."
-    ""
+    S "Ama bu artık sana kızgın olmadığım anlamına gelmiyor. Seni affetmem biraz daha zaman alacak."
 
 # game/script.rpy:6350
 translate turkish sidneyangryroom_c12c55e1_1:
@@ -6886,7 +6886,7 @@ translate turkish laurendresser_8af56dc4:
 translate turkish laurendresser_6bf1c5f2:
 
     # "{b}{i}\"View this card in the gallery and the casino\"{/i}{/b}"
-    ""
+    "{b}{i}\"Galeride ve kasinoda bu kartı görüntüleyin\"{/i}{/b}"
 
 # game/script.rpy:6438
 translate turkish laurendresser_6e1f3452:
@@ -6970,13 +6970,13 @@ translate turkish dressernight_200e5443_2:
 translate turkish laurenlaundry_31137a0e:
 
     # "{b}{i}\"You have found the \"Four of Clubs\" Card!\"{/i}{/b}"
-    ""
+    "{b}{i}\"Sinek Dörtlü\" Kartı buldunuz!{/i}{/b}"
 
 # game/script.rpy:6533
 translate turkish laurenlaundry_6bf1c5f2:
 
     # "{b}{i}\"View this card in the gallery and the casino\"{/i}{/b}"
-    ""
+    "{b}{i}\"Galeride ve kasinoda bu kartı görüntüleyin\"{/i}{/b}"
 
 # game/script.rpy:6546
 translate turkish laurenlaundry_1ca19cf2:
@@ -7018,7 +7018,7 @@ translate turkish laundryearlymorning_5fd6b914_1:
 translate turkish laundryearlymorning_2b711f9d:
 
     # RT "{i}There's some sexy used panties, I guess it couldn't hurt to give them a sniff.... sniffffffff.... oh yeah! Instant boner.{/i}"
-    ""
+    RT "{i}Kullanılmış seksi külotlar var, sanırım onları koklamaktan zarar gelmez.... ohhhhh.... oh evet! Anında ereksiyon oldum.{/i}"
 
 # game/script.rpy:6588
 translate turkish laundryearlymorning_5fd6b914_2:
@@ -7042,7 +7042,7 @@ translate turkish laundryearlymorning_5fd6b914_4:
 translate turkish laundrynight_2b711f9d:
 
     # RT "{i}There's some sexy used panties, I guess it couldn't hurt to give them a sniff.... sniffffffff.... oh yeah! Instant boner.{/i}"
-    ""
+    RT "{i}Kullanılmış seksi külotlar var, sanırım onları koklamaktan zarar gelmez.... ohhhhh.... oh evet! Anında ereksiyon oldum.{/i}"
 
 # game/script.rpy:6616
 translate turkish laundrynight_5fd6b914:
@@ -8824,7 +8824,7 @@ translate turkish schoolafternoonweekend_aa22f048:
 translate turkish schoolevening_0f1df5ef:
 
     # "School's over for the day."
-    ""
+    "Okul bugünlük bitti."
 
 # game/script.rpy:7407
 translate turkish schooleveningweekend_368c6f79:
@@ -8854,7 +8854,7 @@ translate turkish mylocker_9cb7cd9c:
 translate turkish mylocker_6bf1c5f2:
 
     # "{b}{i}\"View this card in the gallery and the casino\"{/i}{/b}"
-    ""
+    "{b}{i}\"Galeride ve kasinoda bu kartı görüntüleyin\"{/i}{/b}"
 
 # game/script.rpy:7447
 translate turkish mylocker_b8641e84:
@@ -9796,7 +9796,7 @@ translate turkish girllocker_38fdacbf:
 translate turkish girllocker_6bf1c5f2:
 
     # "{b}{i}\"View this card in the gallery and the casino\"{/i}{/b}"
-    ""
+    "{b}{i}\"Galeride ve kasinoda bu kartı görüntüleyin\"{/i}{/b}"
 
 # game/script.rpy:8136
 translate turkish girllocker_2a7e8ad1:
@@ -9838,7 +9838,7 @@ translate turkish stripclub_88b6beea:
 translate turkish warehous_studion_6c06a23a:
 
     # RT "{i}Ok, off to the studio!{/i}"
-    ""
+    RT "{i}İstikamet stüdyo!{/i}"
 
 # game/script.rpy:8220
 translate turkish warehouse_66905161:
@@ -10492,7 +10492,7 @@ translate turkish warehouse_259ca87e:
 translate turkish warehouse_d41a2560:
 
     # "\"You received a green screen.\""
-    ""
+    "\"Yeşil bir perde aldınız.\""
 
 # game/script.rpy:8653
 translate turkish warehouse_74cf4d3c:
@@ -10738,7 +10738,7 @@ translate turkish warehousealso_259ca87e:
 translate turkish warehousealso_d41a2560:
 
     # "\"You received a green screen.\""
-    ""
+    "\"Yeşil bir perde aldınız.\""
 
 # game/script.rpy:8929
 translate turkish warehousealso_74cf4d3c:
@@ -12076,7 +12076,7 @@ translate turkish collectingpayment_b72fcdc5:
 translate turkish collectingpayment_42d71c1f:
 
     # RT "..."
-    ""
+    "[_RT_]..."
 
 # game/script.rpy:9467
 translate turkish collectingpayment_5314b939:
@@ -12856,7 +12856,7 @@ translate turkish nightclubbing_a20cefa7:
 translate turkish nightclubbing_2c18aef7:
 
     # RT "{i}And queue the post-coital regret!{/i}"
-    ""
+    RT "{i}Ve seks sonrası pişmanlığı sıraya koyun!"
 
 # game/script.rpy:9737
 translate turkish nightclubbing_ac774a49:
@@ -13234,7 +13234,7 @@ translate turkish strings:
 
     # game/script.rpy:6174
     old "Let's just take a peek at what she's doing."
-    new ""
+    new "Ne yaptığına bir göz atalım."
 
     # game/script.rpy:6667
     old "Yes, I need an ally"

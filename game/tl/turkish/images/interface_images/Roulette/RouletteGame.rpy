@@ -10,7 +10,7 @@ translate turkish test_feb4bc5b:
 translate turkish gameTypeErrorCheck_be76e8b9:
 
     # RLT_dealer "Error: You haven't bet any amount of money.{w=3.0}{nw}" with Dissolve(2.0)
-    RLT_dealer "Hata: Herhangi bir miktarda para yatırmadınız.{w=3.0}{nw} [withDissolve()]"
+    RLT_dealer "Hata: Herhangi bir miktarda para yatırmadınız.{w=3.0}{nw}" with Dissolve(2.0)
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:624
 translate turkish gameTypeErrorCheck_76d464ef:

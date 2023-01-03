@@ -154,7 +154,7 @@ translate turkish scary_wakeup_14f69d06:
 translate turkish scary_wakeup_aff0e59d:
 
     # "{b}{i}\"View this card in the gallery and casino\"{/i}{/b}"
-    ""
+    "{b}{i}\"Galeride ve kasinoda bu kartı görüntüleyin\"{/i}{/b}"
 
 # game/UpdateScriptHalloweenEvent.rpy:382
 translate turkish sidney_mirror_slime_9cb523ba:

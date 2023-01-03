@@ -16,13 +16,13 @@ translate turkish posting_the_htbyd_pics_b5e1a766:
 translate turkish posting_the_htbyd_pics_1ec43bb1:
 
     # RT "{i}Uploading the pictures now.... and click submit.... and now we just wait to see if anyone likes them.{/i}"
-    ""
+    RT "{i}Şimdi resimleri yüklüyorum.... ve gönder'e tıklıyorum.... ve şimdi sadece beğenen olup olmadığını görmek için bekliyoruz.{/i}"
 
 # game/UpdateScript0.03.rpy:469
 translate turkish posting_the_htbyd_pics_6e5a373c:
 
     # RT "{i}I've got to be sure to check the website sometime tomorrow.{/i}"
-    ""
+    RT "{i}Yarın bir ara web sitesini kontrol edeceğimden emin olmalıyım.{/i}"
 
 # game/UpdateScript0.03.rpy:492
 translate turkish posting_the_htbyd_pics_e3690255:
@@ -40,37 +40,37 @@ translate turkish posting_the_htbyd_pics_6876a73c:
 translate turkish check_for_htbyd_likes_b47e0d22:
 
     # RT "{i}Ok, I've got to just login with my username and password and we'll see if anyone liked the girls' pictures.{/i}"
-    ""
+    RT "{i}Tamam, kullanıcı adım ve şifremle giriş yapacağım ve kızların resimlerini beğenen var mı göreceğiz.{/i}"
 
 # game/UpdateScript0.03.rpy:534
 translate turkish check_for_htbyd_likes_213638a4:
 
     # R "Oh, hey Lauren, what's up?"
-    ""
+    R "Selam Lauren, naber?"
 
 # game/UpdateScript0.03.rpy:536
 translate turkish check_for_htbyd_likes_5fa12a12:
 
     # L "Hey pervert, I just came to see if you'd posted those pictures online yet."
-    ""
+    L "Hey sapık, o resimleri internete koydun mu diye bakmaya geldim."
 
 # game/UpdateScript0.03.rpy:538
 translate turkish check_for_htbyd_likes_8bbe7edb:
 
     # L "Hey [ryan], I just came to see if you'd posted those pictures online yet."
-    ""
+    L "Hey [ryan], o resimleri internete koydun mu diye bakmaya geldim."
 
 # game/UpdateScript0.03.rpy:539
 translate turkish check_for_htbyd_likes_c29fb562:
 
     # R "What a coincidence, I was just checking to see if they got any likes at exactly the same moment that you walked into my room."
-    ""
+    R "Ne tesadüf, ben de tam senin odama girdiğin anda beğeni alıp almadıklarını kontrol ediyordum."
 
 # game/UpdateScript0.03.rpy:540
 translate turkish check_for_htbyd_likes_80266054:
 
     # R "Why don't we take a look together?"
-    ""
+    R "Neden birlikte bir göz atmıyoruz?"
 
 # game/UpdateScript0.03.rpy:547
 translate turkish check_for_htbyd_likes_e398f781:
@@ -172,7 +172,7 @@ translate turkish check_for_htbyd_likes_d3cd98c1:
 translate turkish check_for_htbyd_likes_1ffebffc:
 
     # "{i}{b}\"Lauren's Anger =0\"{/b}{/i}"
-    ""
+    "{i}{b}\"Lauren'in kızgınlığı =0\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:578
 translate turkish check_for_htbyd_likes_b911c927:
@@ -1738,49 +1738,49 @@ translate turkish firstloyaltyweekend_5fe9f6dd_1:
 translate turkish firstloyaltyweekend_178493d7:
 
     # R "Oh, no.... I think you misunderst..."
-    ""
+    R "Oh, hayır .... Bence yanlış bir şey ..."
 
 # game/UpdateScript0.03.rpy:1058
 translate turkish firstloyaltyweekend_dd6d5517:
 
     # M "I don't care what you meant, there is no possible way that you could have asked that in a way that is appropriate!"
-    ""
+    M "ne demek istediğini umursamıyorum, bunu bir şekilde sormanın mümkün bir yolu yok!"
 
 # game/UpdateScript0.03.rpy:1059
 translate turkish firstloyaltyweekend_53f67a71:
 
     # M "I wanted to do something nice for you today to say thank you, but you have to go and act like this!?"
-    ""
+    M "bugün size teşekkür etmek için güzel bir şey yapmak istedim, ama gidip böyle davranmanız gerekiyor!?"
 
 # game/UpdateScript0.03.rpy:1060
 translate turkish firstloyaltyweekend_7de12081:
 
     # M "I still very much appreciate what you've done for me, but we'll have to see if you're more deserving for a reward next Sunday."
-    ""
+    M "benim için yaptığınız için hala çok teşekkür ederim, ama önümüzdeki Pazar ödül için daha fazla hak sahibi olup olmadığınızı görmek zorundayız."
 
 # game/UpdateScript0.03.rpy:1061
 translate turkish firstloyaltyweekend_c1ed24bb:
 
     # R "But I didn't mean..."
-    ""
+    R "ama öyle demek istemedim ..."
 
 # game/UpdateScript0.03.rpy:1064
 translate turkish firstloyaltyweekend_86ad8d0c:
 
     # M "No butts!"
-    ""
+    M "Kıç yok!"
 
 # game/UpdateScript0.03.rpy:1065
 translate turkish firstloyaltyweekend_ac4f02a6:
 
     # M "I'm out of here!"
-    ""
+    M "Ben gidiyorum!"
 
 # game/UpdateScript0.03.rpy:1066
 translate turkish firstloyaltyweekend_974a7df8:
 
     # M "I've got to go cool down somewhere."
-    ""
+    M "bir yere serinlemek zorundayım."
 
 # game/UpdateScript0.03.rpy:1067
 translate turkish firstloyaltyweekend_dcdec28a:
@@ -1834,7 +1834,7 @@ translate turkish firstloyaltyweekend_202f4ef5:
 translate turkish firstloyaltyweekend_e063d754:
 
     # R "Hahah..."
-    ""
+    R "Hahaha..."
 
 # game/UpdateScript0.03.rpy:1090
 translate turkish firstloyaltyweekend_ebad2847:
@@ -1930,7 +1930,7 @@ translate turkish firstloyaltyweekend_8bc2aa52:
 translate turkish firstloyaltyweekend_ad5222bd:
 
     # M "[ryan]! I can't tell if that was supposed to be a joke or not, but either way it was inappropriate."
-    ""
+    M "[ryan]! Bunun bir şaka olup olmadığını söyleyemem, ama her iki şekilde de uygunsuzdu."
 
 # game/UpdateScript0.03.rpy:1116
 translate turkish firstloyaltyweekend_191a2b95:
@@ -1942,25 +1942,25 @@ translate turkish firstloyaltyweekend_191a2b95:
 translate turkish firstloyaltyweekend_07b2f917:
 
     # R "But Mom, I was just..."
-    ""
+    R "Ama anne, ben sadece ..."
 
 # game/UpdateScript0.03.rpy:1119
 translate turkish firstloyaltyweekend_14cc3e75:
 
     # M "Just nothing! Sometimes your sense of humor and your sense of what's acceptable to say, and what's just creepy is a bit off."
-    ""
+    M "sadece bir şey yok! Bazen espri anlayışınız ve söylemenin kabul edilebilir şeyleri hissetmeniz, ve tüyler ürpertici olan şey biraz kopukdur."
 
 # game/UpdateScript0.03.rpy:1120
 translate turkish firstloyaltyweekend_e5416aff:
 
     # R "No.... I.... just.... well I bought you a swimsuit..."
-    ""
+    R "No. ... Ben ... sana bir mayo aldım."
 
 # game/UpdateScript0.03.rpy:1121
 translate turkish firstloyaltyweekend_39a3e9f5:
 
     # M "Once again that's a creepy thing to buy your mother.... why don't you just leave it by my bedroom door, and we'll meet in the car. Maybe I'll wear it sometime in the future."
-    ""
+    M "Bir kez daha anneni satın almak için ürkütücü bir şey ... neden onu yatak odamın kapısına bırakmıyorsun, arabada buluşuruz. Belki gelecekte bir gün giyerim."
 
 # game/UpdateScript0.03.rpy:1133
 translate turkish commissionsecondoutfit_53a5049c:
@@ -2020,79 +2020,79 @@ translate turkish commissionsecondoutfit_53a5049c_1:
 translate turkish commissionsecondoutfit_630302f5:
 
     # R "I need you to make another cosplay outfit for Lauren."
-    ""
+    R "Lauren için başka bir cosplay kıyafeti yapmanı istiyorum."
 
 # game/UpdateScript0.03.rpy:1155
 translate turkish commissionsecondoutfit_25e54232:
 
     # S "Really? There's not another convention for another 6 months. What's the occasion?"
-    ""
+    S "Gerçekten mi? Altı ay daha başka bir kongre yok. Olay nedir?"
 
 # game/UpdateScript0.03.rpy:1156
 translate turkish commissionsecondoutfit_494c1fd5:
 
     # R "Lauren asked me to take pictures of her and Mandy in their outfits, and I posted them online."
-    ""
+    R "Lauren benden kendisinin ve Mandy'nin kıyafetleriyle fotoğraflarını çekmemi istedi ve ben de onları internette yayınladım."
 
 # game/UpdateScript0.03.rpy:1159
 translate turkish commissionsecondoutfit_2df5f36d:
 
     # S "That sounds rather pervy!"
-    ""
+    S "Kulağa oldukça sapıkça geliyor!"
 
 # game/UpdateScript0.03.rpy:1160
 translate turkish commissionsecondoutfit_ed61a154:
 
     # R "No.... they asked me to!"
-    ""
+    R "Hayır.... onlar benden istedi!"
 
 # game/UpdateScript0.03.rpy:1161
 translate turkish commissionsecondoutfit_713f403f:
 
     # S "Uh huh.... sure."
-    ""
+    S "Uh huh... Tabi."
 
 # game/UpdateScript0.03.rpy:1162
 translate turkish commissionsecondoutfit_c2fb0929:
 
     # R "Well anyways, their pictures got a ton of likes, and so sponsors are posting on their profile, and so basically, these pictures are making us a little money."
-    ""
+    R "Her neyse, resimleri bir ton beğeni aldı ve bu yüzden sponsorlar profillerinde yayınlıyor ve bu yüzden temelde bu resimler bize biraz para kazandırıyor."
 
 # game/UpdateScript0.03.rpy:1163
 translate turkish commissionsecondoutfit_6b27b0ce:
 
     # R "I also sold both of the outfits, and people are commenting on their profile that they want to buy more outfits as well."
-    ""
+    R "Ayrıca her iki kıyafeti de sattım ve insanlar profillerinde daha fazla kıyafet almak istediklerini belirtiyorlar."
 
 # game/UpdateScript0.03.rpy:1164
 translate turkish commissionsecondoutfit_4db1e0de:
 
     # R "They're offering more money if they don't wash them after wearing them for some reason."
-    ""
+    R "Nedense giydikten sonra yıkamazlarsa daha fazla para teklif ediyorlar."
 
 # game/UpdateScript0.03.rpy:1165
 translate turkish commissionsecondoutfit_f95984d9:
 
     # S "Uhhh.... that's because.... never mind."
-    ""
+    S "Uhhh.... çünkü.... boş ver."
 
 # game/UpdateScript0.03.rpy:1166
 translate turkish commissionsecondoutfit_781ec2a0:
 
     # RT "{i}Haha.... she thinks I really don't know.{/i}"
-    ""
+    RT "{i}Haha.... gerçekten bilmediğimi düşünüyor.{/i}"
 
 # game/UpdateScript0.03.rpy:1169
 translate turkish commissionsecondoutfit_d455752f:
 
     # S "And obviously Lauren and Mandy are happy because they are getting attention online."
-    ""
+    S "Belli ki Lauren ve Mandy internette ilgi gördükleri için mutlular."
 
 # game/UpdateScript0.03.rpy:1170
 translate turkish commissionsecondoutfit_9b5ff321:
 
     # R "Yep, they're on their way to achieving their dreams of getting internet famous."
-    ""
+    R "Evet, internette ünlü olma hayallerini gerçekleştirme yolundalar."
 
 # game/UpdateScript0.03.rpy:1173
 translate turkish commissionsecondoutfit_77e8b877:
@@ -2104,61 +2104,61 @@ translate turkish commissionsecondoutfit_77e8b877:
 translate turkish commissionsecondoutfit_6598779c:
 
     # S "And how much are you paying them?"
-    ""
+    S "Peki onlara ne kadar ödüyorsun?"
 
 # game/UpdateScript0.03.rpy:1175
 translate turkish commissionsecondoutfit_c010bcc1:
 
     # R "I'm not. All the money is going to pay Mom's Mafia debt each week."
-    ""
+    R "Ödemiyorum. Bütün para her hafta annemin mafya borcunu ödemeye gidiyor."
 
 # game/UpdateScript0.03.rpy:1178
 translate turkish commissionsecondoutfit_3158159c:
 
     # S "Does Mom know about this money?"
-    ""
+    S "Annemin bu paradan haberi var mı?"
 
 # game/UpdateScript0.03.rpy:1179
 translate turkish commissionsecondoutfit_6a183bc8:
 
     # R "Not yet, but don't tell her. I don't want to get her hopes up until we are doing better."
-    ""
+    R "Henüz yok, ama ona söyleme. Daha iyi olana kadar onu umutlandırmak istemiyorum."
 
 # game/UpdateScript0.03.rpy:1180
 translate turkish commissionsecondoutfit_04aea389:
 
     # S "More like you don't want Mom to shut you down when she realizes you're posting sexy pictures of her daughter online."
-    ""
+    S "Daha çok annenin, kızının seksi fotoğraflarını internette paylaştığını fark ettiğinde seni dövmesini istemiyorsun gibi."
 
 # game/UpdateScript0.03.rpy:1181
 translate turkish commissionsecondoutfit_7ab08fdb:
 
     # R "Lauren is legally an adult. She can make that decision for herself."
-    ""
+    R "Lauren yasal olarak bir yetişkin. Bu kararı kendisi verebilir."
 
 # game/UpdateScript0.03.rpy:1182
 translate turkish commissionsecondoutfit_aead51b7:
 
     # S "Ok, well sounds like you know what you're doing, and as long as I get paid, you can do whatever you want with these outfits."
-    ""
+    S "Tamam, ne yaptığını biliyorsun gibi görünüyor ve paramı aldığım sürece, bu kıyafetlerle ne istersen yapabilirsin."
 
 # game/UpdateScript0.03.rpy:1183
 translate turkish commissionsecondoutfit_e1ccf503:
 
     # S "I'll charge you my standard rate."
-    ""
+    S "Standart ücretimi alırım."
 
 # game/UpdateScript0.03.rpy:1184
 translate turkish commissionsecondoutfit_c05f5686:
 
     # S "And what cosplay do you want?"
-    ""
+    S "Ne tür cosplay kostümü istiyorsun?"
 
 # game/UpdateScript0.03.rpy:1185
 translate turkish commissionsecondoutfit_04c179bb:
 
     # R "I'll let you and Lauren work that out.... but it needs to be sexy!"
-    ""
+    R "Bunu Lauren'le birlikte tartışmanıza izin vereceğim.... ama seksi olması gerekiyor!"
 
 # game/UpdateScript0.03.rpy:1186
 translate turkish commissionsecondoutfit_56b422f2:
@@ -2170,7 +2170,7 @@ translate turkish commissionsecondoutfit_56b422f2:
 translate turkish commissionsecondoutfit_8b37b799:
 
     # S "Oh, and you'll still be able to pay Mom's Mafia debt this week?"
-    ""
+    S "Bu hafta annemin mafya borcunu ödeyebilecek misin?"
 
 # game/UpdateScript0.03.rpy:1190
 translate turkish commissionsecondoutfit_98c19aa7:
@@ -2260,7 +2260,7 @@ translate turkish commissionsecondoutfit_9948524c:
 translate turkish commissionsecondoutfit_96c31d7d:
 
     # S "I think you're enjoying more than the money from this little venture."
-    ""
+    S "Sanırım bu küçük girişimden kazanacağın paradan daha fazla keyif alıyorsun."
 
 # game/UpdateScript0.03.rpy:1219
 translate turkish commissionsecondoutfit_bf87ec39_1:
@@ -2284,61 +2284,61 @@ translate turkish commissionsecondoutfit_7c3354e4_1:
 translate turkish commissionsecondoutfit_05a9b552:
 
     # R "Whatever.... I'll keep checking back to see when you're done."
-    ""
+    R "Her neyse.... Bitirdiğini görmek için kontrol etmeye devam edeceğim."
 
 # game/UpdateScript0.03.rpy:1229
 translate turkish commissionsecondoutfit_3a36764e:
 
     # RT "{i}{b}(HINT){/b} I can't wait for Sidney to finish Lauren's Cosplay outfit!... I should go to the lounge and check with her this evening to see if it's done.{/i}"
-    ""
+    RT "{i}{b}(İPUCU){/b} Sidney'in Lauren'in Cosplay kıyafetini bitirmesini bekleyemiyorum!... Bu akşam salona gidip bitip bitmediğini kontrol etmeliyim.{/i}"
 
 # game/UpdateScript0.03.rpy:1245
 translate turkish secondcosplayfitting_5e51bcad:
 
     # R "Oh sweet! The new outfit is done!"
-    ""
+    R "Oh güzel! Yeni kıyafet tamam!"
 
 # game/UpdateScript0.03.rpy:1247
 translate turkish secondcosplayfitting_23ae0291:
 
     # R "Let me guess, Arsetrid, from \"How to Breed your Dragon\"?"
-    ""
+    R "Dur tahmin edeyim, \"How to Breed your Dragon\"dan Arsetrid mi?"
 
 # game/UpdateScript0.03.rpy:1248
 translate turkish secondcosplayfitting_23bfa76d:
 
     # L "Yep! Do you like it?"
-    ""
+    L "Evet! Beğendin mi?"
 
 # game/UpdateScript0.03.rpy:1249
 translate turkish secondcosplayfitting_7d38a7ae:
 
     # R "Yeah, but isn't that character a little young to be doing a sexy cosplay of her?"
-    ""
+    R "Evet, ama bu karakter seksi bir cosplay yapmak için biraz genç değil mi?"
 
 # game/UpdateScript0.03.rpy:1250
 translate turkish secondcosplayfitting_6280fd03:
 
     # S "That's only in the first two movies, in the third movie Arsetrid is old enough that it shouldn't be weird."
-    ""
+    S "Bu sadece ilk iki filmde var, üçüncü filmde Arsetrid garip olmayacak kadar yaşlı."
 
 # game/UpdateScript0.03.rpy:1251
 translate turkish secondcosplayfitting_d324678d:
 
     # R "You sure know a lot about a kids movie series for a girl in college."
-    ""
+    R "Üniversitede okuyan bir kız için çocuk filmleri hakkında çok şey biliyorsun."
 
 # game/UpdateScript0.03.rpy:1254
 translate turkish secondcosplayfitting_6f915ce7:
 
     # S "Oh, haha.... I'll have you know that almost half the audience of these animated movies are adults."
-    ""
+    S "Oh, haha.... Bu animasyon filmlerinin izleyicilerinin neredeyse yarısının yetişkin olduğunu bilmeni isterim."
 
 # game/UpdateScript0.03.rpy:1255
 translate turkish secondcosplayfitting_551269e3:
 
     # R "Or are you just bumping the statistics by watching it over and over and over?"
-    ""
+    R "Yoksa tekrar tekrar izleyerek istatistikleri mi şişiriyorsun?"
 
 # game/UpdateScript0.03.rpy:1256
 translate turkish secondcosplayfitting_971a98df:
@@ -2350,91 +2350,91 @@ translate turkish secondcosplayfitting_971a98df:
 translate turkish secondcosplayfitting_ce9c3fd8:
 
     # R "Ok then.... how close is it to being ready?"
-    ""
+    R "Tamam o zaman.... hazır olmaya ne kadar yakın?"
 
 # game/UpdateScript0.03.rpy:1260
 translate turkish secondcosplayfitting_1a55bd80:
 
     # S "Hmmm.... I'll have all the sizing done for the adjustments in about 10 minutes, and then I'll finish up all the sewing late tonight."
-    ""
+    S "Hmmm.... Ayarlamalar için tüm ölçüleri yaklaşık 10 dakika içinde tamamlayacağım ve ardından bu gece geç saatlerde tüm dikişleri bitireceğim."
 
 # game/UpdateScript0.03.rpy:1261
 translate turkish secondcosplayfitting_e5cd7b66:
 
     # S "So, you can probably take it anytime tomorrow."
-    ""
+    S "Yani, muhtemelen yarın herhangi bir zamanda alabilirsin."
 
 # game/UpdateScript0.03.rpy:1264
 translate turkish secondcosplayfitting_827b36b7:
 
     # R "Nice! Does tomorrow work for you Lauren?"
-    ""
+    R "Güzel! Yarın senin için uygun mu Lauren?"
 
 # game/UpdateScript0.03.rpy:1265
 translate turkish secondcosplayfitting_dcfbda0f:
 
     # L "My schedule is basically {b}weekdays in the late morning.{/b}"
-    ""
+    L "Programım genelde {b}hafta içi sabah geç saatlerde.{/b}"
 
 # game/UpdateScript0.03.rpy:1266
 translate turkish secondcosplayfitting_76c0ef6a:
 
     # L "Just head to the {b}warehouse and give me a call{/b} when you're ready."
-    ""
+    L "Sadece {b}depoya git ve hazır olduğunda beni ara.{/b}"
 
 # game/UpdateScript0.03.rpy:1267
 translate turkish secondcosplayfitting_90316b04:
 
     # R "Won't you miss school?"
-    ""
+    R "Okulu kaçırmayacak mısın?"
 
 # game/UpdateScript0.03.rpy:1268
 translate turkish secondcosplayfitting_d15e49ef:
 
     # L "Yeah?.... So?.... Do you really expect me to sacrifice my free time to take pictures in a dirty old warehouse?"
-    ""
+    L "Evet?.... Yani?.... Kirli ve eski bir depoda fotoğraf çekmek için boş zamanımı feda etmemi mi bekliyorsun gerçekten?"
 
 # game/UpdateScript0.03.rpy:1269
 translate turkish secondcosplayfitting_fc2ead9b:
 
     # L "Besides.... Mom's letting you miss school to work."
-    ""
+    L "Ayrıca.... Annem çalışman için okulu asmana izin veriyor."
 
 # game/UpdateScript0.03.rpy:1270
 translate turkish secondcosplayfitting_52fd5b46:
 
     # L "We'll just ask her to make the same exception for me."
-    ""
+    L "Ondan aynı torpili benim için de yapmasını isteyeceğiz."
 
 # game/UpdateScript0.03.rpy:1271
 translate turkish secondcosplayfitting_ae60b022:
 
     # R "You haven't told her what you're doing for work, have you?"
-    ""
+    R "Ona iş için ne yaptığını söylemedin, değil mi?"
 
 # game/UpdateScript0.03.rpy:1272
 translate turkish secondcosplayfitting_3a1db584:
 
     # L "Haha of course not.... I'm leaving that up to you."
-    ""
+    L "Haha hayır.... Bunu sana bırakıyorum."
 
 # game/UpdateScript0.03.rpy:1273
 translate turkish secondcosplayfitting_a9f4302a:
 
     # RT "{i}Shit!.... How am I going to tell Mom about this?{/i}"
-    ""
+    RT "{i}Siktir!.... Bunu anneme nasıl söyleyeceğim?{/i}"
 
 # game/UpdateScript0.03.rpy:1274
 translate turkish secondcosplayfitting_3fd7cd95:
 
     # RT "{i}Oh, well.... another problem for another day.{/i}"
-    ""
+    RT "{i}Oh, pekala.... başka bir gün için başka bir sorun.{/i}"
 
 # game/UpdateScript0.03.rpy:1275
 translate turkish secondcosplayfitting_50a74cf7:
 
     # R "So, Sidney?"
-    ""
+    R "Ee, Sidney?"
 
 # game/UpdateScript0.03.rpy:1276
 translate turkish secondcosplayfitting_f3f04389:
@@ -2446,43 +2446,43 @@ translate turkish secondcosplayfitting_f3f04389:
 translate turkish secondcosplayfitting_e56c6f41:
 
     # R "How easy is it to make adjustments to this outfit?"
-    ""
+    R "Bu kıyafette ayarlamalar yapmak ne kadar kolay?"
 
 # game/UpdateScript0.03.rpy:1278
 translate turkish secondcosplayfitting_73635b59:
 
     # S "Do you mean how easy is it to strip this down into a skimpy whore outfit?"
-    ""
+    S "Bunu cimri bir fahişe kıyafetine dönüştürmek ne kadar kolay mı demek istiyorsun?"
 
 # game/UpdateScript0.03.rpy:1279
 translate turkish secondcosplayfitting_8d8b6106:
 
     # R ".... Basically.... yeah..."
-    ""
+    R ".... Öyle de denebilir.... evet..."
 
 # game/UpdateScript0.03.rpy:1282
 translate turkish secondcosplayfitting_0f0cc50a:
 
     # S "Don't forget that it's your little sister you're taking pictures of please!"
-    ""
+    S "Fotoğrafını çektiğin kişinin küçük kız kardeşin olduğunu unutma lütfen!"
 
 # game/UpdateScript0.03.rpy:1284
 translate turkish secondcosplayfitting_8214c44c:
 
     # RT "{i}Says the girl jerking off her brother when she thinks he's sleeping.{/i}"
-    ""
+    RT "{i}Kardeşinin uyuduğunu düşünürken ona mastürbasyon yapan kız söylüyor bunu.{/i}"
 
 # game/UpdateScript0.03.rpy:1285
 translate turkish secondcosplayfitting_2362adfe:
 
     # R "Yeah, yeah.... I'll have you know I'm very respectful. I'm basically a feminist. This has been all Lauren's idea, and I'm just trying to help her feel empowered."
-    ""
+    R "Evet, evet.... Çok saygılı olduğumu bilmeni isterim. Temelde bir feministim. Bu tamamen Lauren'in fikriydi ve ben sadece onun kendini güçlü hissetmesine yardımcı olmaya çalışıyorum."
 
 # game/UpdateScript0.03.rpy:1286
 translate turkish secondcosplayfitting_0374442e:
 
     # S "{i}(sarcastically){/i} Wow!.... What a champion of women's rights!"
-    ""
+    S "{i}(alaycı bir şekilde){/i} Vay canına!.... Ne kadın hakları savunucusu ama!"
 
 # game/UpdateScript0.03.rpy:1287
 translate turkish secondcosplayfitting_cd107386:
@@ -2494,13 +2494,13 @@ translate turkish secondcosplayfitting_cd107386:
 translate turkish secondcosplayfitting_639ab549:
 
     # R "K Lauren, so I'll give you a call when I'm ready."
-    ""
+    R "Lauren, hazır olduğumda seni arayacağım."
 
 # game/UpdateScript0.03.rpy:1289
 translate turkish secondcosplayfitting_676c6a43:
 
     # L "K bye!"
-    ""
+    L "Baybay!"
 
 # game/UpdateScript0.03.rpy:1309
 translate turkish bikinishow_5a219843:
@@ -2998,7 +2998,7 @@ translate turkish diaz_and_lauren_4c2f1e60:
 translate turkish diaz_and_lauren_70e847a8:
 
     # L "Well, Is this sexy enough for you?"
-    ""
+    L "Peki, bu senin için yeterince seksi mi?"
 
 # game/UpdateScript0.03.rpy:1435
 translate turkish diaz_and_lauren_2e11533d:
@@ -5428,7 +5428,7 @@ translate turkish clubpool_3d99fcef:
 translate turkish clubpool_c0181c41:
 
     # M "Urrrgghhh!"
-    ""
+    M "Uurrgghhh!"
 
 # game/UpdateScript0.03.rpy:2449
 translate turkish clubpool_fd266593:
@@ -5680,7 +5680,7 @@ translate turkish clubpool_dc1de32d:
 translate turkish clubpool_42d71c1f:
 
     # RT "..."
-    ""
+    "[_RT_]..."
 
 # game/UpdateScript0.03.rpy:2515
 translate turkish clubpool_9ffac19b:
@@ -5854,7 +5854,7 @@ translate turkish clubpool_8e1e1c5c:
 translate turkish clubpool_aa8121f5:
 
     # R "I'll just get her a glass of wine."
-    ""
+    R "ona bir bardak şarap getireyim."
 
 # game/UpdateScript0.03.rpy:2553
 translate turkish clubpool_617c9bdb:
@@ -6028,7 +6028,7 @@ translate turkish clubpool_a34cbae1:
 translate turkish clubpool_b35ff7a1:
 
     # M "Buying me a $20 glass of wine? How sweet!..."
-    ""
+    M "Bana 20 dolarlık bir kadeh şarap mı ısmarladı? Ne kadar tatlı!"
 
 # game/UpdateScript0.03.rpy:2617
 translate turkish clubpool_a234be73:
@@ -6172,7 +6172,7 @@ translate turkish clubpool_179cccdb:
 translate turkish clubpool_c6610d0d:
 
     # M "But where are you getting so much money from? First you pay off the Mafia debt all those weeks in a row, then you buy me a Hyongu bikini, and now a twenty dollar glass of wine?"
-    ""
+    M "Ama bu kadar parayı nereden buluyorsun? Önce mafyanın borcunu ödedin, sonra bana bir Hyongu bikinisi aldın, şimdi de yirmi dolarlık bir kadeh şarap mı?"
 
 # game/UpdateScript0.03.rpy:2681
 translate turkish clubpool_d5386c34_1:
@@ -6256,7 +6256,7 @@ translate turkish clubpool_179cccdb_2:
 translate turkish clubpool_8bf19f1e:
 
     # M "But I know you don't have a ton of money lying around, you don't have to go spending it all on me."
-    ""
+    M "ama etrafta bir sürü paran olmadığını biliyorum. Her şeyi benim için harcamana gerek yok."
 
 # game/UpdateScript0.03.rpy:2699
 translate turkish clubpool_c8301859:
@@ -6346,7 +6346,7 @@ translate turkish clubpool_21d25d34:
 translate turkish clubpool_6e0b93ff:
 
     # M "Shhhh..."
-    ""
+    M "Ne?..."
 
 # game/UpdateScript0.03.rpy:2781
 translate turkish clubpool_228235e1:
@@ -6358,73 +6358,73 @@ translate turkish clubpool_228235e1:
 translate turkish clubpool_c3197bd3:
 
     # R "Oh, wait! Mom!"
-    ""
+    R "Oh, ve anne!"
 
 # game/UpdateScript0.03.rpy:2783
 translate turkish clubpool_7de85a2b:
 
     # R "You can't go swimming in those shorts!"
-    ""
+    R "Bu şortla yüzemezsin!"
 
 # game/UpdateScript0.03.rpy:2784
 translate turkish clubpool_4b6ff6c8:
 
     # M "What? Of course I can."
-    ""
+    M "Ne? Tabii ki yapabilirim."
 
 # game/UpdateScript0.03.rpy:2785
 translate turkish clubpool_f87772e1:
 
     # R "No, you didn't bring any sunscreen, and if you swim with those shorts you'll get weird tan lines."
-    ""
+    R "Hayır, güneş kremi getirmedin ve o şortla yüzersen garip bronzluk çizgileri oluşur."
 
 # game/UpdateScript0.03.rpy:2786
 translate turkish clubpool_3f099d61:
 
     # M "Yeah, and what of it?"
-    ""
+    M "Evet, bunda ne var?"
 
 # game/UpdateScript0.03.rpy:2787
 translate turkish clubpool_8fcaea50:
 
     # R "What if you have to go back and do a certain job?..."
-    ""
+    R "Ya geri dönüp belirli bir işi yapmak zorunda kalırsan?..."
 
 # game/UpdateScript0.03.rpy:2788
 translate turkish clubpool_cea51f3e:
 
     # R "Those tan lines won't look very good, and Joey DeCapo might not be happy about it."
-    ""
+    R "O bronzluk çizgileri pek iyi görünmeyecek ve Joey DeCapo bundan memnun olmayabilir."
 
 # game/UpdateScript0.03.rpy:2789
 translate turkish clubpool_15c37a9d:
 
     # M "What ever happened to \"Don't worry, Mom, I'll pay the Mafia debt\"?"
-    ""
+    M "\"Merak etme anne, mafya borcunu ödeyeceğim\"e ne oldu?"
 
 # game/UpdateScript0.03.rpy:2790
 translate turkish clubpool_8afb5ae3:
 
     # R "Well, of course I'll keep trying, but what if I have an off week?"
-    ""
+    R "Elbette denemeye devam edeceğim, ama ya kötü bir hafta geçirirsem?"
 
 # game/UpdateScript0.03.rpy:2791
 translate turkish clubpool_1f73cf55:
 
     # M "Shit! These bottoms are so revealing."
-    ""
+    M "Kahretsin! Bu altlar çok açık."
 
 # game/UpdateScript0.03.rpy:2792
 translate turkish clubpool_84484292:
 
     # M "But, I think you're right."
-    ""
+    M "Ama sanırım haklısın."
 
 # game/UpdateScript0.03.rpy:2795
 translate turkish clubpool_7a3af6b0:
 
     # M "Ok, try not to look too much."
-    ""
+    M "Tamam, çok fazla bakmamaya çalış."
 
 # game/UpdateScript0.03.rpy:2799
 translate turkish clubpool_228235e1_1:
@@ -6436,73 +6436,73 @@ translate turkish clubpool_228235e1_1:
 translate turkish clubpool_c3197bd3_1:
 
     # R "Oh, wait! Mom!"
-    ""
+    R "Oh, ve anne!"
 
 # game/UpdateScript0.03.rpy:2801
 translate turkish clubpool_7de85a2b_1:
 
     # R "You can't go swimming in those shorts!"
-    ""
+    R "Bu şortla yüzemezsin!"
 
 # game/UpdateScript0.03.rpy:2802
 translate turkish clubpool_4b6ff6c8_1:
 
     # M "What? Of course I can."
-    ""
+    M "Ne? Tabii ki yapabilirim."
 
 # game/UpdateScript0.03.rpy:2803
 translate turkish clubpool_f87772e1_1:
 
     # R "No, you didn't bring any sunscreen, and if you swim with those shorts you'll get weird tan lines."
-    ""
+    R "Hayır, güneş kremi getirmedin ve o şortla yüzersen garip bronzluk çizgileri oluşur."
 
 # game/UpdateScript0.03.rpy:2804
 translate turkish clubpool_3f099d61_1:
 
     # M "Yeah, and what of it?"
-    ""
+    M "Evet, bunda ne var?"
 
 # game/UpdateScript0.03.rpy:2805
 translate turkish clubpool_8fcaea50_1:
 
     # R "What if you have to go back and do a certain job?..."
-    ""
+    R "Ya geri dönüp belirli bir işi yapmak zorunda kalırsan?..."
 
 # game/UpdateScript0.03.rpy:2806
 translate turkish clubpool_cea51f3e_1:
 
     # R "Those tan lines won't look very good, and Joey DeCapo might not be happy about it."
-    ""
+    R "O bronzluk çizgileri pek iyi görünmeyecek ve Joey DeCapo bundan memnun olmayabilir."
 
 # game/UpdateScript0.03.rpy:2807
 translate turkish clubpool_15c37a9d_1:
 
     # M "What ever happened to \"Don't worry, Mom, I'll pay the Mafia debt\"?"
-    ""
+    M "\"Merak etme anne, mafya borcunu ödeyeceğim\"e ne oldu?"
 
 # game/UpdateScript0.03.rpy:2808
 translate turkish clubpool_8afb5ae3_1:
 
     # R "Well, of course I'll keep trying, but what if I have an off week?"
-    ""
+    R "Elbette denemeye devam edeceğim, ama ya kötü bir hafta geçirirsem?"
 
 # game/UpdateScript0.03.rpy:2809
 translate turkish clubpool_1f73cf55_1:
 
     # M "Shit! These bottoms are so revealing."
-    ""
+    M "Kahretsin! Bu altlar çok açık."
 
 # game/UpdateScript0.03.rpy:2810
 translate turkish clubpool_84484292_1:
 
     # M "But, I think you're right."
-    ""
+    M "Ama sanırım haklısın."
 
 # game/UpdateScript0.03.rpy:2813
 translate turkish clubpool_7a3af6b0_1:
 
     # M "Ok, try not to look too much."
-    ""
+    M "Tamam, çok fazla bakmamaya çalış."
 
 # game/UpdateScript0.03.rpy:2815
 translate turkish clubpool_228235e1_2:
@@ -6520,31 +6520,31 @@ translate turkish clubpool_68eb73fd:
 translate turkish clubpool_d5b34837:
 
     # M "Oh, wow! That water is refreshing!"
-    ""
+    M "Oh, vay! Bu su çok ferahlatıcı!"
 
 # game/UpdateScript0.03.rpy:2835
 translate turkish clubpool_b65d9eb4:
 
     # RT "{i}Oh my God! Mom's bikini is completely see-through when wet! She's going to want to kill me when she realizes, hopefully she just won't notice.{/i}"
-    ""
+    RT "{i}Aman Tanrım! Annemin bikinisi ıslakken tamamen saydam oluyor! Fark ettiğinde beni öldürmek isteyecek, umarım fark etmez.{/i}"
 
 # game/UpdateScript0.03.rpy:2837
 translate turkish clubpool_fc59f26b:
 
     # M "Boys.... boys!..."
-    ""
+    M "Beyler... beyler!..."
 
 # game/UpdateScript0.03.rpy:2840
 translate turkish clubpool_6cfcc315:
 
     # M "My eyes are up here! Stop staring at my breasts! If there's going to be a problem, I'm going to leave."
-    ""
+    M "Gözlerim yukarıda! Göğüslerime bakmayı kesin! Eğer bir sorun varsa, ben gidiyorum."
 
 # game/UpdateScript0.03.rpy:2841
 translate turkish clubpool_842b0a5d:
 
     # M "Are we going to have a problem?"
-    ""
+    M "Bir sorun mu var?"
 
 # game/UpdateScript0.03.rpy:2842
 translate turkish clubpool_dcdec28a:
@@ -6556,43 +6556,43 @@ translate turkish clubpool_dcdec28a:
 translate turkish clubpool_b578b25a:
 
     # MB "No.... sorry! We'll behave!"
-    ""
+    MB "Hayır.... üzgünüm! Uslu duracağız!"
 
 # game/UpdateScript0.03.rpy:2845
 translate turkish clubpool_06c3eefe:
 
     # R "No, I wasn't even looking at your.... I mean I was looking at.... something else."
-    ""
+    R "Hayır.... sana bakmıyordum bile. Yani.... başka bir şeye bakıyordum."
 
 # game/UpdateScript0.03.rpy:2846
 translate turkish clubpool_011c639c:
 
     # M "Well put!"
-    ""
+    M "Güzel söyledin!"
 
 # game/UpdateScript0.03.rpy:2849
 translate turkish clubpool_d4446697:
 
     # M "Now, as I was saying..."
-    ""
+    M "Şimdi, dediğim gibi..."
 
 # game/UpdateScript0.03.rpy:2851
 translate turkish clubpool_8cd35883:
 
     # MT "{i}Oh my God! Are these little horndogs staring at my breasts?{/i}"
-    ""
+    MT "{i}Aman Tanrım! Bu küçük hornköpekler göğüslerime bakıyor mu?"
 
 # game/UpdateScript0.03.rpy:2852
 translate turkish clubpool_96107b9e:
 
     # MT "{i}I'm not surprised about Matt, I know his reputation, and I've noticed the way he looks at me in class.{/i}"
-    ""
+    MT "{i}Matt 'e hiç şaşırmadım, şöhretini biliyorum ve sınıftaki bana nasıl baktığını fark ettim."
 
 # game/UpdateScript0.03.rpy:2853
 translate turkish clubpool_b2a5e893:
 
     # MT "{i}I wonder if the rumors about him and Miss Stone are true.... {/i}"
-    ""
+    MT "{i}O ve Bayan Stone hakkındaki dedikodular doğru mu diye merak ediyorum. { /i }"
 
 # game/UpdateScript0.03.rpy:2854
 translate turkish clubpool_fb75fab8:
@@ -6688,19 +6688,19 @@ translate turkish clubpool_f2108dc8:
 translate turkish clubpool_6b86992b:
 
     # M "Whoever is it, has to close their eyes, and whenever they say \"Marco\", everyone in the pool has to say \"Polo\","
-    M "Kim başlarsa gözlerini kapatmak zorunda ve her \"Marco\" dediğinde havuzdaki herkes \"Polo\" demek zorunda,"
+    M "Kim ebe olarak başlarsa gözlerini kapatmak zorunda ve her \"Marco\" dediğinde havuzdaki herkes \"Polo\" demek zorunda,"
 
 # game/UpdateScript0.03.rpy:2877
 translate turkish clubpool_a181da2f:
 
     # M "And then the person who is it has to try to tag someone by only following the sound of their voice."
-    M "Ve sonra bu kişi birine sadece sesiyle bir şeyler göstermeye çalışmalıdır."
+    M "Ve sonra o kişi, sadece sesleri takip ederek birini sobelemeye çalışmak zorundadır."
 
 # game/UpdateScript0.03.rpy:2878
 translate turkish clubpool_86d99f8a:
 
     # M "And when they tag someone, they have to identify them by name. If they get it wrong then they are still it."
-    ""
+    M "Ve birini sobelediği zaman, onu ismiyle tanımak zorunda. Eğer yanlışlık yaparsa, ebe olmaya devam eder."
 
 # game/UpdateScript0.03.rpy:2879
 translate turkish clubpool_ccdc8c34:
@@ -6910,7 +6910,7 @@ translate turkish clubpool_7d4975b1:
 translate turkish clubpool_b8a3d3c7:
 
     # RT "{i}Oh no! My swimsuit is shrinking!{/i}"
-    RT "{i}Olamaz! Mayom açılıyor!{/i}"
+    RT "{i}Olamaz! Arşa kalkıyor!{/i}"
 
 # game/UpdateScript0.03.rpy:2969
 translate turkish clubpool_34bba332:
@@ -7072,7 +7072,7 @@ translate turkish clubpool_7d4975b1_1:
 translate turkish clubpool_b8a3d3c7_1:
 
     # RT "{i}Oh no! My swimsuit is shrinking!{/i}"
-    RT "{i}Olamaz! Mayom açılıyor!{/i}"
+    RT "{i}Olamaz! Arşa kalkıyor!{/i}"
 
 # game/UpdateScript0.03.rpy:3040
 translate turkish clubpool_34bba332_1:
@@ -7084,31 +7084,31 @@ translate turkish clubpool_34bba332_1:
 translate turkish clubpool_a0a0a26e:
 
     # M "Now get your hands off my tits! I can cover them up myself."
-    ""
+    M "Şimdi ellerini memelerimden çek! Onları kendim kapatabilirim."
 
 # game/UpdateScript0.03.rpy:3054
 translate turkish clubpool_cc40996b:
 
     # M "And you, Matt! You little pervert! Give me back my top."
-    ""
+    M "Ve sen, Matt! Seni velet sapık! Sütyenimi geri ver."
 
 # game/UpdateScript0.03.rpy:3055
 translate turkish clubpool_da08e3fe:
 
     # MB "I'm sorry Miss [mom_name]! I swear it was an accident. I had my eyes closed and couldn't see where I was grabbing."
-    ""
+    MB "Özür dilerim Bayan [mom_name]! Yemin ederim bir kazaydı. Gözlerim kapalıydı ve nereyi tuttuğumu göremiyordum."
 
 # game/UpdateScript0.03.rpy:3056
 translate turkish clubpool_187b03f7:
 
     # M "Yeah, well, I guess you're innocent until proven guilty, so let's just get on with the game."
-    ""
+    M "Evet, sanırım suçluluğun kanıtlanana kadar masumsun, o yüzden oyuna devam edelim."
 
 # game/UpdateScript0.03.rpy:3057
 translate turkish clubpool_542af465:
 
     # M "I believe it's my turn to be \"it\" in Marco Polo. Matt correctly identified me when he grabbed my.... when he tagged me."
-    ""
+    M "Sanırım Marco Polo'da \"ebe\" olma sırası bende. Matt.... beni yakaladığında.... beni sobelediğinde doğru tahmin etti."
 
 # game/UpdateScript0.03.rpy:3058
 translate turkish clubpool_dfde8f37_1:
@@ -7318,19 +7318,19 @@ translate turkish clubpool_53137f2a:
 translate turkish clubpool_c61525b8:
 
     # K "Have you ladies finished your chatting over there?! My bikini is going out of style! Let's keep playing!"
-    ""
+    K "Bayanlar sohbetinizi bitirdiniz mi? Bikinimin modası eskiyor artık! Oynamaya devam edelim!"
 
 # game/UpdateScript0.03.rpy:3103
 translate turkish clubpool_fce6955d:
 
     # M "Kenzie's right, it's my turn to chase you all."
-    ""
+    M "Kenzie haklı, hepinizi takip etme sırası bende."
 
 # game/UpdateScript0.03.rpy:3104
 translate turkish clubpool_bf1cbbf8:
 
     # M "I'm counting to 10."
-    ""
+    M "10 'a kadar sayıyorum."
 
 # game/UpdateScript0.03.rpy:3105
 translate turkish clubpool_0308878d:
@@ -7384,13 +7384,13 @@ translate turkish clubpool_406ff453_5:
 translate turkish clubpool_f87c6e31:
 
     # MT "{i}Hmmm.... who should I go for?{/i}"
-    ""
+    MT "{i}Hmmm.... kimi bulmalıyım?{ /i }"
 
 # game/UpdateScript0.03.rpy:3131
 translate turkish clubpool_19521c10:
 
     # MT "{i}I'll go for [ryan], hopefully it will make his day more fun!{/i}"
-    ""
+    MT "{i} Oğluma gideceğim, umarım gününü daha eğlenceli hale getirecektir!{/i}"
 
 # game/UpdateScript0.03.rpy:3138
 translate turkish clubpool_c3298bbf_2:
@@ -7414,7 +7414,7 @@ translate turkish clubpool_aec4b66d:
 translate turkish clubpool_6237d0ef:
 
     # RT "{i}Mom's a fast swimmer.{/i}"
-    ""
+    RT "{i}Annem eski yüzücülerdenmiş.{ /i }"
 
 # game/UpdateScript0.03.rpy:3148
 translate turkish clubpool_9eca3b34:
@@ -7432,61 +7432,61 @@ translate turkish clubpool_406ff453_7:
 translate turkish clubpool_420394b3:
 
     # MT "{i}Ha! I've almost got someone, but I'm not positive it's [ryan].{/i}"
-    ""
+    MT "{i}Ha! Neredeyse birini yakaladım, ama [ryan] olduğunu pek iyi bilmiyorum.{/i}"
 
 # game/UpdateScript0.03.rpy:3152
 translate turkish clubpool_e2958419:
 
     # RT "{i}Damn she's almost got me. Maybe I'd better start doing yoga too.{/i}"
-    ""
+    RT "{i}Kahretsin, neredeyse beni yakalıyordu. Belki ben de yoga yapmaya başlasam iyi olur.{/i}"
 
 # game/UpdateScript0.03.rpy:3155
 translate turkish clubpool_7f40dc86:
 
     # MT "{i}Just a little bit farther.... {/i}"
-    ""
+    MT "{i}Biraz daha uzakta... { /i }"
 
 # game/UpdateScript0.03.rpy:3158
 translate turkish clubpool_c7e500e6:
 
     # M "Gotcha!..."
-    ""
+    M "Yakaladım!..."
 
 # game/UpdateScript0.03.rpy:3159
 translate turkish clubpool_e65a43e1:
 
     # M "But who are you?"
-    ""
+    M "Ama kimsin?"
 
 # game/UpdateScript0.03.rpy:3162
 translate turkish clubpool_2cee9f5f:
 
     # MT "{i}I thought I was chasing [ryan], but this feels more like one of Kenzie's small wrists.{/i}"
-    ""
+    MT "{i}Oğlumu kovaladığımı düşünüyordum ama bu Kenzie'nin küçük bileklerinden birisi gibi.{/i}"
 
 # game/UpdateScript0.03.rpy:3175
 translate turkish clubpool_0854b485:
 
     # MT "{i}Who the hell is this?{/i}"
-    ""
+    MT "{i}Bu da kim böyle?{/i}"
 
 # game/UpdateScript0.03.rpy:3178
 translate turkish clubpool_2afd586f:
 
     # RT "{i}Oh my God, oh my God, oh my God!!!.... Does Mom know she's jacking me off?{/i}"
-    ""
+    RT "{i}Aman Tanrım, aman Tanrım, aman Tanrımmm!!!.... Annem şu anda bunun farkında mı?{/i}"
 
 # game/UpdateScript0.03.rpy:3192
 translate turkish clubpool_85ea0317:
 
     # MT "{i}Hmmmm.... I really think this must be Kenzie, but I know I heard her voice on the other side of the pool.{/i}"
-    ""
+    MT "{i}Hmmmm.... Bunun Kenzie olması gerektiğini düşünüyorum, ama havuzun diğer tarafında onun sesini duyduğumu biliyorum.{/i}"
 
 # game/UpdateScript0.03.rpy:3207
 translate turkish clubpool_a998697d:
 
     # RT "{i}Oh, shit!!!.... I can't hold back any more!{/i}"
-    ""
+    RT "{i}Oh, kahretsin!!!.... Daha fazla tutamıyorum!{/i}"
 
 # game/UpdateScript0.03.rpy:3208
 translate turkish clubpool_dbedcbea:
@@ -7498,55 +7498,55 @@ translate turkish clubpool_dbedcbea:
 translate turkish clubpool_4a82439b:
 
     # RT "{i}Holy fucking shit!!.... Mom just made me splooge in the pool!!{/i}"
-    ""
+    RT "{i}Vay amına koyayım!!.... Annem havuza attırmama neden oldu!{/i}"
 
 # game/UpdateScript0.03.rpy:3215
 translate turkish clubpool_68c42e7a:
 
     # M "Ok, I'm guessing I've caught Kenzie!"
-    ""
+    M "Tamam, sanırım Kenzie'yi yakaladım!"
 
 # game/UpdateScript0.03.rpy:3227
 translate turkish clubpool_6270033e:
 
     # M "Oh my God, [ryan]!"
-    ""
+    M "Aman Tanrım, [ryan]!"
 
 # game/UpdateScript0.03.rpy:3228
 translate turkish clubpool_a07fdd1e:
 
     # M "Was I grabbing?.... Did you just?.... Why didn't you?..."
-    ""
+    M "Şeyini mi tutuyordum?... Az önce?... Neden söylemedin?..."
 
 # game/UpdateScript0.03.rpy:3229
 translate turkish clubpool_436db77c:
 
     # M "Oh my God, [ryan]!!"
-    ""
+    M "Aman Tanrım, [ryan]!!"
 
 # game/UpdateScript0.03.rpy:3230
 translate turkish clubpool_ca58e6c7:
 
     # R "I'm sorry!.... You just grabbed it and started pulling.... I was hoping you would just let go without opening your eyes."
-    ""
+    R "Özür dilerim! Tuttun ve çekmeye başladın... Gözlerini açmadan gitmeme izin vereceğini düşünüyordum."
 
 # game/UpdateScript0.03.rpy:3231
 translate turkish clubpool_20415baa:
 
     # R "But you just kept pulling!"
-    ""
+    R "Ama sen çekmeye devam ettin!"
 
 # game/UpdateScript0.03.rpy:3232
 translate turkish clubpool_0a5e8ca0:
 
     # R "I didn't know what to do..."
-    ""
+    R "Ne yapacağımı bilemedim..."
 
 # game/UpdateScript0.03.rpy:3233
 translate turkish clubpool_fe9752c5:
 
     # M "Ok just shhh..."
-    ""
+    M "Tamam sadece şşş sus..."
 
 # game/UpdateScript0.03.rpy:3234
 translate turkish clubpool_a53691f3:
@@ -7558,49 +7558,49 @@ translate turkish clubpool_a53691f3:
 translate turkish clubpool_9f075c1f:
 
     # M "It's ok, just keep it down..."
-    ""
+    M "Oldu bitti, sadece sessiz ol..."
 
 # game/UpdateScript0.03.rpy:3242
 translate turkish clubpool_62e20235:
 
     # M "{i}(whispering){/i} We don't want everyone in the pool to hear what happened. Hopefully they didn't notice."
-    ""
+    M "{i}(fısıldayarak){ /i } Havuzdaki herkesin olanları duymasını istemeyiz. Umarım fark etmemişlerdir."
 
 # game/UpdateScript0.03.rpy:3243
 translate turkish clubpool_f4a57f40:
 
     # RT "{i}Yeah right, fat chance of that.{/i}"
-    ""
+    RT "{i}Evet, sanırım istemeyiz.{/i}"
 
 # game/UpdateScript0.03.rpy:3244
 translate turkish clubpool_66725d47:
 
     # M "I'm not mad. Accidents happen."
-    ""
+    M "Kızgın değilim. Kazalar olur."
 
 # game/UpdateScript0.03.rpy:3245
 translate turkish clubpool_f11163e1:
 
     # M "But let's just get our stuff and hurry out to the car."
-    ""
+    M "Ama eşyalarımızı toparlayalım ve arabaya gidelim."
 
 # game/UpdateScript0.03.rpy:3246
 translate turkish clubpool_1bfca250:
 
     # MT "{i}Oh my God! If that didn't let his Oedipal phase develop, I don't know what will.{/i}"
-    ""
+    MT "{i}Aman Tanrım! Eğer bu onun Ödipal evresinin gelişmesine izin vermediyse, neyin vereceğini bilmiyorum.{/i}"
 
 # game/UpdateScript0.03.rpy:3247
 translate turkish clubpool_fc7811f2:
 
     # MT "{i}I just made my own son blow his load!{/i}"
-    ""
+    MT "{i}Az önce kendi oğlumu boşalttım!{/i}"
 
 # game/UpdateScript0.03.rpy:3248
 translate turkish clubpool_c5306e0d:
 
     # MT "{i}Shit, [mom_name]!.... Stop thinking about your son's huge pulsing cock!{/i}"
-    ""
+    MT "{i}Siktir, [mom_name]! .... Oğlunun büyük sikini düşünmeyi bırak!"
 
 # game/UpdateScript0.03.rpy:3249
 translate turkish clubpool_3265e8ee_2:
@@ -7612,13 +7612,13 @@ translate turkish clubpool_3265e8ee_2:
 translate turkish clubpool_fedf7ce1:
 
     # MT "{i}We've got to get out of here.{/i}"
-    ""
+    MT "{i}Buradan hemen çıkmalıyız.{/i}"
 
 # game/UpdateScript0.03.rpy:3269
 translate turkish clubpool_39ee4319:
 
     # RT "{i}{b}(HINT){/b} I need to keep \"Talking to Mom about the Oedipus assignment\" in her office, that is unless I have the chance to see where Matt and Megan sneak off to.{/i}"
-    ""
+    RT "{i}{b}(İPUCU){/b} \"Annemle Oedipus ödevi hakkında konuşmayı\" ofisinde tutmam gerekiyor, tabii Matt ve Megan'ın nereye kaçtığını görme şansım olmazsa.{/i}"
 
 # game/UpdateScript0.03.rpy:3276
 translate turkish clubpool_50b37385:
@@ -7630,79 +7630,79 @@ translate turkish clubpool_50b37385:
 translate turkish clubpool_68c42e7a_1:
 
     # M "Ok, I'm guessing I've caught Kenzie!"
-    ""
+    M "Tamam, sanırım Kenzie'yi yakaladım!"
 
 # game/UpdateScript0.03.rpy:3298
 translate turkish clubpool_6270033e_1:
 
     # M "Oh my God, [ryan]!"
-    ""
+    M "Aman Tanrım, [ryan]!"
 
 # game/UpdateScript0.03.rpy:3299
 translate turkish clubpool_5b98881d:
 
     # M "Was I grabbing?.... Why didn't you say something?..."
-    ""
+    M "Şeyini mi tutuyordum?... Neden bir şey söylemedin?..."
 
 # game/UpdateScript0.03.rpy:3300
 translate turkish clubpool_436db77c_1:
 
     # M "Oh my God, [ryan]!!"
-    ""
+    M "Aman Tanrım, [ryan]!!"
 
 # game/UpdateScript0.03.rpy:3301
 translate turkish clubpool_ca58e6c7_1:
 
     # R "I'm sorry!.... You just grabbed it and started pulling.... I was hoping you would just let go without opening your eyes."
-    ""
+    R "Özür dilerim! Tuttun ve çekmeye başladın... Gözlerini açmadan gitmeme izin vereceğini düşünüyordum."
 
 # game/UpdateScript0.03.rpy:3302
 translate turkish clubpool_262e2bf1:
 
     # R "I thought if I could get away you wouldn't realize what you had grabbed!"
-    ""
+    R "Kaçabilseydim neyi tuttuğunun farkına varmazsın sanmıştım!"
 
 # game/UpdateScript0.03.rpy:3303
 translate turkish clubpool_2094e92f:
 
     # M "But why was it out?!..."
-    ""
+    M "Ama neden dışarıdaydı?!..."
 
 # game/UpdateScript0.03.rpy:3304
 translate turkish clubpool_bc3ef8ed:
 
     # R "It doesn't fit in my shorts when I'm hard..."
-    ""
+    R "Sertleştiğimde şortuma sığmıyor..."
 
 # game/UpdateScript0.03.rpy:3305
 translate turkish clubpool_46ac1a9f:
 
     # R "And I've been hard ever since I grabbed your boobs."
-    ""
+    R "Ve memelerini avuçladığımdan beri sertleştim."
 
 # game/UpdateScript0.03.rpy:3306
 translate turkish clubpool_6270033e_2:
 
     # M "Oh my God, [ryan]!"
-    ""
+    M "Aman Tanrım, [ryan]!"
 
 # game/UpdateScript0.03.rpy:3313
 translate turkish clubpool_62e20235_1:
 
     # M "{i}(whispering){/i} We don't want everyone in the pool to hear what happened. Hopefully they didn't notice."
-    ""
+    M "{i}(fısıldayarak){ /i } Havuzdaki herkesin olanları duymasını istemeyiz. Umarım fark etmemişlerdir."
 
 # game/UpdateScript0.03.rpy:3314
 translate turkish clubpool_f4a57f40_1:
 
     # RT "{i}Yeah right, fat chance of that.{/i}"
-    ""
+    RT "{i}Evet, sanırım istemeyiz.{/i}"
 
 # game/UpdateScript0.03.rpy:3315
 translate turkish clubpool_1cb7a5f0:
 
     # M "I've never been so embarrassed."
-    ""
+    M "Hiç bu kadar utanmamıştım."
 
 # game/UpdateScript0.03.rpy:3316
 translate turkish clubpool_fa3877fd:
@@ -7714,13 +7714,13 @@ translate turkish clubpool_fa3877fd:
 translate turkish clubpool_3a53d690:
 
     # M "Let's just get our stuff and hurry out to the car."
-    ""
+    M "Hadi eşyalarımızı toparlayalım ve arabaya gidelim."
 
 # game/UpdateScript0.03.rpy:3319
 translate turkish clubpool_1bfca250_1:
 
     # MT "{i}Oh my God! If that didn't let his Oedipal phase develop, I don't know what will.{/i}"
-    ""
+    MT "{i}Aman Tanrım! Eğer bu onun Ödipal evresinin gelişmesine izin vermediyse, neyin vereceğini bilmiyorum.{/i}"
 
 # game/UpdateScript0.03.rpy:3320
 translate turkish clubpool_78c1cfc8:
@@ -7732,7 +7732,7 @@ translate turkish clubpool_78c1cfc8:
 translate turkish clubpool_c5306e0d_1:
 
     # MT "{i}Shit, [mom_name]!.... Stop thinking about your son's huge pulsing cock!{/i}"
-    ""
+    MT "{i}Siktir, [mom_name]! .... Oğlunun büyük sikini düşünmeyi bırak!"
 
 # game/UpdateScript0.03.rpy:3322
 translate turkish clubpool_3265e8ee_3:
@@ -7744,13 +7744,13 @@ translate turkish clubpool_3265e8ee_3:
 translate turkish clubpool_fedf7ce1_1:
 
     # MT "{i}We've got to get out of here.{/i}"
-    ""
+    MT "{i}Buradan hemen çıkmalıyız.{/i}"
 
 # game/UpdateScript0.03.rpy:3342
 translate turkish clubpool_39ee4319_1:
 
     # RT "{i}{b}(HINT){/b} I need to keep \"Talking to Mom about the Oedipus assignment\" in her office, that is unless I have the chance to see where Matt and Megan sneak off to.{/i}"
-    ""
+    RT "{i}{b}(İPUCU){/b} \"Annemle Oedipus ödevi hakkında konuşmayı\" ofisinde tutmam gerekiyor, tabii Matt ve Megan'ın nereye kaçtığını görme şansım olmazsa.{/i}"
 
 # game/UpdateScript0.03.rpy:3349
 translate turkish clubpool_50b37385_1:
@@ -7762,7 +7762,7 @@ translate turkish clubpool_50b37385_1:
 translate turkish clubpool_c2aa0bdd:
 
     # MT "{i}I'll go for Kenzie, she should be easy to catch, and the sooner this game's done, the sooner we can go home!{/i}"
-    ""
+    MT "{i}Ben Kenzie'yi seçiyorum, onu yakalamak kolay olacaktır ve bu oyun ne kadar çabuk biterse, eve o kadar çabuk gidebiliriz!{/i}"
 
 # game/UpdateScript0.03.rpy:3366
 translate turkish clubpool_c3298bbf_3:
@@ -7780,7 +7780,7 @@ translate turkish clubpool_406ff453_8:
 translate turkish clubpool_87b073a2:
 
     # MT "{i}I think I can hear Kenzie just ahead.{/i}"
-    ""
+    MT "{i}Sanırım Kenzie'nin sesini duyabiliyorum.{/i}"
 
 # game/UpdateScript0.03.rpy:3375
 translate turkish clubpool_9eca3b34_1:
@@ -7798,115 +7798,115 @@ translate turkish clubpool_406ff453_9:
 translate turkish clubpool_962626c1:
 
     # MT "{i}Ha! I've almost got someone, but I'm not positive it's Kenzie.{/i}"
-    ""
+    MT "{i}Ha! Neredeyse birini yakaladım, ama Kenzie olup olmadığını pek iyi bilmiyorum.{/i}"
 
 # game/UpdateScript0.03.rpy:3381
 translate turkish clubpool_7f40dc86_1:
 
     # MT "{i}Just a little bit farther.... {/i}"
-    ""
+    MT "{i}Biraz daha uzakta... { /i }"
 
 # game/UpdateScript0.03.rpy:3384
 translate turkish clubpool_c7e500e6_1:
 
     # M "Gotcha!..."
-    ""
+    M "Yakaladım!..."
 
 # game/UpdateScript0.03.rpy:3385
 translate turkish clubpool_e65a43e1_1:
 
     # M "But who are you?"
-    ""
+    M "Ama kimsin?"
 
 # game/UpdateScript0.03.rpy:3388
 translate turkish clubpool_a96d6688:
 
     # MT "{i}I thought I was chasing Kenzie, but I'm really not sure what I'm grabbing.{/i}"
-    ""
+    MT "{i}Kenzie'nin peşinde olduğumu sanıyordum ama neyi yakaladığımdan emin değilim.{/i}"
 
 # game/UpdateScript0.03.rpy:3401
 translate turkish clubpool_0854b485_1:
 
     # MT "{i}Who the hell is this?{/i}"
-    ""
+    MT "{i}Bu da kim böyle?{/i}"
 
 # game/UpdateScript0.03.rpy:3408
 translate turkish clubpool_b71145b9:
 
     # KT "{i}Oh my God, oh my God, oh my God!!!.... Does Miss [mom_name] know she's groping my coochie and ass?!{/i}"
-    ""
+    KT "{i}Aman Tanrım, aman Tanrım, aman Tanrımmm!!!.... Bayan [mom_name] götümü ve amcığımı ellediğini biliyor mu?{/i}"
 
 # game/UpdateScript0.03.rpy:3422
 translate turkish clubpool_d0ac0935:
 
     # MT "{i}Hmmmm.... I'm not positive this is Kenzie, but I'm pretty sure. I'm just not sure what I'm feeling here.{/i}"
-    ""
+    MT "{i}Hmmmm.... Bunun Kenzie olduğundan hem eminim hem emin değilim. Sadece burada ne hissettiğimden emin değilim.{/i}"
 
 # game/UpdateScript0.03.rpy:3441
 translate turkish clubpool_42b854b9:
 
     # KT "{i}Oh, shit!!!.... What do I do? I'd just swim away, but she's holding on tight.{/i}"
-    ""
+    KT "{i}Oh, kahretsin!!!.... Ne yapmalıyım? Yüzerek uzaklaşırdım ama o sıkıca tutunuyor.{/i}"
 
 # game/UpdateScript0.03.rpy:3442
 translate turkish clubpool_9263ffe8:
 
     # KT "{i}But why oh why is it kinda turning me on to have my teacher groping my goodies?{/i}"
-    ""
+    KT "{i}Ama neden öğretmenimin beni elliyor olması beni tahrik ediyor?{/i}"
 
 # game/UpdateScript0.03.rpy:3455
 translate turkish clubpool_83db8eeb:
 
     # KT "{i}I can't get away! Shit, I guess it's time to say something.{/i}"
-    ""
+    KT "{i}Kaçamıyorum! Hasiktir, sanırım bir şeyler söylemeliyim.{/i}"
 
 # game/UpdateScript0.03.rpy:3456
 translate turkish clubpool_9c9394e2:
 
     # K "Ummmm.... miss [mom_name]!"
-    ""
+    K "Ummm.... Bayan [mom_name]!"
 
 # game/UpdateScript0.03.rpy:3468
 translate turkish clubpool_84818fec:
 
     # M "Oh my God, Kenzie!"
-    ""
+    M "Aman Tanrım, Kenzie!"
 
 # game/UpdateScript0.03.rpy:3469
 translate turkish clubpool_14bc5cc1:
 
     # M "Was I grabbing?.... Why didn't you?..."
-    ""
+    M "Şeyini mi tutuyordum?... Neden söylemedin?..."
 
 # game/UpdateScript0.03.rpy:3470
 translate turkish clubpool_84c18eb2:
 
     # M "Oh my God, Kenzie! I'm so so sorry!"
-    ""
+    M "Aman Tanrım, Kenzie! Çok çok üzgünüm!"
 
 # game/UpdateScript0.03.rpy:3471
 translate turkish clubpool_62c46228:
 
     # K "I'm sorry!.... You just grabbed and started groping.... I was hoping you would just let go without opening your eyes."
-    ""
+    K "Özür dilerim! Tuttun ve sıkmaya başladın... Gözlerini açmadan gitmeme izin vereceğini düşünüyordum."
 
 # game/UpdateScript0.03.rpy:3472
 translate turkish clubpool_567bbc43:
 
     # K "But you just kept groping!"
-    ""
+    K "Ama siz devam ettiniz!"
 
 # game/UpdateScript0.03.rpy:3473
 translate turkish clubpool_751e974f:
 
     # K "I didn't know what to do..."
-    ""
+    K "Ne yapacağımı bilemedim..."
 
 # game/UpdateScript0.03.rpy:3474
 translate turkish clubpool_fe9752c5_1:
 
     # M "Ok just shhh..."
-    ""
+    M "Tamam sadece şşş sus..."
 
 # game/UpdateScript0.03.rpy:3475
 translate turkish clubpool_19d48028:
@@ -7918,13 +7918,13 @@ translate turkish clubpool_19d48028:
 translate turkish clubpool_9f075c1f_1:
 
     # M "It's ok, just keep it down..."
-    ""
+    M "Oldu bitti, sadece sessiz ol..."
 
 # game/UpdateScript0.03.rpy:3477
 translate turkish clubpool_baa6a75f:
 
     # M "Please don't say anything to anybody, especially Lauren."
-    ""
+    M "Lütfen bundan kimseye bahsetme, özellikle Lauren'e."
 
 # game/UpdateScript0.03.rpy:3478
 translate turkish clubpool_a44c1e9c:
@@ -7936,43 +7936,43 @@ translate turkish clubpool_a44c1e9c:
 translate turkish clubpool_1e6150db:
 
     # M "{i}(whispering){/i} Could you tell what just happened?"
-    ""
+    M "{i}(fısıldayarak){/i} Az önce neler olduğunu anlatacak mısın?"
 
 # game/UpdateScript0.03.rpy:3486
 translate turkish clubpool_27c76aa1:
 
     # R "What do you mean? Did you get Kenzie? Is she it now?"
-    ""
+    R "Ne demek istiyorsun? Kenzie'yi tuttuğunu mu?"
 
 # game/UpdateScript0.03.rpy:3487
 translate turkish clubpool_469d52d2:
 
     # RT "{i}Hahah.... I saw exactly what happened.{/i}"
-    ""
+    RT "{i}Hahaha.... Tam olarak neler olduğunu gördüm.{/i}"
 
 # game/UpdateScript0.03.rpy:3488
 translate turkish clubpool_abfe8934:
 
     # R "Or did you guess wrong. Are you coming after me next?"
-    ""
+    R "Yoksa yanlış mı tahmin ettin? Sırada benim peşimde misin?"
 
 # game/UpdateScript0.03.rpy:3489
 translate turkish clubpool_85474628:
 
     # RT "{i}Why doesn't she seem more upset?{/i}"
-    ""
+    RT "{i}Niye daha üzgün görünmüyor?{/i}"
 
 # game/UpdateScript0.03.rpy:3490
 translate turkish clubpool_e42e21ec:
 
     # RT "{i}Maybe it's the alcohol.{/i}"
-    ""
+    RT "{i}Belki de alkolden dolayıdır.{/i}"
 
 # game/UpdateScript0.03.rpy:3491
 translate turkish clubpool_f16ffad6:
 
     # M "No. I can't tell you what happened, but you'd probably die laughing if you saw..."
-    ""
+    M "Hayır. Ne olduğunu sana söyleyemem, ama görseydin muhtemelen gülmekten ölürdün..."
 
 # game/UpdateScript0.03.rpy:3492
 translate turkish clubpool_4881927b:
@@ -7984,31 +7984,31 @@ translate turkish clubpool_4881927b:
 translate turkish clubpool_d9dfd078:
 
     # M "No.... sorry.... I can't tell you."
-    ""
+    M "Hayır.... üzgünüm.... sana anlatamam."
 
 # game/UpdateScript0.03.rpy:3494
 translate turkish clubpool_b95aeeda:
 
     # RT "{i}Mom is a lot more fun when she's drunk.{/i}"
-    ""
+    RT "{i}Annem sarhoş olduğu zaman daha eğlenceli oluyor.{/i}"
 
 # game/UpdateScript0.03.rpy:3495
 translate turkish clubpool_5e90e9ae:
 
     # M "Let's just say, it might be a little awkward for Kenzie to visit Lauren in the future.... hahah..."
-    ""
+    M "Şöyle diyelim, Kenzie'nin Lauren'i ziyaret etmesi biraz garip olabilir... hahah..."
 
 # game/UpdateScript0.03.rpy:3496
 translate turkish clubpool_fe66232a:
 
     # MT "{i}I can't believe I was groping her tight little pussy and ass like that.{/i}"
-    ""
+    MT "{i}Onun daracık amını ve götünü o şekilde okşadığıma inanamıyorum.{/i}"
 
 # game/UpdateScript0.03.rpy:3497
 translate turkish clubpool_0d2cfb50:
 
     # MT "{i}And she just let it happen.... didn't say a word for a long time.... did she like it?.... {/i}"
-    ""
+    MT "{i}Ve o bunun olmasına izin verdi.... uzun bir süre bir şey söylemedi.... acaba beğendi mi?.... {/i}"
 
 # game/UpdateScript0.03.rpy:3498
 translate turkish clubpool_3265e8ee_4:
@@ -8020,25 +8020,25 @@ translate turkish clubpool_3265e8ee_4:
 translate turkish clubpool_53046692:
 
     # M "Come on [ryan], we've got to grab our stuff and get out of here."
-    ""
+    M "Hadi gel [ryan], eşyalarımızı toplayıp buradan gidelim."
 
 # game/UpdateScript0.03.rpy:3501
 translate turkish clubpool_0d78cb67:
 
     # R "What!?.... Why?.... What happened?..."
-    ""
+    R "Ne!?... Neden?... Ne oldu?..."
 
 # game/UpdateScript0.03.rpy:3502
 translate turkish clubpool_0c1d2de3:
 
     # M "Just shut up and come on!"
-    ""
+    M "Kapa çeneni ve önüme düş!"
 
 # game/UpdateScript0.03.rpy:3520
 translate turkish clubpool_39ee4319_2:
 
     # RT "{i}{b}(HINT){/b} I need to keep \"Talking to Mom about the Oedipus assignment\" in her office, that is unless I have the chance to see where Matt and Megan sneak off to.{/i}"
-    ""
+    RT "{i}{b}(İPUCU){/b} \"Annemle Oedipus ödevi hakkında konuşmayı\" ofisinde tutmam gerekiyor, tabii Matt ve Megan'ın nereye kaçtığını görme şansım olmazsa.{/i}"
 
 # game/UpdateScript0.03.rpy:3527
 translate turkish clubpool_50b37385_2:
@@ -8050,49 +8050,49 @@ translate turkish clubpool_50b37385_2:
 translate turkish clubpool_68c42e7a_2:
 
     # M "Ok, I'm guessing I've caught Kenzie!"
-    ""
+    M "Tamam, sanırım Kenzie'yi yakaladım!"
 
 # game/UpdateScript0.03.rpy:3549
 translate turkish clubpool_84818fec_1:
 
     # M "Oh my God, Kenzie!"
-    ""
+    M "Aman Tanrım, Kenzie!"
 
 # game/UpdateScript0.03.rpy:3550
 translate turkish clubpool_14bc5cc1_1:
 
     # M "Was I grabbing?.... Why didn't you?..."
-    ""
+    M "Şeyini mi tutuyordum?... Neden söylemedin?..."
 
 # game/UpdateScript0.03.rpy:3551
 translate turkish clubpool_84c18eb2_1:
 
     # M "Oh my God, Kenzie! I'm so so sorry!"
-    ""
+    M "Aman Tanrım, Kenzie! Çok çok üzgünüm!"
 
 # game/UpdateScript0.03.rpy:3552
 translate turkish clubpool_62c46228_1:
 
     # K "I'm sorry!.... You just grabbed and started groping.... I was hoping you would just let go without opening your eyes."
-    ""
+    K "Özür dilerim! Tuttun ve sıkmaya başladın... Gözlerini açmadan gitmeme izin vereceğini düşünüyordum."
 
 # game/UpdateScript0.03.rpy:3553
 translate turkish clubpool_567bbc43_1:
 
     # K "But you just kept groping!"
-    ""
+    K "Ama siz devam ettiniz!"
 
 # game/UpdateScript0.03.rpy:3554
 translate turkish clubpool_751e974f_1:
 
     # K "I didn't know what to do..."
-    ""
+    K "Ne yapacağımı bilemedim..."
 
 # game/UpdateScript0.03.rpy:3555
 translate turkish clubpool_fe9752c5_2:
 
     # M "Ok just shhh..."
-    ""
+    M "Tamam sadece şşş sus..."
 
 # game/UpdateScript0.03.rpy:3556
 translate turkish clubpool_19d48028_1:
@@ -8104,13 +8104,13 @@ translate turkish clubpool_19d48028_1:
 translate turkish clubpool_9f075c1f_2:
 
     # M "It's ok, just keep it down..."
-    ""
+    M "Oldu bitti, sadece sessiz ol..."
 
 # game/UpdateScript0.03.rpy:3558
 translate turkish clubpool_baa6a75f_1:
 
     # M "Please don't say anything to anybody, especially Lauren."
-    ""
+    M "Lütfen bundan kimseye bahsetme, özellikle Lauren'e."
 
 # game/UpdateScript0.03.rpy:3559
 translate turkish clubpool_a44c1e9c_1:
@@ -8122,37 +8122,37 @@ translate turkish clubpool_a44c1e9c_1:
 translate turkish clubpool_1e6150db_1:
 
     # M "{i}(whispering){/i} Could you tell what just happened?"
-    ""
+    M "{i}(fısıldayarak){/i} Az önce neler olduğunu anlatacak mısın?"
 
 # game/UpdateScript0.03.rpy:3567
 translate turkish clubpool_27c76aa1_1:
 
     # R "What do you mean? Did you get Kenzie? Is she it now?"
-    ""
+    R "Ne demek istiyorsun? Kenzie'yi tuttuğunu mu?"
 
 # game/UpdateScript0.03.rpy:3568
 translate turkish clubpool_469d52d2_1:
 
     # RT "{i}Hahah.... I saw exactly what happened.{/i}"
-    ""
+    RT "{i}Hahaha.... Tam olarak neler olduğunu gördüm.{/i}"
 
 # game/UpdateScript0.03.rpy:3569
 translate turkish clubpool_abfe8934_1:
 
     # R "Or did you guess wrong. Are you coming after me next?"
-    ""
+    R "Yoksa yanlış mı tahmin ettin? Sırada benim peşimde misin?"
 
 # game/UpdateScript0.03.rpy:3570
 translate turkish clubpool_aaa748ef:
 
     # RT "{i}She looks kind of upset?{/i}"
-    ""
+    RT "{i}{i}Üzgün mü görünüyor?{/i}"
 
 # game/UpdateScript0.03.rpy:3571
 translate turkish clubpool_fd8cf1d5:
 
     # M "No. Nothing happened, just forget I asked..."
-    ""
+    M "Hayır. Hiçbir şey olmadı, sadece sorduğumu unut."
 
 # game/UpdateScript0.03.rpy:3572
 translate turkish clubpool_4881927b_1:
@@ -8164,7 +8164,7 @@ translate turkish clubpool_4881927b_1:
 translate turkish clubpool_d9dfd078_1:
 
     # M "No.... sorry.... I can't tell you."
-    ""
+    M "Hayır.... üzgünüm.... sana anlatamam."
 
 # game/UpdateScript0.03.rpy:3574
 translate turkish clubpool_5df16283:
@@ -8176,7 +8176,7 @@ translate turkish clubpool_5df16283:
 translate turkish clubpool_fe66232a_1:
 
     # MT "{i}I can't believe I was groping her tight little pussy and ass like that.{/i}"
-    ""
+    MT "{i}Onun daracık amını ve götünü o şekilde okşadığıma inanamıyorum.{/i}"
 
 # game/UpdateScript0.03.rpy:3576
 translate turkish clubpool_3265e8ee_5:
@@ -8188,25 +8188,25 @@ translate turkish clubpool_3265e8ee_5:
 translate turkish clubpool_53046692_1:
 
     # M "Come on [ryan], we've got to grab our stuff and get out of here."
-    ""
+    M "Hadi gel [ryan], eşyalarımızı toplayıp buradan gidelim."
 
 # game/UpdateScript0.03.rpy:3579
 translate turkish clubpool_0d78cb67_1:
 
     # R "What!?.... Why?.... What happened?..."
-    ""
+    R "Ne!?... Neden?... Ne oldu?..."
 
 # game/UpdateScript0.03.rpy:3580
 translate turkish clubpool_0c1d2de3_1:
 
     # M "Just shut up and come on!"
-    ""
+    M "Kapa çeneni ve önüme düş!"
 
 # game/UpdateScript0.03.rpy:3598
 translate turkish clubpool_39ee4319_3:
 
     # RT "{i}{b}(HINT){/b} I need to keep \"Talking to Mom about the Oedipus assignment\" in her office, that is unless I have the chance to see where Matt and Megan sneak off to.{/i}"
-    ""
+    RT "{i}{b}(İPUCU){/b} \"Annemle Oedipus ödevi hakkında konuşmayı\" ofisinde tutmam gerekiyor, tabii Matt ve Megan'ın nereye kaçtığını görme şansım olmazsa.{/i}"
 
 # game/UpdateScript0.03.rpy:3605
 translate turkish clubpool_50b37385_3:
@@ -8218,7 +8218,7 @@ translate turkish clubpool_50b37385_3:
 translate turkish clubpool_9e88ce7d:
 
     # MT "{i}I'll go for Matt, maybe I can get some revenge for him stripping my top off!{/i}"
-    ""
+    MT "{i}Matt'i bulacağım, belki üstümü soymasının intikamını alabilirim!{/i}"
 
 # game/UpdateScript0.03.rpy:3622
 translate turkish clubpool_c3298bbf_4:
@@ -8236,7 +8236,7 @@ translate turkish clubpool_406ff453_10:
 translate turkish clubpool_21d53beb:
 
     # MT "{i}I think that's Matt just ahead!{/i}"
-    ""
+    MT "{i}Sanırım Matt az ileride!{/i}"
 
 # game/UpdateScript0.03.rpy:3631
 translate turkish clubpool_9eca3b34_2:
@@ -8254,55 +8254,55 @@ translate turkish clubpool_406ff453_11:
 translate turkish clubpool_6c8ed13b:
 
     # MT "{i}Ha! I've almost got Matt, the star of the basketball team. Is he even trying to get away from me?{/i}"
-    ""
+    MT "{i}Ha! Basketbol takımının yıldızı Matt'i neredeyse yakaladım. Benden kaçmaya mı çalışıyor?{/i}"
 
 # game/UpdateScript0.03.rpy:3635
 translate turkish clubpool_4f25de51:
 
     # MBT "{i}Alright, she's getting closer. Now to see if I can make this happen just right.{/i}"
-    ""
+    MBT "{i}Pekala, yaklaşıyor. Şimdi bunu doğru şekilde yapıp yapamayacağımı görelim.{/i}"
 
 # game/UpdateScript0.03.rpy:3638
 translate turkish clubpool_c7e500e6_2:
 
     # M "Gotcha!..."
-    ""
+    M "Yakaladım!..."
 
 # game/UpdateScript0.03.rpy:3639
 translate turkish clubpool_e35924e1:
 
     # M "But what do I have?"
-    ""
+    M "Ama bende ne var?"
 
 # game/UpdateScript0.03.rpy:3642
 translate turkish clubpool_5d361cf5:
 
     # MT "{i}I thought I was chasing Matt, but this feels more like one of [ryan]'s wrists.{/i}"
-    ""
+    MT "{i}Matt'i kovaladığımı düşünüyordum ama bu oğlumun küçük bileklerinden birisi gibi.{/i}"
 
 # game/UpdateScript0.03.rpy:3655
 translate turkish clubpool_0854b485_2:
 
     # MT "{i}Who the hell is this?{/i}"
-    ""
+    MT "{i}Bu da kim böyle?{/i}"
 
 # game/UpdateScript0.03.rpy:3658
 translate turkish clubpool_6152c275:
 
     # MBT "{i}Oh my God, oh my God, oh my God!!!.... Does Miss [mom_name] know she's jacking me off?{/i}"
-    ""
+    MBT "{i}Aman Tanrım, aman Tanrım, aman Tanrımmm!!!.... Bayan [mom_name] şu anda bunun farkında mı?{/i}"
 
 # game/UpdateScript0.03.rpy:3672
 translate turkish clubpool_08466e77:
 
     # MT "{i}Hmmmm.... I really think this must be [ryan], but I thought I heard his voice on the other side of the pool.{/i}"
-    ""
+    MT "{i}Hmmmm.... Bunun oğlum olması gerektiğini düşünüyorum, ama havuzun diğer tarafında onun sesini duyduğumu biliyorum.{/i}"
 
 # game/UpdateScript0.03.rpy:3687
 translate turkish clubpool_020c76c7:
 
     # MBT "{i}Oh, shit!!!.... I can't hold back any more!{/i}"
-    ""
+    MBT "{i}Oh, kahretsin!!!.... Daha fazla tutamıyorum!{/i}"
 
 # game/UpdateScript0.03.rpy:3688
 translate turkish clubpool_603e4d07:
@@ -8314,19 +8314,19 @@ translate turkish clubpool_603e4d07:
 translate turkish clubpool_dae8574a:
 
     # MBT "{i}Holy fucking shit!!.... Miss [mom_name] just made me splooge in the pool!!{/i}"
-    ""
+    MBT "{i}Vay amına koyayım!!.... Bayan [mom_name] havuza attırmama neden oldu!{/i}"
 
 # game/UpdateScript0.03.rpy:3695
 translate turkish clubpool_06e0c3b6:
 
     # RT "Mom!.... Stop.... open your eyes!"
-    ""
+    RT "Anne!.... Dur.... gözlerini aç!"
 
 # game/UpdateScript0.03.rpy:3696
 translate turkish clubpool_497a6ce2:
 
     # M "Ok, I'm guessing I've caught [ryan]!"
-    ""
+    M "Tamam, sanırım seni yakaladım!"
 
 # game/UpdateScript0.03.rpy:3708
 translate turkish clubpool_d92e4254:
@@ -8338,37 +8338,37 @@ translate turkish clubpool_d92e4254:
 translate turkish clubpool_a07fdd1e_1:
 
     # M "Was I grabbing?.... Did you just?.... Why didn't you?..."
-    ""
+    M "Şeyini mi tutuyordum?... Az önce?... Neden söylemedin?..."
 
 # game/UpdateScript0.03.rpy:3710
 translate turkish clubpool_9b37c0b2:
 
     # M "Oh my God, Matt!!"
-    ""
+    M "Aman Tanrım, Matt!!"
 
 # game/UpdateScript0.03.rpy:3711
 translate turkish clubpool_88b8f7fd:
 
     # MB "I'm sorry!.... You just grabbed it and started pulling.... I was hoping you would just let go without opening your eyes."
-    ""
+    MB "Özür dilerim! Tuttun ve çekmeye başladın... Gözlerini açmadan gitmeme izin vereceğini düşünüyordum."
 
 # game/UpdateScript0.03.rpy:3712
 translate turkish clubpool_aa464394:
 
     # MB "But you just kept pulling!"
-    ""
+    MB "Ama sen çekmeye devam ettin!"
 
 # game/UpdateScript0.03.rpy:3713
 translate turkish clubpool_ddf2ba00:
 
     # MB "I didn't know what to do..."
-    ""
+    MB "Ne yapacağımı bilemedim..."
 
 # game/UpdateScript0.03.rpy:3714
 translate turkish clubpool_fe9752c5_3:
 
     # M "Ok just shhh..."
-    ""
+    M "Tamam sadece şşş sus..."
 
 # game/UpdateScript0.03.rpy:3715
 translate turkish clubpool_5943c1bf:
@@ -8380,55 +8380,55 @@ translate turkish clubpool_5943c1bf:
 translate turkish clubpool_9f075c1f_3:
 
     # M "It's ok, just keep it down..."
-    ""
+    M "Oldu bitti, sadece sessiz ol..."
 
 # game/UpdateScript0.03.rpy:3717
 translate turkish clubpool_58261433:
 
     # M "And please don't tell anyone what happened. Especially your parents."
-    ""
+    M "Ve lütfen olanları kimseye anlatma. Özellikle de ailene."
 
 # game/UpdateScript0.03.rpy:3724
 translate turkish clubpool_1e6150db_2:
 
     # M "{i}(whispering){/i} Could you tell what just happened?"
-    ""
+    M "{i}(fısıldayarak){/i} Az önce neler olduğunu anlatacak mısın?"
 
 # game/UpdateScript0.03.rpy:3725
 translate turkish clubpool_ab3bf6db:
 
     # R "Yeah.... It was pretty obvious by the look on Matt's face!"
-    ""
+    R "Evet.... Matt'in yüzündeki ifadeden anlaşılıyordu!"
 
 # game/UpdateScript0.03.rpy:3726
 translate turkish clubpool_ce5b1b7e:
 
     # MT "{i}Hahah.... I wish I had seen his face!{/i}"
-    ""
+    MT "{i}Hahah.... Keşke yüzünü görebilseydim!{/i}"
 
 # game/UpdateScript0.03.rpy:3727
 translate turkish clubpool_9d4e04e0:
 
     # R "How could you not tell you had a grip on his cock?"
-    ""
+    R "Sikini tuttuğunu nasıl anlamadın?"
 
 # game/UpdateScript0.03.rpy:3728
 translate turkish clubpool_57d0572a:
 
     # M "Language, [ryan]! I thought I had you by the wrist."
-    ""
+    M "Konuşmana dikkat et [ryan]! Seni bileğinden yakaladığımı sanmıştım."
 
 # game/UpdateScript0.03.rpy:3729
 translate turkish clubpool_a8af187f:
 
     # R "Me?.... By the wrist?.... Is Matt that big?"
-    ""
+    R "Beni mi? .... Bileğimden mi? .... Matt'inki o kadar büyük mü?"
 
 # game/UpdateScript0.03.rpy:3730
 translate turkish clubpool_06b6f61a:
 
     # M "Oh.... yeah.... and I thought you were big."
-    ""
+    M "Oh.... evet.... ben de seninkinin büyük olduğunu sanıyordum."
 
 # game/UpdateScript0.03.rpy:3731
 translate turkish clubpool_4881927b_2:
@@ -8440,31 +8440,31 @@ translate turkish clubpool_4881927b_2:
 translate turkish clubpool_6fd02f71:
 
     # M "I mean.... oh heck.... I'm sorry to compare you to him."
-    ""
+    M "Yani.... oh kahretsin.... Seni onunla karşılaştırdığım için üzgünüm."
 
 # game/UpdateScript0.03.rpy:3733
 translate turkish clubpool_c3f41a1c:
 
     # RT "{i}Mom is kind of a floozy when she's drunk. I can't believe Matt already got the best of me! I've got to bring it to him hard!{/i}"
-    ""
+    RT "{i}Annem sarhoşken biraz fahişece davranabiliyor. Matt'in beni çoktan alt ettiğine inanamıyorum! Ona daha sert davranmalıyım!{/i}"
 
 # game/UpdateScript0.03.rpy:3734
 translate turkish clubpool_615e6e69:
 
     # M "Let's just say, I think he will have to find more experienced women, or he might just split them in half!"
-    ""
+    M "Şöyle diyelim, sanırım daha deneyimli kadınlar bulması gerekecek, yoksa onları ikiye bölebilir!"
 
 # game/UpdateScript0.03.rpy:3735
 translate turkish clubpool_1c91b753:
 
     # R "Mom!.... That's not any better!"
-    ""
+    R "Anne!.... Yeter!"
 
 # game/UpdateScript0.03.rpy:3736
 translate turkish clubpool_37e1d532:
 
     # MT "{i}And he just let it happen.... didn't say a word for a long time.... oh, I wish I'd seen his face.... {/i}"
-    ""
+    MT "{i}Ve öylece olmasına izin verdi.... uzun süre tek kelime etmedi.... ah, keşke yüzünü görseydim.... {/i}"
 
 # game/UpdateScript0.03.rpy:3737
 translate turkish clubpool_3265e8ee_6:
@@ -8476,7 +8476,7 @@ translate turkish clubpool_3265e8ee_6:
 translate turkish clubpool_53046692_2:
 
     # M "Come on [ryan], we've got to grab our stuff and get out of here."
-    ""
+    M "Hadi gel [ryan], eşyalarımızı toplayıp buradan gidelim."
 
 # game/UpdateScript0.03.rpy:3740
 translate turkish clubpool_a04a50cb:
@@ -8488,13 +8488,13 @@ translate turkish clubpool_a04a50cb:
 translate turkish clubpool_0c1d2de3_2:
 
     # M "Just shut up and come on!"
-    ""
+    M "Kapa çeneni ve önüme düş!"
 
 # game/UpdateScript0.03.rpy:3759
 translate turkish clubpool_39ee4319_4:
 
     # RT "{i}{b}(HINT){/b} I need to keep \"Talking to Mom about the Oedipus assignment\" in her office, that is unless I have the chance to see where Matt and Megan sneak off to.{/i}"
-    ""
+    RT "{i}{b}(İPUCU){/b} \"Annemle Oedipus ödevi hakkında konuşmayı\" ofisinde tutmam gerekiyor, tabii Matt ve Megan'ın nereye kaçtığını görme şansım olmazsa.{/i}"
 
 # game/UpdateScript0.03.rpy:3766
 translate turkish clubpool_50b37385_4:
@@ -8506,67 +8506,67 @@ translate turkish clubpool_50b37385_4:
 translate turkish clubpool_edac170b:
 
     # R "Mom!.... Stop.... open your eyes!"
-    ""
+    R "Anne!.... Dur.... gözlerini aç!"
 
 # game/UpdateScript0.03.rpy:3777
 translate turkish clubpool_497a6ce2_1:
 
     # M "Ok, I'm guessing I've caught [ryan]!"
-    ""
+    M "Tamam, sanırım seni yakaladım!"
 
 # game/UpdateScript0.03.rpy:3789
 translate turkish clubpool_58a8fb45:
 
     # M "Oh my God, Matt."
-    ""
+    M "Aman Tanrım, Matt."
 
 # game/UpdateScript0.03.rpy:3790
 translate turkish clubpool_5b98881d_1:
 
     # M "Was I grabbing?.... Why didn't you say something?..."
-    ""
+    M "Şeyini mi tutuyordum?... Neden bir şey söylemedin?..."
 
 # game/UpdateScript0.03.rpy:3791
 translate turkish clubpool_9b37c0b2_1:
 
     # M "Oh my God, Matt!!"
-    ""
+    M "Aman Tanrım, Matt!!"
 
 # game/UpdateScript0.03.rpy:3792
 translate turkish clubpool_88b8f7fd_1:
 
     # MB "I'm sorry!.... You just grabbed it and started pulling.... I was hoping you would just let go without opening your eyes."
-    ""
+    MB "Özür dilerim! Tuttun ve çekmeye başladın... Gözlerini açmadan gitmeme izin vereceğini düşünüyordum."
 
 # game/UpdateScript0.03.rpy:3793
 translate turkish clubpool_78204776:
 
     # MB "I thought if I could get away you wouldn't realize what you had grabbed!"
-    ""
+    MB "Kaçabilseydim neyi tuttuğunuzun farkına varmazsınız sanmıştım!"
 
 # game/UpdateScript0.03.rpy:3794
 translate turkish clubpool_2094e92f_1:
 
     # M "But why was it out?!..."
-    ""
+    M "Ama neden dışarıdaydı?!..."
 
 # game/UpdateScript0.03.rpy:3795
 translate turkish clubpool_b971a1d9:
 
     # MB "It doesn't fit in my shorts when I'm hard..."
-    ""
+    MB "Sertleştiğimde şortuma sığmıyor..."
 
 # game/UpdateScript0.03.rpy:3796
 translate turkish clubpool_741073c0:
 
     # MB "And I've been hard ever since I pulled your top off by accident."
-    ""
+    MB "Ve kazara üstünüzü çıkardığımdan beri sertleştim."
 
 # game/UpdateScript0.03.rpy:3797
 translate turkish clubpool_e8919fda:
 
     # MT "{i}Pshhh.... accident my ass.{/i}"
-    ""
+    MT "{i}Pshhh.... kazaymış... götüme anlat sen onu.{/i}"
 
 # game/UpdateScript0.03.rpy:3798
 translate turkish clubpool_d92e4254_1:
@@ -8578,49 +8578,49 @@ translate turkish clubpool_d92e4254_1:
 translate turkish clubpool_b2745287:
 
     # M "Don't you dare say a word to anyone! Especially your parents!"
-    ""
+    M "Kimseye bir kelime bile etme! Özellikle de ailene!"
 
 # game/UpdateScript0.03.rpy:3806
 translate turkish clubpool_1e6150db_3:
 
     # M "{i}(whispering){/i} Could you tell what just happened?"
-    ""
+    M "{i}(fısıldayarak){/i} Az önce neler olduğunu anlatacak mısın?"
 
 # game/UpdateScript0.03.rpy:3807
 translate turkish clubpool_ab3bf6db_1:
 
     # R "Yeah.... It was pretty obvious by the look on Matt's face!"
-    ""
+    R "Evet.... Matt'in yüzündeki ifadeden anlaşılıyordu!"
 
 # game/UpdateScript0.03.rpy:3808
 translate turkish clubpool_2c5df9ec:
 
     # MT "Oh, God! I'm so humiliated!"
-    ""
+    MT "Oh, Tanrım! Çok aşağılandım!"
 
 # game/UpdateScript0.03.rpy:3809
 translate turkish clubpool_9d4e04e0_1:
 
     # R "How could you not tell you had a grip on his cock?"
-    ""
+    R "Sikini tuttuğunu nasıl anlamadın?"
 
 # game/UpdateScript0.03.rpy:3810
 translate turkish clubpool_57d0572a_1:
 
     # M "Language, [ryan]! I thought I had you by the wrist."
-    ""
+    M "Konuşmana dikkat et [ryan]! Seni bileğinden yakaladığımı sanmıştım."
 
 # game/UpdateScript0.03.rpy:3811
 translate turkish clubpool_a8af187f_1:
 
     # R "Me?.... By the wrist?.... Is Matt that big?"
-    ""
+    R "Beni mi? .... Bileğimden mi? .... Matt'inki o kadar büyük mü?"
 
 # game/UpdateScript0.03.rpy:3812
 translate turkish clubpool_e43874b3:
 
     # M "Sshhhhh.... I don't want anyone to know what we're talking about!"
-    ""
+    M "Sshhhhh.... Kimsenin neden bahsettiğimizi bilmesini istemiyorum!"
 
 # game/UpdateScript0.03.rpy:3813
 translate turkish clubpool_4881927b_3:
@@ -8632,13 +8632,13 @@ translate turkish clubpool_4881927b_3:
 translate turkish clubpool_9d07f398:
 
     # M "I mean.... oh heck.... I'm sorry to make you feel inadequate."
-    ""
+    M "Yani.... hmm.... Seni yetersiz hissettirdiğim için özür dilerim."
 
 # game/UpdateScript0.03.rpy:3815
 translate turkish clubpool_c31bea5a:
 
     # MT "{i}Matt just let it happen.... didn't say a word for a long time.... would he have ever stopped me, or let me make him cum?.... {/i}"
-    ""
+    MT "{i}Matt sadece olmasına izin verdi.... uzun süre tek kelime etmedi.... beni durdurabilir miydi ya da onu boşaltmama izin verebilir miydi?.... {/i}"
 
 # game/UpdateScript0.03.rpy:3816
 translate turkish clubpool_3265e8ee_7:
@@ -8650,7 +8650,7 @@ translate turkish clubpool_3265e8ee_7:
 translate turkish clubpool_53046692_3:
 
     # M "Come on [ryan], we've got to grab our stuff and get out of here."
-    ""
+    M "Hadi gel [ryan], eşyalarımızı toplayıp buradan gidelim."
 
 # game/UpdateScript0.03.rpy:3819
 translate turkish clubpool_a04a50cb_1:
@@ -8662,13 +8662,13 @@ translate turkish clubpool_a04a50cb_1:
 translate turkish clubpool_0c1d2de3_3:
 
     # M "Just shut up and come on!"
-    ""
+    M "Kapa çeneni ve önüme düş!"
 
 # game/UpdateScript0.03.rpy:3838
 translate turkish clubpool_39ee4319_5:
 
     # RT "{i}{b}(HINT){/b} I need to keep \"Talking to Mom about the Oedipus assignment\" in her office, that is unless I have the chance to see where Matt and Megan sneak off to.{/i}"
-    ""
+    RT "{i}{b}(İPUCU){/b} \"Annemle Oedipus ödevi hakkında konuşmayı\" ofisinde tutmam gerekiyor, tabii Matt ve Megan'ın nereye kaçtığını görme şansım olmazsa.{/i}"
 
 # game/UpdateScript0.03.rpy:3845
 translate turkish clubpool_50b37385_5:
@@ -8698,25 +8698,25 @@ translate turkish photostudio_b4d99b92_2:
 translate turkish htbydshoot_1b47bdc8:
 
     # "Lauren is only available to take pictures in the late morning."
-    ""
+    "Lauren sadece sabah geç saatlerde fotoğraf çekmek için müsait oluyor."
 
 # game/UpdateScript0.03.rpy:3915
 translate turkish htbydshoot_1b47bdc8_1:
 
     # "Lauren is only available to take pictures in the late morning."
-    ""
+    "Lauren sadece sabah geç saatlerde fotoğraf çekmek için müsait oluyor."
 
 # game/UpdateScript0.03.rpy:3919
 translate turkish htbydshoot_1b47bdc8_2:
 
     # "Lauren is only available to take pictures in the late morning."
-    ""
+    "Lauren sadece sabah geç saatlerde fotoğraf çekmek için müsait oluyor."
 
 # game/UpdateScript0.03.rpy:3923
 translate turkish htbydshoot_1b47bdc8_3:
 
     # "Lauren is only available to take pictures in the late morning."
-    ""
+    "Lauren sadece sabah geç saatlerde fotoğraf çekmek için müsait oluyor."
 
 # game/UpdateScript0.03.rpy:3927
 translate turkish htbydshoot_fba0da7d:
@@ -9112,7 +9112,7 @@ translate turkish htbydshoot_0a2f67db:
 translate turkish htbydshoot_3b8def9e:
 
     # L "How's this?"
-    ""
+    L "Bu nasıl?"
 
 # game/UpdateScript0.03.rpy:4077
 translate turkish htbydshoot_b0531b6c:
@@ -9334,7 +9334,7 @@ translate turkish htbydshoot_1b977fe8:
 translate turkish htbydshoot_af74cc2a:
 
     # L "Well.... ok, I guess we can do that."
-    ""
+    L "Pekala.... tamam, sanırım bunu yapabiliriz."
 
 # game/UpdateScript0.03.rpy:4186
 translate turkish htbydshoot_c335f1dc:
@@ -9472,7 +9472,7 @@ translate turkish htbydshoot_1b977fe8_1:
 translate turkish htbydshoot_af74cc2a_1:
 
     # L "Well.... ok, I guess we can do that."
-    ""
+    L "Pekala.... tamam, sanırım bunu yapabiliriz."
 
 # game/UpdateScript0.03.rpy:4239
 translate turkish htbydshoot_c335f1dc_1:
@@ -10174,7 +10174,7 @@ translate turkish removeskirt_29286b17:
 translate turkish removeskirt_65fad6ed:
 
     # L "Ok, I guess we can do that."
-    ""
+    L "Tamam, sanırım bunu yapabiliriz."
 
 # game/UpdateScript0.03.rpy:4459
 translate turkish removeskirt_c335f1dc:
@@ -10306,7 +10306,7 @@ translate turkish removeskirt_44ef9698:
 translate turkish removeskirt_af74cc2a:
 
     # L "Well.... ok, I guess we can do that."
-    ""
+    L "Pekala.... tamam, sanırım bunu yapabiliriz."
 
 # game/UpdateScript0.03.rpy:4525
 translate turkish removeskirt_c335f1dc_1:
@@ -10438,7 +10438,7 @@ translate turkish removeskirt_44ef9698_1:
 translate turkish removeskirt_af74cc2a_1:
 
     # L "Well.... ok, I guess we can do that."
-    ""
+    L "Pekala.... tamam, sanırım bunu yapabiliriz."
 
 # game/UpdateScript0.03.rpy:4571
 translate turkish removeskirt_c335f1dc_2:
@@ -11206,7 +11206,7 @@ translate turkish thongtime_5efae8b9:
 translate turkish thongtime_af74cc2a:
 
     # L "Well.... ok, I guess we can do that."
-    ""
+    L "Pekala.... tamam, sanırım bunu yapabiliriz."
 
 # game/UpdateScript0.03.rpy:4838
 translate turkish thongtime_c335f1dc:
@@ -11878,7 +11878,7 @@ translate turkish removebra_6e24410c:
 translate turkish removebra_185610e5:
 
     # L "Like this?"
-    ""
+    L "Böyle mi?"
 
 # game/UpdateScript0.03.rpy:5050
 translate turkish removebra_1dd53284:
@@ -13306,7 +13306,7 @@ translate turkish removethong_09c2e53a:
 translate turkish removethong_185610e5:
 
     # L "Like this?"
-    ""
+    L "Böyle mi?"
 
 # game/UpdateScript0.03.rpy:5547
 translate turkish removethong_ebe4b77b:
@@ -13696,7 +13696,7 @@ translate turkish htbyd_closeups_14b0bb6c:
 translate turkish htbyd_closeups_185610e5:
 
     # L "Like this?"
-    ""
+    L "Böyle mi?"
 
 # game/UpdateScript0.03.rpy:5672
 translate turkish htbyd_closeups_94e15707:
@@ -13756,7 +13756,7 @@ translate turkish htbyd_closeups_d41414ef:
 translate turkish htbyd_closeups_eb5af60b:
 
     # L "Oh my God, [ryan]!"
-    ""
+    L "Aman Tanrım, [ryan]!"
 
 # game/UpdateScript0.03.rpy:5690
 translate turkish htbyd_closeups_e8e54ebe:
@@ -14306,7 +14306,7 @@ translate turkish strings:
 
     # game/UpdateScript0.03.rpy:1129
     old "Commission a new cosplay outfit."
-    new ""
+    new "Yeni bir cosplay kıyafeti sipariş et."
 
     # game/UpdateScript0.03.rpy:4144
     old "Ask her to take off her skirt. {i}(submission 5+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"

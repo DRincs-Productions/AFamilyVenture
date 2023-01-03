@@ -4,17 +4,17 @@ translate turkish strings:
 
     # game/ForAndroid.rpy:36
     old "Quick Menu"
-    new ""
+    new "Hızlı Menü"
 
     # game/ForAndroid.rpy:70
     old "Menu"
-    new ""
+    new "Menü"
 
     # game/ForAndroid.rpy:112
     old "Console"
-    new ""
+    new "Konsol"
 
     # game/ForAndroid.rpy:114
     old "Close quick menu!"
-    new ""
+    new "Hızlı menüyü kapat!"
 

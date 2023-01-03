@@ -4,7 +4,7 @@ translate turkish strings:
 
     # game/Gallery_AFV_v0.2.rpy:265
     old "Mom's gallery"
-    new ""
+    new "Annemin galerisinde."
 
     # game/Gallery_AFV_v0.2.rpy:433
     old "Lauren's gallery"
@@ -24,7 +24,7 @@ translate turkish strings:
 
     # game/Gallery_AFV_v0.2.rpy:903
     old "Harem \n     gallery"
-    new ""
+    new "harem \n     galeri"
 
     # game/Gallery_AFV_v0.2.rpy:1006
     old "Other girls gallery"
@@ -32,7 +32,7 @@ translate turkish strings:
 
     # game/Gallery_AFV_v0.2.rpy:1109
     old "NTR gallery"
-    new ""
+    new "NTR galerisi"
 
     # game/Gallery_AFV_v0.2.rpy:1244
     old "Cosplay gallery"
@@ -40,5 +40,5 @@ translate turkish strings:
 
     # game/Gallery_AFV_v0.2.rpy:1340
     old "                          Face Card gallery"
-    new ""
+    new "                          Destekçi galerisi"
 
