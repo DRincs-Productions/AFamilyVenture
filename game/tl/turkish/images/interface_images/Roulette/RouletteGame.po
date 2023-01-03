@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-12-05 08:54\n"
+"PO-Revision-Date: 2022-12-23 21:03\n"
 
 # TODO: Translation updated at 2022-12-03 11:46 #|#|# # game/images/interface_images/Roulette/RouletteGame.rpy:607 #-#-# translate crowdin test_feb4bc5b:
 msgid "[betPickVar]"
@@ -18,7 +18,7 @@ msgstr "[@betPickVar]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:617 #-#-# translate crowdin gameTypeErrorCheck_be76e8b9:
 msgid "[_RLT_dealer_] Error: You haven't bet any amount of money.{w=3.0}{nw} [withDissolve20]"
-msgstr "[_RLT_dealer_] Hata: Herhangi bir miktarda para yatırmadınız.{w=3.0}{nw} [withDissolve()]"
+msgstr "[_RLT_dealer_] Hata: Herhangi bir miktarda para yatırmadınız.{w=3.0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:624 #-#-# translate crowdin gameTypeErrorCheck_76d464ef:
 msgid "[_RLT_dealer_] Error: With the Straight betting game you can pick any roulette number. Please supply a list of one number.{w=3.0}{nw} [withDissolve20]"

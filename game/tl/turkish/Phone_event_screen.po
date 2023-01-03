@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-12-03 09:21\n"
+"PO-Revision-Date: 2022-12-23 21:03\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/Phone_event_screen.rpy:1071 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -274,7 +274,7 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1304 #-#-# translate crowdin event_info_33_46f5fc45:
 msgid "[_RT_] {i}I need to keep \"Talking to Mom about the Oedipus assignment\" in her office, that is unless I have the chance to see where Matt and Megan sneak off to.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}\"Annemle Oedipus ödevi hakkında konuşmayı\" ofisinde tutmam gerekiyor, tabii Matt ve Megan'ın nereye kaçtığını görme şansım olmazsa.{/i}"
 
 # game/Phone_event_screen.rpy:1309 #-#-# translate crowdin event_info_34_b0d7745d:
 msgid "[_RT_] {i}I need to attend class until I have the option to \"Talk to Mom about the Oedipus assignment.\"{/i}"

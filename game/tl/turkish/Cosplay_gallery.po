@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-12-03 09:20\n"
+"PO-Revision-Date: 2022-12-26 18:39\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/Cosplay_gallery.rpy:1213 #-#-# translate crowdin cosplay_label_c1f386dd:
 msgid "[_RT_] {i}Yes... I have sold another pair of oufits for $[sold] more.{/i}"
@@ -70,7 +70,7 @@ msgstr "[_RT_] {i}Satacak bir şeyim yok.{/i}"
 
 # game/Cosplay_gallery.rpy:1888 #-#-# translate crowdin outfit_info_488a37ce:
 msgid "[_RT_] {i} The first cosplay outfit that [outfit_nfo_name] wore on our first photoshoot.{/i}"
-msgstr "[_RT_] {i} [outfit_nfo_name] 'un ilk fotoğraf çekimimizde giydiği ilk cosplay kıyafeti.{/i}"
+msgstr "[_RT_] {i} [outfit_nfo_name] ile ilk fotoğraf çekimimizde giydiği ilk cosplay kıyafeti.{/i}"
 
 # game/Cosplay_gallery.rpy:1889 #-#-# translate crowdin outfit_info_d4afad73:
 msgid "[_RT_] {i}I hope we can sell more of them.{/i}"
@@ -101,7 +101,7 @@ msgstr "{color=#000000}{b}Beğeniler: [total_likes]{/b}{/color}"
 msgid "{color=#ffffff}{b}Press to change \n"
 " likes to money{/b}{/color}"
 msgstr "{color=#ffffff}{b} \n"
-" beğenilerini paraya çevirmek için basın{/b}{/color}"
+" beğenileri paraya çevirmek için basın{/b}{/color}"
 
 # game/Cosplay_gallery.rpy:709
 msgid "{color=#000000}{b}Sell{/b}{/color}"
