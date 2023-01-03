@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-12-26 18:40\n"
+"PO-Revision-Date: 2023-01-03 08:17\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/script.rpy:320 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -3422,35 +3422,35 @@ msgstr ""
 
 # game/script.rpy:5032 #-#-# translate crowdin momearlymorning_23e267ee:
 msgid "[_RT_] {i}Mom's usually doing her yoga in her bedroom this early in the morning. She usually locks her door. Should I knock and see if she'll let me in?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Annem genellikle sabahın bu erken saatlerinde yatak odasında yoga yapar. Genelde kapısını kilitler. Kapıyı çalıp içeri girmeme izin verecek mi diye bakayım mı?{/i}"
 
 # game/script.rpy:5036 #-#-# translate crowdin momearlymorning_7ccb0083:
 msgid "[_M_] {i}(Yelling through the door){/i} Who is it?"
-msgstr ""
+msgstr "[_M_] {i}(Kapıdan bağırır)){/i} Kim o?"
 
 # game/script.rpy:5037 #-#-# translate crowdin momearlymorning_59e5f164:
 msgid "[_R_] It's me, Mom!... Will you let me in?"
-msgstr ""
+msgstr "[_R_] Benim, anne! Beni içeri alır mısın?"
 
 # game/script.rpy:5038 #-#-# translate crowdin momearlymorning_632cef68:
 msgid "[_M_] Try the door. Sometimes I don't lock it."
-msgstr ""
+msgstr "[_M_] Kapıyı dene. Bazen kilitlemiyorum."
 
 # game/script.rpy:5043 #-#-# translate crowdin momearlymorning_5887ffdc:
 msgid "[_R_] Uhh... It's locked."
-msgstr ""
+msgstr "[_R_] Uhh... Kilitli."
 
 # game/script.rpy:5044 #-#-# translate crowdin momearlymorning_ee26003f:
 msgid "[_M_] Sorry, Honey. I'm trying to hold a position. And as soon as I'm done, I'll have to hurry and get dressed."
-msgstr ""
+msgstr "[_M_] Üzgünüm, tatlım. Pozisyonumu korumaya çalışıyorum. Ve işim biter bitmez, acele edip giyinmem gerekecek."
 
 # game/script.rpy:5045 #-#-# translate crowdin momearlymorning_3c8605c6:
 msgid "[_M_] You're just going to have to talk to me later."
-msgstr ""
+msgstr "[_M_] Benimle sonra konuşmak zorunda kalacaksın."
 
 # game/script.rpy:5046 #-#-# translate crowdin momearlymorning_c57ce9d2:
 msgid "[_R_] Alright, talk to you later."
-msgstr ""
+msgstr "[_R_] Tamam, sonra konuşuruz."
 
 # game/script.rpy:5047 #-#-# translate crowdin momearlymorning_732db81d:
 msgid "[_RT_] {i}Mom doing yoga is so damn sexy! I wish there was a way I could see inside her room. Like a hidden camera or something?{/i}"
@@ -3462,35 +3462,35 @@ msgstr ""
 
 # game/script.rpy:5076 #-#-# translate crowdin momearlymorningweekend_23e267ee:
 msgid "[_RT_] {i}Mom's usually doing her yoga in her bedroom this early in the morning. She usually locks her door. Should I knock and see if she'll let me in?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Annem genellikle sabahın bu erken saatlerinde yatak odasında yoga yapar. Genelde kapısını kilitler. Kapıyı çalıp içeri girmeme izin verecek mi diye bakayım mı?{/i}"
 
 # game/script.rpy:5080 #-#-# translate crowdin momearlymorningweekend_7ccb0083:
 msgid "[_M_] {i}(Yelling through the door){/i} Who is it?"
-msgstr ""
+msgstr "[_M_] {i}(Kapıdan bağırır)){/i} Kim o?"
 
 # game/script.rpy:5081 #-#-# translate crowdin momearlymorningweekend_59e5f164:
 msgid "[_R_] It's me, Mom!... Will you let me in?"
-msgstr ""
+msgstr "[_R_] Benim, anne! Beni içeri alır mısın?"
 
 # game/script.rpy:5082 #-#-# translate crowdin momearlymorningweekend_632cef68:
 msgid "[_M_] Try the door. Sometimes I don't lock it."
-msgstr ""
+msgstr "[_M_] Kapıyı dene. Bazen kilitlemiyorum."
 
 # game/script.rpy:5087 #-#-# translate crowdin momearlymorningweekend_5887ffdc:
 msgid "[_R_] Uhh... It's locked."
-msgstr ""
+msgstr "[_R_] Uhh... Kilitli."
 
 # game/script.rpy:5088 #-#-# translate crowdin momearlymorningweekend_ee26003f:
 msgid "[_M_] Sorry, Honey. I'm trying to hold a position. And as soon as I'm done, I'll have to hurry and get dressed."
-msgstr ""
+msgstr "[_M_] Üzgünüm, tatlım. Pozisyonumu korumaya çalışıyorum. Ve işim biter bitmez, acele edip giyinmem gerekecek."
 
 # game/script.rpy:5089 #-#-# translate crowdin momearlymorningweekend_3c8605c6:
 msgid "[_M_] You're just going to have to talk to me later."
-msgstr ""
+msgstr "[_M_] Benimle sonra konuşmak zorunda kalacaksın."
 
 # game/script.rpy:5090 #-#-# translate crowdin momearlymorningweekend_c57ce9d2:
 msgid "[_R_] Alright, talk to you later."
-msgstr ""
+msgstr "[_R_] Tamam, sonra konuşuruz."
 
 # game/script.rpy:5091 #-#-# translate crowdin momearlymorningweekend_732db81d:
 msgid "[_RT_] {i}Mom doing yoga is so damn sexy! I wish there was a way I could see inside her room. Like a hidden camera or something?{/i}"
@@ -6570,7 +6570,7 @@ msgstr "[_RT_] {i}Sadece geceleri açık.{/i}"
 
 # game/script.rpy:8208 #-#-# translate crowdin warehous_studion_6c06a23a:
 msgid "[_RT_] {i}Ok, off to the studio!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}İstikamet stüdyo!{/i}"
 
 # game/script.rpy:8220 #-#-# translate crowdin warehouse_66905161:
 msgid "(Wait! I know you're in a hurry to go see Uncle Bobby, but you really need to go check out the portrait in the lounge.)"
