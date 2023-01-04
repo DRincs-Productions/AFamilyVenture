@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-01-03 08:17\n"
+"PO-Revision-Date: 2023-01-04 06:50\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/script.rpy:320 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -38,7 +38,7 @@ msgstr ""
 
 # game/script.rpy:560 #-#-# translate crowdin skip_6ca9791a:
 msgid "[_RT_] {i}I guess the only way to find out, is to let her do it. I should go and check on her after a few times to make sure she's doing alright though.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Sanırım bunu öğrenmenin tek yolu onun yapmasına izin vermek. Yine de iyi olduğundan emin olmak için birkaç kez gidip onu kontrol etmeliyim.{/i}"
 
 # game/script.rpy:567 #-#-# translate crowdin skip_42b646a0:
 msgid "[_RT_] {i}{b}(HINT){/b} The journey of a thousand miles starts with a single step. Corrupting Mom will be no easy task, but visiting her room in the early mornings might be a good first step.{/i}"
@@ -58,7 +58,7 @@ msgstr ""
 
 # game/script.rpy:811 #-#-# translate crowdin skip_6ca9791a_1:
 msgid "[_RT_] {i}I guess the only way to find out, is to let her do it. I should go and check on her after a few times to make sure she's doing alright though.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Sanırım bunu öğrenmenin tek yolu onun yapmasına izin vermek. Yine de iyi olduğundan emin olmak için birkaç kez gidip onu kontrol etmeliyim.{/i}"
 
 # game/script.rpy:844 #-#-# translate crowdin gamestart_13f9152e:
 msgid "[_M_] [ryan], wake up!"
@@ -3962,11 +3962,11 @@ msgstr ""
 
 # game/script.rpy:5516 #-#-# translate crowdin momangryroom_165bc329:
 msgid "[_R_] Hey Mom, doing some yoga?"
-msgstr ""
+msgstr "[_R_] Anne, yoga mı yapıyorsun?"
 
 # game/script.rpy:5517 #-#-# translate crowdin momangryroom_d0197db8:
 msgid "[_M_] Honey, I really don't want to talk to you right now!"
-msgstr ""
+msgstr "[_M_] Tatlım, şu anda seninle gerçekten konuşmak istemiyorum!"
 
 # game/script.rpy:5523 #-#-# translate crowdin momangryroom_d78d15f1:
 msgid "[_M_] You bought me a gift?"
@@ -4006,7 +4006,7 @@ msgstr ""
 
 # game/script.rpy:5569 #-#-# translate crowdin momangryroom_e26df04f:
 msgid "[_M_] honey, this is completely inappropriate! I'm your mom, not your girlfriend!"
-msgstr ""
+msgstr "[_M_] Tatlım, bu tamamen uygunsuz! Ben senin annenim, kız arkadaşın değil!"
 
 # game/script.rpy:5570 #-#-# translate crowdin momangryroom_567898de:
 msgid "{i}\"Throws them in her trash\"{/i}"
@@ -4014,7 +4014,7 @@ msgstr "{i}\"Onları çöpe atıyor!\"{/i}"
 
 # game/script.rpy:5571 #-#-# translate crowdin momangryroom_b5494025:
 msgid "[_M_] I'm sorry, I just can't keep them."
-msgstr ""
+msgstr "[_M_] Üzgünüm, onları tutamam."
 
 # game/script.rpy:5572 #-#-# translate crowdin momangryroom_d234b8a6:
 msgid "[_M_] Maybe next time try to think of something a little less creepy."
@@ -7890,7 +7890,7 @@ msgstr ""
 
 # game/script.rpy:9362 #-#-# translate crowdin dinnerfirst_6ca9791a:
 msgid "[_RT_] {i}I guess the only way to find out, is to let her do it. I should go and check on her after a few times to make sure she's doing alright though.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Sanırım bunu öğrenmenin tek yolu onun yapmasına izin vermek. Yine de iyi olduğundan emin olmak için birkaç kez gidip onu kontrol etmeliyim.{/i}"
 
 # game/script.rpy:9371 #-#-# translate crowdin dinnerfirst_1aca3ccd:
 msgid "You picked a boring option! What, you didn't want to take any risks?"
