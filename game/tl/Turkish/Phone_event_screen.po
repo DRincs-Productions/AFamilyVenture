@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-12-23 21:03\n"
+"PO-Revision-Date: 2023-01-04 06:50\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/Phone_event_screen.rpy:1071 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -118,11 +118,11 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1160 #-#-# translate crowdin event_info_15_38b0743a:
 msgid "[_RT_] {i}Shelling out one thousand dollars a week is not easy... I wonder how Mom would do if I just let her keep working off the debt at the strip club?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Haftada bin dolar ödemek kolay değil. Annemin striptiz kulübünde çalışarak borcunu kapatmasına izin versem ne yapardı acaba?{/i}"
 
 # game/Phone_event_screen.rpy:1161 #-#-# translate crowdin event_info_15_6ca9791a:
 msgid "[_RT_] {i}I guess the only way to find out, is to let her do it. I should go and check on her after a few times to make sure she's doing alright though.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Sanırım bunu öğrenmenin tek yolu onun yapmasına izin vermek. Yine de iyi olduğundan emin olmak için birkaç kez gidip onu kontrol etmeliyim.{/i}"
 
 # game/Phone_event_screen.rpy:1164 #-#-# translate crowdin event_info_15_5f29faef:
 msgid "[_RT_] {i}When Mom goes to the club, I need to go check on her to see how she's doing.{/i}"
