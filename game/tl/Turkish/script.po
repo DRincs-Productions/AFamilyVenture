@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-01-04 06:50\n"
+"PO-Revision-Date: 2023-01-05 08:57\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/script.rpy:320 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -3978,11 +3978,11 @@ msgstr "[_M_] Teşekkür ederim, çikolataya bayılırım!"
 
 # game/script.rpy:5529 #-#-# translate crowdin momangryroom_5d471fb6:
 msgid "{i}{b}\"Mom's Anger -2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin kızgınlığı -2\"{/b}{/i}"
 
 # game/script.rpy:5536 #-#-# translate crowdin momangryroom_c3545cfe:
 msgid "[_M_] But don't think that I've forgiven you yet. Whether intentional or not, your actions were completely inappropriate."
-msgstr ""
+msgstr "[_M_] Ama seni henüz affettiğimi düşünme. Kasıtlı olsun ya da olmasın, davranışların tamamen uygunsuzdu."
 
 # game/script.rpy:5541 #-#-# translate crowdin momangryroom_64cd07d5:
 msgid "[_M_] Thank you honey! What kind of mom would I be if I didn't forgive you?"
@@ -3998,7 +3998,7 @@ msgstr ""
 
 # game/script.rpy:5556 #-#-# translate crowdin momangryroom_c3545cfe_1:
 msgid "[_M_] But don't think that I've forgiven you yet. Whether intentional or not, your actions were completely inappropriate."
-msgstr ""
+msgstr "[_M_] Ama seni henüz affettiğimi düşünme. Kasıtlı olsun ya da olmasın, davranışların tamamen uygunsuzdu."
 
 # game/script.rpy:5561 #-#-# translate crowdin momangryroom_64cd07d5_1:
 msgid "[_M_] Thank you honey! What kind of mom would I be if I didn't forgive you?"
@@ -4202,7 +4202,7 @@ msgstr "[_RT_] {i}Huh... Mandy ve Lauren henüz kongreden dönmediler. Belki de 
 
 # game/script.rpy:5946 #-#-# translate crowdin laurenatnight_ed872180:
 msgid "[_RT_] {i}Her door's still locked, and after what I just saw, I'm sure it won't be opening again until morning.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Kapısı hâlâ kilitli ve az önce gördüklerimden sonra sabaha kadar açılmayacağından eminim.{/i}"
 
 # game/script.rpy:5998 #-#-# translate crowdin laurenhornybedroom_56c769da:
 msgid "[_RT_] {i}Hmmm.... I wonder why the door is locked?{/i}"
@@ -4298,7 +4298,7 @@ msgstr "[_RT_] {i}Her zamanki gibi kilitli olduğuna eminim.{/i}"
 
 # game/script.rpy:6108 #-#-# translate crowdin sidneyhornybedroom_c94fdb59:
 msgid "[_RT_] {i}Wait.... is that Sidney moaning?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Bekle.... Sidney inliyor mu?{/i}"
 
 # game/script.rpy:6109 #-#-# translate crowdin sidneyhornybedroom_36ea6fd8:
 msgid "[_RT_] {i}I should check it out.{/i}"
@@ -4406,11 +4406,11 @@ msgstr "[_L_] Belki bir dahaki sefere daha az korkunç bir şey düşünmeye ça
 
 # game/script.rpy:6234 #-#-# translate crowdin laurenangryroom_d49f35e4:
 msgid "{i}{b}\"Lauren's Affection -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in saygısı -1\"{/b}{/i}"
 
 # game/script.rpy:6235 #-#-# translate crowdin laurenangryroom_120bd643:
 msgid "{i}{b}\"Lauren's Anger +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in kızgınlığı +2\"{/b}{/i}"
 
 # game/script.rpy:6236 #-#-# translate crowdin laurenangryroom_d1f9acd3:
 msgid "{i}\"You need higher affection to gift flowers.\"{/i}"
@@ -4450,7 +4450,7 @@ msgstr "[_L_] Aman Tanrım! Beni bunun için ayağa kaldırdın."
 
 # game/script.rpy:6260 #-#-# translate crowdin laurenangryroom_9484f841:
 msgid "{i}{b}\"Lauren's Anger +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in kızgınlığı +1\"{/b}{/i}"
 
 # game/script.rpy:6267 #-#-# translate crowdin laurenangryroom_8c9e2af5:
 msgid "[_L_] You already gave me a gift. Stop being creepy!"
@@ -4458,7 +4458,7 @@ msgstr ""
 
 # game/script.rpy:6269 #-#-# translate crowdin laurenangryroom_9484f841_1:
 msgid "{i}{b}\"Lauren's Anger +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in kızgınlığı +1\"{/b}{/i}"
 
 # game/script.rpy:6275 #-#-# translate crowdin laurenangryroom_b03b3469:
 msgid "[_L_] Well, it's going to take more than just words for me to forgive you for what you did!"
