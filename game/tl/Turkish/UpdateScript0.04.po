@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-01-05 08:57\n"
+"PO-Revision-Date: 2023-01-06 04:57\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/UpdateScript0.04.rpy:320 #-#-# translate crowdin get_sidney_modeling_68a39f05:
 msgid "[_RT_] {i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
@@ -178,11 +178,11 @@ msgstr "[_RT_] {i}daha baskın olup anneme söyleyerek ona şantaj yapabilirim.{
 
 # game/UpdateScript0.04.rpy:406 #-#-# translate crowdin get_sidney_modeling_6e39b793:
 msgid "[_R_] I mean.... you've been taking advantage of me without my consent."
-msgstr ""
+msgstr "[_R_] Yani.... rızam olmadan benden faydalanıyordun."
 
 # game/UpdateScript0.04.rpy:407 #-#-# translate crowdin get_sidney_modeling_b53c0c65:
 msgid "[_S_] No.... I mean.... I didn't mean to..."
-msgstr ""
+msgstr "[_S_] Hayır.... Yani.... Öyle demek istemedim..."
 
 # game/UpdateScript0.04.rpy:408 #-#-# translate crowdin get_sidney_modeling_257aded6:
 msgid "[_R_] I mean how do we ever go back to the way things were?..."
