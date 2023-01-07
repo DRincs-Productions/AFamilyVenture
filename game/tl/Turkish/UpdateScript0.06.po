@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-01-06 07:32\n"
+"PO-Revision-Date: 2023-01-07 07:09\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/UpdateScript0.06.rpy:715 #-#-# translate crowdin move_in_day_31871088:
 msgid "[_RT_] {i}I... think I slept in... What time is it?{/i}"
@@ -18830,11 +18830,11 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:11121 #-#-# translate crowdin ph_shoot_5758b8cd:
 msgid "You will still be able to increase Mom's stats and progress through this scene,"
-msgstr ""
+msgstr "Yine de annenin istatistiklerini artırabilecek ve bu sahnede ilerleyebileceksiniz,"
 
 # game/UpdateScript0.06.rpy:11122 #-#-# translate crowdin ph_shoot_d2e00a31:
 msgid "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
-msgstr ""
+msgstr "Ancak bu etkinliğin her hafta yalnızca ilk oynanışı Cosplay Heaven web sitesi için beğeni toplayacaktır."
 
 # game/UpdateScript0.06.rpy:11129 #-#-# translate crowdin ph_shoot_d382fedc:
 msgid "[_RT_] {i}Damnit! She won't even pick up!{/i}"
