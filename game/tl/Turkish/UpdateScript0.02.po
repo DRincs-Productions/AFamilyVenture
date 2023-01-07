@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-01-06 07:32\n"
+"PO-Revision-Date: 2023-01-07 07:09\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/UpdateScript0.02.rpy:10 #-#-# translate crowdin cosplaywakeme_8a3aa425:
 msgid "[_L_] See, it's like this almost every morning."
@@ -1698,7 +1698,7 @@ msgstr "[_S_] Haha.... Yüzünden beğendiğini anlayabiliyorum."
 
 # game/UpdateScript0.02.rpy:921 #-#-# translate crowdin kitchencosplayfitting_415a8b5b:
 msgid "[_S_] And it's a good thing too. I've worked my ass off to get it ready for this convention."
-msgstr "[_S_] Ve bu iyi bir şey. Onu bu kongreye hazırlamak için kıçımı yırttım."
+msgstr "[_S_] Ve bu iyi bir şey. Onu bu etkinliğe hazırlamak için kıçımı yırttım."
 
 # game/UpdateScript0.02.rpy:922 #-#-# translate crowdin kitchencosplayfitting_1253ab35:
 msgid "[_L_] I know.... thank you so much.... but we really need to get going. We've already missed a ton of it!"
@@ -1790,7 +1790,7 @@ msgstr "[_MD_] Haha, üzgünüm ama zamanımız yok."
 
 # game/UpdateScript0.02.rpy:958 #-#-# translate crowdin kitchencosplayfitting_65c4a541:
 msgid "[_L_] Yeah, let's go cuz, we've already missed a lot of the convention."
-msgstr "[_L_] Evet, gidelim çünkü zaten kongrenin çoğunu kaçırdık."
+msgstr "[_L_] Evet, gidelim çünkü zaten etkinliğin çoğunu kaçırdık."
 
 # game/UpdateScript0.02.rpy:959 #-#-# translate crowdin kitchencosplayfitting_a67d5b8a:
 msgid "[_MD_] You're right, we have to leave this second."
@@ -6254,7 +6254,7 @@ msgstr "Şimdi arkanı fotoğraf çekmek istediklerinde nasıl poz vereceğini g
 
 # game/UpdateScript0.02.rpy:929
 msgid "Have a good time at the convention!"
-msgstr "Kongrede iyi eğlenceler!"
+msgstr "Etkinlikte iyi eğlenceler!"
 
 # game/UpdateScript0.02.rpy:985
 msgid "Set up new spy-cam."
