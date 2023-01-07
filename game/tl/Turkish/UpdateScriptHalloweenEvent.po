@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-01-04 06:50\n"
+"PO-Revision-Date: 2023-01-07 07:09\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/UpdateScriptHalloweenEvent.rpy:256 #-#-# translate crowdin halloween_event_start_36b1bdbb:
 msgid "{i}{b}(HINT){/b} Happy Halloween!{/i}"
@@ -642,7 +642,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:746 #-#-# translate crowdin sidney_loyalty_path_2a63eca5:
 msgid "[_RT_] {i}Oh, thank God!{i}"
-msgstr ""
+msgstr "[_RT_] {i}Oh, Tanrıya şükür!{i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:747 #-#-# translate crowdin sidney_loyalty_path_83d209e9:
 msgid "[_RT_] {i}I'd better lock it out in case it tries to come back.{/i}"
