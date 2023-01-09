@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-01-05 08:57\n"
+"PO-Revision-Date: 2023-01-09 06:54\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/script.rpy:320 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -4062,7 +4062,7 @@ msgstr ""
 
 # game/script.rpy:5598 #-#-# translate crowdin momangryroom_4a9051d7:
 msgid "[_M_] Honey, I'm trying to get ready. Don't bother me anymore!"
-msgstr ""
+msgstr "[_M_] Tatlım, hazırlanmaya çalışıyorum. Beni daha fazla rahatsız etme!"
 
 # game/script.rpy:5599 #-#-# translate crowdin momangryroom_dcdec28a:
 msgid "{i}{b}\"Mom's Anger +1\"{/b}{/i}"
