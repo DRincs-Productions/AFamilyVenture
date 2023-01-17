@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-01-17 09:05\n"
+"PO-Revision-Date: 2023-01-17 19:51\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/UpdateScript0.04.rpy:320 #-#-# translate crowdin get_sidney_modeling_68a39f05:
 msgid "[_RT_] {i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
@@ -686,15 +686,15 @@ msgstr "[_RT_] {i}Uuuuugghhh, sabahın bu saatinde kim bana mesaj atıyor?{/i}"
 
 # game/UpdateScript0.04.rpy:662 #-#-# translate crowdin bobbytext_ef91713a:
 msgid "[_B_] U awake?"
-msgstr ""
+msgstr "[_B_] Uyanık mısın?"
 
 # game/UpdateScript0.04.rpy:663 #-#-# translate crowdin bobbytext_45536a8f:
 msgid "[_RT_] {i}Uuuhhhh.... it's from Uncle Bobby.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Uuuhhhh.... Bobby Amca'dan.{/i}"
 
 # game/UpdateScript0.04.rpy:664 #-#-# translate crowdin bobbytext_e493fa16:
 msgid "[_RT_] {i}Why is he texting me so early in the morning?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Neden sabahın köründe bana mesaj atıyor?{/i}"
 
 # game/UpdateScript0.04.rpy:667 #-#-# translate crowdin bobbytext_31fbae41:
 msgid "[_R_] I.... am.... now."
@@ -702,19 +702,19 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:670 #-#-# translate crowdin bobbytext_56dc8bf9:
 msgid "[_B_] Meet me at the warehouse ASAP!! Don't ask questions."
-msgstr ""
+msgstr "[_B_] En kısa zamanda depoda buluşalım!! Soru sorma."
 
 # game/UpdateScript0.04.rpy:671 #-#-# translate crowdin bobbytext_9800dbcb:
 msgid "[_RT_] {i}Don't ask questions!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Soru sorma!{/i}"
 
 # game/UpdateScript0.04.rpy:672 #-#-# translate crowdin bobbytext_558092c9:
 msgid "[_RT_] {i}Well, that's hard to resist after a cryptic message like that.... {/i}"
-msgstr ""
+msgstr "[_RT_] {i}Böyle şifreli bir mesajdan sonra buna karşı koymak zor.... {/i}"
 
 # game/UpdateScript0.04.rpy:673 #-#-# translate crowdin bobbytext_f8c8ec3e:
 msgid "[_RT_] {i}Oh, well.... I better get over there as soon as I can.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Oh, iyi.... En kısa zamanda oraya gitsem iyi olacak.{/i}"
 
 # game/UpdateScript0.04.rpy:684 #-#-# translate crowdin awkward_sidney_9988e76a:
 msgid "[_RT_] {i}Actually, I think I'll just leave her alone until I can get her to be more comfortable with me in a sexual way.{/i}"
