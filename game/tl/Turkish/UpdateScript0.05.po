@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-01-17 18:18\n"
+"PO-Revision-Date: 2023-01-17 19:51\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/UpdateScript0.05.rpy:476 #-#-# translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -658,11 +658,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:840 #-#-# translate crowdin sidney_morning_jog_5bf3f68a:
 msgid "[_R_] You bet I am. Let me run and change my clothes and I'll meet you outside."
-msgstr ""
+msgstr "[_R_] Gidip üstümü değiştireyim, seninle dışarıda buluşuruz."
 
 # game/UpdateScript0.05.rpy:843 #-#-# translate crowdin sidney_morning_jog_10bf2f50:
 msgid "[_R_] Sorry Sid, I'm just not feeling it today."
-msgstr ""
+msgstr "[_R_] Üzgünüm Sid, bugün iyi hissetmiyorum."
 
 # game/UpdateScript0.05.rpy:844 #-#-# translate crowdin sidney_morning_jog_cad1873f:
 msgid "[_S_] That's ok. Ever since Mr. Peterson got put back into his nursing home, I don't feel afraid to go running there all alone."
@@ -670,7 +670,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:845 #-#-# translate crowdin sidney_morning_jog_0c80c60a:
 msgid "[_S_] But hopefully you'll be up for it next time."
-msgstr ""
+msgstr "[_S_] Ama umarım bir dahaki sefere hazır olursun."
 
 # game/UpdateScript0.05.rpy:846 #-#-# translate crowdin sidney_morning_jog_2314d5e2:
 msgid "[_S_] It's nice to not have to run alone."
@@ -678,11 +678,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:852 #-#-# translate crowdin sidney_morning_jog_aed139c8:
 msgid "[_RT_] {i}Sidney's about ready to go running.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Sidney koşuya hazır.{/i}"
 
 # game/UpdateScript0.05.rpy:853 #-#-# translate crowdin sidney_morning_jog_60878d09:
 msgid "[_RT_] {i}I wonder if she needs my protection in the park today.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Acaba bugün parkta onu korumama ihtiyacı var mı?{/i}"
 
 # game/UpdateScript0.05.rpy:856 #-#-# translate crowdin sidney_morning_jog_0ac6f7d1:
 msgid "[_R_] Hey Sid, you look like you're about ready to go jogging."
@@ -690,39 +690,39 @@ msgstr "[_R_] Hey Sid, koşuya çıkmaya hazır gibi görünüyorsun."
 
 # game/UpdateScript0.05.rpy:857 #-#-# translate crowdin sidney_morning_jog_079f582d:
 msgid "[_S_] Yes, your skills of observation are unmatched."
-msgstr ""
+msgstr "[_S_] Evet, gözlem yeteneklerin eşsiz."
 
 # game/UpdateScript0.05.rpy:858 #-#-# translate crowdin sidney_morning_jog_8b278dc4:
 msgid "[_R_] Man, you're funny!"
-msgstr ""
+msgstr "[_R_] Adamım çok komiksin!"
 
 # game/UpdateScript0.05.rpy:861 #-#-# translate crowdin sidney_morning_jog_28e93c51:
 msgid "[_S_] Haha.... I know it."
-msgstr ""
+msgstr "[_S_] Haha.... biliyorum."
 
 # game/UpdateScript0.05.rpy:862 #-#-# translate crowdin sidney_morning_jog_0a4e9596:
 msgid "[_S_] So, are you going to come and keep me safe at the park today?"
-msgstr ""
+msgstr "[_S_] Bugün parka gelip beni güvende tutacak mısın?"
 
 # game/UpdateScript0.05.rpy:865 #-#-# translate crowdin sidney_morning_jog_5bf3f68a_1:
 msgid "[_R_] You bet I am. Let me run and change my clothes and I'll meet you outside."
-msgstr ""
+msgstr "[_R_] Gidip üstümü değiştireyim, seninle dışarıda buluşuruz."
 
 # game/UpdateScript0.05.rpy:868 #-#-# translate crowdin sidney_morning_jog_10bf2f50_1:
 msgid "[_R_] Sorry Sid, I'm just not feeling it today."
-msgstr ""
+msgstr "[_R_] Üzgünüm Sid, bugün iyi hissetmiyorum."
 
 # game/UpdateScript0.05.rpy:869 #-#-# translate crowdin sidney_morning_jog_16acb775:
 msgid "[_S_] That's ok, I'll just head to the indoor track then."
-msgstr ""
+msgstr "[_S_] Sorun değil, kapalı piste giderim o zaman."
 
 # game/UpdateScript0.05.rpy:870 #-#-# translate crowdin sidney_morning_jog_0c80c60a_1:
 msgid "[_S_] But hopefully you'll be up for it next time."
-msgstr ""
+msgstr "[_S_] Ama umarım bir dahaki sefere hazır olursun."
 
 # game/UpdateScript0.05.rpy:871 #-#-# translate crowdin sidney_morning_jog_855b2893:
 msgid "[_S_] I'm starting to enjoy running with you."
-msgstr ""
+msgstr "[_S_] Seninle koşmak hoşuma gitmeye başladı."
 
 # game/UpdateScript0.05.rpy:877 #-#-# translate crowdin sidney_morning_jog_6247429b:
 msgid "[_RT_] {i}Sidney's about ready for another run. I've always been impressed with her ability to stick with things. Even after her experiences in the park.{/i}"
@@ -3762,7 +3762,7 @@ msgstr "[_M_] Olan bu.... değil mi?"
 
 # game/UpdateScript0.05.rpy:2265 #-#-# translate crowdin tv_together_24692ecc:
 msgid "[_R_] Yes Mom.... There was a scene....that was fairly kinky.... So, I decided to.... practice good sexual health?"
-msgstr ""
+msgstr "[_R_] Evet anne.... Bir sahne vardı.... oldukça sapıkça.... Ben de.... iyi bir cinsel sağlık uygulamaya karar verdim."
 
 # game/UpdateScript0.05.rpy:2267 #-#-# translate crowdin tv_together_f5aed8bd:
 msgid "[_R_] Uhhh.... Well.... There was a scene on \"Game of Thots\"."
@@ -9282,11 +9282,11 @@ msgstr "[_R_] Orada görüşürüz. Artık koşamayacak kadar yorgunum."
 
 # game/UpdateScript0.05.rpy:5460 #-#-# translate crowdin park_activities_bee7ba9a:
 msgid "[_R_] We made great time today!"
-msgstr ""
+msgstr "[_R_] Bugün harika zaman geçirdik!"
 
 # game/UpdateScript0.05.rpy:5461 #-#-# translate crowdin park_activities_eb81e889:
 msgid "[_S_] Yeah, we seem to be improving all the time."
-msgstr ""
+msgstr "[_S_] Evet, her zaman daha iyiye gidiyoruz."
 
 # game/UpdateScript0.05.rpy:5464 #-#-# translate crowdin park_activities_ec7d49cc:
 msgid "[_S_] I've got to get this shirt off. I'm dripping in sweat."
