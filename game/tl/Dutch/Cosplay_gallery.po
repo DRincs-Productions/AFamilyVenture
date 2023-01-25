@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2023-01-25 16:51\n"
+"PO-Revision-Date: 2023-01-25 19:27\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/Cosplay_gallery.rpy:1213 #-#-# translate crowdin cosplay_label_c1f386dd:
 msgid "[_RT_] {i}Yes... I have sold another pair of oufits for $[sold] more.{/i}"
@@ -42,7 +42,7 @@ msgstr "Je hebt al je verdiende geld geïnd"
 
 # game/Cosplay_gallery.rpy:1832 #-#-# translate crowdin income_photoshoot_35500616:
 msgid "[_RT_] {i}I must wait until the end of the week to withdraw my funds.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ik moet tot het einde van de week wachten voordat ik mijn geld kan innen.{/i}"
 
 # game/Cosplay_gallery.rpy:1846 #-#-# translate crowdin advertising_label_4491e190:
 msgid "[_RT_] {i}For only 5 bucks I'll get more likes. I should remember to do this daily.{/i}"
@@ -108,15 +108,16 @@ msgstr ""
 
 # game/Cosplay_gallery.rpy:710
 msgid "{color=#000000}{b}outfits{/b}{/color}"
-msgstr ""
+msgstr "{color=#000000}{b}kleding{/b}{/color}"
 
 # game/Cosplay_gallery.rpy:1077
 msgid "{color=#ff0000}{b}Supporters: [var_total_supporters]{/b}{/color}"
-msgstr ""
+msgstr "{color=#ff0000}{b}Supporters: [var_total_supporters]{/b}{/color}"
 
 # game/Cosplay_gallery.rpy:1084
 msgid " {b}{color=#ffffff}Press to receive\n"
 "{size=18} monthly earnings:{/size}\n"
 "{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
-msgstr ""
+msgstr " {b}{color=#ffffff}Druk om je maandelijks inkomen te ontvangen\n"
+"{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
 
