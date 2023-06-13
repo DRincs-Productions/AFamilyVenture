@@ -11,39 +11,39 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-06-13 09:06\n"
+"PO-Revision-Date: 2023-06-13 10:57\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/Patreon_$5_Gallery/D.S.Mod.rpy:2269 #-#-# translate crowdin input_money_9c2e4d68:
 msgid "[_DS_] You added $[addmoney] and now have: $[money]."
-msgstr ""
+msgstr "[_DS_] Pridali ste $[addmoney] a teraz máte: $[money]."
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2307 #-#-# translate crowdin change_names_34819df8:
 msgid "Okay, your new name is: ({color=#0000CC}[ryan]{/color})."
-msgstr ""
+msgstr "Dobre, vaše nové meno je: ({color=#0000CC}[ryan]{/color})."
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2332 #-#-# translate crowdin ds_change_name_mom_2e923a8a:
 msgid "[_DS_] Okay, her new name is: ({color=#0000CC}[mom_name]{/color})."
-msgstr ""
+msgstr "[_DS_] Dobre, jej nové meno je: ({color=#0000CC}[mom_name]{/color})."
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2348 #-#-# translate crowdin ds_change_name_Ryan_602ad794:
 msgid "[_DS_] Okay, your new name is: ({color=#0000CC}[ryan]{/color})."
-msgstr ""
+msgstr "Dobre, vaše nové meno je: ({color=#0000CC}[ryan]{/color})."
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2353 #-#-# translate crowdin ds_mod_info_3abf1dee:
 msgid "[_DS_] This mod(v[mod_version]) was made by {color=#00589E}D.S.-sama{/color} for {color=#E60000}WillTylor{/color} and his game, {color=#34f500}AFamilyVenture_v[game_version]{/color}. Have fun playing the game and let us know if you find any bugs."
-msgstr ""
+msgstr "[_DS_] Tento mód(v[mod_version]) vytvoril {color=#00589E}D.S.-sama{/color} pre {color=#E60000}WillTylor{/color} a hru, {color=#34f500}AFamilyVenture_v[game_version]{/color}. Prajeme vám príjemnú zábavu pri hraní hry a dajte nám vedieť, ak nájdete nejaké chyby."
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2358 #-#-# translate crowdin ds_anger_reset_nfo_47ed8249:
 msgid "[_DS_] You have reset the anger lvl for all girls!"
-msgstr ""
+msgstr "[_DS_] Zresetovali ste úroveň hnevu pre všetky dievčatá!"
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2363 #-#-# translate crowdin ds_libido_2max_nfo_04ab0d4c:
 msgid "[_DS_] You have set the libido lvl to max for all girls!"
-msgstr ""
+msgstr "[_DS_] Nastavili ste level libida na maximum pre všetky dievčatá!"
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2368 #-#-# translate crowdin info_spy_cams_4be81734:
 msgid "[_DS_] To set up the spy cams in the rooms you must first have the 'progress >= 6' (after the event when Sidney comes home) and as an extra condition to set the camera in Lauren's room you must have 'sidneyfingerlaurenprogress > 4' (Sidney must move out of her room)."
-msgstr ""
+msgstr "[_DS_] Ak chcete nastaviť špionážne kamery v izbách, musíte mať najprv \"progress >= 6\" (po udalosti, keď Sidney príde domov) a ako ďalšiu podmienku na nastavenie kamery v Laureninej izbe musíte mať \"sidneyfingerlaurenprogress > 4\" (Sidney sa musí pohnúť zo svojej izby)."
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2441 #-#-# translate crowdin adv_rest_jump_24ddb230:
 msgid "[_RT_] {i}School has ended, I must return home{/i}"
