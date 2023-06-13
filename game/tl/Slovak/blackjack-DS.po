@@ -10,47 +10,47 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-06-13 09:07\n"
+"PO-Revision-Date: 2023-06-13 10:02\n"
 
 # TODO: Translation updated at 2022-12-03 11:46 #|#|# # game/images/interface_images/blackjack/blackjack-DS.rpy:500 #-#-# translate crowdin startGameBJ_ddfcd22e:
 msgid "[_BJ_dealer_] I'll start dealing the cards!{w=2.0}{nw}"
-msgstr ""
+msgstr "[_BJ_dealer_] Začnem rozdávať karty!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:570 #-#-# translate crowdin handCheckLabel_8e5fda21:
 msgid "[_BJ_dealer_] Dealer Bust, you won $[betSum]!{w=2.0}{nw}"
-msgstr ""
+msgstr "[_BJ_dealer_] Krupiér vypadol, vyhral si $[betSum]! {w=2.0 }{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:582 #-#-# translate crowdin handCheckLabel_1a74bd53:
 msgid "[_BJ_dealer_] You bust! You lost $[betSum]!{w=2.0}{nw}"
-msgstr ""
+msgstr "[_BJ_dealer_] Vypadol si! Stratil si $[betSum]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:594 #-#-# translate crowdin handCheckLabel_d1330db7:
 msgid "[_BJ_dealer_] Blackjack! The dealer also has blackjack, but you have insurance! You win $[betSum]!{w=2.0}{nw}"
-msgstr ""
+msgstr "[_BJ_dealer_] Blackjack! Krupiér má tiež blackjack, ale ty máš poistku! Vyhrávaš $[betSum]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:597 #-#-# translate crowdin handCheckLabel_f74531ea:
 msgid "[_BJ_dealer_] Blackjack! The dealer also has blackjack, so it's a push! You get your $[betSum] back!{w=2.0}{nw}"
-msgstr ""
+msgstr "[_BJ_dealer_] Blackjack! Dealer má tiež blackjack, takže je to remíza! Dostaneš späť svoje $[betSum] !{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:609 #-#-# translate crowdin handCheckLabel_3b883a25:
 msgid "[_BJ_dealer_] Blackjack! You won the game and $[betSum]!{w=2.0}{nw}"
-msgstr ""
+msgstr "[_BJ_dealer_] Blackjack! Vyhral si hru a $[betSum]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:620 #-#-# translate crowdin handCheckLabel_4b09cedb:
 msgid "[_BJ_dealer_] Dealer has blackjack, but you have insurance! You make your bets back, $[betSum]!{w=2.0}{nw}"
-msgstr ""
+msgstr "[_BJ_dealer_] Dealer má blackjack, ale ty máš poistku! Svoju stávku dostaneš späť, $[betSum]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:623 #-#-# translate crowdin handCheckLabel_1d95a20c:
 msgid "[_BJ_dealer_] Dealer has blackjack! You lose the game and $[betSum]!{w=2.0}{nw}"
-msgstr ""
+msgstr "[_BJ_dealer_] Dealer má blackjack! Prehrávaš hru a $[betSum]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:634 #-#-# translate crowdin handCheckLabel_b384deae:
 msgid "[_BJ_dealer_] You won the game and $[betSum]!{w=2.0}{nw}"
-msgstr ""
+msgstr "[_BJ_dealer_] Blackjack! Vyhral si hru a $[betSum]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:646 #-#-# translate crowdin handCheckLabel_e4d35a85:
 msgid "[_BJ_dealer_] You lost the game and $[betSum]!{w=2.0}{nw}"
-msgstr ""
+msgstr "[_BJ_dealer_] Prehral si hru a $[betSum]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:658 #-#-# translate crowdin handCheckLabel_901a9a2d:
 msgid "[_BJ_dealer_] The dealer also has [computerScore], so it's a push! You get your $[betSum] back minus $[betIns] for insurance.{w=2.0}{nw}"
