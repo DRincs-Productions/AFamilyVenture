@@ -10,19 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-06-13 12:14\n"
+"PO-Revision-Date: 2023-06-13 13:30\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/Phone_interface.rpy:271 #-#-# translate crowdin mafia_warning_f561667c:
 msgid "[_RT_] {i}I can't waste time right now, the DeCapos will be here any minute.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nemám na to čas. DeCapovci tu budú každú chvíľu.{/i}"
 
 # game/Phone_interface.rpy:276 #-#-# translate crowdin night_warning_48ae09e0:
 msgid "[_RT_] {i}It's night, I should go to sleep.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Je noc, mal by som ísť spať.{/i}"
 
 # game/Phone_interface.rpy:281 #-#-# translate crowdin school_warning_1afbbf5b:
 msgid "[_RT_] {i}Right now I'm at School, I must first go home to advance time.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Práve teraz som v škole, musím ísť najprv domov, aby som si posunul čas.{/i}"
 
 # game/Phone_interface.rpy:286 #-#-# translate crowdin campaign_warning_88e99dc5:
 msgid "[_RT_] {i}I can't waist time. I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
@@ -30,7 +30,7 @@ msgstr "[_RT_] {i}Nemôžem strácať čas. Musím ísť do školy a pozrieť sa
 
 # game/Phone_interface.rpy:291 #-#-# translate crowdin prison_warning_5ae78a21:
 msgid "[_RT_] {i}I can't waist time. I need to get ready to visit Dad in prison.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nemôžem strácať čas. Musím sa pripraviť na návštevu otca vo väzení.{/i}"
 
 # game/Phone_interface.rpy:512 #-#-# translate crowdin memes_time_skip_e011db0e:
 msgid "[_RT_] {i}School has ended, I must return home.{/i}"
