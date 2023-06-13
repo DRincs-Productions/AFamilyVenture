@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-06-13 16:23\n"
+"PO-Revision-Date: 2023-06-13 18:35\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/script.rpy:320 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -90,59 +90,59 @@ msgstr "[_R_] Koľko je hodín?"
 
 # game/script.rpy:865 #-#-# translate crowdin gamestart_e9062642:
 msgid "[_M_] It's only 5:30 AM.... sorry to wake you so early."
-msgstr ""
+msgstr "[_M_] Je len 5:30 ráno.... Prepáč, že ťa budím tak skoro."
 
 # game/script.rpy:866 #-#-# translate crowdin gamestart_6b505fac:
 msgid "[_R_] Uhhh.... Isn't is Saturday?..."
-msgstr ""
+msgstr "[_R_] Uhhhh.... Nie je sobota?..."
 
 # game/script.rpy:867 #-#-# translate crowdin gamestart_2542c765:
 msgid "[_M_] I know honey, but your no account, worthless father is on the phone for you..."
-msgstr ""
+msgstr "[_M_] Ja viem, zlato, ale tvoj bezcenný otec ti telefonuje..."
 
 # game/script.rpy:870 #-#-# translate crowdin gamestart_bbfbe0f1:
 msgid "[_M_] It's pretty important..."
-msgstr ""
+msgstr "[_M_] Je to dosť dôležité..."
 
 # game/script.rpy:871 #-#-# translate crowdin gamestart_c5f760e5:
 msgid "[_M_] He's calling from jail!"
-msgstr ""
+msgstr "[_M_] Volá z väzenia!"
 
 # game/script.rpy:872 #-#-# translate crowdin gamestart_94b40fc4:
 msgid "[_R_] WHAT?!"
-msgstr ""
+msgstr "[_R_] ČO?!"
 
 # game/script.rpy:873 #-#-# translate crowdin gamestart_ccab4082:
 msgid "[_M_] Oh, and honey?"
-msgstr ""
+msgstr "[_M_] A zlato?"
 
 # game/script.rpy:874 #-#-# translate crowdin gamestart_1e2aa3d3:
 msgid "[_R_] .... Yeah?..."
-msgstr ""
+msgstr "[_R_] .... Áno?..."
 
 # game/script.rpy:875 #-#-# translate crowdin gamestart_98431b9a:
 msgid "[_M_] .... Could you maybe wear more to bed?..."
-msgstr ""
+msgstr "[_M_] .... Mohol by si do postele nosiť viac oblečenia?..."
 
 # game/script.rpy:876 #-#-# translate crowdin gamestart_1205034a:
 msgid "[_M_] Or at least cover yourself while I'm in here..."
-msgstr ""
+msgstr "[_M_] Alebo sa aspoň zakry, kým som tu..."
 
 # game/script.rpy:879 #-#-# translate crowdin gamestart_c96ea14a:
 msgid "[_M_] I know it's just morning wood..."
-msgstr ""
+msgstr "[_M_] Viem, že je to len ranná ere..."
 
 # game/script.rpy:880 #-#-# translate crowdin gamestart_b068f8f2:
 msgid "[_M_] But what if one of your sisters walked in on you like this?"
-msgstr ""
+msgstr "[_M_] Ale čo keby ťa takto zastihla jedna zo sestier?"
 
 # game/script.rpy:881 #-#-# translate crowdin gamestart_6d94f86d:
 msgid "[_R_] I'd tell them to get the fuck out of my room!"
-msgstr ""
+msgstr "[_R_] Povedal by som im, aby vypadli z mojej izby!"
 
 # game/script.rpy:884 #-#-# translate crowdin gamestart_882cacf9:
 msgid "[_M_] Language please!"
-msgstr ""
+msgstr "[_M_] Jazyk, prosím!"
 
 # game/script.rpy:885 #-#-# translate crowdin gamestart_3a2c90f7:
 msgid "[_R_] Sorry!"
@@ -150,59 +150,59 @@ msgstr ""
 
 # game/script.rpy:886 #-#-# translate crowdin gamestart_9eabc2a7:
 msgid "[_M_] Here.... talk to Dad!"
-msgstr ""
+msgstr "[_M_] Tu.... sa porozprávaj s otcom!"
 
 # game/script.rpy:898 #-#-# translate crowdin peek_6154c2f9:
 msgid "[_RT_] {i}Why is she telling me to cover up?.... {/i}"
-msgstr ""
+msgstr "[_RT_] {i}Prečo mi hovorí, aby som sa zakryl?.... {/i}"
 
 # game/script.rpy:899 #-#-# translate crowdin peek_d37f126e:
 msgid "[_RT_] {i}Mom's boobs are practically bursting out of her robe.... {/i}"
-msgstr ""
+msgstr "[_RT_] {i}Mamine prsia prakticky vytŕčajú zo županu.... {/i}"
 
 # game/script.rpy:900 #-#-# translate crowdin peek_def1be11:
 msgid "[_RT_] {i}Good thing I don't think of her like that.... {/i}"
-msgstr ""
+msgstr "[_RT_] {i}Dobre, že o nej takto neuvažujem.... {/i}"
 
 # game/script.rpy:901 #-#-# translate crowdin peek_5d9672a4:
 msgid "[_RT_] {i}.... hmmm.... {/i}"
-msgstr ""
+msgstr "[_RT_] {i}.... hmmm.... {/i}"
 
 # game/script.rpy:902 #-#-# translate crowdin peek_3341b692:
 msgid "[_RT_] {i}.... aAAHH! Get out of my head Satan!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}.... aAAHH! Vypadni z mojej hlavy, Satan! {/i}"
 
 # game/script.rpy:904 #-#-# translate crowdin peek_5a1372bb:
 msgid "[_MT_] {i}Did my boy just look down my robe?.... {/i}"
-msgstr ""
+msgstr "[_MT_] {i}Pozrel sa môj chlapec do môjho županu?.... {/i}"
 
 # game/script.rpy:905 #-#-# translate crowdin peek_7c440bee:
 msgid "[_MT_] {i}Here I am lecturing him to cover up himself while my tits are halfway out.... {/i}"
-msgstr ""
+msgstr "[_MT_] {i}Tu ho poučujem, aby sa zakryl, zatiaľ čo moje prsia sú na pol ceste von.... {/i}"
 
 # game/script.rpy:906 #-#-# translate crowdin peek_bc09f959:
 msgid "[_MT_] {i}.... hmmm.... {p}I wonder if he'd have gotten hard if he wasn't already?.... {/i}"
-msgstr ""
+msgstr "[_MT_] {i}.... hmmm.... {p}Zaujímalo by ma, či by sa mu postavil, keby už nebol?.... {/i}"
 
 # game/script.rpy:908 #-#-# translate crowdin peek_56be8171:
 msgid "[_MT_] {i}He is pretty well endowed... {/i}{p}{i}He doesn't take after his father... {/i}{p}{i}He must take after my dad... {/i}"
-msgstr ""
+msgstr "[_MT_] {i}Je celkom dobre obdarený... {/i}{p}{i}Nie je po svojom otcovi... {/i}{p}{i}Musí byť po otcovi... {/i}"
 
 # game/script.rpy:910 #-#-# translate crowdin peek_20b13604:
 msgid "[_MT_] {i}.... hmmm.... {/i}"
-msgstr ""
+msgstr "[_MT_] {i}.... hmmm.... {/i}"
 
 # game/script.rpy:912 #-#-# translate crowdin peek_0560b83b:
 msgid "[_MT_] {i}.... AAAHH!{p} Why am I thinking about my dads and sons penises?{p} Get out of my head Satan!.... {/i}"
-msgstr ""
+msgstr "[_MT_] {i}.... AAAHH!{p} Prečo myslím na penisy svojich otcov a synov?{p} Vypadni z mojej hlavy, Satan! .... {/i}"
 
 # game/script.rpy:916 #-#-# translate crowdin peek_47a97a8c:
 msgid "[_M_] Uhhh.... I'm going to go. Bring me my phone to the kitchen when you're done."
-msgstr ""
+msgstr "[_M_] Uhhhh.... Idem na to. Keď skončíš, prines mi môj telefón do kuchyne."
 
 # game/script.rpy:917 #-#-# translate crowdin peek_1d3e080d:
 msgid "[_RT_] {i}SHIT! She saw me staring!{p} That was stupid.... {p} I need to go to church!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}SHIT! Videla ma, ako na ňu pozerám!{p} To bolo hlúpe.... {p} Musím ísť do kostola!{/i}"
 
 # game/script.rpy:918 #-#-# translate crowdin peek_3265e8ee:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
@@ -214,83 +214,83 @@ msgstr ""
 
 # game/script.rpy:928 #-#-# translate crowdin gross_2702cdee:
 msgid "[_M_] Ok, well I'm going to go.{p} Bring my phone to the kitchen when you're done."
-msgstr ""
+msgstr "[_M_] Dobre, tak ja už pôjdem.{p} Keď skončíš, prines môj telefón do kuchyne."
 
 # game/script.rpy:934 #-#-# translate crowdin main_48550dd5:
 msgid "[_R_] Dad! Are you ok? Why are you in jail?!"
-msgstr ""
+msgstr "[_R_] Otec! Si v poriadku? Prečo si vo väzení?!"
 
 # game/script.rpy:935 #-#-# translate crowdin main_e424ec5d:
 msgid "[_D_] Listen to me carefully son, I don't have a lot of time and this is my one phone call."
-msgstr ""
+msgstr "[_D_] Počúvaj ma pozorne, synku, nemám veľa času a toto je môj jediný telefonát."
 
 # game/script.rpy:936 #-#-# translate crowdin main_7d94ec04:
 msgid "[_R_] Shouldn't you have called your lawyer?"
-msgstr ""
+msgstr "[_R_] Nemal si zavolať svojmu právnikovi?"
 
 # game/script.rpy:937 #-#-# translate crowdin main_8c30da8a:
 msgid "[_D_] JUST SHUT UP AND LISTEN!..."
-msgstr ""
+msgstr "[_D_] LEN MLČ A POČÚVAJ!..."
 
 # game/script.rpy:938 #-#-# translate crowdin main_99bf2a41:
 msgid "[_D_] I need you to go to my warehouse this morning. Uncle Bobby is going to be there, and he's going to tell you everything you need to know..."
-msgstr ""
+msgstr "[_D_] Potrebujem, aby si dnes ráno išiel do môjho skladu. Bude tam strýko Bobby a povie ti všetko, čo potrebuješ vedieť..."
 
 # game/script.rpy:939 #-#-# translate crowdin main_8d239059:
 msgid "[_D_] Now I can't stress to you how important it is that you go and see him, and do exactly what he tells you to do..."
-msgstr ""
+msgstr "[_D_] Nemôžem zdôrazniť, aké dôležité je, aby si ho navštívil a urobil presne to, čo povie..."
 
 # game/script.rpy:940 #-#-# translate crowdin main_ca6de268:
 msgid "[_D_] Our family could be in some really bad trouble if you don't take care of this for me."
-msgstr ""
+msgstr "[_D_] Naša rodina by sa mohla dostať do vážnych problémov, ak sa o to nepostaráš."
 
 # game/script.rpy:943 #-#-# translate crowdin main_dd502651:
 msgid "[_R_] Don't worry Dad, I'll go over there as soon as I can."
-msgstr ""
+msgstr "[_R_] Neboj sa, otec, pôjdem tam hneď, ako budem môcť."
 
 # game/script.rpy:944 #-#-# translate crowdin main_c3c55ed3:
 msgid "[_D_] Thank you for this son!"
-msgstr ""
+msgstr "[_D_] Ďakujem za tohto syna!"
 
 # game/script.rpy:945 #-#-# translate crowdin main_1b795747:
 msgid "[_R_] Of course Dad! Are you going to be ok?"
-msgstr ""
+msgstr "[_R_] Samozrejme, otec! Budeš v poriadku?"
 
 # game/script.rpy:946 #-#-# translate crowdin main_29fe1190:
 msgid "[_D_] .... I might have to spend a good while in prison..."
-msgstr ""
+msgstr "[_D_] .... Možno budem musieť stráviť hodnú chvíľu vo väzení..."
 
 # game/script.rpy:947 #-#-# translate crowdin main_00c45d2d:
 msgid "[_D_] I need you to take care of this for me..."
-msgstr ""
+msgstr "[_D_] Potrebujem, aby si sa o to postaral..."
 
 # game/script.rpy:948 #-#-# translate crowdin main_2a4dfaa8:
 msgid "[_D_] You're the man of the house now..."
-msgstr ""
+msgstr "[_D_] Teraz si pánom domu..."
 
 # game/script.rpy:949 #-#-# translate crowdin main_ae51af36:
 msgid "[_D_] I know this is a lot to take in, but you've got to step up..."
-msgstr ""
+msgstr "[_D_] Viem, že je toho veľa, ale musíš sa vzchopiť..."
 
 # game/script.rpy:950 #-#-# translate crowdin main_c6972989:
 msgid "[_D_] Our family's safety and success are now in your hands..."
-msgstr ""
+msgstr "[_D_] Bezpečnosť a úspech našej rodiny sú teraz v tvojich rukách..."
 
 # game/script.rpy:951 #-#-# translate crowdin main_0847adbe:
 msgid "[_D_] So don't fuck it up!"
-msgstr ""
+msgstr "[_D_] Tak to nepokaz!"
 
 # game/script.rpy:952 #-#-# translate crowdin main_5983890b:
 msgid "\"{b}CLICK{/b}\""
-msgstr ""
+msgstr "\"{b}KLIK{/b}\""
 
 # game/script.rpy:966 #-#-# translate crowdin main_322f7fd4:
 msgid "{b}{i}{b}(HINT){/b} Open your phone and click on the \"Progress button\" to see hints to your active events.{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}{b}(NÁVOD){/b} Otvorte telefón a kliknite na tlačidlo \"Pokrok\", aby ste videli nápovedy k aktívnym udalostiam.{/i}{/b}"
 
 # game/script.rpy:967 #-#-# translate crowdin main_f24e9dae:
 msgid "[_RT_] {i}{b}(HINT){/b} I should go to the family portrait first to reminisce.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(HINT){/b} Najprv by som mal ísť k rodinnému portrétu, aby som si zaspomínal.{/i}"
 
 # game/script.rpy:979 #-#-# translate crowdin myroom_2f8227a2:
 msgid "[_L_] [ryan] can you come in to the lounge and help me!"
@@ -522,11 +522,11 @@ msgstr ""
 
 # game/script.rpy:1168 #-#-# translate crowdin myroomnight_9fb415aa:
 msgid "[_RT_] {i}My bed looks lonely without Sidney in it.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Moja posteľ vyzerá bez Sidney osamelo.{/i}"
 
 # game/script.rpy:1169 #-#-# translate crowdin myroomnight_e18f44fe:
 msgid "[_RT_] {i}I hope she's ok at the club tonight.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Dúfam, že je dnes večer v klube v poriadku.{/i}"
 
 # game/script.rpy:1214 #-#-# translate crowdin computer_306f7f3e:
 msgid "[_RT_] {i}WOW! We reached 1000 likes.... {p}And CosplayHeaven just gave us access to a new feature.{/i}"
@@ -1346,11 +1346,11 @@ msgstr ""
 
 # game/script.rpy:3073 #-#-# translate crowdin loungeevening_1336b304:
 msgid "[_L_] Let's watch the next episode of \"Game of Thots\"!"
-msgstr ""
+msgstr "[_L_] Pozrime si ďalšiu epizódu \"Game of Thots\"!"
 
 # game/script.rpy:3082 #-#-# translate crowdin loungeevening_2dc32bcb:
 msgid "[_L_] Does the brother and sister have to fuck each other in every episode?"
-msgstr ""
+msgstr "[_L_] Musia brat a sestra súložiť v každej epizóde?"
 
 # game/script.rpy:3083 #-#-# translate crowdin loungeevening_64e7b164_3:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
@@ -1710,11 +1710,11 @@ msgstr ""
 
 # game/script.rpy:3324 #-#-# translate crowdin loungeeveningweekend_1336b304:
 msgid "[_L_] Let's watch the next episode of \"Game of Thots\"!"
-msgstr ""
+msgstr "[_L_] Pozrime si ďalšiu epizódu \"Game of Thots\"!"
 
 # game/script.rpy:3333 #-#-# translate crowdin loungeeveningweekend_2dc32bcb:
 msgid "[_L_] Does the brother and sister have to fuck each other in every episode?"
-msgstr ""
+msgstr "[_L_] Musia brat a sestra súložiť v každej epizóde?"
 
 # game/script.rpy:3334 #-#-# translate crowdin loungeeveningweekend_64e7b164_3:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
@@ -1726,259 +1726,259 @@ msgstr ""
 
 # game/script.rpy:3383 #-#-# translate crowdin tv_fa55e35f:
 msgid "[_RT_] {i}I'd wake everyone up if I watch TV now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Všetkých by som zobudil, keby som teraz pozeral televíziu.{/i}"
 
 # game/script.rpy:3387 #-#-# translate crowdin tv_8357d763:
 msgid "[_RT_] {i}I don't have time for that now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Teraz na to nemám čas.{/i}"
 
 # game/script.rpy:3405 #-#-# translate crowdin sidney_da504241:
 msgid "[_RT_] {i}I love her face in this picture.... I wonder what it will take to get closer to her!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Milujem jej tvár na tejto fotke.... Som zvedavý, čo bude treba urobiť, aby som sa k nej dostal bližšie!{/i}"
 
 # game/script.rpy:3412 #-#-# translate crowdin sidney_da504241_1:
 msgid "[_RT_] {i}I love her face in this picture.... I wonder what it will take to get closer to her!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Milujem jej tvár na tejto fotke.... Som zvedavý, čo bude treba urobiť, aby som sa k nej dostal bližšie!{/i}"
 
 # game/script.rpy:3419 #-#-# translate crowdin sidney_da504241_2:
 msgid "[_RT_] {i}I love her face in this picture.... I wonder what it will take to get closer to her!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Milujem jej tvár na tejto fotke.... Som zvedavý, čo bude treba urobiť, aby som sa k nej dostal bližšie!{/i}"
 
 # game/script.rpy:3426 #-#-# translate crowdin sidney_da504241_3:
 msgid "[_RT_] {i}I love her face in this picture.... I wonder what it will take to get closer to her!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Milujem jej tvár na tejto fotke.... Som zvedavý, čo bude treba urobiť, aby som sa k nej dostal bližšie!{/i}"
 
 # game/script.rpy:3433 #-#-# translate crowdin sidney_da504241_4:
 msgid "[_RT_] {i}I love her face in this picture.... I wonder what it will take to get closer to her!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Milujem jej tvár na tejto fotke.... Som zvedavý, čo bude treba urobiť, aby som sa k nej dostal bližšie!{/i}"
 
 # game/script.rpy:3440 #-#-# translate crowdin sidney_da504241_5:
 msgid "[_RT_] {i}I love her face in this picture.... I wonder what it will take to get closer to her!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Milujem jej tvár na tejto fotke.... Som zvedavý, čo bude treba urobiť, aby som sa k nej dostal bližšie!{/i}"
 
 # game/script.rpy:3447 #-#-# translate crowdin sidney_da504241_6:
 msgid "[_RT_] {i}I love her face in this picture.... I wonder what it will take to get closer to her!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Milujem jej tvár na tejto fotke.... Som zvedavý, čo bude treba urobiť, aby som sa k nej dostal bližšie!{/i}"
 
 # game/script.rpy:3454 #-#-# translate crowdin sidney_da504241_7:
 msgid "[_RT_] {i}I love her face in this picture.... I wonder what it will take to get closer to her!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Milujem jej tvár na tejto fotke.... Som zvedavý, čo bude treba urobiť, aby som sa k nej dostal bližšie!{/i}"
 
 # game/script.rpy:3461 #-#-# translate crowdin sidney_da504241_8:
 msgid "[_RT_] {i}I love her face in this picture.... I wonder what it will take to get closer to her!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Milujem jej tvár na tejto fotke.... Som zvedavý, čo bude treba urobiť, aby som sa k nej dostal bližšie!{/i}"
 
 # game/script.rpy:3468 #-#-# translate crowdin sidney_da504241_9:
 msgid "[_RT_] {i}I love her face in this picture.... I wonder what it will take to get closer to her!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Milujem jej tvár na tejto fotke.... Som zvedavý, čo bude treba urobiť, aby som sa k nej dostal bližšie!{/i}"
 
 # game/script.rpy:3475 #-#-# translate crowdin sidney_a055841c:
 msgid "[_RT_] {i}This is my older sister Sidney,{p}She moved out of the house last year.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Toto je moja staršia sestra Sidney,{p}Minulý rok sa odsťahovala z domu.{/i}"
 
 # game/script.rpy:3476 #-#-# translate crowdin sidney_00238e50:
 msgid "[_RT_] {i}She still lives here in the city,{p}but she wanted to be on her own while she attends college.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Stále žije tu v meste,{p}, ale chcela byť sama, kým bude chodiť na vysokú školu.{/i}"
 
 # game/script.rpy:3477 #-#-# translate crowdin sidney_797a5f64:
 msgid "[_RT_] {i}She attends the Fine Arts Academy,{p}she's majoring in fashion design.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Navštevuje Akadémiu výtvarných umení,{p}študuje odevný dizajn.{/i}"
 
 # game/script.rpy:3478 #-#-# translate crowdin sidney_b478996b:
 msgid "[_RT_] {i}Dad pays for everything.{p}We hardly ever see her anymore.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Všetko platí otec.{p}Už sa s ňou takmer nevídame.{/i}"
 
 # game/script.rpy:3488 #-#-# translate crowdin ryan_365a4330:
 msgid "[_RT_] {i}Why do I always have a goofy smile in family pictures?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Prečo sa na rodinných fotografiách vždy hlúpo usmievam?{/i}"
 
 # game/script.rpy:3495 #-#-# translate crowdin ryan_29040170:
 msgid "[_RT_] {i}Well, that's me,{p} Mom says I'm handsome,{p} though I've never really had any luck with the ladies.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}No, to som ja,{p} Mama hovorí, že som pekný,{p} hoci som nikdy nemal šťastie na ženy.{/i}"
 
 # game/script.rpy:3496 #-#-# translate crowdin ryan_1f1088f1:
 msgid "[_RT_] {i}I got mono last year,{p} as in \"mononucleosis.\"{p} I had to miss a ton of school.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Minulý rok som dostal,{p}\"mononukleózu\".{p} Musel som vynechať kopu hodín v škole.{/i}"
 
 # game/script.rpy:3497 #-#-# translate crowdin ryan_cd8c70ad:
 msgid "[_RT_] {i}I have to make up some of my credits again this year before they will give me my diploma.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Tento rok si musím opäť doplniť niektoré kredity, kým mi vydajú diplom.{/i}"
 
 # game/script.rpy:3498 #-#-# translate crowdin ryan_d936bb08:
 msgid "[_RT_] {i}Lucky for me, my mom's my teacher this year, and she goes pretty easy on me,{p} she understands my situation.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Našťastie ma tento rok učí moja mama a tá je na mňa celkom mierna,{p} chápe moju situáciu.{/i}"
 
 # game/script.rpy:3499 #-#-# translate crowdin ryan_59e0e367:
 msgid "[_RT_] {i}My idiot dad has been trying to get me to drop out of school and join him in the family business.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Môj idiotský otec sa ma snaží presvedčiť, aby som sa vykašľal na školu a pridal sa k nemu v rodinnom podniku.{/i}"
 
 # game/script.rpy:3500 #-#-# translate crowdin ryan_4217256c:
 msgid "[_RT_] {i}But I have no interest in shipping things around the country,{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ale nemám záujem posielať veci po celej krajine, {/i}"
 
 # game/script.rpy:3501 #-#-# translate crowdin ryan_a4f7b153:
 msgid "[_RT_] {i}I want to make money by broadcasting me playing video games, or maybe more realistically, a photographer or something along those lines.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Chcel by som zarábať peniaze tým, že budem vysielať hranie videohier, alebo možno reálnejšie, že budem fotografom alebo niečo podobné.{/i}"
 
 # game/script.rpy:3511 #-#-# translate crowdin lauren_2fbf5ae4:
 msgid "[_RT_] {i}I miss how close we used to be.... I wonder how we can get closer.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Chýba mi, ako sme si boli blízki.... Zaujímalo by ma, ako sa môžeme zblížiť.{/i}"
 
 # game/script.rpy:3518 #-#-# translate crowdin lauren_2fbf5ae4_1:
 msgid "[_RT_] {i}I miss how close we used to be.... I wonder how we can get closer.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Chýba mi, ako sme si boli blízki.... Zaujímalo by ma, ako sa môžeme zblížiť.{/i}"
 
 # game/script.rpy:3525 #-#-# translate crowdin lauren_2fbf5ae4_2:
 msgid "[_RT_] {i}I miss how close we used to be.... I wonder how we can get closer.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Chýba mi, ako sme si boli blízki.... Zaujímalo by ma, ako sa môžeme zblížiť.{/i}"
 
 # game/script.rpy:3532 #-#-# translate crowdin lauren_2fbf5ae4_3:
 msgid "[_RT_] {i}I miss how close we used to be.... I wonder how we can get closer.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Chýba mi, ako sme si boli blízki.... Zaujímalo by ma, ako sa môžeme zblížiť.{/i}"
 
 # game/script.rpy:3539 #-#-# translate crowdin lauren_2fbf5ae4_4:
 msgid "[_RT_] {i}I miss how close we used to be.... I wonder how we can get closer.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Chýba mi, ako sme si boli blízki.... Zaujímalo by ma, ako sa môžeme zblížiť.{/i}"
 
 # game/script.rpy:3546 #-#-# translate crowdin lauren_2fbf5ae4_5:
 msgid "[_RT_] {i}I miss how close we used to be.... I wonder how we can get closer.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Chýba mi, ako sme si boli blízki.... Zaujímalo by ma, ako sa môžeme zblížiť.{/i}"
 
 # game/script.rpy:3553 #-#-# translate crowdin lauren_2fbf5ae4_6:
 msgid "[_RT_] {i}I miss how close we used to be.... I wonder how we can get closer.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Chýba mi, ako sme si boli blízki.... Zaujímalo by ma, ako sa môžeme zblížiť.{/i}"
 
 # game/script.rpy:3560 #-#-# translate crowdin lauren_2fbf5ae4_7:
 msgid "[_RT_] {i}I miss how close we used to be.... I wonder how we can get closer.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Chýba mi, ako sme si boli blízki.... Zaujímalo by ma, ako sa môžeme zblížiť.{/i}"
 
 # game/script.rpy:3567 #-#-# translate crowdin lauren_2fbf5ae4_8:
 msgid "[_RT_] {i}I miss how close we used to be.... I wonder how we can get closer.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Chýba mi, ako sme si boli blízki.... Zaujímalo by ma, ako sa môžeme zblížiť.{/i}"
 
 # game/script.rpy:3574 #-#-# translate crowdin lauren_2fbf5ae4_9:
 msgid "[_RT_] {i}I miss how close we used to be.... I wonder how we can get closer.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Chýba mi, ako sme si boli blízki.... Zaujímalo by ma, ako sa môžeme zblížiť.{/i}"
 
 # game/script.rpy:3581 #-#-# translate crowdin lauren_2fbf5ae4_10:
 msgid "[_RT_] {i}I miss how close we used to be.... I wonder how we can get closer.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Chýba mi, ako sme si boli blízki.... Zaujímalo by ma, ako sa môžeme zblížiť.{/i}"
 
 # game/script.rpy:3588 #-#-# translate crowdin lauren_2fbf5ae4_11:
 msgid "[_RT_] {i}I miss how close we used to be.... I wonder how we can get closer.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Chýba mi, ako sme si boli blízki.... Zaujímalo by ma, ako sa môžeme zblížiť.{/i}"
 
 # game/script.rpy:3595 #-#-# translate crowdin lauren_2fbf5ae4_12:
 msgid "[_RT_] {i}I miss how close we used to be.... I wonder how we can get closer.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Chýba mi, ako sme si boli blízki.... Zaujímalo by ma, ako sa môžeme zblížiť.{/i}"
 
 # game/script.rpy:3602 #-#-# translate crowdin lauren_2fbf5ae4_13:
 msgid "[_RT_] {i}I miss how close we used to be.... I wonder how we can get closer.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Chýba mi, ako sme si boli blízki.... Zaujímalo by ma, ako sa môžeme zblížiť.{/i}"
 
 # game/script.rpy:3609 #-#-# translate crowdin lauren_bb8e4fd0:
 msgid "[_RT_] {i}This is my little sister Lauren,{p} We were super close through most of our childhood,{p} but now her best friend is her phone.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Toto je moja mladšia sestra Lauren,{p} väčšinu detstva sme si boli veľmi blízky,{p} ale teraz je jej najlepším priateľom jej telefón.{/i}"
 
 # game/script.rpy:3610 #-#-# translate crowdin lauren_3deac175:
 msgid "[_RT_] {i}My mom just recently allowed her onto social media,{p} and now the floodgates have opened.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Moja mama ju len nedávno pustila na sociálne siete,{p} a teraz sa jej otvorili brány.{/i}"
 
 # game/script.rpy:3611 #-#-# translate crowdin lauren_c550ba96:
 msgid "[_RT_] {i}I really miss spending more time with her.{p} Lucky for me, she is in my class, although, I'm not sure if she's noticed.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Veľmi mi chýba viac času stráveného s ňou.{p} Našťastie pre mňa chodí do mojej triedy, hoci si nie som istý, či si to všimla.{/i}"
 
 # game/script.rpy:3621 #-#-# translate crowdin dad_8be15e09:
 msgid "[_RT_] {i}What a douche! I can't believe the trouble he's gotten us into.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}To je ale debil! Nemôžem uveriť, do akých problémov nás dostal.{/i}"
 
 # game/script.rpy:3628 #-#-# translate crowdin dad_8be15e09_1:
 msgid "[_RT_] {i}What a douche! I can't believe the trouble he's gotten us into.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}To je ale debil! Nemôžem uveriť, do akých problémov nás dostal.{/i}"
 
 # game/script.rpy:3635 #-#-# translate crowdin dad_1a71cd75:
 msgid "[_RT_] {i}This is my dad, [dad_name], {p}The best way to describe him is \"Larger Than Life.\"{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Toto je môj otec, [dad_name], {p}Najlepšie ho vystihuje výraz \"väčší ako život\" {/i}."
 
 # game/script.rpy:3636 #-#-# translate crowdin dad_688d33e5:
 msgid "[_RT_] {i}He started his own shipping and delivery business, and has been very successful.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Založil si vlastnú prepravnú a doručovaciu firmu a bol veľmi úspešný.{/i}"
 
 # game/script.rpy:3637 #-#-# translate crowdin dad_bb69abff:
 msgid "[_RT_] {i}He runs his family like he does his business. {p}With complete control. {p}He says jump, we all say \"How high?\".{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Svoju rodinu riadi rovnako ako svoju firmu. {p}S úplnou kontrolou. {p}On povie skoč, my všetci sa opýtame: \"Ako vysoko?\".{/i}"
 
 # game/script.rpy:3638 #-#-# translate crowdin dad_47f6649d:
 msgid "[_RT_] {i}He's never been physically abusive, {p}but he's made up for that through mental and emotional abuse.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nikdy nebol fyzicky násilný, {p}ale vynahradil si to psychickým a emocionálnym týraním.{/i}"
 
 # game/script.rpy:3639 #-#-# translate crowdin dad_7d7345d2:
 msgid "[_RT_] {i}If he didn't provide all the money we needed to survive, we would all probably be happier with him in prison.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Keby nám neposkytoval všetky peniaze, ktoré sme potrebovali na prežitie, asi by sme boli všetci šťastnejší, keby bol vo väzení.{/i}"
 
 # game/script.rpy:3649 #-#-# translate crowdin mom_ca45afd3:
 msgid "[_RT_] {i}She's still pretty hot for a mom. It would be fun to see more of her wild side.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Na mamu je stále dosť sexi. Bolo by zábavné vidieť viac z jej divokej stránky.{/i}"
 
 # game/script.rpy:3656 #-#-# translate crowdin mom_ca45afd3_1:
 msgid "[_RT_] {i}She's still pretty hot for a mom. It would be fun to see more of her wild side.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Na mamu je stále dosť sexi. Bolo by zábavné vidieť viac z jej divokej stránky.{/i}"
 
 # game/script.rpy:3663 #-#-# translate crowdin mom_ca45afd3_2:
 msgid "[_RT_] {i}She's still pretty hot for a mom. It would be fun to see more of her wild side.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Na mamu je stále dosť sexi. Bolo by zábavné vidieť viac z jej divokej stránky.{/i}"
 
 # game/script.rpy:3670 #-#-# translate crowdin mom_ca45afd3_3:
 msgid "[_RT_] {i}She's still pretty hot for a mom. It would be fun to see more of her wild side.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Na mamu je stále dosť sexi. Bolo by zábavné vidieť viac z jej divokej stránky.{/i}"
 
 # game/script.rpy:3677 #-#-# translate crowdin mom_ca45afd3_4:
 msgid "[_RT_] {i}She's still pretty hot for a mom. It would be fun to see more of her wild side.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Na mamu je stále dosť sexi. Bolo by zábavné vidieť viac z jej divokej stránky.{/i}"
 
 # game/script.rpy:3684 #-#-# translate crowdin mom_c3a27147:
 msgid "[_RT_] {i}This is my mom Jackelyn, she goes by [mom_name] but we call her Mom.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Toto je moja mama Jackelyn, volá sa [mom_name] , ale my jej hovoríme mama.{/i}"
 
 # game/script.rpy:3685 #-#-# translate crowdin mom_799da2d1:
 msgid "[_RT_] {i}She's always been a good mother, as far as providing for our physical needs,{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Vždy bola dobrou matkou, čo sa týka zabezpečenia našich fyzických potrieb, {/i}"
 
 # game/script.rpy:3686 #-#-# translate crowdin mom_8950cffb:
 msgid "[_RT_] {i}But she's always focused more attention on the things that kept my dad happy, rather than giving us the attention we needed and wanted.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ale vždy sa viac sústredila na veci, ktoré robili otca šťastným, než aby nám venovala pozornosť, ktorú sme potrebovali a chceli.{/i}"
 
 # game/script.rpy:3687 #-#-# translate crowdin mom_71d99019:
 msgid "[_RT_] {i}I guess she used to be quite the party girl in high school.{p}Now my dad proudly boasts how he tamed her into an obedient wife and mother.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Myslím, že na strednej škole bývala poriadne párty dievča.{p}Teraz sa môj otec hrdo chváli, ako ju skrotil a urobil z nej poslušnú manželku a matku.{/i}"
 
 # game/script.rpy:3688 #-#-# translate crowdin mom_3d1d34c1:
 msgid "[_RT_] {i}She always has plenty of bad things to say about him, {p}but only behind his back. {p}She wouldn't dream of saying anything to his face.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Vždy má o ňom veľa zlých slov, {p}ale len za jeho chrbtom. {p}Ani vo sne by ju nenapadlo povedať mu niečo do očí.{/i}"
 
 # game/script.rpy:3689 #-#-# translate crowdin mom_6c03f557:
 msgid "[_RT_] {i}She started teaching high school about five years ago, {p}I think just to get out of the house and be more social. {p}I think it has made her happier.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Asi pred piatimi rokmi začala učiť na strednej škole, {p}Myslím, že len preto, aby sa dostala z domu a bola viac v spoločnosti. {p}Myslím, že ju to urobilo šťastnejšou.{/i}"
 
 # game/script.rpy:3690 #-#-# translate crowdin mom_b8ff2b73:
 msgid "[_RT_] {i}And now Lauren and I are lucky enough to be in her class.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}A teraz máme s Lauren to šťastie, že sme v jej triede.{/i}"
 
 # game/script.rpy:3732 #-#-# translate crowdin bathearlymorning_d2c5ed98:
 msgid "[_RT_] {i}Lauren's in there again... I should look online to see if there's a way I can spy on her.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Lauren je tam znova... Mal by som sa pozrieť na internet, či ju môžem nejako špehovať.{/i}"
 
 # game/script.rpy:3738 #-#-# translate crowdin bathearlymorning_4ff59082:
 msgid "[_RT_] {i}Lauren is taking her early morning shower, I wonder if there is some way to spy on her.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Lauren si dáva rannú sprchu, zaujímalo by ma, či existuje nejaký spôsob, ako ju špehovať.{/i}"
 
 # game/script.rpy:3744 #-#-# translate crowdin bathearlymorning_996e9c64:
 msgid "[_RT_] {i}{b}(HINT){/b} I should see if I can buy a spy-cam online and place it in the bathroom when no one is around.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(NÁVOD){/b} Mal by som zistiť, či si môžem kúpiť špehovaciu kameru na internete a umiestniť ju do kúpeľne, keď nikto nie je nablízku.{/i}"
 
 # game/script.rpy:3780 #-#-# translate crowdin laurenhornybathroom_5a1e5209:
 msgid "[_RT_] {i}Lauren is taking her early morning shower. Wait.... did I just hear some moaning? Let's just take a quick look.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Lauren si dáva rannú sprchu. Počkať.... počul som práve  nejaké stonanie? Len sa na to rýchlo pozrime.{/i}"
 
 # game/script.rpy:3786 #-#-# translate crowdin laurenhornybathroom_de144e4d:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
@@ -1986,7 +1986,7 @@ msgstr ""
 
 # game/script.rpy:3795 #-#-# translate crowdin laurenhornybathroom_c591abd8:
 msgid "[_RT_] {i}Lauren is taking her early morning shower. Wait.... did I just hear some moaning?, uggh I've got to find a way to see what's going on in there.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Lauren si dáva rannú sprchu. Počkať.... počul som práve nejaké stonanie? Uggh musím nájsť spôsob, ako zistiť, čo sa tam deje.{/i}"
 
 # game/script.rpy:3796 #-#-# translate crowdin laurenhornybathroom_de144e4d_1:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
@@ -1994,31 +1994,31 @@ msgstr ""
 
 # game/script.rpy:3813 #-#-# translate crowdin bathmorning_21325b93:
 msgid "[_RT_] {i}Looks like I caught Sidney taking a shower again. I really wish I could watch.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Zdá sa, že som Sidney opäť pristihol pri sprchovaní. Veľmi by som si prial, aby som sa mohol pozerať.{/i}"
 
 # game/script.rpy:3819 #-#-# translate crowdin bathmorning_debf2726:
 msgid "[_RT_] {i}Sidney must be taking a shower, Mom and Lauren already left for school.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Sidney sa musí sprchovať, mama a Lauren už odišli do školy.{/i}"
 
 # game/script.rpy:3825 #-#-# translate crowdin bathmorning_996e9c64:
 msgid "[_RT_] {i}{b}(HINT){/b} I should see if I can buy a spy-cam online and place it in the bathroom when no one is around.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(NÁVOD){/b} Mal by som zistiť, či si môžem kúpiť špehovaciu kameru na internete a umiestniť ju do kúpeľne, keď nikto nie je nablízku.{/i}"
 
 # game/script.rpy:3850 #-#-# translate crowdin bathmorningweekend_21325b93:
 msgid "[_RT_] {i}Looks like I caught Sidney taking a shower again. I really wish I could watch.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Zdá sa, že som Sidney opäť pristihol pri sprchovaní. Veľmi by som si prial, aby som sa mohol pozerať.{/i}"
 
 # game/script.rpy:3856 #-#-# translate crowdin bathmorningweekend_72e52910:
 msgid "[_RT_] {i}Sidney must be taking a shower.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Sidney sa musí sprchovať.{/i}"
 
 # game/script.rpy:3862 #-#-# translate crowdin bathmorningweekend_996e9c64:
 msgid "[_RT_] {i}{b}(HINT){/b} I should see if I can buy a spy-cam online and place it in the bathroom when no one is around.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(NÁVOD){/b} Mal by som zistiť, či si môžem kúpiť špehovaciu kameru na internete a umiestniť ju do kúpeľne, keď nikto nie je nablízku.{/i}"
 
 # game/script.rpy:3879 #-#-# translate crowdin sidneyhornybathroom_9e1a138c:
 msgid "[_RT_] {i}Sidney must be taking a shower. Wait.... did I just hear some moaning? Let's just take a quick look through the spy-cam.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Sidney sa musí sprchovať. Počkať.... počul som práve nejaké stonanie? Len sa rýchlo pozriem cez špionážnu kameru.{/i}"
 
 # game/script.rpy:3885 #-#-# translate crowdin sidneyhornybathroom_445042f6:
 msgid "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
@@ -2026,7 +2026,7 @@ msgstr ""
 
 # game/script.rpy:3894 #-#-# translate crowdin sidneyhornybathroom_5b757f72:
 msgid "[_RT_] {i}Sidney must be taking a shower. Wait.... did I just hear some moaning?, uggh I've got to find a way to see what's going on in there.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Sidney sa musí sprchovať. Počkať.... počul som práve nejaké stonanie? Uggh musím nájsť spôsob, ako zistiť, čo sa tam deje.{/i}"
 
 # game/script.rpy:3895 #-#-# translate crowdin sidneyhornybathroom_445042f6_1:
 msgid "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
@@ -2034,31 +2034,31 @@ msgstr ""
 
 # game/script.rpy:3927 #-#-# translate crowdin bathafternoonweekend_b4945548:
 msgid "[_RT_] {i}Mom's taking a long shower.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Mama sa dlho sprchuje.{/i}"
 
 # game/script.rpy:3933 #-#-# translate crowdin bathafternoonweekend_46ef923c:
 msgid "[_RT_] {i}I think that's Mom. I'm so glad she finally came out of her room. Sounds like she's taking a shower.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Myslím, že je to mama. Som taká rad, že konečne vyšla zo svojej izby. Znie to, akoby sa sprchovala.{/i}"
 
 # game/script.rpy:3934 #-#-# translate crowdin bathafternoonweekend_7be257ac:
 msgid "[_RT_] {i}If only I could see her. I should check online for some ideas on how I can spy behind locked doors.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Keby som ju tak mohol vidieť. Mal by som sa pozrieť na internet a nájsť nejaké nápady, ako môžem špehovať za zamknutými dverami.{/i}"
 
 # game/script.rpy:3940 #-#-# translate crowdin bathafternoonweekend_996e9c64:
 msgid "[_RT_] {i}{b}(HINT){/b} I should see if I can buy a spy-cam online and place it in the bathroom when no one is around.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(NÁVOD){/b} Mal by som zistiť, či si môžem kúpiť špehovaciu kameru na internete a umiestniť ju do kúpeľne, keď nikto nie je nablízku.{/i}"
 
 # game/script.rpy:3973 #-#-# translate crowdin bathevening_080a64d7:
 msgid "[_RT_] {i}Mom's in the shower again... Wish I could watch her shower.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Mama je opäť v sprche... Kiežby som sa mohol pozerať na jej sprchovanie.{/i}"
 
 # game/script.rpy:3979 #-#-# translate crowdin bathevening_66c1b423:
 msgid "[_RT_] {i}That must be Mom in the shower.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}To musí byť mama v sprche.{/i}"
 
 # game/script.rpy:3985 #-#-# translate crowdin bathevening_996e9c64:
 msgid "[_RT_] {i}{b}(HINT){/b} I should see if I can buy a spy-cam online and place it in the bathroom when no one is around.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(NÁVOD){/b} Mal by som zistiť, či si môžem kúpiť špehovaciu kameru na internete a umiestniť ju do kúpeľne, keď nikto nie je nablízku.{/i}"
 
 # game/script.rpy:3994 #-#-# translate crowdin bathevening_c0f221e9:
 msgid "[_RT_] {i}Mom must be getting ready for bed.{/i}"
@@ -2190,7 +2190,7 @@ msgstr ""
 
 # game/script.rpy:4279 #-#-# translate crowdin kitcheneveningweekend_a709ac89:
 msgid "[_M_] But don't stress too much if you don't have time, I'll take care of it if you're too busy."
-msgstr ""
+msgstr "[_M_] Ale nestresuj sa príliš, ak nemáš čas, postarám sa o to, ak si príliš zaneprázdnený."
 
 # game/script.rpy:4280 #-#-# translate crowdin kitcheneveningweekend_ccd70784:
 msgid "[_R_] Ok, Mom."
@@ -2198,19 +2198,19 @@ msgstr ""
 
 # game/script.rpy:4283 #-#-# translate crowdin kitcheneveningweekend_fd6fd931:
 msgid "[_M_] Can you find yourself something to eat tonight? I just don't have it in me to make dinner."
-msgstr ""
+msgstr "[_M_] Nájdeš si dnes večer niečo na jedenie? Nemám na to čas, aby som pripravila večeru."
 
 # game/script.rpy:4284 #-#-# translate crowdin kitcheneveningweekend_4e5a4cd5:
 msgid "[_R_] Sure, Mom."
-msgstr ""
+msgstr "[_R_] Jasné, mami."
 
 # game/script.rpy:4285 #-#-# translate crowdin kitcheneveningweekend_c4043b20:
 msgid "[_M_] Thanks, honey. I'm going to go to bed early tonight."
-msgstr ""
+msgstr "[_M_] Vďaka, zlato. Dnes pôjdem spať skôr."
 
 # game/script.rpy:4286 #-#-# translate crowdin kitcheneveningweekend_bb8e8edd:
 msgid "[_M_] Good night sweety. See you in the morning."
-msgstr ""
+msgstr "[_M_] Dobrú noc, zlatíčko. Uvidíme sa ráno."
 
 # game/script.rpy:4287 #-#-# translate crowdin kitcheneveningweekend_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
@@ -2218,7 +2218,7 @@ msgstr ""
 
 # game/script.rpy:4289 #-#-# translate crowdin kitcheneveningweekend_95b548c7:
 msgid "[_RT_] {i}Oh Man! I don't think I've ever seen Mom this stressed out. She's trying to put on a strong face, but I can see the worry in her eyes.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Človeče! Myslím, že som ešte nikdy nevidel mamu tak vystresovanú. Snaží sa tváriť silno, ale v očiach jej vidím obavy."
 
 # game/script.rpy:4290 #-#-# translate crowdin kitcheneveningweekend_0af04e20:
 msgid "[_RT_] {i}If I can replace all the things Dad did for her, I think she would be relaxed and happy again.{/i}"
@@ -2346,7 +2346,7 @@ msgstr ""
 
 # game/script.rpy:4332 #-#-# translate crowdin kitcheneveningweekend_a709ac89_1:
 msgid "[_M_] But don't stress too much if you don't have time, I'll take care of it if you're too busy."
-msgstr ""
+msgstr "[_M_] Ale nestresuj sa príliš, ak nemáš čas, postarám sa o to, ak si príliš zaneprázdnený."
 
 # game/script.rpy:4333 #-#-# translate crowdin kitcheneveningweekend_ccd70784_1:
 msgid "[_R_] Ok, Mom."
@@ -2354,23 +2354,23 @@ msgstr ""
 
 # game/script.rpy:4336 #-#-# translate crowdin kitcheneveningweekend_fd6fd931_1:
 msgid "[_M_] Can you find yourself something to eat tonight? I just don't have it in me to make dinner."
-msgstr ""
+msgstr "[_M_] Nájdeš si dnes večer niečo na jedenie? Nemám na to čas, aby som pripravila večeru."
 
 # game/script.rpy:4337 #-#-# translate crowdin kitcheneveningweekend_4e5a4cd5_1:
 msgid "[_R_] Sure, Mom."
-msgstr ""
+msgstr "[_R_] Jasné, mami."
 
 # game/script.rpy:4338 #-#-# translate crowdin kitcheneveningweekend_c4043b20_1:
 msgid "[_M_] Thanks, honey. I'm going to go to bed early tonight."
-msgstr ""
+msgstr "[_M_] Vďaka, zlato. Dnes pôjdem spať skôr."
 
 # game/script.rpy:4339 #-#-# translate crowdin kitcheneveningweekend_bb8e8edd_1:
 msgid "[_M_] Good night sweety. See you in the morning."
-msgstr ""
+msgstr "[_M_] Dobrú noc, zlatíčko. Uvidíme sa ráno."
 
 # game/script.rpy:4340 #-#-# translate crowdin kitcheneveningweekend_95b548c7_1:
 msgid "[_RT_] {i}Oh Man! I don't think I've ever seen Mom this stressed out. She's trying to put on a strong face, but I can see the worry in her eyes.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Človeče! Myslím, že som ešte nikdy nevidel mamu tak vystresovanú. Snaží sa tváriť silno, ale v očiach jej vidím obavy."
 
 # game/script.rpy:4341 #-#-# translate crowdin kitcheneveningweekend_f790ffb9:
 msgid "[_RT_] {i}If I can replace all the things my dad did for her, I think she would be relaxed and happy again.{/i}"
