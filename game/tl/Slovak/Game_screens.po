@@ -10,37 +10,38 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-06-13 09:06\n"
+"PO-Revision-Date: 2023-06-13 12:14\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # §translate crowdin strings: #|#|# # game/Game_screens.rpy:59
 msgid " My\n"
 "Room"
-msgstr ""
+msgstr " Moja izba\n"
 
 # game/Game_screens.rpy:77
 msgid "Bath"
-msgstr ""
+msgstr "Kúpeľňa"
 
 # game/Game_screens.rpy:110
 msgid "City"
-msgstr ""
+msgstr "Mesto"
 
 # game/Game_screens.rpy:125
 msgid "Hallway"
-msgstr ""
+msgstr "Chodba"
 
 # game/Game_screens.rpy:134
 msgid "Class"
-msgstr ""
+msgstr "Trieda"
 
 # game/Game_screens.rpy:152
 msgid "{size=29} {/size}Girls\n"
 "Locker\n"
 "{size=25} {/size}Room"
-msgstr ""
+msgstr "{size=29} {/size}Dievčenská skrinka\n\n"
+"{size=25} {/size}Miestnosť"
 
 # game/Game_screens.rpy:208
 msgid "Campaign\n"
 "   HQ"
-msgstr ""
+msgstr "Veliteľstvo kampane"
 
