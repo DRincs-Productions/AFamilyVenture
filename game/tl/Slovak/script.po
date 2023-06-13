@@ -10,31 +10,31 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-06-13 13:31\n"
+"PO-Revision-Date: 2023-06-13 16:23\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/script.rpy:320 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
-msgstr ""
+msgstr "Ak je to prvýkrát, čo hráte túto hru, vrelo odporúčame, aby ste si pozreli výučbový program."
 
 # game/script.rpy:326 #-#-# translate crowdin skip_game_5e5fdd92:
 msgid "Good luck! I sure hope you know what you're doing."
-msgstr ""
+msgstr "Veľa šťastia! Dúfam, že viete, čo robíte."
 
 # game/script.rpy:327 #-#-# translate crowdin skip_game_90ec90e7:
 msgid "For players who have already played AFV, we offer the option to skip the game's introduction. This includes the events that set the premise of the game in motion."
-msgstr ""
+msgstr "Hráčom, ktorí už AFV hrali, ponúkame možnosť preskočiť úvod hry. Ten obsahuje udalosti, ktoré uvádzajú do pohybu predpoklady hry."
 
 # game/script.rpy:545 #-#-# translate crowdin skip_b772ee0f:
 msgid "[_RT_] {i}{b}(HINT){/b} Mom works really hard all week. I should help her with jobs around the house on weekend mornings. She usually starts cleaning in the lounge.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(NÁVOD){/b} Mama celý týždeň tvrdo pracuje. Mal by som jej cez víkend ráno pomáhať s prácami okolo domu. Zvyčajne začína upratovať v obývačke.{/i}"
 
 # game/script.rpy:552 #-#-# translate crowdin skip_bb947539:
 msgid "[_RT_] {i}{b}(HINT){/b} So, if I get four hundred dollars to Sidney, she'll make Lauren a cosplay outfit. That would probably impress both Sidney and Lauren. I'll give the money to Sidney in the kitchen some evening.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(NÁVOD){/b} Takže ak Sidney dám štyristo dolárov, ušije Lauren cosplay oblečenie. To by pravdepodobne zapôsobilo na Sidney aj na Lauren. Peniaze odovzdám Sidney niekedy večer v kuchyni.{/i}"
 
 # game/script.rpy:559 #-#-# translate crowdin skip_bb3a2450:
 msgid "[_RT_] {i}{b}(HINT){/b} Shelling out one thousand dollars a week is not easy... I wonder how Mom would do if I just let her keep working off the debt at the strip club?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(NÁVOD){/b} Vyplatiť tisíc dolárov týždenne nie je jednoduché... Zaujímalo by ma, ako by mama dopadla, keby som ju nechal odpracovať si dlh v striptízovom klube?{/i}"
 
 # game/script.rpy:560 #-#-# translate crowdin skip_6ca9791a:
 msgid "[_RT_] {i}I guess the only way to find out, is to let her do it. I should go and check on her after a few times to make sure she's doing alright though.{/i}"
@@ -46,15 +46,15 @@ msgstr ""
 
 # game/script.rpy:796 #-#-# translate crowdin skip_b772ee0f_1:
 msgid "[_RT_] {i}{b}(HINT){/b} Mom works really hard all week. I should help her with jobs around the house on weekend mornings. She usually starts cleaning in the lounge.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(NÁVOD){/b} Mama celý týždeň tvrdo pracuje. Mal by som jej cez víkend ráno pomáhať s prácami okolo domu. Zvyčajne začína upratovať v obývačke.{/i}"
 
 # game/script.rpy:803 #-#-# translate crowdin skip_bb947539_1:
 msgid "[_RT_] {i}{b}(HINT){/b} So, if I get four hundred dollars to Sidney, she'll make Lauren a cosplay outfit. That would probably impress both Sidney and Lauren. I'll give the money to Sidney in the kitchen some evening.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(NÁVOD){/b} Takže ak Sidney dám štyristo dolárov, ušije Lauren cosplay oblečenie. To by pravdepodobne zapôsobilo na Sidney aj na Lauren. Peniaze odovzdám Sidney niekedy večer v kuchyni.{/i}"
 
 # game/script.rpy:810 #-#-# translate crowdin skip_bb3a2450_1:
 msgid "[_RT_] {i}{b}(HINT){/b} Shelling out one thousand dollars a week is not easy... I wonder how Mom would do if I just let her keep working off the debt at the strip club?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(NÁVOD){/b} Vyplatiť tisíc dolárov týždenne nie je jednoduché... Zaujímalo by ma, ako by mama dopadla, keby som ju nechal odpracovať si dlh v striptízovom klube?{/i}"
 
 # game/script.rpy:811 #-#-# translate crowdin skip_6ca9791a_1:
 msgid "[_RT_] {i}I guess the only way to find out, is to let her do it. I should go and check on her after a few times to make sure she's doing alright though.{/i}"
@@ -62,15 +62,15 @@ msgstr "[_RT_] {i}Myslím, že jediný spôsob, ako to zistiť, je nechať ju to
 
 # game/script.rpy:844 #-#-# translate crowdin gamestart_13f9152e:
 msgid "[_M_] [ryan], wake up!"
-msgstr ""
+msgstr "[_M_] [ryan], zobuď sa!"
 
 # game/script.rpy:849 #-#-# translate crowdin gamestart_b13eed11:
 msgid "[_M_] [upper_ryan], WAKE UP!"
-msgstr ""
+msgstr "[_M_] [upper_ryan], PREBUĎ SA!"
 
 # game/script.rpy:854 #-#-# translate crowdin gamestart_f18185f2:
 msgid "[_M_] WAKE UP!!!"
-msgstr ""
+msgstr "[_M_] PREBUĎ SA!!!"
 
 # game/script.rpy:859 #-#-# translate crowdin gamestart_6288b353:
 msgid "[_R_] Huh..."
@@ -82,11 +82,11 @@ msgstr ""
 
 # game/script.rpy:861 #-#-# translate crowdin gamestart_a5cfeafc:
 msgid "[_R_] What is it?..."
-msgstr ""
+msgstr "[_R_] Čo je to?..."
 
 # game/script.rpy:864 #-#-# translate crowdin gamestart_7e6f9074:
 msgid "[_R_] What time is it?"
-msgstr ""
+msgstr "[_R_] Koľko je hodín?"
 
 # game/script.rpy:865 #-#-# translate crowdin gamestart_e9062642:
 msgid "[_M_] It's only 5:30 AM.... sorry to wake you so early."
@@ -3286,7 +3286,7 @@ msgstr ""
 
 # game/script.rpy:4925 #-#-# translate crowdin sidneyinthekitchencontinued_bb947539:
 msgid "[_RT_] {i}{b}(HINT){/b} So, if I get four hundred dollars to Sidney, she'll make Lauren a cosplay outfit. That would probably impress both Sidney and Lauren. I'll give the money to Sidney in the kitchen some evening.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(NÁVOD){/b} Takže ak Sidney dám štyristo dolárov, ušije Lauren cosplay oblečenie. To by pravdepodobne zapôsobilo na Sidney aj na Lauren. Peniaze odovzdám Sidney niekedy večer v kuchyni.{/i}"
 
 # game/script.rpy:4933 #-#-# translate crowdin sidneyinthekitchencontinued_9dc4e7d3:
 msgid "[_R_] I'm sorry, I was just looking down because your laughing embarassed me."
@@ -3358,7 +3358,7 @@ msgstr ""
 
 # game/script.rpy:4960 #-#-# translate crowdin sidneyinthekitchencontinued_bb947539_1:
 msgid "[_RT_] {i}{b}(HINT){/b} So, if I get four hundred dollars to Sidney, she'll make Lauren a cosplay outfit. That would probably impress both Sidney and Lauren. I'll give the money to Sidney in the kitchen some evening.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(NÁVOD){/b} Takže ak Sidney dám štyristo dolárov, ušije Lauren cosplay oblečenie. To by pravdepodobne zapôsobilo na Sidney aj na Lauren. Peniaze odovzdám Sidney niekedy večer v kuchyni.{/i}"
 
 # game/script.rpy:4969 #-#-# translate crowdin sidneyinthekitchencontinued_943e498b:
 msgid "[_S_] Oh my.... I'm sorry.... I really am sorry for laughing."
@@ -3414,7 +3414,7 @@ msgstr ""
 
 # game/script.rpy:4992 #-#-# translate crowdin sidneyinthekitchencontinued_bb947539_2:
 msgid "[_RT_] {i}{b}(HINT){/b} So, if I get four hundred dollars to Sidney, she'll make Lauren a cosplay outfit. That would probably impress both Sidney and Lauren. I'll give the money to Sidney in the kitchen some evening.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(NÁVOD){/b} Takže ak Sidney dám štyristo dolárov, ušije Lauren cosplay oblečenie. To by pravdepodobne zapôsobilo na Sidney aj na Lauren. Peniaze odovzdám Sidney niekedy večer v kuchyni.{/i}"
 
 # game/script.rpy:5026 #-#-# translate crowdin momearlymorning_c85ca467:
 msgid "[_RT_] {i}Why am I standing by Mom's door again. She already said she wasn't going to let me in.{/i}"
@@ -3818,7 +3818,7 @@ msgstr ""
 
 # game/script.rpy:5247 #-#-# translate crowdin mommorningweekend_b772ee0f:
 msgid "[_RT_] {i}{b}(HINT){/b} Mom works really hard all week. I should help her with jobs around the house on weekend mornings. She usually starts cleaning in the lounge.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(NÁVOD){/b} Mama celý týždeň tvrdo pracuje. Mal by som jej cez víkend ráno pomáhať s prácami okolo domu. Zvyčajne začína upratovať v obývačke.{/i}"
 
 # game/script.rpy:5254 #-#-# translate crowdin mommorningweekend_42b646a0:
 msgid "[_RT_] {i}{b}(HINT){/b} The journey of a thousand miles starts with a single step. Corrupting Mom will be no easy task, but visiting her room in the early mornings might be a good first step.{/i}"
@@ -7886,7 +7886,7 @@ msgstr ""
 
 # game/script.rpy:9361 #-#-# translate crowdin dinnerfirst_bb3a2450:
 msgid "[_RT_] {i}{b}(HINT){/b} Shelling out one thousand dollars a week is not easy... I wonder how Mom would do if I just let her keep working off the debt at the strip club?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(NÁVOD){/b} Vyplatiť tisíc dolárov týždenne nie je jednoduché... Zaujímalo by ma, ako by mama dopadla, keby som ju nechal odpracovať si dlh v striptízovom klube?{/i}"
 
 # game/script.rpy:9362 #-#-# translate crowdin dinnerfirst_6ca9791a:
 msgid "[_RT_] {i}I guess the only way to find out, is to let her do it. I should go and check on her after a few times to make sure she's doing alright though.{/i}"
