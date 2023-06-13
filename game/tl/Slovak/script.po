@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-06-13 12:18\n"
+"PO-Revision-Date: 2023-06-13 13:31\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/script.rpy:320 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -566,7 +566,7 @@ msgstr ""
 
 # game/script.rpy:1260 #-#-# translate crowdin bed_f561667c:
 msgid "[_RT_] {i}I can't waste time right now, the DeCapos will be here any minute.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nemám na to čas. DeCapovci tu budú každú chvíľu.{/i}"
 
 # game/script.rpy:1268 #-#-# translate crowdin bed_0ba776cf:
 msgid "[_RT_] {i}I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
@@ -5954,7 +5954,7 @@ msgstr ""
 
 # game/script.rpy:7506 #-#-# translate crowdin classroommorning_2863d310:
 msgid "[_RT_] {i}I've heard they have an exciting announcement to start it off. I'd better make sure I'm in {b}Mom's class every Monday morning{/b} so I don't miss the announcements.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Počul som, že na úvod majú vzrušujúce oznámenie. Radšej sa uistím, že som každý pondelok ráno{/b} v triede {b}mamy, aby som nezmeškal oznámenia.{/i}"
 
 # game/script.rpy:7521 #-#-# translate crowdin classroommorning_22f8779a_1:
 msgid "[_M_] Okay class, let's pick up where we left off last time with our discussion on the Oedipus tragedy, and its influence today."
