@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-06-14 20:04\n"
+"PO-Revision-Date: 2023-06-14 21:06\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/UpdateScript0.06.rpy:715 #-#-# translate crowdin move_in_day_31871088:
 msgid "[_RT_] {i}I... think I slept in... What time is it?{/i}"
@@ -26,7 +26,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:720 #-#-# translate crowdin move_in_day_ac5a80fe:
 msgid "{b}Ding Dong!{/b}"
-msgstr ""
+msgstr "{b}Ding Dong!{/b}"
 
 # game/UpdateScript0.06.rpy:721 #-#-# translate crowdin move_in_day_7e4ac3a7:
 msgid "[_RT_] {i}Who could that be?{/i}"
@@ -338,7 +338,7 @@ msgstr "[_R_] ...."
 
 # game/UpdateScript0.06.rpy:849 #-#-# translate crowdin move_in_day_fc9bc4de:
 msgid "[_AD_] Well?"
-msgstr ""
+msgstr "[_AD_] No?"
 
 # game/UpdateScript0.06.rpy:850 #-#-# translate crowdin move_in_day_60db524f:
 msgid "[_R_] Well, what?"
@@ -1482,19 +1482,19 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:1618 #-#-# translate crowdin ph_reading_time_1678de5a:
 msgid "[_RT_] {i}Perry Hotter and the prisoner of Moldevort's Dungeon.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Perry Hotter a väzeň z Moldevortovej kobky.{/i}"
 
 # game/UpdateScript0.06.rpy:1619 #-#-# translate crowdin ph_reading_time_e0e8597b:
 msgid "[_RT_] {i}The books seem to progress in age content with the reader, but this one looks like it's going to be more like \"37 Shades of Grey\".{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Zdá sa, že knihy postupujú v obsahu s vekom čitateľov, ale táto vyzerá, že to bude skôr ako \"37 odtieňov sivej\".{/i}"
 
 # game/UpdateScript0.06.rpy:1620 #-#-# translate crowdin ph_reading_time_effd3c19:
 msgid "[_RT_] {i}I can't wait to get into it!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nemôžem sa dočkať, až sa do toho pustím!{/i}"
 
 # game/UpdateScript0.06.rpy:1623 #-#-# translate crowdin ph_reading_time_3e4008fa:
 msgid "[_RT_] {i}([ryan] reading in head) Perry Hotter was a highly unusual boy in many ways...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}([ryan] čítanie v hlave) Perry Hotter bol v mnohých ohľadoch veľmi nezvyčajný chlapec...{/i}"
 
 # game/UpdateScript0.06.rpy:1626 #-#-# translate crowdin ph_reading_time_b6829274:
 msgid "{i}\"Some time later.\"{/i}"
@@ -1502,27 +1502,27 @@ msgstr "{i}\"O nejaký čas neskôr.\"{/i}"
 
 # game/UpdateScript0.06.rpy:1629 #-#-# translate crowdin ph_reading_time_76b2ab26:
 msgid "[_RT_] {i}([ryan] still reading in head) Perry stepped out of the way. Thin cords shot from Lewdin’s wand this time, and next moment, Peckergrew was wriggling on the floor, bound and gagged...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}([ryan] ešte stále číta v hlave) Perry ustúpil z cesty. Tentoraz z Lewdinovej paličky vystrelili tenké povrazy a v nasledujúcom okamihu sa Peckergrew zvíjala na podlahe, zviazaná a so zalepenými ústami...{/i}"
 
 # game/UpdateScript0.06.rpy:1632 #-#-# translate crowdin ph_reading_time_3e25e689:
 msgid "[_M_] Oh, hey. Just passing by from the shower to my room, and I thought you might be reading again!"
-msgstr ""
+msgstr "[_M_] Ahoj. Práve prechádzam zo sprchy do svojej izby a napadlo mi, že by si mohol opäť čítať!"
 
 # game/UpdateScript0.06.rpy:1633 #-#-# translate crowdin ph_reading_time_09783bfc:
 msgid "[_R_] Hey, Mom. Come on in."
-msgstr ""
+msgstr "[_R_] Ahoj, mami. Poď ďalej."
 
 # game/UpdateScript0.06.rpy:1636 #-#-# translate crowdin ph_reading_time_a6adb8ef:
 msgid "[_M_] Holy cow! I can't believe you're on the third book already!"
-msgstr ""
+msgstr "[_M_] No nazdar! Nemôžem uveriť, že si už na tretej knihe!"
 
 # game/UpdateScript0.06.rpy:1637 #-#-# translate crowdin ph_reading_time_630d7a1a:
 msgid "[_M_] I told you those books are really addictive!"
-msgstr ""
+msgstr "[_M_] Hovorila som ti, že tie knihy sú naozaj návykové!"
 
 # game/UpdateScript0.06.rpy:1638 #-#-# translate crowdin ph_reading_time_cbad11f0:
 msgid "[_R_] I'm not addicted!... I just want to get through them so we can finish the photoshoot."
-msgstr ""
+msgstr "[_R_] Nie som závislý!... Chcem ich len prekonať, aby sme mohli dokončiť fotenie."
 
 # game/UpdateScript0.06.rpy:1639 #-#-# translate crowdin ph_reading_time_b3e49aac:
 msgid "[_M_] Ok... sure..."
@@ -1734,7 +1734,7 @@ msgstr "[_RT_] {i}(čítanie v hlave) Perry sa zoširoka usmial na strýkov zdes
 
 # game/UpdateScript0.06.rpy:1713 #-#-# translate crowdin ph_reading_time_6594eec7:
 msgid "[_RT_] {i}Yes! I finished! Now I can get Mom to do a photoshoot!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Áno! Skončil som! Teraz môžem presvedčiť mamu, aby urobila fotenie!{/i}"
 
 # game/UpdateScript0.06.rpy:1714 #-#-# translate crowdin ph_reading_time_426c2013:
 msgid "[_RT_] {i}Oh... look... there's a preview for the first chapters of the next book...{/i}"
@@ -1742,7 +1742,7 @@ msgstr "[_RT_] {i}Oh... aha... je tu ukážka prvých kapitol ďalšej knihy...{
 
 # game/UpdateScript0.06.rpy:1715 #-#-# translate crowdin ph_reading_time_8bf06be9:
 msgid "[_RT_] {i}I'll just take a little look... if... I can... stay... awake...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Len sa trochu pozriem... ak... môžem... zostať... hore...{/i}"
 
 # game/UpdateScript0.06.rpy:1727 #-#-# translate crowdin ph_reading_time_54dc5811_1:
 msgid "[_RT_] {i}I'm actually pretty excited to read the next Perry Hotter book... I don't even mind if it takes me the rest of the night.{/i}"
@@ -1754,19 +1754,19 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:1735 #-#-# translate crowdin ph_reading_time_1678de5a_1:
 msgid "[_RT_] {i}Perry Hotter and the prisoner of Moldevort's Dungeon.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Perry Hotter a väzeň z Moldevortovej kobky.{/i}"
 
 # game/UpdateScript0.06.rpy:1736 #-#-# translate crowdin ph_reading_time_e0e8597b_1:
 msgid "[_RT_] {i}The books seem to progress in age content with the reader, but this one looks like it's going to be more like \"37 Shades of Grey\".{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Zdá sa, že knihy postupujú v obsahu s vekom čitateľov, ale táto vyzerá, že to bude skôr ako \"37 odtieňov sivej\".{/i}"
 
 # game/UpdateScript0.06.rpy:1737 #-#-# translate crowdin ph_reading_time_effd3c19_1:
 msgid "[_RT_] {i}I can't wait to get into it!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nemôžem sa dočkať, až sa do toho pustím!{/i}"
 
 # game/UpdateScript0.06.rpy:1740 #-#-# translate crowdin ph_reading_time_3e4008fa_1:
 msgid "[_RT_] {i}([ryan] reading in head) Perry Hotter was a highly unusual boy in many ways...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}([ryan] čítanie v hlave) Perry Hotter bol v mnohých ohľadoch veľmi nezvyčajný chlapec...{/i}"
 
 # game/UpdateScript0.06.rpy:1743 #-#-# translate crowdin ph_reading_time_b6829274_1:
 msgid "{i}\"Some time later.\"{/i}"
@@ -1774,27 +1774,27 @@ msgstr "{i}\"O nejaký čas neskôr.\"{/i}"
 
 # game/UpdateScript0.06.rpy:1746 #-#-# translate crowdin ph_reading_time_76b2ab26_1:
 msgid "[_RT_] {i}([ryan] still reading in head) Perry stepped out of the way. Thin cords shot from Lewdin’s wand this time, and next moment, Peckergrew was wriggling on the floor, bound and gagged...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}([ryan] ešte stále číta v hlave) Perry ustúpil z cesty. Tentoraz z Lewdinovej paličky vystrelili tenké povrazy a v nasledujúcom okamihu sa Peckergrew zvíjala na podlahe, zviazaná a so zalepenými ústami...{/i}"
 
 # game/UpdateScript0.06.rpy:1749 #-#-# translate crowdin ph_reading_time_3e25e689_1:
 msgid "[_M_] Oh, hey. Just passing by from the shower to my room, and I thought you might be reading again!"
-msgstr ""
+msgstr "[_M_] Ahoj. Práve prechádzam zo sprchy do svojej izby a napadlo mi, že by si mohol opäť čítať!"
 
 # game/UpdateScript0.06.rpy:1750 #-#-# translate crowdin ph_reading_time_09783bfc_1:
 msgid "[_R_] Hey, Mom. Come on in."
-msgstr ""
+msgstr "[_R_] Ahoj, mami. Poď ďalej."
 
 # game/UpdateScript0.06.rpy:1753 #-#-# translate crowdin ph_reading_time_a6adb8ef_1:
 msgid "[_M_] Holy cow! I can't believe you're on the third book already!"
-msgstr ""
+msgstr "[_M_] No nazdar! Nemôžem uveriť, že si už na tretej knihe!"
 
 # game/UpdateScript0.06.rpy:1754 #-#-# translate crowdin ph_reading_time_630d7a1a_1:
 msgid "[_M_] I told you those books are really addictive!"
-msgstr ""
+msgstr "[_M_] Hovorila som ti, že tie knihy sú naozaj návykové!"
 
 # game/UpdateScript0.06.rpy:1755 #-#-# translate crowdin ph_reading_time_cbad11f0_1:
 msgid "[_R_] I'm not addicted!... I just want to get through them so we can finish the photoshoot."
-msgstr ""
+msgstr "[_R_] Nie som závislý!... Chcem ich len prekonať, aby sme mohli dokončiť fotenie."
 
 # game/UpdateScript0.06.rpy:1756 #-#-# translate crowdin ph_reading_time_b3e49aac_1:
 msgid "[_M_] Ok... sure..."
@@ -2006,7 +2006,7 @@ msgstr "[_RT_] {i}(čítanie v hlave) Perry sa zoširoka usmial na strýkov zdes
 
 # game/UpdateScript0.06.rpy:1830 #-#-# translate crowdin ph_reading_time_6594eec7_1:
 msgid "[_RT_] {i}Yes! I finished! Now I can get Mom to do a photoshoot!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Áno! Skončil som! Teraz môžem presvedčiť mamu, aby urobila fotenie!{/i}"
 
 # game/UpdateScript0.06.rpy:1831 #-#-# translate crowdin ph_reading_time_426c2013_1:
 msgid "[_RT_] {i}Oh... look... there's a preview for the first chapters of the next book...{/i}"
@@ -2014,7 +2014,7 @@ msgstr "[_RT_] {i}Oh... aha... je tu ukážka prvých kapitol ďalšej knihy...{
 
 # game/UpdateScript0.06.rpy:1832 #-#-# translate crowdin ph_reading_time_8bf06be9_1:
 msgid "[_RT_] {i}I'll just take a little look... if... I can... stay... awake...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Len sa trochu pozriem... ak... môžem... zostať... hore...{/i}"
 
 # game/UpdateScript0.06.rpy:1844 #-#-# translate crowdin ph_reading_time_7c701b44:
 msgid "[_RT_] {i}Now would be a great time to read the next Perry Hotter book... too bad I haven't bought the third one yet.{/i}"
@@ -2058,11 +2058,11 @@ msgstr "[_RT_] {i}([ryan] ešte stále číta v hlave) \"Čo som zistil, to by s
 
 # game/UpdateScript0.06.rpy:1874 #-#-# translate crowdin ph_reading_time_3e25e689_2:
 msgid "[_M_] Oh, hey. Just passing by from the shower to my room, and I thought you might be reading again!"
-msgstr ""
+msgstr "[_M_] Ahoj. Práve prechádzam zo sprchy do svojej izby a napadlo mi, že by si mohol opäť čítať!"
 
 # game/UpdateScript0.06.rpy:1875 #-#-# translate crowdin ph_reading_time_09783bfc_2:
 msgid "[_R_] Hey, Mom. Come on in."
-msgstr ""
+msgstr "[_R_] Ahoj, mami. Poď ďalej."
 
 # game/UpdateScript0.06.rpy:1878 #-#-# translate crowdin ph_reading_time_a24d9b74:
 msgid "[_M_] You are such a fast reader."
@@ -2282,19 +2282,19 @@ msgstr "{i}\"Oveľa neskôr\"{/i}"
 
 # game/UpdateScript0.06.rpy:1958 #-#-# translate crowdin ph_reading_time_0510eaf1:
 msgid "[_RT_] {i}(reading in head) And together they walked back through the gateway to the Muddle world... THE END!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}(číta si v hlave) A spoločne prešli späť bránou do sveta Muddle... KONIEC!{/i}"
 
 # game/UpdateScript0.06.rpy:1959 #-#-# translate crowdin ph_reading_time_6594eec7_2:
 msgid "[_RT_] {i}Yes! I finished! Now I can get Mom to do a photoshoot!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Áno! Skončil som! Teraz môžem presvedčiť mamu, aby urobila fotenie!{/i}"
 
 # game/UpdateScript0.06.rpy:1960 #-#-# translate crowdin ph_reading_time_02854afc:
 msgid "[_RT_] {i}Oh... Look... There's a preview for the first chapters of the next book...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Oh... Pozri... Je tu ukážka prvých kapitol ďalšej knihy...{/i}"
 
 # game/UpdateScript0.06.rpy:1961 #-#-# translate crowdin ph_reading_time_8bf06be9_2:
 msgid "[_RT_] {i}I'll just take a little look... if... I can... stay... awake...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Len sa trochu pozriem... ak... môžem... zostať... hore...{/i}"
 
 # game/UpdateScript0.06.rpy:1972 #-#-# translate crowdin ph_reading_time_854f5a74_1:
 msgid "[_RT_] {i}I've got to admit, the first Perry Hotter book was alright... too bad it took the whole rest of the day to finish... should I read the second book now?{/i}"
@@ -2330,11 +2330,11 @@ msgstr "[_RT_] {i}([ryan] ešte stále číta v hlave) \"Čo som zistil, to by s
 
 # game/UpdateScript0.06.rpy:1994 #-#-# translate crowdin ph_reading_time_3e25e689_3:
 msgid "[_M_] Oh, hey. Just passing by from the shower to my room, and I thought you might be reading again!"
-msgstr ""
+msgstr "[_M_] Ahoj. Práve prechádzam zo sprchy do svojej izby a napadlo mi, že by si mohol opäť čítať!"
 
 # game/UpdateScript0.06.rpy:1995 #-#-# translate crowdin ph_reading_time_09783bfc_3:
 msgid "[_R_] Hey, Mom. Come on in."
-msgstr ""
+msgstr "[_R_] Ahoj, mami. Poď ďalej."
 
 # game/UpdateScript0.06.rpy:1998 #-#-# translate crowdin ph_reading_time_a24d9b74_1:
 msgid "[_M_] You are such a fast reader."
@@ -2554,19 +2554,19 @@ msgstr "{i}\"Oveľa neskôr\"{/i}"
 
 # game/UpdateScript0.06.rpy:2078 #-#-# translate crowdin ph_reading_time_0510eaf1_1:
 msgid "[_RT_] {i}(reading in head) And together they walked back through the gateway to the Muddle world... THE END!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}(číta si v hlave) A spoločne prešli späť bránou do sveta Muddle... KONIEC!{/i}"
 
 # game/UpdateScript0.06.rpy:2079 #-#-# translate crowdin ph_reading_time_6594eec7_3:
 msgid "[_RT_] {i}Yes! I finished! Now I can get Mom to do a photoshoot!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Áno! Skončil som! Teraz môžem presvedčiť mamu, aby urobila fotenie!{/i}"
 
 # game/UpdateScript0.06.rpy:2080 #-#-# translate crowdin ph_reading_time_02854afc_1:
 msgid "[_RT_] {i}Oh... Look... There's a preview for the first chapters of the next book...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Oh... Pozri... Je tu ukážka prvých kapitol ďalšej knihy...{/i}"
 
 # game/UpdateScript0.06.rpy:2081 #-#-# translate crowdin ph_reading_time_8bf06be9_3:
 msgid "[_RT_] {i}I'll just take a little look... if... I can... stay... awake...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Len sa trochu pozriem... ak... môžem... zostať... hore...{/i}"
 
 # game/UpdateScript0.06.rpy:2092 #-#-# translate crowdin ph_reading_time_ba8ddbad:
 msgid "[_RT_] {i}Now would be a great time to read the next Perry Hotter book... too bad I haven't bought the second one yet.{/i}"
@@ -2838,7 +2838,7 @@ msgstr "[_RT_] {i}(číta si v hlave) Toto leto si s Pudgeleym užijem veľa zá
 
 # game/UpdateScript0.06.rpy:2212 #-#-# translate crowdin ph_reading_time_6594eec7_4:
 msgid "[_RT_] {i}Yes! I finished! Now I can get Mom to do a photoshoot!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Áno! Skončil som! Teraz môžem presvedčiť mamu, aby urobila fotenie!{/i}"
 
 # game/UpdateScript0.06.rpy:2213 #-#-# translate crowdin ph_reading_time_426c2013_2:
 msgid "[_RT_] {i}Oh... look... there's a preview for the first chapters of the next book...{/i}"
@@ -2846,7 +2846,7 @@ msgstr "[_RT_] {i}Oh... aha... je tu ukážka prvých kapitol ďalšej knihy...{
 
 # game/UpdateScript0.06.rpy:2214 #-#-# translate crowdin ph_reading_time_8bf06be9_4:
 msgid "[_RT_] {i}I'll just take a little look... if... I can... stay... awake...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Len sa trochu pozriem... ak... môžem... zostať... hore...{/i}"
 
 # game/UpdateScript0.06.rpy:2230 #-#-# translate crowdin sharing_shower_1715fa41:
 msgid "[_RT_] {i}They've already showered, and will be coming out that door any second. I don't want to be creeping around when they do.{/i}"
@@ -5298,7 +5298,7 @@ msgstr "{i}{b}\"Mamine libido -5\" {/b}{/i}"
 
 # game/UpdateScript0.06.rpy:3991 #-#-# translate crowdin moms_update_six_mbate_thoughts_16d37eb8:
 msgid "[_RT_] {i}I might need to go back to my room to take care of something myself.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Možno sa budem musieť vrátiť do svojej izby, aby som si niečo vybavil sám.{/i}"
 
 # game/UpdateScript0.06.rpy:3996 #-#-# translate crowdin moms_update_six_mbate_thoughts_3b100cf1:
 msgid "[_RT_] {i}I should probably go get some sleep now, maybe...{/i}"
@@ -5306,7 +5306,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:4003 #-#-# translate crowdin moms_update_six_mbate_thoughts_8aae703e:
 msgid "[_RT_] {i}I should run before I get caught.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Mal by som utiecť, než ma chytia.{/i}"
 
 # game/UpdateScript0.06.rpy:4007 #-#-# translate crowdin moms_update_six_mbate_thoughts_528aec30:
 msgid "[_MT_] {i}Did I really give Matt a blowjob?...{/i}"
@@ -5394,7 +5394,7 @@ msgstr "{i}{b}\"Mamine libido -5\" {/b}{/i}"
 
 # game/UpdateScript0.06.rpy:4053 #-#-# translate crowdin moms_update_six_mbate_thoughts_16d37eb8_1:
 msgid "[_RT_] {i}I might need to go back to my room to take care of something myself.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Možno sa budem musieť vrátiť do svojej izby, aby som si niečo vybavil sám.{/i}"
 
 # game/UpdateScript0.06.rpy:4058 #-#-# translate crowdin moms_update_six_mbate_thoughts_3b100cf1_1:
 msgid "[_RT_] {i}I should probably go get some sleep now, maybe...{/i}"
@@ -5402,7 +5402,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:4065 #-#-# translate crowdin moms_update_six_mbate_thoughts_8aae703e_1:
 msgid "[_RT_] {i}I should run before I get caught.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Mal by som utiecť, než ma chytia.{/i}"
 
 # game/UpdateScript0.06.rpy:4076 #-#-# translate crowdin update_six_momspycamroommad_fd4d94cb:
 msgid "[_RT_] {i}Well... not a lot of action going on here. I should probably just go to sleep myself.{/i}"
@@ -11398,11 +11398,11 @@ msgstr "{i}{b}\"Sidney libido -5\" {/b}{/i}"
 
 # game/UpdateScript0.06.rpy:7269 #-#-# translate crowdin update_six_sidneyspycamroomhorny_16d37eb8:
 msgid "[_RT_] {i}I might need to go back to my room to take care of something myself.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Možno sa budem musieť vrátiť do svojej izby, aby som si niečo vybavil sám.{/i}"
 
 # game/UpdateScript0.06.rpy:7273 #-#-# translate crowdin update_six_sidneyspycamroomhorny_8aae703e:
 msgid "[_RT_] {i}I should run before I get caught.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Mal by som utiecť, než ma chytia.{/i}"
 
 # game/UpdateScript0.06.rpy:7282 #-#-# translate crowdin diaz_is_back_75504434:
 msgid "{b}DING DONG!{/b}"
@@ -11534,11 +11534,11 @@ msgstr "{i}{b}\"Mandyino poddanie +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:7374 #-#-# translate crowdin diaz_is_back_1682acb0:
 msgid "[_RT_] {i}I better grab my cash in case I need it.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Radšej si vezmem hotovosť, keby som ju potreboval.{/i}"
 
 # game/UpdateScript0.06.rpy:7376 #-#-# translate crowdin diaz_is_back_4459ac27:
 msgid "[_RT_] {i}Shit, I'm short on cash this week.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Sakra, tento týždeň mi chýbajú peniaze.{/i}"
 
 # game/UpdateScript0.06.rpy:7377 #-#-# translate crowdin diaz_is_back_ed186fec:
 msgid "[_RT_] {i}I hope Lauren and Mandy are ready to do their duty.{/i}"
@@ -11558,11 +11558,11 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7385 #-#-# translate crowdin diaz_is_back_080fd5aa:
 msgid "[_AD_] So, what's it going to be this week?"
-msgstr ""
+msgstr "[_AD_] Čo to bude tento týždeň?"
 
 # game/UpdateScript0.06.rpy:7388 #-#-# translate crowdin diaz_is_back_9686b8ae:
 msgid "[_R_] Here, just take your money and get out of here."
-msgstr ""
+msgstr "[_R_] Tu, vezmi si svoje peniaze a vypadni odtiaľto."
 
 # game/UpdateScript0.06.rpy:7389 #-#-# translate crowdin diaz_is_back_136da53b_1:
 msgid "{i}\"Money -$1,000\"{/i}"
@@ -11570,11 +11570,11 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7393 #-#-# translate crowdin diaz_is_back_0d5e051e:
 msgid "[_AD_] Now don't be like that..."
-msgstr ""
+msgstr "[_AD_] Nebuď taký..."
 
 # game/UpdateScript0.06.rpy:7394 #-#-# translate crowdin diaz_is_back_53c3cb2f:
 msgid "[_AD_] I'm going to be a big part of your family's lives here in the near future. So, let's try to keep things civil."
-msgstr ""
+msgstr "[_AD_] V blízkej budúcnosti budem veľkou súčasťou života vašej rodiny. Takže sa pokúsme zachovať slušnosť."
 
 # game/UpdateScript0.06.rpy:7397 #-#-# translate crowdin diaz_is_back_bdc5c97d:
 msgid "[_AD_] For now, let me just say that I hope you enjoy your week."
@@ -11586,7 +11586,7 @@ msgstr "[_R_] ..."
 
 # game/UpdateScript0.06.rpy:7399 #-#-# translate crowdin diaz_is_back_fc9bc4de:
 msgid "[_AD_] Well?"
-msgstr ""
+msgstr "[_AD_] No?"
 
 # game/UpdateScript0.06.rpy:7400 #-#-# translate crowdin diaz_is_back_e660d97a:
 msgid "[_R_] {i}(muttering){/i} I hope you enjoy your week, too."
@@ -11594,7 +11594,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7401 #-#-# translate crowdin diaz_is_back_97afc874:
 msgid "[_AD_] Well, thank you! I'll see you next Thursday, bright and early!"
-msgstr ""
+msgstr "[_AD_] Ďakujem! Uvidíme sa budúci štvrtok, jasne a skoro!"
 
 # game/UpdateScript0.06.rpy:7405 #-#-# translate crowdin diaz_is_back_b47e5e93:
 msgid "[_RT_] {i}Oh, how do I get her out of our lives?{/i}"
@@ -11602,11 +11602,11 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7406 #-#-# translate crowdin diaz_is_back_deb88fea:
 msgid "[_L_] {i}(Shouting){/i} [ryan]! Was that who I think it was?"
-msgstr ""
+msgstr "[_L_] {i}(Výkrik){/i} [ryan]! Bola to tá, že si myslím, že to bola?"
 
 # game/UpdateScript0.06.rpy:7407 #-#-# translate crowdin diaz_is_back_1913bb5b:
 msgid "[_R_] Yeah! But she's gone now!"
-msgstr ""
+msgstr "[_R_] Áno! Ale teraz je preč!"
 
 # game/UpdateScript0.06.rpy:7408 #-#-# translate crowdin diaz_is_back_7c8ceb66:
 msgid "[_MD_] You mean you paid her!?"
@@ -11626,11 +11626,11 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7418 #-#-# translate crowdin diaz_is_back_04846c04:
 msgid "[_R_] Uuuuugghhh.... I don't have enough money this week."
-msgstr ""
+msgstr "[_R_] Uuuuugghhhh.... Tento týždeň nemám dosť peňazí."
 
 # game/UpdateScript0.06.rpy:7419 #-#-# translate crowdin diaz_is_back_1eac8f11:
 msgid "[_AD_] You've got to learn to manage your money better!"
-msgstr ""
+msgstr "[_AD_] Musíš sa naučiť lepšie hospodáriť s peniazmi!"
 
 # game/UpdateScript0.06.rpy:7420 #-#-# translate crowdin diaz_is_back_9dfe4eba:
 msgid "[_AD_] Lucky for you, your sister and cousin can cover your ass, by using theirs."
@@ -11642,7 +11642,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7423 #-#-# translate crowdin diaz_is_back_2b0c2172:
 msgid "[_R_] I need my money for other things this week."
-msgstr ""
+msgstr "[_R_] Tento týždeň potrebujem peniaze na iné veci."
 
 # game/UpdateScript0.06.rpy:7424 #-#-# translate crowdin diaz_is_back_19ba75a2:
 msgid "[_R_] I'm just going to have to let Lauren and Mandy take one for the team."
@@ -11650,7 +11650,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7425 #-#-# translate crowdin diaz_is_back_c74a7699:
 msgid "[_AD_] Haha, I like that attitude!"
-msgstr ""
+msgstr "[_AD_] Haha, tento prístup sa mi páči!"
 
 # game/UpdateScript0.06.rpy:7426 #-#-# translate crowdin diaz_is_back_3c06a05c:
 msgid "[_AD_] Why put your ass on the line, when you can use theirs?"
@@ -14350,11 +14350,11 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:8761 #-#-# translate crowdin both_caught_4b38c491:
 msgid "[_RT_] {i}Now looks like a good time.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Teraz je na to vhodný čas.{/i}"
 
 # game/UpdateScript0.06.rpy:8762 #-#-# translate crowdin both_caught_12b5ff40:
 msgid "[_R_] Uhhuuuhhemmmmm?"
-msgstr ""
+msgstr "[_R_] Uhhuuuhhemmmmm?"
 
 # game/UpdateScript0.06.rpy:8767 #-#-# translate crowdin both_caught_08666754:
 msgid "[_M_] [ryan]!... You scared the hell out of me again!?"
@@ -14362,11 +14362,11 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:8768 #-#-# translate crowdin both_caught_06e4b3c3:
 msgid "[_M_] Why won't the school board just let us put locks on our office doors?"
-msgstr ""
+msgstr "[_M_] Prečo nám školská rada jednoducho nedovolí dať si na dvere kancelárií zámky?"
 
 # game/UpdateScript0.06.rpy:8769 #-#-# translate crowdin both_caught_33bc201e:
 msgid "[_R_] Probably so that you'll give your students your attention during school hours, rather than attending to personal business."
-msgstr ""
+msgstr "[_R_] Pravdepodobne preto, aby si sa počas vyučovacích hodín venovala svojim študentom, a nie osobným záležitostiam."
 
 # game/UpdateScript0.06.rpy:8771 #-#-# translate crowdin both_caught_23cddae3:
 msgid "[_M_] Don't be a prick."
@@ -14374,31 +14374,31 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:8772 #-#-# translate crowdin both_caught_b7d4027e:
 msgid "[_M_] And can't you just wait until I'm finished?"
-msgstr ""
+msgstr "[_M_] A nemôžeš počkať, kým skončím?"
 
 # game/UpdateScript0.06.rpy:8773 #-#-# translate crowdin both_caught_7a5b0ced:
 msgid "[_R_] You know this is the only time I have to see you about school assignments."
-msgstr ""
+msgstr "[_R_] Vieš, že toto je jediný čas, keď sa s tebou musím stretnúť kvôli školským úlohám."
 
 # game/UpdateScript0.06.rpy:8774 #-#-# translate crowdin both_caught_c1784521:
 msgid "[_M_] Alright, well come in, and we'll get to work."
-msgstr ""
+msgstr "[_M_] Dobre, tak poď ďalej a pustíme sa do práce."
 
 # game/UpdateScript0.06.rpy:8777 #-#-# translate crowdin both_caught_ba1d8fe2:
 msgid "[_M_] Let's just pick up from where we left off."
-msgstr ""
+msgstr "[_M_] Pokračujme tam, kde sme skončili."
 
 # game/UpdateScript0.06.rpy:8778 #-#-# translate crowdin both_caught_f2ba6051:
 msgid "[_M_] Maybe there's more scenes in this game that will be good to mention in your paper."
-msgstr ""
+msgstr "[_M_] Možno je v tejto hre viac scén, ktoré by bolo dobré spomenúť v dokumente."
 
 # game/UpdateScript0.06.rpy:8781 #-#-# translate crowdin both_caught_a4c1dbf6:
 msgid "[_M_] Darn it."
-msgstr ""
+msgstr "[_M_] Sakra."
 
 # game/UpdateScript0.06.rpy:8782 #-#-# translate crowdin both_caught_75bc7060:
 msgid "[_M_] I forgot to save the last time we played. We'll just have to click through the scenes quickly without reading it."
-msgstr ""
+msgstr "[_M_] Pri poslednej hre som si zabudla uložiť. Budeme musieť len rýchlo preklikávať scény bez toho, aby sme ich čítali."
 
 # game/UpdateScript0.06.rpy:8783 #-#-# translate crowdin both_caught_a56e97d0:
 msgid "[_M_] Oh, and before I forget, you might as well take it out right now before you put anymore strain on the stitching of those pants, and I'll make myself comfortable too."
@@ -14598,11 +14598,11 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:8882 #-#-# translate crowdin both_caught_4b38c491_1:
 msgid "[_RT_] {i}Now looks like a good time.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Teraz je na to vhodný čas.{/i}"
 
 # game/UpdateScript0.06.rpy:8883 #-#-# translate crowdin both_caught_12b5ff40_1:
 msgid "[_R_] Uhhuuuhhemmmmm?"
-msgstr ""
+msgstr "[_R_] Uhhuuuhhemmmmm?"
 
 # game/UpdateScript0.06.rpy:8888 #-#-# translate crowdin both_caught_08666754_1:
 msgid "[_M_] [ryan]!... You scared the hell out of me again!?"
@@ -14610,11 +14610,11 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:8889 #-#-# translate crowdin both_caught_06e4b3c3_1:
 msgid "[_M_] Why won't the school board just let us put locks on our office doors?"
-msgstr ""
+msgstr "[_M_] Prečo nám školská rada jednoducho nedovolí dať si na dvere kancelárií zámky?"
 
 # game/UpdateScript0.06.rpy:8890 #-#-# translate crowdin both_caught_33bc201e_1:
 msgid "[_R_] Probably so that you'll give your students your attention during school hours, rather than attending to personal business."
-msgstr ""
+msgstr "[_R_] Pravdepodobne preto, aby si sa počas vyučovacích hodín venovala svojim študentom, a nie osobným záležitostiam."
 
 # game/UpdateScript0.06.rpy:8892 #-#-# translate crowdin both_caught_23cddae3_1:
 msgid "[_M_] Don't be a prick."
@@ -14622,31 +14622,31 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:8893 #-#-# translate crowdin both_caught_b7d4027e_1:
 msgid "[_M_] And can't you just wait until I'm finished?"
-msgstr ""
+msgstr "[_M_] A nemôžeš počkať, kým skončím?"
 
 # game/UpdateScript0.06.rpy:8894 #-#-# translate crowdin both_caught_7a5b0ced_1:
 msgid "[_R_] You know this is the only time I have to see you about school assignments."
-msgstr ""
+msgstr "[_R_] Vieš, že toto je jediný čas, keď sa s tebou musím stretnúť kvôli školským úlohám."
 
 # game/UpdateScript0.06.rpy:8895 #-#-# translate crowdin both_caught_c1784521_1:
 msgid "[_M_] Alright, well come in, and we'll get to work."
-msgstr ""
+msgstr "[_M_] Dobre, tak poď ďalej a pustíme sa do práce."
 
 # game/UpdateScript0.06.rpy:8898 #-#-# translate crowdin both_caught_ba1d8fe2_1:
 msgid "[_M_] Let's just pick up from where we left off."
-msgstr ""
+msgstr "[_M_] Pokračujme tam, kde sme skončili."
 
 # game/UpdateScript0.06.rpy:8899 #-#-# translate crowdin both_caught_f2ba6051_1:
 msgid "[_M_] Maybe there's more scenes in this game that will be good to mention in your paper."
-msgstr ""
+msgstr "[_M_] Možno je v tejto hre viac scén, ktoré by bolo dobré spomenúť v dokumente."
 
 # game/UpdateScript0.06.rpy:8902 #-#-# translate crowdin both_caught_a4c1dbf6_1:
 msgid "[_M_] Darn it."
-msgstr ""
+msgstr "[_M_] Sakra."
 
 # game/UpdateScript0.06.rpy:8903 #-#-# translate crowdin both_caught_75bc7060_1:
 msgid "[_M_] I forgot to save the last time we played. We'll just have to click through the scenes quickly without reading it."
-msgstr ""
+msgstr "[_M_] Pri poslednej hre som si zabudla uložiť. Budeme musieť len rýchlo preklikávať scény bez toho, aby sme ich čítali."
 
 # game/UpdateScript0.06.rpy:8904 #-#-# translate crowdin both_caught_a56e97d0_1:
 msgid "[_M_] Oh, and before I forget, you might as well take it out right now before you put anymore strain on the stitching of those pants, and I'll make myself comfortable too."
