@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-06-13 13:31\n"
+"PO-Revision-Date: 2023-06-14 14:06\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/UpdateScript0.08.rpy:994 #-#-# translate crowdin mom_ramp_up_c71fc1d6:
 msgid "[_RT_] {i}Oh wow!... I can't believe I've had sex with both of my sisters!{/i}"
@@ -5422,7 +5422,7 @@ msgstr ""
 
 # game/UpdateScript0.08.rpy:3812 #-#-# translate crowdin pussy_block_bath_7a379bd5:
 msgid "{i}{b}\"Mom's Libido -5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mamine libido -5\" {/b}{/i}"
 
 # game/UpdateScript0.08.rpy:3814 #-#-# translate crowdin pussy_block_bath_734c33e1:
 msgid "{b}{i}\"Mom's Sexual Frustration = 0\"{/i}{/b}"
