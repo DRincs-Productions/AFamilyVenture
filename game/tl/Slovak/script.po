@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-06-13 22:37\n"
+"PO-Revision-Date: 2023-06-14 11:58\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/script.rpy:320 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -3834,7 +3834,7 @@ msgstr "[_RT_] {i}Nemôžem toho veľa urobiť, kým nenájdem a nezbavím sa to
 
 # game/script.rpy:5377 #-#-# translate crowdin momsneakingnight_c7028dcb:
 msgid "[_RT_] {i}I don't think the subliminal messages are having any more effect, I'll have to think of something else to make her more submissive.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Myslím, že podprahové správy už nemajú žiadny účinok, budem musieť vymyslieť niečo iné, aby bola poddanejšia.{/i}"
 
 # game/script.rpy:5378 #-#-# translate crowdin momsneakingnight_b51a234a:
 msgid "[_RT_] {i}With her in such a deep sleep, I could probably get away with a few naughty pranks.{/i}"
@@ -4502,7 +4502,7 @@ msgstr "[_S_] Ale to neznamená, že sa na teba už nehnevám. Bol to debilný k
 
 # game/script.rpy:6330 #-#-# translate crowdin sidneyangryroom_c12c55e1:
 msgid "[_S_] Thank you! I can't stay mad at my sweet little brother!"
-msgstr ""
+msgstr "[_S_] Ďakujem! Nemôžem sa hnevať na môjho milého malého brata!"
 
 # game/script.rpy:6337 #-#-# translate crowdin sidneyangryroom_2bf8ea0b:
 msgid "[_S_] Thank you! I'm going to use it right now!"
@@ -4518,11 +4518,11 @@ msgstr "[_S_] Ale to neznamená, že sa na teba už nehnevám. Bol to debilný k
 
 # game/script.rpy:6350 #-#-# translate crowdin sidneyangryroom_c12c55e1_1:
 msgid "[_S_] Thank you! I can't stay mad at my sweet little brother!"
-msgstr ""
+msgstr "[_S_] Ďakujem! Nemôžem sa hnevať na môjho milého malého brata!"
 
 # game/script.rpy:6358 #-#-# translate crowdin sidneyangryroom_6a174532:
 msgid "[_S_] Why the hell do you think I would want flowers from you? You're not my boyfriend!"
-msgstr ""
+msgstr "[_S_] Prečo si, dočerta, myslíš, že by som od teba chcela kvety? Nie si môj priateľ!"
 
 # game/script.rpy:6359 #-#-# translate crowdin sidneyangryroom_567898de:
 msgid "{i}\"Throws them in her trash\"{/i}"
@@ -4530,7 +4530,7 @@ msgstr "{i}\"Hádže ich do koša\" {/i}"
 
 # game/script.rpy:6360 #-#-# translate crowdin sidneyangryroom_30332119:
 msgid "[_S_] Maybe next time try to think of something that doesn't imply you want in my pants!"
-msgstr ""
+msgstr "[_S_] Možno nabudúce skús vymyslieť niečo, čo nenaznačuje, že sa mi chceš dostať do nohavičiek!"
 
 # game/script.rpy:6361 #-#-# translate crowdin sidneyangryroom_0f7267a3:
 msgid "{i}{b}\"Sidney's Affection -1\"{/b}{/i}"
@@ -4546,19 +4546,19 @@ msgstr ""
 
 # game/script.rpy:6371 #-#-# translate crowdin sidneyangryroom_c5a8f8e5:
 msgid "[_S_] Oh my gosh! They're beautiful!"
-msgstr ""
+msgstr "[_S_] Panebože! Sú nádherné!"
 
 # game/script.rpy:6372 #-#-# translate crowdin sidneyangryroom_0ef29b7a:
 msgid "[_S_] You're such a charmer!"
-msgstr ""
+msgstr "[_S_] Si taký šarmantný!"
 
 # game/script.rpy:6373 #-#-# translate crowdin sidneyangryroom_c8b74f2e:
 msgid "[_S_] If I didn't know any better, I would think you were trying to put the moves on me!"
-msgstr ""
+msgstr "[_S_] Keby som to nevedela, myslela by som si, že sa ma snažíš dostať!"
 
 # game/script.rpy:6376 #-#-# translate crowdin sidneyangryroom_f71426ab:
 msgid "{i}{b}\"Sidney's Anger -10\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney hnev -10\"{/b}{/i}"
 
 # game/script.rpy:6377 #-#-# translate crowdin sidneyangryroom_d42e829d:
 msgid "{i}{b}\"Sidney's Affection +1\"{/b}{/i}"
@@ -4566,7 +4566,7 @@ msgstr ""
 
 # game/script.rpy:6379 #-#-# translate crowdin sidneyangryroom_38b97587:
 msgid "[_S_] Thank you so much!"
-msgstr ""
+msgstr "[_S_] Ďakujem veľmi pekne!"
 
 # game/script.rpy:6380 #-#-# translate crowdin sidneyangryroom_e3882901:
 msgid "[_RT_] {i}Oh, wow.{/i}"
@@ -4574,7 +4574,7 @@ msgstr ""
 
 # game/script.rpy:6386 #-#-# translate crowdin sidneyangryroom_b538d921:
 msgid "[_S_] You jerk! You made me get up for that."
-msgstr ""
+msgstr "[_S_] Ty blbec! Donútil si ma kvôli tomu vstať."
 
 # game/script.rpy:6387 #-#-# translate crowdin sidneyangryroom_7b3429cc:
 msgid "{i}{b}\"Sidney's Anger +1\"{/b}{/i}"
@@ -4582,7 +4582,7 @@ msgstr ""
 
 # game/script.rpy:6394 #-#-# translate crowdin sidneyangryroom_21960dfa:
 msgid "[_S_] You already gave me a gift. Stop being pervy!"
-msgstr ""
+msgstr "[_S_] Už si mi dal darček. Prestaň byť perverzný!"
 
 # game/script.rpy:6396 #-#-# translate crowdin sidneyangryroom_7b3429cc_1:
 msgid "{i}{b}\"Sidney's Anger +1\"{/b}{/i}"
@@ -4590,7 +4590,7 @@ msgstr ""
 
 # game/script.rpy:6402 #-#-# translate crowdin sidneyangryroom_94deac36:
 msgid "[_S_] Well, it's going to take more than just words for me to forgive you for what you did!"
-msgstr ""
+msgstr "[_S_] No, na to, aby som ti odpustila, čo si urobil, mi nestačia len slová!"
 
 # game/script.rpy:6403 #-#-# translate crowdin sidneyangryroom_b8504862:
 msgid "[_RT_] {i}I guess I better give her some time, or maybe I can get her a present so she won't be so mad.{/i}"
@@ -4598,7 +4598,7 @@ msgstr ""
 
 # game/script.rpy:6424 #-#-# translate crowdin laurendresser_8af56dc4:
 msgid "{b}{i}\"You have found the \"Two of Spades\" Card!\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Našli ste kartu \"Piková dvojka\"!\"{/i}{/b}"
 
 # game/script.rpy:6425 #-#-# translate crowdin laurendresser_6bf1c5f2:
 msgid "{b}{i}\"View this card in the gallery and the casino\"{/i}{/b}"
@@ -4606,59 +4606,59 @@ msgstr ""
 
 # game/script.rpy:6438 #-#-# translate crowdin laurendresser_6e1f3452:
 msgid "[_RT_] {i}Why would I go through her stuff?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Prečo by som sa mal prehrabávať v jej veciach?{/i}"
 
 # game/script.rpy:6443 #-#-# translate crowdin laurendresser_6e1f3452_1:
 msgid "[_RT_] {i}Why would I go through her stuff?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Prečo by som sa mal prehrabávať v jej veciach?{/i}"
 
 # game/script.rpy:6455 #-#-# translate crowdin dresserearlymorning_6e1f3452:
 msgid "[_RT_] {i}Why would I go through her stuff?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Prečo by som sa mal prehrabávať v jej veciach?{/i}"
 
 # game/script.rpy:6460 #-#-# translate crowdin dresserearlymorning_af9ffca0:
 msgid "[_RT_] {i}Those are some sexy panties, I'll bet they smell amazing. If only she wasn't lying just right there.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}To sú ale sexi nohavičky, určite úžasne voňajú. Keby len neležali práve tam.{/i}"
 
 # game/script.rpy:6466 #-#-# translate crowdin dresserearlymorning_200e5443:
 msgid "[_RT_] {i}Nothing interesting here.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nie je tu nič zaujímavé.{/i}"
 
 # game/script.rpy:6472 #-#-# translate crowdin dresserearlymorning_d3fddb6b:
 msgid "[_RT_] {i}Nice Panties. They smell great!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Pekné nohavičky. Skvele voňajú!{/i}"
 
 # game/script.rpy:6477 #-#-# translate crowdin dresserearlymorning_200e5443_1:
 msgid "[_RT_] {i}Nothing interesting here.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nie je tu nič zaujímavé.{/i}"
 
 # game/script.rpy:6482 #-#-# translate crowdin dresserearlymorning_1e8df3ab:
 msgid "[_RT_] {i}Why would I go through all her stuff?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Prečo by som sa mal prehrabávať v jej veciach?{/i}"
 
 # game/script.rpy:6487 #-#-# translate crowdin dresserearlymorning_200e5443_2:
 msgid "[_RT_] {i}Nothing interesting here.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nie je tu nič zaujímavé.{/i}"
 
 # game/script.rpy:6500 #-#-# translate crowdin dressernight_f20bcb43:
 msgid "[_RT_] {i}Some sexy undies! They don't smell as good as the ones in the laundry basket!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Sexi nohavičky! Nevoňajú tak dobre ako tie v koši na bielizeň!{/i}"
 
 # game/script.rpy:6506 #-#-# translate crowdin dressernight_200e5443:
 msgid "[_RT_] {i}Nothing interesting here.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nie je tu nič zaujímavé.{/i}"
 
 # game/script.rpy:6511 #-#-# translate crowdin dressernight_200e5443_1:
 msgid "[_RT_] {i}Nothing interesting here.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nie je tu nič zaujímavé.{/i}"
 
 # game/script.rpy:6516 #-#-# translate crowdin dressernight_200e5443_2:
 msgid "[_RT_] {i}Nothing interesting here.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nie je tu nič zaujímavé.{/i}"
 
 # game/script.rpy:6532 #-#-# translate crowdin laurenlaundry_31137a0e:
 msgid "{b}{i}\"You have found the \"Four of Clubs\" Card!\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Našli ste kartu \"Štyri palice\"!\"{/i}{/b}"
 
 # game/script.rpy:6533 #-#-# translate crowdin laurenlaundry_6bf1c5f2:
 msgid "{b}{i}\"View this card in the gallery and the casino\"{/i}{/b}"
@@ -4666,95 +4666,95 @@ msgstr ""
 
 # game/script.rpy:6546 #-#-# translate crowdin laurenlaundry_1ca19cf2:
 msgid "[_RT_] {i}Dirty laundry, gross!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Špinavé prádlo, nechutné!{/i}"
 
 # game/script.rpy:6551 #-#-# translate crowdin laurenlaundry_1ca19cf2_1:
 msgid "[_RT_] {i}Dirty laundry, gross!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Špinavé prádlo, nechutné!{/i}"
 
 # game/script.rpy:6555 #-#-# translate crowdin laurenlaundry_1ca19cf2_2:
 msgid "[_RT_] {i}Dirty laundry, gross!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Špinavé prádlo, nechutné!{/i}"
 
 # game/script.rpy:6567 #-#-# translate crowdin laundryearlymorning_5fd6b914:
 msgid "[_RT_] {i}Dirty Laundry, gross!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Špinavé prádlo, nechutné!{/i}"
 
 # game/script.rpy:6572 #-#-# translate crowdin laundryearlymorning_d8ab564d:
 msgid "[_RT_] {i}There's some of Lauren's used panties. I'll bet they smell even better than the ones in her drawers. I don't want her to see me sniffing her panties though.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Je tu niekoľko Laureniných použitých nohavičiek. Stavím sa, že voňajú ešte lepšie ako tie v jej zásuvkách. Nechcem, aby videla, ako jej čuchám k nohavičkám.{/i}"
 
 # game/script.rpy:6578 #-#-# translate crowdin laundryearlymorning_5fd6b914_1:
 msgid "[_RT_] {i}Dirty Laundry, gross!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Špinavé prádlo, nechutné!{/i}"
 
 # game/script.rpy:6584 #-#-# translate crowdin laundryearlymorning_2b711f9d:
 msgid "[_RT_] {i}There's some sexy used panties, I guess it couldn't hurt to give them a sniff.... sniffffffff.... oh yeah! Instant boner.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Sú tu nejaké použité sexy nohavičky, myslím, že by nebolo na škodu si čuchnúť.... sniffffffff.... oh yeah! Okamžitá erekcia.{/i}"
 
 # game/script.rpy:6588 #-#-# translate crowdin laundryearlymorning_5fd6b914_2:
 msgid "[_RT_] {i}Dirty Laundry, gross!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Špinavé prádlo, nechutné!{/i}"
 
 # game/script.rpy:6593 #-#-# translate crowdin laundryearlymorning_5fd6b914_3:
 msgid "[_RT_] {i}Dirty Laundry, gross!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Špinavé prádlo, nechutné!{/i}"
 
 # game/script.rpy:6598 #-#-# translate crowdin laundryearlymorning_5fd6b914_4:
 msgid "[_RT_] {i}Dirty Laundry, gross!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Špinavé prádlo, nechutné!{/i}"
 
 # game/script.rpy:6611 #-#-# translate crowdin laundrynight_2b711f9d:
 msgid "[_RT_] {i}There's some sexy used panties, I guess it couldn't hurt to give them a sniff.... sniffffffff.... oh yeah! Instant boner.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Sú tu nejaké použité sexy nohavičky, myslím, že by nebolo na škodu si čuchnúť.... sniffffffff.... oh yeah! Okamžitá erekcia.{/i}"
 
 # game/script.rpy:6616 #-#-# translate crowdin laundrynight_5fd6b914:
 msgid "[_RT_] {i}Dirty Laundry, gross!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Špinavé prádlo, nechutné!{/i}"
 
 # game/script.rpy:6621 #-#-# translate crowdin laundrynight_5fd6b914_1:
 msgid "[_RT_] {i}Dirty Laundry, gross!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Špinavé prádlo, nechutné!{/i}"
 
 # game/script.rpy:6632 #-#-# translate crowdin laurensneakingnight_c7028dcb:
 msgid "[_RT_] {i}I don't think the subliminal messages are having any more effect, I'll have to think of something else to make her more submissive.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Myslím, že podprahové správy už nemajú žiadny účinok, budem musieť vymyslieť niečo iné, aby bola poddanejšia.{/i}"
 
 # game/script.rpy:6633 #-#-# translate crowdin laurensneakingnight_95b6633e:
 msgid "[_RT_] {i}I should start thinking of other fun things I can do to her while she's in such a deep sleep.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Mal by som začať rozmýšľať nad ďalšími zábavnými vecami, ktoré by som jej mohol robiť, keď je v takom hlbokom spánku.{/i}"
 
 # game/script.rpy:6639 #-#-# translate crowdin laurensneakingnight_4c848fd6:
 msgid "[_RT_] {i}{b}(HINT){/b} I need to satisfy some urges tonight... I should keep sneaking into Lauren's room and take full advantage of the melatonin tea.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(NÁVOD){/b} Dnes večer musím uspokojiť nejaké nutkania... Mal by som sa vkradnúť do Laurinej izby a naplno využiť melatonínový čaj.{/i}"
 
 # game/script.rpy:6651 #-#-# translate crowdin laurensneakingnight_3f0a0159:
 msgid "[_RT_] {i}I just can't get Mom's amazing bare tits and sculpted ass out of my mind! The way she moved.... her perfect body!.... She has a body that could be in porn!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nemôžem dostať z hlavy mamine úžasné holé prsia a vyrysovaný zadok! To, ako sa pohybuje.... jej dokonalé telo!.... Má telo, ktoré by mohlo byť v porne!{/i}"
 
 # game/script.rpy:6652 #-#-# translate crowdin laurensneakingnight_5b4ca208:
 msgid "[_RT_] {i}And just like porn, I'm addicted to seeing Mom naked. I've got to see more of it! I've got those pictures on my computer now, but that's not enough!!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}A rovnako ako na porne som závislý od toho, keď vidím mamu nahú. Musím toho vidieť viac! Mám tie fotky v počítači, ale to nestačí!!!{/i}"
 
 # game/script.rpy:6653 #-#-# translate crowdin laurensneakingnight_b0d3afd0:
 msgid "[_RT_] {i}I need to touch her.... taste her.... smell her!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Musím sa jej dotknúť.... ochutnať ju.... cítiť jej vôňu!{/i}"
 
 # game/script.rpy:6654 #-#-# translate crowdin laurensneakingnight_4ba593ac:
 msgid "[_RT_] {i}Ohhh man.... I am so messed up right now!.... I know it's so incredibly wrong.... but I've just got to make her mine!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ohhh.... Som teraz taký zmätený!.... Viem, že je to tak neuveriteľne zlé.... ale jednoducho ju musím urobiť mojou!{/i}"
 
 # game/script.rpy:6655 #-#-# translate crowdin laurensneakingnight_c47d84d0:
 msgid "[_RT_] {i}This is all her fault! Since when is she so good at shaking her perfect tits in public? Where did she learn to move like that?.... That's so.... hot!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Za všetko môže ona! Odkedy je taká dobrá v natriasaní svojich dokonalých pŕs na verejnosti? Kde sa to naučila? .... To je tak.... sexy!{/i}"
 
 # game/script.rpy:6656 #-#-# translate crowdin laurensneakingnight_d4fa42d1:
 msgid "[_RT_] {i}I've never wanted or lusted for someone so badly! And that person being my own mother?!!!.... Could it even be possible?... {/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ešte nikdy som po niekom tak veľmi netúžil! A tá osoba je moja vlastná matka?!!!.... Je to vôbec možné?... {/i}"
 
 # game/script.rpy:6657 #-#-# translate crowdin laurensneakingnight_0e3d3d55:
 msgid "[_RT_] {i}Just look at little Lauren sleeping innocently in bed. So innocent, so naive about how slutty her mom is.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Len sa pozrite na malú Lauren, ako nevinne spí v posteli. Taká nevinná, taká naivná, aká je jej mama štetka.{/i}"
 
 # game/script.rpy:6658 #-#-# translate crowdin laurensneakingnight_d9856f11:
 msgid "[_RT_] {i}Actually.... she looks a lot like Mom!.... Just a little mini version of her.{/i}"
