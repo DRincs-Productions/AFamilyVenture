@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-06-14 19:06\n"
+"PO-Revision-Date: 2023-06-14 20:03\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/script.rpy:320 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -298,7 +298,7 @@ msgstr "[_L_] [ryan] môžeš prísť do salónika a pomôcť mi!"
 
 # game/script.rpy:983 #-#-# translate crowdin myroom_3959ba15:
 msgid "[_RT_] {i}What did I just walk in on? It's like Mom and Lauren are purposely trying to be cock-teases lately.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Na čo som práve vošiel? Akoby sa mama a Lauren v poslednej dobe zámerne snažili byť za hajzlíkov."
 
 # game/script.rpy:984 #-#-# translate crowdin myroom_3219b135:
 msgid "[_RT_] {i}Has it always been like this, and now I'm just starting to notice? I'm sure I'm reading way more into this than I should.{/i}"
@@ -306,35 +306,35 @@ msgstr "[_RT_] {i}Bolo to tak vždy a ja si to začínam všímať až teraz? So
 
 # game/script.rpy:990 #-#-# translate crowdin myroom_af1bc791:
 msgid "[_L_] I'm looking for the TV remote."
-msgstr ""
+msgstr "[_L_] Hľadám diaľkový ovládač od televízora."
 
 # game/script.rpy:991 #-#-# translate crowdin myroom_e7d0e6d5:
 msgid "[_L_] Do you know where it is?"
-msgstr ""
+msgstr "[_L_] Vieš, kde sa nachádza?"
 
 # game/script.rpy:992 #-#-# translate crowdin myroom_a569424d:
 msgid "[_R_] I'm sorry I haven't seen it."
-msgstr ""
+msgstr "[_R_] Je mi ľúto, že som ho nevidel."
 
 # game/script.rpy:994 #-#-# translate crowdin myroom_be92b71f:
 msgid "[_L_] Well, you were the last one to watch TV, so you must be the one who lost it."
-msgstr ""
+msgstr "[_L_] No, ty si bol posledný, kto sledoval televíziu, takže si to musel byť ty, kto ho stratil."
 
 # game/script.rpy:995 #-#-# translate crowdin myroom_0173ae5f:
 msgid "[_L_] The least you can do is help me find it. Bend down here and help me look."
-msgstr ""
+msgstr "[_L_] To najmenej, čo môžeš urobiť, je pomôcť mi ho nájsť. Zohni sa sem a pomôž mi hľadať."
 
 # game/script.rpy:998 #-#-# translate crowdin myroom_5ab2d65a:
 msgid "[_RT_] {i}Look for the remote?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Hľadať diaľkové ovládanie?{/i}"
 
 # game/script.rpy:999 #-#-# translate crowdin myroom_c6572b27:
 msgid "[_RT_] {i}How am I supposed to concentrate on anything else besides this view right in front of me?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ako sa mám sústrediť na niečo iné okrem tohto pohľadu priamo predo mnou?{/i}"
 
 # game/script.rpy:1000 #-#-# translate crowdin myroom_032d3494:
 msgid "[_RT_] {i}Hmmm.... I wonder.... {/i}"
-msgstr ""
+msgstr "[_RT_] {i}Hmmm.... Zaujímalo by ma.... {/i}"
 
 # game/script.rpy:1003 #-#-# translate crowdin myroom_28607e4c:
 msgid "[_RT_] {i}Oh my God, I can!{/i}"
@@ -342,31 +342,31 @@ msgstr "[_RT_] {i}Bože môj, ja môžem!{/i}"
 
 # game/script.rpy:1004 #-#-# translate crowdin myroom_2141e536:
 msgid "[_RT_] {i}I can kind of smell her pussy from this close.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Z takejto blízkosti cítim vôňu jej kundičky.{/i}"
 
 # game/script.rpy:1005 #-#-# translate crowdin myroom_5f9b570a:
 msgid "[_RT_] {i}I've never smelled a pussy before, I kind of like it.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nikdy predtým som necítil vôňu kundičky, celkom sa mi to páči.{/i}"
 
 # game/script.rpy:1006 #-#-# translate crowdin myroom_f6c129df:
 msgid "[_RT_] {i}I've got to get closer.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Musím sa dostať bližšie.{/i}"
 
 # game/script.rpy:1009 #-#-# translate crowdin myroom_6b4f781d:
 msgid "[_RT_] {i}Wow! That smells incredible!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Wow! To neuveriteľne vonia!{/i}"
 
 # game/script.rpy:1010 #-#-# translate crowdin myroom_ce5f0a99:
 msgid "[_RT_] {i}I wish I could taste it.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Chcel by som ju ochutnať.{/i}"
 
 # game/script.rpy:1011 #-#-# translate crowdin myroom_647b8d0a:
 msgid "[_RT_] {i}It just turns me on so much!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Tak veľmi ma to vzrušuje!{/i}"
 
 # game/script.rpy:1012 #-#-# translate crowdin myroom_be7ee987:
 msgid "[_L_] Well, I don't see the remote in this corner, I'm coming back."
-msgstr ""
+msgstr "[_L_] No, v tomto rohu nevidím diaľkový ovládač, vrátim sa."
 
 # game/script.rpy:1013 #-#-# translate crowdin myroom_14af55a0:
 msgid "[_R_] Wait!"
@@ -374,11 +374,11 @@ msgstr ""
 
 # game/script.rpy:1017 #-#-# translate crowdin myroom_ce1279a8:
 msgid "[_R_] Mmphh..."
-msgstr ""
+msgstr "[_R_] Mmphh..."
 
 # game/script.rpy:1024 #-#-# translate crowdin myroom_6f8632c2:
 msgid "[_L_] [ryan]?.... Is that your face in my ass?"
-msgstr ""
+msgstr "[_L_] [ryan]?.... Je to tvoja tvár v mojom zadku?"
 
 # game/script.rpy:1025 #-#-# translate crowdin myroom_46fa7af0:
 msgid "[_L_] [ryan]?..."
@@ -390,31 +390,31 @@ msgstr "{i}{b}\"Laurenino libido +1\"{/b}{/i}"
 
 # game/script.rpy:1030 #-#-# translate crowdin myroom_19aacb37:
 msgid "[_R_] Uhh.... yeah.... sorry. I was just looking for the remote under this couch cushion, and didn't realize I was that close to you until you backed up."
-msgstr ""
+msgstr "[_R_] Uhh.... áno.... Prepáč. Práve som hľadal ovládač pod týmto gaučovým vankúšom a neuvedomil som si, že som tak blízko teba, kým si necúvla."
 
 # game/script.rpy:1031 #-#-# translate crowdin myroom_020ea7dc:
 msgid "[_RT_] {i}Oh my God, it smells so good I can almost taste it.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Bože, to tak krásne vonia, že to skoro chutnám.{/i}"
 
 # game/script.rpy:1032 #-#-# translate crowdin myroom_a55ec256:
 msgid "[_L_] Well, would you mind removing it?"
-msgstr ""
+msgstr "[_L_] Mohol by si ho odstrániť?"
 
 # game/script.rpy:1033 #-#-# translate crowdin myroom_5c5e1293:
 msgid "[_R_] Oh yeah.... of course."
-msgstr ""
+msgstr "[_R_] .... Áno!.... Samozrejme."
 
 # game/script.rpy:1037 #-#-# translate crowdin myroom_1dee0a5b:
 msgid "[_L_] Well, that was a little awkward!"
-msgstr ""
+msgstr "[_L_] No, to bolo trochu trápne!"
 
 # game/script.rpy:1038 #-#-# translate crowdin myroom_32411e06:
 msgid "[_R_] Only if you make it. It was just an accident."
-msgstr ""
+msgstr "[_R_] Iba ak sa ti to podarí. Bola to len nehoda."
 
 # game/script.rpy:1039 #-#-# translate crowdin myroom_33c44104:
 msgid "[_L_] I guess."
-msgstr ""
+msgstr "[_L_] Hádam."
 
 # game/script.rpy:1040 #-#-# translate crowdin myroom_b9a06102:
 msgid "[_R_] So do you want to watch some TV?"
@@ -422,23 +422,23 @@ msgstr "[_R_] Chceš si pozrieť televíziu?"
 
 # game/script.rpy:1042 #-#-# translate crowdin myroom_c2bbc9a3:
 msgid "[_L_] I'm still pissed off at you remember."
-msgstr ""
+msgstr "[_L_] Stále som na teba naštvaná, pamätáš?"
 
 # game/script.rpy:1043 #-#-# translate crowdin myroom_e4a1a96b:
 msgid "[_L_] Ugghh.... I'm just going to go to my room."
-msgstr ""
+msgstr "[_L_] Ugghh.... Práve idem do svojej izby."
 
 # game/script.rpy:1052 #-#-# translate crowdin myroom_0f0ac225:
 msgid "[_R_] Sorry, that was a little awkward!"
-msgstr ""
+msgstr "[_R_] Prepáč, bolo to trochu trápne!"
 
 # game/script.rpy:1053 #-#-# translate crowdin myroom_8c0023bc:
 msgid "[_L_] Only if you let it be, it was just an accident."
-msgstr ""
+msgstr "[_L_] Len ak to necháš tak, bola to len nehoda."
 
 # game/script.rpy:1054 #-#-# translate crowdin myroom_75f0fd78:
 msgid "[_R_] Yeah.... I guess so."
-msgstr ""
+msgstr "[_R_] Áno.... Myslím, že áno."
 
 # game/script.rpy:1055 #-#-# translate crowdin myroom_42a0b068:
 msgid "[_L_] So do you want to watch TV with me?"
@@ -446,7 +446,7 @@ msgstr "[_L_] Chceš so mnou pozerať televíziu?"
 
 # game/script.rpy:1056 #-#-# translate crowdin myroom_9fb4357b:
 msgid "[_R_] Ok, what are you watching?"
-msgstr ""
+msgstr "[_R_] Dobre, čo sleduješ?"
 
 # game/script.rpy:1057 #-#-# translate crowdin myroom_c990b05a:
 msgid "[_L_] I'm just starting season one of \"Game of Thots\"."
@@ -878,15 +878,15 @@ msgstr "[_L_] Nebudeš ho zakrývať?"
 
 # game/script.rpy:2561 #-#-# translate crowdin wakeupryan_1f2168ba:
 msgid "[_L_] You're actually bigger than I dreamt you were last ni.... I mean than I imagined you were."
-msgstr ""
+msgstr "[_L_] V skutočnosti si väčší, ako sa mi zdalo, že si bol naposledy.... Teda než som si predstavovala, že si."
 
 # game/script.rpy:2562 #-#-# translate crowdin wakeupryan_b7ab1c17:
 msgid "[_L_] I mean, I've never seen one in real life, just in porn..."
-msgstr ""
+msgstr "[_L_] Teda, nikdy som ani jeden nevidela v reálnom živote, len v porne..."
 
 # game/script.rpy:2563 #-#-# translate crowdin wakeupryan_4a0656c8:
 msgid "[_L_] And you're as big as they are."
-msgstr ""
+msgstr "[_L_] A ty si rovnako veľký ako oni."
 
 # game/script.rpy:2566 #-#-# translate crowdin wakeupryan_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
@@ -898,11 +898,11 @@ msgstr "{i}{b}\"Laurenino poddanie +1\"{/b}{/i}"
 
 # game/script.rpy:2568 #-#-# translate crowdin wakeupryan_fb7fef67:
 msgid "[_RT_] {i}So she did dream about me last night. I'll have to keep whispering suggestions at night.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Takže sa jej v noci snívalo o mne. Budem musieť v noci šepkať návrhy.{/i}"
 
 # game/script.rpy:2569 #-#-# translate crowdin wakeupryan_98cbe481:
 msgid "[_R_] Thanks.... I guess."
-msgstr ""
+msgstr "[_R_] Vďaka.... Hádam."
 
 # game/script.rpy:2570 #-#-# translate crowdin wakeupryan_1c3f3c2f:
 msgid "[_L_] Anyways.... I should go and let you take care of that, or get dressed, or whatever you do to hide your boner."
@@ -910,7 +910,7 @@ msgstr "[_L_] V každom prípade.... Mala by som ísť a nechať ťa, aby si sa 
 
 # game/script.rpy:2571 #-#-# translate crowdin wakeupryan_5b11e247:
 msgid "[_R_] Ok, see you later I guess."
-msgstr ""
+msgstr "[_R_] Ok, uvidíme sa neskôr."
 
 # game/script.rpy:2579 #-#-# translate crowdin wakeupryan_ff8b94ef:
 msgid "[_RT_] {i}{b}(HINT){/b} Lauren likes to hang out in the living room in the evenings. Maybe I should go see her.{/i}"
@@ -918,23 +918,23 @@ msgstr "[_RT_] {i}{b}(NÁVOD){/b} Lauren sa večer rada zdržiava v obývačke. 
 
 # game/script.rpy:2587 #-#-# translate crowdin wakeupryan_97ccfaa4:
 msgid "[_R_] You're the one in my room uninvited."
-msgstr ""
+msgstr "[_R_] To ty si v mojej izbe bez pozvania."
 
 # game/script.rpy:2588 #-#-# translate crowdin wakeupryan_b0f6b89f:
 msgid "[_L_] Weird flex, but ok."
-msgstr ""
+msgstr "[_L_] Divné, ale v poriadku."
 
 # game/script.rpy:2589 #-#-# translate crowdin wakeupryan_1f2168ba_1:
 msgid "[_L_] You're actually bigger than I dreamt you were last ni.... I mean than I imagined you were."
-msgstr ""
+msgstr "[_L_] V skutočnosti si väčší, ako sa mi zdalo, že si bol naposledy.... Teda než som si predstavovala, že si."
 
 # game/script.rpy:2590 #-#-# translate crowdin wakeupryan_b7ab1c17_1:
 msgid "[_L_] I mean, I've never seen one in real life, just in porn..."
-msgstr ""
+msgstr "[_L_] Teda, nikdy som ani jeden nevidela v reálnom živote, len v porne..."
 
 # game/script.rpy:2591 #-#-# translate crowdin wakeupryan_4a0656c8_1:
 msgid "[_L_] And you're as big as they are."
-msgstr ""
+msgstr "[_L_] A ty si rovnako veľký ako oni."
 
 # game/script.rpy:2593 #-#-# translate crowdin wakeupryan_0d95a840:
 msgid "{i}{b}\"Lauren's Libido +5\"{/b}{/i}"
@@ -942,35 +942,35 @@ msgstr ""
 
 # game/script.rpy:2594 #-#-# translate crowdin wakeupryan_fb7fef67_1:
 msgid "[_RT_] {i}So she did dream about me last night. I'll have to keep whispering suggestions at night.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Takže sa jej v noci snívalo o mne. Budem musieť v noci šepkať návrhy.{/i}"
 
 # game/script.rpy:2595 #-#-# translate crowdin wakeupryan_98cbe481_1:
 msgid "[_R_] Thanks.... I guess."
-msgstr ""
+msgstr "[_R_] Vďaka.... Hádam."
 
 # game/script.rpy:2596 #-#-# translate crowdin wakeupryan_e09ad2e4:
 msgid "[_L_] Do you mind me looking?"
-msgstr ""
+msgstr "[_L_] Môžem sa pozrieť?"
 
 # game/script.rpy:2597 #-#-# translate crowdin wakeupryan_b6c63cc8:
 msgid "[_R_] No, not really. I know you're just curious."
-msgstr ""
+msgstr "[_R_] Nie, nie celkom. Viem, že si len zvedavá."
 
 # game/script.rpy:2598 #-#-# translate crowdin wakeupryan_0f27c02f:
 msgid "[_R_] I get curious too sometimes. Maybe you can show me something as well."
-msgstr ""
+msgstr "[_R_] Aj ja som niekedy zvedavý. Možno mi tiež niečo ukážeš."
 
 # game/script.rpy:2601 #-#-# translate crowdin wakeupryan_5d1d5f2e:
 msgid "[_L_] Ohh! You Pervert!"
-msgstr ""
+msgstr "[_L_] Ohh! Ty zvrhlík!"
 
 # game/script.rpy:2602 #-#-# translate crowdin wakeupryan_7a73494d:
 msgid "[_L_] I should have known better then to talk about anything sexual with you!"
-msgstr ""
+msgstr "[_L_] Mala som vedieť, že s tebou nemám hovoriť o ničom sexuálnom!"
 
 # game/script.rpy:2603 #-#-# translate crowdin wakeupryan_c5e37f93:
 msgid "[_L_] I'm leaving so you can take care of your little morning wood problem however you want!"
-msgstr ""
+msgstr "[_L_] Odchádzam, takže sa môžeš postarať o svoj malý problém s ranným drevom, ako chceš!"
 
 # game/script.rpy:2604 #-#-# translate crowdin wakeupryan_9743e504:
 msgid "{i}{b}\"Lauren's Anger +10\"{/b}{/i}"
@@ -994,7 +994,7 @@ msgstr ""
 
 # game/script.rpy:2857 #-#-# translate crowdin loungeevening_3959ba15:
 msgid "[_RT_] {i}What did I just walk in on? It's like Mom and Lauren are purposely trying to be cock-teases lately.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Na čo som práve vošiel? Akoby sa mama a Lauren v poslednej dobe zámerne snažili byť za hajzlíkov."
 
 # game/script.rpy:2858 #-#-# translate crowdin loungeevening_3219b135:
 msgid "[_RT_] {i}Has it always been like this, and now I'm just starting to notice? I'm sure I'm reading way more into this than I should.{/i}"
@@ -1002,35 +1002,35 @@ msgstr "[_RT_] {i}Bolo to tak vždy a ja si to začínam všímať až teraz? So
 
 # game/script.rpy:2864 #-#-# translate crowdin loungeevening_af1bc791:
 msgid "[_L_] I'm looking for the TV remote."
-msgstr ""
+msgstr "[_L_] Hľadám diaľkový ovládač od televízora."
 
 # game/script.rpy:2865 #-#-# translate crowdin loungeevening_e7d0e6d5:
 msgid "[_L_] Do you know where it is?"
-msgstr ""
+msgstr "[_L_] Vieš, kde sa nachádza?"
 
 # game/script.rpy:2866 #-#-# translate crowdin loungeevening_a569424d:
 msgid "[_R_] I'm sorry I haven't seen it."
-msgstr ""
+msgstr "[_R_] Je mi ľúto, že som ho nevidel."
 
 # game/script.rpy:2868 #-#-# translate crowdin loungeevening_be92b71f:
 msgid "[_L_] Well, you were the last one to watch TV, so you must be the one who lost it."
-msgstr ""
+msgstr "[_L_] No, ty si bol posledný, kto sledoval televíziu, takže si to musel byť ty, kto ho stratil."
 
 # game/script.rpy:2869 #-#-# translate crowdin loungeevening_0173ae5f:
 msgid "[_L_] The least you can do is help me find it. Bend down here and help me look."
-msgstr ""
+msgstr "[_L_] To najmenej, čo môžeš urobiť, je pomôcť mi ho nájsť. Zohni sa sem a pomôž mi hľadať."
 
 # game/script.rpy:2872 #-#-# translate crowdin loungeevening_5ab2d65a:
 msgid "[_RT_] {i}Look for the remote?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Hľadať diaľkové ovládanie?{/i}"
 
 # game/script.rpy:2873 #-#-# translate crowdin loungeevening_c6572b27:
 msgid "[_RT_] {i}How am I supposed to concentrate on anything else besides this view right in front of me?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ako sa mám sústrediť na niečo iné okrem tohto pohľadu priamo predo mnou?{/i}"
 
 # game/script.rpy:2874 #-#-# translate crowdin loungeevening_032d3494:
 msgid "[_RT_] {i}Hmmm.... I wonder.... {/i}"
-msgstr ""
+msgstr "[_RT_] {i}Hmmm.... Zaujímalo by ma.... {/i}"
 
 # game/script.rpy:2877 #-#-# translate crowdin loungeevening_28607e4c:
 msgid "[_RT_] {i}Oh my God, I can!{/i}"
@@ -1038,31 +1038,31 @@ msgstr "[_RT_] {i}Bože môj, ja môžem!{/i}"
 
 # game/script.rpy:2878 #-#-# translate crowdin loungeevening_2141e536:
 msgid "[_RT_] {i}I can kind of smell her pussy from this close.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Z takejto blízkosti cítim vôňu jej kundičky.{/i}"
 
 # game/script.rpy:2879 #-#-# translate crowdin loungeevening_5f9b570a:
 msgid "[_RT_] {i}I've never smelled a pussy before, I kind of like it.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nikdy predtým som necítil vôňu kundičky, celkom sa mi to páči.{/i}"
 
 # game/script.rpy:2880 #-#-# translate crowdin loungeevening_f6c129df:
 msgid "[_RT_] {i}I've got to get closer.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Musím sa dostať bližšie.{/i}"
 
 # game/script.rpy:2883 #-#-# translate crowdin loungeevening_6b4f781d:
 msgid "[_RT_] {i}Wow! That smells incredible!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Wow! To neuveriteľne vonia!{/i}"
 
 # game/script.rpy:2884 #-#-# translate crowdin loungeevening_ce5f0a99:
 msgid "[_RT_] {i}I wish I could taste it.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Chcel by som ju ochutnať.{/i}"
 
 # game/script.rpy:2885 #-#-# translate crowdin loungeevening_647b8d0a:
 msgid "[_RT_] {i}It just turns me on so much!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Tak veľmi ma to vzrušuje!{/i}"
 
 # game/script.rpy:2886 #-#-# translate crowdin loungeevening_be7ee987:
 msgid "[_L_] Well, I don't see the remote in this corner, I'm coming back."
-msgstr ""
+msgstr "[_L_] No, v tomto rohu nevidím diaľkový ovládač, vrátim sa."
 
 # game/script.rpy:2887 #-#-# translate crowdin loungeevening_14af55a0:
 msgid "[_R_] Wait!"
@@ -1070,11 +1070,11 @@ msgstr ""
 
 # game/script.rpy:2891 #-#-# translate crowdin loungeevening_ce1279a8:
 msgid "[_R_] Mmphh..."
-msgstr ""
+msgstr "[_R_] Mmphh..."
 
 # game/script.rpy:2898 #-#-# translate crowdin loungeevening_6f8632c2:
 msgid "[_L_] [ryan]?.... Is that your face in my ass?"
-msgstr ""
+msgstr "[_L_] [ryan]?.... Je to tvoja tvár v mojom zadku?"
 
 # game/script.rpy:2899 #-#-# translate crowdin loungeevening_46fa7af0:
 msgid "[_L_] [ryan]?..."
@@ -1086,31 +1086,31 @@ msgstr "{i}{b}\"Laurenino libido +1\"{/b}{/i}"
 
 # game/script.rpy:2904 #-#-# translate crowdin loungeevening_19aacb37:
 msgid "[_R_] Uhh.... yeah.... sorry. I was just looking for the remote under this couch cushion, and didn't realize I was that close to you until you backed up."
-msgstr ""
+msgstr "[_R_] Uhh.... áno.... Prepáč. Práve som hľadal ovládač pod týmto gaučovým vankúšom a neuvedomil som si, že som tak blízko teba, kým si necúvla."
 
 # game/script.rpy:2905 #-#-# translate crowdin loungeevening_020ea7dc:
 msgid "[_RT_] {i}Oh my God, it smells so good I can almost taste it.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Bože, to tak krásne vonia, že to skoro chutnám.{/i}"
 
 # game/script.rpy:2906 #-#-# translate crowdin loungeevening_a55ec256:
 msgid "[_L_] Well, would you mind removing it?"
-msgstr ""
+msgstr "[_L_] Mohol by si ho odstrániť?"
 
 # game/script.rpy:2907 #-#-# translate crowdin loungeevening_5c5e1293:
 msgid "[_R_] Oh yeah.... of course."
-msgstr ""
+msgstr "[_R_] .... Áno!.... Samozrejme."
 
 # game/script.rpy:2911 #-#-# translate crowdin loungeevening_1dee0a5b:
 msgid "[_L_] Well, that was a little awkward!"
-msgstr ""
+msgstr "[_L_] No, to bolo trochu trápne!"
 
 # game/script.rpy:2912 #-#-# translate crowdin loungeevening_32411e06:
 msgid "[_R_] Only if you make it. It was just an accident."
-msgstr ""
+msgstr "[_R_] Iba ak sa ti to podarí. Bola to len nehoda."
 
 # game/script.rpy:2913 #-#-# translate crowdin loungeevening_33c44104:
 msgid "[_L_] I guess."
-msgstr ""
+msgstr "[_L_] Hádam."
 
 # game/script.rpy:2914 #-#-# translate crowdin loungeevening_b9a06102:
 msgid "[_R_] So do you want to watch some TV?"
@@ -1118,11 +1118,11 @@ msgstr "[_R_] Chceš si pozrieť televíziu?"
 
 # game/script.rpy:2916 #-#-# translate crowdin loungeevening_c2bbc9a3:
 msgid "[_L_] I'm still pissed off at you remember."
-msgstr ""
+msgstr "[_L_] Stále som na teba naštvaná, pamätáš?"
 
 # game/script.rpy:2917 #-#-# translate crowdin loungeevening_e4a1a96b:
 msgid "[_L_] Ugghh.... I'm just going to go to my room."
-msgstr ""
+msgstr "[_L_] Ugghh.... Práve idem do svojej izby."
 
 # game/script.rpy:2932 #-#-# translate crowdin loungeevening_cf4c0aae:
 msgid "[_RT_] {i}{b}(HINT){/b} I should go to the kitchen in the evening for family dinner.{/i}"
@@ -1130,15 +1130,15 @@ msgstr "[_RT_] {i}{b}(NÁVOD){/b} Večer by som mal ísť do kuchyne na rodinnú
 
 # game/script.rpy:2941 #-#-# translate crowdin loungeevening_0f0ac225:
 msgid "[_R_] Sorry, that was a little awkward!"
-msgstr ""
+msgstr "[_R_] Prepáč, bolo to trochu trápne!"
 
 # game/script.rpy:2942 #-#-# translate crowdin loungeevening_8c0023bc:
 msgid "[_L_] Only if you let it be, it was just an accident."
-msgstr ""
+msgstr "[_L_] Len ak to necháš tak, bola to len nehoda."
 
 # game/script.rpy:2943 #-#-# translate crowdin loungeevening_75f0fd78:
 msgid "[_R_] Yeah.... I guess so."
-msgstr ""
+msgstr "[_R_] Áno.... Myslím, že áno."
 
 # game/script.rpy:2944 #-#-# translate crowdin loungeevening_42a0b068:
 msgid "[_L_] So do you want to watch TV with me?"
@@ -1146,7 +1146,7 @@ msgstr "[_L_] Chceš so mnou pozerať televíziu?"
 
 # game/script.rpy:2945 #-#-# translate crowdin loungeevening_9fb4357b:
 msgid "[_R_] Ok, what are you watching?"
-msgstr ""
+msgstr "[_R_] Dobre, čo sleduješ?"
 
 # game/script.rpy:2946 #-#-# translate crowdin loungeevening_c990b05a:
 msgid "[_L_] I'm just starting season one of \"Game of Thots\"."
@@ -1234,11 +1234,11 @@ msgstr "[_R_] Nebude ti vadiť, ak si s tebou pozriem televíziu?"
 
 # game/script.rpy:3006 #-#-# translate crowdin loungeevening_c2bbc9a3_1:
 msgid "[_L_] I'm still pissed off at you remember."
-msgstr ""
+msgstr "[_L_] Stále som na teba naštvaná, pamätáš?"
 
 # game/script.rpy:3007 #-#-# translate crowdin loungeevening_e4a1a96b_1:
 msgid "[_L_] Ugghh.... I'm just going to go to my room."
-msgstr ""
+msgstr "[_L_] Ugghh.... Práve idem do svojej izby."
 
 # game/script.rpy:3016 #-#-# translate crowdin loungeevening_e85188a6:
 msgid "[_L_] Hey [ryan], do you want to watch something with me?"
@@ -1246,7 +1246,7 @@ msgstr ""
 
 # game/script.rpy:3017 #-#-# translate crowdin loungeevening_9fb4357b_1:
 msgid "[_R_] Ok, what are you watching?"
-msgstr ""
+msgstr "[_R_] Dobre, čo sleduješ?"
 
 # game/script.rpy:3018 #-#-# translate crowdin loungeevening_c990b05a_1:
 msgid "[_L_] I'm just starting season one of \"Game of Thots\"."
@@ -1330,11 +1330,11 @@ msgstr "[_R_] Nebude ti vadiť, ak si s tebou pozriem televíziu?"
 
 # game/script.rpy:3061 #-#-# translate crowdin loungeevening_c2bbc9a3_2:
 msgid "[_L_] I'm still pissed off at you remember."
-msgstr ""
+msgstr "[_L_] Stále som na teba naštvaná, pamätáš?"
 
 # game/script.rpy:3062 #-#-# translate crowdin loungeevening_e4a1a96b_2:
 msgid "[_L_] Ugghh.... I'm just going to go to my room."
-msgstr ""
+msgstr "[_L_] Ugghh.... Práve idem do svojej izby."
 
 # game/script.rpy:3071 #-#-# translate crowdin loungeevening_e85188a6_1:
 msgid "[_L_] Hey [ryan], do you want to watch something with me?"
@@ -1342,7 +1342,7 @@ msgstr ""
 
 # game/script.rpy:3072 #-#-# translate crowdin loungeevening_9fb4357b_2:
 msgid "[_R_] Ok, what are you watching?"
-msgstr ""
+msgstr "[_R_] Dobre, čo sleduješ?"
 
 # game/script.rpy:3073 #-#-# translate crowdin loungeevening_1336b304:
 msgid "[_L_] Let's watch the next episode of \"Game of Thots\"!"
@@ -1358,7 +1358,7 @@ msgstr "{i}{b}\"Laurenino libido +1\"{/b}{/i}"
 
 # game/script.rpy:3108 #-#-# translate crowdin loungeeveningweekend_3959ba15:
 msgid "[_RT_] {i}What did I just walk in on? It's like Mom and Lauren are purposely trying to be cock-teases lately.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Na čo som práve vošiel? Akoby sa mama a Lauren v poslednej dobe zámerne snažili byť za hajzlíkov."
 
 # game/script.rpy:3109 #-#-# translate crowdin loungeeveningweekend_3219b135:
 msgid "[_RT_] {i}Has it always been like this, and now I'm just starting to notice? I'm sure I'm reading way more into this than I should.{/i}"
@@ -1366,35 +1366,35 @@ msgstr "[_RT_] {i}Bolo to tak vždy a ja si to začínam všímať až teraz? So
 
 # game/script.rpy:3115 #-#-# translate crowdin loungeeveningweekend_af1bc791:
 msgid "[_L_] I'm looking for the TV remote."
-msgstr ""
+msgstr "[_L_] Hľadám diaľkový ovládač od televízora."
 
 # game/script.rpy:3116 #-#-# translate crowdin loungeeveningweekend_e7d0e6d5:
 msgid "[_L_] Do you know where it is?"
-msgstr ""
+msgstr "[_L_] Vieš, kde sa nachádza?"
 
 # game/script.rpy:3117 #-#-# translate crowdin loungeeveningweekend_a569424d:
 msgid "[_R_] I'm sorry I haven't seen it."
-msgstr ""
+msgstr "[_R_] Je mi ľúto, že som ho nevidel."
 
 # game/script.rpy:3119 #-#-# translate crowdin loungeeveningweekend_be92b71f:
 msgid "[_L_] Well, you were the last one to watch TV, so you must be the one who lost it."
-msgstr ""
+msgstr "[_L_] No, ty si bol posledný, kto sledoval televíziu, takže si to musel byť ty, kto ho stratil."
 
 # game/script.rpy:3120 #-#-# translate crowdin loungeeveningweekend_0173ae5f:
 msgid "[_L_] The least you can do is help me find it. Bend down here and help me look."
-msgstr ""
+msgstr "[_L_] To najmenej, čo môžeš urobiť, je pomôcť mi ho nájsť. Zohni sa sem a pomôž mi hľadať."
 
 # game/script.rpy:3123 #-#-# translate crowdin loungeeveningweekend_5ab2d65a:
 msgid "[_RT_] {i}Look for the remote?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Hľadať diaľkové ovládanie?{/i}"
 
 # game/script.rpy:3124 #-#-# translate crowdin loungeeveningweekend_c6572b27:
 msgid "[_RT_] {i}How am I supposed to concentrate on anything else besides this view right in front of me?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ako sa mám sústrediť na niečo iné okrem tohto pohľadu priamo predo mnou?{/i}"
 
 # game/script.rpy:3125 #-#-# translate crowdin loungeeveningweekend_032d3494:
 msgid "[_RT_] {i}Hmmm.... I wonder.... {/i}"
-msgstr ""
+msgstr "[_RT_] {i}Hmmm.... Zaujímalo by ma.... {/i}"
 
 # game/script.rpy:3128 #-#-# translate crowdin loungeeveningweekend_28607e4c:
 msgid "[_RT_] {i}Oh my God, I can!{/i}"
@@ -1402,31 +1402,31 @@ msgstr "[_RT_] {i}Bože môj, ja môžem!{/i}"
 
 # game/script.rpy:3129 #-#-# translate crowdin loungeeveningweekend_2141e536:
 msgid "[_RT_] {i}I can kind of smell her pussy from this close.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Z takejto blízkosti cítim vôňu jej kundičky.{/i}"
 
 # game/script.rpy:3130 #-#-# translate crowdin loungeeveningweekend_5f9b570a:
 msgid "[_RT_] {i}I've never smelled a pussy before, I kind of like it.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nikdy predtým som necítil vôňu kundičky, celkom sa mi to páči.{/i}"
 
 # game/script.rpy:3131 #-#-# translate crowdin loungeeveningweekend_f6c129df:
 msgid "[_RT_] {i}I've got to get closer.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Musím sa dostať bližšie.{/i}"
 
 # game/script.rpy:3134 #-#-# translate crowdin loungeeveningweekend_6b4f781d:
 msgid "[_RT_] {i}Wow! That smells incredible!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Wow! To neuveriteľne vonia!{/i}"
 
 # game/script.rpy:3135 #-#-# translate crowdin loungeeveningweekend_ce5f0a99:
 msgid "[_RT_] {i}I wish I could taste it.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Chcel by som ju ochutnať.{/i}"
 
 # game/script.rpy:3136 #-#-# translate crowdin loungeeveningweekend_647b8d0a:
 msgid "[_RT_] {i}It just turns me on so much!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Tak veľmi ma to vzrušuje!{/i}"
 
 # game/script.rpy:3137 #-#-# translate crowdin loungeeveningweekend_be7ee987:
 msgid "[_L_] Well, I don't see the remote in this corner, I'm coming back."
-msgstr ""
+msgstr "[_L_] No, v tomto rohu nevidím diaľkový ovládač, vrátim sa."
 
 # game/script.rpy:3138 #-#-# translate crowdin loungeeveningweekend_14af55a0:
 msgid "[_R_] Wait!"
@@ -1434,11 +1434,11 @@ msgstr ""
 
 # game/script.rpy:3142 #-#-# translate crowdin loungeeveningweekend_ce1279a8:
 msgid "[_R_] Mmphh..."
-msgstr ""
+msgstr "[_R_] Mmphh..."
 
 # game/script.rpy:3149 #-#-# translate crowdin loungeeveningweekend_6f8632c2:
 msgid "[_L_] [ryan]?.... Is that your face in my ass?"
-msgstr ""
+msgstr "[_L_] [ryan]?.... Je to tvoja tvár v mojom zadku?"
 
 # game/script.rpy:3150 #-#-# translate crowdin loungeeveningweekend_46fa7af0:
 msgid "[_L_] [ryan]?..."
@@ -1450,31 +1450,31 @@ msgstr "{i}{b}\"Laurenino libido +1\"{/b}{/i}"
 
 # game/script.rpy:3155 #-#-# translate crowdin loungeeveningweekend_19aacb37:
 msgid "[_R_] Uhh.... yeah.... sorry. I was just looking for the remote under this couch cushion, and didn't realize I was that close to you until you backed up."
-msgstr ""
+msgstr "[_R_] Uhh.... áno.... Prepáč. Práve som hľadal ovládač pod týmto gaučovým vankúšom a neuvedomil som si, že som tak blízko teba, kým si necúvla."
 
 # game/script.rpy:3156 #-#-# translate crowdin loungeeveningweekend_020ea7dc:
 msgid "[_RT_] {i}Oh my God, it smells so good I can almost taste it.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Bože, to tak krásne vonia, že to skoro chutnám.{/i}"
 
 # game/script.rpy:3157 #-#-# translate crowdin loungeeveningweekend_a55ec256:
 msgid "[_L_] Well, would you mind removing it?"
-msgstr ""
+msgstr "[_L_] Mohol by si ho odstrániť?"
 
 # game/script.rpy:3158 #-#-# translate crowdin loungeeveningweekend_5c5e1293:
 msgid "[_R_] Oh yeah.... of course."
-msgstr ""
+msgstr "[_R_] .... Áno!.... Samozrejme."
 
 # game/script.rpy:3162 #-#-# translate crowdin loungeeveningweekend_1dee0a5b:
 msgid "[_L_] Well, that was a little awkward!"
-msgstr ""
+msgstr "[_L_] No, to bolo trochu trápne!"
 
 # game/script.rpy:3163 #-#-# translate crowdin loungeeveningweekend_32411e06:
 msgid "[_R_] Only if you make it. It was just an accident."
-msgstr ""
+msgstr "[_R_] Iba ak sa ti to podarí. Bola to len nehoda."
 
 # game/script.rpy:3164 #-#-# translate crowdin loungeeveningweekend_33c44104:
 msgid "[_L_] I guess."
-msgstr ""
+msgstr "[_L_] Hádam."
 
 # game/script.rpy:3165 #-#-# translate crowdin loungeeveningweekend_b9a06102:
 msgid "[_R_] So do you want to watch some TV?"
@@ -1482,11 +1482,11 @@ msgstr "[_R_] Chceš si pozrieť televíziu?"
 
 # game/script.rpy:3167 #-#-# translate crowdin loungeeveningweekend_c2bbc9a3:
 msgid "[_L_] I'm still pissed off at you remember."
-msgstr ""
+msgstr "[_L_] Stále som na teba naštvaná, pamätáš?"
 
 # game/script.rpy:3168 #-#-# translate crowdin loungeeveningweekend_e4a1a96b:
 msgid "[_L_] Ugghh.... I'm just going to go to my room."
-msgstr ""
+msgstr "[_L_] Ugghh.... Práve idem do svojej izby."
 
 # game/script.rpy:3183 #-#-# translate crowdin loungeeveningweekend_cf4c0aae:
 msgid "[_RT_] {i}{b}(HINT){/b} I should go to the kitchen in the evening for family dinner.{/i}"
@@ -1494,15 +1494,15 @@ msgstr "[_RT_] {i}{b}(NÁVOD){/b} Večer by som mal ísť do kuchyne na rodinnú
 
 # game/script.rpy:3192 #-#-# translate crowdin loungeeveningweekend_0f0ac225:
 msgid "[_R_] Sorry, that was a little awkward!"
-msgstr ""
+msgstr "[_R_] Prepáč, bolo to trochu trápne!"
 
 # game/script.rpy:3193 #-#-# translate crowdin loungeeveningweekend_8c0023bc:
 msgid "[_L_] Only if you let it be, it was just an accident."
-msgstr ""
+msgstr "[_L_] Len ak to necháš tak, bola to len nehoda."
 
 # game/script.rpy:3194 #-#-# translate crowdin loungeeveningweekend_75f0fd78:
 msgid "[_R_] Yeah.... I guess so."
-msgstr ""
+msgstr "[_R_] Áno.... Myslím, že áno."
 
 # game/script.rpy:3195 #-#-# translate crowdin loungeeveningweekend_42a0b068:
 msgid "[_L_] So do you want to watch TV with me?"
@@ -1510,7 +1510,7 @@ msgstr "[_L_] Chceš so mnou pozerať televíziu?"
 
 # game/script.rpy:3196 #-#-# translate crowdin loungeeveningweekend_9fb4357b:
 msgid "[_R_] Ok, what are you watching?"
-msgstr ""
+msgstr "[_R_] Dobre, čo sleduješ?"
 
 # game/script.rpy:3197 #-#-# translate crowdin loungeeveningweekend_c990b05a:
 msgid "[_L_] I'm just starting season one of \"Game of Thots\"."
@@ -1598,11 +1598,11 @@ msgstr "[_R_] Nebude ti vadiť, ak si s tebou pozriem televíziu?"
 
 # game/script.rpy:3257 #-#-# translate crowdin loungeeveningweekend_c2bbc9a3_1:
 msgid "[_L_] I'm still pissed off at you remember."
-msgstr ""
+msgstr "[_L_] Stále som na teba naštvaná, pamätáš?"
 
 # game/script.rpy:3258 #-#-# translate crowdin loungeeveningweekend_e4a1a96b_1:
 msgid "[_L_] Ugghh.... I'm just going to go to my room."
-msgstr ""
+msgstr "[_L_] Ugghh.... Práve idem do svojej izby."
 
 # game/script.rpy:3267 #-#-# translate crowdin loungeeveningweekend_e85188a6:
 msgid "[_L_] Hey [ryan], do you want to watch something with me?"
@@ -1610,7 +1610,7 @@ msgstr ""
 
 # game/script.rpy:3268 #-#-# translate crowdin loungeeveningweekend_9fb4357b_1:
 msgid "[_R_] Ok, what are you watching?"
-msgstr ""
+msgstr "[_R_] Dobre, čo sleduješ?"
 
 # game/script.rpy:3269 #-#-# translate crowdin loungeeveningweekend_c990b05a_1:
 msgid "[_L_] I'm just starting season one of \"Game of Thots\"."
@@ -1694,11 +1694,11 @@ msgstr "[_R_] Nebude ti vadiť, ak si s tebou pozriem televíziu?"
 
 # game/script.rpy:3312 #-#-# translate crowdin loungeeveningweekend_c2bbc9a3_2:
 msgid "[_L_] I'm still pissed off at you remember."
-msgstr ""
+msgstr "[_L_] Stále som na teba naštvaná, pamätáš?"
 
 # game/script.rpy:3313 #-#-# translate crowdin loungeeveningweekend_e4a1a96b_2:
 msgid "[_L_] Ugghh.... I'm just going to go to my room."
-msgstr ""
+msgstr "[_L_] Ugghh.... Práve idem do svojej izby."
 
 # game/script.rpy:3322 #-#-# translate crowdin loungeeveningweekend_e85188a6_1:
 msgid "[_L_] Hey [ryan], do you want to watch something with me?"
@@ -1706,7 +1706,7 @@ msgstr ""
 
 # game/script.rpy:3323 #-#-# translate crowdin loungeeveningweekend_9fb4357b_2:
 msgid "[_R_] Ok, what are you watching?"
-msgstr ""
+msgstr "[_R_] Dobre, čo sleduješ?"
 
 # game/script.rpy:3324 #-#-# translate crowdin loungeeveningweekend_1336b304:
 msgid "[_L_] Let's watch the next episode of \"Game of Thots\"!"
@@ -2406,7 +2406,7 @@ msgstr "[_L_] [ryan] môžeš prísť do salónika a pomôcť mi!"
 
 # game/script.rpy:4396 #-#-# translate crowdin dishes_3959ba15:
 msgid "[_RT_] {i}What did I just walk in on? It's like Mom and Lauren are purposely trying to be cock-teases lately.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Na čo som práve vošiel? Akoby sa mama a Lauren v poslednej dobe zámerne snažili byť za hajzlíkov."
 
 # game/script.rpy:4397 #-#-# translate crowdin dishes_3219b135:
 msgid "[_RT_] {i}Has it always been like this, and now I'm just starting to notice? I'm sure I'm reading way more into this than I should.{/i}"
@@ -2414,35 +2414,35 @@ msgstr "[_RT_] {i}Bolo to tak vždy a ja si to začínam všímať až teraz? So
 
 # game/script.rpy:4403 #-#-# translate crowdin dishes_af1bc791:
 msgid "[_L_] I'm looking for the TV remote."
-msgstr ""
+msgstr "[_L_] Hľadám diaľkový ovládač od televízora."
 
 # game/script.rpy:4404 #-#-# translate crowdin dishes_e7d0e6d5:
 msgid "[_L_] Do you know where it is?"
-msgstr ""
+msgstr "[_L_] Vieš, kde sa nachádza?"
 
 # game/script.rpy:4405 #-#-# translate crowdin dishes_a569424d:
 msgid "[_R_] I'm sorry I haven't seen it."
-msgstr ""
+msgstr "[_R_] Je mi ľúto, že som ho nevidel."
 
 # game/script.rpy:4407 #-#-# translate crowdin dishes_be92b71f:
 msgid "[_L_] Well, you were the last one to watch TV, so you must be the one who lost it."
-msgstr ""
+msgstr "[_L_] No, ty si bol posledný, kto sledoval televíziu, takže si to musel byť ty, kto ho stratil."
 
 # game/script.rpy:4408 #-#-# translate crowdin dishes_0173ae5f:
 msgid "[_L_] The least you can do is help me find it. Bend down here and help me look."
-msgstr ""
+msgstr "[_L_] To najmenej, čo môžeš urobiť, je pomôcť mi ho nájsť. Zohni sa sem a pomôž mi hľadať."
 
 # game/script.rpy:4411 #-#-# translate crowdin dishes_5ab2d65a:
 msgid "[_RT_] {i}Look for the remote?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Hľadať diaľkové ovládanie?{/i}"
 
 # game/script.rpy:4412 #-#-# translate crowdin dishes_c6572b27:
 msgid "[_RT_] {i}How am I supposed to concentrate on anything else besides this view right in front of me?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ako sa mám sústrediť na niečo iné okrem tohto pohľadu priamo predo mnou?{/i}"
 
 # game/script.rpy:4413 #-#-# translate crowdin dishes_032d3494:
 msgid "[_RT_] {i}Hmmm.... I wonder.... {/i}"
-msgstr ""
+msgstr "[_RT_] {i}Hmmm.... Zaujímalo by ma.... {/i}"
 
 # game/script.rpy:4416 #-#-# translate crowdin dishes_28607e4c:
 msgid "[_RT_] {i}Oh my God, I can!{/i}"
@@ -2450,31 +2450,31 @@ msgstr "[_RT_] {i}Bože môj, ja môžem!{/i}"
 
 # game/script.rpy:4417 #-#-# translate crowdin dishes_2141e536:
 msgid "[_RT_] {i}I can kind of smell her pussy from this close.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Z takejto blízkosti cítim vôňu jej kundičky.{/i}"
 
 # game/script.rpy:4418 #-#-# translate crowdin dishes_5f9b570a:
 msgid "[_RT_] {i}I've never smelled a pussy before, I kind of like it.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nikdy predtým som necítil vôňu kundičky, celkom sa mi to páči.{/i}"
 
 # game/script.rpy:4419 #-#-# translate crowdin dishes_f6c129df:
 msgid "[_RT_] {i}I've got to get closer.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Musím sa dostať bližšie.{/i}"
 
 # game/script.rpy:4422 #-#-# translate crowdin dishes_6b4f781d:
 msgid "[_RT_] {i}Wow! That smells incredible!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Wow! To neuveriteľne vonia!{/i}"
 
 # game/script.rpy:4423 #-#-# translate crowdin dishes_ce5f0a99:
 msgid "[_RT_] {i}I wish I could taste it.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Chcel by som ju ochutnať.{/i}"
 
 # game/script.rpy:4424 #-#-# translate crowdin dishes_647b8d0a:
 msgid "[_RT_] {i}It just turns me on so much!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Tak veľmi ma to vzrušuje!{/i}"
 
 # game/script.rpy:4425 #-#-# translate crowdin dishes_be7ee987:
 msgid "[_L_] Well, I don't see the remote in this corner, I'm coming back."
-msgstr ""
+msgstr "[_L_] No, v tomto rohu nevidím diaľkový ovládač, vrátim sa."
 
 # game/script.rpy:4426 #-#-# translate crowdin dishes_14af55a0:
 msgid "[_R_] Wait!"
@@ -2482,11 +2482,11 @@ msgstr ""
 
 # game/script.rpy:4430 #-#-# translate crowdin dishes_ce1279a8:
 msgid "[_R_] Mmphh..."
-msgstr ""
+msgstr "[_R_] Mmphh..."
 
 # game/script.rpy:4437 #-#-# translate crowdin dishes_6f8632c2:
 msgid "[_L_] [ryan]?.... Is that your face in my ass?"
-msgstr ""
+msgstr "[_L_] [ryan]?.... Je to tvoja tvár v mojom zadku?"
 
 # game/script.rpy:4438 #-#-# translate crowdin dishes_46fa7af0:
 msgid "[_L_] [ryan]?..."
@@ -2498,31 +2498,31 @@ msgstr "{i}{b}\"Laurenino libido +1\"{/b}{/i}"
 
 # game/script.rpy:4443 #-#-# translate crowdin dishes_19aacb37:
 msgid "[_R_] Uhh.... yeah.... sorry. I was just looking for the remote under this couch cushion, and didn't realize I was that close to you until you backed up."
-msgstr ""
+msgstr "[_R_] Uhh.... áno.... Prepáč. Práve som hľadal ovládač pod týmto gaučovým vankúšom a neuvedomil som si, že som tak blízko teba, kým si necúvla."
 
 # game/script.rpy:4444 #-#-# translate crowdin dishes_020ea7dc:
 msgid "[_RT_] {i}Oh my God, it smells so good I can almost taste it.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Bože, to tak krásne vonia, že to skoro chutnám.{/i}"
 
 # game/script.rpy:4445 #-#-# translate crowdin dishes_a55ec256:
 msgid "[_L_] Well, would you mind removing it?"
-msgstr ""
+msgstr "[_L_] Mohol by si ho odstrániť?"
 
 # game/script.rpy:4446 #-#-# translate crowdin dishes_5c5e1293:
 msgid "[_R_] Oh yeah.... of course."
-msgstr ""
+msgstr "[_R_] .... Áno!.... Samozrejme."
 
 # game/script.rpy:4450 #-#-# translate crowdin dishes_1dee0a5b:
 msgid "[_L_] Well, that was a little awkward!"
-msgstr ""
+msgstr "[_L_] No, to bolo trochu trápne!"
 
 # game/script.rpy:4451 #-#-# translate crowdin dishes_32411e06:
 msgid "[_R_] Only if you make it. It was just an accident."
-msgstr ""
+msgstr "[_R_] Iba ak sa ti to podarí. Bola to len nehoda."
 
 # game/script.rpy:4452 #-#-# translate crowdin dishes_33c44104:
 msgid "[_L_] I guess."
-msgstr ""
+msgstr "[_L_] Hádam."
 
 # game/script.rpy:4453 #-#-# translate crowdin dishes_b9a06102:
 msgid "[_R_] So do you want to watch some TV?"
@@ -2530,11 +2530,11 @@ msgstr "[_R_] Chceš si pozrieť televíziu?"
 
 # game/script.rpy:4455 #-#-# translate crowdin dishes_c2bbc9a3:
 msgid "[_L_] I'm still pissed off at you remember."
-msgstr ""
+msgstr "[_L_] Stále som na teba naštvaná, pamätáš?"
 
 # game/script.rpy:4456 #-#-# translate crowdin dishes_e4a1a96b:
 msgid "[_L_] Ugghh.... I'm just going to go to my room."
-msgstr ""
+msgstr "[_L_] Ugghh.... Práve idem do svojej izby."
 
 # game/script.rpy:4471 #-#-# translate crowdin dishes_cf4c0aae:
 msgid "[_RT_] {i}{b}(HINT){/b} I should go to the kitchen in the evening for family dinner.{/i}"
@@ -2542,15 +2542,15 @@ msgstr "[_RT_] {i}{b}(NÁVOD){/b} Večer by som mal ísť do kuchyne na rodinnú
 
 # game/script.rpy:4480 #-#-# translate crowdin dishes_0f0ac225:
 msgid "[_R_] Sorry, that was a little awkward!"
-msgstr ""
+msgstr "[_R_] Prepáč, bolo to trochu trápne!"
 
 # game/script.rpy:4481 #-#-# translate crowdin dishes_8c0023bc:
 msgid "[_L_] Only if you let it be, it was just an accident."
-msgstr ""
+msgstr "[_L_] Len ak to necháš tak, bola to len nehoda."
 
 # game/script.rpy:4482 #-#-# translate crowdin dishes_75f0fd78:
 msgid "[_R_] Yeah.... I guess so."
-msgstr ""
+msgstr "[_R_] Áno.... Myslím, že áno."
 
 # game/script.rpy:4483 #-#-# translate crowdin dishes_42a0b068:
 msgid "[_L_] So do you want to watch TV with me?"
@@ -2558,7 +2558,7 @@ msgstr "[_L_] Chceš so mnou pozerať televíziu?"
 
 # game/script.rpy:4484 #-#-# translate crowdin dishes_9fb4357b:
 msgid "[_R_] Ok, what are you watching?"
-msgstr ""
+msgstr "[_R_] Dobre, čo sleduješ?"
 
 # game/script.rpy:4485 #-#-# translate crowdin dishes_c990b05a:
 msgid "[_L_] I'm just starting season one of \"Game of Thots\"."
