@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-06-14 16:58\n"
+"PO-Revision-Date: 2023-06-14 19:06\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/script.rpy:320 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -450,67 +450,67 @@ msgstr ""
 
 # game/script.rpy:1057 #-#-# translate crowdin myroom_c990b05a:
 msgid "[_L_] I'm just starting season one of \"Game of Thots\"."
-msgstr ""
+msgstr "[_L_] Práve začínam prvú sezónu \"Game of Thots\"."
 
 # game/script.rpy:1058 #-#-# translate crowdin myroom_c4df266e:
 msgid "[_L_] Have you been following this show?"
-msgstr ""
+msgstr "[_L_] Sledoval si túto šou?"
 
 # game/script.rpy:1059 #-#-# translate crowdin myroom_c159b699:
 msgid "[_R_] No I've just seen the first episode."
-msgstr ""
+msgstr "[_R_] Nie, videl som len prvú epizódu."
 
 # game/script.rpy:1062 #-#-# translate crowdin myroom_38aeb115:
 msgid "[_L_] Awesome! We can watch the series together!"
-msgstr ""
+msgstr "[_L_] Úžasné! Môžeme si seriál pozrieť spolu!"
 
 # game/script.rpy:1063 #-#-# translate crowdin myroom_7adbd6b0:
 msgid "[_L_] All my friends love it!"
-msgstr ""
+msgstr "[_L_] Všetci moji priatelia ho milujú!"
 
 # game/script.rpy:1066 #-#-# translate crowdin myroom_9f0e138b:
 msgid "[_RT_] {i}I wonder if this is a little too explicit for Lauren?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Zaujímalo by ma, či to nie je pre Lauren príliš explicitné?{/i}"
 
 # game/script.rpy:1069 #-#-# translate crowdin myroom_76a42199:
 msgid "[_RT_] {i}Wow! I can't believe what they can get away with on TV anymore! This is awesome!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Wow! Nemôžem uveriť, čo všetko im ešte v televízii prejde! To je úžasné!{/i}"
 
 # game/script.rpy:1072 #-#-# translate crowdin myroom_d1131d9d:
 msgid "[_R_] Man, that episode was intense! Lauren are you ok? You seem a little flushed."
-msgstr ""
+msgstr "[_R_] Tá epizóda bola veľmi intenzívna! Lauren, si v poriadku? Zdáš sa trochu začervenaná."
 
 # game/script.rpy:1073 #-#-# translate crowdin myroom_2a1cef1c:
 msgid "[_L_] Oh yeah, I'm fine. I was just a little surprised at that brother sister sex scene."
-msgstr ""
+msgstr "[_L_] Áno, som v poriadku. Len ma trochu prekvapila tá sexuálna scéna s bratom a sestrou."
 
 # game/script.rpy:1074 #-#-# translate crowdin myroom_085cecfc:
 msgid "[_L_] This show almost makes incest seem normal, like it's no big deal or something."
-msgstr ""
+msgstr "[_L_] V tomto seriáli sa incest zdá byť normálny, akoby o nič nešlo."
 
 # game/script.rpy:1075 #-#-# translate crowdin myroom_2eaca672:
 msgid "[_R_] Yeah, well incest is only bad when society says it's bad. There have been lots of times in history where it was perfectly accepted."
-msgstr ""
+msgstr "[_R_] Áno, incest je zlý len vtedy, keď to spoločnosť povie. V histórii bolo veľa období, keď bol úplne akceptovaný."
 
 # game/script.rpy:1076 #-#-# translate crowdin myroom_c704fd66:
 msgid "[_L_] I wouldn't say lots of times."
-msgstr ""
+msgstr "[_L_] Nepovedala by som, že veľakrát."
 
 # game/script.rpy:1077 #-#-# translate crowdin myroom_108c8ff2:
 msgid "[_R_] Well, not a ton, but to me it's like being gay. If two people are in love with each other, why do people think they have the right to tell them they can't be in love?"
-msgstr ""
+msgstr "[_R_] No, nie veľa, ale pre mňa je to ako byť gay. Ak sa dvaja ľudia milujú, prečo si ľudia myslia, že majú právo hovoriť im, že sa nemôžu milovať?"
 
 # game/script.rpy:1078 #-#-# translate crowdin myroom_db032bf2:
 msgid "[_L_] I don't know it just seems really weird."
-msgstr ""
+msgstr "[_L_] Neviem, zdá sa mi to naozaj divné."
 
 # game/script.rpy:1079 #-#-# translate crowdin myroom_9501adbf:
 msgid "[_R_] Only because you've been told all your life it's weird."
-msgstr ""
+msgstr "[_R_] Len preto, že ti bolo všetko povedané, že je to divné."
 
 # game/script.rpy:1080 #-#-# translate crowdin myroom_7a4c9662:
 msgid "[_LT_] {i}Hmmmm.... I'll have to think about that one.... {/i}"
-msgstr ""
+msgstr "[_LT_] {i}Hmmmm.... Budem o tom musieť popremýšľať.... {/i}"
 
 # game/script.rpy:1083 #-#-# translate crowdin myroom_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
@@ -734,63 +734,63 @@ msgstr "[_RT_] {i}Ešte nie som unavený.{/i}"
 
 # game/script.rpy:2506 #-#-# translate crowdin wakeupryan_fc61bd55:
 msgid "[_L_] [ryan]? Are you awake?"
-msgstr ""
+msgstr "[_L_] [ryan]? Si hore?"
 
 # game/script.rpy:2511 #-#-# translate crowdin wakeupryan_796f4874:
 msgid "[_R_] Huh?.... Lauren.... why are you waking me up so early?"
-msgstr ""
+msgstr "[_R_] Huh?.... Lauren.... prečo ma budíš tak skoro?"
 
 # game/script.rpy:2513 #-#-# translate crowdin wakeupryan_a55b9f29:
 msgid "[_L_] Because I couldn't sleep anymore!"
-msgstr ""
+msgstr "[_L_] Pretože som už nemohla spať!"
 
 # game/script.rpy:2514 #-#-# translate crowdin wakeupryan_265fe855:
 msgid "[_L_] I was having the weirdest dreams about you."
-msgstr ""
+msgstr "[_L_] Mala som o tebe tie najčudnejšie sny."
 
 # game/script.rpy:2515 #-#-# translate crowdin wakeupryan_3b27b4a1:
 msgid "[_R_] What kind of weird dreams?"
-msgstr ""
+msgstr "[_R_] Aké zvláštne sny?"
 
 # game/script.rpy:2516 #-#-# translate crowdin wakeupryan_7169ac01:
 msgid "[_L_] Oh.... I don't really want to say..."
-msgstr ""
+msgstr "[_L_] Oh.... Naozaj nechcem povedať..."
 
 # game/script.rpy:2517 #-#-# translate crowdin wakeupryan_eefc8f29:
 msgid "[_L_] They were a little bit disturbing..."
-msgstr ""
+msgstr "[_L_] Boli trochu znepokojujúce..."
 
 # game/script.rpy:2518 #-#-# translate crowdin wakeupryan_88f1d5ca:
 msgid "[_RT_] {i}I wonder if my visit last night caused any of those dreams.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Zaujímalo by ma, či moja včerajšia návšteva spôsobila niektorý z týchto snov.{/i}"
 
 # game/script.rpy:2519 #-#-# translate crowdin wakeupryan_a6140460:
 msgid "[_RT_] {i}Could my subliminal messages have actually worked?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Mohli moje podprahové správy skutočne fungovať?{/i}"
 
 # game/script.rpy:2520 #-#-# translate crowdin wakeupryan_1b1880b3:
 msgid "[_L_] Plus I am dying with curiosity about what happened with you and Mom last night."
-msgstr ""
+msgstr "[_L_] Navyše som zvedavá, čo sa stalo včera večer medzi tebou a mamou."
 
 # game/script.rpy:2521 #-#-# translate crowdin wakeupryan_51793db4:
 msgid "[_R_] What do you mean \"with Mom and me last night\" nothing happened between us last night!"
-msgstr ""
+msgstr "[_R_] Čo myslíš tým \"s mamou a mnou včera večer\", včera večer sa medzi nami nič nestalo!"
 
 # game/script.rpy:2522 #-#-# translate crowdin wakeupryan_8a3d625f:
 msgid "[_L_] So.... you didn't follow her to see where she went?"
-msgstr ""
+msgstr "[_L_] Takže.... si ju nesledoval, aby si videl, kam išla?"
 
 # game/script.rpy:2523 #-#-# translate crowdin wakeupryan_007ac167:
 msgid "[_R_] Oh.... right.... yes.... I did follow her."
-msgstr ""
+msgstr "[_R_] Oh.... správne.... áno.... Sledoval som ju."
 
 # game/script.rpy:2528 #-#-# translate crowdin wakeupryan_c6545547:
 msgid "[_RT_] {i}WOW.... what a view!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}WOW.... aký výhľad!{/i}"
 
 # game/script.rpy:2529 #-#-# translate crowdin wakeupryan_d5a6a1a6:
 msgid "[_L_] And?"
-msgstr ""
+msgstr "[_L_] A?"
 
 # game/script.rpy:2530 #-#-# translate crowdin wakeupryan_5cb18f90:
 msgid "[_R_] Oh uhh.... they just took her to their night club."
@@ -798,83 +798,83 @@ msgstr "[_R_] Oh uhh.... práve ju vzali do svojho nočného klubu."
 
 # game/script.rpy:2531 #-#-# translate crowdin wakeupryan_6157b41f:
 msgid "[_L_] To their nightclub?"
-msgstr ""
+msgstr "[_L_] Do ich nočného klubu?"
 
 # game/script.rpy:2532 #-#-# translate crowdin wakeupryan_df8377fb:
 msgid "[_L_] Huh.... I wonder what they would have her do there?"
-msgstr ""
+msgstr "[_L_] Huh.... Zaujímalo by ma, čo by ju tam nechali robiť?"
 
 # game/script.rpy:2537 #-#-# translate crowdin wakeupryan_69789893:
 msgid "[_RT_] {i}Huh.... nothing as wonderful as Mom's, but her small titties have some appeal as well.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Huh.... nič také úžasné ako mamine, ale jej malé prsia majú tiež niečo do seba.{/i}"
 
 # game/script.rpy:2538 #-#-# translate crowdin wakeupryan_401d928a:
 msgid "[_L_] Well, did you follow her in?"
-msgstr ""
+msgstr "[_L_] No, išiel si za ňou?"
 
 # game/script.rpy:2539 #-#-# translate crowdin wakeupryan_61efac90:
 msgid "[_R_] Uh.... yeah, I did."
-msgstr ""
+msgstr "[_R_] Uh.... áno, to som urobil."
 
 # game/script.rpy:2540 #-#-# translate crowdin wakeupryan_3de89aae:
 msgid "[_L_] And?..."
-msgstr ""
+msgstr "[_L_] A?..."
 
 # game/script.rpy:2541 #-#-# translate crowdin wakeupryan_49046e8f:
 msgid "[_R_] Oh.... uh.... nothing weird or perverted or anything."
-msgstr ""
+msgstr "[_R_] Oh.... uh.... nič divné, zvrátené ani nič podobné."
 
 # game/script.rpy:2542 #-#-# translate crowdin wakeupryan_e2355f8b:
 msgid "[_L_] Huh?..."
-msgstr ""
+msgstr "[_L_] Čo?..."
 
 # game/script.rpy:2543 #-#-# translate crowdin wakeupryan_aeb927c5:
 msgid "[_R_] I mean they just had her showing off to some customers.... uh.... serving them drinks.... I mean."
-msgstr ""
+msgstr "[_R_] Myslím tým, že ju práve nechali predvádzať sa niektorým zákazníkom.... uh.... podávať im nápoje.... Myslím tým."
 
 # game/script.rpy:2544 #-#-# translate crowdin wakeupryan_a7a554ab:
 msgid "[_R_] Why didn't you ask her about it?"
-msgstr ""
+msgstr "[_R_] Prečo si sa jej na to nespýtala?"
 
 # game/script.rpy:2545 #-#-# translate crowdin wakeupryan_b6d07a01:
 msgid "[_L_] Oh, she's still asleep with her door locked."
-msgstr ""
+msgstr "[_L_] Aha, ešte stále spí so zamknutými dverami."
 
 # game/script.rpy:2546 #-#-# translate crowdin wakeupryan_78b03358:
 msgid "[_L_] She's grumpier than you are when I wake her up."
-msgstr ""
+msgstr "[_L_] Keď ju zobudím, je mrzutejšia ako ty."
 
 # game/script.rpy:2549 #-#-# translate crowdin wakeupryan_c669f991:
 msgid "[_L_] Hey.... what the hell?"
-msgstr ""
+msgstr "[_L_] Hej.... čo to sakra je?"
 
 # game/script.rpy:2550 #-#-# translate crowdin wakeupryan_2377f177:
 msgid "[_R_] Ohh.... uhh.... It's just morning wood."
-msgstr ""
+msgstr "[_R_] Ohh.... uhh.... Je to len ranné drevo."
 
 # game/script.rpy:2551 #-#-# translate crowdin wakeupryan_2cbd0b6d:
 msgid "[_L_] Morning wood my ass. You didn't have it when you first woke up!"
-msgstr ""
+msgstr "[_L_] Ranné drevo, môj zadok. Nemal si ho, keď si sa zobudil!"
 
 # game/script.rpy:2552 #-#-# translate crowdin wakeupryan_1459ab1c:
 msgid "[_R_] Oh yeah, uhh.... it can still happen shortly after you wake up."
-msgstr ""
+msgstr "[_R_] Ach áno, uhh.... sa to môže stať aj krátko po prebudení."
 
 # game/script.rpy:2553 #-#-# translate crowdin wakeupryan_c796c182:
 msgid "[_L_] Yeah, I'm pretty sure that's not a thing."
-msgstr ""
+msgstr "[_L_] Áno, som si celkom istá, že to nie je vec."
 
 # game/script.rpy:2554 #-#-# translate crowdin wakeupryan_39927ebc:
 msgid "[_R_] No really.... that can happen."
-msgstr ""
+msgstr "[_R_] Nie naozaj.... sa to môže stať."
 
 # game/script.rpy:2555 #-#-# translate crowdin wakeupryan_20a9275a:
 msgid "[_L_] Ok.... whatever.... you're the one with a penis."
-msgstr ""
+msgstr "[_L_] Ok.... čokoľvek.... to ty máš penis."
 
 # game/script.rpy:2556 #-#-# translate crowdin wakeupryan_4e55ccea:
 msgid "[_L_] Aren't you going to cover him up?"
-msgstr ""
+msgstr "[_L_] Nebudeš ho zakrývať?"
 
 # game/script.rpy:2561 #-#-# translate crowdin wakeupryan_1f2168ba:
 msgid "[_L_] You're actually bigger than I dreamt you were last ni.... I mean than I imagined you were."
@@ -906,7 +906,7 @@ msgstr ""
 
 # game/script.rpy:2570 #-#-# translate crowdin wakeupryan_1c3f3c2f:
 msgid "[_L_] Anyways.... I should go and let you take care of that, or get dressed, or whatever you do to hide your boner."
-msgstr ""
+msgstr "[_L_] V každom prípade.... Mala by som ísť a nechať ťa, aby si sa o to postaral, alebo sa obliekol, alebo čokoľvek, čo robíš, aby si skryl svoju erekciu."
 
 # game/script.rpy:2571 #-#-# translate crowdin wakeupryan_5b11e247:
 msgid "[_R_] Ok, see you later I guess."
@@ -1150,51 +1150,51 @@ msgstr ""
 
 # game/script.rpy:2946 #-#-# translate crowdin loungeevening_c990b05a:
 msgid "[_L_] I'm just starting season one of \"Game of Thots\"."
-msgstr ""
+msgstr "[_L_] Práve začínam prvú sezónu \"Game of Thots\"."
 
 # game/script.rpy:2947 #-#-# translate crowdin loungeevening_c4df266e:
 msgid "[_L_] Have you been following this show?"
-msgstr ""
+msgstr "[_L_] Sledoval si túto šou?"
 
 # game/script.rpy:2948 #-#-# translate crowdin loungeevening_c159b699:
 msgid "[_R_] No I've just seen the first episode."
-msgstr ""
+msgstr "[_R_] Nie, videl som len prvú epizódu."
 
 # game/script.rpy:2951 #-#-# translate crowdin loungeevening_38aeb115:
 msgid "[_L_] Awesome! We can watch the series together!"
-msgstr ""
+msgstr "[_L_] Úžasné! Môžeme si seriál pozrieť spolu!"
 
 # game/script.rpy:2952 #-#-# translate crowdin loungeevening_7adbd6b0:
 msgid "[_L_] All my friends love it!"
-msgstr ""
+msgstr "[_L_] Všetci moji priatelia ho milujú!"
 
 # game/script.rpy:2955 #-#-# translate crowdin loungeevening_9f0e138b:
 msgid "[_RT_] {i}I wonder if this is a little too explicit for Lauren?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Zaujímalo by ma, či to nie je pre Lauren príliš explicitné?{/i}"
 
 # game/script.rpy:2958 #-#-# translate crowdin loungeevening_76a42199:
 msgid "[_RT_] {i}Wow! I can't believe what they can get away with on TV anymore! This is awesome!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Wow! Nemôžem uveriť, čo všetko im ešte v televízii prejde! To je úžasné!{/i}"
 
 # game/script.rpy:2961 #-#-# translate crowdin loungeevening_d1131d9d:
 msgid "[_R_] Man, that episode was intense! Lauren are you ok? You seem a little flushed."
-msgstr ""
+msgstr "[_R_] Tá epizóda bola veľmi intenzívna! Lauren, si v poriadku? Zdáš sa trochu začervenaná."
 
 # game/script.rpy:2962 #-#-# translate crowdin loungeevening_2a1cef1c:
 msgid "[_L_] Oh yeah, I'm fine. I was just a little surprised at that brother sister sex scene."
-msgstr ""
+msgstr "[_L_] Áno, som v poriadku. Len ma trochu prekvapila tá sexuálna scéna s bratom a sestrou."
 
 # game/script.rpy:2963 #-#-# translate crowdin loungeevening_085cecfc:
 msgid "[_L_] This show almost makes incest seem normal, like it's no big deal or something."
-msgstr ""
+msgstr "[_L_] V tomto seriáli sa incest zdá byť normálny, akoby o nič nešlo."
 
 # game/script.rpy:2964 #-#-# translate crowdin loungeevening_2eaca672:
 msgid "[_R_] Yeah, well incest is only bad when society says it's bad. There have been lots of times in history where it was perfectly accepted."
-msgstr ""
+msgstr "[_R_] Áno, incest je zlý len vtedy, keď to spoločnosť povie. V histórii bolo veľa období, keď bol úplne akceptovaný."
 
 # game/script.rpy:2965 #-#-# translate crowdin loungeevening_c704fd66:
 msgid "[_L_] I wouldn't say lots of times."
-msgstr ""
+msgstr "[_L_] Nepovedala by som, že veľakrát."
 
 # game/script.rpy:2966 #-#-# translate crowdin loungeevening_028be008:
 msgid "[_R_] Well, not a ton, but to me it's like being gay. If two people are in love with each other, why do people think they have the right to tell them they can't be in love"
@@ -1202,15 +1202,15 @@ msgstr "[_R_] No, nie veľa, ale pre mňa je to ako byť gay. Ak sa dvaja ľudia
 
 # game/script.rpy:2967 #-#-# translate crowdin loungeevening_db032bf2:
 msgid "[_L_] I don't know it just seems really weird."
-msgstr ""
+msgstr "[_L_] Neviem, zdá sa mi to naozaj divné."
 
 # game/script.rpy:2968 #-#-# translate crowdin loungeevening_9501adbf:
 msgid "[_R_] Only because you've been told all your life it's weird."
-msgstr ""
+msgstr "[_R_] Len preto, že ti bolo všetko povedané, že je to divné."
 
 # game/script.rpy:2969 #-#-# translate crowdin loungeevening_7a4c9662:
 msgid "[_LT_] {i}Hmmmm.... I'll have to think about that one.... {/i}"
-msgstr ""
+msgstr "[_LT_] {i}Hmmmm.... Budem o tom musieť popremýšľať.... {/i}"
 
 # game/script.rpy:2972 #-#-# translate crowdin loungeevening_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
@@ -1250,67 +1250,67 @@ msgstr ""
 
 # game/script.rpy:3018 #-#-# translate crowdin loungeevening_c990b05a_1:
 msgid "[_L_] I'm just starting season one of \"Game of Thots\"."
-msgstr ""
+msgstr "[_L_] Práve začínam prvú sezónu \"Game of Thots\"."
 
 # game/script.rpy:3019 #-#-# translate crowdin loungeevening_c4df266e_1:
 msgid "[_L_] Have you been following this show?"
-msgstr ""
+msgstr "[_L_] Sledoval si túto šou?"
 
 # game/script.rpy:3020 #-#-# translate crowdin loungeevening_c159b699_1:
 msgid "[_R_] No I've just seen the first episode."
-msgstr ""
+msgstr "[_R_] Nie, videl som len prvú epizódu."
 
 # game/script.rpy:3023 #-#-# translate crowdin loungeevening_38aeb115_1:
 msgid "[_L_] Awesome! We can watch the series together!"
-msgstr ""
+msgstr "[_L_] Úžasné! Môžeme si seriál pozrieť spolu!"
 
 # game/script.rpy:3024 #-#-# translate crowdin loungeevening_7adbd6b0_1:
 msgid "[_L_] All my friends love it!"
-msgstr ""
+msgstr "[_L_] Všetci moji priatelia ho milujú!"
 
 # game/script.rpy:3027 #-#-# translate crowdin loungeevening_9f0e138b_1:
 msgid "[_RT_] {i}I wonder if this is a little too explicit for Lauren?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Zaujímalo by ma, či to nie je pre Lauren príliš explicitné?{/i}"
 
 # game/script.rpy:3030 #-#-# translate crowdin loungeevening_76a42199_1:
 msgid "[_RT_] {i}Wow! I can't believe what they can get away with on TV anymore! This is awesome!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Wow! Nemôžem uveriť, čo všetko im ešte v televízii prejde! To je úžasné!{/i}"
 
 # game/script.rpy:3033 #-#-# translate crowdin loungeevening_d1131d9d_1:
 msgid "[_R_] Man, that episode was intense! Lauren are you ok? You seem a little flushed."
-msgstr ""
+msgstr "[_R_] Tá epizóda bola veľmi intenzívna! Lauren, si v poriadku? Zdáš sa trochu začervenaná."
 
 # game/script.rpy:3034 #-#-# translate crowdin loungeevening_2a1cef1c_1:
 msgid "[_L_] Oh yeah, I'm fine. I was just a little surprised at that brother sister sex scene."
-msgstr ""
+msgstr "[_L_] Áno, som v poriadku. Len ma trochu prekvapila tá sexuálna scéna s bratom a sestrou."
 
 # game/script.rpy:3035 #-#-# translate crowdin loungeevening_085cecfc_1:
 msgid "[_L_] This show almost makes incest seem normal, like it's no big deal or something."
-msgstr ""
+msgstr "[_L_] V tomto seriáli sa incest zdá byť normálny, akoby o nič nešlo."
 
 # game/script.rpy:3036 #-#-# translate crowdin loungeevening_2eaca672_1:
 msgid "[_R_] Yeah, well incest is only bad when society says it's bad. There have been lots of times in history where it was perfectly accepted."
-msgstr ""
+msgstr "[_R_] Áno, incest je zlý len vtedy, keď to spoločnosť povie. V histórii bolo veľa období, keď bol úplne akceptovaný."
 
 # game/script.rpy:3037 #-#-# translate crowdin loungeevening_c704fd66_1:
 msgid "[_L_] I wouldn't say lots of times."
-msgstr ""
+msgstr "[_L_] Nepovedala by som, že veľakrát."
 
 # game/script.rpy:3038 #-#-# translate crowdin loungeevening_108c8ff2:
 msgid "[_R_] Well, not a ton, but to me it's like being gay. If two people are in love with each other, why do people think they have the right to tell them they can't be in love?"
-msgstr ""
+msgstr "[_R_] No, nie veľa, ale pre mňa je to ako byť gay. Ak sa dvaja ľudia milujú, prečo si ľudia myslia, že majú právo hovoriť im, že sa nemôžu milovať?"
 
 # game/script.rpy:3039 #-#-# translate crowdin loungeevening_db032bf2_1:
 msgid "[_L_] I don't know it just seems really weird."
-msgstr ""
+msgstr "[_L_] Neviem, zdá sa mi to naozaj divné."
 
 # game/script.rpy:3040 #-#-# translate crowdin loungeevening_9501adbf_1:
 msgid "[_R_] Only because you've been told all your life it's weird."
-msgstr ""
+msgstr "[_R_] Len preto, že ti bolo všetko povedané, že je to divné."
 
 # game/script.rpy:3041 #-#-# translate crowdin loungeevening_7a4c9662_1:
 msgid "[_LT_] {i}Hmmmm.... I'll have to think about that one.... {/i}"
-msgstr ""
+msgstr "[_LT_] {i}Hmmmm.... Budem o tom musieť popremýšľať.... {/i}"
 
 # game/script.rpy:3044 #-#-# translate crowdin loungeevening_32f0afae_1:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
@@ -1514,67 +1514,67 @@ msgstr ""
 
 # game/script.rpy:3197 #-#-# translate crowdin loungeeveningweekend_c990b05a:
 msgid "[_L_] I'm just starting season one of \"Game of Thots\"."
-msgstr ""
+msgstr "[_L_] Práve začínam prvú sezónu \"Game of Thots\"."
 
 # game/script.rpy:3198 #-#-# translate crowdin loungeeveningweekend_c4df266e:
 msgid "[_L_] Have you been following this show?"
-msgstr ""
+msgstr "[_L_] Sledoval si túto šou?"
 
 # game/script.rpy:3199 #-#-# translate crowdin loungeeveningweekend_c159b699:
 msgid "[_R_] No I've just seen the first episode."
-msgstr ""
+msgstr "[_R_] Nie, videl som len prvú epizódu."
 
 # game/script.rpy:3202 #-#-# translate crowdin loungeeveningweekend_38aeb115:
 msgid "[_L_] Awesome! We can watch the series together!"
-msgstr ""
+msgstr "[_L_] Úžasné! Môžeme si seriál pozrieť spolu!"
 
 # game/script.rpy:3203 #-#-# translate crowdin loungeeveningweekend_7adbd6b0:
 msgid "[_L_] All my friends love it!"
-msgstr ""
+msgstr "[_L_] Všetci moji priatelia ho milujú!"
 
 # game/script.rpy:3206 #-#-# translate crowdin loungeeveningweekend_9f0e138b:
 msgid "[_RT_] {i}I wonder if this is a little too explicit for Lauren?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Zaujímalo by ma, či to nie je pre Lauren príliš explicitné?{/i}"
 
 # game/script.rpy:3209 #-#-# translate crowdin loungeeveningweekend_76a42199:
 msgid "[_RT_] {i}Wow! I can't believe what they can get away with on TV anymore! This is awesome!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Wow! Nemôžem uveriť, čo všetko im ešte v televízii prejde! To je úžasné!{/i}"
 
 # game/script.rpy:3212 #-#-# translate crowdin loungeeveningweekend_d1131d9d:
 msgid "[_R_] Man, that episode was intense! Lauren are you ok? You seem a little flushed."
-msgstr ""
+msgstr "[_R_] Tá epizóda bola veľmi intenzívna! Lauren, si v poriadku? Zdáš sa trochu začervenaná."
 
 # game/script.rpy:3213 #-#-# translate crowdin loungeeveningweekend_2a1cef1c:
 msgid "[_L_] Oh yeah, I'm fine. I was just a little surprised at that brother sister sex scene."
-msgstr ""
+msgstr "[_L_] Áno, som v poriadku. Len ma trochu prekvapila tá sexuálna scéna s bratom a sestrou."
 
 # game/script.rpy:3214 #-#-# translate crowdin loungeeveningweekend_085cecfc:
 msgid "[_L_] This show almost makes incest seem normal, like it's no big deal or something."
-msgstr ""
+msgstr "[_L_] V tomto seriáli sa incest zdá byť normálny, akoby o nič nešlo."
 
 # game/script.rpy:3215 #-#-# translate crowdin loungeeveningweekend_2eaca672:
 msgid "[_R_] Yeah, well incest is only bad when society says it's bad. There have been lots of times in history where it was perfectly accepted."
-msgstr ""
+msgstr "[_R_] Áno, incest je zlý len vtedy, keď to spoločnosť povie. V histórii bolo veľa období, keď bol úplne akceptovaný."
 
 # game/script.rpy:3216 #-#-# translate crowdin loungeeveningweekend_c704fd66:
 msgid "[_L_] I wouldn't say lots of times."
-msgstr ""
+msgstr "[_L_] Nepovedala by som, že veľakrát."
 
 # game/script.rpy:3217 #-#-# translate crowdin loungeeveningweekend_108c8ff2:
 msgid "[_R_] Well, not a ton, but to me it's like being gay. If two people are in love with each other, why do people think they have the right to tell them they can't be in love?"
-msgstr ""
+msgstr "[_R_] No, nie veľa, ale pre mňa je to ako byť gay. Ak sa dvaja ľudia milujú, prečo si ľudia myslia, že majú právo hovoriť im, že sa nemôžu milovať?"
 
 # game/script.rpy:3218 #-#-# translate crowdin loungeeveningweekend_db032bf2:
 msgid "[_L_] I don't know it just seems really weird."
-msgstr ""
+msgstr "[_L_] Neviem, zdá sa mi to naozaj divné."
 
 # game/script.rpy:3219 #-#-# translate crowdin loungeeveningweekend_9501adbf:
 msgid "[_R_] Only because you've been told all your life it's weird."
-msgstr ""
+msgstr "[_R_] Len preto, že ti bolo všetko povedané, že je to divné."
 
 # game/script.rpy:3220 #-#-# translate crowdin loungeeveningweekend_7a4c9662:
 msgid "[_LT_] {i}Hmmmm.... I'll have to think about that one.... {/i}"
-msgstr ""
+msgstr "[_LT_] {i}Hmmmm.... Budem o tom musieť popremýšľať.... {/i}"
 
 # game/script.rpy:3223 #-#-# translate crowdin loungeeveningweekend_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
@@ -1614,67 +1614,67 @@ msgstr ""
 
 # game/script.rpy:3269 #-#-# translate crowdin loungeeveningweekend_c990b05a_1:
 msgid "[_L_] I'm just starting season one of \"Game of Thots\"."
-msgstr ""
+msgstr "[_L_] Práve začínam prvú sezónu \"Game of Thots\"."
 
 # game/script.rpy:3270 #-#-# translate crowdin loungeeveningweekend_c4df266e_1:
 msgid "[_L_] Have you been following this show?"
-msgstr ""
+msgstr "[_L_] Sledoval si túto šou?"
 
 # game/script.rpy:3271 #-#-# translate crowdin loungeeveningweekend_c159b699_1:
 msgid "[_R_] No I've just seen the first episode."
-msgstr ""
+msgstr "[_R_] Nie, videl som len prvú epizódu."
 
 # game/script.rpy:3274 #-#-# translate crowdin loungeeveningweekend_38aeb115_1:
 msgid "[_L_] Awesome! We can watch the series together!"
-msgstr ""
+msgstr "[_L_] Úžasné! Môžeme si seriál pozrieť spolu!"
 
 # game/script.rpy:3275 #-#-# translate crowdin loungeeveningweekend_7adbd6b0_1:
 msgid "[_L_] All my friends love it!"
-msgstr ""
+msgstr "[_L_] Všetci moji priatelia ho milujú!"
 
 # game/script.rpy:3278 #-#-# translate crowdin loungeeveningweekend_9f0e138b_1:
 msgid "[_RT_] {i}I wonder if this is a little too explicit for Lauren?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Zaujímalo by ma, či to nie je pre Lauren príliš explicitné?{/i}"
 
 # game/script.rpy:3281 #-#-# translate crowdin loungeeveningweekend_76a42199_1:
 msgid "[_RT_] {i}Wow! I can't believe what they can get away with on TV anymore! This is awesome!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Wow! Nemôžem uveriť, čo všetko im ešte v televízii prejde! To je úžasné!{/i}"
 
 # game/script.rpy:3284 #-#-# translate crowdin loungeeveningweekend_d1131d9d_1:
 msgid "[_R_] Man, that episode was intense! Lauren are you ok? You seem a little flushed."
-msgstr ""
+msgstr "[_R_] Tá epizóda bola veľmi intenzívna! Lauren, si v poriadku? Zdáš sa trochu začervenaná."
 
 # game/script.rpy:3285 #-#-# translate crowdin loungeeveningweekend_2a1cef1c_1:
 msgid "[_L_] Oh yeah, I'm fine. I was just a little surprised at that brother sister sex scene."
-msgstr ""
+msgstr "[_L_] Áno, som v poriadku. Len ma trochu prekvapila tá sexuálna scéna s bratom a sestrou."
 
 # game/script.rpy:3286 #-#-# translate crowdin loungeeveningweekend_085cecfc_1:
 msgid "[_L_] This show almost makes incest seem normal, like it's no big deal or something."
-msgstr ""
+msgstr "[_L_] V tomto seriáli sa incest zdá byť normálny, akoby o nič nešlo."
 
 # game/script.rpy:3287 #-#-# translate crowdin loungeeveningweekend_2eaca672_1:
 msgid "[_R_] Yeah, well incest is only bad when society says it's bad. There have been lots of times in history where it was perfectly accepted."
-msgstr ""
+msgstr "[_R_] Áno, incest je zlý len vtedy, keď to spoločnosť povie. V histórii bolo veľa období, keď bol úplne akceptovaný."
 
 # game/script.rpy:3288 #-#-# translate crowdin loungeeveningweekend_c704fd66_1:
 msgid "[_L_] I wouldn't say lots of times."
-msgstr ""
+msgstr "[_L_] Nepovedala by som, že veľakrát."
 
 # game/script.rpy:3289 #-#-# translate crowdin loungeeveningweekend_108c8ff2_1:
 msgid "[_R_] Well, not a ton, but to me it's like being gay. If two people are in love with each other, why do people think they have the right to tell them they can't be in love?"
-msgstr ""
+msgstr "[_R_] No, nie veľa, ale pre mňa je to ako byť gay. Ak sa dvaja ľudia milujú, prečo si ľudia myslia, že majú právo hovoriť im, že sa nemôžu milovať?"
 
 # game/script.rpy:3290 #-#-# translate crowdin loungeeveningweekend_db032bf2_1:
 msgid "[_L_] I don't know it just seems really weird."
-msgstr ""
+msgstr "[_L_] Neviem, zdá sa mi to naozaj divné."
 
 # game/script.rpy:3291 #-#-# translate crowdin loungeeveningweekend_9501adbf_1:
 msgid "[_R_] Only because you've been told all your life it's weird."
-msgstr ""
+msgstr "[_R_] Len preto, že ti bolo všetko povedané, že je to divné."
 
 # game/script.rpy:3292 #-#-# translate crowdin loungeeveningweekend_7a4c9662_1:
 msgid "[_LT_] {i}Hmmmm.... I'll have to think about that one.... {/i}"
-msgstr ""
+msgstr "[_LT_] {i}Hmmmm.... Budem o tom musieť popremýšľať.... {/i}"
 
 # game/script.rpy:3295 #-#-# translate crowdin loungeeveningweekend_32f0afae_1:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
@@ -2562,67 +2562,67 @@ msgstr ""
 
 # game/script.rpy:4485 #-#-# translate crowdin dishes_c990b05a:
 msgid "[_L_] I'm just starting season one of \"Game of Thots\"."
-msgstr ""
+msgstr "[_L_] Práve začínam prvú sezónu \"Game of Thots\"."
 
 # game/script.rpy:4486 #-#-# translate crowdin dishes_c4df266e:
 msgid "[_L_] Have you been following this show?"
-msgstr ""
+msgstr "[_L_] Sledoval si túto šou?"
 
 # game/script.rpy:4487 #-#-# translate crowdin dishes_c159b699:
 msgid "[_R_] No I've just seen the first episode."
-msgstr ""
+msgstr "[_R_] Nie, videl som len prvú epizódu."
 
 # game/script.rpy:4490 #-#-# translate crowdin dishes_38aeb115:
 msgid "[_L_] Awesome! We can watch the series together!"
-msgstr ""
+msgstr "[_L_] Úžasné! Môžeme si seriál pozrieť spolu!"
 
 # game/script.rpy:4491 #-#-# translate crowdin dishes_7adbd6b0:
 msgid "[_L_] All my friends love it!"
-msgstr ""
+msgstr "[_L_] Všetci moji priatelia ho milujú!"
 
 # game/script.rpy:4494 #-#-# translate crowdin dishes_9f0e138b:
 msgid "[_RT_] {i}I wonder if this is a little too explicit for Lauren?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Zaujímalo by ma, či to nie je pre Lauren príliš explicitné?{/i}"
 
 # game/script.rpy:4497 #-#-# translate crowdin dishes_76a42199:
 msgid "[_RT_] {i}Wow! I can't believe what they can get away with on TV anymore! This is awesome!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Wow! Nemôžem uveriť, čo všetko im ešte v televízii prejde! To je úžasné!{/i}"
 
 # game/script.rpy:4500 #-#-# translate crowdin dishes_d1131d9d:
 msgid "[_R_] Man, that episode was intense! Lauren are you ok? You seem a little flushed."
-msgstr ""
+msgstr "[_R_] Tá epizóda bola veľmi intenzívna! Lauren, si v poriadku? Zdáš sa trochu začervenaná."
 
 # game/script.rpy:4501 #-#-# translate crowdin dishes_2a1cef1c:
 msgid "[_L_] Oh yeah, I'm fine. I was just a little surprised at that brother sister sex scene."
-msgstr ""
+msgstr "[_L_] Áno, som v poriadku. Len ma trochu prekvapila tá sexuálna scéna s bratom a sestrou."
 
 # game/script.rpy:4502 #-#-# translate crowdin dishes_085cecfc:
 msgid "[_L_] This show almost makes incest seem normal, like it's no big deal or something."
-msgstr ""
+msgstr "[_L_] V tomto seriáli sa incest zdá byť normálny, akoby o nič nešlo."
 
 # game/script.rpy:4503 #-#-# translate crowdin dishes_2eaca672:
 msgid "[_R_] Yeah, well incest is only bad when society says it's bad. There have been lots of times in history where it was perfectly accepted."
-msgstr ""
+msgstr "[_R_] Áno, incest je zlý len vtedy, keď to spoločnosť povie. V histórii bolo veľa období, keď bol úplne akceptovaný."
 
 # game/script.rpy:4504 #-#-# translate crowdin dishes_c704fd66:
 msgid "[_L_] I wouldn't say lots of times."
-msgstr ""
+msgstr "[_L_] Nepovedala by som, že veľakrát."
 
 # game/script.rpy:4505 #-#-# translate crowdin dishes_108c8ff2:
 msgid "[_R_] Well, not a ton, but to me it's like being gay. If two people are in love with each other, why do people think they have the right to tell them they can't be in love?"
-msgstr ""
+msgstr "[_R_] No, nie veľa, ale pre mňa je to ako byť gay. Ak sa dvaja ľudia milujú, prečo si ľudia myslia, že majú právo hovoriť im, že sa nemôžu milovať?"
 
 # game/script.rpy:4506 #-#-# translate crowdin dishes_db032bf2:
 msgid "[_L_] I don't know it just seems really weird."
-msgstr ""
+msgstr "[_L_] Neviem, zdá sa mi to naozaj divné."
 
 # game/script.rpy:4507 #-#-# translate crowdin dishes_9501adbf:
 msgid "[_R_] Only because you've been told all your life it's weird."
-msgstr ""
+msgstr "[_R_] Len preto, že ti bolo všetko povedané, že je to divné."
 
 # game/script.rpy:4508 #-#-# translate crowdin dishes_7a4c9662:
 msgid "[_LT_] {i}Hmmmm.... I'll have to think about that one.... {/i}"
-msgstr ""
+msgstr "[_LT_] {i}Hmmmm.... Budem o tom musieť popremýšľať.... {/i}"
 
 # game/script.rpy:4511 #-#-# translate crowdin dishes_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
@@ -8310,7 +8310,7 @@ msgstr "[_M_] [ryan]! Čo tu, do pekla, zase robíš!"
 
 # game/script.rpy:9627 #-#-# translate crowdin nightclubbing_4b7ef1d4:
 msgid "[_R_] I.... I.... I..."
-msgstr ""
+msgstr "[_R_] Ja ... Ja ... Ja ..."
 
 # game/script.rpy:9630 #-#-# translate crowdin nightclubbing_82c9f43e:
 msgid "[_M_] [ryan]?.... [ryan]!"
