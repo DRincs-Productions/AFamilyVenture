@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-06-13 09:07\n"
+"PO-Revision-Date: 2023-06-14 13:05\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/UpdateScript0.06.rpy:715 #-#-# translate crowdin move_in_day_31871088:
 msgid "[_RT_] {i}I... think I slept in... What time is it?{/i}"
@@ -3218,7 +3218,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:2611 #-#-# translate crowdin commission_ph_outfit_43a49173:
 msgid "{i}{b}\"Sidney's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney rešpekt +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:2613 #-#-# translate crowdin commission_ph_outfit_576267cf:
 msgid "[_S_] I hope it's enough to pay the Mafia debt this week, and buy the costumes."
@@ -3230,7 +3230,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:2617 #-#-# translate crowdin commission_ph_outfit_43a49173_1:
 msgid "{i}{b}\"Sidney's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney rešpekt +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:2619 #-#-# translate crowdin commission_ph_outfit_cbd4c6fe:
 msgid "[_S_] Good for you, [ryan]! Keep it up and maybe we will be able to get along without Dad."
@@ -3490,7 +3490,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:2734 #-#-# translate crowdin commission_ph_outfit_43a49173_2:
 msgid "{i}{b}\"Sidney's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney rešpekt +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:2736 #-#-# translate crowdin commission_ph_outfit_53c865e4:
 msgid "[_S_] Good for you [ryan]! Keep it up and maybe we will be able to get along without Dad."
@@ -4078,7 +4078,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:3045 #-#-# translate crowdin update_six_bfasts_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney libido +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:3058 #-#-# translate crowdin update_six_bfasts_8d9a4b12_1:
 msgid "[_RT_] {i}It smells good in here. Should I join everybody for breakfast?{/i}"
@@ -4278,7 +4278,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:3208 #-#-# translate crowdin update_six_bfasts_5bd31dc0_1:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney libido +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:3230 #-#-# translate crowdin camille_workout_28c36d5d:
 msgid "[_RT_] {i}I'm not going back in there... she was pissed!{/i}"
