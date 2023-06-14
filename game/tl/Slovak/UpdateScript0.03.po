@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-06-13 09:07\n"
+"PO-Revision-Date: 2023-06-14 13:05\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/UpdateScript0.03.rpy:466 #-#-# translate crowdin posting_the_htbyd_pics_99f2fd00:
 msgid "[_RT_] {i}I finally finished the Zad 3D work and photo editing.{/i}"
@@ -38,27 +38,27 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:527 #-#-# translate crowdin check_for_htbyd_likes_b47e0d22:
 msgid "[_RT_] {i}Ok, I've got to just login with my username and password and we'll see if anyone liked the girls' pictures.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ok, musím sa len prihlásiť s mojím užívateľským menom a heslom a uvidíme, či sa niekomu páčili fotky dievčat.{/i}"
 
 # game/UpdateScript0.03.rpy:534 #-#-# translate crowdin check_for_htbyd_likes_213638a4:
 msgid "[_R_] Oh, hey Lauren, what's up?"
-msgstr ""
+msgstr "[_R_] Ahoj Lauren, ako je?"
 
 # game/UpdateScript0.03.rpy:536 #-#-# translate crowdin check_for_htbyd_likes_5fa12a12:
 msgid "[_L_] Hey pervert, I just came to see if you'd posted those pictures online yet."
-msgstr ""
+msgstr "[_L_] Ahoj úchyle, prišla som sa pozrieť, či si už zverejnil tie fotky na internete."
 
 # game/UpdateScript0.03.rpy:538 #-#-# translate crowdin check_for_htbyd_likes_8bbe7edb:
 msgid "[_L_] Hey [ryan], I just came to see if you'd posted those pictures online yet."
-msgstr ""
+msgstr "[_L_] Ahoj [ryan], práve som sa prišla pozrieť, či si už zverejnil tie fotky na internete."
 
 # game/UpdateScript0.03.rpy:539 #-#-# translate crowdin check_for_htbyd_likes_c29fb562:
 msgid "[_R_] What a coincidence, I was just checking to see if they got any likes at exactly the same moment that you walked into my room."
-msgstr ""
+msgstr "[_R_] Aká to náhoda, práve som kontroloval, či majú nejaké lajky, presne v tom istom momente, keď si išla do mojej izby."
 
 # game/UpdateScript0.03.rpy:540 #-#-# translate crowdin check_for_htbyd_likes_80266054:
 msgid "[_R_] Why don't we take a look together?"
-msgstr ""
+msgstr "[_R_] Čo keby sme sa na to pozreli spolu?"
 
 # game/UpdateScript0.03.rpy:547 #-#-# translate crowdin check_for_htbyd_likes_e398f781:
 msgid "[_L_] Wow! Look how many people liked and commented on the outfit."
@@ -1466,7 +1466,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1191 #-#-# translate crowdin commissionsecondoutfit_43a49173:
 msgid "{i}{b}\"Sidney's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney rešpekt +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:1193 #-#-# translate crowdin commissionsecondoutfit_bfd8516a:
 msgid "[_S_] Good for you little brother! Keep it up and maybe we will be able to get along without Dad after all."
@@ -1474,7 +1474,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1194 #-#-# translate crowdin commissionsecondoutfit_3e143f5a:
 msgid "{i}\"Money - $400\"{/i}"
-msgstr ""
+msgstr "{i}\"Peniaze - 400 dolárov\"{/i}"
 
 # game/UpdateScript0.03.rpy:1197 #-#-# translate crowdin commissionsecondoutfit_0770ae02:
 msgid "[_R_] Why should I be the one responsible to pay off the debt every week, Mom can help out too."
@@ -1490,7 +1490,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1200 #-#-# translate crowdin commissionsecondoutfit_3e143f5a_1:
 msgid "{i}\"Money - $400\"{/i}"
-msgstr ""
+msgstr "{i}\"Peniaze - 400 dolárov\"{/i}"
 
 # game/UpdateScript0.03.rpy:1207 #-#-# translate crowdin commissionsecondoutfit_10adc244:
 msgid "[_R_] So, how long will it take to finish?"
