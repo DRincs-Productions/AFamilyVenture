@@ -10,19 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-12-03 09:21\n"
+"PO-Revision-Date: 2023-06-15 16:19\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/KoopaComish.rpy:85 #-#-# translate crowdin koopa_scene_29ee671b:
 msgid "{i}\"Congratulations, You have unlocked a special noncanonical NTR event scene!\"{/i}"
-msgstr ""
+msgstr "{i}\"Tebrikler, standart olmayan özel bir NTR etkinlik sahnesinin kilidini açtınız!\"{/i}"
 
 # game/KoopaComish.rpy:86 #-#-# translate crowdin koopa_scene_4d809071:
 msgid "{i}\"In other words, this scene is not part of the game!\"{/i}"
-msgstr ""
+msgstr "{i}\"Başka bir deyişle, bu sahne oyunun bir parçası değil!\"{/i}"
 
 # game/KoopaComish.rpy:87 #-#-# translate crowdin koopa_scene_f92d9ac1:
 msgid "{i}\"This scene was commissioned by our good friend and super supporter, \"kingkoopa\". The premise of the event's story was his idea.\"{/i}"
-msgstr ""
+msgstr "{i}\"Bu sahne sevgili dostumuz ve büyük destekçimiz \"kingkoopa\" tarafından hazırlandı. Etkinliğin hikayesinin ana fikri ona aitti.\"{/i}"
 
 # game/KoopaComish.rpy:88 #-#-# translate crowdin koopa_scene_ff9a57b0:
 msgid "{i}\"He has been kind enough to let us place it in our game as a reward for completing the NTR event number 89!\"{/i}"
@@ -30,11 +30,11 @@ msgstr ""
 
 # game/KoopaComish.rpy:89 #-#-# translate crowdin koopa_scene_10d53b2d:
 msgid "{i}\"I really enjoyed bringing kingkoopa's idea to life, and if you enjoy the content, make sure you thank him in our Discord server for making this scene possible!\"{/i}"
-msgstr ""
+msgstr "{i}\"Kingkoopa'nın fikrini hayata geçirmekten gerçekten keyif aldım ve siz de eğer içeriği beğendiyseniz, bu sahneyi mümkün kıldığı için Discord sunucumuzda kendisine teşekkür etmeyi unutmayın!\"{/i}"
 
 # game/KoopaComish.rpy:90 #-#-# translate crowdin koopa_scene_37a45994:
 msgid "{i}\"Would you like to play this scene right now?... If you don't want to play it now, it will be available in the NTR gallery to play anytime.\"{/i}"
-msgstr ""
+msgstr "{i}\"Bu sahneyi şimdi oynamak ister misiniz?... Eğer şuan oynamak istemiyorsanız, dilediğiniz zaman NTR galerisinde bulup oynayabilirsiniz.\"{/i}"
 
 # game/KoopaComish.rpy:100 #-#-# translate crowdin koopa_scene_3657b4e1:
 msgid "[_R_] I can't believe you were just letting those guys grab your ass like that!"
@@ -514,7 +514,7 @@ msgstr ""
 
 # game/KoopaComish.rpy:299 #-#-# translate crowdin koopa_scene_c48ab6ae:
 msgid "[_M_] I've got no choice... We can't give up... We've got to pay off our debt!"
-msgstr ""
+msgstr "[_M_] Başka seçeneğim yok... Vazgeçemeyiz... Borcumuzu ödemek zorundayız!"
 
 # game/KoopaComish.rpy:302 #-#-# translate crowdin koopa_scene_abd6378c:
 msgid "[_M_] I thought you knew how to play!"
@@ -602,7 +602,7 @@ msgstr ""
 
 # game/KoopaComish.rpy:337 #-#-# translate crowdin koopa_scene_48b755b5:
 msgid "[_JJ_] Yeah, I know."
-msgstr ""
+msgstr "[_JJ_] Evet, biliyorum."
 
 # game/KoopaComish.rpy:340 #-#-# translate crowdin koopa_scene_af7f86bb:
 msgid "[_M_] Alright, Sidney. We're doing this!"
@@ -922,7 +922,7 @@ msgstr ""
 
 # game/KoopaComish.rpy:482 #-#-# translate crowdin koopa_scene_c9cf0f0e:
 msgid "[_S_] {i}(Whispering){/i} So, it's not unbeatable."
-msgstr ""
+msgstr "[_S_] {i}(Fısıldayarak){/i} Yani yenilmez değil."
 
 # game/KoopaComish.rpy:483 #-#-# translate crowdin koopa_scene_d5f5abf8:
 msgid "[_R_] No, see, the chances of getting a straight flush are very very low. but the chances of two players getting a straight flush in the same hand are impossibly low."
