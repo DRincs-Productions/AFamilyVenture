@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-01-18 20:35\n"
+"PO-Revision-Date: 2023-06-15 16:19\n"
 
 # TODO: Translation updated at 2022-12-03 11:46 #|#|# # game/images/interface_images/blackjack/blackjack-DS.rpy:500 #-#-# translate crowdin startGameBJ_ddfcd22e:
 msgid "[_BJ_dealer_] I'll start dealing the cards!{w=2.0}{nw}"
@@ -26,7 +26,7 @@ msgstr "[_BJ_dealer_] Dağıtıcı Bust, $ kazandınız[betSum]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:594 #-#-# translate crowdin handCheckLabel_d1330db7:
 msgid "[_BJ_dealer_] Blackjack! The dealer also has blackjack, but you have insurance! You win $[betSum]!{w=2.0}{nw}"
-msgstr "[_BJ_dealer_] Blackjack! Kasada da blackjack var, ama sigortan var! $[betSum] kazandın! {w=2.0}{nw}"
+msgstr "[_BJ_dealer_] Blackjack! Krupiye de blackjack var, ama senin sigortan var! $[betSum] kazandın! {w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:597 #-#-# translate crowdin handCheckLabel_f74531ea:
 msgid "[_BJ_dealer_] Blackjack! The dealer also has blackjack, so it's a push! You get your $[betSum] back!{w=2.0}{nw}"
@@ -38,7 +38,7 @@ msgstr "[_BJ_dealer_] Blackjack! Oyunu kazandınız, ödülünüz [betSum]!{w=2.
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:620 #-#-# translate crowdin handCheckLabel_4b09cedb:
 msgid "[_BJ_dealer_] Dealer has blackjack, but you have insurance! You make your bets back, $[betSum]!{w=2.0}{nw}"
-msgstr "[_BJ_dealer_] Kasada blackjack var, ama sigortan var! Bahislerini geri kazanıyorsun, [betSum]$! {w=2.0}{nw}"
+msgstr "[_BJ_dealer_] Krupiye de blackjack var, ama senin sigortan var! Bahislerini geri al, [betSum]$! {w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:623 #-#-# translate crowdin handCheckLabel_1d95a20c:
 msgid "[_BJ_dealer_] Dealer has blackjack! You lose the game and $[betSum]!{w=2.0}{nw}"
