@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-06-14 21:06\n"
+"PO-Revision-Date: 2023-06-18 14:07\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/UpdateScript0.06.rpy:715 #-#-# translate crowdin move_in_day_31871088:
 msgid "[_RT_] {i}I... think I slept in... What time is it?{/i}"
@@ -1382,7 +1382,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:1547 #-#-# translate crowdin sidney_bed_sex_e0b12ac0:
 msgid "{i}{b}\"Sidney's Libido +3\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney libido +3\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:1549 #-#-# translate crowdin sidney_bed_sex_295e0b90:
 msgid "[_S_] Maybe another night."
@@ -4594,7 +4594,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:3452 #-#-# translate crowdin aunt_angry_61f010f9:
 msgid "{i}{b}\"Aunt Camille's Affection -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Teta Camilla náklonnosť -1\" {/b} {/i}"
 
 # game/UpdateScript0.06.rpy:3453 #-#-# translate crowdin aunt_angry_43eb5bf4:
 msgid "{i}{b}\"Aunt Camille's Anger +2\"{/b}{/i}"
