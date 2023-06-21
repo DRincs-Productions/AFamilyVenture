@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-06-18 14:07\n"
+"PO-Revision-Date: 2023-06-21 08:09\n"
 
 # TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/UpdateScript0.04.rpy:320 #-#-# translate crowdin get_sidney_modeling_68a39f05:
 msgid "[_RT_] {i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
@@ -778,7 +778,7 @@ msgstr "[_ST_] {i}Ohhh.... a teraz je oveľa trápnejšie, že ma chytil. {/i}"
 
 # game/UpdateScript0.04.rpy:735 #-#-# translate crowdin awkward_sidney_e2762ab7:
 msgid "[_ST_] {i}Shit! What do I do.... I'm too scared to sleep on the couch, and Mom and Lauren won't let me sleep with them.{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Do riti! Čo mám robiť... Som príliš vystrašená spať sama na gauči. Mama a Lauren ma ale nenechajú spať s nimi. {/i}"
 
 # game/UpdateScript0.04.rpy:736 #-#-# translate crowdin awkward_sidney_01a102cf:
 msgid "[_ST_] {i}Maybe I need to get a straightjacket or something.{/i}"
