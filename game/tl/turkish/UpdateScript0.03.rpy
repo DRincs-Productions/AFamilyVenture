@@ -1,16 +1,16 @@
-# TODO: Translation updated at 2022-12-01 22:29
+# TODO: Translation updated at 2023-06-26 18:52
 
 # game/UpdateScript0.03.rpy:466
 translate turkish posting_the_htbyd_pics_99f2fd00:
 
     # RT "{i}I finally finished the Zad 3D work and photo editing.{/i}"
-    ""
+    RT "{i}Sonunda Zad 3D çalışmasını ve fotoğraf düzenlemesini bitirdim.{/i}"
 
 # game/UpdateScript0.03.rpy:467
 translate turkish posting_the_htbyd_pics_b5e1a766:
 
     # RT "{i}They turned out pretty damn hot if I do say so myself.{/i}"
-    ""
+    RT "{i}Bana kalırsa oldukça ateşli oldular.{/i}"
 
 # game/UpdateScript0.03.rpy:468
 translate turkish posting_the_htbyd_pics_1ec43bb1:
@@ -25,16 +25,16 @@ translate turkish posting_the_htbyd_pics_6e5a373c:
     RT "{i}Yarın bir ara web sitesini kontrol edeceğimden emin olmalıyım.{/i}"
 
 # game/UpdateScript0.03.rpy:492
-translate turkish posting_the_htbyd_pics_e3690255:
+translate turkish posting_the_htbyd_pics_56145a8e:
 
-    # RT "{b}(HINT){/b} {i}I can't believe Lauren's ok with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
+    # RT "{b}(HINT){/b} {i}I can't believe Lauren's okay with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
     ""
 
 # game/UpdateScript0.03.rpy:514
 translate turkish posting_the_htbyd_pics_6876a73c:
 
     # RT "{i}{b}(HINT){/b} I need to keep taking these \"How to Breed your Dragon\" pictures with Lauren until we've got every kind of picture we need.{/i}"
-    ""
+    RT "{i}{b}(İPUCU){/b} İhtiyacımız olan her tür fotoğrafı elde edene kadar Lauren ile bu \"How to Breed your Dragon\" fotoğraflarını çekmeye devam etmeliyim.{/i}"
 
 # game/UpdateScript0.03.rpy:527
 translate turkish check_for_htbyd_likes_b47e0d22:
@@ -76,25 +76,25 @@ translate turkish check_for_htbyd_likes_80266054:
 translate turkish check_for_htbyd_likes_e398f781:
 
     # L "Wow! Look how many people liked and commented on the outfit."
-    ""
+    L "Vay canına! Bak kaç kişi kıyafetimi beğenmiş ve yorum yapmış."
 
 # game/UpdateScript0.03.rpy:548
 translate turkish check_for_htbyd_likes_0387a891:
 
     # R "Yeah, Sidney really did an amazing job on that one."
-    ""
+    R "Evet, Sidney gerçekten harika bir iş çıkardın."
 
 # game/UpdateScript0.03.rpy:555
 translate turkish check_for_htbyd_likes_d8cb744c:
 
     # R "Look how the amount of likes goes up consistently with the amount of skin you showed off."
-    ""
+    R "Gösterdiğin vücut ile beğeni miktarının nasıl tutarlı bir şekilde arttığına bak."
 
 # game/UpdateScript0.03.rpy:556
 translate turkish check_for_htbyd_likes_bf9ca968:
 
     # L "Wow! I can't believe how much a difference that made."
-    ""
+    L "Vay canına! Ne kadar büyük bir fark yarattığına inanamıyorum."
 
 # game/UpdateScript0.03.rpy:558
 translate turkish check_for_htbyd_likes_41512102:
@@ -178,55 +178,55 @@ translate turkish check_for_htbyd_likes_1ffebffc:
 translate turkish check_for_htbyd_likes_b911c927:
 
     # L "Well.... your skin to likes ratio theory seems to hold true."
-    ""
+    L "Peki.... vücudun beğenilere oranı teorisi doğru gibi görünüyor."
 
 # game/UpdateScript0.03.rpy:579
 translate turkish check_for_htbyd_likes_b63b6ce7:
 
     # L "I'll try to get up the courage to take the next shoot even farther."
-    ""
+    L "Bir sonraki çekimi daha da ileri götürmek için cesaretimi toplamaya çalışacağım."
 
 # game/UpdateScript0.03.rpy:580
 translate turkish check_for_htbyd_likes_0118e43a:
 
     # L "Thanks again for helping me try to get famous!"
-    ""
+    L "Ünlü olmama yardım ettiğin için tekrar teşekkürler!"
 
 # game/UpdateScript0.03.rpy:581
 translate turkish check_for_htbyd_likes_21facd81:
 
     # L "And for using the money to help Mom."
-    ""
+    L "Ve parayı anneme yardım etmek için kullandığın için."
 
 # game/UpdateScript0.03.rpy:582
 translate turkish check_for_htbyd_likes_fce2cdb1:
 
     # L "You really are proving to be a great substitute for Dad."
-    ""
+    L "Gerçekten de babamın yerine harika bir yedek olduğunu kanıtlıyorsun."
 
 # game/UpdateScript0.03.rpy:583
 translate turkish check_for_htbyd_likes_1da10f54:
 
     # R "Thanks Lauren!"
-    ""
+    R "Teşekkürler Lauren!"
 
 # game/UpdateScript0.03.rpy:584
 translate turkish check_for_htbyd_likes_4ca04940:
 
     # L "Ok, it's getting too mushy in here. I'll see you around the house sometime."
-    ""
+    L "Tamam, burası çok duygusal olmaya başladı. Bir ara evde görüşürüz."
 
 # game/UpdateScript0.03.rpy:604
 translate turkish diazvisit_c00ec3a6:
 
     # RT "{i}{b}(HINT){/b} I wonder what's going on with the FBI lately?{/i}"
-    ""
+    RT "{i}{b}(İPUCU){/b} Acaba son zamanlarda FBI'da neler oluyor?{/i}"
 
 # game/UpdateScript0.03.rpy:611
 translate turkish diazvisit_0b70a703:
 
     # RT "{i}{b}(HINT){/b} It's almost like the FBI has forgotten us.{/i}"
-    ""
+    RT "{i}{b}(İPUCU){/b} Sanki FBI bizi unutmuş gibi.{/i}"
 
 # game/UpdateScript0.03.rpy:616
 translate turkish diazvisit_ac5a80fe:
@@ -244,97 +244,97 @@ translate turkish diazvisit_ac5a80fe_1:
 translate turkish diazvisit_559bc79a:
 
     # R "Who in the hell?"
-    ""
+    R "Kim bu şerefsiz?"
 
 # game/UpdateScript0.03.rpy:628
 translate turkish diazvisit_5beee9ea:
 
     # S "It's only six in the morning!"
-    ""
+    S "Saat daha sabahın altısı!"
 
 # game/UpdateScript0.03.rpy:629
 translate turkish diazvisit_02e1ece4:
 
     # S "Get the door [ryan], I'm too tired.... not dressed.... crusty.... panties.... {i}snore{/i}..."
-    ""
+    S "Kapıya bak [ryan], Çok yorgunum.... giyinik değilim.... huysuzum.... külotum.... {i}horlama{/i}..."
 
 # game/UpdateScript0.03.rpy:630
 translate turkish diazvisit_f21c2334:
 
     # RT "{i}Anyone ringing the doorbell this early, can't be here with good news.{/i}"
-    ""
+    RT "{i}Kapıyı bu kadar erken çalan biri, iyi haberlerle gelmiş olamaz.{/i}"
 
 # game/UpdateScript0.03.rpy:635
 translate turkish diazvisit_80cae6de:
 
     # AD "Well, good morning [ryan]!"
-    ""
+    AD "Günaydın [ryan]!"
 
 # game/UpdateScript0.03.rpy:637
 translate turkish diazvisit_f25223a4:
 
     # R "Huh?.... Hi?.... How do you know me?"
-    ""
+    R "Hah?.... Merhaba?.... Beni nereden tanıyorsun?"
 
 # game/UpdateScript0.03.rpy:638
 translate turkish diazvisit_af20e3b0:
 
     # AD "My name is Special Agent Diaz of the FBI Criminal Investigation Division."
-    ""
+    AD "Ben, FBI Kriminal Soruşturma Bölümü'nden Özel Ajan Diaz."
 
 # game/UpdateScript0.03.rpy:639
 translate turkish diazvisit_6624d48a:
 
     # AD "I've just been reassigned to head the case against your father."
-    ""
+    AD "Babana karşı açılan davanın başına yeni atandım."
 
 # game/UpdateScript0.03.rpy:640
 translate turkish diazvisit_f392b75e:
 
     # AD "Aren't you going to invite me in?"
-    ""
+    AD "Beni içeri davet etmeyecek misin?"
 
 # game/UpdateScript0.03.rpy:641
 translate turkish diazvisit_0cfeb5d2:
 
     # R "Uhhhh.... It's 6 in the morning.... do you have a warrant?"
-    ""
+    R "Uhhhh.... Saat sabahın altısı.... arama izniniz var mı?"
 
 # game/UpdateScript0.03.rpy:644
 translate turkish diazvisit_6ac2abd0:
 
     # AD "It's not that kind of visit, and we have an ongoing warrant to search the premises whenever we feel there is a need."
-    ""
+    AD "Bu öyle bir ziyaret değil ve ihtiyaç duyduğumuzu hissettiğimizde binayı aramak için sürekli bir iznimiz var."
 
 # game/UpdateScript0.03.rpy:645
 translate turkish diazvisit_97be63b2:
 
     # R "Ok, let me go get my mom."
-    ""
+    R "Tamam, gidip annemi getireyim."
 
 # game/UpdateScript0.03.rpy:646
 translate turkish diazvisit_79ea7cb6:
 
     # AD "She's not here, I just watched her drive away."
-    ""
+    AD "Burada değil, az önce gidişini izledim."
 
 # game/UpdateScript0.03.rpy:647
 translate turkish diazvisit_dc7f54e4:
 
     # AD "I've arranged for her to have an early morning meeting with her lawyer and the federal prosecutor each Thursday morning to go over details of the investigation against her husband."
-    ""
+    AD "Kocasına karşı yürütülen soruşturmanın ayrıntılarını gözden geçirmek üzere her Perşembe sabahı erkenden avukatı ve federal savcı ile bir toplantı yapmasını ayarladım."
 
 # game/UpdateScript0.03.rpy:648
 translate turkish diazvisit_377b52c5:
 
     # R "Then who are you here to see?"
-    ""
+    R "O zaman kimi görmeye geldin?"
 
 # game/UpdateScript0.03.rpy:651
 translate turkish diazvisit_4bdfb08b:
 
     # AD "I actually want to have a few words with you and your sister Lauren."
-    ""
+    AD "Aslında seninle ve kız kardeşin Lauren ile birkaç kelime konuşmak istiyorum."
 
 # game/UpdateScript0.03.rpy:652
 translate turkish diazvisit_4881927b:
@@ -346,157 +346,157 @@ translate turkish diazvisit_4881927b:
 translate turkish diazvisit_81d16400:
 
     # R "What could you possibly want with us?"
-    ""
+    R "Bizden ne isteyebilirsin ki?"
 
 # game/UpdateScript0.03.rpy:654
 translate turkish diazvisit_70b47061:
 
     # AD "Why don't you go get your sister and I'll meet you in the lounge."
-    ""
+    AD "Neden gidip kardeşini getirmiyorsun, seninle salonda buluşuruz."
 
 # game/UpdateScript0.03.rpy:655
 translate turkish diazvisit_2e4a6d3a:
 
     # R "Uhhhh.... ok.... let me show you where it..."
-    ""
+    R "Uhhhh.... tamam.... nerede olduğunu göstereyim..."
 
 # game/UpdateScript0.03.rpy:656
 translate turkish diazvisit_1abb2e84:
 
     # AD "I know where it is.... just run and get Lauren."
-    ""
+    AD "Nerede olduğunu biliyorum.... sadece koş ve Lauren'i getir."
 
 # game/UpdateScript0.03.rpy:659
 translate turkish diazvisit_f5e057fd:
 
     # RT "{i}Oh my God.... what is this about?.... I hope I haven't done anything to get Lauren in trouble.{/i}"
-    ""
+    RT "{i}Aman Tanrım.... bu da ne demek oluyor? Umarım Lauren'in başını belaya sokacak bir şey yapmamışımdır.{/i}"
 
 # game/UpdateScript0.03.rpy:662
 translate turkish diazvisit_2bd18c71:
 
     # AD "Good morning Lauren, I hope you slept well."
-    ""
+    AD "Günaydın Lauren, umarım iyi uyumuşsundur."
 
 # game/UpdateScript0.03.rpy:663
 translate turkish diazvisit_f770b05c:
 
     # L "Uuuuhhhh.... hi?"
-    ""
+    L "Uuuuhhhh.... merhaba?"
 
 # game/UpdateScript0.03.rpy:664
 translate turkish diazvisit_bb33f9ab:
 
     # AD "I'm sorry, but did [ryan] tell you who I am?"
-    ""
+    AD "Üzgünüm, ama [ryan] sana kim olduğumu söylemedi mi?"
 
 # game/UpdateScript0.03.rpy:665
 translate turkish diazvisit_efb40849:
 
     # L "He said you're in charge of building a case against our dad?"
-    ""
+    L "Babamıza karşı dava açmakla görevli olduğunuzu söyledi."
 
 # game/UpdateScript0.03.rpy:666
 translate turkish diazvisit_4af17a9e:
 
     # AD "I am, but I'm not here to talk about his case, I'm here because of the actions of you two."
-    ""
+    AD "Öyleyim ama buraya onun davası hakkında konuşmaya gelmedim, ikinizin davranışları yüzünden buradayım."
 
 # game/UpdateScript0.03.rpy:669
 translate turkish diazvisit_f2449bf5:
 
     # L "Oh, no.... what have we done?"
-    ""
+    L "Ha, hayır.... biz ne yaptık?"
 
 # game/UpdateScript0.03.rpy:670
 translate turkish diazvisit_0d8715ae:
 
     # R "Lauren.... let me do the talking. We have to be careful what we say here."
-    ""
+    R "Lauren.... konuşmayı benim yapmama izin verdi. Burada ne söylediğimize dikkat etmeliyiz."
 
 # game/UpdateScript0.03.rpy:671
 translate turkish diazvisit_c73a52f0:
 
     # AD "You bet your ass you do. You two have been naughty lately."
-    ""
+    AD "Bahse girebilirsiniz ki, siz ikiniz son zamanlarda yaramazlık yaptınız."
 
 # game/UpdateScript0.03.rpy:672
 translate turkish diazvisit_5d4af1b1:
 
     # L "No, we haven't."
-    ""
+    L "Hayır, yapmadık."
 
 # game/UpdateScript0.03.rpy:673
 translate turkish diazvisit_9302d5ba:
 
     # AD "So, you haven't been taking sexy pictures of yourself on the property of a company that has suspected dealings with the Mafia?"
-    ""
+    AD "Yani, mafyayla ilişkisi olduğundan şüphelenilen bir şirketin mülkünde seksi fotoğraflar çekmiyor muydunuz?"
 
 # game/UpdateScript0.03.rpy:676
 translate turkish diazvisit_0e57b180:
 
     # L "How do you know that?"
-    ""
+    L "Bunu nereden biliyorsun?"
 
 # game/UpdateScript0.03.rpy:677
 translate turkish diazvisit_61f99ab9:
 
     # R "They're watching everything we do..."
-    ""
+    R "Yaptığımız her şeyi izliyorlar..."
 
 # game/UpdateScript0.03.rpy:678
 translate turkish diazvisit_db04ce07:
 
     # AD "Oh, please.... you aren't making it hard."
-    ""
+    AD "Oh, lütfen.... işi zorlaştırma."
 
 # game/UpdateScript0.03.rpy:679
 translate turkish diazvisit_09797b50:
 
     # AD "Are you aware how easy it is to track your activity on the internet?"
-    ""
+    AD "İnternetteki faaliyetlerinizi takip etmenin ne kadar kolay olduğunun farkında mısınız?"
 
 # game/UpdateScript0.03.rpy:680
 translate turkish diazvisit_20dacfb6:
 
     # AD "Are you aware how easy it is to follow teens on their bikes and mopeds?"
-    ""
+    AD "Gençleri bisiklet ve mopedleriyle takip etmenin ne kadar kolay olduğunun farkında mısınız?"
 
 # game/UpdateScript0.03.rpy:681
 translate turkish diazvisit_a11847bd:
 
     # RT "{i}Oh my God, does that mean they know about me buying and installing my spy-cams?{/i}"
-    ""
+    RT "{i}Aman Tanrım, bu casusluk kameralarını satın aldığımı ve yerleştirdiğimi bildikleri anlamına mı geliyor?{/i}"
 
 # game/UpdateScript0.03.rpy:682
 translate turkish diazvisit_aecb30cb:
 
     # AD "Your father obviously didn't teach you anything he knew about conducting business covertly."
-    ""
+    AD "Belli ki baban sana gizlice iş yapma konusunda bildiği hiçbir şeyi öğretmemiş."
 
 # game/UpdateScript0.03.rpy:685
 translate turkish diazvisit_94706216:
 
     # R "But Lauren and I are both adults. It's not illegal for us to take and pose for adult pictures, and we've set up everything legally online through Cosplay Heaven."
-    ""
+    R "Ama Lauren ve ben ikimiz de yetişkiniz. Yetişkin fotoğrafları çekmek ve poz vermek bizim için yasadışı değil ve Cosplay Heaven aracılığıyla her şeyi yasal olarak çevrimiçi olarak ayarladık."
 
 # game/UpdateScript0.03.rpy:686
 translate turkish diazvisit_61fc2b1d:
 
     # AD "Yes, and you generated tax forms that prove you're making an income that you aren't reporting and surrendering to the FBI."
-    ""
+    AD "Evet ve FBI'a bildirmediğiniz ve teslim etmediğiniz bir gelir elde ettiğinizi kanıtlayan vergi formları oluşturdunuz."
 
 # game/UpdateScript0.03.rpy:687
 translate turkish diazvisit_00f6c236:
 
     # R "Oh, shit.... that's right..."
-    ""
+    R "Ah, kahretsin.... bu doğru..."
 
 # game/UpdateScript0.03.rpy:688
 translate turkish diazvisit_58d10a0f:
 
     # AD "And that's not even mentioning the money you're getting under the table from your uncle Bobby to help you pay off your weekly debt to the DeCapos."
-    ""
+    AD "DeCapo'lara olan haftalık borcunuzu ödemenize yardımcı olması için Bobby amcanızdan el altından aldığınız paradan bahsetmiyorum bile."
 
 # game/UpdateScript0.03.rpy:689
 translate turkish diazvisit_c6841c25:
@@ -514,43 +514,43 @@ translate turkish diazvisit_c6841c25_1:
 translate turkish diazvisit_a8b48c7e:
 
     # R "Wait!.... You know the DeCapos are extorting us for $1000 a week?"
-    ""
+    R "Bekle!.... DeCapoların haftada 1000 dolar için bizden haraç aldığını biliyor musun?"
 
 # game/UpdateScript0.03.rpy:694
 translate turkish diazvisit_603e7276:
 
     # AD "And I know they're making your mom strip if they don't get their payment each week."
-    ""
+    AD "Ve her hafta ödemelerini alamazlarsa anneni soyduklarını biliyorum."
 
 # game/UpdateScript0.03.rpy:697
 translate turkish diazvisit_8bfbbc86:
 
     # L "What?.... Mom's not serving drinks at Joey's club? She's actually stripping?"
-    ""
+    L "Ne? .... Annem Joey'in kulübünde içki servisi yapmıyor mu? Gerçekten striptiz mi yapıyor?"
 
 # game/UpdateScript0.03.rpy:698
 translate turkish diazvisit_4da22d70:
 
     # R "Yeah.... she asked me not to tell you. I'll fill you in later."
-    ""
+    R "Evet.... sana söylemememi istedi. Sonra anlatırım."
 
 # game/UpdateScript0.03.rpy:701
 translate turkish diazvisit_5ce21906:
 
     # R "So, you know about all of this?.... And we're the ones who are in trouble? Why aren't you going after the DeCapo's?"
-    ""
+    R "Yani, tüm bunlardan haberin var mı?.... Ve başı dertte olan biz miyiz? Neden DeCapo'ların peşinden gitmiyorsunuz?"
 
 # game/UpdateScript0.03.rpy:702
 translate turkish diazvisit_0ee628bf:
 
     # AD "[ryan], you're a bright boy.... I'm sure you've seen Mafia movies before."
-    ""
+    AD "[ryan], sen zeki bir çocuksun..... Eminim daha önce mafya filmleri izlemişsinizdir."
 
 # game/UpdateScript0.03.rpy:703
 translate turkish diazvisit_81c7844f:
 
     # AD "It shouldn't be too hard for you to put this together."
-    ""
+    AD "Bunu bir araya getirmek sizin için çok zor olmamalı."
 
 # game/UpdateScript0.03.rpy:706
 translate turkish diazvisit_c6841c25_2:
@@ -562,13 +562,13 @@ translate turkish diazvisit_c6841c25_2:
 translate turkish diazvisit_d5b2c6d8:
 
     # R "Oh my God.... you're in the pocket of the DeCapos."
-    ""
+    R "Aman Tanrım.... DeCapo'ların cebindesin."
 
 # game/UpdateScript0.03.rpy:708
 translate turkish diazvisit_9ead3cdb:
 
     # L "Oh my God..."
-    ""
+    L "Aman Tanrım..."
 
 # game/UpdateScript0.03.rpy:709
 translate turkish diazvisit_2d42041c:
@@ -580,55 +580,55 @@ translate turkish diazvisit_2d42041c:
 translate turkish diazvisit_ef91a493:
 
     # L "Well, thats not horrible news."
-    ""
+    L "Şey, bu korkunç bir haber değil."
 
 # game/UpdateScript0.03.rpy:713
 translate turkish diazvisit_a7c37087:
 
     # L "You should be able to help get Dad off on all charges right?"
-    ""
+    L "Babamın tüm suçlamalardan kurtulmasına yardım edebilirsin, değil mi?"
 
 # game/UpdateScript0.03.rpy:714
 translate turkish diazvisit_6bc64428:
 
     # AD "Well, that was the original plan."
-    ""
+    AD "Asıl plan buydu."
 
 # game/UpdateScript0.03.rpy:715
 translate turkish diazvisit_fc264d09:
 
     # AD "But now Joey DeCapo is happier with the arrangement as it is now. He's getting paid each week, or he's getting a visit from your mom."
-    ""
+    AD "Ama Joey DeCapo şu anki durumdan daha mutlu. Her hafta parasını alıyor ya da annen onu ziyaret ediyor."
 
 # game/UpdateScript0.03.rpy:716
 translate turkish diazvisit_36545c57:
 
     # AD "He actually enjoys those visits more than he does the money."
-    ""
+    AD "Aslında bu ziyaretlere göre, paradan daha çok keyif alıyor."
 
 # game/UpdateScript0.03.rpy:717
 translate turkish diazvisit_c51a0b44:
 
     # AD "Now he wants to keep your dad in jail as long as possible."
-    ""
+    AD "Şimdi de babanı mümkün olduğunca uzun süre hapiste tutmak istiyor."
 
 # game/UpdateScript0.03.rpy:720
 translate turkish diazvisit_f595fb80:
 
     # L "Well, what do you want with us?"
-    ""
+    L "Peki, bizden ne istiyorsun?"
 
 # game/UpdateScript0.03.rpy:721
 translate turkish diazvisit_1dfa9e70:
 
     # AD "That's simple..."
-    ""
+    AD "Çok basit..."
 
 # game/UpdateScript0.03.rpy:722
 translate turkish diazvisit_7916e651:
 
     # AD "I'm here to extort you."
-    ""
+    AD "Seni haraca bağlamaya geldim."
 
 # game/UpdateScript0.03.rpy:723
 translate turkish diazvisit_c6841c25_3:
@@ -640,85 +640,85 @@ translate turkish diazvisit_c6841c25_3:
 translate turkish diazvisit_29c6f165:
 
     # R "For what?"
-    ""
+    R "Neden?"
 
 # game/UpdateScript0.03.rpy:727
 translate turkish diazvisit_d9f4be24:
 
     # AD "Money and favors of course."
-    ""
+    AD "Para ve iyilik için tabii ki."
 
 # game/UpdateScript0.03.rpy:728
 translate turkish diazvisit_83dd39a4:
 
     # R "Favors?"
-    ""
+    R "İyilik mi?"
 
 # game/UpdateScript0.03.rpy:729
 translate turkish diazvisit_0b83320f:
 
     # R "You mean if we don't pay you what you want, I have to do a strip dance for you?"
-    ""
+    R "Yani istediğin parayı vermezsek senin için striptiz dansı mı yapacağım?"
 
 # game/UpdateScript0.03.rpy:730
 translate turkish diazvisit_f384769e:
 
     # AD "Haha.... do you see the pant-suit?"
-    ""
+    AD "Haha.... pantolonu görüyor musun?"
 
 # game/UpdateScript0.03.rpy:731
 translate turkish diazvisit_41847f48:
 
     # AD "It's not you I would want to see lose their clothes."
-    ""
+    AD "Kıyafetlerini kaybettiğini görmek istediğim kişi sen değilsin."
 
 # game/UpdateScript0.03.rpy:732
 translate turkish diazvisit_5c05342c:
 
     # L "Oh.... my.... God..."
-    ""
+    L "A.... man.... Tanrım..."
 
 # game/UpdateScript0.03.rpy:733
 translate turkish diazvisit_0add412e:
 
     # R "How much do we have to pay you?"
-    ""
+    R "Size ne kadar ödememiz gerekiyor?"
 
 # game/UpdateScript0.03.rpy:734
 translate turkish diazvisit_a624b532:
 
     # AD "Oh, not much, just $500 a week."
-    ""
+    AD "Çok değil, haftalık sadece 500 dolarcık."
 
 # game/UpdateScript0.03.rpy:735
 translate turkish diazvisit_e791425d:
 
     # R "But what if we can't pay the DeCapo's because you're extorting us?"
-    ""
+    R "Ama ya bizden haraç aldığınız için DeCapo'lara ödeme yapamazsak?"
 
 # game/UpdateScript0.03.rpy:736
 translate turkish diazvisit_219a7df5:
 
     # R "I'll make sure Joey knows it's you who's preventing us."
-    ""
+    R "Joey'in bizi engelleyenin sen olduğunu bilmesini sağlayacağım."
 
 # game/UpdateScript0.03.rpy:737
 translate turkish diazvisit_a0d22d1a:
 
     # AD "Joey already knows about this."
-    ""
+    AD "Joey bunu zaten biliyor."
 
 # game/UpdateScript0.03.rpy:738
 translate turkish diazvisit_16827e73:
 
     # AD "Like I said, he doesn't mind if you miss a payment here and there."
-    ""
+    AD "Dediğim gibi, arada bir ödemeyi aksatmanıza aldırmıyor."
 
 # game/UpdateScript0.03.rpy:739
 translate turkish diazvisit_5c05342c_1:
 
     # L "Oh.... my.... God..."
-    ""
+    L "A.... man.... Tanrım..."
 
 # game/UpdateScript0.03.rpy:740
 translate turkish diazvisit_9993b94e:
@@ -730,103 +730,103 @@ translate turkish diazvisit_9993b94e:
 translate turkish diazvisit_007e72e3:
 
     # L "[ryan]!.... We can't give Diaz the money.... we've got to protect Mom."
-    ""
+    L "[ryan]!.... Diaz'a para veremeyiz..... Annemizi korumak zorundayız."
 
 # game/UpdateScript0.03.rpy:744
 translate turkish diazvisit_1af3a4ba:
 
     # R "I think Mom would disagree.... she wouldn't want you to have to do favors for this pervy fed."
-    ""
+    R "Sanırım annem aynı fikirde olmaz.... bu sapık federal için iyilik yapmanı istemezdi."
 
 # game/UpdateScript0.03.rpy:745
 translate turkish diazvisit_ea1f0ce3:
 
     # L "It's better that I do favors for this pervy fed in the safety of our home, than for Mom to do favors for a bunch of dangerous pervy gangsters."
-    ""
+    L "Annemin bir grup tehlikeli sapık gangster için iyilik yapmasındansa, benim evimizin güvenliğinde bu sapık federal için iyilik yapmam daha iyi."
 
 # game/UpdateScript0.03.rpy:746
 translate turkish diazvisit_6d8a13bb:
 
     # AD "And I promise I won't take it too far. Haha.... unless you ask me to."
-    ""
+    AD "Ve söz veriyorum çok ileri gitmeyeceğim. Haha.... sen istemedikçe."
 
 # game/UpdateScript0.03.rpy:747
 translate turkish diazvisit_783b8425:
 
     # AD "Oh, and you can't tell your mom about this at all."
-    ""
+    AD "Annene bundan hiç bahsetmeyeceksin."
 
 # game/UpdateScript0.03.rpy:750
 translate turkish diazvisit_523e9a43:
 
     # R "Or what?"
-    ""
+    R "Yoksa ne olur?"
 
 # game/UpdateScript0.03.rpy:751
 translate turkish diazvisit_beddc331:
 
     # AD "Or I tell her about everything else, the sexy pics, about posting them on the internet, and several other things I know [ryan]'s been up to around here lately."
-    ""
+    AD "Ya da ona diğer her şeyden, seksi resimlerden, onları internette yayınlamaktan ve senin son zamanlarda buralarda olduğunu bildiğim diğer birkaç şeyden bahsediyorum."
 
 # game/UpdateScript0.03.rpy:752
 translate turkish diazvisit_156efd48:
 
     # AD "You don't want me to be more specific in front of Lauren do you?..."
-    ""
+    AD "Lauren'in önünde daha açık konuşmamı istemezsin, değil mi?..."
 
 # game/UpdateScript0.03.rpy:755
 translate turkish diazvisit_19ba8f13:
 
     # L "What's she talking about?"
-    ""
+    L "Neyden bahsediyor bu?"
 
 # game/UpdateScript0.03.rpy:756
 translate turkish diazvisit_80332d5f:
 
     # R "Don't worry about that. We can't let Mom find out about the pictures."
-    ""
+    R "Bunun için endişelenme. Annemin resimleri öğrenmesine izin veremeyiz."
 
 # game/UpdateScript0.03.rpy:757
 translate turkish diazvisit_a1115915:
 
     # R "We have no choice, but to play along."
-    ""
+    R "Birlikte hareket etmekten başka çaremiz yok."
 
 # game/UpdateScript0.03.rpy:758
 translate turkish diazvisit_ddf711c1:
 
     # AD "That's great news."
-    ""
+    AD "Bu harika bir haber."
 
 # game/UpdateScript0.03.rpy:759
 translate turkish diazvisit_8918a6a2:
 
     # AD "So, what's it gonna be?"
-    ""
+    AD "Peki, ne olacak?"
 
 # game/UpdateScript0.03.rpy:762
 translate turkish diazvisit_0d4bafba:
 
     # R "No question, we're paying the $500."
-    ""
+    R "Hiç şüphe yok, 500 doları ödüyoruz."
 
 # game/UpdateScript0.03.rpy:763
 translate turkish diazvisit_91731246:
 
     # L "But [ryan]? What about Mom?"
-    ""
+    L "[ryan] ama? Peki ya annem?"
 
 # game/UpdateScript0.03.rpy:765
 translate turkish diazvisit_30f24883:
 
     # R "Don't worry, I'll have enough money to pay for her too by Saturday."
-    ""
+    R "Merak etme, cumartesiye kadar onun da parasını ödeyecek kadar param olacak."
 
 # game/UpdateScript0.03.rpy:766
 translate turkish diazvisit_fcbbb21d:
 
     # L "Oh, thank God!"
-    ""
+    L "Oh, Tanrıya şükür!"
 
 # game/UpdateScript0.03.rpy:767
 translate turkish diazvisit_c00662a5:
@@ -862,13 +862,13 @@ translate turkish diazvisit_56e767cd:
 translate turkish diazvisit_daed1a1a:
 
     # R "Let me go grab you your money, and I'll meet you by the front door to show you out."
-    ""
+    R "Gidip parayı alayım, ön kapıda buluşup size çıkışı göstereyim."
 
 # game/UpdateScript0.03.rpy:777
 translate turkish diazvisit_8dfb6435:
 
     # R "Here's the $500."
-    ""
+    R "İşte 500 doların."
 
 # game/UpdateScript0.03.rpy:778
 translate turkish diazvisit_1d2e43f3:
@@ -880,73 +880,73 @@ translate turkish diazvisit_1d2e43f3:
 translate turkish diazvisit_22792f17:
 
     # AD "It's been a pleasure doing business with you."
-    ""
+    AD "Sizinle iş yapmak bir zevkti."
 
 # game/UpdateScript0.03.rpy:783
 translate turkish diazvisit_7e923b39:
 
     # AD "And just so you know, I know exactly what's going on in this house. I know about the inappropriate gifts you buy on Hardnlong, and the little surveillance state you've got going on here."
-    ""
+    AD "Ve bilesin diye söylüyorum, bu evde neler döndüğünü çok iyi biliyorum. HardnLong'dan aldığın uygunsuz hediyelerden ve burada yürüttüğün küçük gözetleme durumundan haberim var."
 
 # game/UpdateScript0.03.rpy:784
 translate turkish diazvisit_19a346c4:
 
     # AD "So, you'd better be willing to play ball, or your life is going to get pretty uncomfortable."
-    ""
+    AD "Yani, top oynamaya istekli olsanız iyi olur, yoksa hayatınız oldukça rahatsız olacak."
 
 # game/UpdateScript0.03.rpy:785
 translate turkish diazvisit_47a4eebc:
 
     # RT "{i}Shit.... I'm an idiot to think I was being so sneaky with the FBI watching me.{/i}"
-    ""
+    RT "{i}Siktir.... FBI beni izlerken bu kadar sinsi davrandığımı düşünecek kadar aptalım.{/i}"
 
 # game/UpdateScript0.03.rpy:786
 translate turkish diazvisit_f7c08ea8:
 
     # RT "{i}Maybe I'm lucky that a crooked agent is in charge of this case.{/i}"
-    ""
+    RT "{i}Belki de bu davaya sahtekâr bir ajan baktığı için şanslıyımdır.{/i}"
 
 # game/UpdateScript0.03.rpy:787
 translate turkish diazvisit_b268dd27:
 
     # RT "{i}I'm not in trouble so to speak, and it sounds like Dad's going to be out of our lives, at least for the foreseeable future.{/i}"
-    ""
+    RT "{i}Tabiri caizse başım belada değil ve babam da en azından öngörülebilir gelecekte hayatımızdan çıkacak gibi görünüyor.{/i}"
 
 # game/UpdateScript0.03.rpy:790
 translate turkish diazvisit_da2f7287:
 
     # AD "And just between you and me, I, just like Joey, wouldn't mind even a little bit if you had to miss a payment here and there."
-    ""
+    AD "Ve aramızda kalsın, ben de Joey gibi, arada bir ödemeyi aksatmak zorunda kalsanız bile buna biraz olsun aldırmazdım."
 
 # game/UpdateScript0.03.rpy:791
 translate turkish diazvisit_6396e249:
 
     # R "I'll take that into consideration. Goodbye!"
-    ""
+    R "Bunu dikkate alacağım. Güle güle!"
 
 # game/UpdateScript0.03.rpy:795
 translate turkish diazvisit_b727c6bd:
 
     # RT "{i}Holy fucking shit!!.... What is happening with my life?.... {/i}"
-    ""
+    RT "{i}Amına koyim!.... Hayatıma neler oluyor?.... {/i}"
 
 # game/UpdateScript0.03.rpy:796
 translate turkish diazvisit_2c3ab4a5:
 
     # L "{i}(SHOUTING){/i} [ryan]!"
-    ""
+    L "{i}(BAĞIRARAK){/i} [ryan]!"
 
 # game/UpdateScript0.03.rpy:797
 translate turkish diazvisit_eddca0e0:
 
     # R "{i}(SHOUTING){/i} Yeah?"
-    ""
+    R "{i}(BAĞIRARAK){/i} Efendim?"
 
 # game/UpdateScript0.03.rpy:798
 translate turkish diazvisit_f98d176e:
 
     # L "Will you please come to my room?"
-    ""
+    L "Lütfen odama gelir misin?"
 
 # game/UpdateScript0.03.rpy:801
 translate turkish diazvisit_a5c2e44d:
@@ -958,7 +958,7 @@ translate turkish diazvisit_a5c2e44d:
 translate turkish diazvisit_8b6322c9:
 
     # L "Please sit down on my bed."
-    ""
+    L "Lütfen yatağıma otur."
 
 # game/UpdateScript0.03.rpy:806
 translate turkish diazvisit_1812126d:
@@ -1000,49 +1000,49 @@ translate turkish diazvisit_cc62608b:
 translate turkish diazvisit_efc3bd97:
 
     # R "Lauren.... I think you're right.... If we pay Diaz the $500, we may not have enough for Mom too."
-    ""
+    R "Lauren.... Sanırım haklısın.... Diaz'a 500 dolar ödersek, anneme de yetmeyebilir."
 
 # game/UpdateScript0.03.rpy:815
 translate turkish diazvisit_66735aef:
 
     # R "And I think you're also right that Mom would be in more danger than you are here in the safety of our own home."
-    ""
+    R "Ve sanırım annemin burada, kendi evimizin güvenliğinde olduğundan daha fazla tehlikede olacağı konusunda da haklısın."
 
 # game/UpdateScript0.03.rpy:816
 translate turkish diazvisit_55cb7a81:
 
     # R "But are you sure you're willing to take one for the team?"
-    ""
+    R "Ama takım için bir tane almak istediğine emin misin?"
 
 # game/UpdateScript0.03.rpy:817
 translate turkish diazvisit_b8ab99de:
 
     # L "Of course! You're already doing your part. It's time for me to do mine."
-    ""
+    L "Tabii ki! Sen zaten üzerine düşeni yapıyorsun. Şimdi benimkini yapma zamanı."
 
 # game/UpdateScript0.03.rpy:818
 translate turkish diazvisit_9764a7ba:
 
     # AD "So, I take it I'll be paid in favors this week?"
-    ""
+    AD "Sanırım bu hafta bana iyilik olarak ödeme yapılacak?"
 
 # game/UpdateScript0.03.rpy:819
 translate turkish diazvisit_9e0a772d:
 
     # AD "That's great! This is even better than the money.... I get so bored spying on you from my car."
-    ""
+    AD "Bu harika! Bu paradan bile daha iyi.... Arabamdan seni gözetlemekten çok sıkıldım."
 
 # game/UpdateScript0.03.rpy:820
 translate turkish diazvisit_ff0dc771:
 
     # AD "Lauren, why don't we take this to your room. [ryan] you can go get ready for school."
-    ""
+    AD "Lauren, neden bunu odana götürmüyoruz. [ryan], gidip okul için hazırlanabilirsin."
 
 # game/UpdateScript0.03.rpy:823
 translate turkish diazvisit_f23e9b65:
 
     # AD "I'll just make myself comfortable on your bed."
-    ""
+    AD "Yatağında rahatıma bakacağım."
 
 # game/UpdateScript0.03.rpy:828
 translate turkish diazvisit_ac5a80fe_2:
@@ -1066,13 +1066,13 @@ translate turkish diazvisit_e4c22b0d:
 translate turkish diazvisit_5beee9ea_1:
 
     # S "It's only six in the morning!"
-    ""
+    S "Saat daha sabahın altısı!"
 
 # game/UpdateScript0.03.rpy:842
 translate turkish diazvisit_02e1ece4_1:
 
     # S "Get the door [ryan], I'm too tired.... not dressed.... crusty.... panties.... {i}snore{/i}..."
-    ""
+    S "Kapıya bak [ryan], Çok yorgunum.... giyinik değilim.... huysuzum.... külotum.... {i}horlama{/i}..."
 
 # game/UpdateScript0.03.rpy:843
 translate turkish diazvisit_b13f5117:
@@ -1138,7 +1138,7 @@ translate turkish diazvisit_8f29da67:
 translate turkish diazvisit_80cae6de_1:
 
     # AD "Well, good morning [ryan]!"
-    ""
+    AD "Günaydın [ryan]!"
 
 # game/UpdateScript0.03.rpy:878
 translate turkish diazvisit_632ab943:
@@ -1252,7 +1252,7 @@ translate turkish diazvisit_7f274ffe:
 translate turkish diazvisit_f98d176e_1:
 
     # L "Will you please come to my room?"
-    ""
+    L "Lütfen odama gelir misin?"
 
 # game/UpdateScript0.03.rpy:909
 translate turkish diazvisit_a5c2e44d_1:
@@ -1264,7 +1264,7 @@ translate turkish diazvisit_a5c2e44d_1:
 translate turkish diazvisit_8b6322c9_1:
 
     # L "Please sit down on my bed."
-    ""
+    L "Lütfen yatağıma otur."
 
 # game/UpdateScript0.03.rpy:914
 translate turkish diazvisit_04846c04:
@@ -1405,10 +1405,10 @@ translate turkish firstloyaltyweekend_4931d756:
     RT "{i}Oh, hayır.... görünüşe göre annem bu sabah erkenden içmeye başlamış.{/i}"
 
 # game/UpdateScript0.03.rpy:959
-translate turkish firstloyaltyweekend_e0429891:
+translate turkish firstloyaltyweekend_45c67f46:
 
-    # R "Hey Mom, is everything ok this morning?"
-    R "Anne, bu sabah her şey yolunda mı?"
+    # R "Hey Mom, is everything okay this morning?"
+    ""
 
 # game/UpdateScript0.03.rpy:962
 translate turkish firstloyaltyweekend_e8c2a5b4:
@@ -1750,7 +1750,7 @@ translate turkish firstloyaltyweekend_dd6d5517:
 translate turkish firstloyaltyweekend_53f67a71:
 
     # M "I wanted to do something nice for you today to say thank you, but you have to go and act like this!?"
-    M "bugün size teşekkür etmek için güzel bir şey yapmak istedim, ama gidip böyle davranmanız gerekiyor!?"
+    M "Bugün sana teşekkür etmek için güzel bir şey yapmak istedim, ama sen gidip böyle davranmak zorunda mısın!?"
 
 # game/UpdateScript0.03.rpy:1060
 translate turkish firstloyaltyweekend_7de12081:
@@ -2026,7 +2026,7 @@ translate turkish commissionsecondoutfit_630302f5:
 translate turkish commissionsecondoutfit_25e54232:
 
     # S "Really? There's not another convention for another 6 months. What's the occasion?"
-    S "Gerçekten mi? Altı ay daha başka bir kongre yok. Olay nedir?"
+    S "Gerçekten mi? Altı ay daha başka bir etkinlik yok. Olay nedir?"
 
 # game/UpdateScript0.03.rpy:1156
 translate turkish commissionsecondoutfit_494c1fd5:
@@ -2635,10 +2635,10 @@ translate turkish bikinishow_e12ffb5d:
     R "Ummm.... evet.... Bence.... çok.... kötü değil..."
 
 # game/UpdateScript0.03.rpy:1338
-translate turkish bikinishow_ea91ac95:
+translate turkish bikinishow_42107488:
 
-    # M "You doing ok back there [ryan]?"
-    M "Orada durumlar nasıl [ryan]?"
+    # M "You doing okay back there [ryan]?"
+    ""
 
 # game/UpdateScript0.03.rpy:1339
 translate turkish bikinishow_f7d8b475:
@@ -2890,79 +2890,79 @@ translate turkish diaz_and_lauren_0f057a83:
 translate turkish diaz_and_lauren_95c4b99f:
 
     # L "And now what do you want from me?"
-    ""
+    L "Peki şimdi benden ne istiyorsun?"
 
 # game/UpdateScript0.03.rpy:1411
 translate turkish diaz_and_lauren_564ea099:
 
     # AD "I just love me a girl in a school uniform, but I think you should sexy yours up just a bit."
-    ""
+    AD "Okul üniforması giyen kızlara bayılırım ama bence seninkini biraz daha seksi yapmalısın."
 
 # game/UpdateScript0.03.rpy:1412
 translate turkish diaz_and_lauren_975bbb36:
 
     # L ".... Fine!..."
-    ""
+    L ".... İyi!..."
 
 # game/UpdateScript0.03.rpy:1413
 translate turkish diaz_and_lauren_97dd1ac3:
 
     # L "But I'm not getting naked in front of you. I'm going to go change in the bathroom."
-    ""
+    L "Ama senin önünde soyunmayacağım. Gidip banyoda üstümü değiştireceğim."
 
 # game/UpdateScript0.03.rpy:1414
 translate turkish diaz_and_lauren_6e20b891:
 
     # AD "That's fine.... suit yourself."
-    ""
+    AD "Bu iyi.... kendine yakışanı yap."
 
 # game/UpdateScript0.03.rpy:1417
 translate turkish diaz_and_lauren_29515934:
 
     # LT "{i}I can't believe I've got a legitimate creeper in my room.{/i}"
-    ""
+    LT "{i}Odamda gerçek bir sürüngen olduğuna inanamıyorum.{/i}"
 
 # game/UpdateScript0.03.rpy:1418
 translate turkish diaz_and_lauren_bacd6814:
 
     # LT "{i}At least it's not some nasty old man like Mom has to deal with at the club.{/i}"
-    ""
+    LT "{i}En azından annemin kulüpte uğraşmak zorunda kaldığı gibi pis bir ihtiyar değil.{/i}"
 
 # game/UpdateScript0.03.rpy:1419
 translate turkish diaz_and_lauren_cb9e72e0:
 
     # LT "{i}I can't believe Mom hid that from me.{/i}"
-    ""
+    LT "{i}Annemin bunu benden sakladığına inanamıyorum.{/i}"
 
 # game/UpdateScript0.03.rpy:1420
 translate turkish diaz_and_lauren_fab5d714:
 
     # LT "{i}And that [ryan] knew, and didn't tell me.{/i}"
-    ""
+    LT "{i}[ryan] biliyordu ve bana söylemedi.{/i}"
 
 # game/UpdateScript0.03.rpy:1421
 translate turkish diaz_and_lauren_195581ec:
 
     # LT "{i}He's just watching out for Mom, that's actually pretty sweet.{/i}"
-    ""
+    LT "{i}Sadece anneme göz kulak oluyor, bu aslında çok tatlı.{/i}"
 
 # game/UpdateScript0.03.rpy:1422
 translate turkish diaz_and_lauren_08aeedd5:
 
     # LT "{i}I wish he'd been able to get me out of this though.{/i}"
-    ""
+    LT "{i}Keşke beni bu durumdan kurtarabilseydi.{/i}"
 
 # game/UpdateScript0.03.rpy:1423
 translate turkish diaz_and_lauren_bbc87f40:
 
     # LT "{i}Diaz is even pretty hot.... I wonder what drove her to like other women.... {/i}"
-    ""
+    LT "{i}Diaz bile çok ateşli.... Acaba onu başka kadınlardan hoşlanmaya iten neydi.... {/i}"
 
 # game/UpdateScript0.03.rpy:1424
 translate turkish diaz_and_lauren_03aea652:
 
     # LT "{i}Probably some kind of traumatic experience like this one.{/i}"
-    ""
+    LT "{i}Muhtemelen bunun gibi bir tür travmatik deneyim.{/i}"
 
 # game/UpdateScript0.03.rpy:1426
 translate turkish diaz_and_lauren_a4e90ef0:
@@ -3004,67 +3004,67 @@ translate turkish diaz_and_lauren_70e847a8:
 translate turkish diaz_and_lauren_2e11533d:
 
     # AD ".... Just.... wow!..."
-    ""
+    AD ".... Sadece.... vay anasını!..."
 
 # game/UpdateScript0.03.rpy:1438
 translate turkish diaz_and_lauren_46a5da4a:
 
     # RT "{i}I've got to see this!{/i}"
-    ""
+    RT "{i}Bunu görmem lazım!{/i}"
 
 # game/UpdateScript0.03.rpy:1439
 translate turkish diaz_and_lauren_e9bfaf80:
 
     # RT "{i}Not just for my own enjoyment, but to make sure Agent Diaz doesn't take things too far.{/i}"
-    ""
+    RT "{i}Sadece kendi keyfim için değil, Ajan Diaz'ın işleri fazla ileri götürmediğinden emin olmak için.{/i}"
 
 # game/UpdateScript0.03.rpy:1443
 translate turkish diaz_and_lauren_ea21b17e:
 
     # RT "{i}Luckily Sidney will be out jogging this morning. I have no idea how I'd explain this to her.{/i}"
-    ""
+    RT "{i}Neyse ki Sidney bu sabah koşuya çıkacak. Bunu ona nasıl açıklayacağımı bilmiyorum.{/i}"
 
 # game/UpdateScript0.03.rpy:1445
 translate turkish diaz_and_lauren_0c29a03f:
 
     # RT "{i}Luckily Sidney can sleep through a train driving through the house, cuz I don't know how I'd explain this to her.{/i}"
-    ""
+    RT "{i}Neyse ki Sidney evin içinden tren geçerken uyuyabiliyor, çünkü bunu ona nasıl açıklayacağımı bilmiyorum.{/i}"
 
 # game/UpdateScript0.03.rpy:1448
 translate turkish diaz_and_lauren_5ce904ae:
 
     # RT "{i}Oh, wow! I wish she'd wear her uniform like that to school.{/i}"
-    ""
+    RT "{i}Vay canına! Keşke okula giderken üniformasını böyle giyse.{/i}"
 
 # game/UpdateScript0.03.rpy:1449
 translate turkish diaz_and_lauren_f78df67d:
 
     # RT "{i}Hmmmmm.... I wonder if Mom could ever be convinced to allow that dress code in her class.{/i}"
-    ""
+    RT "{i}Hmmmmm.... Acaba annem sınıfında bu kıyafet kuralına izin vermeye ikna edilebilir mi?{/i}"
 
 # game/UpdateScript0.03.rpy:1450
 translate turkish diaz_and_lauren_ccf0294d:
 
     # RT "{i}I know school board member Will Tylor would gladly agree to that kind of dress code.{/i}"
-    ""
+    RT "{i}Okul yönetim kurulu üyesi Will Tylor'ın bu tür bir kıyafet yönetmeliğini memnuniyetle kabul edeceğini biliyorum.{/i}"
 
 # game/UpdateScript0.03.rpy:1453
 translate turkish diaz_and_lauren_3db1fe88:
 
     # AD "If we're going to count this favor against your debt, you have to at least pretend that you're enjoying this."
-    ""
+    AD "Eğer bu iyiliği borcuna sayacaksak, en azından bundan keyif alıyormuş gibi davranmalısın."
 
 # game/UpdateScript0.03.rpy:1454
 translate turkish diaz_and_lauren_0c74489d:
 
     # AD "Why don't you start out with some sexy dancing. I'll turn on some music on my phone for you."
-    ""
+    AD "Neden biraz seksi dansla başlamıyorsun? Senin için telefonumdan biraz müzik açacağım."
 
 # game/UpdateScript0.03.rpy:1456
 translate turkish diaz_and_lauren_0fb487f2:
 
     # AD "All right Lauren, let's see you move that body!"
-    ""
+    AD "Pekala Lauren, şu vücudu hareket ettir de görelim!"
 
 # game/UpdateScript0.03.rpy:1457
 translate turkish diaz_and_lauren_ebf09af2:
@@ -3082,55 +3082,55 @@ translate turkish diaz_and_lauren_31a80777:
 translate turkish diaz_and_lauren_906c60ce:
 
     # AD "That's right!"
-    ""
+    AD "İşte böyle!"
 
 # game/UpdateScript0.03.rpy:1462
 translate turkish diaz_and_lauren_88ddc845:
 
     # AD "Yeah.... move those hips..."
-    ""
+    AD "Evet.... şu kalçaları oynat..."
 
 # game/UpdateScript0.03.rpy:1463
 translate turkish diaz_and_lauren_7172c8a1:
 
     # LT "{i}This is kind of like dancing for my old boyfriend, I'll try to just go there mentally.{/i}"
-    ""
+    LT "{i}Bu eski erkek arkadaşım için dans etmek gibi bir şey, oraya zihinsel olarak gitmeye çalışacağım.{/i}"
 
 # game/UpdateScript0.03.rpy:1464
 translate turkish diaz_and_lauren_0a81a5f1:
 
     # LT "{i}Shit, I hate him almost as much as Agent Diaz though.{/i}"
-    ""
+    LT "{i}Siktir, ondan neredeyse Ajan Diaz kadar nefret ediyorum.{/i}"
 
 # game/UpdateScript0.03.rpy:1465
 translate turkish diaz_and_lauren_eb1995a7:
 
     # AD "Let's see you shake that booty!"
-    ""
+    AD "Kalçalarını salla da görelim!"
 
 # game/UpdateScript0.03.rpy:1469
 translate turkish diaz_and_lauren_dc293136:
 
     # AD "Yeah, wow Lauren.... what an ass you've got!"
-    ""
+    AD "Evet, vay canına Lauren.... ne kıçın varmış!"
 
 # game/UpdateScript0.03.rpy:1470
 translate turkish diaz_and_lauren_b304ca52:
 
     # L "Please don't objectify me like that. You're making me really uncomfortable."
-    ""
+    L "Lütfen beni böyle objeleştirme. Beni gerçekten rahatsız ediyorsun."
 
 # game/UpdateScript0.03.rpy:1471
 translate turkish diaz_and_lauren_bd0e5c69:
 
     # AD "What do you think you are?"
-    ""
+    AD "Sen kendini ne sanıyorsun?"
 
 # game/UpdateScript0.03.rpy:1472
 translate turkish diaz_and_lauren_3e190ae9:
 
     # AD "You \"are\" just an object for my enjoyment."
-    ""
+    AD "\"Sen sadece\" benim eğlenmem için bir objesin."
 
 # game/UpdateScript0.03.rpy:1477
 translate turkish diaz_and_lauren_374606b5:
@@ -3142,25 +3142,25 @@ translate turkish diaz_and_lauren_374606b5:
 translate turkish diaz_and_lauren_302a670c:
 
     # AD "You put on a sexy outfit for me just because I asked."
-    ""
+    AD "Sırf ben istedim diye benim için seksi bir kıyafet giydin."
 
 # game/UpdateScript0.03.rpy:1479
 translate turkish diaz_and_lauren_d4a322ce:
 
     # L "No.... because you're blackmailing us."
-    ""
+    L "Hayır.... çünkü bize şantaj yapıyorsunuz."
 
 # game/UpdateScript0.03.rpy:1480
 translate turkish diaz_and_lauren_a5f703b1:
 
     # AD "That's right! My leverage over you makes you and your brother mine."
-    ""
+    AD "Aynen öyle! Senin üzerindeki gücüm, seni ve kardeşini benim yapıyor."
 
 # game/UpdateScript0.03.rpy:1481
 translate turkish diaz_and_lauren_d9d50ebd:
 
     # AD "Now come climb over my knee, so I can show you that you're mine."
-    ""
+    AD "Şimdi gel dizime tırman da sana benim olduğunu göstereyim."
 
 # game/UpdateScript0.03.rpy:1482
 translate turkish diaz_and_lauren_ae316ad3:
@@ -3172,7 +3172,7 @@ translate turkish diaz_and_lauren_ae316ad3:
 translate turkish diaz_and_lauren_ae8d17a2:
 
     # AD "Do it, or I arrest you and [ryan] for hiding your income from the IRS, and tell your mom all about your sexy picture shoots."
-    ""
+    AD "Yap yoksa seni ve kardeşini, gelirinizi IRS'den sakladığınız için tutuklarım ve annene seksi fotoğraf çekimlerinizi anlatırım."
 
 # game/UpdateScript0.03.rpy:1484
 translate turkish diaz_and_lauren_31a80777_1:
@@ -3184,49 +3184,49 @@ translate turkish diaz_and_lauren_31a80777_1:
 translate turkish diaz_and_lauren_e323603c:
 
     # AD "There, now that's a much more obedient girl!"
-    ""
+    AD "İşte, şimdi çok daha itaatkar bir kız oldu!"
 
 # game/UpdateScript0.03.rpy:1488
 translate turkish diaz_and_lauren_84a51c72:
 
     # AD "Now let's uncover that beautiful little ass of yours."
-    ""
+    AD "Şimdi o güzel küçük götünü ortaya çıkaralım."
 
 # game/UpdateScript0.03.rpy:1491
 translate turkish diaz_and_lauren_c4d8043a:
 
     # AD "Yes, that's very fine!"
-    ""
+    AD "Evet, bu çok güzel!"
 
 # game/UpdateScript0.03.rpy:1492
 translate turkish diaz_and_lauren_7a7c8f01:
 
     # AD "And now it's time to teach you what you are."
-    ""
+    AD "Ve şimdi sana ne olduğunu öğretme zamanı."
 
 # game/UpdateScript0.03.rpy:1495
 translate turkish diaz_and_lauren_f39e067a:
 
     # AD "Tell me that \"you\" are my toy."
-    ""
+    AD "Bana oyuncağımın \"sen\" olduğunu söyle."
 
 # game/UpdateScript0.03.rpy:1496
 translate turkish diaz_and_lauren_09db23e9:
 
     # L "What the hell?.... I'm not saying that!"
-    ""
+    L "Ne sikim şey böyle?.... Ben öyle bir şey demem!"
 
 # game/UpdateScript0.03.rpy:1503
 translate turkish diaz_and_lauren_4069a046:
 
     # L "Ouch! You bitch!"
-    ""
+    L "Ouch! Seni orospu!"
 
 # game/UpdateScript0.03.rpy:1504
 translate turkish diaz_and_lauren_6a591ee0:
 
     # AD "Say it!"
-    ""
+    AD "Söyle!"
 
 # game/UpdateScript0.03.rpy:1505
 translate turkish diaz_and_lauren_ae316ad3_1:
@@ -3238,271 +3238,271 @@ translate turkish diaz_and_lauren_ae316ad3_1:
 translate turkish diaz_and_lauren_476b32ff:
 
     # AD "I'm just going to keep spanking you until you admit that you're my toy."
-    ""
+    AD "Oyuncağım olduğunu kabul edene kadar sana şaplak atmaya devam edeceğim."
 
 # game/UpdateScript0.03.rpy:1513
 translate turkish diaz_and_lauren_a30b1d0b:
 
     # AD "So, say it."
-    ""
+    AD "Bu yüzden söyle."
 
 # game/UpdateScript0.03.rpy:1514
 translate turkish diaz_and_lauren_4e843881:
 
     # L "Never!"
-    ""
+    L "Asla!"
 
 # game/UpdateScript0.03.rpy:1521
 translate turkish diaz_and_lauren_4ac15ba2:
 
     # RT "{i}Oh my God! She's spanking Lauren!{/i}"
-    ""
+    RT "{i}Aman Tanrım! Lauren'e şaplaklar atıyor!{/i}"
 
 # game/UpdateScript0.03.rpy:1525
 translate turkish diaz_and_lauren_937147bc:
 
     # RT "{i}Why do I find that so hot?.... {/i}"
-    ""
+    RT "{i}Bunu neden bu kadar seksi buluyorum?.... {/i}"
 
 # game/UpdateScript0.03.rpy:1526
 translate turkish diaz_and_lauren_0fe8dd12:
 
     # RT "{i}I've got the biggest boner right now!{/i}"
-    ""
+    RT "{i}Şu anda büyük bir ereksiyon yaşıyorum!{/i}"
 
 # game/UpdateScript0.03.rpy:1528
 translate turkish diaz_and_lauren_ce040eee:
 
     # RT "{i}I hope that slapping doesn't wake up Sidney.{/i}"
-    ""
+    RT "{i}Umarım o şaplaklar Sidney'i uyandırmaz.{/i}"
 
 # game/UpdateScript0.03.rpy:1531
 translate turkish diaz_and_lauren_005117f0:
 
     # AD "Well, are you going to say it?"
-    ""
+    AD "Eee, söyleyecek misin?"
 
 # game/UpdateScript0.03.rpy:1532
 translate turkish diaz_and_lauren_382984e7:
 
     # L "Yes! I'll say it.... I'm.... your.... toy..."
-    ""
+    L "Evet! Söylüyorum.... ben.... senin.... oyuncağınım..."
 
 # game/UpdateScript0.03.rpy:1539
 translate turkish diaz_and_lauren_685a509d:
 
     # L "Ouch!.... I said it!.... Why did you spank me again?"
-    ""
+    L "Ouch!.... Söyledim ya!.... Neden bana yine şaplak attın?"
 
 # game/UpdateScript0.03.rpy:1540
 translate turkish diaz_and_lauren_db5b2433:
 
     # AD "Say it louder like you mean it!"
-    ""
+    AD "İçinden geldiği gibi daha yüksek sesle söyle!"
 
 # game/UpdateScript0.03.rpy:1541
 translate turkish diaz_and_lauren_83062da7:
 
     # L "I'm your toy!!.... I'm your fucking toy!!..."
-    ""
+    L "Senin oyuncağınım!!.... Ben senin sikik oyuncağınım!!..."
 
 # game/UpdateScript0.03.rpy:1542
 translate turkish diaz_and_lauren_ee7506b1:
 
     # AD "That's right, and here's a few more to seal that in your thick skull."
-    ""
+    AD "Bu doğru ve işte kalın kafana bunu mühürlemek için birkaç tane daha."
 
 # game/UpdateScript0.03.rpy:1556
 translate turkish diaz_and_lauren_df3cc7b9:
 
     # AD "There now remember what you are on my next visit!"
-    ""
+    AD "İşte şimdi bir sonraki ziyaretimde ne olacağını hatırla!"
 
 # game/UpdateScript0.03.rpy:1557
 translate turkish diaz_and_lauren_a6e76ee1:
 
     # L "Yes, Agent Diaz, your toy will remember."
-    ""
+    L "Evet, Ajan Diaz, oyuncağınız hatırlayacak."
 
 # game/UpdateScript0.03.rpy:1558
 translate turkish diaz_and_lauren_906c60ce_1:
 
     # AD "That's right!"
-    ""
+    AD "İşte böyle!"
 
 # game/UpdateScript0.03.rpy:1559
 translate turkish diaz_and_lauren_697e6994:
 
     # AD "Maybe I'll see you next week. We'll see how your brother does."
-    ""
+    AD "Belki haftaya görüşürüz. Bakalım kardeşin ne yapacak."
 
 # game/UpdateScript0.03.rpy:1565
 translate turkish diaz_and_lauren_15a42fa6:
 
     # AD "Well, I hope you enjoyed the show."
-    ""
+    AD "Umarım gösteriyi beğenmişsindir."
 
 # game/UpdateScript0.03.rpy:1566
 translate turkish diaz_and_lauren_b2e492dd:
 
     # R ".... I.... how did?..."
-    ""
+    R ".... Ben.... nasıl?..."
 
 # game/UpdateScript0.03.rpy:1567
 translate turkish diaz_and_lauren_5b0fae7a:
 
     # AD "Remember! I already know you're recording your family."
-    ""
+    AD "Unutma! Aileni kaydettiğini biliyorum."
 
 # game/UpdateScript0.03.rpy:1568
 translate turkish diaz_and_lauren_c043cbe4:
 
     # AD "I can only assume you were watching that too."
-    ""
+    AD "Bunu da izlediğini varsayabilirim."
 
 # game/UpdateScript0.03.rpy:1569
 translate turkish diaz_and_lauren_f65e6d78:
 
     # AD "And just to give you a little incentive, if your relationship with your sister gets a little more advanced,"
-    ""
+    AD "Ve kız kardeşinle ilişkin biraz daha ilerlerse, sana küçük bir teşvik vermek için,"
 
 # game/UpdateScript0.03.rpy:1570
 translate turkish diaz_and_lauren_75d6c08b:
 
     # AD "I just might start to include you in these little games of ours."
-    ""
+    AD "Bu küçük oyunlarımıza seni de dahil etmeye başlayabilirim."
 
 # game/UpdateScript0.03.rpy:1571
 translate turkish diaz_and_lauren_532e1b73:
 
     # R "Whaa.... what are you implying.... the very idea.... goodbye!"
-    ""
+    R "Nee.... neyi ima ediyorsun.... bu fikir.... görüşürüz!"
 
 # game/UpdateScript0.03.rpy:1575
 translate turkish diaz_and_lauren_a583aa71:
 
     # RT "{i}Holy shit! I'm going to cum right here in my pants! The thought of Lauren and myself with Diaz!.... Shit, that's hot!{/i}"
-    ""
+    RT "{i}Vay anasını! Tam burada pantolonumun içine boşalacağım! Lauren ve benim Diaz'la birlikte olma düşüncesi!.... Kahretsin, bu çok ateşli!{/i}"
 
 # game/UpdateScript0.03.rpy:1576
 translate turkish diaz_and_lauren_2d5a20bc:
 
     # RT "{i}Shit!.... I'd better go check on Lauren.{/i}"
-    ""
+    RT "{i}Siktir! .... Lauren'i kontrol etsem iyi olacak.{/i}"
 
 # game/UpdateScript0.03.rpy:1581
 translate turkish diaz_and_lauren_d06ce517:
 
     # LT "{i}Damn my ass is really sore.{/i}"
-    ""
+    LT "{i}Siktir, kıçım çok ağrıyor.{/i}"
 
 # game/UpdateScript0.03.rpy:1582
 translate turkish diaz_and_lauren_f40b3287:
 
     # LT "{i}I can't believe that bitch made me call myself her toy.{/i}"
-    ""
+    LT "{i}O orospunun bana oyuncağı dedirttiğine inanamıyorum.{/i}"
 
 # game/UpdateScript0.03.rpy:1583
 translate turkish diaz_and_lauren_fe72c889:
 
     # LT "{i}How did she get that kind of power over me?{/i}"
-    ""
+    LT "{i}Benim üzerimde böyle bir güce nasıl sahip oldu?{/i}"
 
 # game/UpdateScript0.03.rpy:1584
 translate turkish diaz_and_lauren_cc10ded1:
 
     # LT "{i}I couldn't do anything to stop her from doing that to me.{/i}"
-    ""
+    LT "{i}Bana bunu yapmasını engellemek için hiçbir şey yapamazdım.{/i}"
 
 # game/UpdateScript0.03.rpy:1585
 translate turkish diaz_and_lauren_4b0901c2:
 
     # LT "{i}Like I really was her toy.... {/i}"
-    ""
+    LT "{i}Sanki gerçekten onun oyuncağıymışım gibi.... {/i}"
 
 # game/UpdateScript0.03.rpy:1586
 translate turkish diaz_and_lauren_ba4ea9c8:
 
     # LT "{i}Fuck!.... {/i}"
-    ""
+    LT "{i}Siktir!.... {/i}"
 
 # game/UpdateScript0.03.rpy:1589
 translate turkish diaz_and_lauren_7ee53747:
 
     # R "Lauren?.... Are you ok?..."
-    ""
+    R "Lauren?.... İyi misin?..."
 
 # game/UpdateScript0.03.rpy:1590
 translate turkish diaz_and_lauren_4c11d5bc:
 
     # L "I don't know.... what do you think?..."
-    ""
+    L "Bilmiyorum.... sen ne düşünüyorsun?..."
 
 # game/UpdateScript0.03.rpy:1591
 translate turkish diaz_and_lauren_0ec34f5c:
 
     # L "She made me call myself her toy..."
-    ""
+    L "Bana kendisine oyuncağım dedirtti."
 
 # game/UpdateScript0.03.rpy:1592
 translate turkish diaz_and_lauren_cc9fb271:
 
     # L "She wouldn't stop spanking me until I did..."
-    ""
+    L "Ben yapana kadar bana şaplak atmayı bırakmazdı."
 
 # game/UpdateScript0.03.rpy:1593
 translate turkish diaz_and_lauren_3e00feca:
 
     # R "You just said it to make it stop!"
-    ""
+    R "Sadece durması için söyledin!"
 
 # game/UpdateScript0.03.rpy:1594
 translate turkish diaz_and_lauren_cef88364:
 
     # R "That doesn't mean you're really her toy!"
-    ""
+    R "Bu gerçekten onun oyuncağı olduğun anlamına gelmez!"
 
 # game/UpdateScript0.03.rpy:1597
 translate turkish diaz_and_lauren_d61d2c44:
 
     # L "Please, [ryan]! Do everything you can to make sure we can pay her next week!"
-    ""
+    L "Lütfen [ryan]! Gelecek hafta ona ödeme yapabilmemiz için elinden geleni yap!"
 
 # game/UpdateScript0.03.rpy:1598
 translate turkish diaz_and_lauren_82c76d74:
 
     # L "I don't want to do anything for that bitch ever again."
-    ""
+    L "O orospu için bir daha hiçbir şey yapmak istemiyorum."
 
 # game/UpdateScript0.03.rpy:1599
 translate turkish diaz_and_lauren_5e392b39:
 
     # R "Yeah.... well, it's not all on me.... I've got two ransoms to pay now, don't I?"
-    ""
+    R "Tamam.... şey, hepsi benim suçum değil.... Şimdi ödemem gereken iki fidye var değil mi?"
 
 # game/UpdateScript0.03.rpy:1600
 translate turkish diaz_and_lauren_4c5c8593:
 
     # R "The best thing we can do is make sure the Cosplay business takes off."
-    ""
+    R "Yapabileceğimiz en iyi şey Cosplay işinin gelişmesini sağlamak."
 
 # game/UpdateScript0.03.rpy:1601
 translate turkish diaz_and_lauren_29bf7301:
 
     # R "Are you willing to do your part to make that happen?"
-    ""
+    R "Bunun gerçekleşmesi için üzerine düşeni yapmaya istekli misin?"
 
 # game/UpdateScript0.03.rpy:1602
 translate turkish diaz_and_lauren_e452ed50:
 
     # L "Yes! Please!.... I'll take more clothes off during picture shoots. Anything so I don't have to do that again!"
-    ""
+    L "Evet! Lütfen!.... Fotoğraf çekimleri sırasında daha fazla kıyafet çıkaracağım. Bunu tekrar yapmak zorunda kalmamak için her şeyi yaparım!"
 
 # game/UpdateScript0.03.rpy:1603
 translate turkish diaz_and_lauren_96d5b12b:
 
     # R "Well, let's try to make some money then."
-    ""
+    R "O zaman biraz para kazanmaya çalışalım."
 
 # game/UpdateScript0.03.rpy:1604
 translate turkish diaz_and_lauren_17758133:
@@ -3520,13 +3520,13 @@ translate turkish diaz_and_lauren_c335f1dc:
 translate turkish diaz_and_lauren_d63f0ce0:
 
     # R "We'd better get ready for school. We're going to be late."
-    ""
+    R "Okul için hazırlansak iyi olur. Geç kalacağız."
 
 # game/UpdateScript0.03.rpy:1622
 translate turkish diaz_and_lauren_dc293136_1:
 
     # AD "Yeah, wow Lauren.... what an ass you've got!"
-    ""
+    AD "Evet, vay canına Lauren.... ne kıçın varmış!"
 
 # game/UpdateScript0.03.rpy:1623
 translate turkish diaz_and_lauren_b10659f4:
@@ -3634,19 +3634,19 @@ translate turkish diaz_and_lauren_531a6d41:
 translate turkish diaz_and_lauren_e323603c_1:
 
     # AD "There, now that's a much more obedient girl!"
-    ""
+    AD "İşte, şimdi çok daha itaatkar bir kız oldu!"
 
 # game/UpdateScript0.03.rpy:1648
 translate turkish diaz_and_lauren_84a51c72_1:
 
     # AD "Now let's uncover that beautiful little ass of yours."
-    ""
+    AD "Şimdi o güzel küçük götünü ortaya çıkaralım."
 
 # game/UpdateScript0.03.rpy:1651
 translate turkish diaz_and_lauren_c4d8043a_1:
 
     # AD "Yes, that's very fine!"
-    ""
+    AD "Evet, bu çok güzel!"
 
 # game/UpdateScript0.03.rpy:1652
 translate turkish diaz_and_lauren_eb6c3d46:
@@ -3658,19 +3658,19 @@ translate turkish diaz_and_lauren_eb6c3d46:
 translate turkish diaz_and_lauren_f39e067a_1:
 
     # AD "Tell me that \"you\" are my toy."
-    ""
+    AD "Bana oyuncağımın \"sen\" olduğunu söyle."
 
 # game/UpdateScript0.03.rpy:1662
 translate turkish diaz_and_lauren_4069a046_1:
 
     # L "Ouch! You bitch!"
-    ""
+    L "Ouch! Seni orospu!"
 
 # game/UpdateScript0.03.rpy:1663
 translate turkish diaz_and_lauren_6a591ee0_1:
 
     # AD "Say it!"
-    ""
+    AD "Söyle!"
 
 # game/UpdateScript0.03.rpy:1664
 translate turkish diaz_and_lauren_6b472d47:
@@ -3682,49 +3682,49 @@ translate turkish diaz_and_lauren_6b472d47:
 translate turkish diaz_and_lauren_685a509d_1:
 
     # L "Ouch!.... I said it!.... Why did you spank me again?"
-    ""
+    L "Ouch!.... Söyledim ya!.... Neden bana yine şaplak attın?"
 
 # game/UpdateScript0.03.rpy:1672
 translate turkish diaz_and_lauren_db5b2433_1:
 
     # AD "Say it louder like you mean it!"
-    ""
+    AD "İçinden geldiği gibi daha yüksek sesle söyle!"
 
 # game/UpdateScript0.03.rpy:1673
 translate turkish diaz_and_lauren_83062da7_1:
 
     # L "I'm your toy!!.... I'm your fucking toy!!..."
-    ""
+    L "Senin oyuncağınım!!.... Ben senin sikik oyuncağınım!!..."
 
 # game/UpdateScript0.03.rpy:1674
 translate turkish diaz_and_lauren_937f6880:
 
     # AD "That's right, and here's a few more to solidify that in your thick skull."
-    ""
+    AD "Bu doğru ve işte kalın kafanda bunu sağlamlaştırmak için birkaç tane daha."
 
 # game/UpdateScript0.03.rpy:1688
 translate turkish diaz_and_lauren_f9ee413b:
 
     # AD "There, now remember what you are on my next visit!"
-    ""
+    AD "İşte, şimdi bir sonraki ziyaretimde ne olacağını hatırla!"
 
 # game/UpdateScript0.03.rpy:1689
 translate turkish diaz_and_lauren_a6e76ee1_1:
 
     # L "Yes, Agent Diaz, your toy will remember."
-    ""
+    L "Evet, Ajan Diaz, oyuncağınız hatırlayacak."
 
 # game/UpdateScript0.03.rpy:1690
 translate turkish diaz_and_lauren_906c60ce_2:
 
     # AD "That's right!"
-    ""
+    AD "İşte böyle!"
 
 # game/UpdateScript0.03.rpy:1691
 translate turkish diaz_and_lauren_88aba877:
 
     # AD "Maybe I'll see you again next week. We'll see how your brother does."
-    ""
+    AD "Belki haftaya tekrar görüşürüz. Bakalım kardeşin ne yapacak."
 
 # game/UpdateScript0.03.rpy:1697
 translate turkish diaz_and_lauren_7dd1adc5:
@@ -3742,13 +3742,13 @@ translate turkish diaz_and_lauren_f8304ffb:
 translate turkish diaz_and_lauren_89ad44e3:
 
     # AD "And just to remind you. If your relationship with your sister gets a little more advanced,"
-    ""
+    AD "Ve sadece hatırlatmak için. Kız kardeşinle ilişkiniz biraz daha ilerlerse,"
 
 # game/UpdateScript0.03.rpy:1700
 translate turkish diaz_and_lauren_75d6c08b_1:
 
     # AD "I just might start to include you in these little games of ours."
-    ""
+    AD "Bu küçük oyunlarımıza seni de dahil etmeye başlayabilirim."
 
 # game/UpdateScript0.03.rpy:1701
 translate turkish diaz_and_lauren_84761987:
@@ -3772,19 +3772,19 @@ translate turkish diaz_and_lauren_d5bbc346:
 translate turkish diaz_and_lauren_a583aa71_1:
 
     # RT "{i}Holy shit! I'm going to cum right here in my pants! The thought of Lauren and myself with Diaz!.... Shit, that's hot!{/i}"
-    ""
+    RT "{i}Vay anasını! Tam burada pantolonumun içine boşalacağım! Lauren ve benim Diaz'la birlikte olma düşüncesi!.... Kahretsin, bu çok ateşli!{/i}"
 
 # game/UpdateScript0.03.rpy:1708
 translate turkish diaz_and_lauren_2d5a20bc_1:
 
     # RT "{i}Shit!.... I'd better go check on Lauren.{/i}"
-    ""
+    RT "{i}Siktir! .... Lauren'i kontrol etsem iyi olacak.{/i}"
 
 # game/UpdateScript0.03.rpy:1713
 translate turkish diaz_and_lauren_d06ce517_1:
 
     # LT "{i}Damn my ass is really sore.{/i}"
-    ""
+    LT "{i}Siktir, kıçım çok ağrıyor.{/i}"
 
 # game/UpdateScript0.03.rpy:1714
 translate turkish diaz_and_lauren_68bd88e9:
@@ -3820,7 +3820,7 @@ translate turkish diaz_and_lauren_9d6eda52:
 translate turkish diaz_and_lauren_7ee53747_1:
 
     # R "Lauren?.... Are you ok?..."
-    ""
+    R "Lauren?.... İyi misin?..."
 
 # game/UpdateScript0.03.rpy:1722
 translate turkish diaz_and_lauren_1541e707:
@@ -3850,7 +3850,7 @@ translate turkish diaz_and_lauren_0fce2766:
 translate turkish diaz_and_lauren_d61d2c44_1:
 
     # L "Please, [ryan]! Do everything you can to make sure we can pay her next week!"
-    ""
+    L "Lütfen [ryan]! Gelecek hafta ona ödeme yapabilmemiz için elinden geleni yap!"
 
 # game/UpdateScript0.03.rpy:1729
 translate turkish diaz_and_lauren_89a1624d:
@@ -3868,25 +3868,25 @@ translate turkish diaz_and_lauren_adb5f058:
 translate turkish diaz_and_lauren_4c5c8593_1:
 
     # R "The best thing we can do is make sure the Cosplay business takes off."
-    ""
+    R "Yapabileceğimiz en iyi şey Cosplay işinin gelişmesini sağlamak."
 
 # game/UpdateScript0.03.rpy:1732
 translate turkish diaz_and_lauren_29bf7301_1:
 
     # R "Are you willing to do your part to make that happen?"
-    ""
+    R "Bunun gerçekleşmesi için üzerine düşeni yapmaya istekli misin?"
 
 # game/UpdateScript0.03.rpy:1733
 translate turkish diaz_and_lauren_e452ed50_1:
 
     # L "Yes! Please!.... I'll take more clothes off during picture shoots. Anything so I don't have to do that again!"
-    ""
+    L "Evet! Lütfen!.... Fotoğraf çekimleri sırasında daha fazla kıyafet çıkaracağım. Bunu tekrar yapmak zorunda kalmamak için her şeyi yaparım!"
 
 # game/UpdateScript0.03.rpy:1734
 translate turkish diaz_and_lauren_96d5b12b_1:
 
     # R "Well, let's try to make some money then."
-    ""
+    R "O zaman biraz para kazanmaya çalışalım."
 
 # game/UpdateScript0.03.rpy:1735
 translate turkish diaz_and_lauren_17758133_1:
@@ -3904,19 +3904,19 @@ translate turkish diaz_and_lauren_c335f1dc_1:
 translate turkish diaz_and_lauren_d63f0ce0_1:
 
     # R "We'd better get ready for school. We're going to be late."
-    ""
+    R "Okul için hazırlansak iyi olur. Geç kalacağız."
 
 # game/UpdateScript0.03.rpy:1749
 translate turkish ryan_and_lauren_3c77415b:
 
     # L "I know we need to get ready for school, but I really wanted to thank you for protecting me from Agent Diaz."
-    ""
+    L "Okul için hazırlanmamız gerektiğini biliyorum ama beni Ajan Diaz'dan koruduğun için sana teşekkür etmek istiyorum."
 
 # game/UpdateScript0.03.rpy:1750
 translate turkish ryan_and_lauren_fe9908d0:
 
     # R "That's what big brothers are for, Lauren."
-    ""
+    R "Büyük kardeşler bunun içindir Lauren."
 
 # game/UpdateScript0.03.rpy:1751
 translate turkish ryan_and_lauren_32f0afae:
@@ -3928,79 +3928,79 @@ translate turkish ryan_and_lauren_32f0afae:
 translate turkish ryan_and_lauren_821cedf8:
 
     # L "Well, lately you've been much more to me than a big brother."
-    ""
+    L "Son zamanlarda benim için bir abiden çok daha fazlası oldun."
 
 # game/UpdateScript0.03.rpy:1755
 translate turkish ryan_and_lauren_3647cc79:
 
     # R "How do you mean?"
-    ""
+    R "Nasıl yani?"
 
 # game/UpdateScript0.03.rpy:1756
 translate turkish ryan_and_lauren_c236991b:
 
     # L "I don't know, it's like you've changed since Dad went to prison. You've stepped up, but you've also been treating me differently."
-    ""
+    L "Bilmiyorum, babam hapse girdiğinden beri değişmiş gibisin. Kendini geliştirdin ama bana da farklı davranıyorsun."
 
 # game/UpdateScript0.03.rpy:1757
 translate turkish ryan_and_lauren_79de3dda:
 
     # L "I don't know what changed you.... but I like it."
-    ""
+    L "Seni ne değiştirdi bilmiyorum.... ama hoşuma gitti."
 
 # game/UpdateScript0.03.rpy:1758
 translate turkish ryan_and_lauren_5059f34e:
 
     # RT "{i}I'm pretty sure jacking off to Mom while she was stripping changed me more than Dad going to prison.{/i}"
-    ""
+    RT "{i}Annem soyunurken ona otuzbir çekmenin beni babamın hapse girmesinden daha çok değiştirdiğine eminim.{/i}"
 
 # game/UpdateScript0.03.rpy:1759
 translate turkish ryan_and_lauren_548c9123:
 
     # RT "{i}In hindsight, I probably shouldn't have done that.{/i}"
-    ""
+    RT "{i}Geriye dönüp baktığımda, muhtemelen bunu yapmamalıydım.{/i}"
 
 # game/UpdateScript0.03.rpy:1760
 translate turkish ryan_and_lauren_137c3d57:
 
     # L "I've noticed you staring at my ass a lot lately, but you act like a professional during our photoshoots,"
-    ""
+    L "Son zamanlarda götüme çok baktığını fark ettim, ama fotoğraf çekimlerimizde bir profesyonel gibi davranıyorsun,"
 
 # game/UpdateScript0.03.rpy:1761
 translate turkish ryan_and_lauren_bd1efd1e:
 
     # L "But I can't help but notice you're always pitching a tent once I start taking off my clothes."
-    ""
+    L "Ama kıyafetlerimi çıkarmaya başladığımda her zaman çadır kurduğunu fark etmeden edemiyorum."
 
 # game/UpdateScript0.03.rpy:1762
 translate turkish ryan_and_lauren_8247adf8:
 
     # R "Just because I'm your brother doesn't mean I won't get turned on looking at your tits and ass."
-    ""
+    R "Kardeşin olmam, göğüslerine ve kıçına bakıp tahrik olmayacağım anlamına gelmez."
 
 # game/UpdateScript0.03.rpy:1763
 translate turkish ryan_and_lauren_a30e330a:
 
     # R "I've tried to tactfully conceal my hard-on."
-    ""
+    R "Sertleştiğimi nazikçe gizlemeye çalıştım."
 
 # game/UpdateScript0.03.rpy:1764
 translate turkish ryan_and_lauren_4bcaa833:
 
     # LT "{i}Yeah right, like you could do anything to hide that monster.{/i}"
-    ""
+    LT "{i}Evet doğru, sanki o canavarı saklamak için her şeyi yapabilirmişsin gibi.{/i}"
 
 # game/UpdateScript0.03.rpy:1765
 translate turkish ryan_and_lauren_cc3e9685:
 
     # L "Well, no judgements, and anyways, this gives me an idea of how I can return the favor."
-    ""
+    L "Yargılamak yok ve her neyse, bu bana iyiliğe nasıl karşılık verebileceğim konusunda bir fikir veriyor."
 
 # game/UpdateScript0.03.rpy:1766
 translate turkish ryan_and_lauren_dcf1e81e:
 
     # L "Just sit there, close your eyes, and don't say anything."
-    ""
+    L "Sadece orada otur, gözlerini kapat ve hiçbir şey söyleme."
 
 # game/UpdateScript0.03.rpy:1767
 translate turkish ryan_and_lauren_dfe61d0a:
@@ -4012,55 +4012,55 @@ translate turkish ryan_and_lauren_dfe61d0a:
 translate turkish ryan_and_lauren_bad53b13:
 
     # R "Holy shit Lauren, do you want me to leave?..."
-    ""
+    R "Kahretsin Lauren, gitmemi ister misin?..."
 
 # game/UpdateScript0.03.rpy:1774
 translate turkish ryan_and_lauren_a671293e:
 
     # L "What?.... No.... you're not supposed to say anything yet.... and you're supposed to keep your eyes closed!..."
-    ""
+    L "Ne?.... Hayır.... henüz bir şey söylememen.... ve gözlerini kapalı tutman gerekiyor!..."
 
 # game/UpdateScript0.03.rpy:1775
 translate turkish ryan_and_lauren_caac91b0:
 
     # R "{i}(whispering){/i} sorry..."
-    ""
+    R "{i}(fısıldayarak){/i} pardon..."
 
 # game/UpdateScript0.03.rpy:1781
 translate turkish ryan_and_lauren_a9d8f990:
 
     # RT "{i}Oh my.... how am I supposed to keep my eyes shut for this.... {/i}"
-    ""
+    RT "{i}Aman.... bunun için gözlerimi nasıl kapalı tutacağım.... {/i}"
 
 # game/UpdateScript0.03.rpy:1782
 translate turkish ryan_and_lauren_8331f458:
 
     # L "Ok, I'm serious, keep your eyes closed."
-    ""
+    L "Tamam, ben ciddiyim, gözlerini kapalı tut."
 
 # game/UpdateScript0.03.rpy:1786
 translate turkish ryan_and_lauren_f2b151bf:
 
     # L "Ok, you can open your eyes now."
-    ""
+    L "Tamam, artık gözlerini açabilirsin."
 
 # game/UpdateScript0.03.rpy:1789
 translate turkish ryan_and_lauren_edaef99e:
 
     # R "Holy fuck, Lauren!.... Are you going to school like that?"
-    ""
+    R "Si... Lauren!.... Okula böyle mi gideceksin?"
 
 # game/UpdateScript0.03.rpy:1790
 translate turkish ryan_and_lauren_3c8bef17:
 
     # L "No, you idiot!"
-    ""
+    L "Hayır, seni salak!"
 
 # game/UpdateScript0.03.rpy:1791
 translate turkish ryan_and_lauren_208a2eb5:
 
     # L "This is for you."
-    ""
+    L "Bu senin için."
 
 # game/UpdateScript0.03.rpy:1792
 translate turkish ryan_and_lauren_0bcaef2c:
@@ -4072,157 +4072,157 @@ translate turkish ryan_and_lauren_0bcaef2c:
 translate turkish ryan_and_lauren_28e107b3:
 
     # L "Oh, God.... please tell me I didn't mis-read the situation?"
-    ""
+    L "Tanrım.... lütfen bana bu durumu yanlış anlamadığını söyle?"
 
 # game/UpdateScript0.03.rpy:1794
 translate turkish ryan_and_lauren_5dd4c64a:
 
     # L "I thought you might enjoy a little eye candy before school."
-    ""
+    L "Okuldan önce biraz göz zevki hoşuna gider diye düşündüm."
 
 # game/UpdateScript0.03.rpy:1795
 translate turkish ryan_and_lauren_6a423368:
 
     # L "Give you something to think about all day."
-    ""
+    L "Sana bütün gün düşünecek bir şey verir."
 
 # game/UpdateScript0.03.rpy:1796
 translate turkish ryan_and_lauren_a38fae56:
 
     # R "Wow, Lauren! You look incredible!"
-    ""
+    R "Vay canına, Lauren! Tanrıça gibi görünüyorsun!"
 
 # game/UpdateScript0.03.rpy:1797
 translate turkish ryan_and_lauren_e9c5aa55:
 
     # L "Now that's the reaction I was hoping for."
-    ""
+    L "İşte beklediğim tepki buydu."
 
 # game/UpdateScript0.03.rpy:1798
 translate turkish ryan_and_lauren_51802272:
 
     # L "Now let me just turn on some music."
-    ""
+    L "Şimdi biraz müzik açayım."
 
 # game/UpdateScript0.03.rpy:1802
 translate turkish ryan_and_lauren_01cf0930:
 
     # R "Wow! I've seen a lot of your body on the photo shoots,"
-    ""
+    R "Vay canına! Fotoğraf çekimlerinde vücudunu çok gördüm,"
 
 # game/UpdateScript0.03.rpy:1803
 translate turkish ryan_and_lauren_a86b6321:
 
     # R "But I've never seen you move like this before."
-    ""
+    R "Ama seni daha önce hiç böyle hareket ederken görmemiştim."
 
 # game/UpdateScript0.03.rpy:1804
 translate turkish ryan_and_lauren_646bcdca:
 
     # LT "{i}Oh, the look on his face!.... I think he's really enjoying this!{/i}"
-    ""
+    LT "{i}Oh, yüzündeki ifadeye bak!.... Sanırım bundan gerçekten keyif alıyor!{/i}"
 
 # game/UpdateScript0.03.rpy:1805
 translate turkish ryan_and_lauren_bfb69e24:
 
     # L "If you like that, I think you'll really like this."
-    ""
+    L "Eğer bunu sevdiysen, bunu da seveceğini düşünüyorum."
 
 # game/UpdateScript0.03.rpy:1808
 translate turkish ryan_and_lauren_a6241ddc:
 
     # R "Oh fuck, Lauren.... your ass is beautiful!"
-    ""
+    R "Ah sikeyim, Lauren.... götün çok güzel!"
 
 # game/UpdateScript0.03.rpy:1809
 translate turkish ryan_and_lauren_38bde658:
 
     # L "Heheh.... I was always pretty sure you liked it."
-    ""
+    L "Heheh.... Hoşuna gittiğinden hep emindim."
 
 # game/UpdateScript0.03.rpy:1813
 translate turkish ryan_and_lauren_ce49ee01:
 
     # L "So, Mr. [ryan]."
-    ""
+    L "Ee, Bay [ryan]."
 
 # game/UpdateScript0.03.rpy:1814
 translate turkish ryan_and_lauren_0f2786ba:
 
     # R "Huh?.... Why did you stop the dancing?"
-    ""
+    R "Huh?.... Dansı neden bıraktın?"
 
 # game/UpdateScript0.03.rpy:1815
 translate turkish ryan_and_lauren_7adf46d2:
 
     # L "I know I'm getting an \"F\" in Anatomy, so I was hoping there was something I could do to bring up my grade."
-    ""
+    L "Anatomi dersinden \"F\" alacağımı biliyorum, bu yüzden notumu yükseltmek için yapabileceğim bir şey olduğunu umuyordum."
 
 # game/UpdateScript0.03.rpy:1816
 translate turkish ryan_and_lauren_49fbc840:
 
     # RT "{i}Oh, nice! Lauren wants to do some role-play.{/i}"
-    ""
+    RT "{i}Oh, güzel! Lauren biraz rol yapmak istiyor.{/i}"
 
 # game/UpdateScript0.03.rpy:1817
 translate turkish ryan_and_lauren_f24beb43:
 
     # RT "{i}Maybe it's easier for her if she pretends I'm not her brother?{/i}"
-    ""
+    RT "{i}Belki de kardeşi değilmişim gibi davranmak onun için daha kolaydır?{/i}"
 
 # game/UpdateScript0.03.rpy:1818
 translate turkish ryan_and_lauren_2ef08669:
 
     # R "I don't know, young lady. You've skipped my class almost every day to make out with the head cheerleader, Megan."
-    ""
+    R "Bilmiyorum genç bayan. Baş amigo Megan'la yiyişmek için neredeyse her gün dersimi ektin."
 
 # game/UpdateScript0.03.rpy:1819
 translate turkish ryan_and_lauren_9b97ff62:
 
     # L "Megan!?.... Really?"
-    ""
+    L "Megan!?.... Gerçekten mi?"
 
 # game/UpdateScript0.03.rpy:1820
 translate turkish ryan_and_lauren_085a1081:
 
     # R "Shhhh.... don't break out of character, it ruins the illusion."
-    ""
+    R "Shhhh.... karakterin dışına çıkma, bu illüzyonu bozar."
 
 # game/UpdateScript0.03.rpy:1821
 translate turkish ryan_and_lauren_e43fa46b:
 
     # LT "{i}You asshole!{/i}"
-    ""
+    LT "{i}Göt herif!{/i}"
 
 # game/UpdateScript0.03.rpy:1822
 translate turkish ryan_and_lauren_81b4ba91:
 
     # R "I can hardly allow you to pass on to the next grade after displaying that incredibly lewd, but sexy behavior."
-    ""
+    R "Bu inanılmaz müstehcen ama seksi davranıştan sonra bir üst sınıfa geçmene izin veremem."
 
 # game/UpdateScript0.03.rpy:1825
 translate turkish ryan_and_lauren_24d19202:
 
     # L "There must be something I can do to change your mind."
-    ""
+    L "Fikrinizi değiştirmek için yapabileceğim bir şey olmalı."
 
 # game/UpdateScript0.03.rpy:1826
 translate turkish ryan_and_lauren_2d861881:
 
     # R "Nope! There's nothing I can think of that would keep me from failing you."
-    ""
+    R "Hayır! Hayır! Seni hayal kırıklığına uğratmamı engelleyecek hiçbir şey düşünemiyorum."
 
 # game/UpdateScript0.03.rpy:1827
 translate turkish ryan_and_lauren_d440d646:
 
     # L "What if I show you..."
-    ""
+    L "Ya size şunu göstersem..."
 
 # game/UpdateScript0.03.rpy:1830
 translate turkish ryan_and_lauren_41270812:
 
     # L "These!..."
-    ""
+    L "Bunları!..."
 
 # game/UpdateScript0.03.rpy:1831
 translate turkish ryan_and_lauren_c6841c25:
@@ -4240,145 +4240,145 @@ translate turkish ryan_and_lauren_4b7ef1d4:
 translate turkish ryan_and_lauren_2ba5b772:
 
     # L "Hahaha.... what's under your pants is saying everything."
-    ""
+    L "Hahaha.... pantolonunuzun altında ne olduğu her şeyi anlatıyor."
 
 # game/UpdateScript0.03.rpy:1834
 translate turkish ryan_and_lauren_4003919a:
 
     # R "Oh my God, Lauren.... I love those perky little titties!"
-    ""
+    R "Aman Tanrım, Lauren.... O küçük canlı memelere bayılıyorum!"
 
 # game/UpdateScript0.03.rpy:1837
 translate turkish ryan_and_lauren_5afb6546:
 
     # L "I'm so sorry [ryan], but I need you to hold me like this!..."
-    ""
+    L "Üzgünüm [ryan], ama bana böyle sarılmanı istiyorum!..."
 
 # game/UpdateScript0.03.rpy:1838
 translate turkish ryan_and_lauren_90a38bfa:
 
     # R "I had no idea you felt like this for me."
-    ""
+    R "Benim için böyle hissettiğini bilmiyordum."
 
 # game/UpdateScript0.03.rpy:1839
 translate turkish ryan_and_lauren_758998e9:
 
     # R "I mean I hoped you did."
-    ""
+    R "Yani öyle umuyordum."
 
 # game/UpdateScript0.03.rpy:1840
 translate turkish ryan_and_lauren_71a9211a:
 
     # L "[ryan], just shut up.... I know this is so wrong.... and we can't ever do more than this..."
-    ""
+    L "[ryan], sadece kapa çeneni.... bunun çok yanlış olduğunu biliyorum..... ve bundan daha fazlasını asla yapamayız..."
 
 # game/UpdateScript0.03.rpy:1841
 translate turkish ryan_and_lauren_8008ee0a:
 
     # L "But I need to have at least this..."
-    ""
+    L "Ama en azından buna ihtiyacım var."
 
 # game/UpdateScript0.03.rpy:1842
 translate turkish ryan_and_lauren_437dbdfb:
 
     # R "It's the fact that it is so forbidden that makes this so hard to resist."
-    ""
+    R "Bu kadar yasak olması buna karşı koymayı zorlaştırıyor."
 
 # game/UpdateScript0.03.rpy:1843
 translate turkish ryan_and_lauren_adcb9c56:
 
     # L "Oh, God.... I know..."
-    ""
+    L "Ah, Tanrım.... biliyorum..."
 
 # game/UpdateScript0.03.rpy:1855
 translate turkish ryan_and_lauren_33d28635:
 
     # LT "{i}[ryan]'s cock is so big! He is just throbbing and twitching all the way through all of our clothes.{/i}"
-    ""
+    LT "{i}[ryan]'ın siki çok büyük! Bütün kıyafetlerimizin içinde zonkluyor ve seğiriyor.{/i}"
 
 # game/UpdateScript0.03.rpy:1856
 translate turkish ryan_and_lauren_5889f8d3:
 
     # LT "{i}It's a good thing we'll never go further than this. I think I'd be fully impaled by his enormous shaft.{/i}"
-    ""
+    LT "{i}Bundan daha ileri gitmememiz iyi bir şey. Sanırım onun devasa şaftı tarafından tamamen kazığa oturtulmuş olurdum.{/i}"
 
 # game/UpdateScript0.03.rpy:1873
 translate turkish ryan_and_lauren_327a297d:
 
     # ADT "{i}Ugghh.... back to my boring surveillance job for another week.{/i}"
-    ""
+    ADT "{i}Ugghh.... bir hafta daha sıkıcı gözetleme işime geri döndüm.{/i}"
 
 # game/UpdateScript0.03.rpy:1874
 translate turkish ryan_and_lauren_dcacf2ba:
 
     # ADT "{i}At least I've got an extra $500 to enjoy.{/i}"
-    ""
+    ADT "{i}En azından eğlenmek için fazladan 500 dolarım var.{/i}"
 
 # game/UpdateScript0.03.rpy:1877
 translate turkish ryan_and_lauren_acc394b2:
 
     # ADT "{i}Time to watch my favorite family on the TV again.{/i}"
-    ""
+    ADT "{i}En sevdiğim aileyi tekrar televizyonda izleme zamanı.{/i}"
 
 # game/UpdateScript0.03.rpy:1878
 translate turkish ryan_and_lauren_9f513ffc:
 
     # ADT "{i}So much drama.... will they?.... Won't they?.... {/i}"
-    ""
+    ADT "{i}Çok fazla drama.... yapacaklar mı?.... Yapmayacaklar mı?.... {/i}"
 
 # game/UpdateScript0.03.rpy:1879
 translate turkish ryan_and_lauren_b955da6b:
 
     # ADT "{i}(sarcastically) I can't wait to watch the next episode.{/i}"
-    ""
+    ADT "{i}(alaycı bir şekilde) Bir sonraki bölümü izlemek için sabırsızlanıyorum.{/i}"
 
 # game/UpdateScript0.03.rpy:1880
 translate turkish ryan_and_lauren_86891b5e:
 
     # ADT "{i}Pretty handy that [ryan] installed those spy cameras and saved me the hassle.{/i}"
-    ""
+    ADT "{i}Şu küçük veletin casusluk kameraları kurması ve beni bu zahmetten kurtarması oldukça kullanışlı.{/i}"
 
 # game/UpdateScript0.03.rpy:1881
 translate turkish ryan_and_lauren_ee9467db:
 
     # ADT "{i}They were so easy to hack into.{/i}"
-    ""
+    ADT "{i}Hacklenmesi çok kolay.{/i}"
 
 # game/UpdateScript0.03.rpy:1882
 translate turkish ryan_and_lauren_9fb77b3e:
 
     # ADT "{i}I should check Lauren's room, she might be getting dressed for school.{/i}"
-    ""
+    ADT "{i}Lauren'in odasına bakmalıyım, okul için giyiniyor olabilir.{/i}"
 
 # game/UpdateScript0.03.rpy:1885
 translate turkish ryan_and_lauren_e8bf8080:
 
     # ADT "{i}Oh my God.... this is interesting!{/i}"
-    ""
+    ADT "{i}Aman Tanrım.... bu çok ilginç!{/i}"
 
 # game/UpdateScript0.03.rpy:1886
 translate turkish ryan_and_lauren_2ce65086:
 
     # ADT "{i}Haha.... I'm not surprised!{/i}"
-    ""
+    ADT "{i}Haha.... Hiç şaşırmadım!{/i}"
 
 # game/UpdateScript0.03.rpy:1889
 translate turkish ryan_and_lauren_bae084fe:
 
     # ADT "{i}Just give them a little more time, and they'll be fucking like rabbits.{/i}"
-    ""
+    ADT "{i}Onlara biraz daha zaman ver, tavşanlar gibi sevişecekler.{/i}"
 
 # game/UpdateScript0.03.rpy:1944
 translate turkish ryan_and_lauren_1ebb5fe1:
 
     # L "Well, big brother?"
-    ""
+    L "Ee, abi?"
 
 # game/UpdateScript0.03.rpy:1945
 translate turkish ryan_and_lauren_d1410548:
 
     # L "How was that?"
-    ""
+    L "Nasıldı?"
 
 # game/UpdateScript0.03.rpy:1946
 translate turkish ryan_and_lauren_be3ef749:
@@ -4390,19 +4390,19 @@ translate turkish ryan_and_lauren_be3ef749:
 translate turkish ryan_and_lauren_089f03a7:
 
     # L "Hahah.... that's what I thought."
-    ""
+    L "Hahah.... ben de öyle düşünmüştüm."
 
 # game/UpdateScript0.03.rpy:1948
 translate turkish ryan_and_lauren_b8d7c08c:
 
     # L "I think you came bucketloads."
-    ""
+    L "Bence kova dolusu geliyor."
 
 # game/UpdateScript0.03.rpy:1949
 translate turkish ryan_and_lauren_c765dd3c:
 
     # L "Your shorts are soaking wet."
-    ""
+    L "Pantolonun sırılsıklam olmuş."
 
 # game/UpdateScript0.03.rpy:1950
 translate turkish ryan_and_lauren_45c69eb5:
@@ -4414,25 +4414,25 @@ translate turkish ryan_and_lauren_45c69eb5:
 translate turkish ryan_and_lauren_fcaf8732:
 
     # L "Hahah.... you'd better run and get ready for school. I'm already halfway dressed."
-    ""
+    L "Hahah.... koşup okul için hazırlansan iyi olur. Ben zaten yarıya kadar giyindim."
 
 # game/UpdateScript0.03.rpy:1968
-translate turkish ryan_and_lauren_e3690255:
+translate turkish ryan_and_lauren_56145a8e:
 
-    # RT "{b}(HINT){/b} {i}I can't believe Lauren's ok with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
+    # RT "{b}(HINT){/b} {i}I can't believe Lauren's okay with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
     ""
 
 # game/UpdateScript0.03.rpy:1980
 translate turkish ryan_and_lauren_b7459628:
 
     # L "I know we need to get ready for school, but I really wanted to thank you again for protecting me from Agent Diaz."
-    ""
+    L "Okul için hazırlanmamız gerektiğini biliyorum ama beni yeniden Ajan Diaz'dan koruduğun için sana teşekkür etmek istiyorum."
 
 # game/UpdateScript0.03.rpy:1981
 translate turkish ryan_and_lauren_fe9908d0_1:
 
     # R "That's what big brothers are for, Lauren."
-    ""
+    R "Büyük kardeşler bunun içindir Lauren."
 
 # game/UpdateScript0.03.rpy:1982
 translate turkish ryan_and_lauren_32f0afae_1:
@@ -4456,7 +4456,7 @@ translate turkish ryan_and_lauren_b1e1675f:
 translate turkish ryan_and_lauren_dcf1e81e_1:
 
     # L "Just sit there, close your eyes, and don't say anything."
-    ""
+    L "Sadece orada otur, gözlerini kapat ve hiçbir şey söyleme."
 
 # game/UpdateScript0.03.rpy:1987
 translate turkish ryan_and_lauren_dfe61d0a_1:
@@ -4480,7 +4480,7 @@ translate turkish ryan_and_lauren_d4352eb0:
 translate turkish ryan_and_lauren_f2b151bf_1:
 
     # L "Ok, you can open your eyes now."
-    ""
+    L "Tamam, artık gözlerini açabilirsin."
 
 # game/UpdateScript0.03.rpy:2006
 translate turkish ryan_and_lauren_09f58a39:
@@ -4510,7 +4510,7 @@ translate turkish ryan_and_lauren_bf0cf24f:
 translate turkish ryan_and_lauren_6a423368_1:
 
     # L "Give you something to think about all day."
-    ""
+    L "Sana bütün gün düşünecek bir şey verir."
 
 # game/UpdateScript0.03.rpy:2011
 translate turkish ryan_and_lauren_fb859625:
@@ -4522,7 +4522,7 @@ translate turkish ryan_and_lauren_fb859625:
 translate turkish ryan_and_lauren_51802272_1:
 
     # L "Now let me just turn on some music."
-    ""
+    L "Şimdi biraz müzik açayım."
 
 # game/UpdateScript0.03.rpy:2016
 translate turkish ryan_and_lauren_b2f3f08e:
@@ -4534,19 +4534,19 @@ translate turkish ryan_and_lauren_b2f3f08e:
 translate turkish ryan_and_lauren_646bcdca_1:
 
     # LT "{i}Oh, the look on his face!.... I think he's really enjoying this!{/i}"
-    ""
+    LT "{i}Oh, yüzündeki ifadeye bak!.... Sanırım bundan gerçekten keyif alıyor!{/i}"
 
 # game/UpdateScript0.03.rpy:2018
 translate turkish ryan_and_lauren_bfb69e24_1:
 
     # L "If you like that, I think you'll really like this."
-    ""
+    L "Eğer bunu sevdiysen, bunu da seveceğini düşünüyorum."
 
 # game/UpdateScript0.03.rpy:2021
 translate turkish ryan_and_lauren_a6241ddc_1:
 
     # R "Oh fuck, Lauren.... your ass is beautiful!"
-    ""
+    R "Ah sikeyim, Lauren.... götün çok güzel!"
 
 # game/UpdateScript0.03.rpy:2022
 translate turkish ryan_and_lauren_d75ce270:
@@ -4558,25 +4558,25 @@ translate turkish ryan_and_lauren_d75ce270:
 translate turkish ryan_and_lauren_ce49ee01_1:
 
     # L "So, Mr. [ryan]."
-    ""
+    L "Ee, Bay [ryan]."
 
 # game/UpdateScript0.03.rpy:2027
 translate turkish ryan_and_lauren_7adf46d2_1:
 
     # L "I know I'm getting an \"F\" in Anatomy, so I was hoping there was something I could do to bring up my grade."
-    ""
+    L "Anatomi dersinden \"F\" alacağımı biliyorum, bu yüzden notumu yükseltmek için yapabileceğim bir şey olduğunu umuyordum."
 
 # game/UpdateScript0.03.rpy:2028
 translate turkish ryan_and_lauren_49fbc840_1:
 
     # RT "{i}Oh, nice! Lauren wants to do some role-play.{/i}"
-    ""
+    RT "{i}Oh, güzel! Lauren biraz rol yapmak istiyor.{/i}"
 
 # game/UpdateScript0.03.rpy:2029
 translate turkish ryan_and_lauren_2ef08669_1:
 
     # R "I don't know, young lady. You've skipped my class almost every day to make out with the head cheerleader, Megan."
-    ""
+    R "Bilmiyorum genç bayan. Baş amigo Megan'la yiyişmek için neredeyse her gün dersimi ektin."
 
 # game/UpdateScript0.03.rpy:2030
 translate turkish ryan_and_lauren_03bb2ae9:
@@ -4606,25 +4606,25 @@ translate turkish ryan_and_lauren_c6d04e42:
 translate turkish ryan_and_lauren_24d19202_1:
 
     # L "There must be something I can do to change your mind."
-    ""
+    L "Fikrinizi değiştirmek için yapabileceğim bir şey olmalı."
 
 # game/UpdateScript0.03.rpy:2037
 translate turkish ryan_and_lauren_2d861881_1:
 
     # R "Nope! There's nothing I can think of that would keep me from failing you."
-    ""
+    R "Hayır! Hayır! Seni hayal kırıklığına uğratmamı engelleyecek hiçbir şey düşünemiyorum."
 
 # game/UpdateScript0.03.rpy:2038
 translate turkish ryan_and_lauren_d440d646_1:
 
     # L "What if I show you..."
-    ""
+    L "Ya size şunu göstersem..."
 
 # game/UpdateScript0.03.rpy:2041
 translate turkish ryan_and_lauren_41270812_1:
 
     # L "These!..."
-    ""
+    L "Bunları!..."
 
 # game/UpdateScript0.03.rpy:2042
 translate turkish ryan_and_lauren_f2398df3:
@@ -4642,13 +4642,13 @@ translate turkish ryan_and_lauren_7426e49a:
 translate turkish ryan_and_lauren_4003919a_1:
 
     # R "Oh my God, Lauren.... I love those perky little titties!"
-    ""
+    R "Aman Tanrım, Lauren.... O küçük canlı memelere bayılıyorum!"
 
 # game/UpdateScript0.03.rpy:2047
 translate turkish ryan_and_lauren_5afb6546_1:
 
     # L "I'm so sorry [ryan], but I need you to hold me like this!..."
-    ""
+    L "Üzgünüm [ryan], ama bana böyle sarılmanı istiyorum!..."
 
 # game/UpdateScript0.03.rpy:2048
 translate turkish ryan_and_lauren_bd3a650b:
@@ -4684,31 +4684,31 @@ translate turkish ryan_and_lauren_7c2a751b:
 translate turkish ryan_and_lauren_33d28635_1:
 
     # LT "{i}[ryan]'s cock is so big! He is just throbbing and twitching all the way through all of our clothes.{/i}"
-    ""
+    LT "{i}[ryan]'ın siki çok büyük! Bütün kıyafetlerimizin içinde zonkluyor ve seğiriyor.{/i}"
 
 # game/UpdateScript0.03.rpy:2065
 translate turkish ryan_and_lauren_5889f8d3_1:
 
     # LT "{i}It's a good thing we'll never go further than this. I think I'd be fully impaled by his enormous shaft.{/i}"
-    ""
+    LT "{i}Bundan daha ileri gitmememiz iyi bir şey. Sanırım onun devasa şaftı tarafından tamamen kazığa oturtulmuş olurdum.{/i}"
 
 # game/UpdateScript0.03.rpy:2082
 translate turkish ryan_and_lauren_327a297d_1:
 
     # ADT "{i}Ugghh.... back to my boring surveillance job for another week.{/i}"
-    ""
+    ADT "{i}Ugghh.... bir hafta daha sıkıcı gözetleme işime geri döndüm.{/i}"
 
 # game/UpdateScript0.03.rpy:2083
 translate turkish ryan_and_lauren_dcacf2ba_1:
 
     # ADT "{i}At least I've got an extra $500 to enjoy.{/i}"
-    ""
+    ADT "{i}En azından eğlenmek için fazladan 500 dolarım var.{/i}"
 
 # game/UpdateScript0.03.rpy:2086
 translate turkish ryan_and_lauren_acc394b2_1:
 
     # ADT "{i}Time to watch my favorite family on the TV again.{/i}"
-    ""
+    ADT "{i}En sevdiğim aileyi tekrar televizyonda izleme zamanı.{/i}"
 
 # game/UpdateScript0.03.rpy:2087
 translate turkish ryan_and_lauren_ced64c4a:
@@ -4732,19 +4732,19 @@ translate turkish ryan_and_lauren_971430d5:
 translate turkish ryan_and_lauren_bae084fe_1:
 
     # ADT "{i}Just give them a little more time, and they'll be fucking like rabbits.{/i}"
-    ""
+    ADT "{i}Onlara biraz daha zaman ver, tavşanlar gibi sevişecekler.{/i}"
 
 # game/UpdateScript0.03.rpy:2149
 translate turkish ryan_and_lauren_1ebb5fe1_1:
 
     # L "Well, big brother?"
-    ""
+    L "Ee, abi?"
 
 # game/UpdateScript0.03.rpy:2150
 translate turkish ryan_and_lauren_d1410548_1:
 
     # L "How was that?"
-    ""
+    L "Nasıldı?"
 
 # game/UpdateScript0.03.rpy:2151
 translate turkish ryan_and_lauren_be3ef749_1:
@@ -4756,7 +4756,7 @@ translate turkish ryan_and_lauren_be3ef749_1:
 translate turkish ryan_and_lauren_089f03a7_1:
 
     # L "Hahah.... that's what I thought."
-    ""
+    L "Hahah.... ben de öyle düşünmüştüm."
 
 # game/UpdateScript0.03.rpy:2153
 translate turkish ryan_and_lauren_9cfcf0aa:
@@ -4768,7 +4768,7 @@ translate turkish ryan_and_lauren_9cfcf0aa:
 translate turkish ryan_and_lauren_c765dd3c_1:
 
     # L "Your shorts are soaking wet."
-    ""
+    L "Pantolonun sırılsıklam olmuş."
 
 # game/UpdateScript0.03.rpy:2155
 translate turkish ryan_and_lauren_45c69eb5_1:
@@ -4780,7 +4780,7 @@ translate turkish ryan_and_lauren_45c69eb5_1:
 translate turkish ryan_and_lauren_fcaf8732_1:
 
     # L "Hahah.... you'd better run and get ready for school. I'm already halfway dressed."
-    ""
+    L "Hahah.... koşup okul için hazırlansan iyi olur. Ben zaten yarıya kadar giyindim."
 
 # game/UpdateScript0.03.rpy:2167
 translate turkish meganloyaltyblowjob_7da2c237:
@@ -6325,10 +6325,10 @@ translate turkish clubpool_ad643c90_3:
     M "Tamam, sanırım hazırım."
 
 # game/UpdateScript0.03.rpy:2774
-translate turkish clubpool_b5eeb767:
+translate turkish clubpool_64230153:
 
-    # R "Mom, is it ok to swim after drinking?"
-    R "Anne, içtikten sonra yüzmek sorun olur mu?"
+    # R "Mom, is it okay to swim after drinking?"
+    ""
 
 # game/UpdateScript0.03.rpy:2775
 translate turkish clubpool_436efea8:
@@ -8746,79 +8746,79 @@ translate turkish htbydshoot_a411d86b_1:
 translate turkish htbydshoot_4e3273ee:
 
     # "You have already done this photo session with Lauren this week."
-    ""
+    "Lauren ile fotoğraf çekimini bu hafta zaten yapmıştınız."
 
 # game/UpdateScript0.03.rpy:3936
 translate turkish htbydshoot_704bd7a7:
 
     # "You will still be able to increase Lauren's stats and progress through this scene,"
-    ""
+    "Yine de Lauren'ın istatistiklerini artırabilecek ve bu sahnede ilerleyebileceksiniz,"
 
 # game/UpdateScript0.03.rpy:3937
 translate turkish htbydshoot_d2e00a31:
 
     # "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
-    ""
+    "Ancak bu etkinliğin her hafta yalnızca ilk oynanışı Cosplay Heaven web sitesi için beğeni toplayacaktır."
 
 # game/UpdateScript0.03.rpy:3940
 translate turkish htbydshoot_4e3273ee_1:
 
     # "You have already done this photo session with Lauren this week."
-    ""
+    "Lauren ile fotoğraf çekimini bu hafta zaten yapmıştınız."
 
 # game/UpdateScript0.03.rpy:3941
 translate turkish htbydshoot_704bd7a7_1:
 
     # "You will still be able to increase Lauren's stats and progress through this scene,"
-    ""
+    "Yine de Lauren'ın istatistiklerini artırabilecek ve bu sahnede ilerleyebileceksiniz,"
 
 # game/UpdateScript0.03.rpy:3942
 translate turkish htbydshoot_d2e00a31_1:
 
     # "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
-    ""
+    "Ancak bu etkinliğin her hafta yalnızca ilk oynanışı Cosplay Heaven web sitesi için beğeni toplayacaktır."
 
 # game/UpdateScript0.03.rpy:3945
 translate turkish htbydshoot_4e3273ee_2:
 
     # "You have already done this photo session with Lauren this week."
-    ""
+    "Lauren ile fotoğraf çekimini bu hafta zaten yapmıştınız."
 
 # game/UpdateScript0.03.rpy:3946
 translate turkish htbydshoot_704bd7a7_2:
 
     # "You will still be able to increase Lauren's stats and progress through this scene,"
-    ""
+    "Yine de Lauren'ın istatistiklerini artırabilecek ve bu sahnede ilerleyebileceksiniz,"
 
 # game/UpdateScript0.03.rpy:3947
 translate turkish htbydshoot_d2e00a31_2:
 
     # "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
-    ""
+    "Ancak bu etkinliğin her hafta yalnızca ilk oynanışı Cosplay Heaven web sitesi için beğeni toplayacaktır."
 
 # game/UpdateScript0.03.rpy:3950
 translate turkish htbydshoot_4e3273ee_3:
 
     # "You have already done this photo session with Lauren this week."
-    ""
+    "Lauren ile fotoğraf çekimini bu hafta zaten yapmıştınız."
 
 # game/UpdateScript0.03.rpy:3951
 translate turkish htbydshoot_704bd7a7_3:
 
     # "You will still be able to increase Lauren's stats and progress through this scene,"
-    ""
+    "Yine de Lauren'ın istatistiklerini artırabilecek ve bu sahnede ilerleyebileceksiniz,"
 
 # game/UpdateScript0.03.rpy:3952
 translate turkish htbydshoot_d2e00a31_3:
 
     # "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
-    ""
+    "Ancak bu etkinliğin her hafta yalnızca ilk oynanışı Cosplay Heaven web sitesi için beğeni toplayacaktır."
 
 # game/UpdateScript0.03.rpy:3959
 translate turkish htbydshoot_bd3ba4e4:
 
     # R "Yeah.... I'm already over here."
-    ""
+    R "Evet.... Ben zaten buradayım."
 
 # game/UpdateScript0.03.rpy:3960
 translate turkish htbydshoot_a20cefa7:
@@ -8830,7 +8830,7 @@ translate turkish htbydshoot_a20cefa7:
 translate turkish htbydshoot_0b8428e0:
 
     # R "No.... I said I'm already here, I'm not coming to get you."
-    ""
+    R "Hayır.... Zaten buradayım dedim, seni almaya gelmiyorum."
 
 # game/UpdateScript0.03.rpy:3962
 translate turkish htbydshoot_a20cefa7_1:
@@ -8842,7 +8842,7 @@ translate turkish htbydshoot_a20cefa7_1:
 translate turkish htbydshoot_63bf9803:
 
     # R "Just ride your bike, it's not that far."
-    ""
+    R "Bisiklete bin, o kadar da uzak değil."
 
 # game/UpdateScript0.03.rpy:3964
 translate turkish htbydshoot_a20cefa7_2:
@@ -8854,7 +8854,7 @@ translate turkish htbydshoot_a20cefa7_2:
 translate turkish htbydshoot_540058d3:
 
     # R "Yeah and bring your cosplay costume."
-    ""
+    R "Evet ve cosplay kostümünü de getir."
 
 # game/UpdateScript0.03.rpy:3966
 translate turkish htbydshoot_a20cefa7_3:
@@ -8866,7 +8866,7 @@ translate turkish htbydshoot_a20cefa7_3:
 translate turkish htbydshoot_2dbee252:
 
     # R "No, I'm sure you can fit it in your backpack."
-    ""
+    R "Hayır, eminim sırt çantana sığdırabilirsin."
 
 # game/UpdateScript0.03.rpy:3968
 translate turkish htbydshoot_a20cefa7_4:
@@ -8878,7 +8878,7 @@ translate turkish htbydshoot_a20cefa7_4:
 translate turkish htbydshoot_16fbac71:
 
     # R "Ok, I'll get the studio ready while I'm waiting for you."
-    ""
+    R "Tamam, seni beklerken stüdyoyu hazırlayayım."
 
 # game/UpdateScript0.03.rpy:3975
 translate turkish htbydshoot_fef0ec62:
@@ -8908,7 +8908,7 @@ translate turkish htbydshoot_0998349b:
 translate turkish htbydshoot_5b03caaa:
 
     # R "I've been playing with the ZAD 3D computer program, and I should be able to do a lot of fun effects with the pictures we take."
-    ""
+    R "ZAD 3D bilgisayar programıyla uğraşıyorum ve çektiğimiz resimlerle çok eğlenceli efektler yapabilmeliyim."
 
 # game/UpdateScript0.03.rpy:3989
 translate turkish htbydshoot_6844630d:
@@ -8932,7 +8932,7 @@ translate turkish htbydshoot_0998349b_1:
 translate turkish htbydshoot_5b03caaa_1:
 
     # R "I've been playing with the ZAD 3D computer program, and I should be able to do a lot of fun effects with the pictures we take."
-    ""
+    R "ZAD 3D bilgisayar programıyla uğraşıyorum ve çektiğimiz resimlerle çok eğlenceli efektler yapabilmeliyim."
 
 # game/UpdateScript0.03.rpy:4002
 translate turkish htbydshoot_6844630d_1:
@@ -8956,121 +8956,121 @@ translate turkish htbydshoot_3d336436_1:
 translate turkish htbydshoot_b0c367f5:
 
     # L "Oh my gosh! You've upgraded the place! New professional looking lights, and a background that's green for some reason."
-    ""
+    L "Aman Tanrım! Burayı geliştirrmişsin! Yeni profesyonel görünümlü ışıklar ve nedense yeşil olan bir arka plan."
 
 # game/UpdateScript0.03.rpy:4018
 translate turkish htbydshoot_f490f007:
 
     # R "The green screen will make it so we can add any background we want to the pictures later."
-    ""
+    R "Yeşil ekran sayesinde daha sonra fotoğraflara istediğimiz arka planı ekleyebileceğiz."
 
 # game/UpdateScript0.03.rpy:4019
 translate turkish htbydshoot_5b03caaa_2:
 
     # R "I've been playing with the ZAD 3D computer program, and I should be able to do a lot of fun effects with the pictures we take."
-    ""
+    R "ZAD 3D bilgisayar programıyla uğraşıyorum ve çektiğimiz resimlerle çok eğlenceli efektler yapabilmeliyim."
 
 # game/UpdateScript0.03.rpy:4020
 translate turkish htbydshoot_29f698dc:
 
     # R "The lights will just make the quality of the pictures so much better. They will definitely be worth every penny we paid for them."
-    ""
+    R "Işıklar fotoğrafların kalitesini çok daha iyi hale getirecek. Onlar için ödediğimiz her kuruşa kesinlikle değecek."
 
 # game/UpdateScript0.03.rpy:4021
 translate turkish htbydshoot_a95fb8ea:
 
     # L "Awesome! I can't wait the see how the pictures turn out."
-    ""
+    L "Müthiş! Fotoğrafların nasıl çıktığını görebilmek için sabırsızlanıyorum."
 
 # game/UpdateScript0.03.rpy:4032
 translate turkish htbydshoot_9da9f321:
 
     # R "So, are you ready to get going?"
-    ""
+    R "Peki, başlamaya hazır mısınız?"
 
 # game/UpdateScript0.03.rpy:4033
 translate turkish htbydshoot_ced5b1ed:
 
     # L "So ready!"
-    ""
+    L "Hazırım!"
 
 # game/UpdateScript0.03.rpy:4034
 translate turkish htbydshoot_ecbdb247:
 
     # R "Ok, just run to the supply closet and get changed into your costume while I get a few more small details ready for the shoot."
-    ""
+    R "Tamam, ben çekim için birkaç küçük detayı daha hazırlarken sen de malzeme dolabına koş ve kostümünü giy."
 
 # game/UpdateScript0.03.rpy:4044
 translate turkish htbydshoot_1289404c:
 
     # L "Ok, I'm dressed, but I'm a little nervous about the shoot."
-    ""
+    L "Tamam, giyindim ama çekim için biraz gerginim."
 
 # game/UpdateScript0.03.rpy:4049
 translate turkish htbydshoot_a636a010:
 
     # R "Ok Lauren, I know this is only the second photoshoot you've ever done."
-    ""
+    R "Tamam Lauren, bunun şimdiye kadar yaptığın ikinci fotoğraf çekimi olduğunu biliyorum."
 
 # game/UpdateScript0.03.rpy:4051
 translate turkish htbydshoot_dbf8554f:
 
     # R "But I'm going to try to be as professional as possible."
-    ""
+    R "Ama mümkün olduğunca profesyonel olmaya çalışacağım."
 
 # game/UpdateScript0.03.rpy:4052
 translate turkish htbydshoot_27635596:
 
     # R "I might push you a little bit out of your comfort zone, but remember, it's just because I know what people want to see on the internet,"
-    ""
+    R "Seni konfor alanının biraz dışına itebilirim, ama unutma, bunun nedeni insanların internette ne görmek istediklerini bildiğimdir,"
 
 # game/UpdateScript0.03.rpy:4053
 translate turkish htbydshoot_cce27e3c:
 
     # R "And I'll only be suggesting things that will get you more likes and more money to help pay Mom's Mafia debt."
-    ""
+    R "Ve sadece sana daha fazla beğeni ve annemin mafya borcunu ödemeye yardımcı olmak için daha fazla para kazandıracak şeyler önereceğim."
 
 # game/UpdateScript0.03.rpy:4054
 translate turkish htbydshoot_c6d6b4fb:
 
     # R "If you're too uncomfortable to go any further with the shoot, we'll just call it a day, and see how we feel on the next one."
-    ""
+    R "Eğer çekimde daha fazla ilerleyemeyecek kadar rahatsızsan, bir sonraki çekimde ne hissedeceğimize bakarız."
 
 # game/UpdateScript0.03.rpy:4055
 translate turkish htbydshoot_20fe84ff:
 
     # RT "{i}{b}I've got to remember not to push Lauren too hard. If I make her mad, she's just going to end the photo shoot and go home.{/b}{/i}"
-    ""
+    RT "{i}{b}Lauren'i çok zorlamamam gerektiğini hatırlamalıyım. Eğer onu kızdırırsam, fotoğraf çekimini bitirip eve gidecektir.{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4056
 translate turkish htbydshoot_197cc58c:
 
     # R "So, are you ready?"
-    ""
+    R "Hazır mısın?"
 
 # game/UpdateScript0.03.rpy:4059
 translate turkish htbydshoot_9676be82:
 
     # L "I think so. Thanks for being so professional, I almost forgot you were my brother for a second."
-    ""
+    L "Sanırım evet. Bu kadar profesyonel olduğun için teşekkürler, neredeyse bir anlığına kardeşim olduğunu unutuyordum."
 
 # game/UpdateScript0.03.rpy:4060
 translate turkish htbydshoot_8ce0192a:
 
     # R "Good! Go with that. Try to think of me as a professional photographer who's going to make you an internet sensation."
-    ""
+    R "Güzel! Böyle devam et. Beni, seni internette sansasyon yaratacak profesyonel bir fotoğrafçı olarak düşünmeye çalış."
 
 # game/UpdateScript0.03.rpy:4061
 translate turkish htbydshoot_113b5ada:
 
     # L "And you ruined it, now you're just my brother again."
-    ""
+    L "Ve sen bunu mahvettin, şimdi yine sadece kardeşimsin."
 
 # game/UpdateScript0.03.rpy:4062
 translate turkish htbydshoot_bcf5ed5a:
 
     # R "Ok, smartass, let's just get started."
-    ""
+    R "Tamam çok bilmiş, hadi başlayalım."
 
 # game/UpdateScript0.03.rpy:4064
 translate turkish htbydshoot_20becdeb:
@@ -9106,7 +9106,7 @@ translate turkish htbydshoot_9b1e72e2:
 translate turkish htbydshoot_0a2f67db:
 
     # R "Ok, let's start out with a pose like a warrior hunting in the forest."
-    ""
+    R "Tamam, ormanda avlanan bir savaşçı gibi bir pozla başlayalım."
 
 # game/UpdateScript0.03.rpy:4076
 translate turkish htbydshoot_3b8def9e:
@@ -9118,115 +9118,115 @@ translate turkish htbydshoot_3b8def9e:
 translate turkish htbydshoot_b0531b6c:
 
     # R "It's great!"
-    ""
+    R "Harika!"
 
 # game/UpdateScript0.03.rpy:4078
 translate turkish htbydshoot_07954fb5:
 
     # R "Hold that pose while I take the picture."
-    ""
+    R "Ben fotoğrafı çekerken pozunu bozma."
 
 # game/UpdateScript0.03.rpy:4086
 translate turkish htbydshoot_b048f5d8:
 
     # R "Perfect.... I got it."
-    ""
+    R "Mükemmel.... Hallettim."
 
 # game/UpdateScript0.03.rpy:4088
 translate turkish htbydshoot_f10646ca:
 
     # R "Since we've got this kick-ass green screen, I'll be able to add a forest background to this picture."
-    ""
+    R "Elimizde müthiş bir yeşil ekran olduğu için bu resme bir orman arka planı ekleyebileceğim."
 
 # game/UpdateScript0.03.rpy:4089
 translate turkish htbydshoot_0456e9c5:
 
     # R "I can see it now."
-    ""
+    R "Şimdi hallediyorum."
 
 # game/UpdateScript0.03.rpy:4099
 translate turkish htbydshoot_e1957aeb:
 
     # R "That's going to look really good."
-    ""
+    R "Bu gerçekten güzel görünecek."
 
 # game/UpdateScript0.03.rpy:4102
 translate turkish htbydshoot_cacef992:
 
     # R "Now let's go for some sexier pictures."
-    ""
+    R "Şimdi biraz daha seksi fotoğraflar çekelim."
 
 # game/UpdateScript0.03.rpy:4104
 translate turkish htbydshoot_5df56101:
 
     # R "Why don't you take off the leg warmers, the arm warmers and whatever that thing is around your torso."
-    ""
+    R "Neden bacak ısıtıcılarını, kol ısıtıcılarını ve gövdenin etrafındaki o şey her neyse onu çıkarmıyorsun?"
 
 # game/UpdateScript0.03.rpy:4105
 translate turkish htbydshoot_354feabb:
 
     # R "Then sit down on the floor like you're taking a break from your dragon hunting."
-    ""
+    R "Sonra ejderha avına ara veriyormuş gibi yere otur."
 
 # game/UpdateScript0.03.rpy:4106
 translate turkish htbydshoot_fb7c6769:
 
     # L "Haha, yeah ok, that doesn't sound too bad."
-    ""
+    L "Haha, hıhı tamam, kulağa o kadar da kötü gelmiyor."
 
 # game/UpdateScript0.03.rpy:4115
 translate turkish htbydshoot_535726ea:
 
     # L "How's this pose?"
-    ""
+    L "Bu poz nasıl?"
 
 # game/UpdateScript0.03.rpy:4116
 translate turkish htbydshoot_95b5c63e:
 
     # R "Great as well. You look like one of those Playboy mudflap sillhouettes."
-    ""
+    R "Harika. Playboy'un çamurluk siluetlerinden birine benziyorsun."
 
 # game/UpdateScript0.03.rpy:4117
 translate turkish htbydshoot_139fdd7e:
 
     # L "Oh, hahah.... just take the picture already!"
-    ""
+    L "Oh, hahah.... şu fotoğrafı çek artık!"
 
 # game/UpdateScript0.03.rpy:4125
 translate turkish htbydshoot_a34ff871:
 
     # R "Beautiful smile!"
-    ""
+    R "Güzel bir gülümseme!"
 
 # game/UpdateScript0.03.rpy:4126
 translate turkish htbydshoot_cfb0ccef:
 
     # L "Thanks."
-    ""
+    L "Mersi."
 
 # game/UpdateScript0.03.rpy:4128
 translate turkish htbydshoot_b4bb4ab4:
 
     # R "This one's going to look great with the forest background as well."
-    ""
+    R "Bu, orman arka planıyla da harika görünecek."
 
 # game/UpdateScript0.03.rpy:4140
 translate turkish htbydshoot_364809a5:
 
     # R "Lauren, you're so photogenic!"
-    ""
+    R "Lauren, çok fotojeniksin!"
 
 # game/UpdateScript0.03.rpy:4141
 translate turkish htbydshoot_17dedf43:
 
     # L "Ah.... thanks [ryan]!"
-    ""
+    L "Ah.... teşekkürler [ryan]!"
 
 # game/UpdateScript0.03.rpy:4142
 translate turkish htbydshoot_43c7285b:
 
     # RT "{i}Ok, should I keep going?{/i}"
-    ""
+    RT "{i}Tamam, devam edeyim mi?{/i}"
 
 # game/UpdateScript0.03.rpy:4149
 translate turkish htbydshoot_744c9729:
@@ -9238,7 +9238,7 @@ translate turkish htbydshoot_744c9729:
 translate turkish htbydshoot_51f5e4f5:
 
     # L "Uhhh.... I don't think that's a good idea. Isn't this sexy enough?.... I mean you can see a lot of skin."
-    ""
+    L "Uhhh.... Bunun iyi bir fikir olduğunu sanmıyorum. Bu yeterince seksi değil mi? .... Yani çok fazla açık yer görebilirsin."
 
 # game/UpdateScript0.03.rpy:4157
 translate turkish htbydshoot_3bcbe783:
@@ -9250,7 +9250,7 @@ translate turkish htbydshoot_3bcbe783:
 translate turkish htbydshoot_4bcb571a:
 
     # L "Further? How far are you trying to get me to go, you pervert?"
-    ""
+    L "Daha ileri mi? Beni ne kadar ileri götürmeye çalışıyorsun, seni sapık?"
 
 # game/UpdateScript0.03.rpy:4159
 translate turkish htbydshoot_c05f63c6:
@@ -9268,67 +9268,67 @@ translate turkish htbydshoot_1f8719b1:
 translate turkish htbydshoot_59ec300d:
 
     # R "Yeah, it will look fantastic in the pics."
-    ""
+    R "Evet, resimlerde harika görünecek."
 
 # game/UpdateScript0.03.rpy:4162
 translate turkish htbydshoot_42358ec8:
 
     # L "Yeah.... I don't think so. I'm going to get dressed and go home."
-    ""
+    L "Aynen.... Hiç sanmıyorum. Giyinip eve gideceğim."
 
 # game/UpdateScript0.03.rpy:4163
 translate turkish htbydshoot_375035b3:
 
     # L "We can try again next week if you're willing to be more professional."
-    ""
+    L "Daha profesyonel olmaya istekliysen gelecek hafta tekrar deneyebiliriz."
 
 # game/UpdateScript0.03.rpy:4166
 translate turkish htbydshoot_87757bf4:
 
     # "To get Lauren to take her skirt off you must have her submission at 5 points or her libido at 9 points."
-    ""
+    "Lauren'ın eteğini çıkarmasını sağlamak için boyun eğmesini 5 puan ya da libidosunun 9 puan olması gerekir."
 
 # game/UpdateScript0.03.rpy:4171
 translate turkish htbydshoot_5dbf032d:
 
     # R "How about we make that outfit even more sexy."
-    ""
+    R "Bu kıyafeti daha da seksi yapsak nasıl olur?"
 
 # game/UpdateScript0.03.rpy:4172
 translate turkish htbydshoot_e60e938d:
 
     # L "How do you mean?"
-    ""
+    L "Nasıl yani?"
 
 # game/UpdateScript0.03.rpy:4173
 translate turkish htbydshoot_af7fe60f:
 
     # R "Let's get rid of the skirt and have you show off that thong from behind."
-    ""
+    R "Hadi etekten kurtulalım ve arkadan tanganı göster."
 
 # game/UpdateScript0.03.rpy:4180
 translate turkish htbydshoot_1b9da2fa:
 
     # L "But that thong leaves so little to the imagination!"
-    ""
+    L "Ama o tanga hayal gücüne çok az şey bırakıyor!"
 
 # game/UpdateScript0.03.rpy:4181
 translate turkish htbydshoot_217a7d37:
 
     # R "True, but it still does leave some things to the imagination."
-    ""
+    R "Doğru, ama yine de bazı şeyleri hayal gücüne bırakıyor."
 
 # game/UpdateScript0.03.rpy:4182
 translate turkish htbydshoot_e2a2abb8:
 
     # L "I'm a little uncomfortable with that."
-    ""
+    L "Bu beni biraz rahatsız ediyor."
 
 # game/UpdateScript0.03.rpy:4183
 translate turkish htbydshoot_1b977fe8:
 
     # R "Alright, but I know it will boost the likes on your profile like crazy!"
-    ""
+    R "Tamam, ama profilindeki beğenileri deli gibi artıracağını biliyorum!"
 
 # game/UpdateScript0.03.rpy:4184
 translate turkish htbydshoot_af74cc2a:
@@ -9346,7 +9346,7 @@ translate turkish htbydshoot_c335f1dc:
 translate turkish htbydshoot_dbbab13a:
 
     # R "And get rid of that axe and shield while you're at it. We shouldn't need those any more."
-    ""
+    R "Hazır başlamışken şu balta ve kalkandan da kurtul. Artık onlara ihtiyacımız yok."
 
 # game/UpdateScript0.03.rpy:4191
 translate turkish htbydshoot_316668ef:
@@ -9364,7 +9364,7 @@ translate turkish htbydshoot_744c9729_1:
 translate turkish htbydshoot_51f5e4f5_1:
 
     # L "Uhhh.... I don't think that's a good idea. Isn't this sexy enough?.... I mean you can see a lot of skin."
-    ""
+    L "Uhhh.... Bunun iyi bir fikir olduğunu sanmıyorum. Bu yeterince seksi değil mi? .... Yani çok fazla açık yer görebilirsin."
 
 # game/UpdateScript0.03.rpy:4206
 translate turkish htbydshoot_3bcbe783_1:
@@ -9376,31 +9376,31 @@ translate turkish htbydshoot_3bcbe783_1:
 translate turkish htbydshoot_4bcb571a_1:
 
     # L "Further? How far are you trying to get me to go, you pervert?"
-    ""
+    L "Daha ileri mi? Beni ne kadar ileri götürmeye çalışıyorsun, seni sapık?"
 
 # game/UpdateScript0.03.rpy:4208
 translate turkish htbydshoot_af7fe60f_1:
 
     # R "Let's get rid of the skirt and have you show off that thong from behind."
-    ""
+    R "Hadi etekten kurtulalım ve arkadan tanganı göster."
 
 # game/UpdateScript0.03.rpy:4209
 translate turkish htbydshoot_1b9da2fa_1:
 
     # L "But that thong leaves so little to the imagination!"
-    ""
+    L "Ama o tanga hayal gücüne çok az şey bırakıyor!"
 
 # game/UpdateScript0.03.rpy:4210
 translate turkish htbydshoot_59ec300d_1:
 
     # R "Yeah, it will look fantastic in the pics."
-    ""
+    R "Evet, resimlerde harika görünecek."
 
 # game/UpdateScript0.03.rpy:4211
 translate turkish htbydshoot_42358ec8_1:
 
     # L "Yeah.... I don't think so. I'm going to get dressed and go home."
-    ""
+    L "Aynen.... Hiç sanmıyorum. Giyinip eve gideceğim."
 
 # game/UpdateScript0.03.rpy:4212
 translate turkish htbydshoot_c40e9816:
@@ -9412,13 +9412,13 @@ translate turkish htbydshoot_c40e9816:
 translate turkish htbydshoot_5541bdda:
 
     # "{i}\"Lauren Affection -1\"{/i}"
-    ""
+    "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4216
 translate turkish htbydshoot_375035b3_1:
 
     # L "We can try again next week if you're willing to be more professional."
-    ""
+    L "Daha profesyonel olmaya istekliysen gelecek hafta tekrar deneyebiliriz."
 
 # game/UpdateScript0.03.rpy:4219
 translate turkish htbydshoot_0f2352d6:
@@ -9430,13 +9430,13 @@ translate turkish htbydshoot_0f2352d6:
 translate turkish htbydshoot_5dbf032d_1:
 
     # R "How about we make that outfit even more sexy."
-    ""
+    R "Bu kıyafeti daha da seksi yapsak nasıl olur?"
 
 # game/UpdateScript0.03.rpy:4225
 translate turkish htbydshoot_e60e938d_1:
 
     # L "How do you mean?"
-    ""
+    L "Nasıl yani?"
 
 # game/UpdateScript0.03.rpy:4226
 translate turkish htbydshoot_5794991d:
@@ -9448,25 +9448,25 @@ translate turkish htbydshoot_5794991d:
 translate turkish htbydshoot_b6d8df34:
 
     # L "What? I'm not ready to show off my breasts yet."
-    ""
+    L "Ne? Henüz göğüslerimi göstermeye hazır değilim."
 
 # game/UpdateScript0.03.rpy:4234
 translate turkish htbydshoot_349ba586:
 
     # R "Well, you can cover them with your hands."
-    ""
+    R "Onları ellerinle kapatabilirsin."
 
 # game/UpdateScript0.03.rpy:4235
 translate turkish htbydshoot_e2a2abb8_1:
 
     # L "I'm a little uncomfortable with that."
-    ""
+    L "Bu beni biraz rahatsız ediyor."
 
 # game/UpdateScript0.03.rpy:4236
 translate turkish htbydshoot_1b977fe8_1:
 
     # R "Alright, but I know it will boost the likes on your profile like crazy!"
-    ""
+    R "Tamam, ama profilindeki beğenileri deli gibi artıracağını biliyorum!"
 
 # game/UpdateScript0.03.rpy:4237
 translate turkish htbydshoot_af74cc2a_1:
@@ -9496,7 +9496,7 @@ translate turkish htbydshoot_744c9729_2:
 translate turkish htbydshoot_51f5e4f5_2:
 
     # L "Uhhh.... I don't think that's a good idea. Isn't this sexy enough?.... I mean you can see a lot of skin."
-    ""
+    L "Uhhh.... Bunun iyi bir fikir olduğunu sanmıyorum. Bu yeterince seksi değil mi? .... Yani çok fazla açık yer görebilirsin."
 
 # game/UpdateScript0.03.rpy:4256
 translate turkish htbydshoot_3bcbe783_2:
@@ -9508,7 +9508,7 @@ translate turkish htbydshoot_3bcbe783_2:
 translate turkish htbydshoot_4bcb571a_2:
 
     # L "Further? How far are you trying to get me to go, you pervert?"
-    ""
+    L "Daha ileri mi? Beni ne kadar ileri götürmeye çalışıyorsun, seni sapık?"
 
 # game/UpdateScript0.03.rpy:4258
 translate turkish htbydshoot_d1f669ec:
@@ -9520,49 +9520,49 @@ translate turkish htbydshoot_d1f669ec:
 translate turkish htbydshoot_b6d8df34_1:
 
     # L "What? I'm not ready to show off my breasts yet."
-    ""
+    L "Ne? Henüz göğüslerimi göstermeye hazır değilim."
 
 # game/UpdateScript0.03.rpy:4260
 translate turkish htbydshoot_349ba586_1:
 
     # R "Well, you can cover them with your hands."
-    ""
+    R "Onları ellerinle kapatabilirsin."
 
 # game/UpdateScript0.03.rpy:4261
 translate turkish htbydshoot_401ab40d:
 
     # R "Plus, it will look fantastic in the pics."
-    ""
+    R "Ayrıca, fotoğraflarda harika görünecek."
 
 # game/UpdateScript0.03.rpy:4262
 translate turkish htbydshoot_42358ec8_2:
 
     # L "Yeah.... I don't think so. I'm going to get dressed and go home."
-    ""
+    L "Aynen.... Hiç sanmıyorum. Giyinip eve gideceğim."
 
 # game/UpdateScript0.03.rpy:4263
 translate turkish htbydshoot_f9fe282d:
 
     # "{i}\"Lauren Anger +2\"{/i}"
-    ""
+    "{i}\"Lauren'in kızgınlığı +2\"{/i}"
 
 # game/UpdateScript0.03.rpy:4265
 translate turkish htbydshoot_5541bdda_1:
 
     # "{i}\"Lauren Affection -1\"{/i}"
-    ""
+    "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4267
 translate turkish htbydshoot_375035b3_2:
 
     # L "We can try again next week if you're willing to be more professional."
-    ""
+    L "Daha profesyonel olmaya istekliysen gelecek hafta tekrar deneyebiliriz."
 
 # game/UpdateScript0.03.rpy:4270
 translate turkish htbydshoot_30106a6e:
 
     # "To get Lauren to take her bra off you must have her submission at 10 points or her libido at 10 points."
-    ""
+    "Lauren'in sütyenini çıkarmasını sağlamak için onun boyun eğmesini 10 puan ya da libidosunu 10 puan yapmalısınız."
 
 # game/UpdateScript0.03.rpy:4275
 translate turkish htbydshoot_27706357:
@@ -9586,13 +9586,13 @@ translate turkish htbydshoot_6f81b151:
 translate turkish htbydshoot_5dbf032d_2:
 
     # R "How about we make that outfit even more sexy."
-    ""
+    R "Bu kıyafeti daha da seksi yapsak nasıl olur?"
 
 # game/UpdateScript0.03.rpy:4282
 translate turkish htbydshoot_e60e938d_2:
 
     # L "How do you mean?"
-    ""
+    L "Nasıl yani?"
 
 # game/UpdateScript0.03.rpy:4283
 translate turkish htbydshoot_e01e71ea:
@@ -9604,25 +9604,25 @@ translate turkish htbydshoot_e01e71ea:
 translate turkish htbydshoot_b9ee6a7f:
 
     # L "What? I'm not letting you take pictures of my bare naked titties!"
-    ""
+    L "Ne? Çıplak memelerimin fotoğrafını çekmene izin vermiyorum!"
 
 # game/UpdateScript0.03.rpy:4287
 translate turkish htbydshoot_6d66227c:
 
     # R "It's not like I'm asking you to go full nude or anything."
-    ""
+    R "Senden tamamen çıplak olmanı falan istemiyorum."
 
 # game/UpdateScript0.03.rpy:4288
 translate turkish htbydshoot_e2a2abb8_2:
 
     # L "I'm a little uncomfortable with that."
-    ""
+    L "Bu beni biraz rahatsız ediyor."
 
 # game/UpdateScript0.03.rpy:4289
 translate turkish htbydshoot_1b977fe8_2:
 
     # R "Alright, but I know it will boost the likes on your profile like crazy!"
-    ""
+    R "Tamam, ama profilindeki beğenileri deli gibi artıracağını biliyorum!"
 
 # game/UpdateScript0.03.rpy:4290
 translate turkish htbydshoot_c7eb7e9c:
@@ -9652,7 +9652,7 @@ translate turkish htbydshoot_744c9729_3:
 translate turkish htbydshoot_51f5e4f5_3:
 
     # L "Uhhh.... I don't think that's a good idea. Isn't this sexy enough?.... I mean you can see a lot of skin."
-    ""
+    L "Uhhh.... Bunun iyi bir fikir olduğunu sanmıyorum. Bu yeterince seksi değil mi? .... Yani çok fazla açık yer görebilirsin."
 
 # game/UpdateScript0.03.rpy:4305
 translate turkish htbydshoot_3bcbe783_3:
@@ -9664,7 +9664,7 @@ translate turkish htbydshoot_3bcbe783_3:
 translate turkish htbydshoot_4bcb571a_3:
 
     # L "Further? How far are you trying to get me to go, you pervert?"
-    ""
+    L "Daha ileri mi? Beni ne kadar ileri götürmeye çalışıyorsun, seni sapık?"
 
 # game/UpdateScript0.03.rpy:4307
 translate turkish htbydshoot_438a7670:
@@ -9676,49 +9676,49 @@ translate turkish htbydshoot_438a7670:
 translate turkish htbydshoot_b9ee6a7f_1:
 
     # L "What? I'm not letting you take pictures of my bare naked titties!"
-    ""
+    L "Ne? Çıplak memelerimin fotoğrafını çekmene izin vermiyorum!"
 
 # game/UpdateScript0.03.rpy:4309
 translate turkish htbydshoot_6d66227c_1:
 
     # R "It's not like I'm asking you to go full nude or anything."
-    ""
+    R "Senden tamamen çıplak olmanı falan istemiyorum."
 
 # game/UpdateScript0.03.rpy:4310
 translate turkish htbydshoot_401ab40d_1:
 
     # R "Plus, it will look fantastic in the pics."
-    ""
+    R "Ayrıca, fotoğraflarda harika görünecek."
 
 # game/UpdateScript0.03.rpy:4311
 translate turkish htbydshoot_42358ec8_3:
 
     # L "Yeah.... I don't think so. I'm going to get dressed and go home."
-    ""
+    L "Aynen.... Hiç sanmıyorum. Giyinip eve gideceğim."
 
 # game/UpdateScript0.03.rpy:4312
 translate turkish htbydshoot_94579670:
 
     # "{i}\"Lauren Anger +3\"{/i}"
-    ""
+    "{i}\"Lauren'in kızgınlığı +3\"{/i}"
 
 # game/UpdateScript0.03.rpy:4314
 translate turkish htbydshoot_5541bdda_2:
 
     # "{i}\"Lauren Affection -1\"{/i}"
-    ""
+    "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4316
 translate turkish htbydshoot_375035b3_3:
 
     # L "We can try again next week if you're willing to be more professional."
-    ""
+    L "Daha profesyonel olmaya istekliysen gelecek hafta tekrar deneyebiliriz."
 
 # game/UpdateScript0.03.rpy:4319
 translate turkish htbydshoot_380a4c3d:
 
     # "To get Lauren to take her bra off and show off her tits, you must have her submission at 14 points."
-    ""
+    "Lauren'ın sütyenini çıkarıp meme uçlarını göstermesini sağlamak için 14 boyun eğme puanına sahip olmalısınız."
 
 # game/UpdateScript0.03.rpy:4324
 translate turkish htbydshoot_27706357_1:
@@ -9742,13 +9742,13 @@ translate turkish htbydshoot_6f81b151_1:
 translate turkish htbydshoot_5dbf032d_3:
 
     # R "How about we make that outfit even more sexy."
-    ""
+    R "Bu kıyafeti daha da seksi yapsak nasıl olur?"
 
 # game/UpdateScript0.03.rpy:4331
 translate turkish htbydshoot_e60e938d_3:
 
     # L "How do you mean?"
-    ""
+    L "Nasıl yani?"
 
 # game/UpdateScript0.03.rpy:4332
 translate turkish htbydshoot_22d70a11:
@@ -9760,13 +9760,13 @@ translate turkish htbydshoot_22d70a11:
 translate turkish htbydshoot_f48b4bc5:
 
     # L "What? I'm not completely stripping to nothing for you!"
-    ""
+    L "Ne? Senin için tamamen soyunmayacağım!"
 
 # game/UpdateScript0.03.rpy:4336
 translate turkish htbydshoot_e9e78a4e:
 
     # R "You won't be completely naked, you will still wear all of your accessories."
-    ""
+    R "Tamamen çıplak olmayacaksın, yine de tüm aksesuarlarını takacaksın."
 
 # game/UpdateScript0.03.rpy:4337
 translate turkish htbydshoot_5301ab4f:
@@ -9778,7 +9778,7 @@ translate turkish htbydshoot_5301ab4f:
 translate turkish htbydshoot_e0fe2f4d:
 
     # R "Alright, your call, but I know it will boost the likes on your profile like crazy!"
-    ""
+    R "Tamam, karar senin, ama bunun profilindeki beğenileri deli gibi artıracağını biliyorum!"
 
 # game/UpdateScript0.03.rpy:4339
 translate turkish htbydshoot_c7eb7e9c_1:
@@ -9808,7 +9808,7 @@ translate turkish htbydshoot_744c9729_4:
 translate turkish htbydshoot_51f5e4f5_4:
 
     # L "Uhhh.... I don't think that's a good idea. Isn't this sexy enough?.... I mean you can see a lot of skin."
-    ""
+    L "Uhhh.... Bunun iyi bir fikir olduğunu sanmıyorum. Bu yeterince seksi değil mi? .... Yani çok fazla açık yer görebilirsin."
 
 # game/UpdateScript0.03.rpy:4354
 translate turkish htbydshoot_3bcbe783_4:
@@ -9820,7 +9820,7 @@ translate turkish htbydshoot_3bcbe783_4:
 translate turkish htbydshoot_4bcb571a_4:
 
     # L "Further? How far are you trying to get me to go, you pervert?"
-    ""
+    L "Daha ileri mi? Beni ne kadar ileri götürmeye çalışıyorsun, seni sapık?"
 
 # game/UpdateScript0.03.rpy:4356
 translate turkish htbydshoot_7a90dddc:
@@ -9832,49 +9832,49 @@ translate turkish htbydshoot_7a90dddc:
 translate turkish htbydshoot_f48b4bc5_1:
 
     # L "What? I'm not completely stripping to nothing for you!"
-    ""
+    L "Ne? Senin için tamamen soyunmayacağım!"
 
 # game/UpdateScript0.03.rpy:4358
 translate turkish htbydshoot_e9e78a4e_1:
 
     # R "You won't be completely naked, you will still wear all of your accessories."
-    ""
+    R "Tamamen çıplak olmayacaksın, yine de tüm aksesuarlarını takacaksın."
 
 # game/UpdateScript0.03.rpy:4359
 translate turkish htbydshoot_401ab40d_2:
 
     # R "Plus, it will look fantastic in the pics."
-    ""
+    R "Ayrıca, fotoğraflarda harika görünecek."
 
 # game/UpdateScript0.03.rpy:4360
 translate turkish htbydshoot_42358ec8_4:
 
     # L "Yeah.... I don't think so. I'm going to get dressed and go home."
-    ""
+    L "Aynen.... Hiç sanmıyorum. Giyinip eve gideceğim."
 
 # game/UpdateScript0.03.rpy:4361
 translate turkish htbydshoot_6210cab1:
 
     # "{i}\"Lauren Anger +4\"{/i}"
-    ""
+    "{i}\"Lauren'in kızgınlığı +4\"{/i}"
 
 # game/UpdateScript0.03.rpy:4363
 translate turkish htbydshoot_5541bdda_3:
 
     # "{i}\"Lauren Affection -1\"{/i}"
-    ""
+    "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4365
 translate turkish htbydshoot_375035b3_4:
 
     # L "We can try again next week if you're willing to be more professional."
-    ""
+    L "Daha profesyonel olmaya istekliysen gelecek hafta tekrar deneyebiliriz."
 
 # game/UpdateScript0.03.rpy:4368
 translate turkish htbydshoot_c77833a7:
 
     # "To get Lauren to take everything off you must have her submission at 19 points."
-    ""
+    "Lauren'in her şeyini çıkarmasını sağlamak için 19 boyun eğme puanına ulaşmalısın."
 
 # game/UpdateScript0.03.rpy:4373
 translate turkish htbydshoot_27706357_2:
@@ -9898,13 +9898,13 @@ translate turkish htbydshoot_6f81b151_2:
 translate turkish htbydshoot_e51ecde2:
 
     # R "Ok, how bout we take this shoot to a whole different level."
-    ""
+    R "Pekâlâ, bu çekimi bambaşka bir seviyeye taşımaya ne dersin?"
 
 # game/UpdateScript0.03.rpy:4380
 translate turkish htbydshoot_e60e938d_4:
 
     # L "How do you mean?"
-    ""
+    L "Nasıl yani?"
 
 # game/UpdateScript0.03.rpy:4381
 translate turkish htbydshoot_9761dbcc:
@@ -9928,7 +9928,7 @@ translate turkish htbydshoot_2ab6ad1b:
 translate turkish htbydshoot_1640bf81:
 
     # L "What? I'm not showing off my coochie for you!"
-    ""
+    L "Ne? Senin için vajinamı göstermeyeceğim!"
 
 # game/UpdateScript0.03.rpy:4387
 translate turkish htbydshoot_aba584b3:
@@ -9982,13 +9982,13 @@ translate turkish htbydshoot_316668ef_4:
 translate turkish htbydshoot_e51ecde2_1:
 
     # R "Ok, how bout we take this shoot to a whole different level."
-    ""
+    R "Pekâlâ, bu çekimi bambaşka bir seviyeye taşımaya ne dersin?"
 
 # game/UpdateScript0.03.rpy:4406
 translate turkish htbydshoot_99481a82:
 
     # L "Uhhh.... what do you mean? Isn't this sexy enough?.... I mean you can see a lot of skin."
-    ""
+    L "Uhhh.... ne demek istiyorsun? Bu yeterince seksi değil mi?.... Yani çok fazla açık yer görebilirsin."
 
 # game/UpdateScript0.03.rpy:4407
 translate turkish htbydshoot_3bcbe783_5:
@@ -10000,43 +10000,43 @@ translate turkish htbydshoot_3bcbe783_5:
 translate turkish htbydshoot_4bcb571a_5:
 
     # L "Further? How far are you trying to get me to go, you pervert?"
-    ""
+    L "Daha ileri mi? Beni ne kadar ileri götürmeye çalışıyorsun, seni sapık?"
 
 # game/UpdateScript0.03.rpy:4409
 translate turkish htbydshoot_7984fc35:
 
     # R "Let's get some close-ups of between your legs."
-    ""
+    R "Bacaklarının arasını biraz yakından çekelim."
 
 # game/UpdateScript0.03.rpy:4410
 translate turkish htbydshoot_1640bf81_1:
 
     # L "What? I'm not showing off my coochie for you!"
-    ""
+    L "Ne? Senin için vajinamı göstermeyeceğim!"
 
 # game/UpdateScript0.03.rpy:4411
 translate turkish htbydshoot_16c2612a:
 
     # R "That's what your fans have been asking for in the comments section."
-    ""
+    R "Hayranlarının yorumlar bölümünde istediği de buydu."
 
 # game/UpdateScript0.03.rpy:4412
 translate turkish htbydshoot_31240bed:
 
     # R "I'm just trying to give the people what they want so we can get the most likes possible."
-    ""
+    R "Ben sadece insanlara istediklerini vermeye çalışıyorum ki mümkün olan en fazla beğeniyi alabilelim."
 
 # game/UpdateScript0.03.rpy:4413
 translate turkish htbydshoot_c74bd65a:
 
     # L "Yeah.... I don't think so, and fuck you! I'm going to get dressed and go home."
-    ""
+    L "Aynen.... Hiç sanmıyorum ve siktir git! Giyinip eve gideceğim."
 
 # game/UpdateScript0.03.rpy:4414
 translate turkish htbydshoot_357c0099:
 
     # "{i}\"Lauren Anger +10\"{/i}"
-    ""
+    "{i}\"Lauren'in kızgınlığı +10\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4416
 translate turkish htbydshoot_1c9f8e4a:
@@ -10048,49 +10048,49 @@ translate turkish htbydshoot_1c9f8e4a:
 translate turkish htbydshoot_5a4211b0:
 
     # L "You better stop acting like an asshole if you want me to come again next week."
-    ""
+    L "Haftaya tekrar gelmemi istiyorsan pislik gibi davranmayı bıraksan iyi edersin."
 
 # game/UpdateScript0.03.rpy:4421
 translate turkish htbydshoot_ab8b9b94:
 
     # "To get Lauren to take explicit photos, submission must be at 25 points."
-    ""
+    "Lauren'in müstehcen fotoğraflar çekmesi için sevginin 25 puan olması gerekiyor."
 
 # game/UpdateScript0.03.rpy:4425
 translate turkish htbydshoot_e4287853:
 
     # R "I think we've got all the pics we need for now."
-    ""
+    R "Sanırım şimdilik ihtiyacımız olan tüm fotoğrafları çektik."
 
 # game/UpdateScript0.03.rpy:4426
 translate turkish htbydshoot_067712df:
 
     # L "Really? We haven't taken that many."
-    ""
+    L "Gerçekten mi? O kadar çok yapmadık sanki."
 
 # game/UpdateScript0.03.rpy:4427
 translate turkish htbydshoot_14afbb3f:
 
     # R "Yeah, but the ones we have are really good, and the only way they could be better, is if I pushed you to do something you might not be comfortable with."
-    ""
+    R "Evet, ama elimizdekiler gerçekten iyi ve daha iyi olmalarının tek yolu, sizi rahat edemeyeceğin bir şey yapmaya zorlamam."
 
 # game/UpdateScript0.03.rpy:4428
 translate turkish htbydshoot_1953bb52:
 
     # L "Oh, [ryan]! You're such a professional."
-    ""
+    L "Oh, [ryan]! Tam bir profesyonelsin."
 
 # game/UpdateScript0.03.rpy:4429
 translate turkish htbydshoot_7c5f1068:
 
     # L "And I really enjoyed the shoot!"
-    ""
+    L "Ve çekimden gerçekten keyif aldım!"
 
 # game/UpdateScript0.03.rpy:4430
 translate turkish htbydshoot_65e00cb0:
 
     # L "And showing some skin was kind of exciting!"
-    ""
+    L "Ve vücudumu biraz göstermek heyecan vericiydi!"
 
 # game/UpdateScript0.03.rpy:4432
 translate turkish htbydshoot_32f0afae:
@@ -10108,67 +10108,67 @@ translate turkish htbydshoot_05947e83:
 translate turkish htbydshoot_c023ab9a:
 
     # L "I can't wait for the next photoshoot."
-    ""
+    L "Bir sonraki fotoğraf çekimi için sabırsızlanıyorum."
 
 # game/UpdateScript0.03.rpy:4437
 translate turkish htbydshoot_3f123fa1:
 
     # L "I might be even more daring, and be willing to show a little more skin.... hahah..."
-    ""
+    L "Daha da cesur olabilirim ve biraz daha fazla vücut göstermeye istekli olabilirim.... hahah..."
 
 # game/UpdateScript0.03.rpy:4438
 translate turkish htbydshoot_4fe4a74d:
 
     # R "Great! I can't wait either."
-    ""
+    R "Harika! Ben de sabırsızlanıyorum."
 
 # game/UpdateScript0.03.rpy:4439
 translate turkish htbydshoot_d08e987e:
 
     # R "You can get dressed and I'll see you back home."
-    ""
+    R "Giyinebilirsin, eve dönünce görüşürüz."
 
 # game/UpdateScript0.03.rpy:4444
 translate turkish removeskirt_5dbf032d:
 
     # R "How about we make that outfit even more sexy."
-    ""
+    R "Bu kıyafeti daha da seksi yapsak nasıl olur?"
 
 # game/UpdateScript0.03.rpy:4445
 translate turkish removeskirt_e60e938d:
 
     # L "How do you mean?"
-    ""
+    L "Nasıl yani?"
 
 # game/UpdateScript0.03.rpy:4446
 translate turkish removeskirt_efae0d4b:
 
     # R "Let's take off that skirt so we can see just a little more skin."
-    ""
+    R "Şu eteği çıkar da biraz daha vücudunu görelim."
 
 # game/UpdateScript0.03.rpy:4453
 translate turkish removeskirt_5dbde3e8:
 
     # L "Uhhh.... but all I have on is a buckskin thong underneath."
-    ""
+    L "Uhhh.... ama üzerimdeki tek şey geyik derili tanga."
 
 # game/UpdateScript0.03.rpy:4454
 translate turkish removeskirt_2065f14b:
 
     # R "That will make some super sexy pictures."
-    ""
+    R "Çok seksi fotoğraflar olacak."
 
 # game/UpdateScript0.03.rpy:4455
 translate turkish removeskirt_e2a2abb8:
 
     # L "I'm a little uncomfortable with that."
-    ""
+    L "Bu beni biraz rahatsız ediyor."
 
 # game/UpdateScript0.03.rpy:4456
 translate turkish removeskirt_29286b17:
 
     # R "Don't worry, we'll start out with just a side pic, so the thong won't reveal too much."
-    ""
+    R "Merak etme, sadece yandan bir fotoğrafla başlayacağız, böylece tanga çok fazla görünmeyecek."
 
 # game/UpdateScript0.03.rpy:4457
 translate turkish removeskirt_65fad6ed:
@@ -10186,7 +10186,7 @@ translate turkish removeskirt_c335f1dc:
 translate turkish removeskirt_dbbab13a:
 
     # R "And get rid of that axe and shield while you're at it. We shouldn't need those any more."
-    ""
+    R "Hazır başlamışken şu balta ve kalkandan da kurtul. Artık onlara ihtiyacımız yok."
 
 # game/UpdateScript0.03.rpy:4462
 translate turkish removeskirt_316668ef:
@@ -10198,25 +10198,25 @@ translate turkish removeskirt_316668ef:
 translate turkish removeskirt_befde752:
 
     # L "Is this kind of what you were thinking?"
-    ""
+    L "Düşündüğün şey bu muydu?"
 
 # game/UpdateScript0.03.rpy:4472
 translate turkish removeskirt_2757e2fe:
 
     # R "Once again, your posing talent amazes me."
-    ""
+    R "Bir kez daha, poz verme yeteneğin beni şaşırtıyor."
 
 # game/UpdateScript0.03.rpy:4473
 translate turkish removeskirt_103363f7:
 
     # L "Are you just trying to butter me up?"
-    ""
+    L "Bana yağ çekmeye mi çalışıyorsun?"
 
 # game/UpdateScript0.03.rpy:4474
 translate turkish removeskirt_e95fa148:
 
     # R "Seriously, you look incredible."
-    ""
+    R "Cidden inanılmaz görünüyorsun."
 
 # game/UpdateScript0.03.rpy:4476
 translate turkish removeskirt_64e7b164:
@@ -10228,73 +10228,73 @@ translate turkish removeskirt_64e7b164:
 translate turkish removeskirt_be95a5c5:
 
     # R "Ok, just hold that pose."
-    ""
+    R "Tamam, sadece bu pozu koru."
 
 # game/UpdateScript0.03.rpy:4483
 translate turkish removeskirt_b781df91:
 
     # L "Hurry, it's making my legs tired."
-    ""
+    L "Acele et, bacaklarımı yoruyor."
 
 # game/UpdateScript0.03.rpy:4491
 translate turkish removeskirt_912f04ac:
 
     # R "That shot will turn out great too."
-    ""
+    R "Bu fotoğraf da harika olacak."
 
 # game/UpdateScript0.03.rpy:4493
 translate turkish removeskirt_40b5f91d:
 
     # R "I'll make sure to add a background to this one later."
-    ""
+    R "Buna daha sonra bir arka plan ekleyeceğimden emin olabilirsin."
 
 # game/UpdateScript0.03.rpy:4505
 translate turkish removeskirt_0ea5c117:
 
     # R "You're looking great!"
-    ""
+    R "Harika görünüyorsun!"
 
 # game/UpdateScript0.03.rpy:4506
 translate turkish removeskirt_594e0ea2:
 
     # RT "{i}Should I go on?{/i}"
-    ""
+    RT "{i}Devamke?{/i}"
 
 # game/UpdateScript0.03.rpy:4510
 translate turkish removeskirt_ed2d2668:
 
     # R "Let's see what we can do to that outfit to sexy it up even more."
-    ""
+    R "Bakalım bu kıyafeti daha da seksi hale getirmek için ne yapabiliriz?"
 
 # game/UpdateScript0.03.rpy:4511
 translate turkish removeskirt_e60e938d_1:
 
     # L "How do you mean?"
-    ""
+    L "Nasıl yani?"
 
 # game/UpdateScript0.03.rpy:4512
 translate turkish removeskirt_35bfda16:
 
     # R "Let's show off that thong from behind."
-    ""
+    R "Hadi şu tangayı arkadan görelim."
 
 # game/UpdateScript0.03.rpy:4519
 translate turkish removeskirt_1b9da2fa:
 
     # L "But that thong leaves so little to the imagination!"
-    ""
+    L "Ama o tanga hayal gücüne çok az şey bırakıyor!"
 
 # game/UpdateScript0.03.rpy:4520
 translate turkish removeskirt_217a7d37:
 
     # R "True, but it still does leave some things to the imagination."
-    ""
+    R "Doğru, ama yine de bazı şeyleri hayal gücüne bırakıyor."
 
 # game/UpdateScript0.03.rpy:4521
 translate turkish removeskirt_e2a2abb8_1:
 
     # L "I'm a little uncomfortable with that."
-    ""
+    L "Bu beni biraz rahatsız ediyor."
 
 # game/UpdateScript0.03.rpy:4522
 translate turkish removeskirt_44ef9698:
@@ -10324,13 +10324,13 @@ translate turkish removeskirt_316668ef_1:
 translate turkish removeskirt_6f3509dd:
 
     # R "Ok, let's see what we can do to that outfit to sexy it up even more."
-    ""
+    R "Tamam, bakalım bu kıyafeti daha da seksi hale getirmek için ne yapabiliriz."
 
 # game/UpdateScript0.03.rpy:4537
 translate turkish removeskirt_51f5e4f5:
 
     # L "Uhhh.... I don't think that's a good idea. Isn't this sexy enough?.... I mean you can see a lot of skin."
-    ""
+    L "Uhhh.... Bunun iyi bir fikir olduğunu sanmıyorum. Bu yeterince seksi değil mi? .... Yani çok fazla açık yer görebilirsin."
 
 # game/UpdateScript0.03.rpy:4538
 translate turkish removeskirt_3bcbe783:
@@ -10342,31 +10342,31 @@ translate turkish removeskirt_3bcbe783:
 translate turkish removeskirt_4bcb571a:
 
     # L "Further? How far are you trying to get me to go, you pervert?"
-    ""
+    L "Daha ileri mi? Beni ne kadar ileri götürmeye çalışıyorsun, seni sapık?"
 
 # game/UpdateScript0.03.rpy:4540
 translate turkish removeskirt_35bfda16_1:
 
     # R "Let's show off that thong from behind."
-    ""
+    R "Hadi şu tangayı arkadan görelim."
 
 # game/UpdateScript0.03.rpy:4541
 translate turkish removeskirt_1b9da2fa_1:
 
     # L "But that thong leaves so little to the imagination!"
-    ""
+    L "Ama o tanga hayal gücüne çok az şey bırakıyor!"
 
 # game/UpdateScript0.03.rpy:4542
 translate turkish removeskirt_59ec300d:
 
     # R "Yeah, it will look fantastic in the pics."
-    ""
+    R "Evet, resimlerde harika görünecek."
 
 # game/UpdateScript0.03.rpy:4543
 translate turkish removeskirt_42358ec8:
 
     # L "Yeah.... I don't think so. I'm going to get dressed and go home."
-    ""
+    L "Aynen.... Hiç sanmıyorum. Giyinip eve gideceğim."
 
 # game/UpdateScript0.03.rpy:4544
 translate turkish removeskirt_c40e9816:
@@ -10378,13 +10378,13 @@ translate turkish removeskirt_c40e9816:
 translate turkish removeskirt_5541bdda:
 
     # "{i}\"Lauren Affection -1\"{/i}"
-    ""
+    "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4548
 translate turkish removeskirt_375035b3:
 
     # L "We can try again next week if you're willing to be more professional."
-    ""
+    L "Daha profesyonel olmaya istekliysen gelecek hafta tekrar deneyebiliriz."
 
 # game/UpdateScript0.03.rpy:4551
 translate turkish removeskirt_0f2352d6:
@@ -10396,37 +10396,37 @@ translate turkish removeskirt_0f2352d6:
 translate turkish removeskirt_ed2d2668_1:
 
     # R "Let's see what we can do to that outfit to sexy it up even more."
-    ""
+    R "Bakalım bu kıyafeti daha da seksi hale getirmek için ne yapabiliriz?"
 
 # game/UpdateScript0.03.rpy:4557
 translate turkish removeskirt_e60e938d_2:
 
     # L "How do you mean?"
-    ""
+    L "Nasıl yani?"
 
 # game/UpdateScript0.03.rpy:4558
 translate turkish removeskirt_9623ca8d:
 
     # R "Let's get rid of the buckskin bra."
-    ""
+    R "Hadi şu sütyenden kurtulalım."
 
 # game/UpdateScript0.03.rpy:4565
 translate turkish removeskirt_b6d8df34:
 
     # L "What? I'm not ready to show off my breasts yet."
-    ""
+    L "Ne? Henüz göğüslerimi göstermeye hazır değilim."
 
 # game/UpdateScript0.03.rpy:4566
 translate turkish removeskirt_349ba586:
 
     # R "Well, you can cover them with your hands."
-    ""
+    R "Onları ellerinle kapatabilirsin."
 
 # game/UpdateScript0.03.rpy:4567
 translate turkish removeskirt_e2a2abb8_2:
 
     # L "I'm a little uncomfortable with that."
-    ""
+    L "Bu beni biraz rahatsız ediyor."
 
 # game/UpdateScript0.03.rpy:4568
 translate turkish removeskirt_44ef9698_1:
@@ -10456,13 +10456,13 @@ translate turkish removeskirt_316668ef_2:
 translate turkish removeskirt_6f3509dd_1:
 
     # R "Ok, let's see what we can do to that outfit to sexy it up even more."
-    ""
+    R "Tamam, bakalım bu kıyafeti daha da seksi hale getirmek için ne yapabiliriz."
 
 # game/UpdateScript0.03.rpy:4587
 translate turkish removeskirt_51f5e4f5_1:
 
     # L "Uhhh.... I don't think that's a good idea. Isn't this sexy enough?.... I mean you can see a lot of skin."
-    ""
+    L "Uhhh.... Bunun iyi bir fikir olduğunu sanmıyorum. Bu yeterince seksi değil mi? .... Yani çok fazla açık yer görebilirsin."
 
 # game/UpdateScript0.03.rpy:4588
 translate turkish removeskirt_3bcbe783_1:
@@ -10474,61 +10474,61 @@ translate turkish removeskirt_3bcbe783_1:
 translate turkish removeskirt_4bcb571a_1:
 
     # L "Further? How far are you trying to get me to go, you pervert?"
-    ""
+    L "Daha ileri mi? Beni ne kadar ileri götürmeye çalışıyorsun, seni sapık?"
 
 # game/UpdateScript0.03.rpy:4590
 translate turkish removeskirt_9623ca8d_1:
 
     # R "Let's get rid of the buckskin bra."
-    ""
+    R "Hadi şu sütyenden kurtulalım."
 
 # game/UpdateScript0.03.rpy:4591
 translate turkish removeskirt_b6d8df34_1:
 
     # L "What? I'm not ready to show off my breasts yet."
-    ""
+    L "Ne? Henüz göğüslerimi göstermeye hazır değilim."
 
 # game/UpdateScript0.03.rpy:4592
 translate turkish removeskirt_349ba586_1:
 
     # R "Well, you can cover them with your hands."
-    ""
+    R "Onları ellerinle kapatabilirsin."
 
 # game/UpdateScript0.03.rpy:4593
 translate turkish removeskirt_401ab40d:
 
     # R "Plus, it will look fantastic in the pics."
-    ""
+    R "Ayrıca, fotoğraflarda harika görünecek."
 
 # game/UpdateScript0.03.rpy:4594
 translate turkish removeskirt_42358ec8_1:
 
     # L "Yeah.... I don't think so. I'm going to get dressed and go home."
-    ""
+    L "Aynen.... Hiç sanmıyorum. Giyinip eve gideceğim."
 
 # game/UpdateScript0.03.rpy:4595
 translate turkish removeskirt_f9fe282d:
 
     # "{i}\"Lauren Anger +2\"{/i}"
-    ""
+    "{i}\"Lauren'in kızgınlığı +2\"{/i}"
 
 # game/UpdateScript0.03.rpy:4597
 translate turkish removeskirt_5541bdda_1:
 
     # "{i}\"Lauren Affection -1\"{/i}"
-    ""
+    "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4599
 translate turkish removeskirt_375035b3_1:
 
     # L "We can try again next week if you're willing to be more professional."
-    ""
+    L "Daha profesyonel olmaya istekliysen gelecek hafta tekrar deneyebiliriz."
 
 # game/UpdateScript0.03.rpy:4602
 translate turkish removeskirt_30106a6e:
 
     # "To get Lauren to take her bra off you must have her submission at 10 points or her libido at 10 points."
-    ""
+    "Lauren'in sütyenini çıkarmasını sağlamak için onun boyun eğmesini 10 puan ya da libidosunu 10 puan yapmalısınız."
 
 # game/UpdateScript0.03.rpy:4607
 translate turkish removeskirt_27706357:
@@ -10552,13 +10552,13 @@ translate turkish removeskirt_6f81b151:
 translate turkish removeskirt_ed2d2668_2:
 
     # R "Let's see what we can do to that outfit to sexy it up even more."
-    ""
+    R "Bakalım bu kıyafeti daha da seksi hale getirmek için ne yapabiliriz?"
 
 # game/UpdateScript0.03.rpy:4614
 translate turkish removeskirt_e60e938d_3:
 
     # L "How do you mean?"
-    ""
+    L "Nasıl yani?"
 
 # game/UpdateScript0.03.rpy:4615
 translate turkish removeskirt_63903a4e:
@@ -10570,19 +10570,19 @@ translate turkish removeskirt_63903a4e:
 translate turkish removeskirt_b9ee6a7f:
 
     # L "What? I'm not letting you take pictures of my bare naked titties!"
-    ""
+    L "Ne? Çıplak memelerimin fotoğrafını çekmene izin vermiyorum!"
 
 # game/UpdateScript0.03.rpy:4619
 translate turkish removeskirt_6d66227c:
 
     # R "It's not like I'm asking you to go full nude or anything."
-    ""
+    R "Senden tamamen çıplak olmanı falan istemiyorum."
 
 # game/UpdateScript0.03.rpy:4620
 translate turkish removeskirt_e2a2abb8_3:
 
     # L "I'm a little uncomfortable with that."
-    ""
+    L "Bu beni biraz rahatsız ediyor."
 
 # game/UpdateScript0.03.rpy:4621
 translate turkish removeskirt_44ef9698_2:
@@ -10612,13 +10612,13 @@ translate turkish removeskirt_316668ef_3:
 translate turkish removeskirt_6f3509dd_2:
 
     # R "Ok, let's see what we can do to that outfit to sexy it up even more."
-    ""
+    R "Tamam, bakalım bu kıyafeti daha da seksi hale getirmek için ne yapabiliriz."
 
 # game/UpdateScript0.03.rpy:4636
 translate turkish removeskirt_51f5e4f5_2:
 
     # L "Uhhh.... I don't think that's a good idea. Isn't this sexy enough?.... I mean you can see a lot of skin."
-    ""
+    L "Uhhh.... Bunun iyi bir fikir olduğunu sanmıyorum. Bu yeterince seksi değil mi? .... Yani çok fazla açık yer görebilirsin."
 
 # game/UpdateScript0.03.rpy:4637
 translate turkish removeskirt_3bcbe783_2:
@@ -10630,61 +10630,61 @@ translate turkish removeskirt_3bcbe783_2:
 translate turkish removeskirt_4bcb571a_2:
 
     # L "Further? How far are you trying to get me to go, you pervert?"
-    ""
+    L "Daha ileri mi? Beni ne kadar ileri götürmeye çalışıyorsun, seni sapık?"
 
 # game/UpdateScript0.03.rpy:4639
 translate turkish removeskirt_556bbfb4:
 
     # R "Let's get some nice pics of them titties."
-    ""
+    R "Şu meme uçlarının güzel fotoğraflarını çekelim."
 
 # game/UpdateScript0.03.rpy:4640
 translate turkish removeskirt_b9ee6a7f_1:
 
     # L "What? I'm not letting you take pictures of my bare naked titties!"
-    ""
+    L "Ne? Çıplak memelerimin fotoğrafını çekmene izin vermiyorum!"
 
 # game/UpdateScript0.03.rpy:4641
 translate turkish removeskirt_6d66227c_1:
 
     # R "It's not like I'm asking you to go full nude or anything."
-    ""
+    R "Senden tamamen çıplak olmanı falan istemiyorum."
 
 # game/UpdateScript0.03.rpy:4642
 translate turkish removeskirt_401ab40d_1:
 
     # R "Plus, it will look fantastic in the pics."
-    ""
+    R "Ayrıca, fotoğraflarda harika görünecek."
 
 # game/UpdateScript0.03.rpy:4643
 translate turkish removeskirt_42358ec8_2:
 
     # L "Yeah.... I don't think so. I'm going to get dressed and go home."
-    ""
+    L "Aynen.... Hiç sanmıyorum. Giyinip eve gideceğim."
 
 # game/UpdateScript0.03.rpy:4644
 translate turkish removeskirt_94579670:
 
     # "{i}\"Lauren Anger +3\"{/i}"
-    ""
+    "{i}\"Lauren'in kızgınlığı +3\"{/i}"
 
 # game/UpdateScript0.03.rpy:4646
 translate turkish removeskirt_5541bdda_2:
 
     # "{i}\"Lauren Affection -1\"{/i}"
-    ""
+    "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4648
 translate turkish removeskirt_375035b3_2:
 
     # L "We can try again next week if you're willing to be more professional."
-    ""
+    L "Daha profesyonel olmaya istekliysen gelecek hafta tekrar deneyebiliriz."
 
 # game/UpdateScript0.03.rpy:4651
 translate turkish removeskirt_380a4c3d:
 
     # "To get Lauren to take her bra off and show off her tits, you must have her submission at 14 points."
-    ""
+    "Lauren'ın sütyenini çıkarıp meme uçlarını göstermesini sağlamak için 14 boyun eğme puanına sahip olmalısınız."
 
 # game/UpdateScript0.03.rpy:4656
 translate turkish removeskirt_27706357_1:
@@ -10708,13 +10708,13 @@ translate turkish removeskirt_6f81b151_1:
 translate turkish removeskirt_ed2d2668_3:
 
     # R "Let's see what we can do to that outfit to sexy it up even more."
-    ""
+    R "Bakalım bu kıyafeti daha da seksi hale getirmek için ne yapabiliriz?"
 
 # game/UpdateScript0.03.rpy:4663
 translate turkish removeskirt_e60e938d_4:
 
     # L "How do you mean?"
-    ""
+    L "Nasıl yani?"
 
 # game/UpdateScript0.03.rpy:4664
 translate turkish removeskirt_a27d143e:
@@ -10726,13 +10726,13 @@ translate turkish removeskirt_a27d143e:
 translate turkish removeskirt_f48b4bc5:
 
     # L "What? I'm not completely stripping to nothing for you!"
-    ""
+    L "Ne? Senin için tamamen soyunmayacağım!"
 
 # game/UpdateScript0.03.rpy:4668
 translate turkish removeskirt_e9e78a4e:
 
     # R "You won't be completely naked, you will still wear all of your accessories."
-    ""
+    R "Tamamen çıplak olmayacaksın, yine de tüm aksesuarlarını takacaksın."
 
 # game/UpdateScript0.03.rpy:4669
 translate turkish removeskirt_5301ab4f:
@@ -10768,13 +10768,13 @@ translate turkish removeskirt_316668ef_4:
 translate turkish removeskirt_6f3509dd_3:
 
     # R "Ok, let's see what we can do to that outfit to sexy it up even more."
-    ""
+    R "Tamam, bakalım bu kıyafeti daha da seksi hale getirmek için ne yapabiliriz."
 
 # game/UpdateScript0.03.rpy:4685
 translate turkish removeskirt_51f5e4f5_3:
 
     # L "Uhhh.... I don't think that's a good idea. Isn't this sexy enough?.... I mean you can see a lot of skin."
-    ""
+    L "Uhhh.... Bunun iyi bir fikir olduğunu sanmıyorum. Bu yeterince seksi değil mi? .... Yani çok fazla açık yer görebilirsin."
 
 # game/UpdateScript0.03.rpy:4686
 translate turkish removeskirt_3bcbe783_3:
@@ -10786,61 +10786,61 @@ translate turkish removeskirt_3bcbe783_3:
 translate turkish removeskirt_4bcb571a_3:
 
     # L "Further? How far are you trying to get me to go, you pervert?"
-    ""
+    L "Daha ileri mi? Beni ne kadar ileri götürmeye çalışıyorsun, seni sapık?"
 
 # game/UpdateScript0.03.rpy:4688
 translate turkish removeskirt_287f9ad2:
 
     # R "Let's shoot the rest in the nude."
-    ""
+    R "Geri kalanını çıplak çekelim."
 
 # game/UpdateScript0.03.rpy:4689
 translate turkish removeskirt_f48b4bc5_1:
 
     # L "What? I'm not completely stripping to nothing for you!"
-    ""
+    L "Ne? Senin için tamamen soyunmayacağım!"
 
 # game/UpdateScript0.03.rpy:4690
 translate turkish removeskirt_e9e78a4e_1:
 
     # R "You won't be completely naked, you will still wear all of your accessories."
-    ""
+    R "Tamamen çıplak olmayacaksın, yine de tüm aksesuarlarını takacaksın."
 
 # game/UpdateScript0.03.rpy:4691
 translate turkish removeskirt_401ab40d_2:
 
     # R "Plus, it will look fantastic in the pics."
-    ""
+    R "Ayrıca, fotoğraflarda harika görünecek."
 
 # game/UpdateScript0.03.rpy:4692
 translate turkish removeskirt_42358ec8_3:
 
     # L "Yeah.... I don't think so. I'm going to get dressed and go home."
-    ""
+    L "Aynen.... Hiç sanmıyorum. Giyinip eve gideceğim."
 
 # game/UpdateScript0.03.rpy:4693
 translate turkish removeskirt_6210cab1:
 
     # "{i}\"Lauren Anger +4\"{/i}"
-    ""
+    "{i}\"Lauren'in kızgınlığı +4\"{/i}"
 
 # game/UpdateScript0.03.rpy:4695
 translate turkish removeskirt_5541bdda_3:
 
     # "{i}\"Lauren Affection -1\"{/i}"
-    ""
+    "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4697
 translate turkish removeskirt_375035b3_3:
 
     # L "We can try again next week if you're willing to be more professional."
-    ""
+    L "Daha profesyonel olmaya istekliysen gelecek hafta tekrar deneyebiliriz."
 
 # game/UpdateScript0.03.rpy:4700
 translate turkish removeskirt_c77833a7:
 
     # "To get Lauren to take everything off you must have her submission at 19 points."
-    ""
+    "Lauren'in her şeyini çıkarmasını sağlamak için 19 boyun eğme puanına ulaşmalısın."
 
 # game/UpdateScript0.03.rpy:4705
 translate turkish removeskirt_27706357_2:
@@ -10864,13 +10864,13 @@ translate turkish removeskirt_6f81b151_2:
 translate turkish removeskirt_e51ecde2:
 
     # R "Ok, how bout we take this shoot to a whole different level."
-    ""
+    R "Pekâlâ, bu çekimi bambaşka bir seviyeye taşımaya ne dersin?"
 
 # game/UpdateScript0.03.rpy:4712
 translate turkish removeskirt_e60e938d_5:
 
     # L "How do you mean?"
-    ""
+    L "Nasıl yani?"
 
 # game/UpdateScript0.03.rpy:4713
 translate turkish removeskirt_9761dbcc:
@@ -10894,7 +10894,7 @@ translate turkish removeskirt_2ab6ad1b:
 translate turkish removeskirt_1640bf81:
 
     # L "What? I'm not showing off my coochie for you!"
-    ""
+    L "Ne? Senin için vajinamı göstermeyeceğim!"
 
 # game/UpdateScript0.03.rpy:4719
 translate turkish removeskirt_aba584b3:
@@ -10948,13 +10948,13 @@ translate turkish removeskirt_316668ef_5:
 translate turkish removeskirt_e51ecde2_1:
 
     # R "Ok, how bout we take this shoot to a whole different level."
-    ""
+    R "Pekâlâ, bu çekimi bambaşka bir seviyeye taşımaya ne dersin?"
 
 # game/UpdateScript0.03.rpy:4738
 translate turkish removeskirt_99481a82:
 
     # L "Uhhh.... what do you mean? Isn't this sexy enough?.... I mean you can see a lot of skin."
-    ""
+    L "Uhhh.... ne demek istiyorsun? Bu yeterince seksi değil mi?.... Yani çok fazla açık yer görebilirsin."
 
 # game/UpdateScript0.03.rpy:4739
 translate turkish removeskirt_3bcbe783_4:
@@ -10966,43 +10966,43 @@ translate turkish removeskirt_3bcbe783_4:
 translate turkish removeskirt_4bcb571a_4:
 
     # L "Further? How far are you trying to get me to go, you pervert?"
-    ""
+    L "Daha ileri mi? Beni ne kadar ileri götürmeye çalışıyorsun, seni sapık?"
 
 # game/UpdateScript0.03.rpy:4741
 translate turkish removeskirt_7984fc35:
 
     # R "Let's get some close-ups of between your legs."
-    ""
+    R "Bacaklarının arasını biraz yakından çekelim."
 
 # game/UpdateScript0.03.rpy:4742
 translate turkish removeskirt_1640bf81_1:
 
     # L "What? I'm not showing off my coochie for you!"
-    ""
+    L "Ne? Senin için vajinamı göstermeyeceğim!"
 
 # game/UpdateScript0.03.rpy:4743
 translate turkish removeskirt_16c2612a:
 
     # R "That's what your fans have been asking for in the comments section."
-    ""
+    R "Hayranlarının yorumlar bölümünde istediği de buydu."
 
 # game/UpdateScript0.03.rpy:4744
 translate turkish removeskirt_31240bed:
 
     # R "I'm just trying to give the people what they want so we can get the most likes possible."
-    ""
+    R "Ben sadece insanlara istediklerini vermeye çalışıyorum ki mümkün olan en fazla beğeniyi alabilelim."
 
 # game/UpdateScript0.03.rpy:4745
 translate turkish removeskirt_c74bd65a:
 
     # L "Yeah.... I don't think so, and fuck you! I'm going to get dressed and go home."
-    ""
+    L "Aynen.... Hiç sanmıyorum ve siktir git! Giyinip eve gideceğim."
 
 # game/UpdateScript0.03.rpy:4746
 translate turkish removeskirt_357c0099:
 
     # "{i}\"Lauren Anger +10\"{/i}"
-    ""
+    "{i}\"Lauren'in kızgınlığı +10\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4748
 translate turkish removeskirt_1c9f8e4a:
@@ -11014,49 +11014,49 @@ translate turkish removeskirt_1c9f8e4a:
 translate turkish removeskirt_5a4211b0:
 
     # L "You better stop acting like an asshole if you want me to come again next week."
-    ""
+    L "Haftaya tekrar gelmemi istiyorsan pislik gibi davranmayı bıraksan iyi edersin."
 
 # game/UpdateScript0.03.rpy:4753
 translate turkish removeskirt_ab8b9b94:
 
     # "To get Lauren to take explicit photos, submission must be at 25 points."
-    ""
+    "Lauren'in müstehcen fotoğraflar çekmesi için sevginin 25 puan olması gerekiyor."
 
 # game/UpdateScript0.03.rpy:4757
 translate turkish removeskirt_e4287853:
 
     # R "I think we've got all the pics we need for now."
-    ""
+    R "Sanırım şimdilik ihtiyacımız olan tüm fotoğrafları çektik."
 
 # game/UpdateScript0.03.rpy:4758
 translate turkish removeskirt_067712df:
 
     # L "Really? We haven't taken that many."
-    ""
+    L "Gerçekten mi? O kadar çok yapmadık sanki."
 
 # game/UpdateScript0.03.rpy:4759
 translate turkish removeskirt_14afbb3f:
 
     # R "Yeah, but the ones we have are really good, and the only way they could be better, is if I pushed you to do something you might not be comfortable with."
-    ""
+    R "Evet, ama elimizdekiler gerçekten iyi ve daha iyi olmalarının tek yolu, sizi rahat edemeyeceğin bir şey yapmaya zorlamam."
 
 # game/UpdateScript0.03.rpy:4760
 translate turkish removeskirt_1953bb52:
 
     # L "Oh, [ryan]! You're such a professional."
-    ""
+    L "Oh, [ryan]! Tam bir profesyonelsin."
 
 # game/UpdateScript0.03.rpy:4761
 translate turkish removeskirt_7c5f1068:
 
     # L "And I really enjoyed the shoot!"
-    ""
+    L "Ve çekimden gerçekten keyif aldım!"
 
 # game/UpdateScript0.03.rpy:4762
 translate turkish removeskirt_65e00cb0:
 
     # L "And showing some skin was kind of exciting!"
-    ""
+    L "Ve vücudumu biraz göstermek heyecan vericiydi!"
 
 # game/UpdateScript0.03.rpy:4764
 translate turkish removeskirt_32f0afae:
@@ -11074,73 +11074,73 @@ translate turkish removeskirt_05947e83:
 translate turkish removeskirt_c023ab9a:
 
     # L "I can't wait for the next photoshoot."
-    ""
+    L "Bir sonraki fotoğraf çekimi için sabırsızlanıyorum."
 
 # game/UpdateScript0.03.rpy:4769
 translate turkish removeskirt_3f123fa1:
 
     # L "I might be even more daring, and be willing to show a little more skin.... hahah..."
-    ""
+    L "Daha da cesur olabilirim ve biraz daha fazla vücut göstermeye istekli olabilirim.... hahah..."
 
 # game/UpdateScript0.03.rpy:4770
 translate turkish removeskirt_4fe4a74d:
 
     # R "Great! I can't wait either."
-    ""
+    R "Harika! Ben de sabırsızlanıyorum."
 
 # game/UpdateScript0.03.rpy:4771
 translate turkish removeskirt_d08e987e:
 
     # R "You can get dressed and I'll see you back home."
-    ""
+    R "Giyinebilirsin, eve dönünce görüşürüz."
 
 # game/UpdateScript0.03.rpy:4784
 translate turkish thongtime_c52d67ad:
 
     # L "How's this one?"
-    ""
+    L "Bu nasıl?"
 
 # game/UpdateScript0.03.rpy:4785
 translate turkish thongtime_00cb475b:
 
     # L "Are you liking what you see?"
-    ""
+    L "Gördüklerin hoşuna gidiyor mu?"
 
 # game/UpdateScript0.03.rpy:4786
 translate turkish thongtime_33c6f0d5:
 
     # R "Oh, yeah! If I wasn't your brother, I'd hit that."
-    ""
+    R "Oh, evet! Eğer kardeşin olmasaydım, ona vururdum."
 
 # game/UpdateScript0.03.rpy:4787
 translate turkish thongtime_fc9f80e8:
 
     # L "Haha.... In your dreams!"
-    ""
+    L "Haha.... Rüyanda görürsün!"
 
 # game/UpdateScript0.03.rpy:4799
 translate turkish thongtime_8343f880:
 
     # R "You really do have a great ass."
-    ""
+    R "Gerçekten harika bir kıçın var."
 
 # game/UpdateScript0.03.rpy:4800
 translate turkish thongtime_8dc07dca:
 
     # R "Do you do yoga or something?"
-    ""
+    R "Yoga falan mı yapıyorsun?"
 
 # game/UpdateScript0.03.rpy:4801
 translate turkish thongtime_93bef439:
 
     # L "No, it's just from jogging."
-    ""
+    L "Hayır, sadece koşudan dolayı."
 
 # game/UpdateScript0.03.rpy:4802
 translate turkish thongtime_b932dca9:
 
     # R "Well, keep it up."
-    ""
+    R "Böyle devam et."
 
 # game/UpdateScript0.03.rpy:4804
 translate turkish thongtime_f18558a3:
@@ -11152,55 +11152,55 @@ translate turkish thongtime_f18558a3:
 translate turkish thongtime_02ae962e:
 
     # R "I can't wait to see this one with the new background."
-    ""
+    R "Bunu yeni arka planla görmek için sabırsızlanıyorum."
 
 # game/UpdateScript0.03.rpy:4819
 translate turkish thongtime_057ff4a5:
 
     # RT "{i}Things seem to be going pretty well. Should I keep going?{/i}"
-    ""
+    RT "{i}İşler oldukça iyi gidiyor gibi görünüyor. Devam etmeli miyim?{/i}"
 
 # game/UpdateScript0.03.rpy:4823
 translate turkish thongtime_ed2d2668:
 
     # R "Let's see what we can do to that outfit to sexy it up even more."
-    ""
+    R "Bakalım bu kıyafeti daha da seksi hale getirmek için ne yapabiliriz?"
 
 # game/UpdateScript0.03.rpy:4824
 translate turkish thongtime_e60e938d:
 
     # L "How do you mean?"
-    ""
+    L "Nasıl yani?"
 
 # game/UpdateScript0.03.rpy:4825
 translate turkish thongtime_9623ca8d:
 
     # R "Let's get rid of the buckskin bra."
-    ""
+    R "Hadi şu sütyenden kurtulalım."
 
 # game/UpdateScript0.03.rpy:4832
 translate turkish thongtime_b6d8df34:
 
     # L "What? I'm not ready to show off my breasts yet."
-    ""
+    L "Ne? Henüz göğüslerimi göstermeye hazır değilim."
 
 # game/UpdateScript0.03.rpy:4833
 translate turkish thongtime_349ba586:
 
     # R "Well, you can cover them with your hands."
-    ""
+    R "Onları ellerinle kapatabilirsin."
 
 # game/UpdateScript0.03.rpy:4834
 translate turkish thongtime_e2a2abb8:
 
     # L "I'm a little uncomfortable with that."
-    ""
+    L "Bu beni biraz rahatsız ediyor."
 
 # game/UpdateScript0.03.rpy:4835
 translate turkish thongtime_5efae8b9:
 
     # R "Alright, I only suggested it because I saw Jassica Nugru posted a similar picture on her profile, and her page almost shut down because of all the likes she got."
-    ""
+    R "Pekala, bunu sadece Jassica Nugru'nun profilinde benzer bir resim paylaştığını ve aldığı tüm beğeniler nedeniyle sayfasının neredeyse çöktüğünü gördüğüm için önerdim."
 
 # game/UpdateScript0.03.rpy:4836
 translate turkish thongtime_af74cc2a:
@@ -11224,13 +11224,13 @@ translate turkish thongtime_316668ef:
 translate turkish thongtime_6f3509dd:
 
     # R "Ok, let's see what we can do to that outfit to sexy it up even more."
-    ""
+    R "Tamam, bakalım bu kıyafeti daha da seksi hale getirmek için ne yapabiliriz."
 
 # game/UpdateScript0.03.rpy:4850
 translate turkish thongtime_51f5e4f5:
 
     # L "Uhhh.... I don't think that's a good idea. Isn't this sexy enough?.... I mean you can see a lot of skin."
-    ""
+    L "Uhhh.... Bunun iyi bir fikir olduğunu sanmıyorum. Bu yeterince seksi değil mi? .... Yani çok fazla açık yer görebilirsin."
 
 # game/UpdateScript0.03.rpy:4851
 translate turkish thongtime_3bcbe783:
@@ -11242,61 +11242,61 @@ translate turkish thongtime_3bcbe783:
 translate turkish thongtime_4bcb571a:
 
     # L "Further? How far are you trying to get me to go, you pervert?"
-    ""
+    L "Daha ileri mi? Beni ne kadar ileri götürmeye çalışıyorsun, seni sapık?"
 
 # game/UpdateScript0.03.rpy:4853
 translate turkish thongtime_9623ca8d_1:
 
     # R "Let's get rid of the buckskin bra."
-    ""
+    R "Hadi şu sütyenden kurtulalım."
 
 # game/UpdateScript0.03.rpy:4854
 translate turkish thongtime_b6d8df34_1:
 
     # L "What? I'm not ready to show off my breasts yet."
-    ""
+    L "Ne? Henüz göğüslerimi göstermeye hazır değilim."
 
 # game/UpdateScript0.03.rpy:4855
 translate turkish thongtime_349ba586_1:
 
     # R "Well, you can cover them with your hands."
-    ""
+    R "Onları ellerinle kapatabilirsin."
 
 # game/UpdateScript0.03.rpy:4856
 translate turkish thongtime_401ab40d:
 
     # R "Plus, it will look fantastic in the pics."
-    ""
+    R "Ayrıca, fotoğraflarda harika görünecek."
 
 # game/UpdateScript0.03.rpy:4857
 translate turkish thongtime_42358ec8:
 
     # L "Yeah.... I don't think so. I'm going to get dressed and go home."
-    ""
+    L "Aynen.... Hiç sanmıyorum. Giyinip eve gideceğim."
 
 # game/UpdateScript0.03.rpy:4858
 translate turkish thongtime_f9fe282d:
 
     # "{i}\"Lauren Anger +2\"{/i}"
-    ""
+    "{i}\"Lauren'in kızgınlığı +2\"{/i}"
 
 # game/UpdateScript0.03.rpy:4860
 translate turkish thongtime_5541bdda:
 
     # "{i}\"Lauren Affection -1\"{/i}"
-    ""
+    "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4862
 translate turkish thongtime_375035b3:
 
     # L "We can try again next week if you're willing to be more professional."
-    ""
+    L "Daha profesyonel olmaya istekliysen gelecek hafta tekrar deneyebiliriz."
 
 # game/UpdateScript0.03.rpy:4865
 translate turkish thongtime_30106a6e:
 
     # "To get Lauren to take her bra off you must have her submission at 10 points or her libido at 10 points."
-    ""
+    "Lauren'in sütyenini çıkarmasını sağlamak için onun boyun eğmesini 10 puan ya da libidosunu 10 puan yapmalısınız."
 
 # game/UpdateScript0.03.rpy:4870
 translate turkish thongtime_27706357:
@@ -11320,13 +11320,13 @@ translate turkish thongtime_6f81b151:
 translate turkish thongtime_ed2d2668_1:
 
     # R "Let's see what we can do to that outfit to sexy it up even more."
-    ""
+    R "Bakalım bu kıyafeti daha da seksi hale getirmek için ne yapabiliriz?"
 
 # game/UpdateScript0.03.rpy:4877
 translate turkish thongtime_e60e938d_1:
 
     # L "How do you mean?"
-    ""
+    L "Nasıl yani?"
 
 # game/UpdateScript0.03.rpy:4878
 translate turkish thongtime_63903a4e:
@@ -11338,25 +11338,25 @@ translate turkish thongtime_63903a4e:
 translate turkish thongtime_b9ee6a7f:
 
     # L "What? I'm not letting you take pictures of my bare naked titties!"
-    ""
+    L "Ne? Çıplak memelerimin fotoğrafını çekmene izin vermiyorum!"
 
 # game/UpdateScript0.03.rpy:4882
 translate turkish thongtime_6d66227c:
 
     # R "It's not like I'm asking you to go full nude or anything."
-    ""
+    R "Senden tamamen çıplak olmanı falan istemiyorum."
 
 # game/UpdateScript0.03.rpy:4883
 translate turkish thongtime_e2a2abb8_1:
 
     # L "I'm a little uncomfortable with that."
-    ""
+    L "Bu beni biraz rahatsız ediyor."
 
 # game/UpdateScript0.03.rpy:4884
 translate turkish thongtime_5efae8b9_1:
 
     # R "Alright, I only suggested it because I saw Jassica Nugru posted a similar picture on her profile, and her page almost shut down because of all the likes she got."
-    ""
+    R "Pekala, bunu sadece Jassica Nugru'nun profilinde benzer bir resim paylaştığını ve aldığı tüm beğeniler nedeniyle sayfasının neredeyse çöktüğünü gördüğüm için önerdim."
 
 # game/UpdateScript0.03.rpy:4885
 translate turkish thongtime_c7eb7e9c:
@@ -11380,13 +11380,13 @@ translate turkish thongtime_316668ef_1:
 translate turkish thongtime_6f3509dd_1:
 
     # R "Ok, let's see what we can do to that outfit to sexy it up even more."
-    ""
+    R "Tamam, bakalım bu kıyafeti daha da seksi hale getirmek için ne yapabiliriz."
 
 # game/UpdateScript0.03.rpy:4899
 translate turkish thongtime_51f5e4f5_1:
 
     # L "Uhhh.... I don't think that's a good idea. Isn't this sexy enough?.... I mean you can see a lot of skin."
-    ""
+    L "Uhhh.... Bunun iyi bir fikir olduğunu sanmıyorum. Bu yeterince seksi değil mi? .... Yani çok fazla açık yer görebilirsin."
 
 # game/UpdateScript0.03.rpy:4900
 translate turkish thongtime_3bcbe783_1:
@@ -11398,61 +11398,61 @@ translate turkish thongtime_3bcbe783_1:
 translate turkish thongtime_4bcb571a_1:
 
     # L "Further? How far are you trying to get me to go, you pervert?"
-    ""
+    L "Daha ileri mi? Beni ne kadar ileri götürmeye çalışıyorsun, seni sapık?"
 
 # game/UpdateScript0.03.rpy:4902
 translate turkish thongtime_556bbfb4:
 
     # R "Let's get some nice pics of them titties."
-    ""
+    R "Şu meme uçlarının güzel fotoğraflarını çekelim."
 
 # game/UpdateScript0.03.rpy:4903
 translate turkish thongtime_b9ee6a7f_1:
 
     # L "What? I'm not letting you take pictures of my bare naked titties!"
-    ""
+    L "Ne? Çıplak memelerimin fotoğrafını çekmene izin vermiyorum!"
 
 # game/UpdateScript0.03.rpy:4904
 translate turkish thongtime_6d66227c_1:
 
     # R "It's not like I'm asking you to go full nude or anything."
-    ""
+    R "Senden tamamen çıplak olmanı falan istemiyorum."
 
 # game/UpdateScript0.03.rpy:4905
 translate turkish thongtime_401ab40d_1:
 
     # R "Plus, it will look fantastic in the pics."
-    ""
+    R "Ayrıca, fotoğraflarda harika görünecek."
 
 # game/UpdateScript0.03.rpy:4906
 translate turkish thongtime_42358ec8_1:
 
     # L "Yeah.... I don't think so. I'm going to get dressed and go home."
-    ""
+    L "Aynen.... Hiç sanmıyorum. Giyinip eve gideceğim."
 
 # game/UpdateScript0.03.rpy:4907
 translate turkish thongtime_94579670:
 
     # "{i}\"Lauren Anger +3\"{/i}"
-    ""
+    "{i}\"Lauren'in kızgınlığı +3\"{/i}"
 
 # game/UpdateScript0.03.rpy:4909
 translate turkish thongtime_5541bdda_1:
 
     # "{i}\"Lauren Affection -1\"{/i}"
-    ""
+    "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4911
 translate turkish thongtime_375035b3_1:
 
     # L "We can try again next week if you're willing to be more professional."
-    ""
+    L "Daha profesyonel olmaya istekliysen gelecek hafta tekrar deneyebiliriz."
 
 # game/UpdateScript0.03.rpy:4914
 translate turkish thongtime_380a4c3d:
 
     # "To get Lauren to take her bra off and show off her tits, you must have her submission at 14 points."
-    ""
+    "Lauren'ın sütyenini çıkarıp meme uçlarını göstermesini sağlamak için 14 boyun eğme puanına sahip olmalısınız."
 
 # game/UpdateScript0.03.rpy:4919
 translate turkish thongtime_27706357_1:
@@ -11476,13 +11476,13 @@ translate turkish thongtime_6f81b151_1:
 translate turkish thongtime_ed2d2668_2:
 
     # R "Let's see what we can do to that outfit to sexy it up even more."
-    ""
+    R "Bakalım bu kıyafeti daha da seksi hale getirmek için ne yapabiliriz?"
 
 # game/UpdateScript0.03.rpy:4926
 translate turkish thongtime_e60e938d_2:
 
     # L "How do you mean?"
-    ""
+    L "Nasıl yani?"
 
 # game/UpdateScript0.03.rpy:4927
 translate turkish thongtime_a27d143e:
@@ -11494,13 +11494,13 @@ translate turkish thongtime_a27d143e:
 translate turkish thongtime_f48b4bc5:
 
     # L "What? I'm not completely stripping to nothing for you!"
-    ""
+    L "Ne? Senin için tamamen soyunmayacağım!"
 
 # game/UpdateScript0.03.rpy:4931
 translate turkish thongtime_e9e78a4e:
 
     # R "You won't be completely naked, you will still wear all of your accessories."
-    ""
+    R "Tamamen çıplak olmayacaksın, yine de tüm aksesuarlarını takacaksın."
 
 # game/UpdateScript0.03.rpy:4932
 translate turkish thongtime_5301ab4f:
@@ -11512,7 +11512,7 @@ translate turkish thongtime_5301ab4f:
 translate turkish thongtime_b2d9a0a3:
 
     # R "Alright, your call, I only suggested it because I saw Jassica Nugru posted a similar picture on her profile, and her page almost shut down because of all the likes she got."
-    ""
+    R "Pekala, karar senin, bunu sadece Jassica Nugru'nun profilinde benzer bir resim paylaştığını ve aldığı tüm beğeniler nedeniyle sayfasının neredeyse çöktüğünü gördüğüm için önerdim."
 
 # game/UpdateScript0.03.rpy:4934
 translate turkish thongtime_c7eb7e9c_1:
@@ -11536,13 +11536,13 @@ translate turkish thongtime_316668ef_2:
 translate turkish thongtime_6f3509dd_2:
 
     # R "Ok, let's see what we can do to that outfit to sexy it up even more."
-    ""
+    R "Tamam, bakalım bu kıyafeti daha da seksi hale getirmek için ne yapabiliriz."
 
 # game/UpdateScript0.03.rpy:4948
 translate turkish thongtime_51f5e4f5_2:
 
     # L "Uhhh.... I don't think that's a good idea. Isn't this sexy enough?.... I mean you can see a lot of skin."
-    ""
+    L "Uhhh.... Bunun iyi bir fikir olduğunu sanmıyorum. Bu yeterince seksi değil mi? .... Yani çok fazla açık yer görebilirsin."
 
 # game/UpdateScript0.03.rpy:4949
 translate turkish thongtime_3bcbe783_2:
@@ -11554,61 +11554,61 @@ translate turkish thongtime_3bcbe783_2:
 translate turkish thongtime_4bcb571a_2:
 
     # L "Further? How far are you trying to get me to go, you pervert?"
-    ""
+    L "Daha ileri mi? Beni ne kadar ileri götürmeye çalışıyorsun, seni sapık?"
 
 # game/UpdateScript0.03.rpy:4951
 translate turkish thongtime_287f9ad2:
 
     # R "Let's shoot the rest in the nude."
-    ""
+    R "Geri kalanını çıplak çekelim."
 
 # game/UpdateScript0.03.rpy:4952
 translate turkish thongtime_f48b4bc5_1:
 
     # L "What? I'm not completely stripping to nothing for you!"
-    ""
+    L "Ne? Senin için tamamen soyunmayacağım!"
 
 # game/UpdateScript0.03.rpy:4953
 translate turkish thongtime_e9e78a4e_1:
 
     # R "You won't be completely naked, you will still wear all of your accessories."
-    ""
+    R "Tamamen çıplak olmayacaksın, yine de tüm aksesuarlarını takacaksın."
 
 # game/UpdateScript0.03.rpy:4954
 translate turkish thongtime_401ab40d_2:
 
     # R "Plus, it will look fantastic in the pics."
-    ""
+    R "Ayrıca, fotoğraflarda harika görünecek."
 
 # game/UpdateScript0.03.rpy:4955
 translate turkish thongtime_42358ec8_2:
 
     # L "Yeah.... I don't think so. I'm going to get dressed and go home."
-    ""
+    L "Aynen.... Hiç sanmıyorum. Giyinip eve gideceğim."
 
 # game/UpdateScript0.03.rpy:4956
 translate turkish thongtime_6210cab1:
 
     # "{i}\"Lauren Anger +4\"{/i}"
-    ""
+    "{i}\"Lauren'in kızgınlığı +4\"{/i}"
 
 # game/UpdateScript0.03.rpy:4958
 translate turkish thongtime_5541bdda_2:
 
     # "{i}\"Lauren Affection -1\"{/i}"
-    ""
+    "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4960
 translate turkish thongtime_375035b3_2:
 
     # L "We can try again next week if you're willing to be more professional."
-    ""
+    L "Daha profesyonel olmaya istekliysen gelecek hafta tekrar deneyebiliriz."
 
 # game/UpdateScript0.03.rpy:4963
 translate turkish thongtime_c77833a7:
 
     # "To get Lauren to take everything off you must have her submission at 19 points."
-    ""
+    "Lauren'in her şeyini çıkarmasını sağlamak için 19 boyun eğme puanına ulaşmalısın."
 
 # game/UpdateScript0.03.rpy:4968
 translate turkish thongtime_27706357_2:
@@ -11632,13 +11632,13 @@ translate turkish thongtime_6f81b151_2:
 translate turkish thongtime_e51ecde2:
 
     # R "Ok, how bout we take this shoot to a whole different level."
-    ""
+    R "Pekâlâ, bu çekimi bambaşka bir seviyeye taşımaya ne dersin?"
 
 # game/UpdateScript0.03.rpy:4975
 translate turkish thongtime_e60e938d_3:
 
     # L "How do you mean?"
-    ""
+    L "Nasıl yani?"
 
 # game/UpdateScript0.03.rpy:4976
 translate turkish thongtime_9761dbcc:
@@ -11662,7 +11662,7 @@ translate turkish thongtime_2ab6ad1b:
 translate turkish thongtime_1640bf81:
 
     # L "What? I'm not showing off my coochie for you!"
-    ""
+    L "Ne? Senin için vajinamı göstermeyeceğim!"
 
 # game/UpdateScript0.03.rpy:4982
 translate turkish thongtime_aba584b3:
@@ -11716,13 +11716,13 @@ translate turkish thongtime_316668ef_3:
 translate turkish thongtime_e51ecde2_1:
 
     # R "Ok, how bout we take this shoot to a whole different level."
-    ""
+    R "Pekâlâ, bu çekimi bambaşka bir seviyeye taşımaya ne dersin?"
 
 # game/UpdateScript0.03.rpy:5001
 translate turkish thongtime_99481a82:
 
     # L "Uhhh.... what do you mean? Isn't this sexy enough?.... I mean you can see a lot of skin."
-    ""
+    L "Uhhh.... ne demek istiyorsun? Bu yeterince seksi değil mi?.... Yani çok fazla açık yer görebilirsin."
 
 # game/UpdateScript0.03.rpy:5002
 translate turkish thongtime_3bcbe783_3:
@@ -11734,43 +11734,43 @@ translate turkish thongtime_3bcbe783_3:
 translate turkish thongtime_4bcb571a_3:
 
     # L "Further? How far are you trying to get me to go, you pervert?"
-    ""
+    L "Daha ileri mi? Beni ne kadar ileri götürmeye çalışıyorsun, seni sapık?"
 
 # game/UpdateScript0.03.rpy:5004
 translate turkish thongtime_7984fc35:
 
     # R "Let's get some close-ups of between your legs."
-    ""
+    R "Bacaklarının arasını biraz yakından çekelim."
 
 # game/UpdateScript0.03.rpy:5005
 translate turkish thongtime_1640bf81_1:
 
     # L "What? I'm not showing off my coochie for you!"
-    ""
+    L "Ne? Senin için vajinamı göstermeyeceğim!"
 
 # game/UpdateScript0.03.rpy:5006
 translate turkish thongtime_16c2612a:
 
     # R "That's what your fans have been asking for in the comments section."
-    ""
+    R "Hayranlarının yorumlar bölümünde istediği de buydu."
 
 # game/UpdateScript0.03.rpy:5007
 translate turkish thongtime_31240bed:
 
     # R "I'm just trying to give the people what they want so we can get the most likes possible."
-    ""
+    R "Ben sadece insanlara istediklerini vermeye çalışıyorum ki mümkün olan en fazla beğeniyi alabilelim."
 
 # game/UpdateScript0.03.rpy:5008
 translate turkish thongtime_c74bd65a:
 
     # L "Yeah.... I don't think so, and fuck you! I'm going to get dressed and go home."
-    ""
+    L "Aynen.... Hiç sanmıyorum ve siktir git! Giyinip eve gideceğim."
 
 # game/UpdateScript0.03.rpy:5009
 translate turkish thongtime_357c0099:
 
     # "{i}\"Lauren Anger +10\"{/i}"
-    ""
+    "{i}\"Lauren'in kızgınlığı +10\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:5011
 translate turkish thongtime_1c9f8e4a:
@@ -11782,49 +11782,49 @@ translate turkish thongtime_1c9f8e4a:
 translate turkish thongtime_5a4211b0:
 
     # L "You better stop acting like an asshole if you want me to come again next week."
-    ""
+    L "Haftaya tekrar gelmemi istiyorsan pislik gibi davranmayı bıraksan iyi edersin."
 
 # game/UpdateScript0.03.rpy:5016
 translate turkish thongtime_ab8b9b94:
 
     # "To get Lauren to take explicit photos, submission must be at 25 points."
-    ""
+    "Lauren'in müstehcen fotoğraflar çekmesi için sevginin 25 puan olması gerekiyor."
 
 # game/UpdateScript0.03.rpy:5020
 translate turkish thongtime_e4287853:
 
     # R "I think we've got all the pics we need for now."
-    ""
+    R "Sanırım şimdilik ihtiyacımız olan tüm fotoğrafları çektik."
 
 # game/UpdateScript0.03.rpy:5021
 translate turkish thongtime_067712df:
 
     # L "Really? We haven't taken that many."
-    ""
+    L "Gerçekten mi? O kadar çok yapmadık sanki."
 
 # game/UpdateScript0.03.rpy:5022
 translate turkish thongtime_14afbb3f:
 
     # R "Yeah, but the ones we have are really good, and the only way they could be better, is if I pushed you to do something you might not be comfortable with."
-    ""
+    R "Evet, ama elimizdekiler gerçekten iyi ve daha iyi olmalarının tek yolu, sizi rahat edemeyeceğin bir şey yapmaya zorlamam."
 
 # game/UpdateScript0.03.rpy:5023
 translate turkish thongtime_1953bb52:
 
     # L "Oh, [ryan]! You're such a professional."
-    ""
+    L "Oh, [ryan]! Tam bir profesyonelsin."
 
 # game/UpdateScript0.03.rpy:5024
 translate turkish thongtime_7c5f1068:
 
     # L "And I really enjoyed the shoot!"
-    ""
+    L "Ve çekimden gerçekten keyif aldım!"
 
 # game/UpdateScript0.03.rpy:5025
 translate turkish thongtime_65e00cb0:
 
     # L "And showing some skin was kind of exciting!"
-    ""
+    L "Ve vücudumu biraz göstermek heyecan vericiydi!"
 
 # game/UpdateScript0.03.rpy:5027
 translate turkish thongtime_32f0afae:
@@ -11842,37 +11842,37 @@ translate turkish thongtime_05947e83:
 translate turkish thongtime_c023ab9a:
 
     # L "I can't wait for the next photoshoot."
-    ""
+    L "Bir sonraki fotoğraf çekimi için sabırsızlanıyorum."
 
 # game/UpdateScript0.03.rpy:5032
 translate turkish thongtime_3f123fa1:
 
     # L "I might be even more daring, and be willing to show a little more skin.... hahah..."
-    ""
+    L "Daha da cesur olabilirim ve biraz daha fazla vücut göstermeye istekli olabilirim.... hahah..."
 
 # game/UpdateScript0.03.rpy:5033
 translate turkish thongtime_4fe4a74d:
 
     # R "Great! I can't wait either."
-    ""
+    R "Harika! Ben de sabırsızlanıyorum."
 
 # game/UpdateScript0.03.rpy:5034
 translate turkish thongtime_d08e987e:
 
     # R "You can get dressed and I'll see you back home."
-    ""
+    R "Giyinebilirsin, eve dönünce görüşürüz."
 
 # game/UpdateScript0.03.rpy:5041
 translate turkish removebra_7fb56b3f:
 
     # L "I can't believe I'm going topless in a photoshoot. I think I need to close my eyes for this one."
-    ""
+    L "Bir fotoğraf çekiminde üstsüz olacağıma inanamıyorum. Sanırım bunun için gözlerimi kapatmalıyım."
 
 # game/UpdateScript0.03.rpy:5042
 translate turkish removebra_6e24410c:
 
     # R "Just smile and try to look happy."
-    ""
+    R "Sadece gülümse ve mutlu görünmeye çalış."
 
 # game/UpdateScript0.03.rpy:5049
 translate turkish removebra_185610e5:
@@ -11884,19 +11884,19 @@ translate turkish removebra_185610e5:
 translate turkish removebra_1dd53284:
 
     # R "That actually looks really good. It looks like you're blissfully enjoying the seclusion of the forest."
-    ""
+    R "Bu gerçekten iyi görünüyor. Ormanın inzivasının tadını çıkarıyormuşsun gibi görünüyor."
 
 # game/UpdateScript0.03.rpy:5051
 translate turkish removebra_c73edcb0:
 
     # L "Haha, you're such a nerd."
-    ""
+    L "Haha, tam bir ineksin."
 
 # game/UpdateScript0.03.rpy:5052
 translate turkish removebra_2d1753f7:
 
     # R "No, really, even with your top off, I think most of the attention will be drawn to how pretty your face is."
-    ""
+    R "Hayır, gerçekten, üstün açık olsa bile, bence dikkatlerin çoğu yüzünün ne kadar güzel olduğuna çekilecektir."
 
 # game/UpdateScript0.03.rpy:5054
 translate turkish removebra_32f0afae:
@@ -11908,43 +11908,43 @@ translate turkish removebra_32f0afae:
 translate turkish removebra_fd00e057:
 
     # L "You're a natural at helping your subject feel at ease."
-    ""
+    L "Düşüncen hakkında rahat hissetmesine yardımcı olmakta doğalsın."
 
 # game/UpdateScript0.03.rpy:5057
 translate turkish removebra_53c9d6fd:
 
     # L "Let me know when you've taken the picture."
-    ""
+    L "Fotoğrafı çektiğinde bana haber ver."
 
 # game/UpdateScript0.03.rpy:5069
 translate turkish removebra_259f56f2:
 
     # R "I've taken it, and I think it will look great."
-    ""
+    R "Çektim ve bence harika görünecek."
 
 # game/UpdateScript0.03.rpy:5082
 translate turkish removebra_013c9560:
 
     # R "You can open your eyes if you want to."
-    ""
+    R "İstersen gözlerini açabilirsin."
 
 # game/UpdateScript0.03.rpy:5083
 translate turkish removebra_803887f6:
 
     # L "Is my top still off? If it is, I don't think I want to."
-    ""
+    L "Üstüm hala görünüyor mu? Eğer öyleyse, istediğimi sanmıyorum."
 
 # game/UpdateScript0.03.rpy:5084
 translate turkish removebra_e7edc4e5:
 
     # R "{i}(sarcastically){/i} Haha.... you're so funny."
-    ""
+    R "{i}(alaycı bir şekilde){/i} Haha.... çok komiksin."
 
 # game/UpdateScript0.03.rpy:5085
 translate turkish removebra_e058831d:
 
     # RT "{i}Should I keep this going?{/i}"
-    ""
+    RT "{i}Devam edeyim mi?{/i}"
 
 # game/UpdateScript0.03.rpy:5089
 translate turkish removebra_27706357:
@@ -11968,13 +11968,13 @@ translate turkish removebra_6f81b151:
 translate turkish removebra_ed2d2668:
 
     # R "Let's see what we can do to that outfit to sexy it up even more."
-    ""
+    R "Bakalım bu kıyafeti daha da seksi hale getirmek için ne yapabiliriz?"
 
 # game/UpdateScript0.03.rpy:5096
 translate turkish removebra_e60e938d:
 
     # L "How do you mean?"
-    ""
+    L "Nasıl yani?"
 
 # game/UpdateScript0.03.rpy:5097
 translate turkish removebra_63903a4e:
@@ -11986,19 +11986,19 @@ translate turkish removebra_63903a4e:
 translate turkish removebra_b9ee6a7f:
 
     # L "What? I'm not letting you take pictures of my bare naked titties!"
-    ""
+    L "Ne? Çıplak memelerimin fotoğrafını çekmene izin vermiyorum!"
 
 # game/UpdateScript0.03.rpy:5101
 translate turkish removebra_6d66227c:
 
     # R "It's not like I'm asking you to go full nude or anything."
-    ""
+    R "Senden tamamen çıplak olmanı falan istemiyorum."
 
 # game/UpdateScript0.03.rpy:5102
 translate turkish removebra_e2a2abb8:
 
     # L "I'm a little uncomfortable with that."
-    ""
+    L "Bu beni biraz rahatsız ediyor."
 
 # game/UpdateScript0.03.rpy:5103
 translate turkish removebra_38a6c066:
@@ -12028,13 +12028,13 @@ translate turkish removebra_316668ef:
 translate turkish removebra_6f3509dd:
 
     # R "Ok, let's see what we can do to that outfit to sexy it up even more."
-    ""
+    R "Tamam, bakalım bu kıyafeti daha da seksi hale getirmek için ne yapabiliriz."
 
 # game/UpdateScript0.03.rpy:5114
 translate turkish removebra_51f5e4f5:
 
     # L "Uhhh.... I don't think that's a good idea. Isn't this sexy enough?.... I mean you can see a lot of skin."
-    ""
+    L "Uhhh.... Bunun iyi bir fikir olduğunu sanmıyorum. Bu yeterince seksi değil mi? .... Yani çok fazla açık yer görebilirsin."
 
 # game/UpdateScript0.03.rpy:5115
 translate turkish removebra_3bcbe783:
@@ -12046,61 +12046,61 @@ translate turkish removebra_3bcbe783:
 translate turkish removebra_4bcb571a:
 
     # L "Further? How far are you trying to get me to go, you pervert?"
-    ""
+    L "Daha ileri mi? Beni ne kadar ileri götürmeye çalışıyorsun, seni sapık?"
 
 # game/UpdateScript0.03.rpy:5117
 translate turkish removebra_556bbfb4:
 
     # R "Let's get some nice pics of them titties."
-    ""
+    R "Şu meme uçlarının güzel fotoğraflarını çekelim."
 
 # game/UpdateScript0.03.rpy:5118
 translate turkish removebra_b9ee6a7f_1:
 
     # L "What? I'm not letting you take pictures of my bare naked titties!"
-    ""
+    L "Ne? Çıplak memelerimin fotoğrafını çekmene izin vermiyorum!"
 
 # game/UpdateScript0.03.rpy:5119
 translate turkish removebra_6d66227c_1:
 
     # R "It's not like I'm asking you to go full nude or anything."
-    ""
+    R "Senden tamamen çıplak olmanı falan istemiyorum."
 
 # game/UpdateScript0.03.rpy:5120
 translate turkish removebra_401ab40d:
 
     # R "Plus, it will look fantastic in the pics."
-    ""
+    R "Ayrıca, fotoğraflarda harika görünecek."
 
 # game/UpdateScript0.03.rpy:5121
 translate turkish removebra_42358ec8:
 
     # L "Yeah.... I don't think so. I'm going to get dressed and go home."
-    ""
+    L "Aynen.... Hiç sanmıyorum. Giyinip eve gideceğim."
 
 # game/UpdateScript0.03.rpy:5122
 translate turkish removebra_94579670:
 
     # "{i}\"Lauren Anger +3\"{/i}"
-    ""
+    "{i}\"Lauren'in kızgınlığı +3\"{/i}"
 
 # game/UpdateScript0.03.rpy:5124
 translate turkish removebra_5541bdda:
 
     # "{i}\"Lauren Affection -1\"{/i}"
-    ""
+    "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:5126
 translate turkish removebra_375035b3:
 
     # L "We can try again next week if you're willing to be more professional."
-    ""
+    L "Daha profesyonel olmaya istekliysen gelecek hafta tekrar deneyebiliriz."
 
 # game/UpdateScript0.03.rpy:5129
 translate turkish removebra_380a4c3d:
 
     # "To get Lauren to take her bra off and show off her tits, you must have her submission at 14 points."
-    ""
+    "Lauren'ın sütyenini çıkarıp meme uçlarını göstermesini sağlamak için 14 boyun eğme puanına sahip olmalısınız."
 
 # game/UpdateScript0.03.rpy:5134
 translate turkish removebra_27706357_1:
@@ -12124,13 +12124,13 @@ translate turkish removebra_6f81b151_1:
 translate turkish removebra_ed2d2668_1:
 
     # R "Let's see what we can do to that outfit to sexy it up even more."
-    ""
+    R "Bakalım bu kıyafeti daha da seksi hale getirmek için ne yapabiliriz?"
 
 # game/UpdateScript0.03.rpy:5141
 translate turkish removebra_e60e938d_1:
 
     # L "How do you mean?"
-    ""
+    L "Nasıl yani?"
 
 # game/UpdateScript0.03.rpy:5142
 translate turkish removebra_a27d143e:
@@ -12142,13 +12142,13 @@ translate turkish removebra_a27d143e:
 translate turkish removebra_f48b4bc5:
 
     # L "What? I'm not completely stripping to nothing for you!"
-    ""
+    L "Ne? Senin için tamamen soyunmayacağım!"
 
 # game/UpdateScript0.03.rpy:5146
 translate turkish removebra_e9e78a4e:
 
     # R "You won't be completely naked, you will still wear all of your accessories."
-    ""
+    R "Tamamen çıplak olmayacaksın, yine de tüm aksesuarlarını takacaksın."
 
 # game/UpdateScript0.03.rpy:5147
 translate turkish removebra_5301ab4f:
@@ -12184,13 +12184,13 @@ translate turkish removebra_316668ef_1:
 translate turkish removebra_6f3509dd_1:
 
     # R "Ok, let's see what we can do to that outfit to sexy it up even more."
-    ""
+    R "Tamam, bakalım bu kıyafeti daha da seksi hale getirmek için ne yapabiliriz."
 
 # game/UpdateScript0.03.rpy:5163
 translate turkish removebra_51f5e4f5_1:
 
     # L "Uhhh.... I don't think that's a good idea. Isn't this sexy enough?.... I mean you can see a lot of skin."
-    ""
+    L "Uhhh.... Bunun iyi bir fikir olduğunu sanmıyorum. Bu yeterince seksi değil mi? .... Yani çok fazla açık yer görebilirsin."
 
 # game/UpdateScript0.03.rpy:5164
 translate turkish removebra_3bcbe783_1:
@@ -12202,61 +12202,61 @@ translate turkish removebra_3bcbe783_1:
 translate turkish removebra_4bcb571a_1:
 
     # L "Further? How far are you trying to get me to go, you pervert?"
-    ""
+    L "Daha ileri mi? Beni ne kadar ileri götürmeye çalışıyorsun, seni sapık?"
 
 # game/UpdateScript0.03.rpy:5166
 translate turkish removebra_287f9ad2:
 
     # R "Let's shoot the rest in the nude."
-    ""
+    R "Geri kalanını çıplak çekelim."
 
 # game/UpdateScript0.03.rpy:5167
 translate turkish removebra_f48b4bc5_1:
 
     # L "What? I'm not completely stripping to nothing for you!"
-    ""
+    L "Ne? Senin için tamamen soyunmayacağım!"
 
 # game/UpdateScript0.03.rpy:5168
 translate turkish removebra_e9e78a4e_1:
 
     # R "You won't be completely naked, you will still wear all of your accessories."
-    ""
+    R "Tamamen çıplak olmayacaksın, yine de tüm aksesuarlarını takacaksın."
 
 # game/UpdateScript0.03.rpy:5169
 translate turkish removebra_401ab40d_1:
 
     # R "Plus, it will look fantastic in the pics."
-    ""
+    R "Ayrıca, fotoğraflarda harika görünecek."
 
 # game/UpdateScript0.03.rpy:5170
 translate turkish removebra_42358ec8_1:
 
     # L "Yeah.... I don't think so. I'm going to get dressed and go home."
-    ""
+    L "Aynen.... Hiç sanmıyorum. Giyinip eve gideceğim."
 
 # game/UpdateScript0.03.rpy:5171
 translate turkish removebra_6210cab1:
 
     # "{i}\"Lauren Anger +4\"{/i}"
-    ""
+    "{i}\"Lauren'in kızgınlığı +4\"{/i}"
 
 # game/UpdateScript0.03.rpy:5173
 translate turkish removebra_5541bdda_1:
 
     # "{i}\"Lauren Affection -1\"{/i}"
-    ""
+    "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:5175
 translate turkish removebra_375035b3_1:
 
     # L "We can try again next week if you're willing to be more professional."
-    ""
+    L "Daha profesyonel olmaya istekliysen gelecek hafta tekrar deneyebiliriz."
 
 # game/UpdateScript0.03.rpy:5178
 translate turkish removebra_c77833a7:
 
     # "To get Lauren to take everything off you must have her submission at 19 points."
-    ""
+    "Lauren'in her şeyini çıkarmasını sağlamak için 19 boyun eğme puanına ulaşmalısın."
 
 # game/UpdateScript0.03.rpy:5183
 translate turkish removebra_27706357_2:
@@ -12280,13 +12280,13 @@ translate turkish removebra_6f81b151_2:
 translate turkish removebra_e51ecde2:
 
     # R "Ok, how bout we take this shoot to a whole different level."
-    ""
+    R "Pekâlâ, bu çekimi bambaşka bir seviyeye taşımaya ne dersin?"
 
 # game/UpdateScript0.03.rpy:5190
 translate turkish removebra_e60e938d_2:
 
     # L "How do you mean?"
-    ""
+    L "Nasıl yani?"
 
 # game/UpdateScript0.03.rpy:5191
 translate turkish removebra_9761dbcc:
@@ -12310,7 +12310,7 @@ translate turkish removebra_2ab6ad1b:
 translate turkish removebra_1640bf81:
 
     # L "What? I'm not showing off my coochie for you!"
-    ""
+    L "Ne? Senin için vajinamı göstermeyeceğim!"
 
 # game/UpdateScript0.03.rpy:5197
 translate turkish removebra_aba584b3:
@@ -12364,13 +12364,13 @@ translate turkish removebra_316668ef_2:
 translate turkish removebra_e51ecde2_1:
 
     # R "Ok, how bout we take this shoot to a whole different level."
-    ""
+    R "Pekâlâ, bu çekimi bambaşka bir seviyeye taşımaya ne dersin?"
 
 # game/UpdateScript0.03.rpy:5216
 translate turkish removebra_99481a82:
 
     # L "Uhhh.... what do you mean? Isn't this sexy enough?.... I mean you can see a lot of skin."
-    ""
+    L "Uhhh.... ne demek istiyorsun? Bu yeterince seksi değil mi?.... Yani çok fazla açık yer görebilirsin."
 
 # game/UpdateScript0.03.rpy:5217
 translate turkish removebra_3bcbe783_2:
@@ -12382,43 +12382,43 @@ translate turkish removebra_3bcbe783_2:
 translate turkish removebra_4bcb571a_2:
 
     # L "Further? How far are you trying to get me to go, you pervert?"
-    ""
+    L "Daha ileri mi? Beni ne kadar ileri götürmeye çalışıyorsun, seni sapık?"
 
 # game/UpdateScript0.03.rpy:5219
 translate turkish removebra_7984fc35:
 
     # R "Let's get some close-ups of between your legs."
-    ""
+    R "Bacaklarının arasını biraz yakından çekelim."
 
 # game/UpdateScript0.03.rpy:5220
 translate turkish removebra_1640bf81_1:
 
     # L "What? I'm not showing off my coochie for you!"
-    ""
+    L "Ne? Senin için vajinamı göstermeyeceğim!"
 
 # game/UpdateScript0.03.rpy:5221
 translate turkish removebra_16c2612a:
 
     # R "That's what your fans have been asking for in the comments section."
-    ""
+    R "Hayranlarının yorumlar bölümünde istediği de buydu."
 
 # game/UpdateScript0.03.rpy:5222
 translate turkish removebra_31240bed:
 
     # R "I'm just trying to give the people what they want so we can get the most likes possible."
-    ""
+    R "Ben sadece insanlara istediklerini vermeye çalışıyorum ki mümkün olan en fazla beğeniyi alabilelim."
 
 # game/UpdateScript0.03.rpy:5223
 translate turkish removebra_c74bd65a:
 
     # L "Yeah.... I don't think so, and fuck you! I'm going to get dressed and go home."
-    ""
+    L "Aynen.... Hiç sanmıyorum ve siktir git! Giyinip eve gideceğim."
 
 # game/UpdateScript0.03.rpy:5224
 translate turkish removebra_357c0099:
 
     # "{i}\"Lauren Anger +10\"{/i}"
-    ""
+    "{i}\"Lauren'in kızgınlığı +10\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:5226
 translate turkish removebra_1c9f8e4a:
@@ -12430,49 +12430,49 @@ translate turkish removebra_1c9f8e4a:
 translate turkish removebra_5a4211b0:
 
     # L "You better stop acting like an asshole if you want me to come again next week."
-    ""
+    L "Haftaya tekrar gelmemi istiyorsan pislik gibi davranmayı bıraksan iyi edersin."
 
 # game/UpdateScript0.03.rpy:5231
 translate turkish removebra_ab8b9b94:
 
     # "To get Lauren to take explicit photos, submission must be at 25 points."
-    ""
+    "Lauren'in müstehcen fotoğraflar çekmesi için sevginin 25 puan olması gerekiyor."
 
 # game/UpdateScript0.03.rpy:5235
 translate turkish removebra_e4287853:
 
     # R "I think we've got all the pics we need for now."
-    ""
+    R "Sanırım şimdilik ihtiyacımız olan tüm fotoğrafları çektik."
 
 # game/UpdateScript0.03.rpy:5241
 translate turkish removebra_067712df:
 
     # L "Really? We haven't taken that many."
-    ""
+    L "Gerçekten mi? O kadar çok yapmadık sanki."
 
 # game/UpdateScript0.03.rpy:5242
 translate turkish removebra_14afbb3f:
 
     # R "Yeah, but the ones we have are really good, and the only way they could be better, is if I pushed you to do something you might not be comfortable with."
-    ""
+    R "Evet, ama elimizdekiler gerçekten iyi ve daha iyi olmalarının tek yolu, sizi rahat edemeyeceğin bir şey yapmaya zorlamam."
 
 # game/UpdateScript0.03.rpy:5243
 translate turkish removebra_1953bb52:
 
     # L "Oh, [ryan]! You're such a professional."
-    ""
+    L "Oh, [ryan]! Tam bir profesyonelsin."
 
 # game/UpdateScript0.03.rpy:5244
 translate turkish removebra_7c5f1068:
 
     # L "And I really enjoyed the shoot!"
-    ""
+    L "Ve çekimden gerçekten keyif aldım!"
 
 # game/UpdateScript0.03.rpy:5245
 translate turkish removebra_65e00cb0:
 
     # L "And showing some skin was kind of exciting!"
-    ""
+    L "Ve vücudumu biraz göstermek heyecan vericiydi!"
 
 # game/UpdateScript0.03.rpy:5247
 translate turkish removebra_32f0afae_1:
@@ -12484,25 +12484,25 @@ translate turkish removebra_32f0afae_1:
 translate turkish removebra_c023ab9a:
 
     # L "I can't wait for the next photoshoot."
-    ""
+    L "Bir sonraki fotoğraf çekimi için sabırsızlanıyorum."
 
 # game/UpdateScript0.03.rpy:5250
 translate turkish removebra_3f123fa1:
 
     # L "I might be even more daring, and be willing to show a little more skin.... hahah..."
-    ""
+    L "Daha da cesur olabilirim ve biraz daha fazla vücut göstermeye istekli olabilirim.... hahah..."
 
 # game/UpdateScript0.03.rpy:5251
 translate turkish removebra_4fe4a74d:
 
     # R "Great! I can't wait either."
-    ""
+    R "Harika! Ben de sabırsızlanıyorum."
 
 # game/UpdateScript0.03.rpy:5252
 translate turkish removebra_d08e987e:
 
     # R "You can get dressed and I'll see you back home."
-    ""
+    R "Giyinebilirsin, eve dönünce görüşürüz."
 
 # game/UpdateScript0.03.rpy:5259
 translate turkish showtitties_64ee6bce:
@@ -12802,7 +12802,7 @@ translate turkish showtitties_21ac00c6:
 translate turkish showtitties_e60e938d:
 
     # L "How do you mean?"
-    ""
+    L "Nasıl yani?"
 
 # game/UpdateScript0.03.rpy:5389
 translate turkish showtitties_a27d143e:
@@ -12814,13 +12814,13 @@ translate turkish showtitties_a27d143e:
 translate turkish showtitties_f48b4bc5:
 
     # L "What? I'm not completely stripping to nothing for you!"
-    ""
+    L "Ne? Senin için tamamen soyunmayacağım!"
 
 # game/UpdateScript0.03.rpy:5395
 translate turkish showtitties_e9e78a4e:
 
     # R "You won't be completely naked, you will still wear all of your accessories."
-    ""
+    R "Tamamen çıplak olmayacaksın, yine de tüm aksesuarlarını takacaksın."
 
 # game/UpdateScript0.03.rpy:5396
 translate turkish showtitties_5301ab4f:
@@ -12862,7 +12862,7 @@ translate turkish showtitties_00a7854e:
 translate turkish showtitties_51f5e4f5:
 
     # L "Uhhh.... I don't think that's a good idea. Isn't this sexy enough?.... I mean you can see a lot of skin."
-    ""
+    L "Uhhh.... Bunun iyi bir fikir olduğunu sanmıyorum. Bu yeterince seksi değil mi? .... Yani çok fazla açık yer görebilirsin."
 
 # game/UpdateScript0.03.rpy:5411
 translate turkish showtitties_3bcbe783:
@@ -12874,73 +12874,73 @@ translate turkish showtitties_3bcbe783:
 translate turkish showtitties_4bcb571a:
 
     # L "Further? How far are you trying to get me to go, you pervert?"
-    ""
+    L "Daha ileri mi? Beni ne kadar ileri götürmeye çalışıyorsun, seni sapık?"
 
 # game/UpdateScript0.03.rpy:5413
 translate turkish showtitties_287f9ad2:
 
     # R "Let's shoot the rest in the nude."
-    ""
+    R "Geri kalanını çıplak çekelim."
 
 # game/UpdateScript0.03.rpy:5414
 translate turkish showtitties_f48b4bc5_1:
 
     # L "What? I'm not completely stripping to nothing for you!"
-    ""
+    L "Ne? Senin için tamamen soyunmayacağım!"
 
 # game/UpdateScript0.03.rpy:5415
 translate turkish showtitties_e9e78a4e_1:
 
     # R "You won't be completely naked, you will still wear all of your accessories."
-    ""
+    R "Tamamen çıplak olmayacaksın, yine de tüm aksesuarlarını takacaksın."
 
 # game/UpdateScript0.03.rpy:5416
 translate turkish showtitties_401ab40d:
 
     # R "Plus, it will look fantastic in the pics."
-    ""
+    R "Ayrıca, fotoğraflarda harika görünecek."
 
 # game/UpdateScript0.03.rpy:5417
 translate turkish showtitties_42358ec8:
 
     # L "Yeah.... I don't think so. I'm going to get dressed and go home."
-    ""
+    L "Aynen.... Hiç sanmıyorum. Giyinip eve gideceğim."
 
 # game/UpdateScript0.03.rpy:5418
 translate turkish showtitties_6210cab1:
 
     # "{i}\"Lauren Anger +4\"{/i}"
-    ""
+    "{i}\"Lauren'in kızgınlığı +4\"{/i}"
 
 # game/UpdateScript0.03.rpy:5420
 translate turkish showtitties_5541bdda:
 
     # "{i}\"Lauren Affection -1\"{/i}"
-    ""
+    "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:5422
 translate turkish showtitties_375035b3:
 
     # L "We can try again next week if you're willing to be more professional."
-    ""
+    L "Daha profesyonel olmaya istekliysen gelecek hafta tekrar deneyebiliriz."
 
 # game/UpdateScript0.03.rpy:5425
 translate turkish showtitties_c77833a7:
 
     # "To get Lauren to take everything off you must have her submission at 19 points."
-    ""
+    "Lauren'in her şeyini çıkarmasını sağlamak için 19 boyun eğme puanına ulaşmalısın."
 
 # game/UpdateScript0.03.rpy:5430
 translate turkish showtitties_e51ecde2:
 
     # R "Ok, how bout we take this shoot to a whole different level."
-    ""
+    R "Pekâlâ, bu çekimi bambaşka bir seviyeye taşımaya ne dersin?"
 
 # game/UpdateScript0.03.rpy:5431
 translate turkish showtitties_e60e938d_1:
 
     # L "How do you mean?"
-    ""
+    L "Nasıl yani?"
 
 # game/UpdateScript0.03.rpy:5432
 translate turkish showtitties_9761dbcc:
@@ -12964,7 +12964,7 @@ translate turkish showtitties_2ab6ad1b:
 translate turkish showtitties_1640bf81:
 
     # L "What? I'm not showing off my coochie for you!"
-    ""
+    L "Ne? Senin için vajinamı göstermeyeceğim!"
 
 # game/UpdateScript0.03.rpy:5440
 translate turkish showtitties_aba584b3:
@@ -13018,13 +13018,13 @@ translate turkish showtitties_316668ef_1:
 translate turkish showtitties_e51ecde2_1:
 
     # R "Ok, how bout we take this shoot to a whole different level."
-    ""
+    R "Pekâlâ, bu çekimi bambaşka bir seviyeye taşımaya ne dersin?"
 
 # game/UpdateScript0.03.rpy:5461
 translate turkish showtitties_99481a82:
 
     # L "Uhhh.... what do you mean? Isn't this sexy enough?.... I mean you can see a lot of skin."
-    ""
+    L "Uhhh.... ne demek istiyorsun? Bu yeterince seksi değil mi?.... Yani çok fazla açık yer görebilirsin."
 
 # game/UpdateScript0.03.rpy:5462
 translate turkish showtitties_3bcbe783_1:
@@ -13036,43 +13036,43 @@ translate turkish showtitties_3bcbe783_1:
 translate turkish showtitties_4bcb571a_1:
 
     # L "Further? How far are you trying to get me to go, you pervert?"
-    ""
+    L "Daha ileri mi? Beni ne kadar ileri götürmeye çalışıyorsun, seni sapık?"
 
 # game/UpdateScript0.03.rpy:5464
 translate turkish showtitties_7984fc35:
 
     # R "Let's get some close-ups of between your legs."
-    ""
+    R "Bacaklarının arasını biraz yakından çekelim."
 
 # game/UpdateScript0.03.rpy:5465
 translate turkish showtitties_1640bf81_1:
 
     # L "What? I'm not showing off my coochie for you!"
-    ""
+    L "Ne? Senin için vajinamı göstermeyeceğim!"
 
 # game/UpdateScript0.03.rpy:5466
 translate turkish showtitties_16c2612a:
 
     # R "That's what your fans have been asking for in the comments section."
-    ""
+    R "Hayranlarının yorumlar bölümünde istediği de buydu."
 
 # game/UpdateScript0.03.rpy:5467
 translate turkish showtitties_31240bed:
 
     # R "I'm just trying to give the people what they want so we can get the most likes possible."
-    ""
+    R "Ben sadece insanlara istediklerini vermeye çalışıyorum ki mümkün olan en fazla beğeniyi alabilelim."
 
 # game/UpdateScript0.03.rpy:5468
 translate turkish showtitties_c74bd65a:
 
     # L "Yeah.... I don't think so, and fuck you! I'm going to get dressed and go home."
-    ""
+    L "Aynen.... Hiç sanmıyorum ve siktir git! Giyinip eve gideceğim."
 
 # game/UpdateScript0.03.rpy:5469
 translate turkish showtitties_357c0099:
 
     # "{i}\"Lauren Anger +10\"{/i}"
-    ""
+    "{i}\"Lauren'in kızgınlığı +10\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:5471
 translate turkish showtitties_1c9f8e4a:
@@ -13084,19 +13084,19 @@ translate turkish showtitties_1c9f8e4a:
 translate turkish showtitties_5a4211b0:
 
     # L "You better stop acting like an asshole if you want me to come again next week."
-    ""
+    L "Haftaya tekrar gelmemi istiyorsan pislik gibi davranmayı bıraksan iyi edersin."
 
 # game/UpdateScript0.03.rpy:5476
 translate turkish showtitties_ab8b9b94:
 
     # "To get Lauren to take explicit photos, submission must be at 25 points."
-    ""
+    "Lauren'in müstehcen fotoğraflar çekmesi için sevginin 25 puan olması gerekiyor."
 
 # game/UpdateScript0.03.rpy:5482
 translate turkish showtitties_e4287853:
 
     # R "I think we've got all the pics we need for now."
-    ""
+    R "Sanırım şimdilik ihtiyacımız olan tüm fotoğrafları çektik."
 
 # game/UpdateScript0.03.rpy:5483
 translate turkish showtitties_c1144d3f:
@@ -13114,19 +13114,19 @@ translate turkish showtitties_ebe753ed:
 translate turkish showtitties_1953bb52:
 
     # L "Oh, [ryan]! You're such a professional."
-    ""
+    L "Oh, [ryan]! Tam bir profesyonelsin."
 
 # game/UpdateScript0.03.rpy:5486
 translate turkish showtitties_7c5f1068:
 
     # L "And I really enjoyed the shoot!"
-    ""
+    L "Ve çekimden gerçekten keyif aldım!"
 
 # game/UpdateScript0.03.rpy:5487
 translate turkish showtitties_65e00cb0:
 
     # L "And showing some skin was kind of exciting!"
-    ""
+    L "Ve vücudumu biraz göstermek heyecan vericiydi!"
 
 # game/UpdateScript0.03.rpy:5489
 translate turkish showtitties_32f0afae:
@@ -13138,25 +13138,25 @@ translate turkish showtitties_32f0afae:
 translate turkish showtitties_c023ab9a:
 
     # L "I can't wait for the next photoshoot."
-    ""
+    L "Bir sonraki fotoğraf çekimi için sabırsızlanıyorum."
 
 # game/UpdateScript0.03.rpy:5492
 translate turkish showtitties_3f123fa1:
 
     # L "I might be even more daring, and be willing to show a little more skin.... hahah..."
-    ""
+    L "Daha da cesur olabilirim ve biraz daha fazla vücut göstermeye istekli olabilirim.... hahah..."
 
 # game/UpdateScript0.03.rpy:5493
 translate turkish showtitties_4fe4a74d:
 
     # R "Great! I can't wait either."
-    ""
+    R "Harika! Ben de sabırsızlanıyorum."
 
 # game/UpdateScript0.03.rpy:5494
 translate turkish showtitties_d08e987e:
 
     # R "You can get dressed and I'll see you back home."
-    ""
+    R "Giyinebilirsin, eve dönünce görüşürüz."
 
 # game/UpdateScript0.03.rpy:5503
 translate turkish removethong_370916b8:
@@ -13324,13 +13324,13 @@ translate turkish removethong_5bb8d876:
 translate turkish removethong_e51ecde2:
 
     # R "Ok, how bout we take this shoot to a whole different level."
-    ""
+    R "Pekâlâ, bu çekimi bambaşka bir seviyeye taşımaya ne dersin?"
 
 # game/UpdateScript0.03.rpy:5553
 translate turkish removethong_e60e938d:
 
     # L "How do you mean?"
-    ""
+    L "Nasıl yani?"
 
 # game/UpdateScript0.03.rpy:5554
 translate turkish removethong_9761dbcc:
@@ -13354,7 +13354,7 @@ translate turkish removethong_2ab6ad1b:
 translate turkish removethong_1640bf81:
 
     # L "What? I'm not showing off my coochie for you!"
-    ""
+    L "Ne? Senin için vajinamı göstermeyeceğim!"
 
 # game/UpdateScript0.03.rpy:5562
 translate turkish removethong_aba584b3:
@@ -13408,13 +13408,13 @@ translate turkish removethong_316668ef:
 translate turkish removethong_e51ecde2_1:
 
     # R "Ok, how bout we take this shoot to a whole different level."
-    ""
+    R "Pekâlâ, bu çekimi bambaşka bir seviyeye taşımaya ne dersin?"
 
 # game/UpdateScript0.03.rpy:5579
 translate turkish removethong_99481a82:
 
     # L "Uhhh.... what do you mean? Isn't this sexy enough?.... I mean you can see a lot of skin."
-    ""
+    L "Uhhh.... ne demek istiyorsun? Bu yeterince seksi değil mi?.... Yani çok fazla açık yer görebilirsin."
 
 # game/UpdateScript0.03.rpy:5580
 translate turkish removethong_3bcbe783:
@@ -13426,43 +13426,43 @@ translate turkish removethong_3bcbe783:
 translate turkish removethong_4bcb571a:
 
     # L "Further? How far are you trying to get me to go, you pervert?"
-    ""
+    L "Daha ileri mi? Beni ne kadar ileri götürmeye çalışıyorsun, seni sapık?"
 
 # game/UpdateScript0.03.rpy:5582
 translate turkish removethong_7984fc35:
 
     # R "Let's get some close-ups of between your legs."
-    ""
+    R "Bacaklarının arasını biraz yakından çekelim."
 
 # game/UpdateScript0.03.rpy:5583
 translate turkish removethong_1640bf81_1:
 
     # L "What? I'm not showing off my coochie for you!"
-    ""
+    L "Ne? Senin için vajinamı göstermeyeceğim!"
 
 # game/UpdateScript0.03.rpy:5584
 translate turkish removethong_16c2612a:
 
     # R "That's what your fans have been asking for in the comments section."
-    ""
+    R "Hayranlarının yorumlar bölümünde istediği de buydu."
 
 # game/UpdateScript0.03.rpy:5585
 translate turkish removethong_31240bed:
 
     # R "I'm just trying to give the people what they want so we can get the most likes possible."
-    ""
+    R "Ben sadece insanlara istediklerini vermeye çalışıyorum ki mümkün olan en fazla beğeniyi alabilelim."
 
 # game/UpdateScript0.03.rpy:5586
 translate turkish removethong_c74bd65a:
 
     # L "Yeah.... I don't think so, and fuck you! I'm going to get dressed and go home."
-    ""
+    L "Aynen.... Hiç sanmıyorum ve siktir git! Giyinip eve gideceğim."
 
 # game/UpdateScript0.03.rpy:5587
 translate turkish removethong_357c0099:
 
     # "{i}\"Lauren Anger +10\"{/i}"
-    ""
+    "{i}\"Lauren'in kızgınlığı +10\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:5589
 translate turkish removethong_1c9f8e4a:
@@ -13474,19 +13474,19 @@ translate turkish removethong_1c9f8e4a:
 translate turkish removethong_5a4211b0:
 
     # L "You better stop acting like an asshole if you want me to come again next week."
-    ""
+    L "Haftaya tekrar gelmemi istiyorsan pislik gibi davranmayı bıraksan iyi edersin."
 
 # game/UpdateScript0.03.rpy:5594
 translate turkish removethong_ab8b9b94:
 
     # "To get Lauren to take explicit photos, submission must be at 25 points."
-    ""
+    "Lauren'in müstehcen fotoğraflar çekmesi için sevginin 25 puan olması gerekiyor."
 
 # game/UpdateScript0.03.rpy:5600
 translate turkish removethong_e4287853:
 
     # R "I think we've got all the pics we need for now."
-    ""
+    R "Sanırım şimdilik ihtiyacımız olan tüm fotoğrafları çektik."
 
 # game/UpdateScript0.03.rpy:5601
 translate turkish removethong_c1144d3f:
@@ -13504,19 +13504,19 @@ translate turkish removethong_ebe753ed:
 translate turkish removethong_1953bb52:
 
     # L "Oh, [ryan]! You're such a professional."
-    ""
+    L "Oh, [ryan]! Tam bir profesyonelsin."
 
 # game/UpdateScript0.03.rpy:5604
 translate turkish removethong_7c5f1068:
 
     # L "And I really enjoyed the shoot!"
-    ""
+    L "Ve çekimden gerçekten keyif aldım!"
 
 # game/UpdateScript0.03.rpy:5605
 translate turkish removethong_65e00cb0:
 
     # L "And showing some skin was kind of exciting!"
-    ""
+    L "Ve vücudumu biraz göstermek heyecan vericiydi!"
 
 # game/UpdateScript0.03.rpy:5607
 translate turkish removethong_32f0afae:
@@ -13528,25 +13528,25 @@ translate turkish removethong_32f0afae:
 translate turkish removethong_c023ab9a:
 
     # L "I can't wait for the next photoshoot."
-    ""
+    L "Bir sonraki fotoğraf çekimi için sabırsızlanıyorum."
 
 # game/UpdateScript0.03.rpy:5610
 translate turkish removethong_3f123fa1:
 
     # L "I might be even more daring, and be willing to show a little more skin.... hahah..."
-    ""
+    L "Daha da cesur olabilirim ve biraz daha fazla vücut göstermeye istekli olabilirim.... hahah..."
 
 # game/UpdateScript0.03.rpy:5611
 translate turkish removethong_4fe4a74d:
 
     # R "Great! I can't wait either."
-    ""
+    R "Harika! Ben de sabırsızlanıyorum."
 
 # game/UpdateScript0.03.rpy:5612
 translate turkish removethong_d08e987e:
 
     # R "You can get dressed and I'll see you back home."
-    ""
+    R "Giyinebilirsin, eve dönünce görüşürüz."
 
 # game/UpdateScript0.03.rpy:5620
 translate turkish htbyd_closeups_f353b624:
@@ -13984,7 +13984,7 @@ translate turkish htbyd_closeups_a8c3e8f9:
 translate turkish htbyd_closeups_a0f5f83c:
 
     # L "Oh, thank God!..."
-    ""
+    L "Oh, Tanrıya şükür!..."
 
 # game/UpdateScript0.03.rpy:5822
 translate turkish htbyd_closeups_a65c33c6:
@@ -14089,9 +14089,9 @@ translate turkish htbyd_closeups_d7d93648:
     ""
 
 # game/UpdateScript0.03.rpy:5847
-translate turkish htbyd_closeups_aaafb688:
+translate turkish htbyd_closeups_ffb0eddf:
 
-    # L "[ryan]? I know I said we shouldn't go any farther, but it's ok if we just go as far as we did before right?"
+    # L "[ryan]? I know I said we shouldn't go any farther, but it's okay if we just go as far as we did before right?"
     ""
 
 # game/UpdateScript0.03.rpy:5848
@@ -14310,25 +14310,25 @@ translate turkish strings:
 
     # game/UpdateScript0.03.rpy:4144
     old "Ask her to take off her skirt. {i}(submission 5+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
-    new ""
+    new "Ona eteğini çıkarmasını söyle. Gerekli: {i}(boyun eğme +5 {b}{color=#0000ff}veya{/color}{/b} azgınlık +9){/i}"
 
     # game/UpdateScript0.03.rpy:4144
     old "Ask her to show her buckskin thong from behind. {i}(submission 7+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
-    new ""
+    new "Arkadan geyik derisi tangasını göstermesini iste. Gerekli: {i}(boyun eğme +7 {b}{color=#0000ff}veya{/color}{/b} azgınlık +9){/i}"
 
     # game/UpdateScript0.03.rpy:4144
     old "Ask her to take off her buckskin bra. {i}(submission 10+ {b}{color=#0000ff}or{/color}{/b} libido 10){/i}"
-    new ""
+    new "Sütyenini çıkarmasını iste. Gerekli: {i}(boyun eğme +10 {b}{color=#0000ff}veya{/color}{/b} azgınlık 10){/i}"
 
     # game/UpdateScript0.03.rpy:4144
     old "Ask her to show her titties. {i}(submission 14+){/i}"
-    new ""
+    new "Meme uçlarını göstermesini iste. Gerekli: {i}(boyun eğme +14){/i}"
 
     # game/UpdateScript0.03.rpy:4144
     old "Ask her to take off her buckskin thong. {i}(submission 19+){/i}"
-    new ""
+    new "Geyik derisi tangasını çıkarmasını iste. Gerekli: {i}(boyun eğme +19){/i}"
 
     # game/UpdateScript0.03.rpy:4144
     old "Ask her for explicit close-ups. {i}(submission 25+){/i}"
-    new ""
+    new "Ondan açık seçik yakın çekimler iste. {i}(saygınlık 25+){/i}"
 

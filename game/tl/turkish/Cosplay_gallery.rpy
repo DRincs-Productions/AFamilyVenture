@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-12-01 22:29
+# TODO: Translation updated at 2023-06-26 18:52
 
 # game/Cosplay_gallery.rpy:1213
 translate turkish cosplay_label_c1f386dd:
@@ -34,7 +34,7 @@ translate turkish supporters_income_photoshoot_ed87ddab:
 translate turkish income_photoshoot_9eef3851:
 
     # "You have received [new_likes] new likes and earned $[income]!"
-    "[new_likes] yeni beğeni aldınız ve[income]$ kazandınız!"
+    "[new_likes] yeni beğeni aldınız ve [income]$ kazandınız!"
 
 # game/Cosplay_gallery.rpy:1827
 translate turkish income_photoshoot_e4c275b3:

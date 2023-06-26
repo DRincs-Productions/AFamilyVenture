@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-12-01 22:29
+# TODO: Translation updated at 2023-06-26 18:52
 
 # game/UpdateScriptChristmasEvent.rpy:247
 translate french xmas_dream_387f76a6:
@@ -889,10 +889,10 @@ translate french xmas_present_82ea9983:
     S "(murmure endormi).... ohhhhhh.... [ryan].... depuis quand tu aimes manger du cul?.... Ça fait tellement du bien!"
 
 # game/UpdateScriptChristmasEvent.rpy:509
-translate french xmas_present_cddbe70d:
+translate french xmas_present_95e3c8d2:
 
-    # R "And why is it ok for you to be sexually depraved, but you want to stop me from doing just that."
-    R "Et pourquoi est-ce correct pour toi d'être dépravée sexuellement, mais tu veux m'empêcher de faire exactement cela."
+    # R "And why is it okay for you to be sexually depraved, but you want to stop me from doing just that."
+    ""
 
 # game/UpdateScriptChristmasEvent.rpy:512
 translate french xmas_present_69b1c2ea:
@@ -1663,10 +1663,10 @@ translate french xmas_future_b41c9d22:
     M "Je sais que tu as entendu parler des visites conjugales."
 
 # game/UpdateScriptChristmasEvent.rpy:708
-translate french xmas_future_f2bc701c:
+translate french xmas_future_3a9412b9:
 
-    # R "And you're ok raising him as a single mom?"
-    R "Et tu es d'accord pour l'élever comme une mère célibataire?"
+    # R "And you're okay raising him as a single mom?"
+    ""
 
 # game/UpdateScriptChristmasEvent.rpy:709
 translate french xmas_future_39f6d57d:
@@ -3781,10 +3781,10 @@ translate french cookies_in_oven_7bc564e4:
     R "Quoi?! .... T’es sérieux!?"
 
 # game/UpdateScriptChristmasEvent.rpy:1440
-translate french cookies_in_oven_27439301:
+translate french cookies_in_oven_3f064831:
 
-    # R "And I was ok with this?"
-    R "Et j'étais d'accord avec ça?"
+    # R "And I was okay with this?"
+    ""
 
 # game/UpdateScriptChristmasEvent.rpy:1441
 translate french cookies_in_oven_1fd9872f:
@@ -4135,10 +4135,10 @@ translate french cookies_in_oven_8f1622e6:
     RT "{i}Merci.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1517
-translate french cookies_in_oven_dc96db1f:
+translate french cookies_in_oven_1505a4e6:
 
-    # R "And are you ok with getting pregnant from your brother?"
-    R "Et êtes-vous d'accord pour tomber enceinte de votre frère?"
+    # R "And are you okay with getting pregnant from your brother?"
+    ""
 
 # game/UpdateScriptChristmasEvent.rpy:1518
 translate french cookies_in_oven_f4dba509:
@@ -4273,10 +4273,10 @@ translate french cookies_in_oven_a7bbc898:
     L "Quand c'est arrivé, Ça m'a juste rendu heureux!"
 
 # game/UpdateScriptChristmasEvent.rpy:1546
-translate french cookies_in_oven_ca1412d8:
+translate french cookies_in_oven_96b2c866:
 
-    # L "And I'm so glad that you're ok with being a daddy!"
-    L "Et je suis tellement content que tu sois d'accord pour être papa!"
+    # L "And I'm so glad that you're okay with being a daddy!"
+    ""
 
 # game/UpdateScriptChristmasEvent.rpy:1548
 translate french cookies_in_oven_0994739e:
@@ -5653,10 +5653,10 @@ translate french christmas_shoot_0b2b81d3:
     LT "{i}Je le fais en quelque sorte.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1893
-translate french christmas_shoot_55a83b56:
+translate french christmas_shoot_192187d7:
 
-    # S "Uuuhhh.... ok Lauren.... let's.... get.... into position."
-    S "Uuuhhh.... ok Lauren.... allons-y.... obtenir.... en position."
+    # S "Uuuhhh.... okay Lauren.... let's.... get.... into position."
+    ""
 
 # game/UpdateScriptChristmasEvent.rpy:1897
 translate french christmas_shoot_f53eaa6f:
@@ -5683,10 +5683,10 @@ translate french christmas_shoot_1c0ca9e8:
     R "Génial! Maintenant, rapproches le gode un peu plus près."
 
 # game/UpdateScriptChristmasEvent.rpy:1905
-translate french christmas_shoot_d1b8db6f:
+translate french christmas_shoot_c92d2e64:
 
-    # R "And if Lauren's ok with it, just kind of prod and push the dildo between her thigh gap."
-    R "Et si Lauren est d'accord avec ça, juste une sorte de prod et pousser le gode entre son espace de cuisse."
+    # R "And if Lauren's okay with it, just kind of prod and push the dildo between her thigh gap."
+    ""
 
 # game/UpdateScriptChristmasEvent.rpy:1906
 translate french christmas_shoot_ddf72a39:
@@ -6007,10 +6007,10 @@ translate french christmas_shoot_f2ab2857:
     L "Oh, mon putain!..."
 
 # game/UpdateScriptChristmasEvent.rpy:1983
-translate french christmas_shoot_7b4188c4:
+translate french christmas_shoot_7b68c98d:
 
-    # R "Are you ok over there?"
-    R "Tu vas bien ?"
+    # R "Are you okay over there?"
+    ""
 
 # game/UpdateScriptChristmasEvent.rpy:1984
 translate french christmas_shoot_9005b5b9:
@@ -7315,10 +7315,10 @@ translate french christmas_shoot_0b2b81d3_1:
     LT "{i}Je le fais en quelque sorte.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2311
-translate french christmas_shoot_b1735579:
+translate french christmas_shoot_17e5ef7c:
 
-    # S "Uuuhhh.... ok Lauren.... let's get.... into position."
-    S "Uuuhhh.... ok Lauren.... allons-y.... en position."
+    # S "Uuuhhh.... okay Lauren.... let's get.... into position."
+    ""
 
 # game/UpdateScriptChristmasEvent.rpy:2315
 translate french christmas_shoot_f53eaa6f_1:
@@ -7681,10 +7681,10 @@ translate french christmas_shoot_f2ab2857_1:
     L "Oh, mon putain!..."
 
 # game/UpdateScriptChristmasEvent.rpy:2403
-translate french christmas_shoot_7b4188c4_1:
+translate french christmas_shoot_7b68c98d_1:
 
-    # R "Are you ok over there?"
-    R "Tu vas bien ?"
+    # R "Are you okay over there?"
+    ""
 
 # game/UpdateScriptChristmasEvent.rpy:2404
 translate french christmas_shoot_9005b5b9_1:

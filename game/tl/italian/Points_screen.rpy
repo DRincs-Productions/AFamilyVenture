@@ -1,5 +1,5 @@
 
-"Mom's stats:\n"# TODO: Translation updated at 2022-12-01 22:29
+"Mom's stats:\n"# TODO: Translation updated at 2023-06-26 18:52
 
 translate italian strings:
 

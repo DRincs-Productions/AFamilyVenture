@@ -1,10 +1,10 @@
-# TODO: Translation updated at 2022-12-01 22:29
+# TODO: Translation updated at 2023-06-26 18:52
 
 # game/UpdateScript0.04.rpy:320
 translate turkish get_sidney_modeling_68a39f05:
 
     # RT "{i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
-    ""
+    RT "{i}Tamam, sanırım yeterince el işi yaptım, şimdi işleri bir üst seviyeye taşımanın zamanı geldi.{/i}"
 
 # game/UpdateScript0.04.rpy:328
 translate turkish get_sidney_modeling_55ee820d:
@@ -34,7 +34,7 @@ translate turkish get_sidney_modeling_a8826143:
 translate turkish get_sidney_modeling_200e2379:
 
     # ST "{i}I've got to time this just right.{/i}"
-    ""
+    ST "{i}Zamanlamayı doğru yapmalıyım.{/i}"
 
 # game/UpdateScript0.04.rpy:349
 translate turkish get_sidney_modeling_95ace776:
@@ -76,43 +76,43 @@ translate turkish get_sidney_modeling_0cb05509:
 translate turkish get_sidney_modeling_c9f57903:
 
     # RT "{i}Shit, if I don't do something now, I'm going to lose it.{/i}"
-    ""
+    RT "{i}Siktir, eğer şimdi bir şey yapmazsam, onu kaybedeceğim.{/i}"
 
 # game/UpdateScript0.04.rpy:366
 translate turkish get_sidney_modeling_5c612181:
 
     # RT "{i}Well, luck favors the bold.... here goes nothing.{/i}"
-    ""
+    RT "{i}Şans cesurlardan yanadır.... burada bir şey yok.{/i}"
 
 # game/UpdateScript0.04.rpy:367
 translate turkish get_sidney_modeling_f3d0cd80:
 
     # R "SIDNEY! What the fuck are you doing!!?"
-    ""
+    R "SİDNEY! Ne halt ediyorsun sen!!?"
 
 # game/UpdateScript0.04.rpy:370
 translate turkish get_sidney_modeling_7cfa3d8f:
 
     # S "AAAAaaaahhhhhhhhhh.... holy shit!!"
-    ""
+    S "AAAAaaaahhhhhhhhhh.... amına koyim!!"
 
 # game/UpdateScript0.04.rpy:373
 translate turkish get_sidney_modeling_a272a979:
 
     # R "Sidney?.... Why were you touching me?"
-    ""
+    R "Sidney?.... Neden benimkine dokunuyordun?"
 
 # game/UpdateScript0.04.rpy:374
 translate turkish get_sidney_modeling_9bdd82ac:
 
     # R "Why are your pants off?"
-    ""
+    R "Pantolonunu neden çıkardın?"
 
 # game/UpdateScript0.04.rpy:375
 translate turkish get_sidney_modeling_6d42abb1:
 
     # R "Have you been taking advantage of me in my sleep?..."
-    ""
+    R "Uykumda benden faydalanmaya mı çalışıyordun?..."
 
 # game/UpdateScript0.04.rpy:376
 translate turkish get_sidney_modeling_4b6b42e2:
@@ -130,187 +130,187 @@ translate turkish get_sidney_modeling_b0d15333:
 translate turkish get_sidney_modeling_6abe79fd:
 
     # S "Kind of..."
-    ""
+    S "Bir nevi..."
 
 # game/UpdateScript0.04.rpy:379
 translate turkish get_sidney_modeling_83608f82:
 
     # S "It's a long story."
-    ""
+    S "Bu uzun bir hikaye."
 
 # game/UpdateScript0.04.rpy:380
 translate turkish get_sidney_modeling_7f0624ec:
 
     # R "Well, let's hear it."
-    ""
+    R "Dinleyelim bakalım."
 
 # game/UpdateScript0.04.rpy:381
 translate turkish get_sidney_modeling_e2acb40e:
 
     # S ".... Well, ever since I've been home.... I started having this problem..."
-    ""
+    S ".... Eve geldiğimden beri.... bu sorunu yaşamaya başladım..."
 
 # game/UpdateScript0.04.rpy:384
 translate turkish get_sidney_modeling_fe06198e:
 
     # " {i}\"5 to 10 minutes later.\"{/i}"
-    ""
+    " {i}\"5 ila 10 dakika sonra.\"{/i}"
 
 # game/UpdateScript0.04.rpy:387
 translate turkish get_sidney_modeling_0ea4eb84:
 
     # R "Ok.... so you're telling me that even though you started waking up, you didn't stop because of curiosity..."
-    ""
+    R "Tamam.... yani bana uyanmaya başladığın halde.... merak yüzünden durmadığını mı söylüyorsun?.."
 
 # game/UpdateScript0.04.rpy:388
 translate turkish get_sidney_modeling_47ab3632:
 
     # S "I guess.... I mean I already had your penis in my hand.... and I've never seen or touched a penis that big..."
-    ""
+    S "Sanırım.... Yani penisin zaten elimdeydi.... ve daha önce hiç bu kadar büyük bir penis görmedim ya da dokunmadım..."
 
 # game/UpdateScript0.04.rpy:389
 translate turkish get_sidney_modeling_18efc3f4:
 
     # S "Plus you said you take melatonin at night.... so you sleep really deep..."
-    ""
+    S "Ayrıca geceleri melatonin aldığını söylemiştin.... yani gerçekten derin uyuyorsun..."
 
 # game/UpdateScript0.04.rpy:390
 translate turkish get_sidney_modeling_51154474:
 
     # S "Curiosity got the better of me..."
-    ""
+    S "Merak beni benden aldı..."
 
 # game/UpdateScript0.04.rpy:391
 translate turkish get_sidney_modeling_cada8d71:
 
     # R "Did I ever cum?"
-    ""
+    R "Hiç boşaldım mı?"
 
 # game/UpdateScript0.04.rpy:392
 translate turkish get_sidney_modeling_c9638555:
 
     # S "Oh, no.... well.... maybe once or twice."
-    ""
+    S "Oh, hayır.... şey.... belki bir ya da iki kez."
 
 # game/UpdateScript0.04.rpy:393
 translate turkish get_sidney_modeling_4e2048af:
 
     # RT "{i}Hah!.... Yeah, right.... {/i}"
-    ""
+    RT "{i}Hah!.... Evet, doğru.... {/i}"
 
 # game/UpdateScript0.04.rpy:394
 translate turkish get_sidney_modeling_11e2611d:
 
     # S "But I can't stress enough.... that it was just curiosity..."
-    ""
+    S "Ancak.... bunun sadece bir merak olduğunu.... ne kadar vurgulasam azdır... "
 
 # game/UpdateScript0.04.rpy:395
 translate turkish get_sidney_modeling_7adfbfb6:
 
     # S "It's not because I have any unnatural feelings for you or anything..."
-    ""
+    S "Sana karşı doğal olmayan duygular beslediğimden falan değil..."
 
 # game/UpdateScript0.04.rpy:396
 translate turkish get_sidney_modeling_9bb72bb3:
 
     # S "I'd just never seen a penis cum up close before..."
-    ""
+    S "Daha önce bir penisi hiç bu kadar yakından boşalırken görmemiştim..."
 
 # game/UpdateScript0.04.rpy:397
 translate turkish get_sidney_modeling_34cf2732:
 
     # R "So, it was just curiosity?"
-    ""
+    R "Yani, sadece meraktan mıydı?"
 
 # game/UpdateScript0.04.rpy:398
 translate turkish get_sidney_modeling_1ff911d8:
 
     # S "Yes.... exactly..."
-    ""
+    S "Evet.... kesinlikle..."
 
 # game/UpdateScript0.04.rpy:399
 translate turkish get_sidney_modeling_ca6527f8:
 
     # RT "{i}Hmmmm.... I can see this playing out one of two ways.... {/i}"
-    ""
+    RT "{i}Hmmmm.... Bunun iki şekilde sonuçlanacağını görebiliyorum.... {/i}"
 
 # game/UpdateScript0.04.rpy:400
 translate turkish get_sidney_modeling_12571fa4:
 
     # RT "{i}I can either play off her sense of guilt, and get what I want by playing the victim.... or.... {/i}"
-    ""
+    RT "{i}Ya onun suçluluk duygusuyla oynayıp mağduru oynayarak istediğimi elde edebilirim ya da.... {/i}"
 
 # game/UpdateScript0.04.rpy:401
 translate turkish get_sidney_modeling_80e344d6:
 
     # RT "{i}I could be more dominant, and use the leverage of telling Mom to blackmail her.{/i}"
-    ""
+    RT "{i}daha baskın olup anneme söyleyerek ona şantaj yapabilirim.{/i}"
 
 # game/UpdateScript0.04.rpy:406
 translate turkish get_sidney_modeling_6e39b793:
 
     # R "I mean.... you've been taking advantage of me without my consent."
-    ""
+    R "Yani.... rızam olmadan benden faydalanıyordun."
 
 # game/UpdateScript0.04.rpy:407
 translate turkish get_sidney_modeling_b53c0c65:
 
     # S "No.... I mean.... I didn't mean to..."
-    ""
+    S "Hayır.... Yani.... Öyle demek istemedim..."
 
 # game/UpdateScript0.04.rpy:408
 translate turkish get_sidney_modeling_257aded6:
 
     # R "I mean how do we ever go back to the way things were?..."
-    ""
+    R "Yani her şeyin eski haline nasıl geri döndürebiliriz?..."
 
 # game/UpdateScript0.04.rpy:409
 translate turkish get_sidney_modeling_1830b3a9:
 
     # R "It's like you have something over me..."
-    ""
+    R "Sanki üzerimde bir şeyin varmış gibi..."
 
 # game/UpdateScript0.04.rpy:410
 translate turkish get_sidney_modeling_01907a40:
 
     # S "[ryan], .... it's not like that.... I don't think of you like.... uhhhhh..."
-    ""
+    S "[ryan], .... öyle değil.... seni böyle düşünmüyorum.... uhhhhh..."
 
 # game/UpdateScript0.04.rpy:411
 translate turkish get_sidney_modeling_7b523387:
 
     # R "A sex toy?.... To just use whenever you want?"
-    ""
+    R "Bir seks oyuncağı mı?.... İstediğin zaman kullanmak için mi?"
 
 # game/UpdateScript0.04.rpy:412
 translate turkish get_sidney_modeling_b89b07d3:
 
     # S "No, of course not..."
-    ""
+    S "Hayır, elbette hayır..."
 
 # game/UpdateScript0.04.rpy:413
 translate turkish get_sidney_modeling_32378bc3:
 
     # S "What can I do to make it up to you?..."
-    ""
+    S "Bunu telafi etmek için ne yapabilirim?..."
 
 # game/UpdateScript0.04.rpy:414
 translate turkish get_sidney_modeling_684d1eb6:
 
     # R "I don't know.... like I said.... I feel like your toy.... not like your brother."
-    ""
+    R "Bilmiyorum.... dediğim gibi.... oyuncağın gibi hissediyorum.... kardeşin gibi değil."
 
 # game/UpdateScript0.04.rpy:415
 translate turkish get_sidney_modeling_a977a121:
 
     # S "Well, there's got to be a way to get us back on equal ground..."
-    ""
+    S "Bizi tekrar aynı hale getirmenin bir yolu olmalı..."
 
 # game/UpdateScript0.04.rpy:416
 translate turkish get_sidney_modeling_3f5746ae:
 
     # S "Just tell me what I can do."
-    ""
+    S "Ne yapabileceğimi söyle yeter."
 
 # game/UpdateScript0.04.rpy:417
 translate turkish get_sidney_modeling_d4c72802:
@@ -322,271 +322,271 @@ translate turkish get_sidney_modeling_d4c72802:
 translate turkish get_sidney_modeling_9f743dde:
 
     # R "What if you gave me a blowjob?"
-    ""
+    R "Ya bana sakso çeksen?"
 
 # game/UpdateScript0.04.rpy:421
 translate turkish get_sidney_modeling_f878e6fa:
 
     # S "What!?.... Are you serious!?"
-    ""
+    S "Ne!?.... Ciddi misin sen!?"
 
 # game/UpdateScript0.04.rpy:422
 translate turkish get_sidney_modeling_fb850a4e:
 
     # R "Yeah.... I mean, think about it."
-    ""
+    R "Evet.... Yani, bir düşünsene."
 
 # game/UpdateScript0.04.rpy:423
 translate turkish get_sidney_modeling_ac0d4b77:
 
     # R "You've been using me for your own perverted curiosity and gratification..."
-    ""
+    R "Beni kendi sapkın merakın ve hazzın için kullanıyordun..."
 
 # game/UpdateScript0.04.rpy:424
 translate turkish get_sidney_modeling_9449b073:
 
     # R "Wouldn't it make sense for me to get to use you for mine?"
-    ""
+    R "Seni kendim için kullanmam mantıklı olmaz mı?"
 
 # game/UpdateScript0.04.rpy:425
 translate turkish get_sidney_modeling_949a4fa7:
 
     # S "But.... but.... I'm your sister!"
-    ""
+    S "Ama.... ama.... Ben senin ablanım!"
 
 # game/UpdateScript0.04.rpy:426
 translate turkish get_sidney_modeling_f13a460a:
 
     # R "That didn't stop you before."
-    ""
+    R "Bu durum seni daha önce durdurmadı."
 
 # game/UpdateScript0.04.rpy:427
 translate turkish get_sidney_modeling_39400c14:
 
     # S "But I didn't think you'd find out!"
-    ""
+    S "Ama öğreneceğini düşünmemiştim!"
 
 # game/UpdateScript0.04.rpy:428
 translate turkish get_sidney_modeling_8efee807:
 
     # R "Yeah, well I did.... and I can't think of anything else that will help me feel like we're on equal ground."
-    ""
+    R "Evet.... yaptım ve aynı halde olduğumuzu hissetmeme yardımcı olacak başka bir şey düşünemiyorum."
 
 # game/UpdateScript0.04.rpy:429
 translate turkish get_sidney_modeling_12b6f722:
 
     # S "Uuuggghhh.... fine!.... This has gotten so weird..."
-    ""
+    S "Uuuggghhh.... iyi!.... Bu iş çok garipleşti..."
 
 # game/UpdateScript0.04.rpy:432
 translate turkish get_sidney_modeling_5581397a:
 
     # ST "{i}Why couldn't I just control myself?.... I got myself into this mess.{/i}"
-    ""
+    ST "{i}Neden kendimi kontrol edemedim?.... Kendimi bu pisliğe ben bulaştırdım.{/i}"
 
 # game/UpdateScript0.04.rpy:433
 translate turkish get_sidney_modeling_256c3772:
 
     # ST "{i}If I'd only known the price was sucking my brother's dick.{/i}"
-    ""
+    ST "{i}Keşke bedelinin kardeşimin sikini yalamak olduğunu bilseydim.{/i}"
 
 # game/UpdateScript0.04.rpy:434
 translate turkish get_sidney_modeling_b87fd156:
 
     # R "I'm ready any time."
-    ""
+    R "Her zaman hazırım."
 
 # game/UpdateScript0.04.rpy:435
 translate turkish get_sidney_modeling_0c6c5bd4:
 
     # S "Shut up, and don't rush me..."
-    ""
+    S "Kapa çeneni ve beni acele ettirme..."
 
 # game/UpdateScript0.04.rpy:438
 translate turkish get_sidney_modeling_c81ffd40:
 
     # ST "{i}Ok, Sidney, you can do this.... {/i}"
-    ""
+    ST "{i}Tamam Sidney, bunu yapabilirsin.... {/i}"
 
 # game/UpdateScript0.04.rpy:439
 translate turkish get_sidney_modeling_fc9a3727:
 
     # ST "{i}Pretend it's not [ryan].... {/i}"
-    ""
+    ST "{i}Onun [ryan] olmadığını düşün.... {/i}"
 
 # game/UpdateScript0.04.rpy:440
 translate turkish get_sidney_modeling_35597202:
 
     # ST "{i}Just pretend it's a popsicle.... {/i}"
-    ""
+    ST "{i}Sadece buzlu şeker gibi hayal et.... {/i}"
 
 # game/UpdateScript0.04.rpy:441
 translate turkish get_sidney_modeling_fe38e542:
 
     # ST "{i}A pee flavored luke warm popsicle.... {/i}"
-    ""
+    ST "{i}Çiş aromalı ılık bir buzlu şeker.... {/i}"
 
 # game/UpdateScript0.04.rpy:444
 translate turkish get_sidney_modeling_920e2498:
 
     # S "Oh, [ryan]! I just can't do it!"
-    ""
+    S "Ah, [ryan]! Bunu yapamam!"
 
 # game/UpdateScript0.04.rpy:445
 translate turkish get_sidney_modeling_dfa6fd50:
 
     # S "Please.... please.... please.... there's got to be something else that will put us on equal ground..."
-    ""
+    S "Lütfen.... lütfen.... lütfen.... bizi eski hale getirtecek başka bir şey olmalı..."
 
 # game/UpdateScript0.04.rpy:446
 translate turkish get_sidney_modeling_f4861fb6:
 
     # S "Something less Alabama'n.... less weird!..."
-    ""
+    S "Alabama'dan daha az.... daha az tuhaf bir şey!..."
 
 # game/UpdateScript0.04.rpy:449
 translate turkish get_sidney_modeling_e73f4268:
 
     # R "Hmmmmm.... let me think about it for a second."
-    ""
+    R "Hmmmmm.... bir saniye düşünmeme izin ver."
 
 # game/UpdateScript0.04.rpy:450
 translate turkish get_sidney_modeling_8658c7e1:
 
     # RT "{i}Hmmmmm.... shit.... she really doesn't want to give me a blowjob.... {/i}"
-    ""
+    RT "{i}Hmmmmm.... siktir.... gerçekten bana sakso çekmek istemiyor.... {/i}"
 
 # game/UpdateScript0.04.rpy:451
 translate turkish get_sidney_modeling_bad74c29:
 
     # RT "{i}I really don't want to force her into anything.... I thought she'd be more into it after jacking me off all of those nights.... {/i}"
-    ""
+    RT "{i}Onu hiçbir şeye zorlamak istemiyorum.... Bütün o geceler boyunca beni keyiflendirdikten sonra daha istekli olacağını düşünmüştüm.... {/i}"
 
 # game/UpdateScript0.04.rpy:452
 translate turkish get_sidney_modeling_5498c840:
 
     # RT "{i}It looks like she needs a little more corrupting.... but how.... {/i}"
-    ""
+    RT "{i}Biraz daha yozlaşmaya ihtiyacı var gibi görünüyor.... ama nasıl.... {/i}"
 
 # game/UpdateScript0.04.rpy:453
 translate turkish get_sidney_modeling_53c9e526:
 
     # RT "{i}I'm having a lot of success with corrupting Lauren with the cosplay photoshoots.... maybe I could get Sidney to be a model too.... {/i}"
-    ""
+    RT "{i}Lauren'i cosplay fotoğraf çekimleriyle baştan çıkarma konusunda çok başarılı oldum.... belki Sidney'i de model yapabilirim.... {/i}"
 
 # game/UpdateScript0.04.rpy:454
 translate turkish get_sidney_modeling_196e3988:
 
     # RT "{i}Yeah.... actually that's a great idea!.... The more models I have, the more professional my studio looks.... the more financial success I'll have.{/i}"
-    ""
+    RT "{i}Evet.... aslında bu harika bir fikir!.... Ne kadar çok modelim olursa stüdyom o kadar profesyonel görünür.... o kadar çok finansal başarı elde ederim.{/i}"
 
 # game/UpdateScript0.04.rpy:455
 translate turkish get_sidney_modeling_6522b050:
 
     # RT "{i}Hopefully Sidney will go along with that.... I think she'd almost rather give me a blowjob than be a model.{/i}"
-    ""
+    RT "{i}Umarım Sidney de buna uyar.... Sanırım model olmaktansa bana sakso çekmeyi tercih eder.{/i}"
 
 # game/UpdateScript0.04.rpy:458
 translate turkish get_sidney_modeling_90474e0f:
 
     # R "Ok.... I've got an idea..."
-    ""
+    R "Tamam.... Bir fikrim var..."
 
 # game/UpdateScript0.04.rpy:459
 translate turkish get_sidney_modeling_4b06c4e2:
 
     # R "Put together a sexy cosplay outfit for yourself.... and then we'll go to my photo studio, and we'll take some sexy pictures of you for my Cosplay Heaven webpage."
-    ""
+    R "Kendin için seksi bir cosplay kıyafeti hazırla.... sonra stüdyoma gidelim ve Cosplay Heaven web profilim için seksi fotoğraflarını çekelim."
 
 # game/UpdateScript0.04.rpy:460
 translate turkish get_sidney_modeling_78399c20:
 
     # S "What?.... No.... I think I'd rather give you a blowjob!"
-    ""
+    S "Ne?.... Hayır.... Sanırım sana sakso çekmeyi tercih ederim!"
 
 # game/UpdateScript0.04.rpy:461
 translate turkish get_sidney_modeling_58f7f766:
 
     # R "Well, that's also an option.... I'll leave the choice to you."
-    ""
+    R "Bu da bir seçenek.... Seçimi sana bırakıyorum."
 
 # game/UpdateScript0.04.rpy:462
 translate turkish get_sidney_modeling_c4c35558:
 
     # S ".... Shit.... fine!.... But you still have to pay for the outfit."
-    ""
+    S ".... Siktir.... peki!.... Ama yine de kıyafet için ödeme yapman gerekiyor."
 
 # game/UpdateScript0.04.rpy:463
 translate turkish get_sidney_modeling_1e73947f:
 
     # R "Ok, but this is to make us even. You shouldn't be profiting off of this.... I'll pay for the cost of the outfit, and nothing more."
-    ""
+    R "Tamam, ama bu bizi eşitlemek için. Bundan kar elde etmemelisin.... Kıyafetin parasını ödeyeceğim, daha fazlasını değil."
 
 # game/UpdateScript0.04.rpy:464
 translate turkish get_sidney_modeling_7276b707:
 
     # S "Ok, I think $200 will cover it.... just bring it to me when you've got it."
-    ""
+    S "Tamam, sanırım 200 dolar bunu karşılar.... kazandığında bana getir."
 
 # game/UpdateScript0.04.rpy:465
 translate turkish get_sidney_modeling_4d970c04:
 
     # S "So, are we good?"
-    ""
+    S "Peki, iyi miyiz?"
 
 # game/UpdateScript0.04.rpy:466
 translate turkish get_sidney_modeling_63bd9c96:
 
     # R "We will be after our photo sessions."
-    ""
+    R "Fotoğraf seanslarımızdan sonra olacağız."
 
 # game/UpdateScript0.04.rpy:467
 translate turkish get_sidney_modeling_0f14e517:
 
     # S "Photo sessions!?"
-    ""
+    S "Fotoğraf seansları derken!?"
 
 # game/UpdateScript0.04.rpy:468
 translate turkish get_sidney_modeling_a37354a6:
 
     # S "I'm only posing for one photo session!"
-    ""
+    S "Sadece bir fotoğraf çekimi için poz veririm!"
 
 # game/UpdateScript0.04.rpy:469
 translate turkish get_sidney_modeling_cee85b54:
 
     # R "Then start sucking! There's no way I'll get the photos I need in one session."
-    ""
+    R "O zaman yalamaya başla! İhtiyacım olan fotoğrafları tek seansta çekebilmemin imkanı yok."
 
 # game/UpdateScript0.04.rpy:470
 translate turkish get_sidney_modeling_942a6661:
 
     # S "Uuuurrrggghhhh.... fine."
-    ""
+    S "Uuuurrrggghhhh.... iyi."
 
 # game/UpdateScript0.04.rpy:471
 translate turkish get_sidney_modeling_fc8e4a4b:
 
     # S "Just bring me the money when you've got it!"
-    ""
+    S "Sadece parayı aldığında bana getir!"
 
 # game/UpdateScript0.04.rpy:472
 translate turkish get_sidney_modeling_b165aabc:
 
     # S "I'm going to sleep!"
-    ""
+    S "Ben uyuyacağım!"
 
 # game/UpdateScript0.04.rpy:475
 translate turkish get_sidney_modeling_517c2945:
 
     # ST "{i}Shit.... shit.... shit.... shit.... shit.... shit.... shit.... shit.... shit.... shit.... shit.... shit.... shit.... {/i}"
-    ""
+    ST "{i}Siktir.... siktir.... siktir.... siktir.... siktir.... siktir.... siktir.... siktir.... siktir.... siktir.... siktir.... siktir.... siktir.... {/i}"
 
 # game/UpdateScript0.04.rpy:476
 translate turkish get_sidney_modeling_a47010fc:
 
     # ST "{i}Shit.... shit.... shit.... {/i}"
-    ""
+    ST "{i}Siktir.... siktir.... siktir.... {/i}"
 
 # game/UpdateScript0.04.rpy:477
 translate turkish get_sidney_modeling_0bc4b590:
@@ -598,13 +598,13 @@ translate turkish get_sidney_modeling_0bc4b590:
 translate turkish get_sidney_modeling_c7f08731:
 
     # RT "{i}Well.... no bj tonight.... but this is still going to be great!.... {/i}"
-    ""
+    RT "{i}Bu gece sakso yok.... ama yine de harika olacak!.... {/i}"
 
 # game/UpdateScript0.04.rpy:481
 translate turkish get_sidney_modeling_729e5767:
 
     # RT "{i}I can't wait to see what cosplay outfit she makes herself.... {/i}"
-    ""
+    RT "{i}Kendisine nasıl bir cosplay kıyafeti yapacağını görmek için sabırsızlanıyorum.... {/i}"
 
 # game/UpdateScript0.04.rpy:482
 translate turkish get_sidney_modeling_65e39edd:
@@ -616,13 +616,13 @@ translate turkish get_sidney_modeling_65e39edd:
 translate turkish get_sidney_modeling_479db5a9:
 
     # RT "{i}{b}(HINT){/b} I need to bring $200 to Sidney so she can start making her cosplay outfit.{/i}"
-    ""
+    RT "{i}{b}(İPUCU){/b} Sidney'e 200 dolar vermeliyim ki cosplay kıyafetini yapmaya başlayabilsin.{/i}"
 
 # game/UpdateScript0.04.rpy:501
 translate turkish get_sidney_modeling_834d13b4:
 
     # RT "{i}{b}(HINT){/b} Sidney's being weird about messing around at night. Maybe I can fix the awkwardness between us during our photoshoots.{/i}"
-    ""
+    RT "{i}{b}(İPUCU){/b} Sidney geceleri ortalıkta dolaşmak konusunda garip davranıyor. Belki fotoğraf çekimlerimiz sırasında aramızdaki garipliği düzeltebilirim.{/i}"
 
 # game/UpdateScript0.04.rpy:509
 translate turkish get_sidney_modeling_5c7b7bdc:
@@ -634,7 +634,7 @@ translate turkish get_sidney_modeling_5c7b7bdc:
 translate turkish get_sidney_modeling_438061ab:
 
     # R "I'm curious about what a blowjob would feel like."
-    ""
+    R "Saksonun nasıl bir his olduğunu merak ediyorum."
 
 # game/UpdateScript0.04.rpy:511
 translate turkish get_sidney_modeling_4a4a00b0:
@@ -646,49 +646,49 @@ translate turkish get_sidney_modeling_4a4a00b0:
 translate turkish get_sidney_modeling_9d3a242e:
 
     # R "I mean that you got to satisfy your curiosity by taking advantage of me while I slept. I think it's only fair that I get to use you to satisfy my curiosity."
-    ""
+    R "Yani ben uyurken benden faydalanarak merakını tatmin ettin. Merakımı gidermek için seni kullanmamın adil olduğunu düşünüyorum."
 
 # game/UpdateScript0.04.rpy:513
 translate turkish get_sidney_modeling_436e2dc3:
 
     # R "And it's just like you said.... It's not because of any unnatural feelings towards you, I'm just really really curious to find out what a blowjob feels like, and now you've given me the opportunity to find out."
-    ""
+    R "Ve aynen dediğin gibi.... Sana karşı doğal olmayan duygular beslediğimden değil, sadece saksonun nasıl bir his olduğunu gerçekten çok merak ediyorum ve şimdi bana bunu öğrenme fırsatı verdin."
 
 # game/UpdateScript0.04.rpy:514
 translate turkish get_sidney_modeling_2ee647ce:
 
     # S "I haven't given you an opportunity for shit!"
-    ""
+    S "Sana bu sikik durum için fırsat vermedim!"
 
 # game/UpdateScript0.04.rpy:515
 translate turkish get_sidney_modeling_8a1f3fa1:
 
     # R "Well.... I can always tell Mom what you've been doing to me while I sleep."
-    ""
+    R "İyi.... Ben uyurken bana ne yaptığını anneme istediğim zaman anlatabilirim."
 
 # game/UpdateScript0.04.rpy:516
 translate turkish get_sidney_modeling_13ed103f:
 
     # S "I'd just tell her you're lying."
-    ""
+    S "Ona yalan söylediğini söylerim."
 
 # game/UpdateScript0.04.rpy:517
 translate turkish get_sidney_modeling_d619181c:
 
     # R "Well, given your history of molesting people in your sleep, I don't think it would be too hard for Mom to accept the truth."
-    ""
+    R "Uykunda insanları taciz etme geçmişini göz önüne aldığımızda, annemin gerçeği kabul etmesinin çok zor olacağını sanmıyorum."
 
 # game/UpdateScript0.04.rpy:518
 translate turkish get_sidney_modeling_84d25cdc:
 
     # R "I can't even imagine what her reaction would be if she knew you started consciously molesting your siblings in their sleep."
-    ""
+    R "Kardeşlerini uykularında bilinçli olarak taciz etmeye başladığını bilseydi tepkisinin ne olacağını hayal bile edemiyorum."
 
 # game/UpdateScript0.04.rpy:519
 translate turkish get_sidney_modeling_7a8a7e2c:
 
     # S "You make it sound like I'm some kind of predator."
-    ""
+    S "Sanki ben bir tür yırtıcıymışım gibi konuşuyorsun."
 
 # game/UpdateScript0.04.rpy:520
 translate turkish get_sidney_modeling_7dbd44c3:
@@ -700,19 +700,19 @@ translate turkish get_sidney_modeling_7dbd44c3:
 translate turkish get_sidney_modeling_699fcbe7:
 
     # S "Shit.... I guess I kind of am..."
-    ""
+    S "Siktir.... Sanırım biraz öyleyim... "
 
 # game/UpdateScript0.04.rpy:522
 translate turkish get_sidney_modeling_99947b27:
 
     # R "Well, you don't have the moral high ground, that's for sure."
-    ""
+    R "Ahlaki üstünlüğe sahip olmadığın kesin."
 
 # game/UpdateScript0.04.rpy:523
 translate turkish get_sidney_modeling_f9b86683:
 
     # S "Shit.... fine.... I'll do it.... if you promise not to tell Mom."
-    ""
+    S "Siktir.... iyi.... yapacağım.... anneme söylemeyeceğine söz veriyorsan."
 
 # game/UpdateScript0.04.rpy:524
 translate turkish get_sidney_modeling_1d59362d:
@@ -724,175 +724,175 @@ translate turkish get_sidney_modeling_1d59362d:
 translate turkish get_sidney_modeling_1a614476:
 
     # R "I promise.... and I don't want to anyways.... I think you're a great sister.... and I've loved having you move back home."
-    ""
+    R "Söz veriyorum.... ve zaten istemiyorum da.... Bence sen harika bir kardeşsin.... ve eve geri taşınmana çok sevdim."
 
 # game/UpdateScript0.04.rpy:529
 translate turkish get_sidney_modeling_d9d3fe1a:
 
     # S "That's really sweet.... but let me concentrate on what I'm about to do here."
-    ""
+    S "Bu gerçekten çok tatlı.... ama burada yapmak üzere olduğum şeye konsantre olmama izin ver."
 
 # game/UpdateScript0.04.rpy:530
 translate turkish get_sidney_modeling_5581397a_1:
 
     # ST "{i}Why couldn't I just control myself?.... I got myself into this mess.{/i}"
-    ""
+    ST "{i}Neden kendimi kontrol edemedim?.... Kendimi bu pisliğe ben bulaştırdım.{/i}"
 
 # game/UpdateScript0.04.rpy:531
 translate turkish get_sidney_modeling_256c3772_1:
 
     # ST "{i}If I'd only known the price was sucking my brother's dick.{/i}"
-    ""
+    ST "{i}Keşke bedelinin kardeşimin sikini yalamak olduğunu bilseydim.{/i}"
 
 # game/UpdateScript0.04.rpy:532
 translate turkish get_sidney_modeling_b87fd156_1:
 
     # R "I'm ready any time."
-    ""
+    R "Her zaman hazırım."
 
 # game/UpdateScript0.04.rpy:533
 translate turkish get_sidney_modeling_0c6c5bd4_1:
 
     # S "Shut up, and don't rush me..."
-    ""
+    S "Kapa çeneni ve beni acele ettirme..."
 
 # game/UpdateScript0.04.rpy:536
 translate turkish get_sidney_modeling_c81ffd40_1:
 
     # ST "{i}Ok, Sidney, you can do this.... {/i}"
-    ""
+    ST "{i}Tamam Sidney, bunu yapabilirsin.... {/i}"
 
 # game/UpdateScript0.04.rpy:537
 translate turkish get_sidney_modeling_fc9a3727_1:
 
     # ST "{i}Pretend it's not [ryan].... {/i}"
-    ""
+    ST "{i}Onun [ryan] olmadığını düşün.... {/i}"
 
 # game/UpdateScript0.04.rpy:538
 translate turkish get_sidney_modeling_35597202_1:
 
     # ST "{i}Just pretend it's a popsicle.... {/i}"
-    ""
+    ST "{i}Sadece buzlu şeker gibi hayal et.... {/i}"
 
 # game/UpdateScript0.04.rpy:539
 translate turkish get_sidney_modeling_fe38e542_1:
 
     # ST "{i}A pee flavored luke warm popsicle.... {/i}"
-    ""
+    ST "{i}Çiş aromalı ılık bir buzlu şeker.... {/i}"
 
 # game/UpdateScript0.04.rpy:542
 translate turkish get_sidney_modeling_920e2498_1:
 
     # S "Oh, [ryan]! I just can't do it!"
-    ""
+    S "Ah, [ryan]! Bunu yapamam!"
 
 # game/UpdateScript0.04.rpy:543
 translate turkish get_sidney_modeling_8d119a80:
 
     # S "Please.... please.... please.... there's got to be something else I can do to keep you from telling Mom..."
-    ""
+    S "Lütfen.... lütfen.... lütfen.... anneme söylememen için yapabileceğim başka bir şey olmalı..."
 
 # game/UpdateScript0.04.rpy:544
 translate turkish get_sidney_modeling_f4861fb6_1:
 
     # S "Something less Alabama'n.... less weird!..."
-    ""
+    S "Alabama'dan daha az.... daha az tuhaf bir şey!..."
 
 # game/UpdateScript0.04.rpy:547
 translate turkish get_sidney_modeling_e73f4268_1:
 
     # R "Hmmmmm.... let me think about it for a second."
-    ""
+    R "Hmmmmm.... bir saniye düşünmeme izin ver."
 
 # game/UpdateScript0.04.rpy:548
 translate turkish get_sidney_modeling_8658c7e1_1:
 
     # RT "{i}Hmmmmm.... shit.... she really doesn't want to give me a blowjob.... {/i}"
-    ""
+    RT "{i}Hmmmmm.... siktir.... gerçekten bana sakso çekmek istemiyor.... {/i}"
 
 # game/UpdateScript0.04.rpy:549
 translate turkish get_sidney_modeling_bad74c29_1:
 
     # RT "{i}I really don't want to force her into anything.... I thought she'd be more into it after jacking me off all of those nights.... {/i}"
-    ""
+    RT "{i}Onu hiçbir şeye zorlamak istemiyorum.... Bütün o geceler boyunca beni keyiflendirdikten sonra daha istekli olacağını düşünmüştüm.... {/i}"
 
 # game/UpdateScript0.04.rpy:550
 translate turkish get_sidney_modeling_5498c840_1:
 
     # RT "{i}It looks like she needs a little more corrupting.... but how.... {/i}"
-    ""
+    RT "{i}Biraz daha yozlaşmaya ihtiyacı var gibi görünüyor.... ama nasıl.... {/i}"
 
 # game/UpdateScript0.04.rpy:551
 translate turkish get_sidney_modeling_53c9e526_1:
 
     # RT "{i}I'm having a lot of success with corrupting Lauren with the cosplay photoshoots.... maybe I could get Sidney to be a model too.... {/i}"
-    ""
+    RT "{i}Lauren'i cosplay fotoğraf çekimleriyle baştan çıkarma konusunda çok başarılı oldum.... belki Sidney'i de model yapabilirim.... {/i}"
 
 # game/UpdateScript0.04.rpy:552
 translate turkish get_sidney_modeling_196e3988_1:
 
     # RT "{i}Yeah.... actually that's a great idea!.... The more models I have, the more professional my studio looks.... the more financial success I'll have.{/i}"
-    ""
+    RT "{i}Evet.... aslında bu harika bir fikir!.... Ne kadar çok modelim olursa stüdyom o kadar profesyonel görünür.... o kadar çok finansal başarı elde ederim.{/i}"
 
 # game/UpdateScript0.04.rpy:553
 translate turkish get_sidney_modeling_6522b050_1:
 
     # RT "{i}Hopefully Sidney will go along with that.... I think she'd almost rather give me a blowjob than be a model.{/i}"
-    ""
+    RT "{i}Umarım Sidney de buna uyar.... Sanırım model olmaktansa bana sakso çekmeyi tercih eder.{/i}"
 
 # game/UpdateScript0.04.rpy:556
 translate turkish get_sidney_modeling_90474e0f_1:
 
     # R "Ok.... I've got an idea..."
-    ""
+    R "Tamam.... Bir fikrim var..."
 
 # game/UpdateScript0.04.rpy:557
 translate turkish get_sidney_modeling_4b06c4e2_1:
 
     # R "Put together a sexy cosplay outfit for yourself.... and then we'll go to my photo studio, and we'll take some sexy pictures of you for my Cosplay Heaven webpage."
-    ""
+    R "Kendin için seksi bir cosplay kıyafeti hazırla.... sonra stüdyoma gidelim ve Cosplay Heaven web profilim için seksi fotoğraflarını çekelim."
 
 # game/UpdateScript0.04.rpy:558
 translate turkish get_sidney_modeling_78399c20_1:
 
     # S "What?.... No.... I think I'd rather give you a blowjob!"
-    ""
+    S "Ne?.... Hayır.... Sanırım sana sakso çekmeyi tercih ederim!"
 
 # game/UpdateScript0.04.rpy:559
 translate turkish get_sidney_modeling_58f7f766_1:
 
     # R "Well, that's also an option.... I'll leave the choice to you."
-    ""
+    R "Bu da bir seçenek.... Seçimi sana bırakıyorum."
 
 # game/UpdateScript0.04.rpy:560
 translate turkish get_sidney_modeling_c4c35558_1:
 
     # S ".... Shit.... fine!.... But you still have to pay for the outfit."
-    ""
+    S ".... Siktir.... peki!.... Ama yine de kıyafet için ödeme yapman gerekiyor."
 
 # game/UpdateScript0.04.rpy:561
 translate turkish get_sidney_modeling_1e73947f_1:
 
     # R "Ok, but this is to make us even. You shouldn't be profiting off of this.... I'll pay for the cost of the outfit, and nothing more."
-    ""
+    R "Tamam, ama bu bizi eşitlemek için. Bundan kar elde etmemelisin.... Kıyafetin parasını ödeyeceğim, daha fazlasını değil."
 
 # game/UpdateScript0.04.rpy:562
 translate turkish get_sidney_modeling_7276b707_1:
 
     # S "Ok, I think $200 will cover it.... just bring it to me when you've got it."
-    ""
+    S "Tamam, sanırım 200 dolar bunu karşılar.... kazandığında bana getir."
 
 # game/UpdateScript0.04.rpy:563
 translate turkish get_sidney_modeling_4d970c04_1:
 
     # S "So, are we good?"
-    ""
+    S "Peki, iyi miyiz?"
 
 # game/UpdateScript0.04.rpy:564
 translate turkish get_sidney_modeling_63bd9c96_1:
 
     # R "We will be after our photo sessions."
-    ""
+    R "Fotoğraf seanslarımızdan sonra olacağız."
 
 # game/UpdateScript0.04.rpy:565
 translate turkish get_sidney_modeling_d32f52bb:
@@ -904,43 +904,43 @@ translate turkish get_sidney_modeling_d32f52bb:
 translate turkish get_sidney_modeling_a37354a6_1:
 
     # S "I'm only posing for one photo session!"
-    ""
+    S "Sadece bir fotoğraf çekimi için poz veririm!"
 
 # game/UpdateScript0.04.rpy:567
 translate turkish get_sidney_modeling_cee85b54_1:
 
     # R "Then start sucking! There's no way I'll get the photos I need in one session."
-    ""
+    R "O zaman yalamaya başla! İhtiyacım olan fotoğrafları tek seansta çekebilmemin imkanı yok."
 
 # game/UpdateScript0.04.rpy:568
 translate turkish get_sidney_modeling_942a6661_1:
 
     # S "Uuuurrrggghhhh.... fine."
-    ""
+    S "Uuuurrrggghhhh.... iyi."
 
 # game/UpdateScript0.04.rpy:569
 translate turkish get_sidney_modeling_fc8e4a4b_1:
 
     # S "Just bring me the money when you've got it!"
-    ""
+    S "Sadece parayı aldığında bana getir!"
 
 # game/UpdateScript0.04.rpy:570
 translate turkish get_sidney_modeling_b165aabc_1:
 
     # S "I'm going to sleep!"
-    ""
+    S "Ben uyuyacağım!"
 
 # game/UpdateScript0.04.rpy:573
 translate turkish get_sidney_modeling_517c2945_1:
 
     # ST "{i}Shit.... shit.... shit.... shit.... shit.... shit.... shit.... shit.... shit.... shit.... shit.... shit.... shit.... {/i}"
-    ""
+    ST "{i}Siktir.... siktir.... siktir.... siktir.... siktir.... siktir.... siktir.... siktir.... siktir.... siktir.... siktir.... siktir.... siktir.... {/i}"
 
 # game/UpdateScript0.04.rpy:574
 translate turkish get_sidney_modeling_a47010fc_1:
 
     # ST "{i}Shit.... shit.... shit.... {/i}"
-    ""
+    ST "{i}Siktir.... siktir.... siktir.... {/i}"
 
 # game/UpdateScript0.04.rpy:575
 translate turkish get_sidney_modeling_0bc4b590_1:
@@ -952,13 +952,13 @@ translate turkish get_sidney_modeling_0bc4b590_1:
 translate turkish get_sidney_modeling_c7f08731_1:
 
     # RT "{i}Well.... no bj tonight.... but this is still going to be great!.... {/i}"
-    ""
+    RT "{i}Bu gece sakso yok.... ama yine de harika olacak!.... {/i}"
 
 # game/UpdateScript0.04.rpy:579
 translate turkish get_sidney_modeling_729e5767_1:
 
     # RT "{i}I can't wait to see what cosplay outfit she makes herself.... {/i}"
-    ""
+    RT "{i}Kendisine nasıl bir cosplay kıyafeti yapacağını görmek için sabırsızlanıyorum.... {/i}"
 
 # game/UpdateScript0.04.rpy:580
 translate turkish get_sidney_modeling_65e39edd_1:
@@ -970,25 +970,25 @@ translate turkish get_sidney_modeling_65e39edd_1:
 translate turkish get_sidney_modeling_479db5a9_1:
 
     # RT "{i}{b}(HINT){/b} I need to bring $200 to Sidney so she can start making her cosplay outfit.{/i}"
-    ""
+    RT "{i}{b}(İPUCU){/b} Sidney'e 200 dolar vermeliyim ki cosplay kıyafetini yapmaya başlayabilsin.{/i}"
 
 # game/UpdateScript0.04.rpy:599
 translate turkish get_sidney_modeling_834d13b4_1:
 
     # RT "{i}{b}(HINT){/b} Sidney's being weird about messing around at night. Maybe I can fix the awkwardness between us during our photoshoots.{/i}"
-    ""
+    RT "{i}{b}(İPUCU){/b} Sidney geceleri ortalıkta dolaşmak konusunda garip davranıyor. Belki fotoğraf çekimlerimiz sırasında aramızdaki garipliği düzeltebilirim.{/i}"
 
 # game/UpdateScript0.04.rpy:613
 translate turkish posting_the_wr_pics_99f2fd00:
 
     # RT "{i}I finally finished the Zad 3D work and photo editing.{/i}"
-    ""
+    RT "{i}Sonunda Zad 3D çalışmasını ve fotoğraf düzenlemesini bitirdim.{/i}"
 
 # game/UpdateScript0.04.rpy:614
 translate turkish posting_the_wr_pics_b5e1a766:
 
     # RT "{i}They turned out pretty damn hot if I do say so myself.{/i}"
-    ""
+    RT "{i}Bana kalırsa oldukça ateşli oldular.{/i}"
 
 # game/UpdateScript0.04.rpy:615
 translate turkish posting_the_wr_pics_1ec43bb1:
@@ -1012,19 +1012,19 @@ translate turkish bobbytext_2056fd1c:
 translate turkish bobbytext_ef91713a:
 
     # B "U awake?"
-    ""
+    B "Uyanık mısın?"
 
 # game/UpdateScript0.04.rpy:663
 translate turkish bobbytext_45536a8f:
 
     # RT "{i}Uuuhhhh.... it's from Uncle Bobby.{/i}"
-    ""
+    RT "{i}Uuuhhhh.... Bobby Amca'dan.{/i}"
 
 # game/UpdateScript0.04.rpy:664
 translate turkish bobbytext_e493fa16:
 
     # RT "{i}Why is he texting me so early in the morning?{/i}"
-    ""
+    RT "{i}Neden sabahın köründe bana mesaj atıyor?{/i}"
 
 # game/UpdateScript0.04.rpy:667
 translate turkish bobbytext_31fbae41:
@@ -1036,61 +1036,61 @@ translate turkish bobbytext_31fbae41:
 translate turkish bobbytext_56dc8bf9:
 
     # B "Meet me at the warehouse ASAP!! Don't ask questions."
-    ""
+    B "En kısa zamanda depoda buluşalım!! Soru sorma."
 
 # game/UpdateScript0.04.rpy:671
 translate turkish bobbytext_9800dbcb:
 
     # RT "{i}Don't ask questions!{/i}"
-    ""
+    RT "{i}Soru sorma!{/i}"
 
 # game/UpdateScript0.04.rpy:672
 translate turkish bobbytext_558092c9:
 
     # RT "{i}Well, that's hard to resist after a cryptic message like that.... {/i}"
-    ""
+    RT "{i}Böyle şifreli bir mesajdan sonra buna karşı koymak zor.... {/i}"
 
 # game/UpdateScript0.04.rpy:673
 translate turkish bobbytext_f8c8ec3e:
 
     # RT "{i}Oh, well.... I better get over there as soon as I can.{/i}"
-    ""
+    RT "{i}Oh, iyi.... En kısa zamanda oraya gitsem iyi olacak.{/i}"
 
 # game/UpdateScript0.04.rpy:684
 translate turkish awkward_sidney_9988e76a:
 
     # RT "{i}Actually, I think I'll just leave her alone until I can get her to be more comfortable with me in a sexual way.{/i}"
-    ""
+    RT "{i}Aslında, sanırım benimle cinsel anlamda daha rahat olmasını sağlayana kadar onu yalnız bırakacağım.{/i}"
 
 # game/UpdateScript0.04.rpy:685
 translate turkish awkward_sidney_9365da28:
 
     # RT "{i}.... I mean she was consciously playing with my pecker, till I caught her, so I think I'm on the right track.{/i}"
-    ""
+    RT "{i}.... Yani ben onu yakalayana kadar bilinçli olarak aletimle oynuyordu, yani sanırım doğru yoldayım.{/i}"
 
 # game/UpdateScript0.04.rpy:686
 translate turkish awkward_sidney_41575552:
 
     # RT "{i}Maybe the photoshoot will get her to open up more.{/i}"
-    ""
+    RT "{i}Belki fotoğraf çekimi daha fazla açılmasını sağlar.{/i}"
 
 # game/UpdateScript0.04.rpy:699
 translate turkish awkward_sidney_04565727:
 
     # RT "{i}Well, I gave her plenty of time.... and she didn't start anything on her own.{/i}"
-    ""
+    RT "{i}Ona bolca zaman verdim.... ve kendi başına bir şey başlatmadı.{/i}"
 
 # game/UpdateScript0.04.rpy:700
 translate turkish awkward_sidney_ab24a421:
 
     # RT "{i}She must be feeling awkward.... looks like I need to take things into my own hands again.{/i}"
-    ""
+    RT "{i}Kendini garip hissediyor olmalı.... görünüşe göre işleri yine kendi ellerime almam gerekiyor.{/i}"
 
 # game/UpdateScript0.04.rpy:710
 translate turkish awkward_sidney_9a17ab31:
 
     # RT "{i}Ok, I'm all ready. Let's see if I can get her into position without waking her up.{/i}"
-    ""
+    RT "{i}Tamam, ben hazırım. Bakalım onu uyandırmadan pozisyonunu alabilecek miyim?{/i}"
 
 # game/UpdateScript0.04.rpy:713
 translate turkish awkward_sidney_d94dd63d:
@@ -1102,7 +1102,7 @@ translate turkish awkward_sidney_d94dd63d:
 translate turkish awkward_sidney_cc5acc88:
 
     # RT "{i}There's that familiar grip I've come to love.{/i}"
-    ""
+    RT "{i}Sevmeye başladığım o tanıdık kavrayış var.{/i}"
 
 # game/UpdateScript0.04.rpy:719
 translate turkish awkward_sidney_3843fabb:
@@ -1120,7 +1120,7 @@ translate turkish awkward_sidney_25274c25:
 translate turkish awkward_sidney_424a89ab:
 
     # ST "{i}Oh, no.... did I do it again?.... {/i}"
-    ""
+    ST "{i}Oh, hayır.... yine mi yaptım?.... {/i}"
 
 # game/UpdateScript0.04.rpy:726
 translate turkish awkward_sidney_ab3efd5f:
@@ -1138,49 +1138,49 @@ translate turkish awkward_sidney_b694862b:
 translate turkish awkward_sidney_3714c601:
 
     # ST "{i}When I'm not consciously molesting him, I'm still doing it in my sleep.... {/i}"
-    ""
+    ST "{i}Onu bilinçli olarak taciz etmediğimde bile.... bunu uykumda yapıyorum. {/i}"
 
 # game/UpdateScript0.04.rpy:734
 translate turkish awkward_sidney_bff91768:
 
     # ST "{i}Ohhh.... and it's so much more awkward now that he caught me.{/i}"
-    ""
+    ST "{i}Ohhh.... ve beni yakaladığı için şimdi çok daha garip.{/i}"
 
 # game/UpdateScript0.04.rpy:735
 translate turkish awkward_sidney_e2762ab7:
 
     # ST "{i}Shit! What do I do.... I'm too scared to sleep on the couch, and Mom and Lauren won't let me sleep with them.{/i}"
-    ""
+    ST "{i}Siktir! Ne yapacağım.... Kanepede uyumaktan çok korkuyorum ve annemle Lauren onlarla uyumama izin vermiyorlar.{/i}"
 
 # game/UpdateScript0.04.rpy:736
 translate turkish awkward_sidney_01a102cf:
 
     # ST "{i}Maybe I need to get a straightjacket or something.{/i}"
-    ""
+    ST "{i}Belki de deli gömleği gibi bir şey almalıyım.{/i}"
 
 # game/UpdateScript0.04.rpy:737
 translate turkish awkward_sidney_38a115e2:
 
     # ST "{i}Or be committed so I don't molest the people I love.{/i}"
-    ""
+    ST "{i}Ya da sevdiğim insanları taciz etmemek için kendimi adamalıyım.{/i}"
 
 # game/UpdateScript0.04.rpy:743
 translate turkish awkward_sidney_21409de5:
 
     # RT "{i}Shit! That just seemed awkward.{/i}"
-    ""
+    RT "{i}Siktir! Bu çok garipti.{/i}"
 
 # game/UpdateScript0.04.rpy:744
 translate turkish awkward_sidney_419fbb7d:
 
     # RT "{i}I almost feel bad for her.{/i}"
-    ""
+    RT "{i}Neredeyse onun için üzüleceğim.{/i}"
 
 # game/UpdateScript0.04.rpy:745
 translate turkish awkward_sidney_c4429023:
 
     # RT "{i}Maybe I should cool things down for a short time, until I can get her to feel more comfortable sexually around me.{/i}"
-    ""
+    RT "{i}Belki de benim yanımda cinsel açıdan daha rahat hissetmesini sağlayana kadar kısa bir süre için işleri soğutmalıyım.{/i}"
 
 # game/UpdateScript0.04.rpy:762
 translate turkish nightly_sixtynine_6c528b03:
@@ -2362,157 +2362,157 @@ translate turkish aunts_financials_d03312c2:
 translate turkish camille_tells_8da341f0:
 
     # M "It's good to see you, sister! You never come by any more."
-    ""
+    M "Seni görmek güzel kardeşim! Artık hiç uğramıyorsun."
 
 # game/UpdateScript0.04.rpy:1312
 translate turkish camille_tells_a32b3507:
 
     # MT "{i}Except when you need something from us!{/i}"
-    ""
+    MT "{i}Bizden bir şey istediği zamanlar hariç!{/i}"
 
 # game/UpdateScript0.04.rpy:1313
 translate turkish camille_tells_8724faaa:
 
     # C "Well, I've been super busy training for the triathlon in October, and all the other mom things I have to do to take care of Mandy take up the rest of my time."
-    ""
+    C "Ekim ayındaki triatlon için antrenman yapmakla çok meşguldüm ve Mandy'ye bakmak için yapmam gereken diğer tüm annelik işleri zamanımın geri kalanını alıyor."
 
 # game/UpdateScript0.04.rpy:1314
 translate turkish camille_tells_ad3f341d:
 
     # M "Don't you have a housekeeper? And do you still have your nanny Cindy?"
-    ""
+    M "Hizmetçiniz yok mu? Ve hala dadı Cindy duruyor mu?"
 
 # game/UpdateScript0.04.rpy:1315
 translate turkish camille_tells_d2fbe387:
 
     # C "Well yes, even though Mandy is 18, we've just become so attached to Cindy that we just decided to keep her around to help with odds and ends."
-    ""
+    C "Şey evet, Mandy 18 yaşında olmasına rağmen, Cindy'ye o kadar bağlandık ki, ufak tefek işlerde yardımcı olması için onu yanımızda tutmaya karar verdik."
 
 # game/UpdateScript0.04.rpy:1316
 translate turkish camille_tells_7f79ff80:
 
     # RT "{i}More like Uncle Bobby keeps her around because Cindy's smoking hot!{/i}"
-    ""
+    RT "{i}Daha çok Bobby Amca onu yanında tutuyor çünkü Cindy çok seksi!{/i}"
 
 # game/UpdateScript0.04.rpy:1317
 translate turkish camille_tells_aa2b298c:
 
     # RT "{i}I wonder if Mandy's right about them having an affair.{/i}"
-    ""
+    RT "{i}Mandy'nin bir ilişkileri olduğu konusunda haklı olup olmadığını merak ediyorum.{/i}"
 
 # game/UpdateScript0.04.rpy:1318
 translate turkish camille_tells_5f91879d:
 
     # RT "{i}I'm pretty sure that's why Aunt Cami got the breast implants and got so into working out, to try to win back his attention.{/i}"
-    ""
+    RT "{i}Cami Teyze'nin göğüs implantlarını bu yüzden yaptırdığına ve onun dikkatini tekrar çekebilmek için spor yapmaya başladığına eminim.{/i}"
 
 # game/UpdateScript0.04.rpy:1319
 translate turkish camille_tells_c66515e3:
 
     # C "But I didn't come over here to chit chat!"
-    ""
+    C "Ama ben buraya çene çalmaya gelmedim!"
 
 # game/UpdateScript0.04.rpy:1320
 translate turkish camille_tells_dd27c50c:
 
     # M "Yeah.... I can see you're upset.... Is there something I can help you with?"
-    ""
+    M "Evet.... Üzgün olduğunu görebiliyorum.... Yardımcı olabileceğim bir şey var mı?"
 
 # game/UpdateScript0.04.rpy:1323
 translate turkish camille_tells_8f363082:
 
     # C "Well, you can keep your perverted son away from my sweet innocent Mandy to begin with!"
-    ""
+    C "Sapık oğlunu benim tatlı masum Mandy'mden uzak tutabilirsin!"
 
 # game/UpdateScript0.04.rpy:1324
 translate turkish camille_tells_2410ce46:
 
     # M "Ok.... before you go and say something you're going to regret, I'd like to point out that Mandy isn't as innocent as you think."
-    ""
+    M "Tamamm.... pişman olacağın bir şey söylemeden önce Mandy'nin sandığın kadar masum olmadığını belirtmek isterim."
 
 # game/UpdateScript0.04.rpy:1325
 translate turkish camille_tells_1542158b:
 
     # M "Like the time they got in trouble for skinny dipping at the beach?.... Lauren confirmed that it was Mandy, and not [ryan], who initiated that."
-    ""
+    M "Plajda çıplak yüzdükleri için başlarının belaya girdiği zamanki gibi mi?.... Lauren bunu başlatanın [ryan] değil Mandy olduğunu doğruladı."
 
 # game/UpdateScript0.04.rpy:1326
 translate turkish camille_tells_28ec2181:
 
     # M "And then there's the time that they..."
-    ""
+    M "Bir de şu var..."
 
 # game/UpdateScript0.04.rpy:1329
 translate turkish camille_tells_5f0bb451:
 
     # C "No.... It's different this time..."
-    ""
+    C "Hayır.... Bu sefer farklı..."
 
 # game/UpdateScript0.04.rpy:1330
 translate turkish camille_tells_0e81ff64:
 
     # C "Are you aware that [ryan]'s been taking pictures of Lauren and Mandy in skimpy costumes?"
-    ""
+    C "Küçük sapığın, Lauren ve Mandy'nin kostümlü fotoğraflarını çektiğinin farkında mısın?"
 
 # game/UpdateScript0.04.rpy:1331
 translate turkish camille_tells_4e032c05:
 
     # M "What?.... Where did you hear that?.... I'm sure that's not true."
-    ""
+    M "Ne?.... Dediğini kulağın duyuyor mu?.... Bunun doğru olmadığına eminim."
 
 # game/UpdateScript0.04.rpy:1332
 translate turkish camille_tells_500b1853:
 
     # C "Oh, it's true.... a mom of one of Mandy's classmates sent me the picture after she caught her son jacking off to it on his computer."
-    ""
+    C "Bu doğru.... Mandy'nin sınıf arkadaşlarından birinin annesi oğlunu bilgisayarında mastürbasyon yaparken yakaladıktan sonra bana bu resmi gönderdi."
 
 # game/UpdateScript0.04.rpy:1335
 translate turkish camille_tells_347aa5a9:
 
     # M "Oh dear."
-    ""
+    M "Aman Tanrım!"
 
 # game/UpdateScript0.04.rpy:1336
 translate turkish camille_tells_fd7e2eb8:
 
     # C "Uhh.... yeah!"
-    ""
+    C "Uhh.... Evet!"
 
 # game/UpdateScript0.04.rpy:1337
 translate turkish camille_tells_a74f9826:
 
     # M "Are you sure that [ryan] took the picture? Couldn't it have been someone else?"
-    ""
+    M "Fotoğrafı çeken kişinin [ryan] olduğundan emin misin? Başka biri olamaz mı?"
 
 # game/UpdateScript0.04.rpy:1338
 translate turkish camille_tells_2f8fa6f8:
 
     # C "Oh, it wasn't easy getting her to confess, but I finally got all the details out of her."
-    ""
+    C "İtiraf ettirmek kolay olmadı ama sonunda tüm detayları öğrendim."
 
 # game/UpdateScript0.04.rpy:1339
 translate turkish camille_tells_fe131ad9:
 
     # C "I guess after they went to that comic convention, they asked [ryan] to take some pictures of them in their costumes, and as you can see, it clearly got out of hand."
-    ""
+    C "Sanırım o çizgi roman etkinliğine gittikten sonra buradaki sapık veletten kostümleriyle fotoğraflarını çekmesini istediler ve gördüğün gibi iş çığırından çıktı."
 
 # game/UpdateScript0.04.rpy:1342
 translate turkish camille_tells_d0c1233e:
 
     # M "Wow! That costume is really good! Where did she get it?"
-    ""
+    M "Vay canına! Bu kostüm gerçekten çok iyi! Nereden bulmuş?"
 
 # game/UpdateScript0.04.rpy:1343
 translate turkish camille_tells_192a81cd:
 
     # C "I'm not sure.... but that's not important right now!"
-    ""
+    C "Emin değilim.... ama şu anda önemli olan kostüm değil!"
 
 # game/UpdateScript0.04.rpy:1344
 translate turkish camille_tells_3385f10b:
 
     # M "Sorry.... you're right..."
-    ""
+    M "Üzgünüm.... haklısın..."
 
 # game/UpdateScript0.04.rpy:1345
 translate turkish camille_tells_eaa98298:
@@ -2524,55 +2524,55 @@ translate turkish camille_tells_eaa98298:
 translate turkish camille_tells_b6dc3648:
 
     # C "I'm a little concerned about your lack of outrage!"
-    ""
+    C "Öfke eksikliğin konusunda biraz endişeliyim!"
 
 # game/UpdateScript0.04.rpy:1349
 translate turkish camille_tells_e66db766:
 
     # M "Camille.... I'm a teacher at a high school."
-    ""
+    M "Camille.... Ben bir lisede öğretmenim."
 
 # game/UpdateScript0.04.rpy:1350
 translate turkish camille_tells_c2172f12:
 
     # M "Do you know how many kids are sending naked pictures of themselves to each other these days?"
-    ""
+    M "Bugünlerde kaç çocuğun birbirlerine nude'larını gönderdiğini biliyor musun?"
 
 # game/UpdateScript0.04.rpy:1351
 translate turkish camille_tells_4e027549:
 
     # M "I can't even see Mandy's nipples in this pic, so comparatively it's not that bad."
-    ""
+    M "Bu fotoğrafta Mandy'nin meme uçlarını bile göremiyorum, yani karşılaştırmalı olarak o kadar da kötü değil."
 
 # game/UpdateScript0.04.rpy:1354
 translate turkish camille_tells_119e2837:
 
     # C "Not that bad?! Are you kidding me?"
-    ""
+    C "O kadar kötü değil mi?! Benimle dalga mı geçiyorsun?"
 
 # game/UpdateScript0.04.rpy:1355
 translate turkish camille_tells_1a9dee5e:
 
     # RT "{i}Wow!.... I can't believe Mom's not furious!{/i}"
-    ""
+    RT "{i}Vay amk!.... Annemin soğukkanlılığına bak be!{/i}"
 
 # game/UpdateScript0.04.rpy:1356
 translate turkish camille_tells_446db59b:
 
     # C "I.... but.... urrrrgggghhhh..."
-    ""
+    C "Ama.... ben.... urrrrgggghhhh..."
 
 # game/UpdateScript0.04.rpy:1357
 translate turkish camille_tells_a2a32d3f:
 
     # M "Really Camille, just calm down, you're making a big deal out of nothing."
-    ""
+    M "Gerçekten Camille, sakin ol, yoktan yere büyütüyorsun."
 
 # game/UpdateScript0.04.rpy:1358
 translate turkish camille_tells_ac855cf9:
 
     # C "Calm down?"
-    ""
+    C "Sakin olmak mı?"
 
 # game/UpdateScript0.04.rpy:1359
 translate turkish camille_tells_26a803bc:
@@ -2584,31 +2584,31 @@ translate turkish camille_tells_26a803bc:
 translate turkish camille_tells_f30f5065:
 
     # C "I guess I shouldn't be too surprised.... how can I expect a woman who spends her weekends working at a strip club to find this shocking."
-    ""
+    C "Sanırım çok şaşırmamalıyım.... hafta sonlarını striptiz kulübünde çalışarak geçiren bir kadının bunu şok edici bulmasını nasıl bekleyebilirim?"
 
 # game/UpdateScript0.04.rpy:1363
 translate turkish camille_tells_ed2328f4:
 
     # RT "{i}Oh, shit!.... Aunt Cami's out for blood!{/i}"
-    ""
+    RT "{i}Oh, siktir!.... Camille Teyze'nin söylediğine bak. Burada kan çıkacak.{/i}"
 
 # game/UpdateScript0.04.rpy:1364
 translate turkish camille_tells_03d68706:
 
     # M "What?.... Where did.... who told..."
-    ""
+    M "Ne?.... Nereden.... kim söyl..."
 
 # game/UpdateScript0.04.rpy:1365
 translate turkish camille_tells_303c3658:
 
     # C "Bobby told me all about it.... I guess with [dad_name] in prison, the DeCapos are still keeping Bobby in the loop about his brother-in-law and family."
-    ""
+    C "Bobby bana her şeyi anlattı.... Sanırım [dad_name] hapisteyken DeCapolar Bobby'yi kayınbiraderi ve ailesi hakkında bilgilendirmeye devam ediyor."
 
 # game/UpdateScript0.04.rpy:1366
 translate turkish camille_tells_05379735:
 
     # C "I just can't believe you would resort to making money that way."
-    ""
+    C "Bu şekilde para kazanmaya çalıştığına inanamıyorum."
 
 # game/UpdateScript0.04.rpy:1367
 translate turkish camille_tells_26a803bc_1:
@@ -2620,115 +2620,115 @@ translate turkish camille_tells_26a803bc_1:
 translate turkish camille_tells_9db7a2d7:
 
     # M "It's not like I had a choice in the matter, and what would you know about making money? You've never held a job a day in your life."
-    ""
+    M "Bu konuda seçme şansım yoktu ve sen para kazanmak hakkında ne bilirsin ki? Hayatında bir gün bile bir işte çalışmadın."
 
 # game/UpdateScript0.04.rpy:1371
 translate turkish camille_tells_44bafcaf:
 
     # C "I'm a stay at home mom! That's the hardest job in the world!"
-    ""
+    C "Ben evde kalan bir anneyim! Bu dünyadaki en zor iş!"
 
 # game/UpdateScript0.04.rpy:1372
 translate turkish camille_tells_fd884ddc:
 
     # M "Maybe for someone who doesn't have a housekeeper and a nanny!"
-    ""
+    M "Belki de hizmetçisi ve dadısı olmayan biri için!"
 
 # game/UpdateScript0.04.rpy:1373
 translate turkish camille_tells_7b06d96b:
 
     # C "That just leaves me free so I can give all of my attention to my Mandy."
-    ""
+    C "Bu da tüm dikkatimi Mandy'me verebilmem için beni özgür bırakıyor."
 
 # game/UpdateScript0.04.rpy:1374
 translate turkish camille_tells_82ae97ac:
 
     # M "And look how good that's working out for you.... she's posting dirty pictures on the internet."
-    ""
+    M "Ve bak bu senin için ne kadar iyi oldu.... kızın internette müstehcen resimler yayınlıyor."
 
 # game/UpdateScript0.04.rpy:1377
 translate turkish camille_tells_14fd1fb4:
 
     # C "NO! [ryan] is taking and posting pics of my Mandy on the internet."
-    ""
+    C "HAYIR! [ryan], Mandy'min fotoğraflarını çekip internette yayınlıyor."
 
 # game/UpdateScript0.04.rpy:1378
 translate turkish camille_tells_e15b1c47:
 
     # C "Clearly you're not going to do anything about it, so I'll just show myself out."
-    ""
+    C "Belli ki bu konuda bir şey yapmayacaksın, o yüzden kendim halledeceğim."
 
 # game/UpdateScript0.04.rpy:1379
 translate turkish camille_tells_31ee5ece:
 
     # M "I think that's a good idea."
-    ""
+    M "Bence bu iyi bir fikir."
 
 # game/UpdateScript0.04.rpy:1380
 translate turkish camille_tells_1e9d2d3c:
 
     # MT "{i}My sister is such a bitch!{/i}"
-    ""
+    MT "{i}Kız kardeşim tam bir sürtük!{/i}"
 
 # game/UpdateScript0.04.rpy:1385
 translate turkish camille_tells_d1db65a7:
 
     # R "Goodbye, Aunt Cami."
-    ""
+    R "Güle güle Cami Teyze."
 
 # game/UpdateScript0.04.rpy:1386
 translate turkish camille_tells_075ace1e:
 
     # C "Uhhh.... It's Aunt Camille."
-    ""
+    C "Uhhh.... Camille Teyze."
 
 # game/UpdateScript0.04.rpy:1387
 translate turkish camille_tells_0ee1286d:
 
     # C "And don't think you're going to get off that easy. I don't know what I have to do to convince [mom_name] to punish you, but I'll think of something."
-    ""
+    C "Ve bu kadar kolay kurtulacağını sanma. Anneni seni cezalandırmaya ikna etmek için ne yapmam gerektiğini bilmiyorum ama bir şeyler düşüneceğim."
 
 # game/UpdateScript0.04.rpy:1388
 translate turkish camille_tells_23081c33:
 
     # C "And stay away from my Mandy from now on."
-    ""
+    C "Ve şu andan itibaren Mandy'mden uzak dur."
 
 # game/UpdateScript0.04.rpy:1389
 translate turkish camille_tells_bb839ff4:
 
     # R "Ok.... love you too!"
-    ""
+    R "Tamam.... ben de seni seviyorum!"
 
 # game/UpdateScript0.04.rpy:1393
 translate turkish camille_tells_38313a10:
 
     # RT "{i}I can't believe I didn't get in trouble!{/i}"
-    ""
+    RT "{i}Başımın belaya girmediğine inanamıyorum!{/i}"
 
 # game/UpdateScript0.04.rpy:1394
 translate turkish camille_tells_c660d749:
 
     # RT "{i}I guess Aunt Cami pissed her off too much for Mom to even think about punishing me.{/i}"
-    ""
+    RT "{i}Sanırım Cami Teyze onu çok kızdırdı ve annem beni cezalandırmayı düşündü bile.{/i}"
 
 # game/UpdateScript0.04.rpy:1395
 translate turkish camille_tells_ecfc5948:
 
     # RT "{i}It was surprising that Mom wasn't upset about me taking those kinds of pictures of my sister and cousin though.{/i}"
-    ""
+    RT "{i}Annemin kız kardeşim ve kuzenimin bu tür fotoğraflarını çekmeme kızmaması şaşırtıcıydı.{/i}"
 
 # game/UpdateScript0.04.rpy:1396
 translate turkish camille_tells_ad09455b:
 
     # RT "{i}With everything else that's going on, she probably just doesn't have the emotional energy to deal with it.{/i}"
-    ""
+    RT "{i}Olan biten diğer şeylerle birlikte, muhtemelen bununla uğraşacak duygusal enerjiye sahip değildir.{/i}"
 
 # game/UpdateScript0.04.rpy:1406
 translate turkish camille_tells_2aff5612:
 
     # RT "{i}{b}(HINT){/b} Boy, Aunt Cami can be such a bitch!... I don't know what Uncle Bobby see's in her. I'd leave her ass in a second.{/i}"
-    ""
+    RT "{i}{b}(İPUCU){/b} Cami Teyze tam bir sürtük olabiliyor! Bobby Amca onda ne buluyor bilmiyorum. Onun kıçını bir saniyede terk ederdim.{/i}"
 
 # game/UpdateScript0.04.rpy:1416
 translate turkish hire_a_maid_b40791a9:
@@ -4723,9 +4723,9 @@ translate turkish aunt_clean_lounge_26242890:
     ""
 
 # game/UpdateScript0.04.rpy:2014
-translate turkish aunt_clean_lounge_945817e2:
+translate turkish aunt_clean_lounge_9814e79a:
 
-    # CT "{I}At least it's not as bad as when I jerked him off.{/i}"
+    # CT "{i}At least it's not as bad as when I jerked him off.{/i}"
     ""
 
 # game/UpdateScript0.04.rpy:2017
@@ -5011,9 +5011,9 @@ translate turkish aunt_clean_lounge_26242890_1:
     ""
 
 # game/UpdateScript0.04.rpy:2097
-translate turkish aunt_clean_lounge_945817e2_1:
+translate turkish aunt_clean_lounge_9814e79a_1:
 
-    # CT "{I}At least it's not as bad as when I jerked him off.{/i}"
+    # CT "{i}At least it's not as bad as when I jerked him off.{/i}"
     ""
 
 # game/UpdateScript0.04.rpy:2100
@@ -5572,7 +5572,7 @@ translate turkish aunt_clean_bath_5a25235e:
 translate turkish aunt_clean_bath_61f154a3:
 
     # C "How do you mean?"
-    ""
+    C "Nasıl yani?"
 
 # game/UpdateScript0.04.rpy:2278
 translate turkish aunt_clean_bath_ab83255c:
@@ -5932,7 +5932,7 @@ translate turkish aunt_clean_bath_5a25235e_1:
 translate turkish aunt_clean_bath_61f154a3_1:
 
     # C "How do you mean?"
-    ""
+    C "Nasıl yani?"
 
 # game/UpdateScript0.04.rpy:2395
 translate turkish aunt_clean_bath_ab83255c_1:
@@ -6274,121 +6274,121 @@ translate turkish aunt_clean_bath_61f010f9_3:
 translate turkish commission_wr_outfit_8d505a6f:
 
     # S "Oh good, I'm really glad you came to see me, give me just one second."
-    ""
+    S "Güzel, beni görmeye gelmene çok sevindim, bana bir saniye ver."
 
 # game/UpdateScript0.04.rpy:2523
 translate turkish commission_wr_outfit_148a2bfe:
 
     # S "So, how's my favorite brother?"
-    ""
+    S "En sevdiğim kardeşim nasılmış bakalım?"
 
 # game/UpdateScript0.04.rpy:2524
 translate turkish commission_wr_outfit_16add0ef:
 
     # R "Uhhhh.... good.... I guess..."
-    ""
+    R "Uhhhh.... iyi.... sanırım..."
 
 # game/UpdateScript0.04.rpy:2525
 translate turkish commission_wr_outfit_c996420a:
 
     # S "I'm so glad!"
-    ""
+    S "Çok sevindim!"
 
 # game/UpdateScript0.04.rpy:2526
 translate turkish commission_wr_outfit_a0a4bf48:
 
     # S "So, I was hoping we could talk about the incident that happened in your bed..."
-    ""
+    S "Yatağında olan olay hakkında konuşabileceğimizi umuyordum."
 
 # game/UpdateScript0.04.rpy:2527
 translate turkish commission_wr_outfit_7bf96be3:
 
     # R "You mean when you..."
-    ""
+    R "Yani sen..."
 
 # game/UpdateScript0.04.rpy:2530
 translate turkish commission_wr_outfit_10c507a2:
 
     # S "Yep!.... That's what I mean..."
-    ""
+    S "Evet!.... Demek istediğim..."
 
 # game/UpdateScript0.04.rpy:2531
 translate turkish commission_wr_outfit_2bdde157:
 
     # S "You're not really going to make me take sexy pictures in a cosplay outfit, are you?..."
-    ""
+    S "Cosplay kıyafetiyle bana seksi fotoğraflar çektirmeyeceksin, değil mi?..."
 
 # game/UpdateScript0.04.rpy:2534
 translate turkish commission_wr_outfit_489fdbe3:
 
     # S "I mean, I know you were kind of tired.... maybe upset.... and maybe after you slept on it, I thought maybe you'd have a change of heart?..."
-    ""
+    "[_S_]Yani.... biraz yorulduğunu.... belki üzüldüğünü.... belki de biraz uyuduktan sonra fikrini değiştirebileceğini düşünmüştüm..."
 
 # game/UpdateScript0.04.rpy:2535
 translate turkish commission_wr_outfit_794d93af:
 
     # R "Well, I have been thinking about it a lot.... and I think I'm even more sure that what we came up with.... is an awesome idea!"
-    ""
+    R "Bu konu üzerinde çok düşündüm.... ve sanırım bulduğumuz şeyin.... harika bir fikir olduğundan daha da eminim!"
 
 # game/UpdateScript0.04.rpy:2538
 translate turkish commission_wr_outfit_dd5beb75:
 
     # S "Oh, and which part is so awesome?"
-    ""
+    S "Oh, ve hangi bölüm bu kadar harika?"
 
 # game/UpdateScript0.04.rpy:2541
 translate turkish commission_wr_outfit_2daf4ff8:
 
     # S "The part where I almost sucked your dick, or blackmailing me into posing like a whore for internet perverts like you."
-    ""
+    S "Neredeyse sikini yaladığım ya da senin gibi internet sapıkları için bir fahişe gibi poz vermem için bana şantaj yaptığın kısım."
 
 # game/UpdateScript0.04.rpy:2542
 translate turkish commission_wr_outfit_9b326557:
 
     # R "Both!"
-    ""
+    R "İkisini de!"
 
 # game/UpdateScript0.04.rpy:2543
 translate turkish commission_wr_outfit_ab8e4703:
 
     # R "I see either as an absolute win!"
-    ""
+    R "İkisini de mutlak bir kazanç olarak görüyorum!"
 
 # game/UpdateScript0.04.rpy:2544
 translate turkish commission_wr_outfit_140d7fcb:
 
     # R "And if you decide you don't want to be a cosplay model, the other option is still on the table."
-    ""
+    R "Ve eğer bir cosplay modeli olmak istemediğine karar verirsen, diğer seçenek hala masada."
 
 # game/UpdateScript0.04.rpy:2547
 translate turkish commission_wr_outfit_754623e0:
 
     # S "Uuuuhhhhgggghhh.... I'm not sucking your big stinky dick!.... Why do you have to be such a pervert!?"
-    ""
+    S "Uuuuhhhhgggghhh.... Senin o kokuşmuş sikini yalamayacağım!.... Neden bu kadar sapık olmak zorundasın!?"
 
 # game/UpdateScript0.04.rpy:2548
 translate turkish commission_wr_outfit_4f57eab8:
 
     # R "Says the girl who molests her siblings in their sleep."
-    ""
+    R "Bunu kardeşlerini uykularında taciz eden kız söylüyor."
 
 # game/UpdateScript0.04.rpy:2551
 translate turkish commission_wr_outfit_8e64edba:
 
     # S "Touché..."
-    ""
+    S "Tamam sus..."
 
 # game/UpdateScript0.04.rpy:2552
 translate turkish commission_wr_outfit_7a7833fa:
 
     # S "Well, I guess there's no talking you out of it, so just get me the $400, and I'll get the costume made up."
-    ""
+    S "Sanırım seni bundan vazgeçirmenin bir yolu yok, o yüzden bana 400 doları getir, ben de kostümü hazırlayayım."
 
 # game/UpdateScript0.04.rpy:2553
 translate turkish commission_wr_outfit_3ccf71ea:
 
     # R "Uh uh uh uh.... nope, remember I'm just paying for the costs on this one. I don't want you to think you can profit off of taking advantage of people."
-    ""
+    R "Uh uh uh uh.... hayır, unutma bunun masraflarını ben ödüyorum. İnsanlardan faydalanarak kâr edebileceğini düşünmeni istemiyorum."
 
 # game/UpdateScript0.04.rpy:2558
 translate turkish commission_wr_outfit_c9c2df20:
@@ -6400,19 +6400,19 @@ translate turkish commission_wr_outfit_c9c2df20:
 translate turkish commission_wr_outfit_b3bdc6c7:
 
     # S "Fine! But this is the only time! And I'm never making another costume for you for less than $500!"
-    ""
+    S "Tamam! Ama bu tek seferlik! Ve sana bir daha asla 500 dolardan aşağı kostüm yapmayacağım!"
 
 # game/UpdateScript0.04.rpy:2561
 translate turkish commission_wr_outfit_531b1ad4:
 
     # R "What!?.... There's no need to be like that!"
-    ""
+    R "Ne!?.... Böyle davranmana gerek yok!"
 
 # game/UpdateScript0.04.rpy:2562
 translate turkish commission_wr_outfit_7d574a82:
 
     # S "Just go.... I'll have the costume done in a few days."
-    ""
+    S "Sadece git.... Kostümü birkaç gün içinde hazırlayacağım."
 
 # game/UpdateScript0.04.rpy:2563
 translate turkish commission_wr_outfit_dfe61d0a:
@@ -6430,25 +6430,25 @@ translate turkish commission_wr_outfit_c6841c25:
 translate turkish commission_wr_outfit_3652ac89:
 
     # R "Can't wait to see you in it."
-    ""
+    R "Seni kıyafetin içinde görmek için sabırsızlanıyorum."
 
 # game/UpdateScript0.04.rpy:2568
 translate turkish commission_wr_outfit_c39d01dd:
 
     # S "I said go!!"
-    ""
+    S "Git dedim!!"
 
 # game/UpdateScript0.04.rpy:2569
 translate turkish commission_wr_outfit_f7ccbf52:
 
     # R "Hahaha.... ok.... I'm going."
-    ""
+    R "Hahaha.... tamam.... Gidiyorum."
 
 # game/UpdateScript0.04.rpy:2578
 translate turkish commission_wr_outfit_8b1e66d6:
 
     # S "Fine.... just look for me here."
-    ""
+    S "İyi.... beni burada bul."
 
 # game/UpdateScript0.04.rpy:2590
 translate turkish im_working_on_it_52298b4b:
@@ -6460,103 +6460,103 @@ translate turkish im_working_on_it_52298b4b:
 translate turkish wr_cosplayfitting_960a2692:
 
     # R "What's going on here?"
-    ""
+    R "Burada neler oluyor?"
 
 # game/UpdateScript0.04.rpy:2600
 translate turkish wr_cosplayfitting_05557282:
 
     # R "It looks like I walked into the beginning of one of my favorite types of porn."
-    ""
+    R "En sevdiğim porno türlerinden birinin başlangıcına girmişim gibi görünüyor."
 
 # game/UpdateScript0.04.rpy:2601
 translate turkish wr_cosplayfitting_0852293e:
 
     # S "{i}(sarcastically){/i} Ha ha very funny [ryan]. You're obviously a comedian."
-    ""
+    S "{i}(alaycı bir şekilde){/i} Ha ha çok komikti [ryan]. Belli ki komedyensin."
 
 # game/UpdateScript0.04.rpy:2602
 translate turkish wr_cosplayfitting_63e87e12:
 
     # S "Make that strap just a little tighter Lauren, I want it to squeeze my thighs just a little."
-    ""
+    S "Kayışı biraz daha sık Lauren, kalçalarımı biraz sıkmasını istiyorum."
 
 # game/UpdateScript0.04.rpy:2603
 translate turkish wr_cosplayfitting_fec39040:
 
     # R "Let's see, sexy short shorts, gun and holster, tank top, you must be Cosplaying Lauren Craft from the Womb Raider video games."
-    ""
+    R "Bakalım, seksi kısa şort, silah ve kılıf, atlet, Womb Raider video oyunlarından Lauren Craft'ın Cosplay'i olmalısın."
 
 # game/UpdateScript0.04.rpy:2606
 translate turkish wr_cosplayfitting_348e9fdb:
 
     # S "Yep.... she's one of my favorite female characters."
-    ""
+    S "Evet.... o benim en sevdiğim kadın karakterlerden biri."
 
 # game/UpdateScript0.04.rpy:2607
 translate turkish wr_cosplayfitting_91e31c77:
 
     # R "Yeah.... she's hot!"
-    ""
+    R "Evet.... çok ateşli!"
 
 # game/UpdateScript0.04.rpy:2608
 translate turkish wr_cosplayfitting_a28e5460:
 
     # S "She's more than that, she's one of the only empowering female video game characters."
-    ""
+    S "O bundan daha fazlası, video oyunu karakterlerinde en güçlü kadınlardan biri."
 
 # game/UpdateScript0.04.rpy:2609
 translate turkish wr_cosplayfitting_0361d171:
 
     # R "Haha.... you do know she was created as an ass and tits for gamers to ogle while they played."
-    ""
+    R "Haha.... onun oyuncuların oyun oynarken gözlerini dikip bakabilecekleri bir kıç ve meme olarak yaratıldığını biliyorsun."
 
 # game/UpdateScript0.04.rpy:2610
 translate turkish wr_cosplayfitting_613f3e14:
 
     # S "She might have started out that way, but she's become much more than that."
-    ""
+    S "Bu şekilde başlamış olabilir, ama bundan çok daha fazlası oldu."
 
 # game/UpdateScript0.04.rpy:2611
 translate turkish wr_cosplayfitting_d4d55167:
 
     # R "Yeah, just booble search some of the newest 3rd party animations of her."
-    ""
+    R "Evet, booble'da onun en yeni 3. parti animasyonlarından bazılarını arat."
 
 # game/UpdateScript0.04.rpy:2612
 translate turkish wr_cosplayfitting_ebc77ebd:
 
     # S "But.... never mind.... I don't want to know."
-    ""
+    S "Ama.... boş ver.... Bilmek istemiyorum."
 
 # game/UpdateScript0.04.rpy:2613
 translate turkish wr_cosplayfitting_ea07f7be:
 
     # L "I love her too! I wish you'd made this outfit for me.... my name is \"Lauren\" after all."
-    ""
+    L "Ben de onu seviyorum! Keşke bu kıyafeti benim için yapsaydın.... ne de olsa adım \"Lauren\"."
 
 # game/UpdateScript0.04.rpy:2614
 translate turkish wr_cosplayfitting_cdb12e97:
 
     # S "Trust me.... I wish this outfit was for you too."
-    ""
+    S "Güven bana.... Bu kıyafetin senin için olması dilerdim."
 
 # game/UpdateScript0.04.rpy:2615
 translate turkish wr_cosplayfitting_3d4a2117:
 
     # L "How did [ryan] get you to agree to do a photo shoot?"
-    ""
+    L "[ryan] fotoğraf çekimi için seni nasıl ikna etti?"
 
 # game/UpdateScript0.04.rpy:2616
 translate turkish wr_cosplayfitting_d9e34be6:
 
     # R "Let's just say she owes me."
-    ""
+    R "Bana borçlu diyelim."
 
 # game/UpdateScript0.04.rpy:2617
 translate turkish wr_cosplayfitting_b73c5e24:
 
     # S "Yeah, let's not say anymore than that..."
-    ""
+    S "Evet, bundan daha fazlasını söylemeyelim..."
 
 # game/UpdateScript0.04.rpy:2618
 translate turkish wr_cosplayfitting_029b0860:
@@ -6568,19 +6568,19 @@ translate turkish wr_cosplayfitting_029b0860:
 translate turkish wr_cosplayfitting_5abbb23b:
 
     # S "Lauren, I'm coming down, I need you to adjust the shoulder strap in the back."
-    ""
+    S "Lauren, ben iniyorum, arkadaki omuz askısını ayarlamanı istiyorum."
 
 # game/UpdateScript0.04.rpy:2620
 translate turkish wr_cosplayfitting_6e956f2c:
 
     # S "Shit.... my shoe.... is.... stuck..."
-    ""
+    S "Siktir.... ayakkabım.... sıkıştı...."
 
 # game/UpdateScript0.04.rpy:2623
 translate turkish wr_cosplayfitting_8d712f5e:
 
     # S "Aaaahhhhhh.... watch out!..."
-    ""
+    S "Aaaahhhhhh.... dikkat et!..."
 
 # game/UpdateScript0.04.rpy:2624
 translate turkish wr_cosplayfitting_7b61bad1:
@@ -6598,31 +6598,31 @@ translate turkish wr_cosplayfitting_0e590868:
 translate turkish wr_cosplayfitting_63d506b0:
 
     # R "Now this really looks like a scene from one of my favorite pornos."
-    ""
+    R "Şimdi bu gerçekten en sevdiğim pornolardan birinden bir sahne gibi görünüyor."
 
 # game/UpdateScript0.04.rpy:2629
 translate turkish wr_cosplayfitting_dc675e4a:
 
     # R "Are you sure there aren't hidden cameras around?"
-    ""
+    R "Etrafta gizli kamera olmadığına emin misin?"
 
 # game/UpdateScript0.04.rpy:2632
 translate turkish wr_cosplayfitting_163e8774:
 
     # L "Haha.... good one!"
-    ""
+    L "Haha.... bir tane daha!"
 
 # game/UpdateScript0.04.rpy:2633
 translate turkish wr_cosplayfitting_b0884e41:
 
     # S "Shut up Lauren, don't encourage that perverted ass!"
-    ""
+    S "Kapa çeneni Lauren, o sapık götü cesaretlendirme!"
 
 # game/UpdateScript0.04.rpy:2634
 translate turkish wr_cosplayfitting_d99531a6:
 
     # R "Well, I think perversion must run in the family."
-    ""
+    R "Bence sapıklık aileden geliyor olmalı."
 
 # game/UpdateScript0.04.rpy:2635
 translate turkish wr_cosplayfitting_95401e51:
@@ -6634,73 +6634,73 @@ translate turkish wr_cosplayfitting_95401e51:
 translate turkish wr_cosplayfitting_6c6b9634:
 
     # R "Try asking Sidney when she's in a better mood."
-    ""
+    R "Sidney'e daha iyi bir ruh halindeyken sormayı dene."
 
 # game/UpdateScript0.04.rpy:2639
 translate turkish wr_cosplayfitting_f8ddec06:
 
     # S "My mood was just fine till you came in."
-    ""
+    S "Sen gelene kadar ruh halim gayet iyiydi."
 
 # game/UpdateScript0.04.rpy:2640
 translate turkish wr_cosplayfitting_3f88ecff:
 
     # S "So, will you please leave so we can finish here?"
-    ""
+    S "Lütfen gider misin? Böylece burayı bitirebiliriz."
 
 # game/UpdateScript0.04.rpy:2641
 translate turkish wr_cosplayfitting_3e96f293:
 
     # R "Ouch.... that's so hurtful."
-    ""
+    R "Ouch.... bu çok kalp kırıcı."
 
 # game/UpdateScript0.04.rpy:2642
 translate turkish wr_cosplayfitting_7e62eb29:
 
     # R "I wouldn't stay if you begged me."
-    ""
+    R "Bana yalvarsan da kalmam."
 
 # game/UpdateScript0.04.rpy:2643
 translate turkish wr_cosplayfitting_7c8448bb:
 
     # R "But seriously, when will the outfit be done? And when will you be ready for our first photoshoot?"
-    ""
+    R "Ama cidden, kıyafet ne zaman bitecek? Ve ilk fotoğraf çekimimiz için ne zaman hazır olacaksın?"
 
 # game/UpdateScript0.04.rpy:2644
 translate turkish wr_cosplayfitting_25d647b9:
 
     # S "It's pretty much done now. I'll be available most {b}afternoons.{/b}"
-    ""
+    S "Hemen hemen bitti. Çoğunlukla {b}öğleden sonra{/b} müsait olacağım."
 
 # game/UpdateScript0.04.rpy:2645
 translate turkish wr_cosplayfitting_7d0c3352:
 
     # S "Just give me a call from the photo studio when you're ready, and I'll come right over if I'm available."
-    ""
+    S "Hazır olduğunda fotoğraf stüdyosundan beni ara, müsait olursam hemen gelirim."
 
 # game/UpdateScript0.04.rpy:2646
 translate turkish wr_cosplayfitting_7097a829:
 
     # "{i}\"(WARNING - You cannot begin Sidney's photoshoot until you have bought both the green screen and the professional lights!!)\"{/i}"
-    ""
+    "{i}\"(UYARI - Hem yeşil perdeyi hem de profesyonel ışıkları satın almadan Sidney'in fotoğraf çekimine başlayamazsınız!!)\"{/i}"
 
 # game/UpdateScript0.04.rpy:2647
 translate turkish wr_cosplayfitting_23faadc5:
 
     # R "Nice! I can't wait!"
-    ""
+    R "Güzel! Sabırsızlanıyorum!"
 
 # game/UpdateScript0.04.rpy:2648
 translate turkish wr_cosplayfitting_10d1ada9:
 
     # S "Yeah, well I wish I could say the same. Now, get out of here!"
-    ""
+    S "Evet, keşke ben de aynısını söyleyebilseydim. Şimdi, defol git buradan!"
 
 # game/UpdateScript0.04.rpy:2649
 translate turkish wr_cosplayfitting_1177f8aa:
 
     # R "Fine.... I'm going."
-    ""
+    R "İyi.... gidiyorum."
 
 # game/UpdateScript0.04.rpy:2661
 translate turkish bitchy_aunt_dba92fde:
@@ -6742,13 +6742,13 @@ translate turkish bitchy_aunt_aaabe4db:
 translate turkish bitchy_aunt_40141d63:
 
     # S "Huh.... I wonder who that could be.... [ryan] go get the door."
-    ""
+    S "Huh.... Kim olabilir acaba?.... [ryan] kapıya bi' bak."
 
 # game/UpdateScript0.04.rpy:2672
 translate turkish bitchy_aunt_296c4ad2:
 
     # R "What am I, your slave?.... You go get the door!"
-    ""
+    R "Neyim ben, kölen mi?.... Sen git kapıya bak!"
 
 # game/UpdateScript0.04.rpy:2675
 translate turkish bitchy_aunt_0f917df9:
@@ -6760,67 +6760,67 @@ translate turkish bitchy_aunt_0f917df9:
 translate turkish bitchy_aunt_c3d9dc5d:
 
     # S "I'm working, and you're just standing there doing nothing."
-    ""
+    S "Ben çalışıyorum ve sen orada hiçbir şey yapmadan duruyorsun."
 
 # game/UpdateScript0.04.rpy:2677
 translate turkish bitchy_aunt_1e0ee508:
 
     # S "Why do you have to try to turn this into a power struggle."
-    ""
+    S "Neden bunu bir güç savaşına dönüştürmeye çalışıyorsun?"
 
 # game/UpdateScript0.04.rpy:2678
 translate turkish bitchy_aunt_9fd007d0:
 
     # R "Uuugggghhhh.... fine.... sorry.... you're right, I'll go get the door."
-    ""
+    R "Uuugggghhhh.... peki.... pardon.... haklısın, gidip kapıyı açayım.."
 
 # game/UpdateScript0.04.rpy:2683
 translate turkish bitchy_aunt_36624f2a:
 
     # R "Aunt Cami?.... It's good to see you!.... Are you.... are you ok?..."
-    ""
+    R "Cami Teyze?.... Seni görmek güzel!.... Sen.... iyi misin?..."
 
 # game/UpdateScript0.04.rpy:2684
 translate turkish bitchy_aunt_ab3da377:
 
     # C "Hello, my perverted little nephew."
-    ""
+    C "Merhaba benim sapık küçük yeğenim."
 
 # game/UpdateScript0.04.rpy:2685
 translate turkish bitchy_aunt_8990314f:
 
     # R "Perverted?"
-    ""
+    R "Sapık mı?"
 
 # game/UpdateScript0.04.rpy:2686
 translate turkish bitchy_aunt_d9180574:
 
     # C "Yes.... and how many times have I told you not to call me Aunt Cami?.... Call me by my full name!"
-    ""
+    C "Evet.... ve sana kaç kere bana Cami Teyze dememeni söyledim? Bana tam adımla hitap et!"
 
 # game/UpdateScript0.04.rpy:2687
 translate turkish bitchy_aunt_03378e97:
 
     # R "Sorry Aunt Camille."
-    ""
+    R "Üzgünüm Camille Teyze."
 
 # game/UpdateScript0.04.rpy:2690
 translate turkish bitchy_aunt_b61a26aa:
 
     # R "But where do you get off calling me a pervert?"
-    ""
+    R "Ama bana sapık demeyi nereden çıkardın?"
 
 # game/UpdateScript0.04.rpy:2691
 translate turkish bitchy_aunt_14cee6fe:
 
     # C "Well, after seeing certain pictures of my daughter Mandy on the internet, I can only assume that the photographer who took them is a pervert!"
-    ""
+    C "Kızım Mandy'nin bazı fotoğraflarını internette gördükten sonra, bunları çeken fotoğrafçının bir sapık olduğunu varsayabilirim!"
 
 # game/UpdateScript0.04.rpy:2692
 translate turkish bitchy_aunt_59dca54e:
 
     # R "Ohhhh.... shit..."
-    ""
+    R "Ohhhh.... siktir..."
 
 # game/UpdateScript0.04.rpy:2693
 translate turkish bitchy_aunt_d0cf15a2:
@@ -6832,67 +6832,67 @@ translate turkish bitchy_aunt_d0cf15a2:
 translate turkish bitchy_aunt_c758f28b:
 
     # C "Where is [mom_name]?.... I need to speak with her."
-    ""
+    C "[mom_name] nerede?.... Onunla konuşmam gerek."
 
 # game/UpdateScript0.04.rpy:2695
 translate turkish bitchy_aunt_f99ac286:
 
     # RT "{i}Oh, shit! She can't talk to Mom about Lauren's and Mandy's photo shoot, or everything might be over before it gets started.{/i}"
-    ""
+    RT "{i}Hasiktir! Annemle, Lauren ve Mandy'nin fotoğraf çekimi hakkında konuşamaz, yoksa her şey başlamadan bitebilir.{/i}"
 
 # game/UpdateScript0.04.rpy:2696
 translate turkish bitchy_aunt_adb97847:
 
     # RT "{i}I've got to lie!{/i}"
-    ""
+    RT "{i}Yalan söylemek zorundayım!{/i}"
 
 # game/UpdateScript0.04.rpy:2697
 translate turkish bitchy_aunt_4b1cb114:
 
     # R "Uhhhhh.... she's not here!.... Uhhhh.... she hasn't come home from school yet..."
-    ""
+    R "Uhhhhh.... o burada değil!.... Uhhhh.... okuldan henüz eve gelmedi..."
 
 # game/UpdateScript0.04.rpy:2698
 translate turkish bitchy_aunt_f6874144:
 
     # M "{i}(yelling){/i} [ryan]!.... Who's at the door?!..."
-    ""
+    M "{i}(bağırarak){/i} [ryan]!.... Kapıdaki kim?!..."
 
 # game/UpdateScript0.04.rpy:2699
 translate turkish bitchy_aunt_e14f917d:
 
     # R "{i}SHIT!!{/i}"
-    ""
+    R "{i}SİKTİR!!{/i}"
 
 # game/UpdateScript0.04.rpy:2702
 translate turkish bitchy_aunt_72bf17c8:
 
     # R "Huh.... I guess I didn't see her come in..."
-    ""
+    R "Huh.... sanırım onun geldiğini görmemişim..... "
 
 # game/UpdateScript0.04.rpy:2703
 translate turkish bitchy_aunt_108b8f7f:
 
     # C "I'll just show myself in..."
-    ""
+    C "İçeri giriyorum..."
 
 # game/UpdateScript0.04.rpy:2704
 translate turkish bitchy_aunt_e9ca66ee:
 
     # R "Ok.... I think she's in the lounge."
-    ""
+    R "Tamam.... Sanırım salonda."
 
 # game/UpdateScript0.04.rpy:2705
 translate turkish bitchy_aunt_0a05e61c:
 
     # C "{i}(muttering under breath){/i} Little fucker..."
-    ""
+    C "{i}(nefes nefese mırıldanma){/i} Küçük piç..."
 
 # game/UpdateScript0.04.rpy:2708
 translate turkish bitchy_aunt_b72fa932:
 
     # RT "{i}Dammit.... I wonder how much trouble I'm going to be in.... maybe I can overhear their conversation.{/i}"
-    ""
+    RT "{i}Siktirr.... Acaba başım ne kadar belaya girecek.... belki konuşmalarına kulak misafiri olabilirim.{/i}"
 
 # game/UpdateScript0.04.rpy:2714
 translate turkish sad_aunt_dba92fde:
@@ -7063,9 +7063,9 @@ translate turkish assign_chores_9fa304eb:
     ""
 
 # game/UpdateScript0.04.rpy:2776
-translate turkish assign_chores_e683debe:
+translate turkish assign_chores_fe0e6651:
 
-    # C "I'm a grown-ass woman, and I don't need my little power hungry nephew to be telling me when it's ok to drink."
+    # C "I'm a grown-ass woman, and I don't need my little power hungry nephew to be telling me when it's okay to drink."
     ""
 
 # game/UpdateScript0.04.rpy:2777
@@ -8002,7 +8002,7 @@ translate turkish aunt_clean_kitchen_8f2db0b5:
 translate turkish aunt_clean_kitchen_3def8852:
 
     # "{i}\"A few minutes later\"{/i}"
-    ""
+    "{i}\"Bir kaç dakika sonra\"{/i}"
 
 # game/UpdateScript0.04.rpy:3052
 translate turkish aunt_clean_kitchen_adcdb2f1:
@@ -8251,9 +8251,9 @@ translate turkish aunt_clean_kitchen_68aa67a5:
     ""
 
 # game/UpdateScript0.04.rpy:3134
-translate turkish aunt_clean_kitchen_3303aa02:
+translate turkish aunt_clean_kitchen_fda8e8cd:
 
-    # C "How are you ok with perving on your own aunt?"
+    # C "How are you okay with perving on your own aunt?"
     ""
 
 # game/UpdateScript0.04.rpy:3135
@@ -8650,7 +8650,7 @@ translate turkish aunt_clean_kitchen_ad24ce00:
 translate turkish aunt_clean_kitchen_3a2fe1f4:
 
     # R "Not yet!"
-    ""
+    R "Daha değil!"
 
 # game/UpdateScript0.04.rpy:3239
 translate turkish aunt_clean_kitchen_9d02a885:
@@ -9049,9 +9049,9 @@ translate turkish aunt_clean_kitchen_68aa67a5_1:
     ""
 
 # game/UpdateScript0.04.rpy:3401
-translate turkish aunt_clean_kitchen_3303aa02_1:
+translate turkish aunt_clean_kitchen_fda8e8cd_1:
 
-    # C "How are you ok with perving on your own aunt?"
+    # C "How are you okay with perving on your own aunt?"
     ""
 
 # game/UpdateScript0.04.rpy:3402
@@ -9448,7 +9448,7 @@ translate turkish aunt_clean_kitchen_ad24ce00_1:
 translate turkish aunt_clean_kitchen_3a2fe1f4_1:
 
     # R "Not yet!"
-    ""
+    R "Daha değil!"
 
 # game/UpdateScript0.04.rpy:3506
 translate turkish aunt_clean_kitchen_9d02a885_1:
@@ -9871,9 +9871,9 @@ translate turkish aunt_clean_kitchen_1914a61d:
     ""
 
 # game/UpdateScript0.04.rpy:3668
-translate turkish aunt_clean_kitchen_66c58422:
+translate turkish aunt_clean_kitchen_2465c2dd:
 
-    # C "How could you ever think that I would be ok with that?"
+    # C "How could you ever think that I would be okay with that?"
     ""
 
 # game/UpdateScript0.04.rpy:3670
@@ -12178,85 +12178,85 @@ translate turkish bye_bobby_1779dff4:
 translate turkish bye_bobby_d5f6c529:
 
     # B "Thank God, you're finally here!"
-    ""
+    B "Tanrıya şükür, sonunda buradasın!"
 
 # game/UpdateScript0.04.rpy:4542
 translate turkish bye_bobby_e4903230:
 
     # R ".... Is everything ok, Uncle Bobby?..."
-    ""
+    R ".... Her şey yolunda mı Bobby Amca?..."
 
 # game/UpdateScript0.04.rpy:4545
 translate turkish bye_bobby_dd2ecc9d:
 
     # B "Well, actually no, not really."
-    ""
+    B "Şey, aslında hayır, pek sayılmaz."
 
 # game/UpdateScript0.04.rpy:4546
 translate turkish bye_bobby_1805fb81:
 
     # B "I'm in some trouble, and I've gots to disappear."
-    ""
+    B "Başım belada ve ortadan kaybolmalıyım."
 
 # game/UpdateScript0.04.rpy:4547
 translate turkish bye_bobby_fc60abf1:
 
     # R "Oh my God, are you serious?"
-    ""
+    R "Aman Tanrım, ciddi misin?"
 
 # game/UpdateScript0.04.rpy:4550
 translate turkish bye_bobby_9a03262f:
 
     # B "Unfortunately, yes..."
-    ""
+    B "Ne yazık ki evet."
 
 # game/UpdateScript0.04.rpy:4551
 translate turkish bye_bobby_67839f90:
 
     # B "I just got a tip from our friend Agent Diaz..."
-    ""
+    B "Dostumuz Ajan Diaz'dan bir ipucu aldım."
 
 # game/UpdateScript0.04.rpy:4554
 translate turkish bye_bobby_fbe41cb3:
 
     # B "She says \"hi\" by the way."
-    ""
+    B "Bu arada \"merhaba\" diyor."
 
 # game/UpdateScript0.04.rpy:4555
 translate turkish bye_bobby_4a38abb3:
 
     # B "And she warned me that the FBI are going to bring me in on some fucked up, trumped up charges."
-    ""
+    B "Ve beni FBI'ın bazı boktan, uydurma suçlamalarla beni içeri atacağı konusunda uyardı."
 
 # game/UpdateScript0.04.rpy:4556
 translate turkish bye_bobby_0f38a213:
 
     # B "They're going to threaten me with major prison time if I don't inform on the DeCapo family."
-    ""
+    B "DeCapo ailesini ihbar etmezsem beni büyük bir hapis cezasıyla tehdit edecekler."
 
 # game/UpdateScript0.04.rpy:4557
 translate turkish bye_bobby_ac6585f5:
 
     # B "They offered the same thing to your dad, but he values his life and family enough not to take them up on it."
-    ""
+    B "Aynı şeyi babana da teklif ettiler, ama o hayatına ve ailesine bu teklifi kabul etmeyecek kadar değer veriyor."
 
 # game/UpdateScript0.04.rpy:4558
 translate turkish bye_bobby_a94a5d93:
 
     # B "If he'd had some warning, he could have run away too."
-    ""
+    B "Eğer biraz uyarısı olsaydı, o da kaçabilirdi."
 
 # game/UpdateScript0.04.rpy:4559
 translate turkish bye_bobby_7b02aed7:
 
     # R "Where are you going to go?"
-    ""
+    R "Nereye gideceksin?"
 
 # game/UpdateScript0.04.rpy:4562
 translate turkish bye_bobby_6bd4b4c8:
 
     # B "It's best if you don't know, kid.... all I can say is I'll be leaving the country."
-    ""
+    B "Bilmemen en iyisi çocuk.... tek söyleyebileceğim ülkeyi terk edeceğim."
 
 # game/UpdateScript0.04.rpy:4563
 translate turkish bye_bobby_02db4b0f:
@@ -12274,73 +12274,73 @@ translate turkish bye_bobby_4ae821fe:
 translate turkish bye_bobby_6a50bd15:
 
     # B ".... Actually.... your Aunt Camille and Mandy won't be coming with me."
-    ""
+    B ".... Aslında.... Camille teyzen ve Mandy benimle gelmeyecekler."
 
 # game/UpdateScript0.04.rpy:4568
 translate turkish bye_bobby_0101d127:
 
     # R ".... What?.... You're just going to abandon them?"
-    ""
+    R ".... Ne?.... Onları öylece terk mi edeceksin?"
 
 # game/UpdateScript0.04.rpy:4569
 translate turkish bye_bobby_c30fdbba:
 
     # B "No.... not exactly.... and that's where I need your help."
-    ""
+    B "Hayır.... tam olarak değil.... işte bu noktada yardımına ihtiyacım var."
 
 # game/UpdateScript0.04.rpy:4570
 translate turkish bye_bobby_83314911:
 
     # R "Shit.... really?!"
-    ""
+    R "Siktir.... gerçekten mi?!"
 
 # game/UpdateScript0.04.rpy:4571
 translate turkish bye_bobby_0ebb61eb:
 
     # R "As if I don't already have enough on my plate, having to help provide for my own family."
-    ""
+    R "Sanki kendi ailemi geçindirmek için zaten yeterince işim yokmuş gibi."
 
 # game/UpdateScript0.04.rpy:4575
 translate turkish bye_bobby_b768a229:
 
     # B "Just relax, ok..."
-    ""
+    B "Rahatla, tamam..."
 
 # game/UpdateScript0.04.rpy:4576
 translate turkish bye_bobby_df346ae1:
 
     # B "I'm not asking for much, and I'll make it worth your time."
-    ""
+    B "Fazla bir şey istemiyorum ve zamanına değmesini sağlayacağım."
 
 # game/UpdateScript0.04.rpy:4577
 translate turkish bye_bobby_33f9265a:
 
     # R "Ok.... well, let's hear your plan."
-    ""
+    R "Pekala.... planını duyalım."
 
 # game/UpdateScript0.04.rpy:4580
 translate turkish bye_bobby_b11023ea:
 
     # B "Ok.... so I've got a pretty good amount of money that I've been able to secure in ways that I can access it, and where the FBI can't find it."
-    ""
+    B "Tamam.... bu yüzden erişebileceğim ve FBI'ın bulamayacağı şekilde güvence altına alabildiğim oldukça iyi bir miktar param var."
 
 # game/UpdateScript0.04.rpy:4581
 translate turkish bye_bobby_1c80cc7c:
 
     # B "Lucky for me I had some warning and was able to make some arrangements, unlike your father."
-    ""
+    B "Şanslıyım ki babanın aksine, önceden haberim vardı ve bazı ayarlamalar yapabildim."
 
 # game/UpdateScript0.04.rpy:4582
 translate turkish bye_bobby_50856c7f:
 
     # R "I thought you weren't able to help me with our loan to the DeCapos because you didn't have access to your money."
-    ""
+    R "Parana erişiminiz olmadığı için DeCapos'a verdiğimiz kredi konusunda bana yardımcı olmadığını sanıyordum."
 
 # game/UpdateScript0.04.rpy:4583
 translate turkish bye_bobby_3c4e485a:
 
     # B "That's true.... I didn't at the time. None of my money was liquid yet..."
-    ""
+    B "Bu doğru.... O zaman yapmamıştım. Paramın hiçbiri henüz likit değildi..."
 
 # game/UpdateScript0.04.rpy:4584
 translate turkish bye_bobby_fed602a0:
@@ -12352,61 +12352,61 @@ translate turkish bye_bobby_fed602a0:
 translate turkish bye_bobby_500670a0:
 
     # B "It means disposable, spendable, it was all tied up in investments and assets."
-    ""
+    B "Yani harcanabilir, hepsi yatırımlara ve varlıklara bağlanmıştı."
 
 # game/UpdateScript0.04.rpy:4586
 translate turkish bye_bobby_d892218a:
 
     # B "But now I need all my money to get out of here and take care of my family."
-    ""
+    B "Ama şimdi buradan çıkmak ve aileme bakmak için tüm parama ihtiyacım var."
 
 # game/UpdateScript0.04.rpy:4587
 translate turkish bye_bobby_9b053bce:
 
     # B "So, here's the deal."
-    ""
+    B "Anlaşma şu."
 
 # game/UpdateScript0.04.rpy:4588
 translate turkish bye_bobby_0454d4a8:
 
     # B "I can't take Camille and Mandy with me because it would be too complicated."
-    ""
+    B "Camille ve Mandy'yi yanıma alamam çünkü bu çok karmaşık olur."
 
 # game/UpdateScript0.04.rpy:4591
 translate turkish bye_bobby_209792b7:
 
     # B "Plus I think they wouldn't even want to come if I gave them the choice."
-    ""
+    B "Ayrıca onlara seçme şansı versem bile gelmek istemeyeceklerini düşünüyorum."
 
 # game/UpdateScript0.04.rpy:4592
 translate turkish bye_bobby_e24e1712:
 
     # B "Mandy loves her school, Camille loves her pilates class. Going into hiding isn't the kind of lifestyle my wife and daughter could handle."
-    ""
+    B "Mandy okulunu, Camille pilates dersini seviyor. Saklanmak, karımın ve kızımın kaldırabileceği bir yaşam tarzı değil."
 
 # game/UpdateScript0.04.rpy:4593
 translate turkish bye_bobby_2fe8b8b7:
 
     # B "But obviously, I can't just abandon them and leave them destitute."
-    ""
+    B "Ama tabii ki onları öylece terk edip yoksul bırakamam."
 
 # game/UpdateScript0.04.rpy:4594
 translate turkish bye_bobby_d7f36097:
 
     # B "So, somehow I need to get money to them every month to pay their expenses."
-    ""
+    B "Yani bir şekilde her ay masraflarını karşılayabilmeleri için onlara para ulaştırmam gerekiyor."
 
 # game/UpdateScript0.04.rpy:4595
 translate turkish bye_bobby_44ec753f:
 
     # R "And what can I do to help with that?"
-    ""
+    R "Bu konuda ne yapabilirim?"
 
 # game/UpdateScript0.04.rpy:4598
 translate turkish bye_bobby_30d910bd:
 
     # B "You've already done most of it!"
-    ""
+    B "Zaten çoğunu yaptın!"
 
 # game/UpdateScript0.04.rpy:4599
 translate turkish bye_bobby_7bd0559b:
@@ -12418,187 +12418,187 @@ translate turkish bye_bobby_7bd0559b:
 translate turkish bye_bobby_fcd35a44:
 
     # B "With that little Cosplay Heaven account you set up."
-    ""
+    B "Şu açtığın küçük Cosplay Heaven hesabıyla."
 
 # game/UpdateScript0.04.rpy:4601
 translate turkish bye_bobby_a4009181:
 
     # B "Through the Cosplay Heaven Subscription service, I can become one of your patrons and send you the money my family needs to pay their weekly bills in the guise of supporting your photography."
-    ""
+    B "Cosplay Heaven Abonelik hizmeti sayesinde, müşterilerinden biri olabilir ve fotoğrafçılığını destekleme kisvesi altında ailemin haftalık faturalarını ödemek için ihtiyaç duyduğu parayı sana gönderebilirim."
 
 # game/UpdateScript0.04.rpy:4602
 translate turkish bye_bobby_dcd6b298:
 
     # B "I've already signed up for it.... my user name is \"BigDickBobby\"!"
-    ""
+    B "Ben çoktan kayıt oldum.... kullanıcı adım \"BigDickBobby\"!"
 
 # game/UpdateScript0.04.rpy:4603
 translate turkish bye_bobby_45c0f793:
 
     # RT "{i}Of course it is.{/i}"
-    ""
+    RT "{i}Kesinlikle \"BüyükSikliBobby\"sindir.{/i}"
 
 # game/UpdateScript0.04.rpy:4604
 translate turkish bye_bobby_29a7ef5b:
 
     # R "Wait.... how the fuck do you know about my Cosplay Heaven account?"
-    ""
+    R "Bekle.... Cosplay Heaven hesabımı nereden biliyorsun?"
 
 # game/UpdateScript0.04.rpy:4605
 translate turkish bye_bobby_33313f06:
 
     # B "From our good friend Agent Diaz."
-    ""
+    B "İyi dostumuz Ajan Diaz'dan."
 
 # game/UpdateScript0.04.rpy:4606
 translate turkish bye_bobby_ba32847d:
 
     # B "Did I tell you she sends her regards?"
-    ""
+    B "Sana selamlarını gönderdiğini söylemiş miydim?"
 
 # game/UpdateScript0.04.rpy:4607
 translate turkish bye_bobby_0818f13a:
 
     # RT "{i}Shit!.... If he knows about the account, he's probably seen the pictures of his daughter!{/i}"
-    ""
+    RT "{i}Siktir!.... Eğer hesabı biliyorsa, muhtemelen kızının fotoğraflarını görmüştür!{/i}"
 
 # game/UpdateScript0.04.rpy:4608
 translate turkish bye_bobby_bf563cdf:
 
     # B "You ok? Your face went a little white."
-    ""
+    B "İyi misin? Yüzün biraz beyazladı gibi."
 
 # game/UpdateScript0.04.rpy:4609
 translate turkish bye_bobby_9629768e:
 
     # B "Oh.... haha I probably know what you're thinking. You're probably worried about those pictures of my daughter you posted on there."
-    ""
+    B "Oh.... haha muhtemelen ne düşündüğünü biliyorum. Muhtemelen oraya koyduğun kızımın resimleri için endişeleniyorsundur."
 
 # game/UpdateScript0.04.rpy:4610
 translate turkish bye_bobby_18935bfb:
 
     # B "Don't worry I'm not mad.... and I can appreciate your eye for beauty. You're a pretty damn good photographer."
-    ""
+    B "Endişelenme.... ben deli değilim ve güzellik için gözünü takdir edebilirim. Oldukça iyi bir fotoğrafçısın."
 
 # game/UpdateScript0.04.rpy:4612
 translate turkish bye_bobby_be11aaf3:
 
     # B "I also enjoyed the pictures you took of Lauren and Sidney! They're really turning into some fine pieces of ass."
-    ""
+    B "Lauren ve Sidney'in fotoğraflarını da çok beğendim! Gerçekten güzel bir göte sahip olmak için büyüyorlar."
 
 # game/UpdateScript0.04.rpy:4614
 translate turkish bye_bobby_bd0b7b82:
 
     # B "I also enjoyed the pictures you took of Lauren! She's really growing up to be a fine piece of ass."
-    ""
+    B "Lauren'in fotoğraflarını da çok beğendim! Gerçekten güzel bir göte sahip olmak için büyüyor."
 
 # game/UpdateScript0.04.rpy:4615
 translate turkish bye_bobby_87b305b2:
 
     # RT "{i}Wow, what a creep!{/i}"
-    ""
+    RT "{i}Vay canına, ne ka ayıp ne ka ayıp!{/i}"
 
 # game/UpdateScript0.04.rpy:4616
 translate turkish bye_bobby_016f7499:
 
     # RT "{i}I guess it takes one to know one.{/i}"
-    ""
+    RT "{i}Sanırım birini tanımak için biri gerekiyor.{/i}"
 
 # game/UpdateScript0.04.rpy:4619
 translate turkish bye_bobby_c00ec275:
 
     # R "So, do you just want me to withdraw the money and give it to Aunt Camille in cash?"
-    ""
+    R "Yani parayı çekip Camille Teyze'ye nakit olarak vermemi mi istiyorsun?"
 
 # game/UpdateScript0.04.rpy:4620
 translate turkish bye_bobby_252decb4:
 
     # B "Actually, I don't even want her to know about it."
-    ""
+    B "Aslında, bunu bilmesini bile istemiyorum."
 
 # game/UpdateScript0.04.rpy:4621
 translate turkish bye_bobby_4468e036:
 
     # R "What?.... I thought..."
-    ""
+    R "Ne?.... düşündüm de..."
 
 # game/UpdateScript0.04.rpy:4622
 translate turkish bye_bobby_bdc71c9d:
 
     # B "I love your aunt!.... But she's a fucking shopaholic."
-    ""
+    B "Teyzeni seviyorum!.... Ama o tam bir alışverişkolik."
 
 # game/UpdateScript0.04.rpy:4623
 translate turkish bye_bobby_051162f9:
 
     # B "If she has her hands on that cash, she'll make bad choices and spend it on handbags instead of bills."
-    ""
+    B "O para eline geçerse, kötü seçimler yapacak ve faturalar yerine el çantalarına harcayacaktır."
 
 # game/UpdateScript0.04.rpy:4624
 translate turkish bye_bobby_48e51662:
 
     # B "So, I'm going to email you a spread-sheet of all her expenses, and instructions to pay all of her bills each week, and you use the money I send you to do just that."
-    ""
+    B "Bu yüzden, sana tüm harcamalarının bir çizelgesini ve her hafta tüm faturalarını ödeme talimatlarını e-postayla göndereceğim ve sen de sana gönderdiğim parayı sadece bunu yapmak için kullanacaksın."
 
 # game/UpdateScript0.04.rpy:4625
 translate turkish bye_bobby_a52711ac:
 
     # B "In my goodbye letter to her, I'll tell her to rely on you to take care of her financially."
-    ""
+    B "Ona yazacağım veda mektubunda, maddi olarak ona bakman için sana güvenmesini söyleyeceğim."
 
 # game/UpdateScript0.04.rpy:4628
 translate turkish bye_bobby_856c6b5b:
 
     # B "I'll only be sending enough money to take care of her bills, plus an extra $200 a week to pay you for your trouble."
-    ""
+    B "Sadece faturalarını karşılayacak kadar para göndereceğim, artı zahmetin için sana haftada 200 dolar daha ödeyeceğim."
 
 # game/UpdateScript0.04.rpy:4629
 translate turkish bye_bobby_3ecce00c:
 
     # B "If Camille needs more money than that.... she can get a fucking job..."
-    ""
+    B "Camille'in bundan daha fazla paraya ihtiyacı varsa.... lanet olası bir iş bulabilir..."
 
 # game/UpdateScript0.04.rpy:4630
 translate turkish bye_bobby_2a2d47aa:
 
     # B "Lord knows it would probably be good for her.... I shouldn't have spoiled her so badly..."
-    ""
+    B "Tanrı biliyor ya.... muhtemelen onun için iyi olurdu. Onu bu kadar şımartmamalıydım."
 
 # game/UpdateScript0.04.rpy:4631
 translate turkish bye_bobby_d9409be0:
 
     # B "I mean look how hard your mom works!.... Sometimes I can't even believe they're sisters."
-    ""
+    B "Annenin ne kadar sıkı çalıştığına baksana!.... Bazen kardeş olduklarına bile inanamıyorum."
 
 # game/UpdateScript0.04.rpy:4632
 translate turkish bye_bobby_f1cd976d:
 
     # B "So, just pay the bills once a week, like every Saturday morning or something, and I'll just keep sending money to your Cosplay Heaven account."
-    ""
+    B "Faturaları haftada bir kez, mesela her Cumartesi sabahı falan öde, ben de Cosplay Heaven hesabına para göndermeye devam edeyim."
 
 # game/UpdateScript0.04.rpy:4633
 translate turkish bye_bobby_44f80b47:
 
     # R "Ok, Uncle Bobby, I promise I'll take care of it..."
-    ""
+    R "Tamam Bobby Amca, söz veriyorum halledeceğim."
 
 # game/UpdateScript0.04.rpy:4634
 translate turkish bye_bobby_f819f5d4:
 
     # R "Good luck.... wherever you go..."
-    ""
+    R "İyi şanslar.... nereye gidiyorsan..."
 
 # game/UpdateScript0.04.rpy:4635
 translate turkish bye_bobby_3d719ead:
 
     # R "And I'm sorry you have to leave your family and be completely alone."
-    ""
+    R "Ailenden ayrılmak ve tamamen yalnız kalmak zorunda kaldığın için üzgünüm."
 
 # game/UpdateScript0.04.rpy:4640
 translate turkish bye_bobby_eae0f3dc:
 
     # B "Actually.... I won't be completely alone..."
-    ""
+    B "Aslında.... Tamamen yalnız olmayacağım..."
 
 # game/UpdateScript0.04.rpy:4641
 translate turkish bye_bobby_c557d6eb:
@@ -12742,13 +12742,13 @@ translate turkish wrshoot_5c00a2d4:
 translate turkish wrshoot_d4d19752:
 
     # "You will still be able to increase Sidney's stats and progress through this scene,"
-    ""
+    "Yine de Sidney'in istatistiklerini artırabilecek ve bu sahnede ilerleyebileceksiniz,"
 
 # game/UpdateScript0.04.rpy:4696
 translate turkish wrshoot_d2e00a31:
 
     # "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
-    ""
+    "Ancak bu etkinliğin her hafta yalnızca ilk oynanışı Cosplay Heaven web sitesi için beğeni toplayacaktır."
 
 # game/UpdateScript0.04.rpy:4703
 translate turkish wrshoot_de38a39c:
@@ -13024,7 +13024,7 @@ translate turkish wrshoot_ea6de2a3:
 translate turkish wrshoot_481a4b80:
 
     # R "I can't wait to show you how much better the pictures look with a new background."
-    ""
+    R "Yeni bir arka planla fotoğrafların ne kadar daha iyi göründüğünü göstermek için sabırsızlanıyorum."
 
 # game/UpdateScript0.04.rpy:4790
 translate turkish wrshoot_53fff505:
@@ -13636,7 +13636,7 @@ translate turkish wrshoot_e186ce4a:
 translate turkish wrshoot_1bfe80ad:
 
     # S "Clearly."
-    ""
+    S "Belli oluyor."
 
 # game/UpdateScript0.04.rpy:4980
 translate turkish wrshoot_6860cb7d_6:
@@ -14008,7 +14008,7 @@ translate turkish wrshoot_78e4a2e8:
 translate turkish wrshoot_14afbb3f:
 
     # R "Yeah, but the ones we have are really good, and the only way they could be better, is if I pushed you to do something you might not be comfortable with."
-    ""
+    R "Evet, ama elimizdekiler gerçekten iyi ve daha iyi olmalarının tek yolu, sizi rahat edemeyeceğin bir şey yapmaya zorlamam."
 
 # game/UpdateScript0.04.rpy:5094
 translate turkish wrshoot_edd67c17:
@@ -14209,9 +14209,9 @@ translate turkish removeshorts_78234501:
     ""
 
 # game/UpdateScript0.04.rpy:5157
-translate turkish removeshorts_84b442da:
+translate turkish removeshorts_609915a4:
 
-    # R "You ok to keep going?"
+    # R "You okay to keep going?"
     ""
 
 # game/UpdateScript0.04.rpy:5158
@@ -14674,7 +14674,7 @@ translate turkish removeshorts_e186ce4a:
 translate turkish removeshorts_1bfe80ad:
 
     # S "Clearly."
-    ""
+    S "Belli oluyor."
 
 # game/UpdateScript0.04.rpy:5278
 translate turkish removeshorts_1d59362d_2:
@@ -15226,7 +15226,7 @@ translate turkish removeshorts_78e4a2e8:
 translate turkish removeshorts_14afbb3f:
 
     # R "Yeah, but the ones we have are really good, and the only way they could be better, is if I pushed you to do something you might not be comfortable with."
-    ""
+    R "Evet, ama elimizdekiler gerçekten iyi ve daha iyi olmalarının tek yolu, sizi rahat edemeyeceğin bir şey yapmaya zorlamam."
 
 # game/UpdateScript0.04.rpy:5433
 translate turkish removeshorts_edd67c17:
@@ -15562,7 +15562,7 @@ translate turkish removeshirt_e186ce4a:
 translate turkish removeshirt_1bfe80ad:
 
     # S "Clearly."
-    ""
+    S "Belli oluyor."
 
 # game/UpdateScript0.04.rpy:5533
 translate turkish removeshirt_1d59362d_1:
@@ -16096,7 +16096,7 @@ translate turkish removeshirt_78e4a2e8:
 translate turkish removeshirt_14afbb3f:
 
     # R "Yeah, but the ones we have are really good, and the only way they could be better, is if I pushed you to do something you might not be comfortable with."
-    ""
+    R "Evet, ama elimizdekiler gerçekten iyi ve daha iyi olmalarının tek yolu, sizi rahat edemeyeceğin bir şey yapmaya zorlamam."
 
 # game/UpdateScript0.04.rpy:5669
 translate turkish removeshirt_edd67c17:
@@ -16168,7 +16168,7 @@ translate turkish removeshirt_3c99c5a8:
 translate turkish removeshirt_14afbb3f_1:
 
     # R "Yeah, but the ones we have are really good, and the only way they could be better, is if I pushed you to do something you might not be comfortable with."
-    ""
+    R "Evet, ama elimizdekiler gerçekten iyi ve daha iyi olmalarının tek yolu, sizi rahat edemeyeceğin bir şey yapmaya zorlamam."
 
 # game/UpdateScript0.04.rpy:5689
 translate turkish removeshirt_edd67c17_1:
@@ -16444,7 +16444,7 @@ translate turkish showsidneytitties_e186ce4a:
 translate turkish showsidneytitties_1bfe80ad:
 
     # S "Clearly."
-    ""
+    S "Belli oluyor."
 
 # game/UpdateScript0.04.rpy:5778
 translate turkish showsidneytitties_df2d5584_1:
@@ -16972,7 +16972,7 @@ translate turkish showsidneytitties_7ba2e13d:
 translate turkish showsidneytitties_14afbb3f:
 
     # R "Yeah, but the ones we have are really good, and the only way they could be better, is if I pushed you to do something you might not be comfortable with."
-    ""
+    R "Evet, ama elimizdekiler gerçekten iyi ve daha iyi olmalarının tek yolu, sizi rahat edemeyeceğin bir şey yapmaya zorlamam."
 
 # game/UpdateScript0.04.rpy:5906
 translate turkish showsidneytitties_edd67c17:
@@ -18523,9 +18523,9 @@ translate turkish wr_gape_3e45e31c:
     ""
 
 # game/UpdateScript0.04.rpy:6364
-translate turkish wr_gape_7bc23b5c:
+translate turkish wr_gape_0a78c3cb:
 
-    # R "I'm good at photography.... I'm ok at photo-shopping, and Zad3d modelling, and I'm getting better. We're already making some money from Lauren and Mandy's pictures."
+    # R "I'm good at photography.... I'm okay at photo-shopping, and Zad3d modelling, and I'm getting better. We're already making some money from Lauren and Mandy's pictures."
     ""
 
 # game/UpdateScript0.04.rpy:6365
@@ -19195,9 +19195,9 @@ translate turkish wr_gape_95428694:
     R "Efendim?"
 
 # game/UpdateScript0.04.rpy:6614
-translate turkish wr_gape_a1ee80c3:
+translate turkish wr_gape_cb4acb0a:
 
-    # S "I guess it would be ok for you to post that ass-hole wink picture."
+    # S "I guess it would be okay for you to post that ass-hole wink picture."
     ""
 
 # game/UpdateScript0.04.rpy:6615
@@ -19658,11 +19658,11 @@ translate turkish strings:
 
     # game/UpdateScript0.04.rpy:682
     old "Wake Sidney for a chat."
-    new ""
+    new "Konuşmak için Sidney'i uyandır."
 
     # game/UpdateScript0.04.rpy:692
     old "I wonder what she'll do now."
-    new ""
+    new "Şimdi ne yapacağını merak ettim."
 
     # game/UpdateScript0.04.rpy:765
     old "Let her sleep."
@@ -19682,11 +19682,11 @@ translate turkish strings:
 
     # game/UpdateScript0.04.rpy:2554
     old "And actually, I have the $200 right here."
-    new ""
+    new "Ve aslında, 200 doların burada."
 
     # game/UpdateScript0.04.rpy:2554
     old "So, I'll get you the money soon."
-    new ""
+    new "Parayı yakında getireceğim."
 
     # game/UpdateScript0.04.rpy:2876
     old "Let her choose one herself."

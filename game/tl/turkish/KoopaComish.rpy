@@ -1,40 +1,40 @@
-# TODO: Translation updated at 2022-12-01 22:29
+# TODO: Translation updated at 2023-06-26 18:52
 
 # game/KoopaComish.rpy:85
 translate turkish koopa_scene_29ee671b:
 
     # "{i}\"Congratulations, You have unlocked a special noncanonical NTR event scene!\"{/i}"
-    ""
+    "{i}\"Tebrikler, standart olmayan özel bir NTR etkinlik sahnesinin kilidini açtınız!\"{/i}"
 
 # game/KoopaComish.rpy:86
 translate turkish koopa_scene_4d809071:
 
     # "{i}\"In other words, this scene is not part of the game!\"{/i}"
-    ""
+    "{i}\"Başka bir deyişle, bu sahne oyunun bir parçası değil!\"{/i}"
 
 # game/KoopaComish.rpy:87
 translate turkish koopa_scene_f92d9ac1:
 
     # "{i}\"This scene was commissioned by our good friend and super supporter, \"kingkoopa\". The premise of the event's story was his idea.\"{/i}"
-    ""
+    "{i}\"Bu sahne sevgili dostumuz ve büyük destekçimiz \"kingkoopa\" tarafından hazırlandı. Etkinliğin hikayesinin ana fikri ona aitti.\"{/i}"
 
 # game/KoopaComish.rpy:88
 translate turkish koopa_scene_ff9a57b0:
 
     # "{i}\"He has been kind enough to let us place it in our game as a reward for completing the NTR event number 89!\"{/i}"
-    ""
+    "{i}\" Kendisi, 89 numaralı NTR etkinliğini tamamladığımız için ödül olarak bunu oyunumuza yerleştirmemize izin verecek kadar nazik biri!\"{/i}"
 
 # game/KoopaComish.rpy:89
 translate turkish koopa_scene_10d53b2d:
 
     # "{i}\"I really enjoyed bringing kingkoopa's idea to life, and if you enjoy the content, make sure you thank him in our Discord server for making this scene possible!\"{/i}"
-    ""
+    "{i}\"Kingkoopa'nın fikrini hayata geçirmekten gerçekten keyif aldım ve siz de eğer içeriği beğendiyseniz, bu sahneyi mümkün kıldığı için Discord sunucumuzda kendisine teşekkür etmeyi unutmayın!\"{/i}"
 
 # game/KoopaComish.rpy:90
 translate turkish koopa_scene_37a45994:
 
     # "{i}\"Would you like to play this scene right now?... If you don't want to play it now, it will be available in the NTR gallery to play anytime.\"{/i}"
-    ""
+    "{i}\"Bu sahneyi şimdi oynamak ister misiniz?... Eğer şuan oynamak istemiyorsanız, dilediğiniz zaman NTR galerisinde bulup oynayabilirsiniz.\"{/i}"
 
 # game/KoopaComish.rpy:100
 translate turkish koopa_scene_3657b4e1:
@@ -478,7 +478,7 @@ translate turkish koopa_scene_55497bc1:
 translate turkish koopa_scene_eed3846a:
 
     # JJ "Nope, each hand you lose will just be for my own enjoyment."
-    ""
+    JJ "Hayır, kaybettiğin her el sadece benim kendi keyfim için olacak."
 
 # game/KoopaComish.rpy:210
 translate turkish koopa_scene_bf8d71ef:
@@ -754,7 +754,7 @@ translate turkish koopa_scene_7a28386c:
 translate turkish koopa_scene_c48ab6ae:
 
     # M "I've got no choice... We can't give up... We've got to pay off our debt!"
-    ""
+    M "Başka seçeneğim yok... Vazgeçemeyiz... Borcumuzu ödemek zorundayız!"
 
 # game/KoopaComish.rpy:302
 translate turkish koopa_scene_abd6378c:
@@ -886,7 +886,7 @@ translate turkish koopa_scene_7d22e70e:
 translate turkish koopa_scene_48b755b5:
 
     # JJ "Yeah, I know."
-    ""
+    JJ "Evet, biliyorum."
 
 # game/KoopaComish.rpy:340
 translate turkish koopa_scene_af7f86bb:
@@ -922,7 +922,7 @@ translate turkish koopa_scene_2890b134:
 translate turkish koopa_scene_31eac8e3:
 
     # M "Now, are you ready, Sidney?"
-    ""
+    M "Şimdi, hazır mısın, Sidney?"
 
 # game/KoopaComish.rpy:351
 translate turkish koopa_scene_bb260991:
@@ -1228,7 +1228,7 @@ translate turkish koopa_scene_2a3b7378:
 translate turkish koopa_scene_83b12786:
 
     # JJ "Go ahead and deal the cards, dealer."
-    ""
+    JJ "Devam et ve kartları dağıt, krupiye."
 
 # game/KoopaComish.rpy:446
 translate turkish koopa_scene_223d6fa3:
@@ -1312,7 +1312,7 @@ translate turkish koopa_scene_08bd8724:
 translate turkish koopa_scene_52d0adbd:
 
     # RT "{i}Yeah... I'm positive!... That gives me a straight flush!{/i}"
-    ""
+    RT "{i}Evet... Eminim!... Böylece direkt floş elde ettim!{/i}"
 
 # game/KoopaComish.rpy:472
 translate turkish koopa_scene_c1ffa409:
@@ -1366,7 +1366,7 @@ translate turkish koopa_scene_dad72b17:
 translate turkish koopa_scene_c9cf0f0e:
 
     # S "{i}(Whispering){/i} So, it's not unbeatable."
-    ""
+    S "{i}(Fısıldayarak){/i} Yani yenilmez değil."
 
 # game/KoopaComish.rpy:483
 translate turkish koopa_scene_d5f5abf8:
@@ -1726,7 +1726,7 @@ translate turkish koopa_scene_eb191e17:
 translate turkish koopa_scene_d5e189e1:
 
     # M "I don't know how you did it, but somehow, I know you cheated!"
-    ""
+    M "Nasıl yaptığını bilmiyorum ama bir şekilde hile yaptığına eminim!"
 
 # game/KoopaComish.rpy:561
 translate turkish koopa_scene_9dadf4bd:
@@ -1939,9 +1939,9 @@ translate turkish koopa_scene_6c4c1f29:
     ""
 
 # game/KoopaComish.rpy:619
-translate turkish koopa_scene_4f58d6e1:
+translate turkish koopa_scene_dc471653:
 
-    # M "It's ok Sidney, I'm fine."
+    # M "It's okay Sidney, I'm fine."
     ""
 
 # game/KoopaComish.rpy:620
@@ -1954,7 +1954,7 @@ translate turkish koopa_scene_159f0936:
 translate turkish koopa_scene_ebbba3b1:
 
     # MT "{i}I'm being fucked by my student in front of my own son, daughter, and some random stranger.{/i}"
-    ""
+    MT "{i} Kendi oğlumun, kızımın ve rastgele bir yabancının önünde öğrencim tarafından beceriliyorum.{/i}"
 
 # game/KoopaComish.rpy:626
 translate turkish koopa_scene_761a7972:
@@ -1987,9 +1987,9 @@ translate turkish koopa_scene_7848dc8d:
     ""
 
 # game/KoopaComish.rpy:635
-translate turkish koopa_scene_907f74bd:
+translate turkish koopa_scene_817298a6:
 
-    # MT "{i}Shit!... I can't hold it!"
+    # MT "{i}Shit!... I can't hold it!{/i}"
     ""
 
 # game/KoopaComish.rpy:642
@@ -2068,7 +2068,7 @@ translate turkish koopa_scene_4e1d92ec:
 translate turkish koopa_scene_930dbbda:
 
     # JJ "Oh, yeah... I'm close now!"
-    ""
+    JJ "Oh, evet... Şimdi yaklaştım!"
 
 # game/KoopaComish.rpy:664
 translate turkish koopa_scene_51f3a8b1:
@@ -2242,7 +2242,7 @@ translate turkish koopa_scene_76996534:
 translate turkish koopa_scene_f17243eb:
 
     # ST "{i}I'll bet all his goons are enjoying this too!{/i}"
-    ""
+    ST "{i} Bahse girerim onun tüm adamları da bundan keyif alıyordur!{/i}"
 
 # game/KoopaComish.rpy:721
 translate turkish koopa_scene_f1c82e24:
@@ -2320,7 +2320,7 @@ translate turkish koopa_scene_83d37100:
 translate turkish koopa_scene_478555bd:
 
     # S "If you got me pregnant!..."
-    ""
+    S "Eğer beni hamile bırakırsan!..."
 
 # game/KoopaComish.rpy:754
 translate turkish koopa_scene_7bef7cc6:
@@ -2386,19 +2386,19 @@ translate turkish koopa_scene_32a7dde5:
 translate turkish koopa_scene_5dbe61ba:
 
     # "{i}\"And now, back to our game!{/i}"
-    ""
+    "{i}\"Ve şimdi, oyunumuza geri dönelim!\"{/i}"
 
 translate turkish strings:
 
     # game/KoopaComish.rpy:1
     old "JJ"
-    new ""
+    new "Sadece şakaydı."
 
     # game/KoopaComish.rpy:92
     old "Play Scene"
-    new ""
+    new "Sahneyi Oynat"
 
     # game/KoopaComish.rpy:92
     old "I'll check it out later in the gallery."
-    new ""
+    new "Daha sonra galeriden kontrol edeceğim."
 

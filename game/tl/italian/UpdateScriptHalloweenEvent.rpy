@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-12-01 22:29
+# TODO: Translation updated at 2023-06-26 18:52
 
 # game/UpdateScriptHalloweenEvent.rpy:256
 translate italian halloween_event_start_36b1bdbb:
@@ -97,10 +97,10 @@ translate italian scary_wakeup_2ca431f7:
     RT "{i}Sidney!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:329
-translate italian scary_wakeup_ef9d9ff9:
+translate italian scary_wakeup_4f3e9e23:
 
-    # RT "{i}Oh, thank God!... It really was just a nightmare after all!"
-    RT "{i}Oh, grazie Dio!... Era davvero un incubo dopo tutto!"
+    # RT "{i}Oh, thank God!... It really was just a nightmare after all!{/i}"
+    RT "{i}Oh, grazie Dio!... Era davvero un incubo dopo tutto!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:330
 translate italian scary_wakeup_05973042:
@@ -187,10 +187,10 @@ translate italian sidney_mirror_slime_96fc81d0:
     ST "{i}Non mi importa se il signor Peterson è un veterinario di guerra decorato, non dovrebbe afferrare ragazze nel parco!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:391
-translate italian sidney_mirror_slime_1b024915:
+translate italian sidney_mirror_slime_c58ec1c3:
 
-    # ST "{i}And that wasn't even late at night!"
-    ST "{i}E questo non era nemmeno tardi la notte!"
+    # ST "{i}And that wasn't even late at night!{/i}"
+    ST "{i}E che non era nemmeno tardi la notte!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:398
 translate italian sidney_mirror_slime_d1749759:
@@ -241,10 +241,10 @@ translate italian sidney_mirror_slime_66cc4a9e:
     ST "{i}Sembra spooge.{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:418
-translate italian sidney_mirror_slime_850f6365:
+translate italian sidney_mirror_slime_a4c77eff:
 
-    # ST "{i}Did [ryan] blast the mirror and nobody noticed?"
-    ST "{i}Ha [ryan] scoppiato lo specchio e nessuno si è accorto?"
+    # ST "{i}Did [ryan] blast the mirror and nobody noticed?{/i}"
+    ST "{i}Ha [ryan] scoppiato lo specchio e nessuno ha notato?{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:419
 translate italian sidney_mirror_slime_2a7345fd:
@@ -865,10 +865,10 @@ translate italian sidney_loyalty_path_30d12913:
     S "Aaarch... Lerch..."
 
 # game/UpdateScriptHalloweenEvent.rpy:710
-translate italian sidney_loyalty_path_fee21543:
+translate italian sidney_loyalty_path_4b6590a3:
 
-    # ST "{i}What does it want? What is it doing?"
-    ST "{i}Cosa vuole? Che cosa sta facendo?"
+    # ST "{i}What does it want? What is it doing?{/i}"
+    ST "{i}Cosa vuole? Cosa sta facendo?{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:711
 translate italian sidney_loyalty_path_97a1fbb2:
@@ -943,10 +943,10 @@ translate italian sidney_loyalty_path_f47b7f7e:
     R "Questa potrebbe essere la fine!"
 
 # game/UpdateScriptHalloweenEvent.rpy:746
-translate italian sidney_loyalty_path_2a63eca5:
+translate italian sidney_loyalty_path_7fec2a48:
 
-    # RT "{i}Oh, thank God!{i}"
-    RT "{i}Oh, grazie Dio!{i}"
+    # RT "{i}Oh, thank God!{/i}"
+    RT "{i}Oh, grazie Dio!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:747
 translate italian sidney_loyalty_path_83d209e9:
@@ -1381,10 +1381,10 @@ translate italian sidney_monster_path_30d12913:
     S "Aaarch... Lerch..."
 
 # game/UpdateScriptHalloweenEvent.rpy:1007
-translate italian sidney_monster_path_fee21543:
+translate italian sidney_monster_path_4b6590a3:
 
-    # ST "{i}What does it want? What is it doing?"
-    ST "{i}Cosa vuole? Che cosa sta facendo?"
+    # ST "{i}What does it want? What is it doing?{/i}"
+    ST "{i}Cosa vuole? Cosa sta facendo?{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1008
 translate italian sidney_monster_path_97a1fbb2:
@@ -1573,10 +1573,10 @@ translate italian sidney_monster_path_e92aba75:
     ST "{i}[ryan]ti sta guardando Sidney, non è così caldo?{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1070
-translate italian sidney_monster_path_4a7730b4:
+translate italian sidney_monster_path_766a1382:
 
-    # ST "{i}Is it?... I'm not... sure."
-    ST "{i}È questo?... Non sono sicuro..."
+    # ST "{i}Is it?... I'm not... sure.{/i}"
+    ST "{i}È questo?... Non sono sicuro.{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1073
 translate italian sidney_monster_path_35b5eb37:
@@ -1777,10 +1777,10 @@ translate italian sidney_monster_path_5f73e269:
     ST "{i}Una vita inizierà a crescere sicuramente!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1145
-translate italian sidney_monster_path_89bbe723:
+translate italian sidney_monster_path_7f577a48:
 
-    # ST "{i}Oh... I think I'm gonna..."
-    ST "{i}Oh... Penso che vada..."
+    # ST "{i}Oh... I think I'm gonna...{/i}"
+    ST "{i}Oh... Penso che stia per andare...{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1148
 translate italian sidney_monster_path_b7ba9373:
@@ -2215,10 +2215,10 @@ translate italian monsters_and_mountains_0d30d34c:
     ST "{i}Dovrei dirle che mio fratello stava pulendo la mia figa con la sua lingua, o che stavo facendo scoppiare il mio grembo dal suo enorme cazzo? /i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1307
-translate italian monsters_and_mountains_0678fefa:
+translate italian monsters_and_mountains_dd6a859c:
 
-    # ST "{i}Hurry, brain! Come up with an excuse!"
-    ST "{i}Affretta, cervello! Venga con una scusa!"
+    # ST "{i}Hurry, brain! Come up with an excuse!{/i}"
+    ST "{i}Affretta, cervello! Dai una scusa!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1310
 translate italian monsters_and_mountains_8da91fd4:
@@ -2599,10 +2599,10 @@ translate italian dice_decision_82482f19:
     RT "{i}Fudge sempre i dadi rotolano ogni volta che ha la possibilità.{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1464
-translate italian dice_decision_d83c7a32:
+translate italian dice_decision_3ad23a44:
 
-    # RT "{i}What should I do?{i}"
-    RT "{i}Cosa devo fare?{i}"
+    # RT "{i}What should I do?{/i}"
+    RT "{i}Cosa devo fare?{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1470
 translate italian dice_decision_ee5067ab:
@@ -2611,10 +2611,10 @@ translate italian dice_decision_ee5067ab:
     RT "{i}Goddammit! Spero che Sidney ok... qualcun altro oltre a Lauren meglio trovare che muore!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1478
-translate italian dice_decision_570cd85e:
+translate italian dice_decision_6a854948:
 
-    # "{b}{i}\"Are you sure you're ok with monster sex? If not, you should roll back and choose the other one.\"{/i}{/b}"
-    "{b}{i}\"Sei sicuro di essere ok con il sesso dei mostri? In caso contrario, dovresti tornare indietro e scegliere l'altro.\"{/i}{/b}"
+    # "{b}{i}\"Are you sure you're okay with monster sex? If not, you should roll back and choose the other one.\"{/i}{/b}"
+    "{b}{i}\"Sei sicuro che stai bene con il sesso dei mostri? In caso contrario, dovresti tornare indietro e scegliere l'altro.\"{/i}{/b}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1479
 translate italian dice_decision_fb92f28c:

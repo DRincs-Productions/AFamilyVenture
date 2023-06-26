@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-12-01 22:29
+# TODO: Translation updated at 2023-06-26 18:52
 
 # game/UpdateScriptChristmasEvent.rpy:247
 translate turkish xmas_dream_387f76a6:
@@ -889,9 +889,9 @@ translate turkish xmas_present_82ea9983:
     ""
 
 # game/UpdateScriptChristmasEvent.rpy:509
-translate turkish xmas_present_cddbe70d:
+translate turkish xmas_present_95e3c8d2:
 
-    # R "And why is it ok for you to be sexually depraved, but you want to stop me from doing just that."
+    # R "And why is it okay for you to be sexually depraved, but you want to stop me from doing just that."
     ""
 
 # game/UpdateScriptChristmasEvent.rpy:512
@@ -1663,9 +1663,9 @@ translate turkish xmas_future_b41c9d22:
     ""
 
 # game/UpdateScriptChristmasEvent.rpy:708
-translate turkish xmas_future_f2bc701c:
+translate turkish xmas_future_3a9412b9:
 
-    # R "And you're ok raising him as a single mom?"
+    # R "And you're okay raising him as a single mom?"
     ""
 
 # game/UpdateScriptChristmasEvent.rpy:709
@@ -3781,9 +3781,9 @@ translate turkish cookies_in_oven_7bc564e4:
     ""
 
 # game/UpdateScriptChristmasEvent.rpy:1440
-translate turkish cookies_in_oven_27439301:
+translate turkish cookies_in_oven_3f064831:
 
-    # R "And I was ok with this?"
+    # R "And I was okay with this?"
     ""
 
 # game/UpdateScriptChristmasEvent.rpy:1441
@@ -4135,9 +4135,9 @@ translate turkish cookies_in_oven_8f1622e6:
     ""
 
 # game/UpdateScriptChristmasEvent.rpy:1517
-translate turkish cookies_in_oven_dc96db1f:
+translate turkish cookies_in_oven_1505a4e6:
 
-    # R "And are you ok with getting pregnant from your brother?"
+    # R "And are you okay with getting pregnant from your brother?"
     ""
 
 # game/UpdateScriptChristmasEvent.rpy:1518
@@ -4273,9 +4273,9 @@ translate turkish cookies_in_oven_a7bbc898:
     ""
 
 # game/UpdateScriptChristmasEvent.rpy:1546
-translate turkish cookies_in_oven_ca1412d8:
+translate turkish cookies_in_oven_96b2c866:
 
-    # L "And I'm so glad that you're ok with being a daddy!"
+    # L "And I'm so glad that you're okay with being a daddy!"
     ""
 
 # game/UpdateScriptChristmasEvent.rpy:1548
@@ -5590,7 +5590,7 @@ translate turkish christmas_shoot_f7e421e8:
 translate turkish christmas_shoot_e4f25d36:
 
     # S "How do you mean?"
-    ""
+    S "Nasıl yani?"
 
 # game/UpdateScriptChristmasEvent.rpy:1883
 translate turkish christmas_shoot_44e4da00:
@@ -5653,9 +5653,9 @@ translate turkish christmas_shoot_0b2b81d3:
     ""
 
 # game/UpdateScriptChristmasEvent.rpy:1893
-translate turkish christmas_shoot_55a83b56:
+translate turkish christmas_shoot_192187d7:
 
-    # S "Uuuhhh.... ok Lauren.... let's.... get.... into position."
+    # S "Uuuhhh.... okay Lauren.... let's.... get.... into position."
     ""
 
 # game/UpdateScriptChristmasEvent.rpy:1897
@@ -5683,9 +5683,9 @@ translate turkish christmas_shoot_1c0ca9e8:
     ""
 
 # game/UpdateScriptChristmasEvent.rpy:1905
-translate turkish christmas_shoot_d1b8db6f:
+translate turkish christmas_shoot_c92d2e64:
 
-    # R "And if Lauren's ok with it, just kind of prod and push the dildo between her thigh gap."
+    # R "And if Lauren's okay with it, just kind of prod and push the dildo between her thigh gap."
     ""
 
 # game/UpdateScriptChristmasEvent.rpy:1906
@@ -6007,9 +6007,9 @@ translate turkish christmas_shoot_f2ab2857:
     ""
 
 # game/UpdateScriptChristmasEvent.rpy:1983
-translate turkish christmas_shoot_7b4188c4:
+translate turkish christmas_shoot_7b68c98d:
 
-    # R "Are you ok over there?"
+    # R "Are you okay over there?"
     ""
 
 # game/UpdateScriptChristmasEvent.rpy:1984
@@ -7252,7 +7252,7 @@ translate turkish christmas_shoot_f7e421e8_1:
 translate turkish christmas_shoot_e4f25d36_1:
 
     # S "How do you mean?"
-    ""
+    S "Nasıl yani?"
 
 # game/UpdateScriptChristmasEvent.rpy:2301
 translate turkish christmas_shoot_200e626e:
@@ -7315,9 +7315,9 @@ translate turkish christmas_shoot_0b2b81d3_1:
     ""
 
 # game/UpdateScriptChristmasEvent.rpy:2311
-translate turkish christmas_shoot_b1735579:
+translate turkish christmas_shoot_17e5ef7c:
 
-    # S "Uuuhhh.... ok Lauren.... let's get.... into position."
+    # S "Uuuhhh.... okay Lauren.... let's get.... into position."
     ""
 
 # game/UpdateScriptChristmasEvent.rpy:2315
@@ -7681,9 +7681,9 @@ translate turkish christmas_shoot_f2ab2857_1:
     ""
 
 # game/UpdateScriptChristmasEvent.rpy:2403
-translate turkish christmas_shoot_7b4188c4_1:
+translate turkish christmas_shoot_7b68c98d_1:
 
-    # R "Are you ok over there?"
+    # R "Are you okay over there?"
     ""
 
 # game/UpdateScriptChristmasEvent.rpy:2404
@@ -8020,7 +8020,7 @@ translate turkish christmas_shoot_aa0df7db:
 translate turkish christmas_shoot_238ab466:
 
     # RT "{i}Oh my God!....{/i}"
-    ""
+    RT "{i}Aman Tanrım!....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2487
 translate turkish christmas_shoot_f42ddd1b:

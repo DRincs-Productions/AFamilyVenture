@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-12-01 22:29
+# TODO: Translation updated at 2023-06-26 18:52
 
 # game/KoopaComish.rpy:85
 translate italian koopa_scene_29ee671b:
@@ -1939,9 +1939,9 @@ translate italian koopa_scene_6c4c1f29:
     S "Non essere così ruvido con lei!"
 
 # game/KoopaComish.rpy:619
-translate italian koopa_scene_4f58d6e1:
+translate italian koopa_scene_dc471653:
 
-    # M "It's ok Sidney, I'm fine."
+    # M "It's okay Sidney, I'm fine."
     M "Va bene Sidney, sto bene."
 
 # game/KoopaComish.rpy:620
@@ -1987,10 +1987,10 @@ translate italian koopa_scene_7848dc8d:
     MT "{i}Devo provare a mantenere questo orgasmo!{/i}"
 
 # game/KoopaComish.rpy:635
-translate italian koopa_scene_907f74bd:
+translate italian koopa_scene_817298a6:
 
-    # MT "{i}Shit!... I can't hold it!"
-    MT "{i}merda!... Non posso tenerlo!"
+    # MT "{i}Shit!... I can't hold it!{/i}"
+    MT "{i}merda!... Non posso tenerlo!{/i}"
 
 # game/KoopaComish.rpy:642
 translate italian koopa_scene_c9ffa6e7:

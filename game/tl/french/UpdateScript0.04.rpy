@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-12-01 22:29
+# TODO: Translation updated at 2023-06-26 18:52
 
 # game/UpdateScript0.04.rpy:320
 translate french get_sidney_modeling_68a39f05:
@@ -4723,10 +4723,10 @@ translate french aunt_clean_lounge_26242890:
     CT "{i}Au moins ce n'est pas aussi mal que de le laisser baiser mes seins.{/i}"
 
 # game/UpdateScript0.04.rpy:2014
-translate french aunt_clean_lounge_945817e2:
+translate french aunt_clean_lounge_9814e79a:
 
-    # CT "{I}At least it's not as bad as when I jerked him off.{/i}"
-    CT "{I}Au moins, ce n'est pas aussi grave que quand je l'ai branlé.{/i}"
+    # CT "{i}At least it's not as bad as when I jerked him off.{/i}"
+    ""
 
 # game/UpdateScript0.04.rpy:2017
 translate french aunt_clean_lounge_cce4399c:
@@ -5011,10 +5011,10 @@ translate french aunt_clean_lounge_26242890_1:
     CT "{i}Au moins ce n'est pas aussi mal que de le laisser baiser mes seins.{/i}"
 
 # game/UpdateScript0.04.rpy:2097
-translate french aunt_clean_lounge_945817e2_1:
+translate french aunt_clean_lounge_9814e79a_1:
 
-    # CT "{I}At least it's not as bad as when I jerked him off.{/i}"
-    CT "{I}Au moins, ce n'est pas aussi grave que quand je l'ai branlé.{/i}"
+    # CT "{i}At least it's not as bad as when I jerked him off.{/i}"
+    ""
 
 # game/UpdateScript0.04.rpy:2100
 translate french aunt_clean_lounge_cce4399c_1:
@@ -7063,10 +7063,10 @@ translate french assign_chores_9fa304eb:
     R "Eh bien, tout d'abord, as-tu vraiment besoin de boire juste avant le travail? Combien de verres as-tu même pris?"
 
 # game/UpdateScript0.04.rpy:2776
-translate french assign_chores_e683debe:
+translate french assign_chores_fe0e6651:
 
-    # C "I'm a grown-ass woman, and I don't need my little power hungry nephew to be telling me when it's ok to drink."
-    C "Je suis une femme adulte, et je n'ai pas besoin que mon petit neveu avide de pouvoir me dise quand il est bon de boire."
+    # C "I'm a grown-ass woman, and I don't need my little power hungry nephew to be telling me when it's okay to drink."
+    ""
 
 # game/UpdateScript0.04.rpy:2777
 translate french assign_chores_5394e326:
@@ -8251,10 +8251,10 @@ translate french aunt_clean_kitchen_68aa67a5:
     C "Quel est le problème avec toi?"
 
 # game/UpdateScript0.04.rpy:3134
-translate french aunt_clean_kitchen_3303aa02:
+translate french aunt_clean_kitchen_fda8e8cd:
 
-    # C "How are you ok with perving on your own aunt?"
-    C "Comment es-tu en accord avec la perversion de ta propre tante?"
+    # C "How are you okay with perving on your own aunt?"
+    ""
 
 # game/UpdateScript0.04.rpy:3135
 translate french aunt_clean_kitchen_63ba2919:
@@ -9049,10 +9049,10 @@ translate french aunt_clean_kitchen_68aa67a5_1:
     C "Quel est le problème avec toi?"
 
 # game/UpdateScript0.04.rpy:3401
-translate french aunt_clean_kitchen_3303aa02_1:
+translate french aunt_clean_kitchen_fda8e8cd_1:
 
-    # C "How are you ok with perving on your own aunt?"
-    C "Comment es-tu en accord avec la perversion de ta propre tante?"
+    # C "How are you okay with perving on your own aunt?"
+    ""
 
 # game/UpdateScript0.04.rpy:3402
 translate french aunt_clean_kitchen_63ba2919_1:
@@ -9871,10 +9871,10 @@ translate french aunt_clean_kitchen_1914a61d:
     C "Où diable as-tu le courage de me demander quelque chose comme ça?"
 
 # game/UpdateScript0.04.rpy:3668
-translate french aunt_clean_kitchen_66c58422:
+translate french aunt_clean_kitchen_2465c2dd:
 
-    # C "How could you ever think that I would be ok with that?"
-    C "Comment pourrais-tu penser que je serais d'accord avec ça?"
+    # C "How could you ever think that I would be okay with that?"
+    ""
 
 # game/UpdateScript0.04.rpy:3670
 translate french aunt_clean_kitchen_38ef02cf:
@@ -14209,10 +14209,10 @@ translate french removeshorts_78234501:
     R "ok... ok.... Peu importe, car il aura l'air sexy une fois que l'arrière-plan sera photographié."
 
 # game/UpdateScript0.04.rpy:5157
-translate french removeshorts_84b442da:
+translate french removeshorts_609915a4:
 
-    # R "You ok to keep going?"
-    R "Tu es d'accord pour continuer?"
+    # R "You okay to keep going?"
+    ""
 
 # game/UpdateScript0.04.rpy:5158
 translate french removeshorts_c59edf16:
@@ -18523,10 +18523,10 @@ translate french wr_gape_3e45e31c:
     R "Mais en l'état, j'ai besoin de gagner de l'argent. Et je n'ai pas de talents ni de compétences pour trouver un emploi qui nous rapporte ce dont nous avons besoin."
 
 # game/UpdateScript0.04.rpy:6364
-translate french wr_gape_7bc23b5c:
+translate french wr_gape_0a78c3cb:
 
-    # R "I'm good at photography.... I'm ok at photo-shopping, and Zad3d modelling, and I'm getting better. We're already making some money from Lauren and Mandy's pictures."
-    R "Je suis bon en photographie.... Je suis ok pour le shopping photo, et la modélisation Zad3d, et je vais au mieux. Nous gagnons déjà de l'argent avec les photos de Lauren et Mandy."
+    # R "I'm good at photography.... I'm okay at photo-shopping, and Zad3d modelling, and I'm getting better. We're already making some money from Lauren and Mandy's pictures."
+    ""
 
 # game/UpdateScript0.04.rpy:6365
 translate french wr_gape_fb881902:
@@ -19195,10 +19195,10 @@ translate french wr_gape_95428694:
     R "Oui?"
 
 # game/UpdateScript0.04.rpy:6614
-translate french wr_gape_a1ee80c3:
+translate french wr_gape_cb4acb0a:
 
-    # S "I guess it would be ok for you to post that ass-hole wink picture."
-    S "Je suppose que ce serait ok pour toi de poster cette photo de clin d’œil de trou du cul."
+    # S "I guess it would be okay for you to post that ass-hole wink picture."
+    ""
 
 # game/UpdateScript0.04.rpy:6615
 translate french wr_gape_3c541bda:

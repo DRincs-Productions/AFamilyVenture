@@ -1,5 +1,5 @@
 
-"{color=#42f456}Mom's:{/color}\n"# TODO: Translation updated at 2022-12-01 22:29
+"{color=#42f456}Mom's:{/color}\n"# TODO: Translation updated at 2023-06-26 18:52
 
 translate turkish strings:
 
@@ -93,11 +93,11 @@ translate turkish strings:
 
     # game/stats_screen.rpy:53
     old "{color=#000000}Submission.....[auntsubmission]{/color}"
-    new ""
+    new "{color=#000000}Teslimiyet.....[auntsubmission]{/color}"
 
     # game/stats_screen.rpy:54
     old "{color=#000000}Anger...............[auntanger]{/color}"
-    new ""
+    new "{color=#000000}Öfke...............[auntanger]{/color}"
 
     # game/stats_screen.rpy:56
     old "{color=#85c1e9}Mandy's:{/color}"
