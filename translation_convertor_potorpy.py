@@ -33,6 +33,8 @@ dict = {
     r' \[withflash\]"':             r'" with flash',
     r' \[withvpunch\]"':            r'" with vpunch',
     r' \[withDissolve20\]"':        r'" with Dissolve(2.0)',
+    r' \[withDissolve1\]"':        r'" with Dissolve(1)',
+    r' \[withDissolvey3\]"':        r'" with Dissolve(.3)',
     r' \[multiple2\]"':        r'" (multiple=2)',
     r'msgid "\[nvl_clear\]"':       r'    # nvl clear',
     r'msgstr "\[nvl_clear\]"':      r'    nvl clear',
@@ -44,11 +46,11 @@ dict = {
     r'    # (.*?)\nmsgstr "(.*?)"':                     r'    # \1\n    "\2"',
     # after
     r'    # "\[_(.*?)\_] (.*?)"':                         r'    # \1 "\2"',
+    r'    # "\[_(.*?)\_](.*?)"':                         r'    # \1 "\2"',
     # Comment
     r':\n    # ':                                                   r':\n\n    # ',
     r'rpy:(.*?) #-#-# translate':                                   r'rpy:\1\ntranslate',
     r'strings: #\|#\|# # ':                                         r'strings:\n\n# ',
-    r'\n# §translate':                                               r'\ntranslate',
     r'updated at (.*?)-(.*?)-(.*?) (.*?):(.*?) #\|#\|# # ':         r'updated at \1-\2-\3 \4:\5\n\n# ',
     # end
     r'msgid "(.*?)"':                       r'    old "\1"',
@@ -57,6 +59,7 @@ dict = {
     r'\n\n# TODO: Translation updated':     r'# TODO: Translation updated',
     r'§§§§§§§§':                            r'\\'+'"',
     r'# TODO: Translation updated at (.*?)-(.*?)-(.*?) (.*?):(.*?) #\|#\|# # §translate ': r'# TODO: Translation updated at \1-\2-\3 \4:\5\n\ntranslate ',
+    r'\n# §translate':                      r'\ntranslate',
 }
 
 
