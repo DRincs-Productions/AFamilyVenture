@@ -22,7 +22,7 @@ translate turkish handCheckLabel_1a74bd53:
 translate turkish handCheckLabel_d1330db7:
 
     # BJ_dealer "Blackjack! The dealer also has blackjack, but you have insurance! You win $[betSum]!{w=2.0}{nw}"
-    BJ_dealer "Blackjack! Satıcı da blackjack var, ama sigortam var! $[betSum] kazandınız! {w=2.0}{nw}"
+    BJ_dealer "Blackjack! Krupiye de blackjack var, ama senin sigortan var! $[betSum] kazandın! {w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:597
 translate turkish handCheckLabel_f74531ea:
@@ -40,7 +40,7 @@ translate turkish handCheckLabel_3b883a25:
 translate turkish handCheckLabel_4b09cedb:
 
     # BJ_dealer "Dealer has blackjack, but you have insurance! You make your bets back, $[betSum]!{w=2.0}{nw}"
-    BJ_dealer "satıcısının blackjack var, ama sigortanız var! bahislerinizi geri kazanıyorsunuz,[betSum]$! {w=2.0}{nw}"
+    BJ_dealer "Krupiye de blackjack var, ama senin sigortan var! Bahislerini geri al, [betSum]$! {w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:623
 translate turkish handCheckLabel_1d95a20c:
@@ -64,7 +64,7 @@ translate turkish handCheckLabel_e4d35a85:
 translate turkish handCheckLabel_901a9a2d:
 
     # BJ_dealer "The dealer also has [computerScore], so it's a push! You get your $[betSum] back minus $[betIns] for insurance.{w=2.0}{nw}"
-    "[Bj_dealer] Bayide ayrıca [computerScore] var, yani bir itme![betSum] dolarınızı geri alırsınız!{w=2.0}{nw}"
+    "[Bj_dealer] Kasa da [computerScore] puanda, yani eşitlik var! [betSum] dolarını geri alacaksın!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:660
 translate turkish handCheckLabel_3615550f:

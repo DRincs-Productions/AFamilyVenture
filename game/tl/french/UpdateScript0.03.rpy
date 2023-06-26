@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-12-01 22:29
+# TODO: Translation updated at 2023-06-26 18:52
 
 # game/UpdateScript0.03.rpy:466
 translate french posting_the_htbyd_pics_99f2fd00:
@@ -25,10 +25,10 @@ translate french posting_the_htbyd_pics_6e5a373c:
     RT "{i}Je dois vérifier le site Web demain.{/i}"
 
 # game/UpdateScript0.03.rpy:492
-translate french posting_the_htbyd_pics_e3690255:
+translate french posting_the_htbyd_pics_56145a8e:
 
-    # RT "{b}(HINT){/b} {i}I can't believe Lauren's ok with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
-    RT "{i}{b}(Indice){/b} Je n'arrive pas à croire que Lauren soit d'accord pour frotter sa chatte sur mon engin ! Je devrais continuer à lui rendre visite dans le salon le soir. Je parie que je peux l'amener à aller plus loin.{/i}"
+    # RT "{b}(HINT){/b} {i}I can't believe Lauren's okay with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
+    ""
 
 # game/UpdateScript0.03.rpy:514
 translate french posting_the_htbyd_pics_6876a73c:
@@ -1405,10 +1405,10 @@ translate french firstloyaltyweekend_4931d756:
     RT "{i}Oh, non.... on dirait que maman a commencé à boire tôt ce matin.{/i}"
 
 # game/UpdateScript0.03.rpy:959
-translate french firstloyaltyweekend_e0429891:
+translate french firstloyaltyweekend_45c67f46:
 
-    # R "Hey Mom, is everything ok this morning?"
-    R "Hey Maman, tout va bien ce matin?"
+    # R "Hey Mom, is everything okay this morning?"
+    ""
 
 # game/UpdateScript0.03.rpy:962
 translate french firstloyaltyweekend_e8c2a5b4:
@@ -2635,10 +2635,10 @@ translate french bikinishow_e12ffb5d:
     R "Ummm.... ouais.... Je pense que non.... trop.... mauvais..."
 
 # game/UpdateScript0.03.rpy:1338
-translate french bikinishow_ea91ac95:
+translate french bikinishow_42107488:
 
-    # M "You doing ok back there [ryan]?"
-    M "Tu vas bien là-bas [ryan]?"
+    # M "You doing okay back there [ryan]?"
+    ""
 
 # game/UpdateScript0.03.rpy:1339
 translate french bikinishow_f7d8b475:
@@ -4417,10 +4417,10 @@ translate french ryan_and_lauren_fcaf8732:
     L "Hahah.... tu ferais mieux de courir et de te préparer pour l'école. Je suis déjà habillée à moitié."
 
 # game/UpdateScript0.03.rpy:1968
-translate french ryan_and_lauren_e3690255:
+translate french ryan_and_lauren_56145a8e:
 
-    # RT "{b}(HINT){/b} {i}I can't believe Lauren's ok with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
-    RT "{i}{b}(Indice){/b} Je n'arrive pas à croire que Lauren soit d'accord pour frotter sa chatte sur mon engin ! Je devrais continuer à lui rendre visite dans le salon le soir. Je parie que je peux l'amener à aller plus loin.{/i}"
+    # RT "{b}(HINT){/b} {i}I can't believe Lauren's okay with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
+    ""
 
 # game/UpdateScript0.03.rpy:1980
 translate french ryan_and_lauren_b7459628:
@@ -6325,10 +6325,10 @@ translate french clubpool_ad643c90_3:
     M "Ok, je pense que je suis prête."
 
 # game/UpdateScript0.03.rpy:2774
-translate french clubpool_b5eeb767:
+translate french clubpool_64230153:
 
-    # R "Mom, is it ok to swim after drinking?"
-    R "Maman, est-ce correct de nager après avoir bu?"
+    # R "Mom, is it okay to swim after drinking?"
+    ""
 
 # game/UpdateScript0.03.rpy:2775
 translate french clubpool_436efea8:
@@ -14089,10 +14089,10 @@ translate french htbyd_closeups_d7d93648:
     R "Cela semble si juste."
 
 # game/UpdateScript0.03.rpy:5847
-translate french htbyd_closeups_aaafb688:
+translate french htbyd_closeups_ffb0eddf:
 
-    # L "[ryan]? I know I said we shouldn't go any farther, but it's ok if we just go as far as we did before right?"
-    L "[ryan]? Je sais que j'ai dit qu'on ne devrait pas aller plus loin, mais ce n'est pas grave si on va aussi loin qu'avant, non?"
+    # L "[ryan]? I know I said we shouldn't go any farther, but it's okay if we just go as far as we did before right?"
+    ""
 
 # game/UpdateScript0.03.rpy:5848
 translate french htbyd_closeups_f1f6ce0c:

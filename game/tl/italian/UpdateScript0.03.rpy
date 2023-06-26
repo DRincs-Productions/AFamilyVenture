@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-12-01 22:29
+# TODO: Translation updated at 2023-06-26 18:52
 
 # game/UpdateScript0.03.rpy:466
 translate italian posting_the_htbyd_pics_99f2fd00:
@@ -25,10 +25,10 @@ translate italian posting_the_htbyd_pics_6e5a373c:
     RT "{i}Devo essere sicuro di controllare il sito web a volte domani.{/i}"
 
 # game/UpdateScript0.03.rpy:492
-translate italian posting_the_htbyd_pics_e3690255:
+translate italian posting_the_htbyd_pics_56145a8e:
 
-    # RT "{b}(HINT){/b} {i}I can't believe Lauren's ok with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
-    RT "{b}(HINT){/b} {i}Non riesco a credere che Lauren's ok abbia macinato la figa sulla mia spazzatura! Dovrei continuare a visitarla nella lounge la sera. Scommetto che posso farla prendere ulteriormente.{/i}"
+    # RT "{b}(HINT){/b} {i}I can't believe Lauren's okay with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
+    RT "{b}(HINT){/b} {i}Non riesco a credere che Lauren vada bene con la figa sulla mia spazzatura! Dovrei continuare a visitarla nella lounge la sera. Scommetto che posso farla prendere ulteriormente.{/i}"
 
 # game/UpdateScript0.03.rpy:514
 translate italian posting_the_htbyd_pics_6876a73c:
@@ -1405,10 +1405,10 @@ translate italian firstloyaltyweekend_4931d756:
     RT "{i}Oh, no.... sembra che la mamma abbia iniziato a bere presto questa mattina.{/i}"
 
 # game/UpdateScript0.03.rpy:959
-translate italian firstloyaltyweekend_e0429891:
+translate italian firstloyaltyweekend_45c67f46:
 
-    # R "Hey Mom, is everything ok this morning?"
-    R "Ehi mamma, va tutto bene stamattina?"
+    # R "Hey Mom, is everything okay this morning?"
+    R "Ehi Mamma, va tutto bene questa mattina?"
 
 # game/UpdateScript0.03.rpy:962
 translate italian firstloyaltyweekend_e8c2a5b4:
@@ -2635,10 +2635,10 @@ translate italian bikinishow_e12ffb5d:
     R "Ummm.... si.... Penso che non sia.... troppo.... male..."
 
 # game/UpdateScript0.03.rpy:1338
-translate italian bikinishow_ea91ac95:
+translate italian bikinishow_42107488:
 
-    # M "You doing ok back there [ryan]?"
-    M "Stai bene lì dietro [ryan]?"
+    # M "You doing okay back there [ryan]?"
+    M "Stai facendo bene lì indietro [ryan]?"
 
 # game/UpdateScript0.03.rpy:1339
 translate italian bikinishow_f7d8b475:
@@ -4417,10 +4417,10 @@ translate italian ryan_and_lauren_fcaf8732:
     L "Hahah.... è meglio che tu corra a prepararti per la scuola. Sono già mezza vestita."
 
 # game/UpdateScript0.03.rpy:1968
-translate italian ryan_and_lauren_e3690255:
+translate italian ryan_and_lauren_56145a8e:
 
-    # RT "{b}(HINT){/b} {i}I can't believe Lauren's ok with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
-    RT "{b}(HINT){/b} {i}Non riesco a credere che Lauren's ok abbia macinato la figa sulla mia spazzatura! Dovrei continuare a visitarla nella lounge la sera. Scommetto che posso farla prendere ulteriormente.{/i}"
+    # RT "{b}(HINT){/b} {i}I can't believe Lauren's okay with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
+    RT "{b}(HINT){/b} {i}Non riesco a credere che Lauren vada bene con la figa sulla mia spazzatura! Dovrei continuare a visitarla nella lounge la sera. Scommetto che posso farla prendere ulteriormente.{/i}"
 
 # game/UpdateScript0.03.rpy:1980
 translate italian ryan_and_lauren_b7459628:
@@ -6325,9 +6325,9 @@ translate italian clubpool_ad643c90_3:
     M "Ok, penso di essere pronto."
 
 # game/UpdateScript0.03.rpy:2774
-translate italian clubpool_b5eeb767:
+translate italian clubpool_64230153:
 
-    # R "Mom, is it ok to swim after drinking?"
+    # R "Mom, is it okay to swim after drinking?"
     R "Mamma, va bene nuotare dopo aver bevuto?"
 
 # game/UpdateScript0.03.rpy:2775
@@ -14089,10 +14089,10 @@ translate italian htbyd_closeups_d7d93648:
     R "Questo si sente così giusto."
 
 # game/UpdateScript0.03.rpy:5847
-translate italian htbyd_closeups_aaafb688:
+translate italian htbyd_closeups_ffb0eddf:
 
-    # L "[ryan]? I know I said we shouldn't go any farther, but it's ok if we just go as far as we did before right?"
-    L "[ryan]? So che ho detto che non dovremmo andare più lontano, ma va bene se andiamo appena fino a quando abbiamo fatto prima di destra?"
+    # L "[ryan]? I know I said we shouldn't go any farther, but it's okay if we just go as far as we did before right?"
+    L "[ryan]? Lo so che ho detto che non dovremmo andare più lontano, ma va bene se ci limitiamo a spingerci così lontano come abbiamo fatto prima giusto?"
 
 # game/UpdateScript0.03.rpy:5848
 translate italian htbyd_closeups_f1f6ce0c:

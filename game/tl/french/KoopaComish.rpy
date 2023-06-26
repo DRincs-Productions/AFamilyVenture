@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-12-01 22:29
+# TODO: Translation updated at 2023-06-26 18:52
 
 # game/KoopaComish.rpy:85
 translate french koopa_scene_29ee671b:
@@ -1939,10 +1939,10 @@ translate french koopa_scene_6c4c1f29:
     S "Ne sois pas si dur avec elle !"
 
 # game/KoopaComish.rpy:619
-translate french koopa_scene_4f58d6e1:
+translate french koopa_scene_dc471653:
 
-    # M "It's ok Sidney, I'm fine."
-    M "C'est bon Sidney, je vais bien."
+    # M "It's okay Sidney, I'm fine."
+    ""
 
 # game/KoopaComish.rpy:620
 translate french koopa_scene_159f0936:
@@ -1987,10 +1987,10 @@ translate french koopa_scene_7848dc8d:
     MT "{i}Je dois essayer de retenir cet orgasme !{/i}"
 
 # game/KoopaComish.rpy:635
-translate french koopa_scene_907f74bd:
+translate french koopa_scene_817298a6:
 
-    # MT "{i}Shit!... I can't hold it!"
-    MT "{i}Merde ... Je ne peux pas le tenir !"
+    # MT "{i}Shit!... I can't hold it!{/i}"
+    ""
 
 # game/KoopaComish.rpy:642
 translate french koopa_scene_c9ffa6e7:

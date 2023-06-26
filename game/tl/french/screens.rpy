@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-12-01 22:29
+# TODO: Translation updated at 2023-06-26 18:52
 
 translate french strings:
 

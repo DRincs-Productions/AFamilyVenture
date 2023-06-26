@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-12-01 22:29
+# TODO: Translation updated at 2023-06-26 18:52
 
 # game/UpdateScript0.04.rpy:320
 translate italian get_sidney_modeling_68a39f05:
@@ -4723,10 +4723,10 @@ translate italian aunt_clean_lounge_26242890:
     CT "{i}Almeno non è male come lasciarlo scopare le mie tette.{/i}"
 
 # game/UpdateScript0.04.rpy:2014
-translate italian aunt_clean_lounge_945817e2:
+translate italian aunt_clean_lounge_9814e79a:
 
-    # CT "{I}At least it's not as bad as when I jerked him off.{/i}"
-    CT "{I}Almeno non è così male come quando l'ho masticato.{/i}"
+    # CT "{i}At least it's not as bad as when I jerked him off.{/i}"
+    CT "{i}Almeno non è così male come quando l'ho masticato.{/i}"
 
 # game/UpdateScript0.04.rpy:2017
 translate italian aunt_clean_lounge_cce4399c:
@@ -5011,10 +5011,10 @@ translate italian aunt_clean_lounge_26242890_1:
     CT "{i}Almeno non è male come lasciarlo scopare le mie tette.{/i}"
 
 # game/UpdateScript0.04.rpy:2097
-translate italian aunt_clean_lounge_945817e2_1:
+translate italian aunt_clean_lounge_9814e79a_1:
 
-    # CT "{I}At least it's not as bad as when I jerked him off.{/i}"
-    CT "{I}Almeno non è così male come quando l'ho masticato.{/i}"
+    # CT "{i}At least it's not as bad as when I jerked him off.{/i}"
+    CT "{i}Almeno non è così male come quando l'ho masticato.{/i}"
 
 # game/UpdateScript0.04.rpy:2100
 translate italian aunt_clean_lounge_cce4399c_1:
@@ -7063,9 +7063,9 @@ translate italian assign_chores_9fa304eb:
     R "Beh, prima di tutto, hai davvero bisogno di bere subito prima di lavorare? Quanti occhiali hai persino avuto?"
 
 # game/UpdateScript0.04.rpy:2776
-translate italian assign_chores_e683debe:
+translate italian assign_chores_fe0e6651:
 
-    # C "I'm a grown-ass woman, and I don't need my little power hungry nephew to be telling me when it's ok to drink."
+    # C "I'm a grown-ass woman, and I don't need my little power hungry nephew to be telling me when it's okay to drink."
     C "Sono una donna adulta e non ho bisogno del mio piccolo nipote affamato di potere per dirmi quando va bene bere."
 
 # game/UpdateScript0.04.rpy:2777
@@ -8251,10 +8251,10 @@ translate italian aunt_clean_kitchen_68aa67a5:
     C "Qual è la questione con te?"
 
 # game/UpdateScript0.04.rpy:3134
-translate italian aunt_clean_kitchen_3303aa02:
+translate italian aunt_clean_kitchen_fda8e8cd:
 
-    # C "How are you ok with perving on your own aunt?"
-    C "Come stai ok con perving sulla tua zia?"
+    # C "How are you okay with perving on your own aunt?"
+    C "Come stai bene con perving sulla tua zia?"
 
 # game/UpdateScript0.04.rpy:3135
 translate italian aunt_clean_kitchen_63ba2919:
@@ -9049,10 +9049,10 @@ translate italian aunt_clean_kitchen_68aa67a5_1:
     C "Qual è la questione con te?"
 
 # game/UpdateScript0.04.rpy:3401
-translate italian aunt_clean_kitchen_3303aa02_1:
+translate italian aunt_clean_kitchen_fda8e8cd_1:
 
-    # C "How are you ok with perving on your own aunt?"
-    C "Come stai ok con perving sulla tua zia?"
+    # C "How are you okay with perving on your own aunt?"
+    C "Come stai bene con perving sulla tua zia?"
 
 # game/UpdateScript0.04.rpy:3402
 translate italian aunt_clean_kitchen_63ba2919_1:
@@ -9871,10 +9871,10 @@ translate italian aunt_clean_kitchen_1914a61d:
     C "Dove l'inferno ha il coraggio di chiedermi qualcosa del genere?"
 
 # game/UpdateScript0.04.rpy:3668
-translate italian aunt_clean_kitchen_66c58422:
+translate italian aunt_clean_kitchen_2465c2dd:
 
-    # C "How could you ever think that I would be ok with that?"
-    C "Come potreste mai pensare che sarei d'accordo con quello?"
+    # C "How could you ever think that I would be okay with that?"
+    C "Come potreste mai pensare che sarei andato bene con quello?"
 
 # game/UpdateScript0.04.rpy:3670
 translate italian aunt_clean_kitchen_38ef02cf:
@@ -14209,9 +14209,9 @@ translate italian removeshorts_78234501:
     R "Ok.... ok.... Non importa cuz sarà sexy come l'inferno una volta che lo sfondo è foto-shopped in."
 
 # game/UpdateScript0.04.rpy:5157
-translate italian removeshorts_84b442da:
+translate italian removeshorts_609915a4:
 
-    # R "You ok to keep going?"
+    # R "You okay to keep going?"
     R "Va bene continuare ad andare?"
 
 # game/UpdateScript0.04.rpy:5158
@@ -18523,10 +18523,10 @@ translate italian wr_gape_3e45e31c:
     R "Ma così com'è, ho bisogno di fare soldi. E non ho talenti o abilità per ottenere un lavoro che ci paghi quello di cui abbiamo bisogno."
 
 # game/UpdateScript0.04.rpy:6364
-translate italian wr_gape_7bc23b5c:
+translate italian wr_gape_0a78c3cb:
 
-    # R "I'm good at photography.... I'm ok at photo-shopping, and Zad3d modelling, and I'm getting better. We're already making some money from Lauren and Mandy's pictures."
-    R "Sono bravo alla fotografia.... Sto bene al foto-shopping, e alla modellazione di Zad3d, e sto migliorando. Stiamo già facendo dei soldi dalle foto di Lauren e Mandy."
+    # R "I'm good at photography.... I'm okay at photo-shopping, and Zad3d modelling, and I'm getting better. We're already making some money from Lauren and Mandy's pictures."
+    R "Sono bravo in fotografia.... sto bene in foto-shopping, e modellazione Zad3d, e sto migliorando. Stiamo già facendo dei soldi dalle foto di Lauren e Mandy."
 
 # game/UpdateScript0.04.rpy:6365
 translate italian wr_gape_fb881902:
@@ -19195,10 +19195,10 @@ translate italian wr_gape_95428694:
     R "Si?"
 
 # game/UpdateScript0.04.rpy:6614
-translate italian wr_gape_a1ee80c3:
+translate italian wr_gape_cb4acb0a:
 
-    # S "I guess it would be ok for you to post that ass-hole wink picture."
-    S "Immagino che sarebbe giusto per voi pubblicare quella foto ad occhiello ad as-hole."
+    # S "I guess it would be okay for you to post that ass-hole wink picture."
+    S "Suppongo che sarebbe bene per voi pubblicare quella foto ad occhiello ad as-hole."
 
 # game/UpdateScript0.04.rpy:6615
 translate italian wr_gape_3c541bda:

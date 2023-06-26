@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-12-01 22:29
+# TODO: Translation updated at 2023-06-26 18:52
 
 # game/UpdateScriptHalloweenEvent.rpy:256
 translate french halloween_event_start_36b1bdbb:
@@ -97,10 +97,10 @@ translate french scary_wakeup_2ca431f7:
     RT "{i}Sidney!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:329
-translate french scary_wakeup_ef9d9ff9:
+translate french scary_wakeup_4f3e9e23:
 
-    # RT "{i}Oh, thank God!... It really was just a nightmare after all!"
-    RT "{i}Oh, Dieu merci !... Ce n'était vraiment qu'un cauchemar après tout !"
+    # RT "{i}Oh, thank God!... It really was just a nightmare after all!{/i}"
+    ""
 
 # game/UpdateScriptHalloweenEvent.rpy:330
 translate french scary_wakeup_05973042:
@@ -187,10 +187,10 @@ translate french sidney_mirror_slime_96fc81d0:
     ST "{i}Je me fiche que M. Peterson soit un vétéran décoré de la guerre, il ne devrait pas attraper des filles dans le parc!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:391
-translate french sidney_mirror_slime_1b024915:
+translate french sidney_mirror_slime_c58ec1c3:
 
-    # ST "{i}And that wasn't even late at night!"
-    ST "{i}Et ce n'était même pas tard dans la nuit !"
+    # ST "{i}And that wasn't even late at night!{/i}"
+    ""
 
 # game/UpdateScriptHalloweenEvent.rpy:398
 translate french sidney_mirror_slime_d1749759:
@@ -241,10 +241,10 @@ translate french sidney_mirror_slime_66cc4a9e:
     ST "{i}C'est comme une cuillère. {/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:418
-translate french sidney_mirror_slime_850f6365:
+translate french sidney_mirror_slime_a4c77eff:
 
-    # ST "{i}Did [ryan] blast the mirror and nobody noticed?"
-    ST "{i}Est-ce que [ryan] a fait exploser le miroir et personne ne l'a remarqué ?"
+    # ST "{i}Did [ryan] blast the mirror and nobody noticed?{/i}"
+    ""
 
 # game/UpdateScriptHalloweenEvent.rpy:419
 translate french sidney_mirror_slime_2a7345fd:
@@ -865,10 +865,10 @@ translate french sidney_loyalty_path_30d12913:
     S "Aaarch... Lerch..."
 
 # game/UpdateScriptHalloweenEvent.rpy:710
-translate french sidney_loyalty_path_fee21543:
+translate french sidney_loyalty_path_4b6590a3:
 
-    # ST "{i}What does it want? What is it doing?"
-    ST "{i}Que veut-il ? Que fait-il ?"
+    # ST "{i}What does it want? What is it doing?{/i}"
+    ""
 
 # game/UpdateScriptHalloweenEvent.rpy:711
 translate french sidney_loyalty_path_97a1fbb2:
@@ -943,10 +943,10 @@ translate french sidney_loyalty_path_f47b7f7e:
     R "C'est peut-être la fin !"
 
 # game/UpdateScriptHalloweenEvent.rpy:746
-translate french sidney_loyalty_path_2a63eca5:
+translate french sidney_loyalty_path_7fec2a48:
 
-    # RT "{i}Oh, thank God!{i}"
-    RT "{i}Oh, Dieu merci !{i}"
+    # RT "{i}Oh, thank God!{/i}"
+    ""
 
 # game/UpdateScriptHalloweenEvent.rpy:747
 translate french sidney_loyalty_path_83d209e9:
@@ -1381,10 +1381,10 @@ translate french sidney_monster_path_30d12913:
     S "Aaarch... Lerch..."
 
 # game/UpdateScriptHalloweenEvent.rpy:1007
-translate french sidney_monster_path_fee21543:
+translate french sidney_monster_path_4b6590a3:
 
-    # ST "{i}What does it want? What is it doing?"
-    ST "{i}Que veut-il ? Que fait-il ?"
+    # ST "{i}What does it want? What is it doing?{/i}"
+    ""
 
 # game/UpdateScriptHalloweenEvent.rpy:1008
 translate french sidney_monster_path_97a1fbb2:
@@ -1573,10 +1573,10 @@ translate french sidney_monster_path_e92aba75:
     ST "{i}[ryan] te regarde Sidney, c'est pas génial ?{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1070
-translate french sidney_monster_path_4a7730b4:
+translate french sidney_monster_path_766a1382:
 
-    # ST "{i}Is it?... I'm not... sure."
-    ST "{i}Est-ce que c'est... Je ne suis pas... sûr."
+    # ST "{i}Is it?... I'm not... sure.{/i}"
+    ""
 
 # game/UpdateScriptHalloweenEvent.rpy:1073
 translate french sidney_monster_path_35b5eb37:
@@ -1777,10 +1777,10 @@ translate french sidney_monster_path_5f73e269:
     ST "{i}Une vie va commencer à grandir, c'est sûr!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1145
-translate french sidney_monster_path_89bbe723:
+translate french sidney_monster_path_7f577a48:
 
-    # ST "{i}Oh... I think I'm gonna..."
-    ST "{i}Oh... Je pense que je vais..."
+    # ST "{i}Oh... I think I'm gonna...{/i}"
+    ""
 
 # game/UpdateScriptHalloweenEvent.rpy:1148
 translate french sidney_monster_path_b7ba9373:
@@ -2215,10 +2215,10 @@ translate french monsters_and_mountains_0d30d34c:
     ST "{i}Suis-je censé lui dire que mon frère nettoyait ma chatte avec sa langue, ou que je me faisais écraser l'utérus par son énorme bite ?{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1307
-translate french monsters_and_mountains_0678fefa:
+translate french monsters_and_mountains_dd6a859c:
 
-    # ST "{i}Hurry, brain! Come up with an excuse!"
-    ST "{i}Dépêche-toi, cerveau ! Trouve une excuse !"
+    # ST "{i}Hurry, brain! Come up with an excuse!{/i}"
+    ""
 
 # game/UpdateScriptHalloweenEvent.rpy:1310
 translate french monsters_and_mountains_8da91fd4:
@@ -2599,10 +2599,10 @@ translate french dice_decision_82482f19:
     RT "{i}Elle truque toujours les jets de dés dès qu'elle en a l'occasion.{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1464
-translate french dice_decision_d83c7a32:
+translate french dice_decision_3ad23a44:
 
-    # RT "{i}What should I do?{i}"
-    RT "{i}Que dois-je faire ?{i}"
+    # RT "{i}What should I do?{/i}"
+    RT "{i}Que dois-je faire ?{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1470
 translate french dice_decision_ee5067ab:
@@ -2611,10 +2611,10 @@ translate french dice_decision_ee5067ab:
     RT "{i}Bon sang ! J'espère que Sidney va bien... Quelqu'un d'autre que Lauren ferait mieux de trouver ce dé!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1478
-translate french dice_decision_570cd85e:
+translate french dice_decision_6a854948:
 
-    # "{b}{i}\"Are you sure you're ok with monster sex? If not, you should roll back and choose the other one.\"{/i}{/b}"
-    "{b}{i}'Tu es sûre d'être d'accord avec le sexe avec un monstre ? Si non, tu devrais revenir en arrière et choisir l'autre.' {/i}{/b}"
+    # "{b}{i}\"Are you sure you're okay with monster sex? If not, you should roll back and choose the other one.\"{/i}{/b}"
+    ""
 
 # game/UpdateScriptHalloweenEvent.rpy:1479
 translate french dice_decision_fb92f28c:

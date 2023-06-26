@@ -1,10 +1,10 @@
-# TODO: Translation updated at 2022-12-01 22:29
+# TODO: Translation updated at 2023-06-26 18:52
 
 # game/Booble_screen.rpy:51
 translate italian booble_search_f6ce98ce:
 
     # RT "{i}I should do a search on booble.com to find a way to buy the stuff I need so that the FBI won't ask me from where I got the money.{/i}"
-    RT "{i}I should do a search on booble.com to find a way to buy the stuff I need so that the FBI won't ask me from where I got the money.{/i}"
+    RT "{i}Dovrei fare una ricerca su Booble.com per trovare un modo di comprare la roba che mi serve così l'FBI non mi chiederà da dove ho preso i soldi.{/i}"
 
 # game/Booble_screen.rpy:67
 translate italian booble_search_ce876757:

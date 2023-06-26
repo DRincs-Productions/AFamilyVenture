@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-12-01 22:29
+# TODO: Translation updated at 2023-06-26 18:52
 
 # game/UpdateScript0.02.rpy:10
 translate turkish cosplaywakeme_8a3aa425:
@@ -1600,7 +1600,7 @@ translate turkish sidneysleepswithryan_22ab2b80:
 translate turkish sidneysleepswithryan_9a17ab31:
 
     # RT "{i}Ok, I'm all ready. Let's see if I can get her into position without waking her up.{/i}"
-    ""
+    RT "{i}Tamam, ben hazırım. Bakalım onu uyandırmadan pozisyonunu alabilecek miyim?{/i}"
 
 # game/UpdateScript0.02.rpy:653
 translate turkish sidneysleepswithryan_d94dd63d_2:
@@ -2530,7 +2530,7 @@ translate turkish kitchencosplayfitting_3b8d8dcc:
 translate turkish kitchencosplayfitting_415a8b5b:
 
     # S "And it's a good thing too. I've worked my ass off to get it ready for this convention."
-    S "Ve bu iyi bir şey. Onu bu kongreye hazırlamak için kıçımı yırttım."
+    S "Ve bu iyi bir şey. Onu bu etkinliğe hazırlamak için kıçımı yırttım."
 
 # game/UpdateScript0.02.rpy:922
 translate turkish kitchencosplayfitting_1253ab35:
@@ -2668,7 +2668,7 @@ translate turkish kitchencosplayfitting_348d048a:
 translate turkish kitchencosplayfitting_65c4a541:
 
     # L "Yeah, let's go cuz, we've already missed a lot of the convention."
-    L "Evet, gidelim çünkü zaten kongrenin çoğunu kaçırdık."
+    L "Evet, gidelim çünkü zaten etkinliğin çoğunu kaçırdık."
 
 # game/UpdateScript0.02.rpy:959
 translate turkish kitchencosplayfitting_a67d5b8a:
@@ -4108,19 +4108,19 @@ translate turkish momspycamroomhorny_0a6bf903:
 translate turkish momspycamroomhorny_59c153b6:
 
     # RT "{i}Mom must be doing a lot of extra laundry with all the girls squirting all over their beds.{/i}"
-    ""
+    RT "{i}Bütün kızlar yataklarına boşaldığı için annem fazladan çamaşır yıkıyor olmalı.{/i}"
 
 # game/UpdateScript0.02.rpy:1880
 translate turkish momspycamroomhorny_cc9874e5:
 
     # RT "{i}Not to mention what I do in mine.{/i}"
-    ""
+    RT "{i}Benimkinde ne yaptığımdan bahsetmiyorum bile.{/i}"
 
 # game/UpdateScript0.02.rpy:1882
 translate turkish momspycamroomhorny_1346ff7c:
 
     # RT "{i}And that makes 3 for 3.{/i}"
-    ""
+    RT "{i}Ve bu da 3'te 3 yapar.{/i}"
 
 # game/UpdateScript0.02.rpy:1883
 translate turkish momspycamroomhorny_1119f5a2:
@@ -4246,19 +4246,19 @@ translate turkish momspycamroomhorny_0a6bf903_1:
 translate turkish momspycamroomhorny_59c153b6_1:
 
     # RT "{i}Mom must be doing a lot of extra laundry with all the girls squirting all over their beds.{/i}"
-    ""
+    RT "{i}Bütün kızlar yataklarına boşaldığı için annem fazladan çamaşır yıkıyor olmalı.{/i}"
 
 # game/UpdateScript0.02.rpy:1930
 translate turkish momspycamroomhorny_cc9874e5_1:
 
     # RT "{i}Not to mention what I do in mine.{/i}"
-    ""
+    RT "{i}Benimkinde ne yaptığımdan bahsetmiyorum bile.{/i}"
 
 # game/UpdateScript0.02.rpy:1932
 translate turkish momspycamroomhorny_1346ff7c_1:
 
     # RT "{i}And that makes 3 for 3.{/i}"
-    ""
+    RT "{i}Ve bu da 3'te 3 yapar.{/i}"
 
 # game/UpdateScript0.02.rpy:1933
 translate turkish momspycamroomhorny_1119f5a2_1:
@@ -4390,19 +4390,19 @@ translate turkish momspycamroomhorny_0a6bf903_2:
 translate turkish momspycamroomhorny_59c153b6_2:
 
     # RT "{i}Mom must be doing a lot of extra laundry with all the girls squirting all over their beds.{/i}"
-    ""
+    RT "{i}Bütün kızlar yataklarına boşaldığı için annem fazladan çamaşır yıkıyor olmalı.{/i}"
 
 # game/UpdateScript0.02.rpy:1980
 translate turkish momspycamroomhorny_cc9874e5_2:
 
     # RT "{i}Not to mention what I do in mine.{/i}"
-    ""
+    RT "{i}Benimkinde ne yaptığımdan bahsetmiyorum bile.{/i}"
 
 # game/UpdateScript0.02.rpy:1982
 translate turkish momspycamroomhorny_1346ff7c_2:
 
     # RT "{i}And that makes 3 for 3.{/i}"
-    ""
+    RT "{i}Ve bu da 3'te 3 yapar.{/i}"
 
 # game/UpdateScript0.02.rpy:1983
 translate turkish momspycamroomhorny_1119f5a2_2:
@@ -4534,19 +4534,19 @@ translate turkish momspycamroomhorny_0a6bf903_3:
 translate turkish momspycamroomhorny_59c153b6_3:
 
     # RT "{i}Mom must be doing a lot of extra laundry with all the girls squirting all over their beds.{/i}"
-    ""
+    RT "{i}Bütün kızlar yataklarına boşaldığı için annem fazladan çamaşır yıkıyor olmalı.{/i}"
 
 # game/UpdateScript0.02.rpy:2030
 translate turkish momspycamroomhorny_cc9874e5_3:
 
     # RT "{i}Not to mention what I do in mine.{/i}"
-    ""
+    RT "{i}Benimkinde ne yaptığımdan bahsetmiyorum bile.{/i}"
 
 # game/UpdateScript0.02.rpy:2032
 translate turkish momspycamroomhorny_1346ff7c_3:
 
     # RT "{i}And that makes 3 for 3.{/i}"
-    ""
+    RT "{i}Ve bu da 3'te 3 yapar.{/i}"
 
 # game/UpdateScript0.02.rpy:2033
 translate turkish momspycamroomhorny_1119f5a2_3:
@@ -4672,19 +4672,19 @@ translate turkish momspycamroomhorny_0a6bf903_4:
 translate turkish momspycamroomhorny_59c153b6_4:
 
     # RT "{i}Mom must be doing a lot of extra laundry with all the girls squirting all over their beds.{/i}"
-    ""
+    RT "{i}Bütün kızlar yataklarına boşaldığı için annem fazladan çamaşır yıkıyor olmalı.{/i}"
 
 # game/UpdateScript0.02.rpy:2079
 translate turkish momspycamroomhorny_cc9874e5_4:
 
     # RT "{i}Not to mention what I do in mine.{/i}"
-    ""
+    RT "{i}Benimkinde ne yaptığımdan bahsetmiyorum bile.{/i}"
 
 # game/UpdateScript0.02.rpy:2081
 translate turkish momspycamroomhorny_1346ff7c_4:
 
     # RT "{i}And that makes 3 for 3.{/i}"
-    ""
+    RT "{i}Ve bu da 3'te 3 yapar.{/i}"
 
 # game/UpdateScript0.02.rpy:2082
 translate turkish momspycamroomhorny_1119f5a2_4:
@@ -4810,19 +4810,19 @@ translate turkish momspycamroomhorny_0a6bf903_5:
 translate turkish momspycamroomhorny_59c153b6_5:
 
     # RT "{i}Mom must be doing a lot of extra laundry with all the girls squirting all over their beds.{/i}"
-    ""
+    RT "{i}Bütün kızlar yataklarına boşaldığı için annem fazladan çamaşır yıkıyor olmalı.{/i}"
 
 # game/UpdateScript0.02.rpy:2128
 translate turkish momspycamroomhorny_cc9874e5_5:
 
     # RT "{i}Not to mention what I do in mine.{/i}"
-    ""
+    RT "{i}Benimkinde ne yaptığımdan bahsetmiyorum bile.{/i}"
 
 # game/UpdateScript0.02.rpy:2130
 translate turkish momspycamroomhorny_1346ff7c_5:
 
     # RT "{i}And that makes 3 for 3.{/i}"
-    ""
+    RT "{i}Ve bu da 3'te 3 yapar.{/i}"
 
 # game/UpdateScript0.02.rpy:2131
 translate turkish momspycamroomhorny_1119f5a2_5:
@@ -5074,19 +5074,19 @@ translate turkish momspycamroomhorny_0a6bf903_6:
 translate turkish momspycamroomhorny_59c153b6_6:
 
     # RT "{i}Mom must be doing a lot of extra laundry with all the girls squirting all over their beds.{/i}"
-    ""
+    RT "{i}Bütün kızlar yataklarına boşaldığı için annem fazladan çamaşır yıkıyor olmalı.{/i}"
 
 # game/UpdateScript0.02.rpy:2210
 translate turkish momspycamroomhorny_cc9874e5_6:
 
     # RT "{i}Not to mention what I do in mine.{/i}"
-    ""
+    RT "{i}Benimkinde ne yaptığımdan bahsetmiyorum bile.{/i}"
 
 # game/UpdateScript0.02.rpy:2212
 translate turkish momspycamroomhorny_1346ff7c_6:
 
     # RT "{i}And that makes 3 for 3.{/i}"
-    ""
+    RT "{i}Ve bu da 3'te 3 yapar.{/i}"
 
 # game/UpdateScript0.02.rpy:2213
 translate turkish momspycamroomhorny_1119f5a2_6:
@@ -5518,67 +5518,67 @@ translate turkish laurenspycamroommad_bb247317:
 translate turkish laurenspycamroomhorny_2af42f46:
 
     # RT "{i}Oh, thank you, thank you spy-cam, before I could only imagine what was going on in here.{/i}"
-    ""
+    RT "{i}Oh, teşekkürler, teşekkürler sana casusluk kamerası, daha önce burada neler olduğunu sadece hayal edebiliyordum.{/i}"
 
 # game/UpdateScript0.02.rpy:2466
 translate turkish laurenspycamroomhorny_2af42f46_1:
 
     # RT "{i}Oh, thank you, thank you spy-cam, before I could only imagine what was going on in here.{/i}"
-    ""
+    RT "{i}Oh, teşekkürler, teşekkürler sana casusluk kamerası, daha önce burada neler olduğunu sadece hayal edebiliyordum.{/i}"
 
 # game/UpdateScript0.02.rpy:2469
 translate turkish laurenspycamroomhorny_ea35949c:
 
     # RT "{i}Oh yeah, look at her go. What an ass!{/i}"
-    ""
+    RT "{i}Evet, şuna bir bak. Ne göt ama!{/i}"
 
 # game/UpdateScript0.02.rpy:2474
 translate turkish laurenspycamroomhorny_4d65785e:
 
     # RT "{i}What is she doing with Mr. Snuggles?{/i}"
-    ""
+    RT "{i}Bay Snuggles'la ne işi var?{/i}"
 
 # game/UpdateScript0.02.rpy:2475
 translate turkish laurenspycamroomhorny_30050adc:
 
     # RT "{i}Is that a strap-on?{/i}"
-    ""
+    RT "{i}Dildo mu o?{/i}"
 
 # game/UpdateScript0.02.rpy:2477
 translate turkish laurenspycamroomhorny_da71c9f7:
 
     # RT "{i}Oh, she's pulling out Mr. Snuggles again.{/i}"
-    ""
+    RT "{i}Yine Bay Snuggles'ı çıkartıyor.{/i}"
 
 # game/UpdateScript0.02.rpy:2478
 translate turkish laurenspycamroomhorny_94424b53:
 
     # RT "{i}Some dudes just get all the luck.{/i}"
-    ""
+    RT "{i}Bazı adamların şansı yaver gidiyor.{/i}"
 
 # game/UpdateScript0.02.rpy:2482
 translate turkish laurenspycamroomhorny_3bc95b9e:
 
     # RT "{i}I gave her that stuffy as a gift for her birthday 1 year ago.{/i}"
-    ""
+    RT "{i}Bir yıl önce doğum günü hediyesi olarak ona bu ayıcığı vermiştim.{/i}"
 
 # game/UpdateScript0.02.rpy:2483
 translate turkish laurenspycamroomhorny_b2042ae1:
 
     # RT "{i}Could that mean she's thinking about me?{/i}"
-    ""
+    RT "{i}Bu beni düşündüğü anlamına mı geliyor?{/i}"
 
 # game/UpdateScript0.02.rpy:2484
 translate turkish laurenspycamroomhorny_9fccb21f:
 
     # RT "{i}I guess it could also mean she's into furrys.{/i}"
-    ""
+    RT "{i}Sanırım bu kıllılardan hoşlandığı anlamına da geliyor.{/i}"
 
 # game/UpdateScript0.02.rpy:2485
 translate turkish laurenspycamroomhorny_cd34599b:
 
     # RT "{i}Oh God, please don't let that be so.{/i}"
-    ""
+    RT "{i}Tanrım, lütfen öyle olmasına izin verme.{/i}"
 
 # game/UpdateScript0.02.rpy:2489
 translate turkish laurenspycamroomhorny_a8307998:
@@ -5602,7 +5602,7 @@ translate turkish laurenspycamroomhorny_4db7db55:
 translate turkish laurenspycamroomhorny_7a67ddeb:
 
     # LT "{i}Oh SHIIIIIT!!!{/i}"
-    ""
+    LT "{i}Oh SİKTİİİİR!!!{/i}"
 
 # game/UpdateScript0.02.rpy:2513
 translate turkish laurenspycamroomhorny_c9cac4bc:
@@ -5626,7 +5626,7 @@ translate turkish laurenspycamroomhorny_1758aaf0:
 translate turkish laurenspycamroomhorny_5cad61fe:
 
     # LT "{i}I've got to stop thinking of [ryan] when I masturbate!{/i}"
-    ""
+    LT "{i}Mastürbasyon yaparken [ryan]'ı düşünmeyi bırakmalıyım!{/i}"
 
 # game/UpdateScript0.02.rpy:2520
 translate turkish laurenspycamroomhorny_0a2a29e5:
@@ -5644,31 +5644,31 @@ translate turkish laurenspycamroomhorny_ab62532f:
 translate turkish laurenspycamroomhorny_afdff9dc:
 
     # LT "{i}Maybe I should stop watching \"Game of Thots.\"{/i}"
-    ""
+    LT "{i}Belki de \"Game of Thots\"u izlemeyi bırakmalıyım.{/i}"
 
 # game/UpdateScript0.02.rpy:2524
 translate turkish laurenspycamroomhorny_59c153b6:
 
     # RT "{i}Mom must be doing a lot of extra laundry with all the girls squirting all over their beds.{/i}"
-    ""
+    RT "{i}Bütün kızlar yataklarına boşaldığı için annem fazladan çamaşır yıkıyor olmalı.{/i}"
 
 # game/UpdateScript0.02.rpy:2525
 translate turkish laurenspycamroomhorny_cc9874e5:
 
     # RT "{i}Not to mention what I do in mine.{/i}"
-    ""
+    RT "{i}Benimkinde ne yaptığımdan bahsetmiyorum bile.{/i}"
 
 # game/UpdateScript0.02.rpy:2527
 translate turkish laurenspycamroomhorny_1346ff7c:
 
     # RT "{i}And that makes 3 for 3.{/i}"
-    ""
+    RT "{i}Ve bu da 3'te 3 yapar.{/i}"
 
 # game/UpdateScript0.02.rpy:2528
 translate turkish laurenspycamroomhorny_42be0526:
 
     # RT "{i}Is it something Mom's feeding them?{/i}"
-    ""
+    RT "{i}Annemin onlara yedirdiği bir şey yüzünden mi?{/i}"
 
 # game/UpdateScript0.02.rpy:2530
 translate turkish laurenspycamroomhorny_32616470:
@@ -5722,7 +5722,7 @@ translate turkish laurenspycamroomhorny_16d37eb8:
 translate turkish laurenspycamroomhorny_18d8da33:
 
     # RT "{i}Guess it's time for lights out, ohhhhh and she's cuddling the very soggy Mr. Snuggles. How cute!{/i}"
-    ""
+    RT "{i}Sanırım ışıkları söndürme vakti geldi, ohhhhh ve vıcık vıcık Bay Snuggles'a sarılıyor. Ne kadar şirin!{/i}"
 
 # game/UpdateScript0.02.rpy:2553
 translate turkish laurenspycamroomhorny_8aae703e:
@@ -5734,25 +5734,25 @@ translate turkish laurenspycamroomhorny_8aae703e:
 translate turkish laurenspycamroomhorny_8d59f6a0:
 
     # LT "{i}[ryan] was so heroic how he defended me from Agent Diaz!{/i}"
-    ""
+    LT "{i}[ryan] beni Ajan Diaz'dan korurken çok kahramancaydı!{/i}"
 
 # game/UpdateScript0.02.rpy:2559
 translate turkish laurenspycamroomhorny_e44f8fa4:
 
     # LT "{i}I could tell it turned him on as much as it did me!{/i}"
-    ""
+    LT "{i}Bunun onu da benim kadar tahrik ettiğini söyleyebilirim!{/i}"
 
 # game/UpdateScript0.02.rpy:2560
 translate turkish laurenspycamroomhorny_e1feabaa:
 
     # LT "{i}The only thing keeping his cock from penetrating me was my soaking wet panties!{/i}"
-    ""
+    LT "{i}Aletinin içime girmesini engelleyen tek şey sırılsıklam olmuş külotumdu!{/i}"
 
 # game/UpdateScript0.02.rpy:2579
 translate turkish laurenspycamroomhorny_7a67ddeb_1:
 
     # LT "{i}Oh SHIIIIIT!!!{/i}"
-    ""
+    LT "{i}Oh SİKTİİİİR!!!{/i}"
 
 # game/UpdateScript0.02.rpy:2582
 translate turkish laurenspycamroomhorny_c9cac4bc_1:
@@ -5776,7 +5776,7 @@ translate turkish laurenspycamroomhorny_1758aaf0_1:
 translate turkish laurenspycamroomhorny_5cad61fe_1:
 
     # LT "{i}I've got to stop thinking of [ryan] when I masturbate!{/i}"
-    ""
+    LT "{i}Mastürbasyon yaparken [ryan]'ı düşünmeyi bırakmalıyım!{/i}"
 
 # game/UpdateScript0.02.rpy:2589
 translate turkish laurenspycamroomhorny_0a2a29e5_1:
@@ -5794,31 +5794,31 @@ translate turkish laurenspycamroomhorny_ab62532f_1:
 translate turkish laurenspycamroomhorny_afdff9dc_1:
 
     # LT "{i}Maybe I should stop watching \"Game of Thots.\"{/i}"
-    ""
+    LT "{i}Belki de \"Game of Thots\"u izlemeyi bırakmalıyım.{/i}"
 
 # game/UpdateScript0.02.rpy:2593
 translate turkish laurenspycamroomhorny_59c153b6_1:
 
     # RT "{i}Mom must be doing a lot of extra laundry with all the girls squirting all over their beds.{/i}"
-    ""
+    RT "{i}Bütün kızlar yataklarına boşaldığı için annem fazladan çamaşır yıkıyor olmalı.{/i}"
 
 # game/UpdateScript0.02.rpy:2594
 translate turkish laurenspycamroomhorny_cc9874e5_1:
 
     # RT "{i}Not to mention what I do in mine.{/i}"
-    ""
+    RT "{i}Benimkinde ne yaptığımdan bahsetmiyorum bile.{/i}"
 
 # game/UpdateScript0.02.rpy:2596
 translate turkish laurenspycamroomhorny_1346ff7c_1:
 
     # RT "{i}And that makes 3 for 3.{/i}"
-    ""
+    RT "{i}Ve bu da 3'te 3 yapar.{/i}"
 
 # game/UpdateScript0.02.rpy:2597
 translate turkish laurenspycamroomhorny_42be0526_1:
 
     # RT "{i}Is it something Mom's feeding them?{/i}"
-    ""
+    RT "{i}Annemin onlara yedirdiği bir şey yüzünden mi?{/i}"
 
 # game/UpdateScript0.02.rpy:2599
 translate turkish laurenspycamroomhorny_32616470_1:
@@ -5872,7 +5872,7 @@ translate turkish laurenspycamroomhorny_16d37eb8_1:
 translate turkish laurenspycamroomhorny_18d8da33_1:
 
     # RT "{i}Guess it's time for lights out, ohhhhh and she's cuddling the very soggy Mr. Snuggles. How cute!{/i}"
-    ""
+    RT "{i}Sanırım ışıkları söndürme vakti geldi, ohhhhh ve vıcık vıcık Bay Snuggles'a sarılıyor. Ne kadar şirin!{/i}"
 
 # game/UpdateScript0.02.rpy:2622
 translate turkish laurenspycamroomhorny_8aae703e_1:
@@ -5896,7 +5896,7 @@ translate turkish laurenspycamroomhorny_782b6a62:
 translate turkish laurenspycamroomhorny_7a67ddeb_2:
 
     # LT "{i}Oh SHIIIIIT!!!{/i}"
-    ""
+    LT "{i}Oh SİKTİİİİR!!!{/i}"
 
 # game/UpdateScript0.02.rpy:2650
 translate turkish laurenspycamroomhorny_c9cac4bc_2:
@@ -5938,25 +5938,25 @@ translate turkish laurenspycamroomhorny_ab62532f_2:
 translate turkish laurenspycamroomhorny_59c153b6_2:
 
     # RT "{i}Mom must be doing a lot of extra laundry with all the girls squirting all over their beds.{/i}"
-    ""
+    RT "{i}Bütün kızlar yataklarına boşaldığı için annem fazladan çamaşır yıkıyor olmalı.{/i}"
 
 # game/UpdateScript0.02.rpy:2661
 translate turkish laurenspycamroomhorny_cc9874e5_2:
 
     # RT "{i}Not to mention what I do in mine.{/i}"
-    ""
+    RT "{i}Benimkinde ne yaptığımdan bahsetmiyorum bile.{/i}"
 
 # game/UpdateScript0.02.rpy:2663
 translate turkish laurenspycamroomhorny_1346ff7c_2:
 
     # RT "{i}And that makes 3 for 3.{/i}"
-    ""
+    RT "{i}Ve bu da 3'te 3 yapar.{/i}"
 
 # game/UpdateScript0.02.rpy:2664
 translate turkish laurenspycamroomhorny_42be0526_2:
 
     # RT "{i}Is it something Mom's feeding them?{/i}"
-    ""
+    RT "{i}Annemin onlara yedirdiği bir şey yüzünden mi?{/i}"
 
 # game/UpdateScript0.02.rpy:2666
 translate turkish laurenspycamroomhorny_32616470_2:
@@ -6010,7 +6010,7 @@ translate turkish laurenspycamroomhorny_16d37eb8_2:
 translate turkish laurenspycamroomhorny_18d8da33_2:
 
     # RT "{i}Guess it's time for lights out, ohhhhh and she's cuddling the very soggy Mr. Snuggles. How cute!{/i}"
-    ""
+    RT "{i}Sanırım ışıkları söndürme vakti geldi, ohhhhh ve vıcık vıcık Bay Snuggles'a sarılıyor. Ne kadar şirin!{/i}"
 
 # game/UpdateScript0.02.rpy:2689
 translate turkish laurenspycamroomhorny_8aae703e_2:
@@ -6034,7 +6034,7 @@ translate turkish laurenspycamroomhorny_cf27839c:
 translate turkish laurenspycamroomhorny_7a67ddeb_3:
 
     # LT "{i}Oh SHIIIIIT!!!{/i}"
-    ""
+    LT "{i}Oh SİKTİİİİR!!!{/i}"
 
 # game/UpdateScript0.02.rpy:2717
 translate turkish laurenspycamroomhorny_c9cac4bc_3:
@@ -6058,7 +6058,7 @@ translate turkish laurenspycamroomhorny_1758aaf0_3:
 translate turkish laurenspycamroomhorny_5cad61fe_2:
 
     # LT "{i}I've got to stop thinking of [ryan] when I masturbate!{/i}"
-    ""
+    LT "{i}Mastürbasyon yaparken [ryan]'ı düşünmeyi bırakmalıyım!{/i}"
 
 # game/UpdateScript0.02.rpy:2724
 translate turkish laurenspycamroomhorny_0a2a29e5_3:
@@ -6076,31 +6076,31 @@ translate turkish laurenspycamroomhorny_ab62532f_3:
 translate turkish laurenspycamroomhorny_afdff9dc_2:
 
     # LT "{i}Maybe I should stop watching \"Game of Thots.\"{/i}"
-    ""
+    LT "{i}Belki de \"Game of Thots\"u izlemeyi bırakmalıyım.{/i}"
 
 # game/UpdateScript0.02.rpy:2728
 translate turkish laurenspycamroomhorny_59c153b6_3:
 
     # RT "{i}Mom must be doing a lot of extra laundry with all the girls squirting all over their beds.{/i}"
-    ""
+    RT "{i}Bütün kızlar yataklarına boşaldığı için annem fazladan çamaşır yıkıyor olmalı.{/i}"
 
 # game/UpdateScript0.02.rpy:2729
 translate turkish laurenspycamroomhorny_cc9874e5_3:
 
     # RT "{i}Not to mention what I do in mine.{/i}"
-    ""
+    RT "{i}Benimkinde ne yaptığımdan bahsetmiyorum bile.{/i}"
 
 # game/UpdateScript0.02.rpy:2731
 translate turkish laurenspycamroomhorny_1346ff7c_3:
 
     # RT "{i}And that makes 3 for 3.{/i}"
-    ""
+    RT "{i}Ve bu da 3'te 3 yapar.{/i}"
 
 # game/UpdateScript0.02.rpy:2732
 translate turkish laurenspycamroomhorny_42be0526_3:
 
     # RT "{i}Is it something Mom's feeding them?{/i}"
-    ""
+    RT "{i}Annemin onlara yedirdiği bir şey yüzünden mi?{/i}"
 
 # game/UpdateScript0.02.rpy:2734
 translate turkish laurenspycamroomhorny_32616470_3:
@@ -6154,7 +6154,7 @@ translate turkish laurenspycamroomhorny_16d37eb8_3:
 translate turkish laurenspycamroomhorny_18d8da33_3:
 
     # RT "{i}Guess it's time for lights out, ohhhhh and she's cuddling the very soggy Mr. Snuggles. How cute!{/i}"
-    ""
+    RT "{i}Sanırım ışıkları söndürme vakti geldi, ohhhhh ve vıcık vıcık Bay Snuggles'a sarılıyor. Ne kadar şirin!{/i}"
 
 # game/UpdateScript0.02.rpy:2757
 translate turkish laurenspycamroomhorny_8aae703e_3:
@@ -6178,7 +6178,7 @@ translate turkish laurenspycamroomhorny_0d6ef31b:
 translate turkish laurenspycamroomhorny_7a67ddeb_4:
 
     # LT "{i}Oh SHIIIIIT!!!{/i}"
-    ""
+    LT "{i}Oh SİKTİİİİR!!!{/i}"
 
 # game/UpdateScript0.02.rpy:2785
 translate turkish laurenspycamroomhorny_c9cac4bc_4:
@@ -6202,7 +6202,7 @@ translate turkish laurenspycamroomhorny_1758aaf0_4:
 translate turkish laurenspycamroomhorny_5cad61fe_3:
 
     # LT "{i}I've got to stop thinking of [ryan] when I masturbate!{/i}"
-    ""
+    LT "{i}Mastürbasyon yaparken [ryan]'ı düşünmeyi bırakmalıyım!{/i}"
 
 # game/UpdateScript0.02.rpy:2792
 translate turkish laurenspycamroomhorny_0a2a29e5_4:
@@ -6220,31 +6220,31 @@ translate turkish laurenspycamroomhorny_ab62532f_4:
 translate turkish laurenspycamroomhorny_afdff9dc_3:
 
     # LT "{i}Maybe I should stop watching \"Game of Thots.\"{/i}"
-    ""
+    LT "{i}Belki de \"Game of Thots\"u izlemeyi bırakmalıyım.{/i}"
 
 # game/UpdateScript0.02.rpy:2796
 translate turkish laurenspycamroomhorny_59c153b6_4:
 
     # RT "{i}Mom must be doing a lot of extra laundry with all the girls squirting all over their beds.{/i}"
-    ""
+    RT "{i}Bütün kızlar yataklarına boşaldığı için annem fazladan çamaşır yıkıyor olmalı.{/i}"
 
 # game/UpdateScript0.02.rpy:2797
 translate turkish laurenspycamroomhorny_cc9874e5_4:
 
     # RT "{i}Not to mention what I do in mine.{/i}"
-    ""
+    RT "{i}Benimkinde ne yaptığımdan bahsetmiyorum bile.{/i}"
 
 # game/UpdateScript0.02.rpy:2799
 translate turkish laurenspycamroomhorny_1346ff7c_4:
 
     # RT "{i}And that makes 3 for 3.{/i}"
-    ""
+    RT "{i}Ve bu da 3'te 3 yapar.{/i}"
 
 # game/UpdateScript0.02.rpy:2800
 translate turkish laurenspycamroomhorny_42be0526_4:
 
     # RT "{i}Is it something Mom's feeding them?{/i}"
-    ""
+    RT "{i}Annemin onlara yedirdiği bir şey yüzünden mi?{/i}"
 
 # game/UpdateScript0.02.rpy:2802
 translate turkish laurenspycamroomhorny_32616470_4:
@@ -6298,7 +6298,7 @@ translate turkish laurenspycamroomhorny_16d37eb8_4:
 translate turkish laurenspycamroomhorny_18d8da33_4:
 
     # RT "{i}Guess it's time for lights out, ohhhhh and she's cuddling the very soggy Mr. Snuggles. How cute!{/i}"
-    ""
+    RT "{i}Sanırım ışıkları söndürme vakti geldi, ohhhhh ve vıcık vıcık Bay Snuggles'a sarılıyor. Ne kadar şirin!{/i}"
 
 # game/UpdateScript0.02.rpy:2825
 translate turkish laurenspycamroomhorny_8aae703e_4:
@@ -6310,43 +6310,43 @@ translate turkish laurenspycamroomhorny_8aae703e_4:
 translate turkish laurenspycamroomhorny_b278ad94:
 
     # LT "{i}Oh God Tanning Chatum, fuck my tight little pussy!{/i}"
-    ""
+    LT "{i}Tanrım, Tanning Chatum, daracık amımı sik!{/i}"
 
 # game/UpdateScript0.02.rpy:2849
 translate turkish laurenspycamroomhorny_c52d5949:
 
     # LT "{i}I wonder if Tanning is as big as my brother?{/i}"
-    ""
+    LT "{i}Acaba Tanning'inki kardeşiminki kadar büyük mü?{/i}"
 
 # game/UpdateScript0.02.rpy:2866
 translate turkish laurenspycamroomhorny_c05adb78:
 
     # LT "{i} I don't even think his dick would fit in my pussy.{/i}"
-    ""
+    LT "{i} Sikinin amıma sığacağını bile sanmıyorum.{/i}"
 
 # game/UpdateScript0.02.rpy:2883
 translate turkish laurenspycamroomhorny_002e5706:
 
     # LT "{i}Oh, God!.... He'd probably rip me in half.{/i}"
-    ""
+    LT "{i}Oh, Tanrım!.... Muhtemelen beni ikiye bölerdi.{/i}"
 
 # game/UpdateScript0.02.rpy:2900
 translate turkish laurenspycamroomhorny_3e32479b:
 
     # LT "{i}Oh, God!.... Why am I thinking about my brother?{/i}"
-    ""
+    LT "{i}Oh, Tanrım!.... Neden kardeşimi düşünüyorum?{/i}"
 
 # game/UpdateScript0.02.rpy:2901
 translate turkish laurenspycamroomhorny_9f57fb05:
 
     # RT "{i}I've got to get a picture of this!{/i}"
-    ""
+    RT "{i}Bunun fotoğrafını çekmeliyim!{/i}"
 
 # game/UpdateScript0.02.rpy:2918
 translate turkish laurenspycamroomhorny_7a67ddeb_5:
 
     # LT "{i}Oh SHIIIIIT!!!{/i}"
-    ""
+    LT "{i}Oh SİKTİİİİR!!!{/i}"
 
 # game/UpdateScript0.02.rpy:2921
 translate turkish laurenspycamroomhorny_c9cac4bc_5:
@@ -6364,19 +6364,19 @@ translate turkish laurenspycamroomhorny_6fdf681d_5:
 translate turkish laurenspycamroomhorny_17061c1b:
 
     # LT "{i}I've never squirted before!{/i}"
-    ""
+    LT "{i}Daha önce hiç boşalmamıştım!{/i}"
 
 # game/UpdateScript0.02.rpy:2928
 translate turkish laurenspycamroomhorny_7909a2cc:
 
     # LT "{i}Did thinking of [ryan] do that to me?{/i}"
-    ""
+    LT "{i}Kardeşimi düşünmek mi bana bunu yaptırdı?{/i}"
 
 # game/UpdateScript0.02.rpy:2929
 translate turkish laurenspycamroomhorny_8c12625c:
 
     # LT "{i}I'd better never think of him again when I masturbate!{/i}"
-    ""
+    LT "{i}Mastürbasyon yaparken bir daha onu düşünmesem iyi olur!{/i}"
 
 # game/UpdateScript0.02.rpy:2931
 translate turkish laurenspycamroomhorny_1758aaf0_5:
@@ -6406,31 +6406,31 @@ translate turkish laurenspycamroomhorny_ab62532f_5:
 translate turkish laurenspycamroomhorny_afdff9dc_4:
 
     # LT "{i}Maybe I should stop watching \"Game of Thots.\"{/i}"
-    ""
+    LT "{i}Belki de \"Game of Thots\"u izlemeyi bırakmalıyım.{/i}"
 
 # game/UpdateScript0.02.rpy:2937
 translate turkish laurenspycamroomhorny_59c153b6_5:
 
     # RT "{i}Mom must be doing a lot of extra laundry with all the girls squirting all over their beds.{/i}"
-    ""
+    RT "{i}Bütün kızlar yataklarına boşaldığı için annem fazladan çamaşır yıkıyor olmalı.{/i}"
 
 # game/UpdateScript0.02.rpy:2938
 translate turkish laurenspycamroomhorny_cc9874e5_5:
 
     # RT "{i}Not to mention what I do in mine.{/i}"
-    ""
+    RT "{i}Benimkinde ne yaptığımdan bahsetmiyorum bile.{/i}"
 
 # game/UpdateScript0.02.rpy:2940
 translate turkish laurenspycamroomhorny_1346ff7c_5:
 
     # RT "{i}And that makes 3 for 3.{/i}"
-    ""
+    RT "{i}Ve bu da 3'te 3 yapar.{/i}"
 
 # game/UpdateScript0.02.rpy:2941
 translate turkish laurenspycamroomhorny_42be0526_5:
 
     # RT "{i}Is it something Mom's feeding them?{/i}"
-    ""
+    RT "{i}Annemin onlara yedirdiği bir şey yüzünden mi?{/i}"
 
 # game/UpdateScript0.02.rpy:2943
 translate turkish laurenspycamroomhorny_32616470_5:
@@ -6484,7 +6484,7 @@ translate turkish laurenspycamroomhorny_16d37eb8_5:
 translate turkish laurenspycamroomhorny_18d8da33_5:
 
     # RT "{i}Guess it's time for lights out, ohhhhh and she's cuddling the very soggy Mr. Snuggles. How cute!{/i}"
-    ""
+    RT "{i}Sanırım ışıkları söndürme vakti geldi, ohhhhh ve vıcık vıcık Bay Snuggles'a sarılıyor. Ne kadar şirin!{/i}"
 
 # game/UpdateScript0.02.rpy:2980
 translate turkish laurenspycamroomhorny_8aae703e_5:
@@ -6526,49 +6526,49 @@ translate turkish sidneyspycamroom_4e005892:
 translate turkish sidneyspycamroomhorny_14db493f:
 
     # RT "{i}Oh life must have been so much harder for pervs in the past. Thank you technology!{/i}"
-    ""
+    RT "{i}Geçmişte hayat sapıklar için çok daha zor olmalıydı. Teşekkürler teknoloji!{/i}"
 
 # game/UpdateScript0.02.rpy:3031
 translate turkish sidneyspycamroomhorny_a585620a:
 
     # RT "{i}The spy cams of the past were peepholes drilled into the wall.{/i}"
-    ""
+    RT "{i}Geçmişin casusluk kameraları duvara açılan gözetleme delikleriydi.{/i}"
 
 # game/UpdateScript0.02.rpy:3032
 translate turkish sidneyspycamroomhorny_3aebbd30:
 
     # RT "{i}If I had lived back then, I might have been desperate enough to try it.{/i}"
-    ""
+    RT "{i}O zamanlar yaşasaydım, bunu deneyecek kadar çaresiz olabilirdim.{/i}"
 
 # game/UpdateScript0.02.rpy:3035
 translate turkish sidneyspycamroomhorny_374d6494:
 
     # RT "{i}Oh yeah, Sidney work those sweet little mini melons.{/i}"
-    ""
+    RT "{i}Evet, Sidney o küçük tatlı karpuzlarla çalışıyor.{/i}"
 
 # game/UpdateScript0.02.rpy:3036
 translate turkish sidneyspycamroomhorny_1d3d389b:
 
     # RT "{i}Those tanlined little molehills.{/i}"
-    ""
+    RT "{i}Şu küçük köstebek yuvaları.{/i}"
 
 # game/UpdateScript0.02.rpy:3039
 translate turkish sidneyspycamroomhorny_93230fe9:
 
     # RT "{i}Nooieeesh!.... She's going for it!{/i}"
-    ""
+    RT "{i}Nooieeesh!.... Yapmaya başlıyor!{/i}"
 
 # game/UpdateScript0.02.rpy:3041
 translate turkish sidneyspycamroomhorny_ef0c7085:
 
     # RT "{i}I've got to get a picture of this.{/i}"
-    ""
+    RT "{i}Bunun fotoğrafını çekmeliyim.{/i}"
 
 # game/UpdateScript0.02.rpy:3050
 translate turkish sidneyspycamroomhorny_770c7431:
 
     # RT "{i}I wonder what Sidney thinks about when she's buttering her muffin?{/i}"
-    ""
+    RT "{i}Sidney kekini yağlarken ne düşünüyor acaba?{/i}"
 
 # game/UpdateScript0.02.rpy:3054
 translate turkish sidneyspycamroomhorny_b84f8b31:
@@ -6592,13 +6592,13 @@ translate turkish sidneyspycamroomhorny_4b559163:
 translate turkish sidneyspycamroomhorny_17574173:
 
     # ST "{i}Oh my God!.... What's happening?!!{/i}"
-    ""
+    ST "{i}Aman Tanrım!.... Neler oluyor?!!{/i}"
 
 # game/UpdateScript0.02.rpy:3072
 translate turkish sidneyspycamroomhorny_5a86335b:
 
     # ST "{i}Can't control.... can't stop.... {/i}"
-    ""
+    ST "{i}Kontrol edemiyorum.... durduramıyorum.... {/i}"
 
 # game/UpdateScript0.02.rpy:3076
 translate turkish sidneyspycamroomhorny_dd857f6d:
@@ -6622,25 +6622,25 @@ translate turkish sidneyspycamroomhorny_9dd5f8cf:
 translate turkish sidneyspycamroomhorny_59c153b6:
 
     # RT "{i}Mom must be doing a lot of extra laundry with all the girls squirting all over their beds.{/i}"
-    ""
+    RT "{i}Bütün kızlar yataklarına boşaldığı için annem fazladan çamaşır yıkıyor olmalı.{/i}"
 
 # game/UpdateScript0.02.rpy:3081
 translate turkish sidneyspycamroomhorny_cc9874e5:
 
     # RT "{i}Not to mention what I do in mine.{/i}"
-    ""
+    RT "{i}Benimkinde ne yaptığımdan bahsetmiyorum bile.{/i}"
 
 # game/UpdateScript0.02.rpy:3083
 translate turkish sidneyspycamroomhorny_1346ff7c:
 
     # RT "{i}And that makes 3 for 3.{/i}"
-    ""
+    RT "{i}Ve bu da 3'te 3 yapar.{/i}"
 
 # game/UpdateScript0.02.rpy:3084
 translate turkish sidneyspycamroomhorny_42be0526:
 
     # RT "{i}Is it something Mom's feeding them?{/i}"
-    ""
+    RT "{i}Annemin onlara yedirdiği bir şey yüzünden mi?{/i}"
 
 # game/UpdateScript0.02.rpy:3086
 translate turkish sidneyspycamroomhorny_79bf771e:
@@ -6718,13 +6718,13 @@ translate turkish sidneyspycamroomhorny_b990b9cd:
 translate turkish sidneyspycamroomhorny_17574173_1:
 
     # ST "{i}Oh my God!.... What's happening?!!{/i}"
-    ""
+    ST "{i}Aman Tanrım!.... Neler oluyor?!!{/i}"
 
 # game/UpdateScript0.02.rpy:3121
 translate turkish sidneyspycamroomhorny_5a86335b_1:
 
     # ST "{i}Can't control.... can't stop.... {/i}"
-    ""
+    ST "{i}Kontrol edemiyorum.... durduramıyorum.... {/i}"
 
 # game/UpdateScript0.02.rpy:3125
 translate turkish sidneyspycamroomhorny_dd857f6d_1:
@@ -6748,25 +6748,25 @@ translate turkish sidneyspycamroomhorny_9dd5f8cf_1:
 translate turkish sidneyspycamroomhorny_59c153b6_1:
 
     # RT "{i}Mom must be doing a lot of extra laundry with all the girls squirting all over their beds.{/i}"
-    ""
+    RT "{i}Bütün kızlar yataklarına boşaldığı için annem fazladan çamaşır yıkıyor olmalı.{/i}"
 
 # game/UpdateScript0.02.rpy:3130
 translate turkish sidneyspycamroomhorny_cc9874e5_1:
 
     # RT "{i}Not to mention what I do in mine.{/i}"
-    ""
+    RT "{i}Benimkinde ne yaptığımdan bahsetmiyorum bile.{/i}"
 
 # game/UpdateScript0.02.rpy:3132
 translate turkish sidneyspycamroomhorny_1346ff7c_1:
 
     # RT "{i}And that makes 3 for 3.{/i}"
-    ""
+    RT "{i}Ve bu da 3'te 3 yapar.{/i}"
 
 # game/UpdateScript0.02.rpy:3133
 translate turkish sidneyspycamroomhorny_42be0526_1:
 
     # RT "{i}Is it something Mom's feeding them?{/i}"
-    ""
+    RT "{i}Annemin onlara yedirdiği bir şey yüzünden mi?{/i}"
 
 # game/UpdateScript0.02.rpy:3135
 translate turkish sidneyspycamroomhorny_79bf771e_1:
@@ -6844,13 +6844,13 @@ translate turkish sidneyspycamroomhorny_63f305e1:
 translate turkish sidneyspycamroomhorny_17574173_2:
 
     # ST "{i}Oh my God!.... What's happening?!!{/i}"
-    ""
+    ST "{i}Aman Tanrım!.... Neler oluyor?!!{/i}"
 
 # game/UpdateScript0.02.rpy:3170
 translate turkish sidneyspycamroomhorny_5a86335b_2:
 
     # ST "{i}Can't control.... can't stop.... {/i}"
-    ""
+    ST "{i}Kontrol edemiyorum.... durduramıyorum.... {/i}"
 
 # game/UpdateScript0.02.rpy:3174
 translate turkish sidneyspycamroomhorny_dd857f6d_2:
@@ -6874,25 +6874,25 @@ translate turkish sidneyspycamroomhorny_9dd5f8cf_2:
 translate turkish sidneyspycamroomhorny_59c153b6_2:
 
     # RT "{i}Mom must be doing a lot of extra laundry with all the girls squirting all over their beds.{/i}"
-    ""
+    RT "{i}Bütün kızlar yataklarına boşaldığı için annem fazladan çamaşır yıkıyor olmalı.{/i}"
 
 # game/UpdateScript0.02.rpy:3179
 translate turkish sidneyspycamroomhorny_cc9874e5_2:
 
     # RT "{i}Not to mention what I do in mine.{/i}"
-    ""
+    RT "{i}Benimkinde ne yaptığımdan bahsetmiyorum bile.{/i}"
 
 # game/UpdateScript0.02.rpy:3181
 translate turkish sidneyspycamroomhorny_1346ff7c_2:
 
     # RT "{i}And that makes 3 for 3.{/i}"
-    ""
+    RT "{i}Ve bu da 3'te 3 yapar.{/i}"
 
 # game/UpdateScript0.02.rpy:3182
 translate turkish sidneyspycamroomhorny_42be0526_2:
 
     # RT "{i}Is it something Mom's feeding them?{/i}"
-    ""
+    RT "{i}Annemin onlara yedirdiği bir şey yüzünden mi?{/i}"
 
 # game/UpdateScript0.02.rpy:3184
 translate turkish sidneyspycamroomhorny_79bf771e_2:
@@ -6970,13 +6970,13 @@ translate turkish sidneyspycamroomhorny_bc1142cc:
 translate turkish sidneyspycamroomhorny_17574173_3:
 
     # ST "{i}Oh my God!.... What's happening?!!{/i}"
-    ""
+    ST "{i}Aman Tanrım!.... Neler oluyor?!!{/i}"
 
 # game/UpdateScript0.02.rpy:3219
 translate turkish sidneyspycamroomhorny_5a86335b_3:
 
     # ST "{i}Can't control.... can't stop.... {/i}"
-    ""
+    ST "{i}Kontrol edemiyorum.... durduramıyorum.... {/i}"
 
 # game/UpdateScript0.02.rpy:3223
 translate turkish sidneyspycamroomhorny_dd857f6d_3:
@@ -7000,25 +7000,25 @@ translate turkish sidneyspycamroomhorny_9dd5f8cf_3:
 translate turkish sidneyspycamroomhorny_59c153b6_3:
 
     # RT "{i}Mom must be doing a lot of extra laundry with all the girls squirting all over their beds.{/i}"
-    ""
+    RT "{i}Bütün kızlar yataklarına boşaldığı için annem fazladan çamaşır yıkıyor olmalı.{/i}"
 
 # game/UpdateScript0.02.rpy:3228
 translate turkish sidneyspycamroomhorny_cc9874e5_3:
 
     # RT "{i}Not to mention what I do in mine.{/i}"
-    ""
+    RT "{i}Benimkinde ne yaptığımdan bahsetmiyorum bile.{/i}"
 
 # game/UpdateScript0.02.rpy:3230
 translate turkish sidneyspycamroomhorny_1346ff7c_3:
 
     # RT "{i}And that makes 3 for 3.{/i}"
-    ""
+    RT "{i}Ve bu da 3'te 3 yapar.{/i}"
 
 # game/UpdateScript0.02.rpy:3231
 translate turkish sidneyspycamroomhorny_42be0526_3:
 
     # RT "{i}Is it something Mom's feeding them?{/i}"
-    ""
+    RT "{i}Annemin onlara yedirdiği bir şey yüzünden mi?{/i}"
 
 # game/UpdateScript0.02.rpy:3233
 translate turkish sidneyspycamroomhorny_79bf771e_3:
@@ -7102,13 +7102,13 @@ translate turkish sidneyspycamroomhorny_c5fa8458:
 translate turkish sidneyspycamroomhorny_17574173_4:
 
     # ST "{i}Oh my God!.... What's happening?!!{/i}"
-    ""
+    ST "{i}Aman Tanrım!.... Neler oluyor?!!{/i}"
 
 # game/UpdateScript0.02.rpy:3271
 translate turkish sidneyspycamroomhorny_5a86335b_4:
 
     # ST "{i}Can't control.... can't stop.... {/i}"
-    ""
+    ST "{i}Kontrol edemiyorum.... durduramıyorum.... {/i}"
 
 # game/UpdateScript0.02.rpy:3275
 translate turkish sidneyspycamroomhorny_dd857f6d_4:
@@ -7132,31 +7132,31 @@ translate turkish sidneyspycamroomhorny_9dd5f8cf_4:
 translate turkish sidneyspycamroomhorny_0375956e:
 
     # ST "{i}It doesn't help that I'm sharing his bed.{/i}"
-    ""
+    ST "{i}Onunla aynı yatağı paylaşmamın bir faydası yok.{/i}"
 
 # game/UpdateScript0.02.rpy:3280
 translate turkish sidneyspycamroomhorny_59c153b6_4:
 
     # RT "{i}Mom must be doing a lot of extra laundry with all the girls squirting all over their beds.{/i}"
-    ""
+    RT "{i}Bütün kızlar yataklarına boşaldığı için annem fazladan çamaşır yıkıyor olmalı.{/i}"
 
 # game/UpdateScript0.02.rpy:3281
 translate turkish sidneyspycamroomhorny_cc9874e5_4:
 
     # RT "{i}Not to mention what I do in mine.{/i}"
-    ""
+    RT "{i}Benimkinde ne yaptığımdan bahsetmiyorum bile.{/i}"
 
 # game/UpdateScript0.02.rpy:3283
 translate turkish sidneyspycamroomhorny_1346ff7c_4:
 
     # RT "{i}And that makes 3 for 3.{/i}"
-    ""
+    RT "{i}Ve bu da 3'te 3 yapar.{/i}"
 
 # game/UpdateScript0.02.rpy:3284
 translate turkish sidneyspycamroomhorny_42be0526_4:
 
     # RT "{i}Is it something Mom's feeding them?{/i}"
-    ""
+    RT "{i}Annemin onlara yedirdiği bir şey yüzünden mi?{/i}"
 
 # game/UpdateScript0.02.rpy:3286
 translate turkish sidneyspycamroomhorny_79bf771e_4:
@@ -7216,97 +7216,97 @@ translate turkish sidneyspycamroomhorny_8aae703e_4:
 translate turkish sidneyspycamroomhorny_ae0468d0:
 
     # ST "{i}What is wrong with me lately.{/i}"
-    ""
+    ST "{i}Son zamanlarda neyim var benim?{/i}"
 
 # game/UpdateScript0.02.rpy:3304
 translate turkish sidneyspycamroomhorny_323ccd53:
 
     # ST "{i}I'm just so horny all the time.{/i}"
-    ""
+    ST "{i}Sürekli çok azgınım.{/i}"
 
 # game/UpdateScript0.02.rpy:3305
 translate turkish sidneyspycamroomhorny_17086f96:
 
     # ST "{i}So horny that I'm subconciously molesting anyone that I sleep next to.{/i}"
-    ""
+    ST "{i}O kadar azgınım ki yanımda uyuyan herkesi bilinçaltımda taciz ediyorum.{/i}"
 
 # game/UpdateScript0.02.rpy:3320
 translate turkish sidneyspycamroomhorny_d25550e2:
 
     # ST "{i}If I'm not fingering my sister's ass, I'm grabbing my brother's cock.{/i}"
-    ""
+    ST "{i}Eğer kız kardeşimin götünü parmaklamıyorsam, erkek kardeşimin sikini avuçluyorumdur.{/i}"
 
 # game/UpdateScript0.02.rpy:3333
 translate turkish sidneyspycamroomhorny_43c2c39c:
 
     # ST "{i}And what I did to my own mother! What has come over me?{/i}"
-    ""
+    ST "{i}Ve kendi anneme yaptığım şey! Bana ne oldu böyle?{/i}"
 
 # game/UpdateScript0.02.rpy:3346
 translate turkish sidneyspycamroomhorny_d9d3de37:
 
     # ST "{i}I don't even know which one turns me on more.{/i}"
-    ""
+    ST "{i}Hangisinin beni daha çok tahrik ettiğini bile bilmiyorum.{/i}"
 
 # game/UpdateScript0.02.rpy:3347
 translate turkish sidneyspycamroomhorny_e2589085:
 
     # ST "{i}I think [ryan]'s cock!{/i}"
-    ""
+    ST "{i}Sanırım [ryan] sikiyle daha çok tahrik ediyor!{/i}"
 
 # game/UpdateScript0.02.rpy:3360
 translate turkish sidneyspycamroomhorny_253ece02:
 
     # ST "{i}It's just so big, what would it feel like to be impaled on that pole?{/i}"
-    ""
+    ST "{i}O kadar büyük ki, o direğe oturmak nasıl bir his olurdu?{/i}"
 
 # game/UpdateScript0.02.rpy:3361
 translate turkish sidneyspycamroomhorny_e2ebe447:
 
     # ST "{i}Aaaaah.... shit!.... That did it!{/i}"
-    ""
+    ST "{i}Aaaaah.... siktir!.... İşte bu!{/i}"
 
 # game/UpdateScript0.02.rpy:3366
 translate turkish sidneyspycamroomhorny_17574173_5:
 
     # ST "{i}Oh my God!.... What's happening?!!{/i}"
-    ""
+    ST "{i}Aman Tanrım!.... Neler oluyor?!!{/i}"
 
 # game/UpdateScript0.02.rpy:3367
 translate turkish sidneyspycamroomhorny_5a86335b_5:
 
     # ST "{i}Can't control.... can't stop.... {/i}"
-    ""
+    ST "{i}Kontrol edemiyorum.... durduramıyorum.... {/i}"
 
 # game/UpdateScript0.02.rpy:3372
 translate turkish sidneyspycamroomhorny_3363ab48:
 
     # ST "{i}What was that? Did I just piss myself? Was that a real squirt?{/i}"
-    ""
+    ST "{i}O da neydi öyle? Altıma mı işedim yoksa bu gerçek bir boşalma mıydı?{/i}"
 
 # game/UpdateScript0.02.rpy:3373
 translate turkish sidneyspycamroomhorny_01ed956a:
 
     # ST "{i}I've never done that before!{/i}"
-    ""
+    ST "{i}Bunu daha önce hiç yaşamamıştım!{/i}"
 
 # game/UpdateScript0.02.rpy:3374
 translate turkish sidneyspycamroomhorny_f208b49a:
 
     # ST "{i}Shit! Thinking of [ryan]'s dick just gave me the best orgasm of my life!{/i}"
-    ""
+    ST "{i}Siktir! Kardeşimin sikini düşünmek bana hayatımın en iyi orgazmını yaşattı!{/i}"
 
 # game/UpdateScript0.02.rpy:3375
 translate turkish sidneyspycamroomhorny_9e3dfeab:
 
     # ST "{i}It's just fantasy Sidney, that little twerp better never try anything at all on me.{/i}"
-    ""
+    ST "{i}Bu sadece fantezi Sidney, o küçük ahmak benim üzerimde hiçbir şey denemese iyi olur.{/i}"
 
 # game/UpdateScript0.02.rpy:3376
 translate turkish sidneyspycamroomhorny_71629d66:
 
     # ST "{i}Why would I even think he would? Am I worried that I'd like it?{/i}"
-    ""
+    ST "{i}Neden öyle düşüneyim ki? Hoşuma gideceğinden mi endişeleniyorum?{/i}"
 
 # game/UpdateScript0.02.rpy:3378
 translate turkish sidneyspycamroomhorny_dd857f6d_5:
@@ -7336,31 +7336,31 @@ translate turkish sidneyspycamroomhorny_9dd5f8cf_5:
 translate turkish sidneyspycamroomhorny_0375956e_1:
 
     # ST "{i}It doesn't help that I'm sharing his bed.{/i}"
-    ""
+    ST "{i}Onunla aynı yatağı paylaşmamın bir faydası yok.{/i}"
 
 # game/UpdateScript0.02.rpy:3384
 translate turkish sidneyspycamroomhorny_59c153b6_5:
 
     # RT "{i}Mom must be doing a lot of extra laundry with all the girls squirting all over their beds.{/i}"
-    ""
+    RT "{i}Bütün kızlar yataklarına boşaldığı için annem fazladan çamaşır yıkıyor olmalı.{/i}"
 
 # game/UpdateScript0.02.rpy:3385
 translate turkish sidneyspycamroomhorny_cc9874e5_5:
 
     # RT "{i}Not to mention what I do in mine.{/i}"
-    ""
+    RT "{i}Benimkinde ne yaptığımdan bahsetmiyorum bile.{/i}"
 
 # game/UpdateScript0.02.rpy:3387
 translate turkish sidneyspycamroomhorny_1346ff7c_5:
 
     # RT "{i}And that makes 3 for 3.{/i}"
-    ""
+    RT "{i}Ve bu da 3'te 3 yapar.{/i}"
 
 # game/UpdateScript0.02.rpy:3388
 translate turkish sidneyspycamroomhorny_42be0526_5:
 
     # RT "{i}Is it something Mom's feeding them?{/i}"
-    ""
+    RT "{i}Annemin onlara yedirdiği bir şey yüzünden mi?{/i}"
 
 # game/UpdateScript0.02.rpy:3390
 translate turkish sidneyspycamroomhorny_79bf771e_5:
@@ -8416,7 +8416,7 @@ translate turkish emptywarehouse_6dcb9fdf:
 translate turkish emptywarehouse_9484f841:
 
     # "{i}{b}\"Lauren's Anger +1\"{/b}{/i}"
-    ""
+    "{i}{b}\"Lauren'in kızgınlığı +1\"{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:3749
 translate turkish emptywarehouse_2e857366:
@@ -9344,7 +9344,7 @@ translate turkish strings:
 
     # game/UpdateScript0.02.rpy:929
     old "Have a good time at the convention!"
-    new "Kongrede iyi eğlenceler!"
+    new "Etkinlikte iyi eğlenceler!"
 
     # game/UpdateScript0.02.rpy:985
     old "Set up new spy-cam."
