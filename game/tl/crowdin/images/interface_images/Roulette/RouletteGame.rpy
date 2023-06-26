@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-03 11:46
+﻿# TODO: Translation updated at 2023-06-26 18:52
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:607
 translate crowdin test_feb4bc5b:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-01 22:29
+﻿# TODO: Translation updated at 2023-06-26 18:52
 
 # game/UpdateScriptChristmasEvent.rpy:247
 translate crowdin xmas_dream_387f76a6:
@@ -889,10 +889,10 @@ translate crowdin xmas_present_82ea9983:
     S "(sleepily muttering).... ohhhhh.... [ryan].... since when do you like eating ass?.... That feels soooo good!"
 
 # game/UpdateScriptChristmasEvent.rpy:509
-translate crowdin xmas_present_cddbe70d:
+translate crowdin xmas_present_95e3c8d2:
 
-    # R "And why is it ok for you to be sexually depraved, but you want to stop me from doing just that."
-    R "And why is it ok for you to be sexually depraved, but you want to stop me from doing just that."
+    # R "And why is it okay for you to be sexually depraved, but you want to stop me from doing just that."
+    R "And why is it okay for you to be sexually depraved, but you want to stop me from doing just that."
 
 # game/UpdateScriptChristmasEvent.rpy:512
 translate crowdin xmas_present_69b1c2ea:
@@ -1663,10 +1663,10 @@ translate crowdin xmas_future_b41c9d22:
     M "I know you've heard of conjugal visits."
 
 # game/UpdateScriptChristmasEvent.rpy:708
-translate crowdin xmas_future_f2bc701c:
+translate crowdin xmas_future_3a9412b9:
 
-    # R "And you're ok raising him as a single mom?"
-    R "And you're ok raising him as a single mom?"
+    # R "And you're okay raising him as a single mom?"
+    R "And you're okay raising him as a single mom?"
 
 # game/UpdateScriptChristmasEvent.rpy:709
 translate crowdin xmas_future_39f6d57d:
@@ -3781,10 +3781,10 @@ translate crowdin cookies_in_oven_7bc564e4:
     R "What?!.... Are you serious!?"
 
 # game/UpdateScriptChristmasEvent.rpy:1440
-translate crowdin cookies_in_oven_27439301:
+translate crowdin cookies_in_oven_3f064831:
 
-    # R "And I was ok with this?"
-    R "And I was ok with this?"
+    # R "And I was okay with this?"
+    R "And I was okay with this?"
 
 # game/UpdateScriptChristmasEvent.rpy:1441
 translate crowdin cookies_in_oven_1fd9872f:
@@ -4135,10 +4135,10 @@ translate crowdin cookies_in_oven_8f1622e6:
     RT "{i}Thanks.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1517
-translate crowdin cookies_in_oven_dc96db1f:
+translate crowdin cookies_in_oven_1505a4e6:
 
-    # R "And are you ok with getting pregnant from your brother?"
-    R "And are you ok with getting pregnant from your brother?"
+    # R "And are you okay with getting pregnant from your brother?"
+    R "And are you okay with getting pregnant from your brother?"
 
 # game/UpdateScriptChristmasEvent.rpy:1518
 translate crowdin cookies_in_oven_f4dba509:
@@ -4273,10 +4273,10 @@ translate crowdin cookies_in_oven_a7bbc898:
     L "When it happened though, It just made me happy!"
 
 # game/UpdateScriptChristmasEvent.rpy:1546
-translate crowdin cookies_in_oven_ca1412d8:
+translate crowdin cookies_in_oven_96b2c866:
 
-    # L "And I'm so glad that you're ok with being a daddy!"
-    L "And I'm so glad that you're ok with being a daddy!"
+    # L "And I'm so glad that you're okay with being a daddy!"
+    L "And I'm so glad that you're okay with being a daddy!"
 
 # game/UpdateScriptChristmasEvent.rpy:1548
 translate crowdin cookies_in_oven_0994739e:
@@ -5653,10 +5653,10 @@ translate crowdin christmas_shoot_0b2b81d3:
     LT "{i}I kind of do.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1893
-translate crowdin christmas_shoot_55a83b56:
+translate crowdin christmas_shoot_192187d7:
 
-    # S "Uuuhhh.... ok Lauren.... let's.... get.... into position."
-    S "Uuuhhh.... ok Lauren.... let's.... get.... into position."
+    # S "Uuuhhh.... okay Lauren.... let's.... get.... into position."
+    S "Uuuhhh.... okay Lauren.... let's.... get.... into position."
 
 # game/UpdateScriptChristmasEvent.rpy:1897
 translate crowdin christmas_shoot_f53eaa6f:
@@ -5683,10 +5683,10 @@ translate crowdin christmas_shoot_1c0ca9e8:
     R "Great! Now move the dildo a little closer."
 
 # game/UpdateScriptChristmasEvent.rpy:1905
-translate crowdin christmas_shoot_d1b8db6f:
+translate crowdin christmas_shoot_c92d2e64:
 
-    # R "And if Lauren's ok with it, just kind of prod and push the dildo between her thigh gap."
-    R "And if Lauren's ok with it, just kind of prod and push the dildo between her thigh gap."
+    # R "And if Lauren's okay with it, just kind of prod and push the dildo between her thigh gap."
+    R "And if Lauren's okay with it, just kind of prod and push the dildo between her thigh gap."
 
 # game/UpdateScriptChristmasEvent.rpy:1906
 translate crowdin christmas_shoot_ddf72a39:
@@ -6007,10 +6007,10 @@ translate crowdin christmas_shoot_f2ab2857:
     L "Oh, my fuck!..."
 
 # game/UpdateScriptChristmasEvent.rpy:1983
-translate crowdin christmas_shoot_7b4188c4:
+translate crowdin christmas_shoot_7b68c98d:
 
-    # R "Are you ok over there?"
-    R "Are you ok over there?"
+    # R "Are you okay over there?"
+    R "Are you okay over there?"
 
 # game/UpdateScriptChristmasEvent.rpy:1984
 translate crowdin christmas_shoot_9005b5b9:
@@ -7315,10 +7315,10 @@ translate crowdin christmas_shoot_0b2b81d3_1:
     LT "{i}I kind of do.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:2311
-translate crowdin christmas_shoot_b1735579:
+translate crowdin christmas_shoot_17e5ef7c:
 
-    # S "Uuuhhh.... ok Lauren.... let's get.... into position."
-    S "Uuuhhh.... ok Lauren.... let's get.... into position."
+    # S "Uuuhhh.... okay Lauren.... let's get.... into position."
+    S "Uuuhhh.... okay Lauren.... let's get.... into position."
 
 # game/UpdateScriptChristmasEvent.rpy:2315
 translate crowdin christmas_shoot_f53eaa6f_1:
@@ -7681,10 +7681,10 @@ translate crowdin christmas_shoot_f2ab2857_1:
     L "Oh, my fuck!..."
 
 # game/UpdateScriptChristmasEvent.rpy:2403
-translate crowdin christmas_shoot_7b4188c4_1:
+translate crowdin christmas_shoot_7b68c98d_1:
 
-    # R "Are you ok over there?"
-    R "Are you ok over there?"
+    # R "Are you okay over there?"
+    R "Are you okay over there?"
 
 # game/UpdateScriptChristmasEvent.rpy:2404
 translate crowdin christmas_shoot_9005b5b9_1:

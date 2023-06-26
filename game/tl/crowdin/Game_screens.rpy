@@ -1,32 +1,36 @@
-﻿# TODO: Translation updated at 2022-12-01 22:29
+﻿# TODO: Translation updated at 2023-06-26 18:52
 
 translate crowdin strings:
 
-    # game/Game_screens.rpy:59
+    # game/Game_screens.rpy:77
     old " My\nRoom"
     new " My\nRoom"
 
-    # game/Game_screens.rpy:77
+    # game/Game_screens.rpy:115
     old "Bath"
     new "Bath"
 
-    # game/Game_screens.rpy:110
+    # game/Game_screens.rpy:191
+    old "Yard"
+    new "Yard"
+
+    # game/Game_screens.rpy:200
     old "City"
     new "City"
 
-    # game/Game_screens.rpy:125
+    # game/Game_screens.rpy:220
     old "Hallway"
     new "Hallway"
 
-    # game/Game_screens.rpy:134
+    # game/Game_screens.rpy:229
     old "Class"
     new "Class"
 
-    # game/Game_screens.rpy:152
+    # game/Game_screens.rpy:247
     old "{size=29} {/size}Girls\nLocker\n{size=25} {/size}Room"
     new "{size=29} {/size}Girls\nLocker\n{size=25} {/size}Room"
 
-    # game/Game_screens.rpy:208
+    # game/Game_screens.rpy:303
     old "Campaign\n   HQ"
     new "Campaign\n   HQ"
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-01 22:29
+﻿# TODO: Translation updated at 2023-06-26 18:52
 
 # game/UpdateScript0.04.rpy:320
 translate crowdin get_sidney_modeling_68a39f05:
@@ -4723,10 +4723,10 @@ translate crowdin aunt_clean_lounge_26242890:
     CT "{i}At least it's not as bad as letting him fuck my tits.{/i}"
 
 # game/UpdateScript0.04.rpy:2014
-translate crowdin aunt_clean_lounge_945817e2:
+translate crowdin aunt_clean_lounge_9814e79a:
 
-    # CT "{I}At least it's not as bad as when I jerked him off.{/i}"
-    CT "{I}At least it's not as bad as when I jerked him off.{/i}"
+    # CT "{i}At least it's not as bad as when I jerked him off.{/i}"
+    CT "{i}At least it's not as bad as when I jerked him off.{/i}"
 
 # game/UpdateScript0.04.rpy:2017
 translate crowdin aunt_clean_lounge_cce4399c:
@@ -5011,10 +5011,10 @@ translate crowdin aunt_clean_lounge_26242890_1:
     CT "{i}At least it's not as bad as letting him fuck my tits.{/i}"
 
 # game/UpdateScript0.04.rpy:2097
-translate crowdin aunt_clean_lounge_945817e2_1:
+translate crowdin aunt_clean_lounge_9814e79a_1:
 
-    # CT "{I}At least it's not as bad as when I jerked him off.{/i}"
-    CT "{I}At least it's not as bad as when I jerked him off.{/i}"
+    # CT "{i}At least it's not as bad as when I jerked him off.{/i}"
+    CT "{i}At least it's not as bad as when I jerked him off.{/i}"
 
 # game/UpdateScript0.04.rpy:2100
 translate crowdin aunt_clean_lounge_cce4399c_1:
@@ -7063,10 +7063,10 @@ translate crowdin assign_chores_9fa304eb:
     R "Well, first off, do you really need to be drinking right before work? How many glasses have you even had?"
 
 # game/UpdateScript0.04.rpy:2776
-translate crowdin assign_chores_e683debe:
+translate crowdin assign_chores_fe0e6651:
 
-    # C "I'm a grown-ass woman, and I don't need my little power hungry nephew to be telling me when it's ok to drink."
-    C "I'm a grown-ass woman, and I don't need my little power hungry nephew to be telling me when it's ok to drink."
+    # C "I'm a grown-ass woman, and I don't need my little power hungry nephew to be telling me when it's okay to drink."
+    C "I'm a grown-ass woman, and I don't need my little power hungry nephew to be telling me when it's okay to drink."
 
 # game/UpdateScript0.04.rpy:2777
 translate crowdin assign_chores_5394e326:
@@ -8251,10 +8251,10 @@ translate crowdin aunt_clean_kitchen_68aa67a5:
     C "What is the matter with you?"
 
 # game/UpdateScript0.04.rpy:3134
-translate crowdin aunt_clean_kitchen_3303aa02:
+translate crowdin aunt_clean_kitchen_fda8e8cd:
 
-    # C "How are you ok with perving on your own aunt?"
-    C "How are you ok with perving on your own aunt?"
+    # C "How are you okay with perving on your own aunt?"
+    C "How are you okay with perving on your own aunt?"
 
 # game/UpdateScript0.04.rpy:3135
 translate crowdin aunt_clean_kitchen_63ba2919:
@@ -9049,10 +9049,10 @@ translate crowdin aunt_clean_kitchen_68aa67a5_1:
     C "What is the matter with you?"
 
 # game/UpdateScript0.04.rpy:3401
-translate crowdin aunt_clean_kitchen_3303aa02_1:
+translate crowdin aunt_clean_kitchen_fda8e8cd_1:
 
-    # C "How are you ok with perving on your own aunt?"
-    C "How are you ok with perving on your own aunt?"
+    # C "How are you okay with perving on your own aunt?"
+    C "How are you okay with perving on your own aunt?"
 
 # game/UpdateScript0.04.rpy:3402
 translate crowdin aunt_clean_kitchen_63ba2919_1:
@@ -9871,10 +9871,10 @@ translate crowdin aunt_clean_kitchen_1914a61d:
     C "Where the hell do you get the courage to ask me something like that?"
 
 # game/UpdateScript0.04.rpy:3668
-translate crowdin aunt_clean_kitchen_66c58422:
+translate crowdin aunt_clean_kitchen_2465c2dd:
 
-    # C "How could you ever think that I would be ok with that?"
-    C "How could you ever think that I would be ok with that?"
+    # C "How could you ever think that I would be okay with that?"
+    C "How could you ever think that I would be okay with that?"
 
 # game/UpdateScript0.04.rpy:3670
 translate crowdin aunt_clean_kitchen_38ef02cf:
@@ -14209,10 +14209,10 @@ translate crowdin removeshorts_78234501:
     R "Ok.... ok.... It doesn't matter cuz it will look sexy as hell once the background is photo-shopped in."
 
 # game/UpdateScript0.04.rpy:5157
-translate crowdin removeshorts_84b442da:
+translate crowdin removeshorts_609915a4:
 
-    # R "You ok to keep going?"
-    R "You ok to keep going?"
+    # R "You okay to keep going?"
+    R "You okay to keep going?"
 
 # game/UpdateScript0.04.rpy:5158
 translate crowdin removeshorts_c59edf16:
@@ -18523,10 +18523,10 @@ translate crowdin wr_gape_3e45e31c:
     R "But as it is, I need to make money. And I don't have any talents or skills to get a job that pays us what we need."
 
 # game/UpdateScript0.04.rpy:6364
-translate crowdin wr_gape_7bc23b5c:
+translate crowdin wr_gape_0a78c3cb:
 
-    # R "I'm good at photography.... I'm ok at photo-shopping, and Zad3d modelling, and I'm getting better. We're already making some money from Lauren and Mandy's pictures."
-    R "I'm good at photography.... I'm ok at photo-shopping, and Zad3d modelling, and I'm getting better. We're already making some money from Lauren and Mandy's pictures."
+    # R "I'm good at photography.... I'm okay at photo-shopping, and Zad3d modelling, and I'm getting better. We're already making some money from Lauren and Mandy's pictures."
+    R "I'm good at photography.... I'm okay at photo-shopping, and Zad3d modelling, and I'm getting better. We're already making some money from Lauren and Mandy's pictures."
 
 # game/UpdateScript0.04.rpy:6365
 translate crowdin wr_gape_fb881902:
@@ -19195,10 +19195,10 @@ translate crowdin wr_gape_95428694:
     R "Yeah?"
 
 # game/UpdateScript0.04.rpy:6614
-translate crowdin wr_gape_a1ee80c3:
+translate crowdin wr_gape_cb4acb0a:
 
-    # S "I guess it would be ok for you to post that ass-hole wink picture."
-    S "I guess it would be ok for you to post that ass-hole wink picture."
+    # S "I guess it would be okay for you to post that ass-hole wink picture."
+    S "I guess it would be okay for you to post that ass-hole wink picture."
 
 # game/UpdateScript0.04.rpy:6615
 translate crowdin wr_gape_3c541bda:

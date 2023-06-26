@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-01 22:29
+﻿# TODO: Translation updated at 2023-06-26 18:52
 
 # game/UpdateScript0.03.rpy:466
 translate crowdin posting_the_htbyd_pics_99f2fd00:
@@ -25,10 +25,10 @@ translate crowdin posting_the_htbyd_pics_6e5a373c:
     RT "{i}I've got to be sure to check the website sometime tomorrow.{/i}"
 
 # game/UpdateScript0.03.rpy:492
-translate crowdin posting_the_htbyd_pics_e3690255:
+translate crowdin posting_the_htbyd_pics_56145a8e:
 
-    # RT "{b}(HINT){/b} {i}I can't believe Lauren's ok with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
-    RT "{b}(HINT){/b} {i}I can't believe Lauren's ok with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
+    # RT "{b}(HINT){/b} {i}I can't believe Lauren's okay with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
+    RT "{b}(HINT){/b} {i}I can't believe Lauren's okay with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
 
 # game/UpdateScript0.03.rpy:514
 translate crowdin posting_the_htbyd_pics_6876a73c:
@@ -1405,10 +1405,10 @@ translate crowdin firstloyaltyweekend_4931d756:
     RT "{i}Oh, no.... it looks like Mom has started drinking early this morning.{/i}"
 
 # game/UpdateScript0.03.rpy:959
-translate crowdin firstloyaltyweekend_e0429891:
+translate crowdin firstloyaltyweekend_45c67f46:
 
-    # R "Hey Mom, is everything ok this morning?"
-    R "Hey Mom, is everything ok this morning?"
+    # R "Hey Mom, is everything okay this morning?"
+    R "Hey Mom, is everything okay this morning?"
 
 # game/UpdateScript0.03.rpy:962
 translate crowdin firstloyaltyweekend_e8c2a5b4:
@@ -2635,10 +2635,10 @@ translate crowdin bikinishow_e12ffb5d:
     R "Ummm.... yeah.... I think it's not.... too.... bad..."
 
 # game/UpdateScript0.03.rpy:1338
-translate crowdin bikinishow_ea91ac95:
+translate crowdin bikinishow_42107488:
 
-    # M "You doing ok back there [ryan]?"
-    M "You doing ok back there [ryan]?"
+    # M "You doing okay back there [ryan]?"
+    M "You doing okay back there [ryan]?"
 
 # game/UpdateScript0.03.rpy:1339
 translate crowdin bikinishow_f7d8b475:
@@ -4417,10 +4417,10 @@ translate crowdin ryan_and_lauren_fcaf8732:
     L "Hahah.... you'd better run and get ready for school. I'm already halfway dressed."
 
 # game/UpdateScript0.03.rpy:1968
-translate crowdin ryan_and_lauren_e3690255:
+translate crowdin ryan_and_lauren_56145a8e:
 
-    # RT "{b}(HINT){/b} {i}I can't believe Lauren's ok with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
-    RT "{b}(HINT){/b} {i}I can't believe Lauren's ok with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
+    # RT "{b}(HINT){/b} {i}I can't believe Lauren's okay with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
+    RT "{b}(HINT){/b} {i}I can't believe Lauren's okay with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
 
 # game/UpdateScript0.03.rpy:1980
 translate crowdin ryan_and_lauren_b7459628:
@@ -6325,10 +6325,10 @@ translate crowdin clubpool_ad643c90_3:
     M "Okay, I think I'm ready."
 
 # game/UpdateScript0.03.rpy:2774
-translate crowdin clubpool_b5eeb767:
+translate crowdin clubpool_64230153:
 
-    # R "Mom, is it ok to swim after drinking?"
-    R "Mom, is it ok to swim after drinking?"
+    # R "Mom, is it okay to swim after drinking?"
+    R "Mom, is it okay to swim after drinking?"
 
 # game/UpdateScript0.03.rpy:2775
 translate crowdin clubpool_436efea8:
@@ -14089,10 +14089,10 @@ translate crowdin htbyd_closeups_d7d93648:
     R "This feels so right."
 
 # game/UpdateScript0.03.rpy:5847
-translate crowdin htbyd_closeups_aaafb688:
+translate crowdin htbyd_closeups_ffb0eddf:
 
-    # L "[ryan]? I know I said we shouldn't go any farther, but it's ok if we just go as far as we did before right?"
-    L "[ryan]? I know I said we shouldn't go any farther, but it's ok if we just go as far as we did before right?"
+    # L "[ryan]? I know I said we shouldn't go any farther, but it's okay if we just go as far as we did before right?"
+    L "[ryan]? I know I said we shouldn't go any farther, but it's okay if we just go as far as we did before right?"
 
 # game/UpdateScript0.03.rpy:5848
 translate crowdin htbyd_closeups_f1f6ce0c:

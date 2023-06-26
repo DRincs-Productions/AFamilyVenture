@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-01 22:29
+﻿# TODO: Translation updated at 2023-06-26 18:52
 
 # game/KoopaComish.rpy:85
 translate crowdin koopa_scene_29ee671b:
@@ -1939,10 +1939,10 @@ translate crowdin koopa_scene_6c4c1f29:
     S "Don't be so rough with her!"
 
 # game/KoopaComish.rpy:619
-translate crowdin koopa_scene_4f58d6e1:
+translate crowdin koopa_scene_dc471653:
 
-    # M "It's ok Sidney, I'm fine."
-    M "It's ok Sidney, I'm fine."
+    # M "It's okay Sidney, I'm fine."
+    M "It's okay Sidney, I'm fine."
 
 # game/KoopaComish.rpy:620
 translate crowdin koopa_scene_159f0936:
@@ -1987,10 +1987,10 @@ translate crowdin koopa_scene_7848dc8d:
     MT "{i}I've got to try and hold this orgasm in!{/i}"
 
 # game/KoopaComish.rpy:635
-translate crowdin koopa_scene_907f74bd:
+translate crowdin koopa_scene_817298a6:
 
-    # MT "{i}Shit!... I can't hold it!"
-    MT "{i}Shit!... I can't hold it!"
+    # MT "{i}Shit!... I can't hold it!{/i}"
+    MT "{i}Shit!... I can't hold it!{/i}"
 
 # game/KoopaComish.rpy:642
 translate crowdin koopa_scene_c9ffa6e7:

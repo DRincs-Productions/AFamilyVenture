@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-01 22:29
+﻿# TODO: Translation updated at 2023-06-26 18:52
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2269
 translate crowdin input_money_9c2e4d68:
@@ -48,25 +48,25 @@ translate crowdin info_spy_cams_4be81734:
     # DS "To set up the spy cams in the rooms you must first have the 'progress >= 6' (after the event when Sidney comes home) and as an extra condition to set the camera in Lauren's room you must have 'sidneyfingerlaurenprogress > 4' (Sidney must move out of her room)."
     DS "To set up the spy cams in the rooms you must first have the 'progress >= 6' (after the event when Sidney comes home) and as an extra condition to set the camera in Lauren's room you must have 'sidneyfingerlaurenprogress > 4' (Sidney must move out of her room)."
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2441
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2443
 translate crowdin adv_rest_jump_24ddb230:
 
     # RT "{i}School has ended, I must return home{/i}"
     RT "{i}School has ended, I must return home{/i}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2449
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2451
 translate crowdin adv_rest_jump_24ddb230_1:
 
     # RT "{i}School has ended, I must return home{/i}"
     RT "{i}School has ended, I must return home{/i}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2455
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2457
 translate crowdin adv_rest_jump_24ddb230_2:
 
     # RT "{i}School has ended, I must return home{/i}"
     RT "{i}School has ended, I must return home{/i}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2461
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2463
 translate crowdin adv_rest_jump_24ddb230_3:
 
     # RT "{i}School has ended, I must return home{/i}"

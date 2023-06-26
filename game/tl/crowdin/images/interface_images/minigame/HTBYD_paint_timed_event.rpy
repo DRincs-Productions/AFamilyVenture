@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-03 11:46
+﻿# TODO: Translation updated at 2023-06-26 18:52
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:126
 translate crowdin HTBYD_game_start_lbl_2bc58679:
@@ -19,10 +19,10 @@ translate crowdin HTBYD_game_start_lbl_f8e32db7:
     MS "I'm... It's... Well..."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:129
-translate crowdin HTBYD_game_start_lbl_f05ea3fd:
+translate crowdin HTBYD_game_start_lbl_b68b5762:
 
-    # MS "Is Lauren ok with this?"
-    MS "Is Lauren ok with this?"
+    # MS "Is Lauren okay with this?"
+    MS "Is Lauren okay with this?"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:130
 translate crowdin HTBYD_game_start_lbl_d597c159:
