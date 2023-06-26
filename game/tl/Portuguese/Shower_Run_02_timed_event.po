@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2022-12-03 13:00\n"
+"PO-Revision-Date: 2023-05-21 17:00\n"
 
 # TODO: Translation updated at 2022-12-03 11:46 #|#|# # game/images/interface_images/minigame/Shower_Run_02_timed_event.rpy:126 #-#-# translate crowdin Shower_Run02_game_start_lbl_ab1a7de6:
 msgid "[_RT_] {i}Ok... Don't panic!... I've just got to sneak past them too.{/i}"
@@ -26,7 +26,7 @@ msgstr "[_RT_] {i}Eu tenho dessa vez.{/i}"
 
 # game/images/interface_images/minigame/Shower_Run_02_timed_event.rpy:130 #-#-# translate crowdin Shower_Run02_game_start_lbl_93504167:
 msgid "[_RT_] {i}At least I get to sneak another peek.{/i}"
-msgstr ""
+msgstr "Pelo menos eu consigo dar outra espiada"
 
 # game/images/interface_images/minigame/Shower_Run_02_timed_event.rpy:143 #-#-# translate crowdin Shower_Run02_game_end_lbl_87277f79:
 msgid "[_RT_] {i}I made it!{/i}"

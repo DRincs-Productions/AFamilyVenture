@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-12-24 14:54\n"
+"PO-Revision-Date: 2023-06-26 17:10\n"
 
-# TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/UpdateScriptHalloweenEvent.rpy:256 #-#-# translate crowdin halloween_event_start_36b1bdbb:
+# TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScriptHalloweenEvent.rpy:256 #-#-# translate crowdin halloween_event_start_36b1bdbb:
 msgid "{i}{b}(HINT){/b} Happy Halloween!{/i}"
 msgstr ""
 
@@ -76,8 +76,8 @@ msgstr ""
 msgid "[_RT_] {i}Sidney!{/i}"
 msgstr ""
 
-# game/UpdateScriptHalloweenEvent.rpy:329 #-#-# translate crowdin scary_wakeup_ef9d9ff9:
-msgid "[_RT_] {i}Oh, thank God!... It really was just a nightmare after all!"
+# game/UpdateScriptHalloweenEvent.rpy:329 #-#-# translate crowdin scary_wakeup_4f3e9e23:
+msgid "[_RT_] {i}Oh, thank God!... It really was just a nightmare after all!{/i}"
 msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:330 #-#-# translate crowdin scary_wakeup_05973042:
@@ -136,8 +136,8 @@ msgstr ""
 msgid "[_ST_] {i}I don't care if Mr. Peterson is a decorated war vet, he shouldn't be grabbing girls in the park!{/i}"
 msgstr ""
 
-# game/UpdateScriptHalloweenEvent.rpy:391 #-#-# translate crowdin sidney_mirror_slime_1b024915:
-msgid "[_ST_] {i}And that wasn't even late at night!"
+# game/UpdateScriptHalloweenEvent.rpy:391 #-#-# translate crowdin sidney_mirror_slime_c58ec1c3:
+msgid "[_ST_] {i}And that wasn't even late at night!{/i}"
 msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:398 #-#-# translate crowdin sidney_mirror_slime_d1749759:
@@ -172,8 +172,8 @@ msgstr ""
 msgid "[_ST_] {i}It feels like spooge.{/i}"
 msgstr ""
 
-# game/UpdateScriptHalloweenEvent.rpy:418 #-#-# translate crowdin sidney_mirror_slime_850f6365:
-msgid "[_ST_] {i}Did [ryan] blast the mirror and nobody noticed?"
+# game/UpdateScriptHalloweenEvent.rpy:418 #-#-# translate crowdin sidney_mirror_slime_a4c77eff:
+msgid "[_ST_] {i}Did [ryan] blast the mirror and nobody noticed?{/i}"
 msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:419 #-#-# translate crowdin sidney_mirror_slime_2a7345fd:
@@ -588,8 +588,8 @@ msgstr ""
 msgid "[_S_] Aaarch... Lerch..."
 msgstr ""
 
-# game/UpdateScriptHalloweenEvent.rpy:710 #-#-# translate crowdin sidney_loyalty_path_fee21543:
-msgid "[_ST_] {i}What does it want? What is it doing?"
+# game/UpdateScriptHalloweenEvent.rpy:710 #-#-# translate crowdin sidney_loyalty_path_4b6590a3:
+msgid "[_ST_] {i}What does it want? What is it doing?{/i}"
 msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:711 #-#-# translate crowdin sidney_loyalty_path_97a1fbb2:
@@ -640,8 +640,8 @@ msgstr ""
 msgid "[_R_] This might be the end!"
 msgstr ""
 
-# game/UpdateScriptHalloweenEvent.rpy:746 #-#-# translate crowdin sidney_loyalty_path_2a63eca5:
-msgid "[_RT_] {i}Oh, thank God!{i}"
+# game/UpdateScriptHalloweenEvent.rpy:746 #-#-# translate crowdin sidney_loyalty_path_7fec2a48:
+msgid "[_RT_] {i}Oh, thank God!{/i}"
 msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:747 #-#-# translate crowdin sidney_loyalty_path_83d209e9:
@@ -932,8 +932,8 @@ msgstr ""
 msgid "[_S_] Aaarch... Lerch..."
 msgstr ""
 
-# game/UpdateScriptHalloweenEvent.rpy:1007 #-#-# translate crowdin sidney_monster_path_fee21543:
-msgid "[_ST_] {i}What does it want? What is it doing?"
+# game/UpdateScriptHalloweenEvent.rpy:1007 #-#-# translate crowdin sidney_monster_path_4b6590a3:
+msgid "[_ST_] {i}What does it want? What is it doing?{/i}"
 msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:1008 #-#-# translate crowdin sidney_monster_path_97a1fbb2:
@@ -1060,8 +1060,8 @@ msgstr ""
 msgid "[_ST_] {i}[ryan]'s watching you Sidney, Isn't that hot?{/i}"
 msgstr ""
 
-# game/UpdateScriptHalloweenEvent.rpy:1070 #-#-# translate crowdin sidney_monster_path_4a7730b4:
-msgid "[_ST_] {i}Is it?... I'm not... sure."
+# game/UpdateScriptHalloweenEvent.rpy:1070 #-#-# translate crowdin sidney_monster_path_766a1382:
+msgid "[_ST_] {i}Is it?... I'm not... sure.{/i}"
 msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:1073 #-#-# translate crowdin sidney_monster_path_35b5eb37:
@@ -1196,8 +1196,8 @@ msgstr ""
 msgid "[_ST_] {i}A life will begin to grow for sure!{/i}"
 msgstr ""
 
-# game/UpdateScriptHalloweenEvent.rpy:1145 #-#-# translate crowdin sidney_monster_path_89bbe723:
-msgid "[_ST_] {i}Oh... I think I'm gonna..."
+# game/UpdateScriptHalloweenEvent.rpy:1145 #-#-# translate crowdin sidney_monster_path_7f577a48:
+msgid "[_ST_] {i}Oh... I think I'm gonna...{/i}"
 msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:1148 #-#-# translate crowdin sidney_monster_path_b7ba9373:
@@ -1310,7 +1310,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:1230 #-#-# translate crowdin monsters_and_mountains_917370fe:
 msgid "[_R_] I'm afraid so."
-msgstr ""
+msgstr "[_R_] Korkarım ki öyle."
 
 # game/UpdateScriptHalloweenEvent.rpy:1231 #-#-# translate crowdin monsters_and_mountains_fd124381:
 msgid "[_R_] A creature so powerful, that it will take all of your strength, skills, and powers, not to mention, a lot of luck, to defeat."
@@ -1488,8 +1488,8 @@ msgstr ""
 msgid "[_ST_] {i}Am I supposed to tell her that my brother was cleaning out my pussy with his tongue, or that I was getting my womb smashed by his huge cock?{/i}"
 msgstr ""
 
-# game/UpdateScriptHalloweenEvent.rpy:1307 #-#-# translate crowdin monsters_and_mountains_0678fefa:
-msgid "[_ST_] {i}Hurry, brain! Come up with an excuse!"
+# game/UpdateScriptHalloweenEvent.rpy:1307 #-#-# translate crowdin monsters_and_mountains_dd6a859c:
+msgid "[_ST_] {i}Hurry, brain! Come up with an excuse!{/i}"
 msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:1310 #-#-# translate crowdin monsters_and_mountains_8da91fd4:
@@ -1744,16 +1744,16 @@ msgstr ""
 msgid "[_RT_] {i}She always fudges the dice rolls whenever she gets the chance.{/i}"
 msgstr ""
 
-# game/UpdateScriptHalloweenEvent.rpy:1464 #-#-# translate crowdin dice_decision_d83c7a32:
-msgid "[_RT_] {i}What should I do?{i}"
+# game/UpdateScriptHalloweenEvent.rpy:1464 #-#-# translate crowdin dice_decision_3ad23a44:
+msgid "[_RT_] {i}What should I do?{/i}"
 msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:1470 #-#-# translate crowdin dice_decision_ee5067ab:
 msgid "[_RT_] {i}Goddammit! I hope Sidney's ok... Somebody else besides Lauren better find that die!{/i}"
 msgstr ""
 
-# game/UpdateScriptHalloweenEvent.rpy:1478 #-#-# translate crowdin dice_decision_570cd85e:
-msgid "{b}{i}\"Are you sure you're ok with monster sex? If not, you should roll back and choose the other one.\"{/i}{/b}"
+# game/UpdateScriptHalloweenEvent.rpy:1478 #-#-# translate crowdin dice_decision_6a854948:
+msgid "{b}{i}\"Are you sure you're okay with monster sex? If not, you should roll back and choose the other one.\"{/i}{/b}"
 msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:1479 #-#-# translate crowdin dice_decision_fb92f28c:

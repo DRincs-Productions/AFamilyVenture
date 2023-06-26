@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-12-26 18:39\n"
+"PO-Revision-Date: 2023-06-26 17:09\n"
 
-# TODO: Translation updated at 2022-12-01 22:29 #|#|# # game/Cosplay_gallery.rpy:1213 #-#-# translate crowdin cosplay_label_c1f386dd:
+# TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/Cosplay_gallery.rpy:1213 #-#-# translate crowdin cosplay_label_c1f386dd:
 msgid "[_RT_] {i}Yes... I have sold another pair of oufits for $[sold] more.{/i}"
 msgstr "[_RT_] {i}Evet... Bir çift kıyafet daha sattım.[sold] daha fazla.{/i}"
 
@@ -34,7 +34,7 @@ msgstr "[_RT_] {i}Paramı çekmek için ay sonuna kadar beklemeliyim.{/i}"
 
 # game/Cosplay_gallery.rpy:1822 #-#-# translate crowdin income_photoshoot_9eef3851:
 msgid "You have received [new_likes] new likes and earned $[income]!"
-msgstr "[new_likes] yeni beğeni aldınız ve[income]$ kazandınız!"
+msgstr "[new_likes] yeni beğeni aldınız ve [income]$ kazandınız!"
 
 # game/Cosplay_gallery.rpy:1827 #-#-# translate crowdin income_photoshoot_e4c275b3:
 msgid "You have already withdrawn the money that you have earned!"
