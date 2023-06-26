@@ -139,12 +139,4 @@ game/cache
 
 # Templete files
 .renpy-sdk
-*.psd
-*.ttf
-*.rpa
-/renpy
-AFamilyVenture.exe
-AFamilyVenture.sh
-game/script_version.txt
-AFamilyVenture-32.exe
-AFamilyVenture.py
+Wiki
