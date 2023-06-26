@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-06-26 17:07\n"
+"PO-Revision-Date: 2023-06-26 18:30\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/script.rpy:351 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -526,7 +526,7 @@ msgstr "[_RT_] {i}Il mio letto sembra solo senza Sidney."
 
 # game/script.rpy:1429 #-#-# translate crowdin myroomnight_6e41530c:
 msgid "[_RT_] {i}I hope she's okay at the club tonight.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Spero che stia bene al club stasera.{/i}"
 
 # game/script.rpy:1474 #-#-# translate crowdin computer_306f7f3e:
 msgid "[_RT_] {i}WOW! We reached 1000 likes.... {p}And CosplayHeaven just gave us access to a new feature.{/i}"
@@ -670,7 +670,7 @@ msgstr "[_S_] AAHHAAHHAHHHEMMMMM..."
 
 # game/script.rpy:2164 #-#-# translate crowdin sleep_d16b4e81:
 msgid "[_RT_] {i}I hope Lauren was okay on her own, I should just go check on her before I go to bed.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Spero che Lauren sia andata bene da sola, dovrei solo andare a controllare su di lei prima di andare a letto.{/i}"
 
 # game/script.rpy:2446 #-#-# translate crowdin sleep_ac0c56b3:
 msgid "Are you sure you want to sleep until tomorrow?"
@@ -6558,7 +6558,7 @@ msgstr "[_RT_] {i}Farò meglio a non sfidare più la fortuna stasera.{/i}"
 
 # game/script.rpy:8636 #-#-# translate crowdin stripclub_e2fe2196:
 msgid "[_RT_] {i}They'll only let me in while Mom or Sidney are working.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Mi lasceranno entrare solo mentre Mamma o Sidney stanno funzionando.{/i}"
 
 # game/script.rpy:8638 #-#-# translate crowdin stripclub_1bc663a3:
 msgid "[_RT_] {i}They'll only let me in while Mom is working.{/i}"
@@ -8154,7 +8154,7 @@ msgstr "[_RT_] {i}Ecco che se ne va al club.{/i}"
 
 # game/script.rpy:9978 #-#-# translate crowdin momdissapointed_68cce5bc:
 msgid "[_RT_] {i}I wonder if I should go make sure she is okay again.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Mi chiedo se dovrei andare a fare in modo che stia di nuovo bene.{/i}"
 
 # game/script.rpy:9991 #-#-# translate crowdin nightclubbing_09a446a5:
 msgid "[_RT_] {i}I think I remember my way to the strip pole.... {/i}"
