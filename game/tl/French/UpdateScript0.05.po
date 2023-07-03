@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-06-26 17:05\n"
+"PO-Revision-Date: 2023-07-03 16:38\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScript0.05.rpy:476 #-#-# translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -46,7 +46,7 @@ msgstr "[_S_] Mon plaisir.... Maintenant, vas-y!.... Je dois dormir. Le travail 
 
 # game/UpdateScript0.05.rpy:496 #-#-# translate crowdin sidneys_home_late_fd9fe3c7:
 msgid "[_R_] Wait... Sidney?... Was Mom okay at the club tonight?... Did she do anything that she..."
-msgstr ""
+msgstr "[_R_] Attendez... Sidney ?... Maman était bien au club ce soir ?... A-t-elle fait quelque chose qu'elle..."
 
 # game/UpdateScript0.05.rpy:498 #-#-# translate crowdin sidneys_home_late_015af989:
 msgid "[_R_] Wait.... Sidney?.... Arent you going to change first?.... Your clothes smell like alcohol."
@@ -1954,7 +1954,7 @@ msgstr "[_R_] D'accord, je me montrerais alors."
 
 # game/UpdateScript0.05.rpy:1406 #-#-# translate crowdin sidney_search_e63bee68:
 msgid "[_RT_] {i}Why wasn't I more careful with my money this week? I hate how disappointed my mom looks when I fail to pay off the mob.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Pourquoi n'ai-je pas été plus prudent avec mon argent cette semaine ? Je déteste l'air déçu de ma mère lorsque je ne parviens pas à rembourser la mafia.{/i}"
 
 # game/UpdateScript0.05.rpy:1407 #-#-# translate crowdin sidney_search_4aca768f:
 msgid "[_RT_] {i}I hate seeing Mom look so disappointed. And where the hell did I put that money?{/i}"
@@ -6526,7 +6526,7 @@ msgstr "[_R_] D'accord, je m'en vais. Peut-être que je te verrai au club ce soi
 
 # game/UpdateScript0.05.rpy:3697 #-#-# translate crowdin please_go_work_6e21a174:
 msgid "[_ST_] {i}I sure hope everything goes okay tonight. After [ryan]'s warnings about working for the Mafia, I do feel a little nervous.{/i}"
-msgstr ""
+msgstr "[_ST_] {i}J'espère que tout se passera bien ce soir. Après [ryan] se sens un peu nerveux après avoir entendu les mises en garde du commissaire concernant le fait de travailler pour la mafia.{/i}"
 
 # game/UpdateScript0.05.rpy:3698 #-#-# translate crowdin please_go_work_9b6df4ee:
 msgid "[_ST_] {i}I would sure feel better if he comes and sees me.{/i}"
@@ -7706,7 +7706,7 @@ msgstr "[_R_] Désolé.... mais oui.... La vidéo de YourTube disait que c'étai
 
 # game/UpdateScript0.05.rpy:4641 #-#-# translate crowdin fix_washer_98aa3f00:
 msgid "[_MT_] {i}Ok,.... Seems like he's doing okay so far.... {/i}"
-msgstr ""
+msgstr "[_MT_] {i}Ok, .... Il semble qu'il s'en sorte bien jusqu'à présent.... {/i}"
 
 # game/UpdateScript0.05.rpy:4642 #-#-# translate crowdin fix_washer_db98260b:
 msgid "[_M_] How's it coming?"
