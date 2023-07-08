@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-06-26 17:06\n"
+"PO-Revision-Date: 2023-07-08 14:20\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScript0.05.rpy:476 #-#-# translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -10298,7 +10298,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5990 #-#-# translate crowdin park_menu_1d59362d:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}\"Sidney poddanie +1\"{/i}"
 
 # game/UpdateScript0.05.rpy:5991 #-#-# translate crowdin park_menu_6be6e73d_2:
 msgid "{i}{b}\"Sidney's Libido +2\"{/b}{/i}"
