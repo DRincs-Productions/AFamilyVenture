@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-06-26 17:06\n"
+"PO-Revision-Date: 2023-07-08 14:20\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScript0.06.rpy:715 #-#-# translate crowdin move_in_day_31871088:
 msgid "[_RT_] {i}I... think I slept in... What time is it?{/i}"
@@ -17454,7 +17454,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:10192 #-#-# translate crowdin find_sidney_1d59362d:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}\"Sidney poddanie +1\"{/i}"
 
 # game/UpdateScript0.06.rpy:10198 #-#-# translate crowdin find_sidney_b6514ddd:
 msgid "[_S_] Wow, [ryan]! That was amazing!"

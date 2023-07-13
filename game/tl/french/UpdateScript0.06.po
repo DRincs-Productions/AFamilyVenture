@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-06-26 17:05\n"
+"PO-Revision-Date: 2023-07-03 15:34\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScript0.06.rpy:715 #-#-# translate crowdin move_in_day_31871088:
 msgid "[_RT_] {i}I... think I slept in... What time is it?{/i}"
@@ -790,7 +790,7 @@ msgstr "[_RT_] {i}{b}(Indice){/b} Avec la cousine Mandy dans la chambre de Laure
 
 # game/UpdateScript0.06.rpy:1074 #-#-# translate crowdin move_in_day_b4eb769e:
 msgid "[_RT_] {i}{b}(HINT){/b} Cousin Mandy volonteered to help with the yard work. Maybe I should meet her in the Lounge on Saturday Afternoon to help her get started.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(INDICE){/b} La cousine Mandy s'est portée volontaire pour aider à l'entretien du jardin. Je devrais peut-être la rencontrer dans le salon samedi après-midi pour l'aider à démarrer.{/i}"
 
 # game/UpdateScript0.06.rpy:1087 #-#-# translate crowdin posting_ph_pics_99f2fd00:
 msgid "[_RT_] {i}I finally finished the Zad 3D work and photo editing.{/i}"
@@ -3914,7 +3914,7 @@ msgstr "[_M_] Ok, faisons semblant que tout est comme il se doit, agissons norma
 
 # game/UpdateScript0.06.rpy:2925 #-#-# translate crowdin update_six_bfasts_93991c5d:
 msgid "[_R_] Yeah, okay Mom."
-msgstr ""
+msgstr "[_R_] Oui, d'accord, maman."
 
 # game/UpdateScript0.06.rpy:2926 #-#-# translate crowdin update_six_bfasts_fd0a8ddc:
 msgid "[_RT_] {i}I hope so much that Mom dressed like that \"is\" the new normal!{/i}"
@@ -5418,11 +5418,11 @@ msgstr "[_RT_] {i}Eh bien... il ne se passe pas beaucoup d'action ici. Je devrai
 
 # game/UpdateScript0.06.rpy:4106 #-#-# translate crowdin lauren_night_b6fd528c:
 msgid "[_RT_] {i}I don't want to go in there after what happened, and I don't dare look at the spycam stream either.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Je ne veux pas y aller après ce qui s'est passé, et je n'ose pas non plus regarder le flux de la caméra espionne.{/i}"
 
 # game/UpdateScript0.06.rpy:4107 #-#-# translate crowdin lauren_night_d352a945:
 msgid "[_RT_] {i}I should just move on and do something else.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Je devrais aller de l'avant et faire autre chose.{/i}"
 
 # game/UpdateScript0.06.rpy:4115 #-#-# translate crowdin lauren_night_7f9712b0:
 msgid "[_RT_] {i}I've already kept Mandy up super late. I should just let them sleep.{/i}"
@@ -12922,7 +12922,7 @@ msgstr "[_LT_] {i}Merde!... Pourquoi ai-je aimé ça? Qu'est-ce qui ne va pas av
 
 # game/UpdateScript0.06.rpy:8030 #-#-# translate crowdin diaz_is_back_80191b48:
 msgid "[_MD_] Well, besides the fact that I was tied up, gagged, and was spanked raw by my cousin, who was blackmailed into it... {i}(sarcastic tone){/i} Yeah, I'm great!"
-msgstr ""
+msgstr "[_MD_] Outre le fait que j'ai été ligotée, bâillonnée et fessée à vif par mon cousin, à qui l'on a fait du chantage... {i}(ton sarcastique){/i} Oui, je vais très bien !"
 
 # game/UpdateScript0.06.rpy:8031 #-#-# translate crowdin diaz_is_back_0be9ff02:
 msgid "[_MDT_] {i}Shit!... Why did I like that? What is wrong with me?... I wonder if Lauren noticed that my panties were soaked.{/i}"
@@ -13726,7 +13726,7 @@ msgstr "[_R_] Je suis désolé, les filles! Je n'ai tout simplement pas l'argent
 
 # game/UpdateScript0.06.rpy:8489 #-#-# translate crowdin diaz_lauren_and_mandy_bd971f7b:
 msgid "[_RT_] {i}I think Diaz is wrong, they really do seem disappointed...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Je pense que Diaz se trompe, ils semblent vraiment déçus...{/i}"
 
 # game/UpdateScript0.06.rpy:8491 #-#-# translate crowdin diaz_lauren_and_mandy_eb428ec6:
 msgid "[_RT_] {i}Shit!... Maybe I should have just paid Diaz.{/i}"
@@ -14266,7 +14266,7 @@ msgstr "[_LT_] {i}Merde!... Pourquoi ai-je aimé ça? Qu'est-ce qui ne va pas av
 
 # game/UpdateScript0.06.rpy:8716 #-#-# translate crowdin diaz_lauren_and_mandy_80191b48:
 msgid "[_MD_] Well, besides the fact that I was tied up, gagged, and was spanked raw by my cousin, who was blackmailed into it... {i}(sarcastic tone){/i} Yeah, I'm great!"
-msgstr ""
+msgstr "[_MD_] Outre le fait que j'ai été ligotée, bâillonnée et fessée à vif par mon cousin, à qui l'on a fait du chantage... {i}(ton sarcastique){/i} Oui, je vais très bien !"
 
 # game/UpdateScript0.06.rpy:8717 #-#-# translate crowdin diaz_lauren_and_mandy_0be9ff02:
 msgid "[_MDT_] {i}Shit!... Why did I like that? What is wrong with me?... I wonder if Lauren noticed that my panties were soaked.{/i}"
@@ -15282,7 +15282,7 @@ msgstr "[_RT_] {i}Mais, je ne pense pas qu'il y ait quelque chose que je puisse 
 
 # game/UpdateScript0.06.rpy:9183 #-#-# translate crowdin both_caught_6674bde4:
 msgid "[_RT_] {i}{b}(HINT){/b} I need to bring some money to Sidney so she can start on the \"Perry Hotter\" cosplay outfits.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(INDICE){/b} Je dois apporter de l'argent à Sidney pour qu'elle puisse commencer à travailler sur le 'Perry Hotter'. les tenues de cosplay.{/i}"
 
 # game/UpdateScript0.06.rpy:9191 #-#-# translate crowdin both_caught_9c9e7552:
 msgid "[_MG_] Holy fuck!"
@@ -15666,7 +15666,7 @@ msgstr "[_RT_] {i}Aussi excitée que je le suis, je pense que Megan est encore p
 
 # game/UpdateScript0.06.rpy:9366 #-#-# translate crowdin both_caught_6674bde4_1:
 msgid "[_RT_] {i}{b}(HINT){/b} I need to bring some money to Sidney so she can start on the \"Perry Hotter\" cosplay outfits.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(INDICE){/b} Je dois apporter de l'argent à Sidney pour qu'elle puisse commencer à travailler sur le 'Perry Hotter'. les tenues de cosplay.{/i}"
 
 # game/UpdateScript0.06.rpy:9378 #-#-# translate crowdin sid_sex_event_6d9db12e:
 msgid "{i}\"As [ryan] slowly drives his manly scooter to see Sidney at work, a significant event begins to unfold in the alleyway outside the nightclub.\"{/i}"
@@ -18526,19 +18526,19 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:10941 #-#-# translate crowdin candy_danced_again_06da713a:
 msgid "[_CD_] I wish I was getting a good, close look at your huge unit."
-msgstr ""
+msgstr "[_CD_] J'aimerais pouvoir observer de près votre énorme unité."
 
 # game/UpdateScript0.06.rpy:10942 #-#-# translate crowdin candy_danced_again_bfca001d:
 msgid "[_R_] I don't mind whipping it out right here."
-msgstr ""
+msgstr "[_R_] Cela ne me dérange pas de le sortir ici même."
 
 # game/UpdateScript0.06.rpy:10944 #-#-# translate crowdin candy_danced_again_6a998742:
 msgid "[_CD_] You know we can only do that kind of stuff in the VIP room. I'm sorry that it's occupied right now. I'm even more sorry that VIP client didn't request me to be in there."
-msgstr ""
+msgstr "[_CD_] Vous savez que nous ne pouvons faire ce genre de choses que dans la salle VIP. Je suis désolée qu'il soit occupé en ce moment. Je regrette d'autant plus que le client VIP ne m'ait pas demandé d'être présent."
 
 # game/UpdateScript0.06.rpy:10946 #-#-# translate crowdin candy_danced_again_c6d2badf:
 msgid "[_CD_] You know we can only do that kind of stuff in the VIP room. You already had your chance to flop that thing all over the place."
-msgstr ""
+msgstr "[_CD_] Vous savez que nous ne pouvons faire ce genre de choses que dans la salle VIP. Vous avez déjà eu l'occasion de faire tomber cette chose dans tous les sens."
 
 # game/UpdateScript0.06.rpy:10948 #-#-# translate crowdin candy_danced_again_02431598:
 msgid "[_CD_] Sorry buddy. We're not in the VIP room. If you wanted to go in there, you should have said something before I started dancing."
@@ -18742,7 +18742,7 @@ msgstr "[_CD_] Ce n'est certainement pas autorisé ici."
 
 # game/UpdateScript0.06.rpy:11065 #-#-# translate crowdin candy_danced_again_48e1c431:
 msgid "[_RT_] {i}Goddammit, why did the VIP room have to be full?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Bon sang, pourquoi la salle VIP doit-elle être pleine ?{/i}"
 
 # game/UpdateScript0.06.rpy:11067 #-#-# translate crowdin candy_danced_again_6d16c969:
 msgid "[_RT_] {i}If only my visit to the VIP room today didn't just leave me wanting more!{/i}"
@@ -21070,7 +21070,7 @@ msgstr "{i}«Colère de maman +1»{/i}"
 
 # game/UpdateScript0.06.rpy:12371 #-#-# translate crowdin advanced_ph_shoot_continued_1c80183e:
 msgid "[_M_] Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-msgstr ""
+msgstr "[_M_] Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:12374 #-#-# translate crowdin advanced_ph_shoot_continued_e7548a5e:
 msgid "To get Mom to let Megan lick her boot, you need her submission points at 5 or her libido points at 9."
@@ -21098,7 +21098,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:12390 #-#-# translate crowdin advanced_ph_shoot_continued_64cf16b3:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12391 #-#-# translate crowdin advanced_ph_shoot_continued_878899ca:
 msgid "[_M_] You, be quiet."
@@ -21166,7 +21166,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:12417 #-#-# translate crowdin advanced_ph_shoot_continued_64cf16b3_1:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12418 #-#-# translate crowdin advanced_ph_shoot_continued_878899ca_1:
 msgid "[_M_] You, be quiet."
@@ -21258,7 +21258,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:12460 #-#-# translate crowdin advanced_ph_shoot_continued_64cf16b3_2:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12461 #-#-# translate crowdin advanced_ph_shoot_continued_878899ca_2:
 msgid "[_M_] You, be quiet."
@@ -21326,7 +21326,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:12487 #-#-# translate crowdin advanced_ph_shoot_continued_64cf16b3_3:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12488 #-#-# translate crowdin advanced_ph_shoot_continued_878899ca_3:
 msgid "[_M_] You, be quiet."
@@ -21394,7 +21394,7 @@ msgstr "{i}«Colère de maman +1»{/i}"
 
 # game/UpdateScript0.06.rpy:12509 #-#-# translate crowdin advanced_ph_shoot_continued_1c80183e_1:
 msgid "[_M_] Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-msgstr ""
+msgstr "[_M_] Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:12512 #-#-# translate crowdin advanced_ph_shoot_continued_050cb0c7:
 msgid "To get Mom to expose Megan's breasts, you need her submission points at 7 or her libido points at 9."
@@ -21434,7 +21434,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:12531 #-#-# translate crowdin advanced_ph_shoot_continued_64cf16b3_4:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12532 #-#-# translate crowdin advanced_ph_shoot_continued_878899ca_4:
 msgid "[_M_] You, be quiet."
@@ -21518,7 +21518,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:12562 #-#-# translate crowdin advanced_ph_shoot_continued_64cf16b3_5:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12563 #-#-# translate crowdin advanced_ph_shoot_continued_878899ca_5:
 msgid "[_M_] You, be quiet."
@@ -21622,7 +21622,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:12606 #-#-# translate crowdin advanced_ph_shoot_continued_64cf16b3_6:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12607 #-#-# translate crowdin advanced_ph_shoot_continued_878899ca_6:
 msgid "[_M_] You, be quiet."
@@ -21706,7 +21706,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:12637 #-#-# translate crowdin advanced_ph_shoot_continued_64cf16b3_7:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12638 #-#-# translate crowdin advanced_ph_shoot_continued_878899ca_7:
 msgid "[_M_] You, be quiet."
@@ -21778,7 +21778,7 @@ msgstr "{i}«Colère de maman +1»{/i}"
 
 # game/UpdateScript0.06.rpy:12660 #-#-# translate crowdin advanced_ph_shoot_continued_1c80183e_2:
 msgid "[_M_] Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-msgstr ""
+msgstr "[_M_] Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:12663 #-#-# translate crowdin advanced_ph_shoot_continued_6203ee01:
 msgid "To get Mom to tie up and humiliate Megan, you need her submission points at 10 or her libido points at 10."
@@ -21814,7 +21814,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:12681 #-#-# translate crowdin advanced_ph_shoot_continued_64cf16b3_8:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12682 #-#-# translate crowdin advanced_ph_shoot_continued_878899ca_8:
 msgid "[_M_] You, be quiet."
@@ -21894,7 +21894,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:12711 #-#-# translate crowdin advanced_ph_shoot_continued_64cf16b3_9:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12712 #-#-# translate crowdin advanced_ph_shoot_continued_878899ca_9:
 msgid "[_M_] You, be quiet."
@@ -21994,7 +21994,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:12754 #-#-# translate crowdin advanced_ph_shoot_continued_64cf16b3_10:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12755 #-#-# translate crowdin advanced_ph_shoot_continued_878899ca_10:
 msgid "[_M_] You, be quiet."
@@ -22074,7 +22074,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:12784 #-#-# translate crowdin advanced_ph_shoot_continued_64cf16b3_11:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12785 #-#-# translate crowdin advanced_ph_shoot_continued_878899ca_11:
 msgid "[_M_] You, be quiet."
@@ -22146,7 +22146,7 @@ msgstr "{i}«Colère de maman +1»{/i}"
 
 # game/UpdateScript0.06.rpy:12807 #-#-# translate crowdin advanced_ph_shoot_continued_1c80183e_3:
 msgid "[_M_] Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-msgstr ""
+msgstr "[_M_] Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:12810 #-#-# translate crowdin advanced_ph_shoot_continued_acb42131:
 msgid "To get Mom to ball gag Megan, you need her submission points at 14."
@@ -22182,7 +22182,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:12828 #-#-# translate crowdin advanced_ph_shoot_continued_64cf16b3_12:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12829 #-#-# translate crowdin advanced_ph_shoot_continued_878899ca_12:
 msgid "[_M_] You, be quiet."
@@ -22258,7 +22258,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:12855 #-#-# translate crowdin advanced_ph_shoot_continued_64cf16b3_13:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12856 #-#-# translate crowdin advanced_ph_shoot_continued_878899ca_13:
 msgid "[_M_] You, be quiet."
@@ -22370,7 +22370,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:12901 #-#-# translate crowdin advanced_ph_shoot_continued_64cf16b3_14:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12902 #-#-# translate crowdin advanced_ph_shoot_continued_878899ca_14:
 msgid "[_M_] You, be quiet."
@@ -22446,7 +22446,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:12928 #-#-# translate crowdin advanced_ph_shoot_continued_64cf16b3_15:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12929 #-#-# translate crowdin advanced_ph_shoot_continued_878899ca_15:
 msgid "[_M_] You, be quiet."
@@ -22518,7 +22518,7 @@ msgstr "{i}«Colère de maman +1»{/i}"
 
 # game/UpdateScript0.06.rpy:12951 #-#-# translate crowdin advanced_ph_shoot_continued_1c80183e_4:
 msgid "[_M_] Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-msgstr ""
+msgstr "[_M_] Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:12954 #-#-# translate crowdin advanced_ph_shoot_continued_9d752184:
 msgid "To get Mom to spank Megan, you need her submission points at 19."
@@ -22554,7 +22554,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:12972 #-#-# translate crowdin advanced_ph_shoot_continued_64cf16b3_16:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12973 #-#-# translate crowdin advanced_ph_shoot_continued_878899ca_16:
 msgid "[_M_] You, be quiet."
@@ -22626,7 +22626,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:13000 #-#-# translate crowdin advanced_ph_shoot_continued_64cf16b3_17:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13001 #-#-# translate crowdin advanced_ph_shoot_continued_878899ca_17:
 msgid "[_M_] You, be quiet."
@@ -22738,7 +22738,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:13046 #-#-# translate crowdin advanced_ph_shoot_continued_64cf16b3_18:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13047 #-#-# translate crowdin advanced_ph_shoot_continued_878899ca_18:
 msgid "[_M_] You, be quiet."
@@ -22810,7 +22810,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:13074 #-#-# translate crowdin advanced_ph_shoot_continued_64cf16b3_19:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13075 #-#-# translate crowdin advanced_ph_shoot_continued_878899ca_19:
 msgid "[_M_] You, be quiet."
@@ -22882,7 +22882,7 @@ msgstr "{i}«Colère de maman +5»{/i}"
 
 # game/UpdateScript0.06.rpy:13097 #-#-# translate crowdin advanced_ph_shoot_continued_1c80183e_5:
 msgid "[_M_] Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-msgstr ""
+msgstr "[_M_] Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:13100 #-#-# translate crowdin advanced_ph_shoot_continued_5b9541f7:
 msgid "To get Mom to pose naked with Megan, you need her submission points at 25."
@@ -23238,7 +23238,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:13258 #-#-# translate crowdin lick_boots_64cf16b3:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13259 #-#-# translate crowdin lick_boots_878899ca:
 msgid "[_M_] You, be quiet."
@@ -23306,7 +23306,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:13285 #-#-# translate crowdin lick_boots_64cf16b3_1:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13286 #-#-# translate crowdin lick_boots_878899ca_1:
 msgid "[_M_] You, be quiet."
@@ -23394,7 +23394,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:13325 #-#-# translate crowdin lick_boots_64cf16b3_2:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13326 #-#-# translate crowdin lick_boots_878899ca_2:
 msgid "[_M_] You, be quiet."
@@ -23462,7 +23462,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:13352 #-#-# translate crowdin lick_boots_64cf16b3_3:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13353 #-#-# translate crowdin lick_boots_878899ca_3:
 msgid "[_M_] You, be quiet."
@@ -23530,7 +23530,7 @@ msgstr "{i}«Colère de maman +1»{/i}"
 
 # game/UpdateScript0.06.rpy:13376 #-#-# translate crowdin lick_boots_1c80183e:
 msgid "[_M_] Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-msgstr ""
+msgstr "[_M_] Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:13379 #-#-# translate crowdin lick_boots_050cb0c7:
 msgid "To get Mom to expose Megan's breasts, you need her submission points at 7 or her libido points at 9."
@@ -23570,7 +23570,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:13398 #-#-# translate crowdin lick_boots_64cf16b3_4:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13399 #-#-# translate crowdin lick_boots_878899ca_4:
 msgid "[_M_] You, be quiet."
@@ -23654,7 +23654,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:13429 #-#-# translate crowdin lick_boots_64cf16b3_5:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13430 #-#-# translate crowdin lick_boots_878899ca_5:
 msgid "[_M_] You, be quiet."
@@ -23758,7 +23758,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:13473 #-#-# translate crowdin lick_boots_64cf16b3_6:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13474 #-#-# translate crowdin lick_boots_878899ca_6:
 msgid "[_M_] You, be quiet."
@@ -23842,7 +23842,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:13504 #-#-# translate crowdin lick_boots_64cf16b3_7:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13505 #-#-# translate crowdin lick_boots_878899ca_7:
 msgid "[_M_] You, be quiet."
@@ -23914,7 +23914,7 @@ msgstr "{i}«Colère de maman +1»{/i}"
 
 # game/UpdateScript0.06.rpy:13527 #-#-# translate crowdin lick_boots_1c80183e_1:
 msgid "[_M_] Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-msgstr ""
+msgstr "[_M_] Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:13530 #-#-# translate crowdin lick_boots_96579cfd:
 msgid "To get Mom to tie up and humiliate Megan, you need her submission or libido points at 10."
@@ -23950,7 +23950,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:13548 #-#-# translate crowdin lick_boots_64cf16b3_8:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13549 #-#-# translate crowdin lick_boots_878899ca_8:
 msgid "[_M_] You, be quiet."
@@ -24030,7 +24030,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:13578 #-#-# translate crowdin lick_boots_64cf16b3_9:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13579 #-#-# translate crowdin lick_boots_878899ca_9:
 msgid "[_M_] You, be quiet."
@@ -24130,7 +24130,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:13621 #-#-# translate crowdin lick_boots_64cf16b3_10:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13622 #-#-# translate crowdin lick_boots_878899ca_10:
 msgid "[_M_] You, be quiet."
@@ -24210,7 +24210,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:13651 #-#-# translate crowdin lick_boots_64cf16b3_11:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13652 #-#-# translate crowdin lick_boots_878899ca_11:
 msgid "[_M_] You, be quiet."
@@ -24282,7 +24282,7 @@ msgstr "{i}«Colère de maman +1»{/i}"
 
 # game/UpdateScript0.06.rpy:13674 #-#-# translate crowdin lick_boots_1c80183e_2:
 msgid "[_M_] Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-msgstr ""
+msgstr "[_M_] Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:13677 #-#-# translate crowdin lick_boots_acb42131:
 msgid "To get Mom to ball gag Megan, you need her submission points at 14."
@@ -24318,7 +24318,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:13695 #-#-# translate crowdin lick_boots_64cf16b3_12:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13696 #-#-# translate crowdin lick_boots_878899ca_12:
 msgid "[_M_] You, be quiet."
@@ -24394,7 +24394,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:13724 #-#-# translate crowdin lick_boots_64cf16b3_13:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13725 #-#-# translate crowdin lick_boots_878899ca_13:
 msgid "[_M_] You, be quiet."
@@ -24506,7 +24506,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:13770 #-#-# translate crowdin lick_boots_64cf16b3_14:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13771 #-#-# translate crowdin lick_boots_878899ca_14:
 msgid "[_M_] You, be quiet."
@@ -24582,7 +24582,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:13799 #-#-# translate crowdin lick_boots_64cf16b3_15:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13800 #-#-# translate crowdin lick_boots_878899ca_15:
 msgid "[_M_] You, be quiet."
@@ -24654,7 +24654,7 @@ msgstr "{i}«Colère de maman +1»{/i}"
 
 # game/UpdateScript0.06.rpy:13822 #-#-# translate crowdin lick_boots_1c80183e_3:
 msgid "[_M_] Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-msgstr ""
+msgstr "[_M_] Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:13825 #-#-# translate crowdin lick_boots_9d752184:
 msgid "To get Mom to spank Megan, you need her submission points at 19."
@@ -24690,7 +24690,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:13843 #-#-# translate crowdin lick_boots_64cf16b3_16:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13844 #-#-# translate crowdin lick_boots_878899ca_16:
 msgid "[_M_] You, be quiet."
@@ -24762,7 +24762,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:13871 #-#-# translate crowdin lick_boots_64cf16b3_17:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13872 #-#-# translate crowdin lick_boots_878899ca_17:
 msgid "[_M_] You, be quiet."
@@ -24874,7 +24874,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:13917 #-#-# translate crowdin lick_boots_64cf16b3_18:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13918 #-#-# translate crowdin lick_boots_878899ca_18:
 msgid "[_M_] You, be quiet."
@@ -24946,7 +24946,7 @@ msgstr "[_M_] Tu es fou ? Tu crois qu'on va faire de la nudité ?"
 
 # game/UpdateScript0.06.rpy:13945 #-#-# translate crowdin lick_boots_64cf16b3_19:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13946 #-#-# translate crowdin lick_boots_878899ca_19:
 msgid "[_M_] You, be quiet."
@@ -25018,7 +25018,7 @@ msgstr "{i}«Colère de maman +5»{/i}"
 
 # game/UpdateScript0.06.rpy:13968 #-#-# translate crowdin lick_boots_1c80183e_4:
 msgid "[_M_] Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-msgstr ""
+msgstr "[_M_] Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:13971 #-#-# translate crowdin lick_boots_5b9541f7:
 msgid "To get Mom to pose naked with Megan, you need her submission points at 25."
@@ -25450,7 +25450,7 @@ msgstr "[_M_] Maintenant, attends une seconde!"
 
 # game/UpdateScript0.06.rpy:14143 #-#-# translate crowdin megans_shirt_75b227c5:
 msgid "[_M_] I'm not okay with this!"
-msgstr ""
+msgstr "[_M_] Je ne suis pas d'accord avec ça !"
 
 # game/UpdateScript0.06.rpy:14144 #-#-# translate crowdin megans_shirt_69122cef:
 msgid "[_R_] Why? Neither of you have to remove any more clothing."
@@ -25502,7 +25502,7 @@ msgstr "{i}«Colère de maman +1»{/i}"
 
 # game/UpdateScript0.06.rpy:14161 #-#-# translate crowdin megans_shirt_1c80183e:
 msgid "[_M_] Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-msgstr ""
+msgstr "[_M_] Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:14164 #-#-# translate crowdin megans_shirt_8ed816d0:
 msgid "To get Mom to tie Megan's arms, you need her submission or libidio points at 10."
@@ -25834,7 +25834,7 @@ msgstr "{i}«Colère de maman +1»{/i}"
 
 # game/UpdateScript0.06.rpy:14293 #-#-# translate crowdin megans_shirt_1c80183e_1:
 msgid "[_M_] Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-msgstr ""
+msgstr "[_M_] Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:14296 #-#-# translate crowdin megans_shirt_1fd6b375:
 msgid "To get Mom to expose her breasts and gag Megan, you need her submission points at 14."
@@ -26170,7 +26170,7 @@ msgstr "{i}«Colère de maman +1»{/i}"
 
 # game/UpdateScript0.06.rpy:14432 #-#-# translate crowdin megans_shirt_1c80183e_2:
 msgid "[_M_] Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-msgstr ""
+msgstr "[_M_] Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:14435 #-#-# translate crowdin megans_shirt_9d752184:
 msgid "To get Mom to spank Megan, you need her submission points at 19."
@@ -26206,7 +26206,7 @@ msgstr "[_M_] Tu es fou ? Tu crois que je vais faire de la nudité totale ?"
 
 # game/UpdateScript0.06.rpy:14453 #-#-# translate crowdin megans_shirt_64cf16b3:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:14454 #-#-# translate crowdin megans_shirt_878899ca:
 msgid "[_M_] You, be quiet."
@@ -26278,7 +26278,7 @@ msgstr "[_M_] Tu es fou ? Tu crois que je vais faire de la nudité totale ?"
 
 # game/UpdateScript0.06.rpy:14481 #-#-# translate crowdin megans_shirt_64cf16b3_1:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:14482 #-#-# translate crowdin megans_shirt_878899ca_1:
 msgid "[_M_] You, be quiet."
@@ -26390,7 +26390,7 @@ msgstr "[_M_] Tu es fou ? Tu crois que je vais faire de la nudité totale ?"
 
 # game/UpdateScript0.06.rpy:14527 #-#-# translate crowdin megans_shirt_64cf16b3_2:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:14528 #-#-# translate crowdin megans_shirt_878899ca_2:
 msgid "[_M_] You, be quiet."
@@ -26462,7 +26462,7 @@ msgstr "[_M_] Tu es fou ? Tu crois que je vais faire de la nudité totale ?"
 
 # game/UpdateScript0.06.rpy:14555 #-#-# translate crowdin megans_shirt_64cf16b3_3:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:14556 #-#-# translate crowdin megans_shirt_878899ca_3:
 msgid "[_M_] You, be quiet."
@@ -26534,7 +26534,7 @@ msgstr "{i}«Colère de maman +5»{/i}"
 
 # game/UpdateScript0.06.rpy:14578 #-#-# translate crowdin megans_shirt_1c80183e_3:
 msgid "[_M_] Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-msgstr ""
+msgstr "[_M_] Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:14581 #-#-# translate crowdin megans_shirt_d8aa6027:
 msgid "To get Mom to pose fully naked with Megan, you need her submission points at 25."
@@ -27114,7 +27114,7 @@ msgstr "{i}«Colère de maman +1»{/i}"
 
 # game/UpdateScript0.06.rpy:14844 #-#-# translate crowdin megan_tied_1c80183e:
 msgid "[_M_] Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-msgstr ""
+msgstr "[_M_] Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:14847 #-#-# translate crowdin megan_tied_1fd6b375:
 msgid "To get Mom to expose her breasts and gag Megan, you need her submission points at 14."
@@ -27450,7 +27450,7 @@ msgstr "{i}«Colère de maman +1»{/i}"
 
 # game/UpdateScript0.06.rpy:14983 #-#-# translate crowdin megan_tied_1c80183e_1:
 msgid "[_M_] Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-msgstr ""
+msgstr "[_M_] Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:14986 #-#-# translate crowdin megan_tied_9d752184:
 msgid "To get Mom to spank Megan, you need her submission points at 19."
@@ -27486,7 +27486,7 @@ msgstr "[_M_] Tu es fou ? Tu crois que je vais faire de la nudité totale ?"
 
 # game/UpdateScript0.06.rpy:15004 #-#-# translate crowdin megan_tied_64cf16b3:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:15005 #-#-# translate crowdin megan_tied_878899ca:
 msgid "[_M_] You, be quiet."
@@ -27558,7 +27558,7 @@ msgstr "[_M_] Tu es fou ? Tu crois que je vais faire de la nudité totale ?"
 
 # game/UpdateScript0.06.rpy:15032 #-#-# translate crowdin megan_tied_64cf16b3_1:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:15033 #-#-# translate crowdin megan_tied_878899ca_1:
 msgid "[_M_] You, be quiet."
@@ -27670,7 +27670,7 @@ msgstr "[_M_] Tu es fou ? Tu crois que je vais faire de la nudité totale ?"
 
 # game/UpdateScript0.06.rpy:15078 #-#-# translate crowdin megan_tied_64cf16b3_2:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:15079 #-#-# translate crowdin megan_tied_878899ca_2:
 msgid "[_M_] You, be quiet."
@@ -27742,7 +27742,7 @@ msgstr "[_M_] Tu es fou ? Tu crois que je vais faire de la nudité totale ?"
 
 # game/UpdateScript0.06.rpy:15106 #-#-# translate crowdin megan_tied_64cf16b3_3:
 msgid "[_MG_] I'm okay with it."
-msgstr ""
+msgstr "[_MG_] Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:15107 #-#-# translate crowdin megan_tied_878899ca_3:
 msgid "[_M_] You, be quiet."
@@ -27814,7 +27814,7 @@ msgstr "{i}«Colère de maman +5»{/i}"
 
 # game/UpdateScript0.06.rpy:15129 #-#-# translate crowdin megan_tied_1c80183e_2:
 msgid "[_M_] Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-msgstr ""
+msgstr "[_M_] Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:15132 #-#-# translate crowdin megan_tied_d8aa6027:
 msgid "To get Mom to pose fully naked with Megan, you need her submission points at 25."
@@ -27986,7 +27986,7 @@ msgstr "[_M_] Cette partie est-elle vraiment nécessaire au succès de la séanc
 
 # game/UpdateScript0.06.rpy:15217 #-#-# translate crowdin ball_gagged_169a8006:
 msgid "[_R_] Oh man! My studio's followers and subscribers wouldn't just be disappointed, but they'd probably be pissed if you didn't show your breasts. I'll bet I'd lose a lot of subscribers, and a lot of money."
-msgstr ""
+msgstr "[_R_] Oh ! Les adeptes et les abonnés de mon studio ne seraient pas seulement déçus, mais ils seraient probablement furieux si vous ne montriez pas vos seins. Je parie que je perdrais beaucoup d'abonnés et beaucoup d'argent."
 
 # game/UpdateScript0.06.rpy:15218 #-#-# translate crowdin ball_gagged_a3531f58:
 msgid "[_M_] Ohhh... ok..."
@@ -28126,7 +28126,7 @@ msgstr "[_M_] Cette partie est-elle vraiment nécessaire au succès de la séanc
 
 # game/UpdateScript0.06.rpy:15285 #-#-# translate crowdin ball_gagged_169a8006_1:
 msgid "[_R_] Oh man! My studio's followers and subscribers wouldn't just be disappointed, but they'd probably be pissed if you didn't show your breasts. I'll bet I'd lose a lot of subscribers, and a lot of money."
-msgstr ""
+msgstr "[_R_] Oh ! Les adeptes et les abonnés de mon studio ne seraient pas seulement déçus, mais ils seraient probablement furieux si vous ne montriez pas vos seins. Je parie que je perdrais beaucoup d'abonnés et beaucoup d'argent."
 
 # game/UpdateScript0.06.rpy:15286 #-#-# translate crowdin ball_gagged_a3531f58_1:
 msgid "[_M_] Ohhh... ok..."
@@ -28630,7 +28630,7 @@ msgstr "{i}«Colère de maman +5»{/i}"
 
 # game/UpdateScript0.06.rpy:15509 #-#-# translate crowdin ball_gagged_1c80183e:
 msgid "[_M_] Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-msgstr ""
+msgstr "[_M_] Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:15512 #-#-# translate crowdin ball_gagged_9d752184:
 msgid "To get Mom to spank Megan, you need her submission points at 19."
@@ -29090,7 +29090,7 @@ msgstr "{i}«Colère de maman +5»{/i}"
 
 # game/UpdateScript0.06.rpy:15715 #-#-# translate crowdin ball_gagged_1c80183e_1:
 msgid "[_M_] Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-msgstr ""
+msgstr "[_M_] Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:15718 #-#-# translate crowdin ball_gagged_9d752184_1:
 msgid "To get Mom to spank Megan, you need her submission points at 19."
