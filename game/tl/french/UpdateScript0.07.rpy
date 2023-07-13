@@ -3166,7 +3166,7 @@ translate french lounge_sex_f4e50d52:
 translate french lounge_sex_842d401d:
 
     # R "You seemed okay last time... I'll remember to start out slow."
-    ""
+    R "Vous aviez l'air d'aller bien la dernière fois... Je me souviendrai qu'il faut commencer doucement."
 
 # game/UpdateScript0.07.rpy:2042
 translate french lounge_sex_383b476d:
@@ -6604,7 +6604,7 @@ translate french lauren_bath_fuck_7418c311:
 translate french lauren_bath_fuck_60b09e38:
 
     # L "So?... That's the kind of relationship we have. I mean, I just fucked my brother. Sure, he's not gonna be thrilled to hear it, cuz he doesn't really like you very much, but he'll be okay with it."
-    ""
+    L "Et alors ? C'est le type de relation que nous avons. Je veux dire, je viens de baiser mon frère. Bien sûr, il ne sera pas ravi de l'entendre, parce qu'il ne t'aime pas beaucoup, mais il s'en accommodera."
 
 # game/UpdateScript0.07.rpy:3496
 translate french lauren_bath_fuck_ff7c56db:
@@ -10018,7 +10018,7 @@ translate french stones_classroom_dd9eec5e:
 translate french stones_classroom_f386c7a9:
 
     # RT "{i}I hope she's doing okay after her incident in the park with Mr. Peterson.{/i}"
-    ""
+    RT "{i}J'espère qu'elle va bien après son incident dans le parc avec M. Peterson.{/i}"
 
 # game/UpdateScript0.07.rpy:4882
 translate french stones_classroom_2737bc01:
@@ -10528,7 +10528,7 @@ translate french stones_classroom_b1687c9c:
 translate french stones_classroom_b0082967:
 
     # R "I understand. Is it okay if I come back when I get the money together?"
-    ""
+    R "Je comprends. Je peux revenir quand j'aurai réuni l'argent nécessaire ?"
 
 # game/UpdateScript0.07.rpy:5007
 translate french stones_classroom_6275f95c:
@@ -19258,7 +19258,7 @@ translate french shared_sex_02a251cf:
 translate french shared_sex_279e1d1a:
 
     # RT "{i}{b}(HINT){/b} Now that Lauren and Matt are hooking up, I wonder what kinds of messages she's sending him on her phone. I should keep checking on her in her room on the weekends.{/i}"
-    ""
+    RT "{i}{b}(INDICE){/b} Maintenant que Lauren et Matt sortent ensemble, je me demande quel genre de messages elle lui envoie sur son téléphone. Je devrais continuer à la surveiller dans sa chambre pendant les week-ends..{/i}"
 
 # game/UpdateScript0.07.rpy:8274
 translate french shared_sex_81a392cd:
@@ -19444,7 +19444,7 @@ translate french shared_sex_02a251cf_1:
 translate french shared_sex_279e1d1a_1:
 
     # RT "{i}{b}(HINT){/b} Now that Lauren and Matt are hooking up, I wonder what kinds of messages she's sending him on her phone. I should keep checking on her in her room on the weekends.{/i}"
-    ""
+    RT "{i}{b}(INDICE){/b} Maintenant que Lauren et Matt sortent ensemble, je me demande quel genre de messages elle lui envoie sur son téléphone. Je devrais continuer à la surveiller dans sa chambre pendant les week-ends..{/i}"
 
 # game/UpdateScript0.07.rpy:8443
 translate french lauren_squirt_standing_12918519:
@@ -19708,7 +19708,7 @@ translate french lauren_cum_34d0e215:
 translate french lauren_cum_a8f1ff61:
 
     # L "Sure, I'll just have to make sure it's okay with Matt."
-    ""
+    L "Bien sûr, je dois juste m'assurer que Matt est d'accord."
 
 # game/UpdateScript0.07.rpy:8542
 translate french lauren_cum_2c9bbaef:
@@ -19816,7 +19816,7 @@ translate french lauren_cum_34d0e215_1:
 translate french lauren_cum_a8f1ff61_1:
 
     # L "Sure, I'll just have to make sure it's okay with Matt."
-    ""
+    L "Bien sûr, je dois juste m'assurer que Matt est d'accord."
 
 # game/UpdateScript0.07.rpy:8586
 translate french lauren_cum_2c9bbaef_1:
@@ -20440,7 +20440,7 @@ translate french hall_ambush_ef51741a:
 translate french hall_ambush_d8779669:
 
     # L "And I know you want to do good things with the money, like paying the Mafia debt, but wouldn't it be okay if Mom had to work at their club a couple weekends so that I have enough money for this campaign?"
-    ""
+    L "Et je sais que tu veux faire de bonnes choses avec l'argent, comme payer la dette de la mafia, mais ça ne te dérangerait pas que maman travaille dans leur club quelques week-ends pour que j'aie assez d'argent pour cette campagne ?"
 
 # game/UpdateScript0.07.rpy:8885
 translate french hall_ambush_24e9f4a2:
@@ -22294,7 +22294,7 @@ translate french mom_angry_about_posters_f1977e11:
 translate french mom_angry_about_posters_9ec474f9:
 
     # R "Yeah, okay Mom. If that's what Lauren wants."
-    ""
+    R "Oui, d'accord, maman. Si c'est ce que Lauren veut."
 
 # game/UpdateScript0.07.rpy:9406
 translate french mom_angry_about_posters_42e72ffb:
@@ -24376,13 +24376,13 @@ translate french morning_announcements_3e8d757b:
 translate french morning_announcements_c5e8a98b:
 
     # L "And on Friday, our varsity soccer team will be competing for the \"Biggest Balls Cup\" Against our rivals, the Bonerville Beavers."
-    ""
+    L "Vendredi, notre équipe de football universitaire participera à la \"Biggest Balls Cup\" (Coupe des plus grosses balles) Contre nos rivaux, les Castors de Bonerville."
 
 # game/UpdateScript0.07.rpy:10320
 translate french morning_announcements_4a55f527:
 
     # L "I'd like to personally encourage you all to attend the game and show your support."
-    ""
+    L "J'aimerais vous encourager personnellement à assister au match et à montrer votre soutien."
 
 # game/UpdateScript0.07.rpy:10322
 translate french morning_announcements_ad5ae717:
@@ -24448,7 +24448,7 @@ translate french morning_announcements_1582e0f5:
 translate french morning_announcements_fc953119:
 
     # L "\"Lauren's Cosplay Corner\"."
-    ""
+    L "'Le coin Cosplay de Lauren'."
 
 # game/UpdateScript0.07.rpy:10345
 translate french morning_announcements_b014c99f:
@@ -24472,7 +24472,7 @@ translate french morning_announcements_519b0426:
 translate french morning_announcements_80ddbcaf:
 
     # L "The image I want to show you today, I call \"Pew pew... Die Alien Scum!\"."
-    ""
+    L "L'image que je veux vous montrer aujourd'hui, je l'appelle 'Pew pew... Die Alien Scum !'."
 
 # game/UpdateScript0.07.rpy:10353
 translate french morning_announcements_6afb0a8b:
@@ -24652,7 +24652,7 @@ translate french morning_announcements_1582e0f5_1:
 translate french morning_announcements_fc953119_1:
 
     # L "\"Lauren's Cosplay Corner\"."
-    ""
+    L "'Le coin Cosplay de Lauren'."
 
 # game/UpdateScript0.07.rpy:10443
 translate french morning_announcements_b014c99f_1:
@@ -35416,7 +35416,7 @@ translate french best_polls_aftermath_f6a86c35:
 translate french best_polls_aftermath_de753b99:
 
     # L "Are you okay with just doing this for fun?..."
-    ""
+    L "Êtes-vous d'accord pour faire cela juste pour le plaisir ?..."
 
 # game/UpdateScript0.07.rpy:14491
 translate french best_polls_aftermath_e4b33791:
@@ -37162,7 +37162,7 @@ translate french bad_polls_aftermath_44040e04:
 translate french bad_polls_aftermath_a4903fcc:
 
     # SY "Yeah, all the guys let me cut the line again."
-    ""
+    SY "Oui, tous les gars m'ont laissé couper la ligne à nouveau."
 
 # game/UpdateScript0.07.rpy:14996
 translate french bad_polls_aftermath_e1bb8df8:
@@ -45832,7 +45832,7 @@ translate french diaz_help_d3b7269a:
 translate french diaz_help_9ffabd2b:
 
     # R "Yeah, right... Lauren showers in there... She'll never be okay with this."
-    ""
+    R "Oui, c'est vrai... Lauren se douche là-dedans... Elle ne sera jamais d'accord avec ça."
 
 # game/UpdateScript0.07.rpy:18127
 translate french diaz_help_8efa8c25:

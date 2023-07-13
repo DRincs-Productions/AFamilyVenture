@@ -1666,7 +1666,7 @@ translate french xmas_future_b41c9d22:
 translate french xmas_future_3a9412b9:
 
     # R "And you're okay raising him as a single mom?"
-    ""
+    R "Et vous êtes d'accord pour l'élever en tant que mère célibataire ?"
 
 # game/UpdateScriptChristmasEvent.rpy:709
 translate french xmas_future_39f6d57d:

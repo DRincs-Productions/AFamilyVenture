@@ -4726,7 +4726,7 @@ translate french aunt_clean_lounge_26242890:
 translate french aunt_clean_lounge_9814e79a:
 
     # CT "{i}At least it's not as bad as when I jerked him off.{/i}"
-    ""
+    CT "{i}Au moins, ce n'est pas aussi grave que lorsque je l'ai branlé.{/i}"
 
 # game/UpdateScript0.04.rpy:2017
 translate french aunt_clean_lounge_cce4399c:
@@ -5014,7 +5014,7 @@ translate french aunt_clean_lounge_26242890_1:
 translate french aunt_clean_lounge_9814e79a_1:
 
     # CT "{i}At least it's not as bad as when I jerked him off.{/i}"
-    ""
+    CT "{i}Au moins, ce n'est pas aussi grave que lorsque je l'ai branlé.{/i}"
 
 # game/UpdateScript0.04.rpy:2100
 translate french aunt_clean_lounge_cce4399c_1:

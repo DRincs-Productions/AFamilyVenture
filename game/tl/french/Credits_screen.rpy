@@ -36,7 +36,7 @@ translate french strings:
 
     # game/Credits_screen.rpy:165
     old "\n{b}{i}Game Script Writer, Image Creator, Render Farm, Face Card Designer:{/i}{/b} \n"
-    new ""
+    new "\n{b}{i}Rédacteur de scripts de jeux, créateur d'images, Render Farm, concepteur de cartes faciales:{/i}{/b} \n"
 
     # game/Credits_screen.rpy:167
     old "Strenif"
@@ -60,23 +60,23 @@ translate french strings:
 
     # game/Credits_screen.rpy:177
     old "\n{i}I avoided using supporters full names where possible, and used Discord handles instead wherever I had access to those.{/i}\n"
-    new ""
+    new "\n{i}J'ai évité d'utiliser les noms complets des supporters dans la mesure du possible, et j'ai utilisé les pseudos Discord lorsque j'y avais accès.{/i}\n"
 
     # game/Credits_screen.rpy:178
     old "{i}Please contact me if you believe your name isn't here and it should be, or would like to have it listed differently.{/i}"
-    new ""
+    new "{i}N'hésitez pas à me contacter si vous pensez que votre nom n'y figure pas et qu'il devrait y figurer, ou si vous souhaitez qu'il soit répertorié différemment.{/i}"
 
     # game/Credits_screen.rpy:180
     old "\n{b}{i}$35 tier (My Family with Benefits {i}SubscribeStar{/i}) (My Family {i}Patreon{/i}):{/i}{/b} \n"
-    new ""
+    new "\n{b}{i}35 $ (Ma famille et ses avantages) {i}SubscribeStar{/i}) (Ma famille {i}Patreon{/i}):{/i}{/b} \n"
 
     # game/Credits_screen.rpy:182
     old "Anthony"
-    new ""
+    new "Anthony"
 
     # game/Credits_screen.rpy:183
     old "Charley"
-    new ""
+    new "Charley"
 
     # game/Credits_screen.rpy:184
     old "DD0"
@@ -84,7 +84,7 @@ translate french strings:
 
     # game/Credits_screen.rpy:185
     old "delta6198"
-    new ""
+    new "Delta6198"
 
     # game/Credits_screen.rpy:186
     old "Drew G"
@@ -92,7 +92,7 @@ translate french strings:
 
     # game/Credits_screen.rpy:187
     old "Eddie"
-    new ""
+    new "Eddie"
 
     # game/Credits_screen.rpy:188
     old "fatfrogs"
@@ -112,7 +112,7 @@ translate french strings:
 
     # game/Credits_screen.rpy:192
     old "Janusz"
-    new ""
+    new "Janusz"
 
     # game/Credits_screen.rpy:193
     old "Jtf1357"
@@ -120,11 +120,11 @@ translate french strings:
 
     # game/Credits_screen.rpy:194
     old "Kenny89"
-    new ""
+    new "Kenny89"
 
     # game/Credits_screen.rpy:195
     old "Kire4th"
-    new ""
+    new "Kire4th"
 
     # game/Credits_screen.rpy:196
     old "kingkoopa"
@@ -132,7 +132,7 @@ translate french strings:
 
     # game/Credits_screen.rpy:197
     old "Martin K"
-    new ""
+    new "Martin K"
 
     # game/Credits_screen.rpy:198
     old "Tarakis"
@@ -144,23 +144,23 @@ translate french strings:
 
     # game/Credits_screen.rpy:201
     old "\n{b}{i}$20 tier (My Family {i}SubscribeStar{/i}) (My BFF's {i}Patreon{/i}):{/i}{/b} \n"
-    new ""
+    new "\n{b}{i}Palier de 20 $ (Ma famille {i}SubscribeStar{/i}) (Mes BFF {i}Patreon{/i}):{/i}{/b} \n"
 
     # game/Credits_screen.rpy:203
     old "."
-    new ""
+    new "."
 
     # game/Credits_screen.rpy:204
     old "af"
-    new ""
+    new "af"
 
     # game/Credits_screen.rpy:205
     old "Alex421"
-    new ""
+    new "Alex421"
 
     # game/Credits_screen.rpy:206
     old "Alex"
-    new ""
+    new "Alex"
 
     # game/Credits_screen.rpy:207
     old "Allen Ho"
@@ -172,15 +172,15 @@ translate french strings:
 
     # game/Credits_screen.rpy:209
     old "arshhh111"
-    new ""
+    new "arshhh111"
 
     # game/Credits_screen.rpy:210
     old "AtlasRise"
-    new ""
+    new "AtlasRise"
 
     # game/Credits_screen.rpy:211
     old "Baily C****"
-    new ""
+    new "Baily C****"
 
     # game/Credits_screen.rpy:212
     old "Benja Talos"
@@ -188,7 +188,7 @@ translate french strings:
 
     # game/Credits_screen.rpy:213
     old "Big Daddi"
-    new ""
+    new "Big Daddi"
 
     # game/Credits_screen.rpy:214
     old "blee lee"
@@ -196,19 +196,19 @@ translate french strings:
 
     # game/Credits_screen.rpy:215
     old "Blue_Raptor"
-    new ""
+    new "Blue_Raptor"
 
     # game/Credits_screen.rpy:216
     old "bobojajo"
-    new ""
+    new "bobojajo"
 
     # game/Credits_screen.rpy:217
     old "Bolt368"
-    new ""
+    new "Bolt368"
 
     # game/Credits_screen.rpy:218
     old "Caitlin"
-    new ""
+    new "Caitlin"
 
     # game/Credits_screen.rpy:219
     old "Carmen Sandiego"
@@ -216,15 +216,15 @@ translate french strings:
 
     # game/Credits_screen.rpy:220
     old "cheffymac"
-    new ""
+    new "cheffymac"
 
     # game/Credits_screen.rpy:221
     old "Christian *** *****"
-    new ""
+    new "Christian *** *****"
 
     # game/Credits_screen.rpy:222
     old "Clare"
-    new ""
+    new "Clare"
 
     # game/Credits_screen.rpy:223
     old "Cs in SC"
@@ -240,7 +240,7 @@ translate french strings:
 
     # game/Credits_screen.rpy:226
     old "David Ho*******"
-    new ""
+    new "David Ho*******"
 
     # game/Credits_screen.rpy:227
     old "deadpool25"
@@ -248,11 +248,11 @@ translate french strings:
 
     # game/Credits_screen.rpy:228
     old "Deangelo"
-    new ""
+    new "Deangelo"
 
     # game/Credits_screen.rpy:229
     old "deeznutsgotem20012031203"
-    new ""
+    new "deeznutsgotem20012031203"
 
     # game/Credits_screen.rpy:230
     old "Devin"
@@ -264,7 +264,7 @@ translate french strings:
 
     # game/Credits_screen.rpy:232
     old "Discoklaus"
-    new ""
+    new "Discoklaus"
 
     # game/Credits_screen.rpy:233
     old "Dom"
@@ -272,7 +272,7 @@ translate french strings:
 
     # game/Credits_screen.rpy:234
     old "Durzo"
-    new ""
+    new "Durzo"
 
     # game/Credits_screen.rpy:235
     old "ejc"
@@ -280,11 +280,11 @@ translate french strings:
 
     # game/Credits_screen.rpy:236
     old "Eru Ilúvatar"
-    new ""
+    new "Eru Ilúvatar"
 
     # game/Credits_screen.rpy:237
     old "eward"
-    new ""
+    new "eward"
 
     # game/Credits_screen.rpy:238
     old "Fangin"
@@ -296,51 +296,51 @@ translate french strings:
 
     # game/Credits_screen.rpy:240
     old "Ferryman"
-    new ""
+    new "Ferryman"
 
     # game/Credits_screen.rpy:241
     old "Fischi"
-    new ""
+    new "Fischi"
 
     # game/Credits_screen.rpy:242
     old "Fuchi Zhong"
-    new ""
+    new "Fuchi Zhong"
 
     # game/Credits_screen.rpy:243
     old "Giggly Smoker"
-    new ""
+    new "Giggly Smoker"
 
     # game/Credits_screen.rpy:244
     old "Glen N****"
-    new ""
+    new "Glen N****"
 
     # game/Credits_screen.rpy:245
     old "grimjah"
-    new ""
+    new "grimjah"
 
     # game/Credits_screen.rpy:246
     old "GUNSFM"
-    new ""
+    new "GUNSFM"
 
     # game/Credits_screen.rpy:247
     old "Happy89"
-    new ""
+    new "Happy89"
 
     # game/Credits_screen.rpy:248
     old "Helirindir"
-    new ""
+    new "Helirindir"
 
     # game/Credits_screen.rpy:249
     old "hironmon"
-    new ""
+    new "hironmon"
 
     # game/Credits_screen.rpy:250
     old "Hotbox"
-    new ""
+    new "Hotbox"
 
     # game/Credits_screen.rpy:251
     old "Imjust Q"
-    new ""
+    new "Imjust Q"
 
     # game/Credits_screen.rpy:252
     old "Imyourbuddy"
@@ -348,31 +348,31 @@ translate french strings:
 
     # game/Credits_screen.rpy:253
     old "inzane"
-    new ""
+    new "inzane"
 
     # game/Credits_screen.rpy:254
     old "ItsMrGru"
-    new ""
+    new "ItsMrGru"
 
     # game/Credits_screen.rpy:255
     old "Iwa"
-    new ""
+    new "Iwa"
 
     # game/Credits_screen.rpy:256
     old "J L"
-    new ""
+    new "J L"
 
     # game/Credits_screen.rpy:257
     old "jeffy meffy"
-    new ""
+    new "jeffy meffy"
 
     # game/Credits_screen.rpy:258
     old "jiffylubey"
-    new ""
+    new "jiffylubey"
 
     # game/Credits_screen.rpy:259
     old "JoelMartinez86"
-    new ""
+    new "JoelMartinez86"
 
     # game/Credits_screen.rpy:260
     old "John"
@@ -380,7 +380,7 @@ translate french strings:
 
     # game/Credits_screen.rpy:261
     old "John S***"
-    new ""
+    new "John S***"
 
     # game/Credits_screen.rpy:262
     old "Joseph Ma*****"
@@ -388,11 +388,11 @@ translate french strings:
 
     # game/Credits_screen.rpy:263
     old "Justin Co******"
-    new ""
+    new "Justin Co******"
 
     # game/Credits_screen.rpy:264
     old "Levi Cr*****"
-    new ""
+    new "Levi Cr*****"
 
     # game/Credits_screen.rpy:265
     old "Lokki87"
@@ -400,15 +400,15 @@ translate french strings:
 
     # game/Credits_screen.rpy:266
     old "Luca La*****"
-    new ""
+    new "Luca La*****"
 
     # game/Credits_screen.rpy:267
     old "LustFang"
-    new ""
+    new "LustFang"
 
     # game/Credits_screen.rpy:268
     old "Kal The Fairy"
-    new ""
+    new "Kal The Fairy"
 
     # game/Credits_screen.rpy:269
     old "Keeta Sh****"
@@ -428,11 +428,11 @@ translate french strings:
 
     # game/Credits_screen.rpy:273
     old "Kristian No******"
-    new ""
+    new "Kristian No******"
 
     # game/Credits_screen.rpy:274
     old "Kyle"
-    new ""
+    new "Kyle"
 
     # game/Credits_screen.rpy:275
     old "kyle la*****"
@@ -444,23 +444,23 @@ translate french strings:
 
     # game/Credits_screen.rpy:277
     old "manny s***"
-    new ""
+    new "manny s***"
 
     # game/Credits_screen.rpy:278
     old "maverick 123"
-    new ""
+    new "maverick 123"
 
     # game/Credits_screen.rpy:279
     old "Meradrin"
-    new ""
+    new "Meradrin"
 
     # game/Credits_screen.rpy:280
     old "MidnightDancer"
-    new ""
+    new "MidnightDancer"
 
     # game/Credits_screen.rpy:281
     old "Mikestav86"
-    new ""
+    new "Mikestav86"
 
     # game/Credits_screen.rpy:282
     old "mikey"
@@ -468,19 +468,19 @@ translate french strings:
 
     # game/Credits_screen.rpy:283
     old "Noah E M****"
-    new ""
+    new "Noah E M****"
 
     # game/Credits_screen.rpy:284
     old "Nuclear Abyss"
-    new ""
+    new "Nuclear Abyss"
 
     # game/Credits_screen.rpy:285
     old "Official Trentled"
-    new ""
+    new "Official Trentled"
 
     # game/Credits_screen.rpy:286
     old "Orhan Pi***"
-    new ""
+    new "Orhan Pi***"
 
     # game/Credits_screen.rpy:287
     old "pa bu"
@@ -488,19 +488,19 @@ translate french strings:
 
     # game/Credits_screen.rpy:288
     old "Quinn"
-    new ""
+    new "Quinn"
 
     # game/Credits_screen.rpy:289
     old "Rasgris"
-    new ""
+    new "Rasgris"
 
     # game/Credits_screen.rpy:290
     old "Razzmatazz"
-    new ""
+    new "Razzmatazz"
 
     # game/Credits_screen.rpy:291
     old "Repulgis"
-    new ""
+    new "Repulgis"
 
     # game/Credits_screen.rpy:292
     old "Rhylar"
@@ -508,19 +508,19 @@ translate french strings:
 
     # game/Credits_screen.rpy:293
     old "Roger J****"
-    new ""
+    new "Roger J****"
 
     # game/Credits_screen.rpy:294
     old "Sahiden"
-    new ""
+    new "Sahiden"
 
     # game/Credits_screen.rpy:295
     old "sfnc45"
-    new ""
+    new "sfnc45"
 
     # game/Credits_screen.rpy:296
     old "Silvio l***"
-    new ""
+    new "Silvio l***"
 
     # game/Credits_screen.rpy:297
     old "Stefan"
@@ -536,7 +536,7 @@ translate french strings:
 
     # game/Credits_screen.rpy:300
     old "TheHunterwolf097"
-    new ""
+    new "TheHunterwolf097"
 
     # game/Credits_screen.rpy:301
     old "TheHorror"
@@ -544,7 +544,7 @@ translate french strings:
 
     # game/Credits_screen.rpy:302
     old "Thudd"
-    new ""
+    new "Thudd"
 
     # game/Credits_screen.rpy:303
     old "Trold666"
@@ -556,15 +556,15 @@ translate french strings:
 
     # game/Credits_screen.rpy:305
     old "Trumpdog"
-    new ""
+    new "Trumpdog"
 
     # game/Credits_screen.rpy:306
     old "TuuGaa_xD_"
-    new ""
+    new "TuuGaa_xD_"
 
     # game/Credits_screen.rpy:307
     old "Tyler"
-    new ""
+    new "Tyler"
 
     # game/Credits_screen.rpy:308
     old "Umorrian"
@@ -572,15 +572,15 @@ translate french strings:
 
     # game/Credits_screen.rpy:309
     old "Varzii"
-    new ""
+    new "Varzii"
 
     # game/Credits_screen.rpy:310
     old "Vash"
-    new ""
+    new "Vash"
 
     # game/Credits_screen.rpy:311
     old "Verosia"
-    new ""
+    new "Verosia"
 
     # game/Credits_screen.rpy:312
     old "Vivigatsu"
@@ -588,23 +588,23 @@ translate french strings:
 
     # game/Credits_screen.rpy:313
     old "Vizko"
-    new ""
+    new "Vizko"
 
     # game/Credits_screen.rpy:314
     old "VOLTAGE 722"
-    new ""
+    new "VOLTAGE 722"
 
     # game/Credits_screen.rpy:315
     old "vorlon92"
-    new ""
+    new "vorlon92"
 
     # game/Credits_screen.rpy:316
     old "William"
-    new ""
+    new "William"
 
     # game/Credits_screen.rpy:317
     old "zach"
-    new ""
+    new "zach"
 
     # game/Credits_screen.rpy:318
     old "zapper"

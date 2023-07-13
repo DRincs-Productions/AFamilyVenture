@@ -1168,7 +1168,7 @@ translate french move_in_day_3676f757:
 translate french move_in_day_b4eb769e:
 
     # RT "{i}{b}(HINT){/b} Cousin Mandy volonteered to help with the yard work. Maybe I should meet her in the Lounge on Saturday Afternoon to help her get started.{/i}"
-    ""
+    RT "{i}{b}(INDICE){/b} La cousine Mandy s'est portée volontaire pour aider à l'entretien du jardin. Je devrais peut-être la rencontrer dans le salon samedi après-midi pour l'aider à démarrer.{/i}"
 
 # game/UpdateScript0.06.rpy:1087
 translate french posting_ph_pics_99f2fd00:
@@ -5854,7 +5854,7 @@ translate french update_six_bfasts_58076237:
 translate french update_six_bfasts_93991c5d:
 
     # R "Yeah, okay Mom."
-    ""
+    R "Oui, d'accord, maman."
 
 # game/UpdateScript0.06.rpy:2926
 translate french update_six_bfasts_fd0a8ddc:
@@ -8110,13 +8110,13 @@ translate french update_six_momspycamroommad_fd4d94cb_1:
 translate french lauren_night_b6fd528c:
 
     # RT "{i}I don't want to go in there after what happened, and I don't dare look at the spycam stream either.{/i}"
-    ""
+    RT "{i}Je ne veux pas y aller après ce qui s'est passé, et je n'ose pas non plus regarder le flux de la caméra espionne.{/i}"
 
 # game/UpdateScript0.06.rpy:4107
 translate french lauren_night_d352a945:
 
     # RT "{i}I should just move on and do something else.{/i}"
-    ""
+    RT "{i}Je devrais aller de l'avant et faire autre chose.{/i}"
 
 # game/UpdateScript0.06.rpy:4115
 translate french lauren_night_7f9712b0:
@@ -19366,7 +19366,7 @@ translate french diaz_is_back_0d24c58f:
 translate french diaz_is_back_80191b48:
 
     # MD "Well, besides the fact that I was tied up, gagged, and was spanked raw by my cousin, who was blackmailed into it... {i}(sarcastic tone){/i} Yeah, I'm great!"
-    ""
+    MD "Outre le fait que j'ai été ligotée, bâillonnée et fessée à vif par mon cousin, à qui l'on a fait du chantage... {i}(ton sarcastique){/i} Oui, je vais très bien !"
 
 # game/UpdateScript0.06.rpy:8031
 translate french diaz_is_back_0be9ff02:
@@ -20572,7 +20572,7 @@ translate french diaz_lauren_and_mandy_b5daa4ce:
 translate french diaz_lauren_and_mandy_bd971f7b:
 
     # RT "{i}I think Diaz is wrong, they really do seem disappointed...{/i}"
-    ""
+    RT "{i}Je pense que Diaz se trompe, ils semblent vraiment déçus...{/i}"
 
 # game/UpdateScript0.06.rpy:8491
 translate french diaz_lauren_and_mandy_eb428ec6:
@@ -21382,7 +21382,7 @@ translate french diaz_lauren_and_mandy_0d24c58f:
 translate french diaz_lauren_and_mandy_80191b48:
 
     # MD "Well, besides the fact that I was tied up, gagged, and was spanked raw by my cousin, who was blackmailed into it... {i}(sarcastic tone){/i} Yeah, I'm great!"
-    ""
+    MD "Outre le fait que j'ai été ligotée, bâillonnée et fessée à vif par mon cousin, à qui l'on a fait du chantage... {i}(ton sarcastique){/i} Oui, je vais très bien !"
 
 # game/UpdateScript0.06.rpy:8717
 translate french diaz_lauren_and_mandy_0be9ff02:
@@ -22906,7 +22906,7 @@ translate french both_caught_09a7e6cf:
 translate french both_caught_6674bde4:
 
     # RT "{i}{b}(HINT){/b} I need to bring some money to Sidney so she can start on the \"Perry Hotter\" cosplay outfits.{/i}"
-    ""
+    RT "{i}{b}(INDICE){/b} Je dois apporter de l'argent à Sidney pour qu'elle puisse commencer à travailler sur le 'Perry Hotter'. les tenues de cosplay.{/i}"
 
 # game/UpdateScript0.06.rpy:9191
 translate french both_caught_9c9e7552:
@@ -23482,7 +23482,7 @@ translate french both_caught_4c834465:
 translate french both_caught_6674bde4_1:
 
     # RT "{i}{b}(HINT){/b} I need to bring some money to Sidney so she can start on the \"Perry Hotter\" cosplay outfits.{/i}"
-    ""
+    RT "{i}{b}(INDICE){/b} Je dois apporter de l'argent à Sidney pour qu'elle puisse commencer à travailler sur le 'Perry Hotter'. les tenues de cosplay.{/i}"
 
 # game/UpdateScript0.06.rpy:9378
 translate french sid_sex_event_6d9db12e:
@@ -27772,25 +27772,25 @@ translate french candy_danced_again_4ddddd76:
 translate french candy_danced_again_06da713a:
 
     # CD "I wish I was getting a good, close look at your huge unit."
-    ""
+    CD "J'aimerais pouvoir observer de près votre énorme unité."
 
 # game/UpdateScript0.06.rpy:10942
 translate french candy_danced_again_bfca001d:
 
     # R "I don't mind whipping it out right here."
-    ""
+    R "Cela ne me dérange pas de le sortir ici même."
 
 # game/UpdateScript0.06.rpy:10944
 translate french candy_danced_again_6a998742:
 
     # CD "You know we can only do that kind of stuff in the VIP room. I'm sorry that it's occupied right now. I'm even more sorry that VIP client didn't request me to be in there."
-    ""
+    CD "Vous savez que nous ne pouvons faire ce genre de choses que dans la salle VIP. Je suis désolée qu'il soit occupé en ce moment. Je regrette d'autant plus que le client VIP ne m'ait pas demandé d'être présent."
 
 # game/UpdateScript0.06.rpy:10946
 translate french candy_danced_again_c6d2badf:
 
     # CD "You know we can only do that kind of stuff in the VIP room. You already had your chance to flop that thing all over the place."
-    ""
+    CD "Vous savez que nous ne pouvons faire ce genre de choses que dans la salle VIP. Vous avez déjà eu l'occasion de faire tomber cette chose dans tous les sens."
 
 # game/UpdateScript0.06.rpy:10948
 translate french candy_danced_again_02431598:
@@ -28096,7 +28096,7 @@ translate french candy_danced_again_7c6d8726:
 translate french candy_danced_again_48e1c431:
 
     # RT "{i}Goddammit, why did the VIP room have to be full?{/i}"
-    ""
+    RT "{i}Bon sang, pourquoi la salle VIP doit-elle être pleine ?{/i}"
 
 # game/UpdateScript0.06.rpy:11067
 translate french candy_danced_again_6d16c969:
@@ -31588,7 +31588,7 @@ translate french advanced_ph_shoot_continued_c12ee42a:
 translate french advanced_ph_shoot_continued_1c80183e:
 
     # M "Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-    ""
+    M "Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:12374
 translate french advanced_ph_shoot_continued_e7548a5e:
@@ -31630,7 +31630,7 @@ translate french advanced_ph_shoot_continued_79a34a1e:
 translate french advanced_ph_shoot_continued_64cf16b3:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12391
 translate french advanced_ph_shoot_continued_878899ca:
@@ -31732,7 +31732,7 @@ translate french advanced_ph_shoot_continued_79a34a1e_1:
 translate french advanced_ph_shoot_continued_64cf16b3_1:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12418
 translate french advanced_ph_shoot_continued_878899ca_1:
@@ -31870,7 +31870,7 @@ translate french advanced_ph_shoot_continued_79a34a1e_2:
 translate french advanced_ph_shoot_continued_64cf16b3_2:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12461
 translate french advanced_ph_shoot_continued_878899ca_2:
@@ -31972,7 +31972,7 @@ translate french advanced_ph_shoot_continued_79a34a1e_3:
 translate french advanced_ph_shoot_continued_64cf16b3_3:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12488
 translate french advanced_ph_shoot_continued_878899ca_3:
@@ -32074,7 +32074,7 @@ translate french advanced_ph_shoot_continued_c12ee42a_1:
 translate french advanced_ph_shoot_continued_1c80183e_1:
 
     # M "Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-    ""
+    M "Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:12512
 translate french advanced_ph_shoot_continued_050cb0c7:
@@ -32134,7 +32134,7 @@ translate french advanced_ph_shoot_continued_79a34a1e_4:
 translate french advanced_ph_shoot_continued_64cf16b3_4:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12532
 translate french advanced_ph_shoot_continued_878899ca_4:
@@ -32260,7 +32260,7 @@ translate french advanced_ph_shoot_continued_79a34a1e_5:
 translate french advanced_ph_shoot_continued_64cf16b3_5:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12563
 translate french advanced_ph_shoot_continued_878899ca_5:
@@ -32416,7 +32416,7 @@ translate french advanced_ph_shoot_continued_79a34a1e_6:
 translate french advanced_ph_shoot_continued_64cf16b3_6:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12607
 translate french advanced_ph_shoot_continued_878899ca_6:
@@ -32542,7 +32542,7 @@ translate french advanced_ph_shoot_continued_79a34a1e_7:
 translate french advanced_ph_shoot_continued_64cf16b3_7:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12638
 translate french advanced_ph_shoot_continued_878899ca_7:
@@ -32650,7 +32650,7 @@ translate french advanced_ph_shoot_continued_c12ee42a_2:
 translate french advanced_ph_shoot_continued_1c80183e_2:
 
     # M "Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-    ""
+    M "Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:12663
 translate french advanced_ph_shoot_continued_6203ee01:
@@ -32704,7 +32704,7 @@ translate french advanced_ph_shoot_continued_79a34a1e_8:
 translate french advanced_ph_shoot_continued_64cf16b3_8:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12682
 translate french advanced_ph_shoot_continued_878899ca_8:
@@ -32824,7 +32824,7 @@ translate french advanced_ph_shoot_continued_79a34a1e_9:
 translate french advanced_ph_shoot_continued_64cf16b3_9:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12712
 translate french advanced_ph_shoot_continued_878899ca_9:
@@ -32974,7 +32974,7 @@ translate french advanced_ph_shoot_continued_79a34a1e_10:
 translate french advanced_ph_shoot_continued_64cf16b3_10:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12755
 translate french advanced_ph_shoot_continued_878899ca_10:
@@ -33094,7 +33094,7 @@ translate french advanced_ph_shoot_continued_79a34a1e_11:
 translate french advanced_ph_shoot_continued_64cf16b3_11:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12785
 translate french advanced_ph_shoot_continued_878899ca_11:
@@ -33202,7 +33202,7 @@ translate french advanced_ph_shoot_continued_c12ee42a_3:
 translate french advanced_ph_shoot_continued_1c80183e_3:
 
     # M "Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-    ""
+    M "Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:12810
 translate french advanced_ph_shoot_continued_acb42131:
@@ -33256,7 +33256,7 @@ translate french advanced_ph_shoot_continued_79a34a1e_12:
 translate french advanced_ph_shoot_continued_64cf16b3_12:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12829
 translate french advanced_ph_shoot_continued_878899ca_12:
@@ -33370,7 +33370,7 @@ translate french advanced_ph_shoot_continued_79a34a1e_13:
 translate french advanced_ph_shoot_continued_64cf16b3_13:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12856
 translate french advanced_ph_shoot_continued_878899ca_13:
@@ -33538,7 +33538,7 @@ translate french advanced_ph_shoot_continued_79a34a1e_14:
 translate french advanced_ph_shoot_continued_64cf16b3_14:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12902
 translate french advanced_ph_shoot_continued_878899ca_14:
@@ -33652,7 +33652,7 @@ translate french advanced_ph_shoot_continued_79a34a1e_15:
 translate french advanced_ph_shoot_continued_64cf16b3_15:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12929
 translate french advanced_ph_shoot_continued_878899ca_15:
@@ -33760,7 +33760,7 @@ translate french advanced_ph_shoot_continued_c12ee42a_4:
 translate french advanced_ph_shoot_continued_1c80183e_4:
 
     # M "Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-    ""
+    M "Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:12954
 translate french advanced_ph_shoot_continued_9d752184:
@@ -33814,7 +33814,7 @@ translate french advanced_ph_shoot_continued_79a34a1e_16:
 translate french advanced_ph_shoot_continued_64cf16b3_16:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:12973
 translate french advanced_ph_shoot_continued_878899ca_16:
@@ -33922,7 +33922,7 @@ translate french advanced_ph_shoot_continued_79a34a1e_17:
 translate french advanced_ph_shoot_continued_64cf16b3_17:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13001
 translate french advanced_ph_shoot_continued_878899ca_17:
@@ -34090,7 +34090,7 @@ translate french advanced_ph_shoot_continued_79a34a1e_18:
 translate french advanced_ph_shoot_continued_64cf16b3_18:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13047
 translate french advanced_ph_shoot_continued_878899ca_18:
@@ -34198,7 +34198,7 @@ translate french advanced_ph_shoot_continued_79a34a1e_19:
 translate french advanced_ph_shoot_continued_64cf16b3_19:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13075
 translate french advanced_ph_shoot_continued_878899ca_19:
@@ -34306,7 +34306,7 @@ translate french advanced_ph_shoot_continued_a5b7e7d8:
 translate french advanced_ph_shoot_continued_1c80183e_5:
 
     # M "Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-    ""
+    M "Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:13100
 translate french advanced_ph_shoot_continued_5b9541f7:
@@ -34840,7 +34840,7 @@ translate french lick_boots_79a34a1e:
 translate french lick_boots_64cf16b3:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13259
 translate french lick_boots_878899ca:
@@ -34942,7 +34942,7 @@ translate french lick_boots_79a34a1e_1:
 translate french lick_boots_64cf16b3_1:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13286
 translate french lick_boots_878899ca_1:
@@ -35074,7 +35074,7 @@ translate french lick_boots_79a34a1e_2:
 translate french lick_boots_64cf16b3_2:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13326
 translate french lick_boots_878899ca_2:
@@ -35176,7 +35176,7 @@ translate french lick_boots_79a34a1e_3:
 translate french lick_boots_64cf16b3_3:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13353
 translate french lick_boots_878899ca_3:
@@ -35278,7 +35278,7 @@ translate french lick_boots_c12ee42a:
 translate french lick_boots_1c80183e:
 
     # M "Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-    ""
+    M "Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:13379
 translate french lick_boots_050cb0c7:
@@ -35338,7 +35338,7 @@ translate french lick_boots_79a34a1e_4:
 translate french lick_boots_64cf16b3_4:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13399
 translate french lick_boots_878899ca_4:
@@ -35464,7 +35464,7 @@ translate french lick_boots_79a34a1e_5:
 translate french lick_boots_64cf16b3_5:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13430
 translate french lick_boots_878899ca_5:
@@ -35620,7 +35620,7 @@ translate french lick_boots_79a34a1e_6:
 translate french lick_boots_64cf16b3_6:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13474
 translate french lick_boots_878899ca_6:
@@ -35746,7 +35746,7 @@ translate french lick_boots_79a34a1e_7:
 translate french lick_boots_64cf16b3_7:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13505
 translate french lick_boots_878899ca_7:
@@ -35854,7 +35854,7 @@ translate french lick_boots_c12ee42a_1:
 translate french lick_boots_1c80183e_1:
 
     # M "Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-    ""
+    M "Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:13530
 translate french lick_boots_96579cfd:
@@ -35908,7 +35908,7 @@ translate french lick_boots_79a34a1e_8:
 translate french lick_boots_64cf16b3_8:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13549
 translate french lick_boots_878899ca_8:
@@ -36028,7 +36028,7 @@ translate french lick_boots_79a34a1e_9:
 translate french lick_boots_64cf16b3_9:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13579
 translate french lick_boots_878899ca_9:
@@ -36178,7 +36178,7 @@ translate french lick_boots_79a34a1e_10:
 translate french lick_boots_64cf16b3_10:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13622
 translate french lick_boots_878899ca_10:
@@ -36298,7 +36298,7 @@ translate french lick_boots_79a34a1e_11:
 translate french lick_boots_64cf16b3_11:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13652
 translate french lick_boots_878899ca_11:
@@ -36406,7 +36406,7 @@ translate french lick_boots_c12ee42a_2:
 translate french lick_boots_1c80183e_2:
 
     # M "Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-    ""
+    M "Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:13677
 translate french lick_boots_acb42131:
@@ -36460,7 +36460,7 @@ translate french lick_boots_79a34a1e_12:
 translate french lick_boots_64cf16b3_12:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13696
 translate french lick_boots_878899ca_12:
@@ -36574,7 +36574,7 @@ translate french lick_boots_79a34a1e_13:
 translate french lick_boots_64cf16b3_13:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13725
 translate french lick_boots_878899ca_13:
@@ -36742,7 +36742,7 @@ translate french lick_boots_79a34a1e_14:
 translate french lick_boots_64cf16b3_14:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13771
 translate french lick_boots_878899ca_14:
@@ -36856,7 +36856,7 @@ translate french lick_boots_79a34a1e_15:
 translate french lick_boots_64cf16b3_15:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13800
 translate french lick_boots_878899ca_15:
@@ -36964,7 +36964,7 @@ translate french lick_boots_c12ee42a_3:
 translate french lick_boots_1c80183e_3:
 
     # M "Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-    ""
+    M "Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:13825
 translate french lick_boots_9d752184:
@@ -37018,7 +37018,7 @@ translate french lick_boots_79a34a1e_16:
 translate french lick_boots_64cf16b3_16:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13844
 translate french lick_boots_878899ca_16:
@@ -37126,7 +37126,7 @@ translate french lick_boots_79a34a1e_17:
 translate french lick_boots_64cf16b3_17:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13872
 translate french lick_boots_878899ca_17:
@@ -37294,7 +37294,7 @@ translate french lick_boots_79a34a1e_18:
 translate french lick_boots_64cf16b3_18:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13918
 translate french lick_boots_878899ca_18:
@@ -37402,7 +37402,7 @@ translate french lick_boots_79a34a1e_19:
 translate french lick_boots_64cf16b3_19:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:13946
 translate french lick_boots_878899ca_19:
@@ -37510,7 +37510,7 @@ translate french lick_boots_a5b7e7d8:
 translate french lick_boots_1c80183e_4:
 
     # M "Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-    ""
+    M "Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:13971
 translate french lick_boots_5b9541f7:
@@ -38158,7 +38158,7 @@ translate french megans_shirt_65383436:
 translate french megans_shirt_75b227c5:
 
     # M "I'm not okay with this!"
-    ""
+    M "Je ne suis pas d'accord avec ça !"
 
 # game/UpdateScript0.06.rpy:14144
 translate french megans_shirt_69122cef:
@@ -38236,7 +38236,7 @@ translate french megans_shirt_c12ee42a:
 translate french megans_shirt_1c80183e:
 
     # M "Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-    ""
+    M "Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:14164
 translate french megans_shirt_8ed816d0:
@@ -38734,7 +38734,7 @@ translate french megans_shirt_c12ee42a_1:
 translate french megans_shirt_1c80183e_1:
 
     # M "Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-    ""
+    M "Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:14296
 translate french megans_shirt_1fd6b375:
@@ -39238,7 +39238,7 @@ translate french megans_shirt_c12ee42a_2:
 translate french megans_shirt_1c80183e_2:
 
     # M "Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-    ""
+    M "Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:14435
 translate french megans_shirt_9d752184:
@@ -39292,7 +39292,7 @@ translate french megans_shirt_da31f5d5:
 translate french megans_shirt_64cf16b3:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:14454
 translate french megans_shirt_878899ca:
@@ -39400,7 +39400,7 @@ translate french megans_shirt_da31f5d5_1:
 translate french megans_shirt_64cf16b3_1:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:14482
 translate french megans_shirt_878899ca_1:
@@ -39568,7 +39568,7 @@ translate french megans_shirt_da31f5d5_2:
 translate french megans_shirt_64cf16b3_2:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:14528
 translate french megans_shirt_878899ca_2:
@@ -39676,7 +39676,7 @@ translate french megans_shirt_da31f5d5_3:
 translate french megans_shirt_64cf16b3_3:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:14556
 translate french megans_shirt_878899ca_3:
@@ -39784,7 +39784,7 @@ translate french megans_shirt_a5b7e7d8:
 translate french megans_shirt_1c80183e_3:
 
     # M "Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-    ""
+    M "Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:14581
 translate french megans_shirt_d8aa6027:
@@ -40654,7 +40654,7 @@ translate french megan_tied_c12ee42a:
 translate french megan_tied_1c80183e:
 
     # M "Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-    ""
+    M "Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:14847
 translate french megan_tied_1fd6b375:
@@ -41158,7 +41158,7 @@ translate french megan_tied_c12ee42a_1:
 translate french megan_tied_1c80183e_1:
 
     # M "Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-    ""
+    M "Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:14986
 translate french megan_tied_9d752184:
@@ -41212,7 +41212,7 @@ translate french megan_tied_da31f5d5:
 translate french megan_tied_64cf16b3:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:15005
 translate french megan_tied_878899ca:
@@ -41320,7 +41320,7 @@ translate french megan_tied_da31f5d5_1:
 translate french megan_tied_64cf16b3_1:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:15033
 translate french megan_tied_878899ca_1:
@@ -41488,7 +41488,7 @@ translate french megan_tied_da31f5d5_2:
 translate french megan_tied_64cf16b3_2:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:15079
 translate french megan_tied_878899ca_2:
@@ -41596,7 +41596,7 @@ translate french megan_tied_da31f5d5_3:
 translate french megan_tied_64cf16b3_3:
 
     # MG "I'm okay with it."
-    ""
+    MG "Cela ne me dérange pas."
 
 # game/UpdateScript0.06.rpy:15107
 translate french megan_tied_878899ca_3:
@@ -41704,7 +41704,7 @@ translate french megan_tied_a5b7e7d8:
 translate french megan_tied_1c80183e_2:
 
     # M "Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-    ""
+    M "Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:15132
 translate french megan_tied_d8aa6027:
@@ -41962,7 +41962,7 @@ translate french ball_gagged_a7321483:
 translate french ball_gagged_169a8006:
 
     # R "Oh man! My studio's followers and subscribers wouldn't just be disappointed, but they'd probably be pissed if you didn't show your breasts. I'll bet I'd lose a lot of subscribers, and a lot of money."
-    ""
+    R "Oh ! Les adeptes et les abonnés de mon studio ne seraient pas seulement déçus, mais ils seraient probablement furieux si vous ne montriez pas vos seins. Je parie que je perdrais beaucoup d'abonnés et beaucoup d'argent."
 
 # game/UpdateScript0.06.rpy:15218
 translate french ball_gagged_a3531f58:
@@ -42172,7 +42172,7 @@ translate french ball_gagged_a7321483_1:
 translate french ball_gagged_169a8006_1:
 
     # R "Oh man! My studio's followers and subscribers wouldn't just be disappointed, but they'd probably be pissed if you didn't show your breasts. I'll bet I'd lose a lot of subscribers, and a lot of money."
-    ""
+    R "Oh ! Les adeptes et les abonnés de mon studio ne seraient pas seulement déçus, mais ils seraient probablement furieux si vous ne montriez pas vos seins. Je parie que je perdrais beaucoup d'abonnés et beaucoup d'argent."
 
 # game/UpdateScript0.06.rpy:15286
 translate french ball_gagged_a3531f58_1:
@@ -42928,7 +42928,7 @@ translate french ball_gagged_a5b7e7d8:
 translate french ball_gagged_1c80183e:
 
     # M "Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-    ""
+    M "Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:15512
 translate french ball_gagged_9d752184:
@@ -43618,7 +43618,7 @@ translate french ball_gagged_a5b7e7d8_1:
 translate french ball_gagged_1c80183e_1:
 
     # M "Maybe I'll be okay to shoot again on another day after I've processed this and calmed down."
-    ""
+    M "Je pourrai peut-être recommencer à photographier un autre jour, une fois que j'aurai digéré tout cela et que je me serai calmé."
 
 # game/UpdateScript0.06.rpy:15718
 translate french ball_gagged_9d752184_1:

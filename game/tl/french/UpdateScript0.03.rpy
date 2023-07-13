@@ -28,7 +28,7 @@ translate french posting_the_htbyd_pics_6e5a373c:
 translate french posting_the_htbyd_pics_56145a8e:
 
     # RT "{b}(HINT){/b} {i}I can't believe Lauren's okay with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
-    ""
+    RT "{b}(INDICE){/b} {i}Je n'arrive pas à croire que Lauren soit d'accord pour écraser sa chatte sur ma bite ! Je devrais continuer à lui rendre visite dans le salon le soir. Je parie que je peux l'amener à aller plus loin.{/i}"
 
 # game/UpdateScript0.03.rpy:514
 translate french posting_the_htbyd_pics_6876a73c:
@@ -4420,7 +4420,7 @@ translate french ryan_and_lauren_fcaf8732:
 translate french ryan_and_lauren_56145a8e:
 
     # RT "{b}(HINT){/b} {i}I can't believe Lauren's okay with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
-    ""
+    RT "{b}(INDICE){/b} {i}Je n'arrive pas à croire que Lauren soit d'accord pour écraser sa chatte sur ma bite ! Je devrais continuer à lui rendre visite dans le salon le soir. Je parie que je peux l'amener à aller plus loin.{/i}"
 
 # game/UpdateScript0.03.rpy:1980
 translate french ryan_and_lauren_b7459628:
