@@ -2266,7 +2266,7 @@ translate french sidney_search_3f6e100a:
 translate french sidney_search_23ce227c:
 
     # M "It's okay honey. We'll find it, and at least I won't have to go next week."
-    ""
+    M "C'est bon, chérie. On le trouvera, et au moins je n'aurai pas à y aller la semaine prochaine."
 
 # game/UpdateScript0.05.rpy:1235
 translate french sidney_search_5bc5c0af:
@@ -2782,7 +2782,7 @@ translate french sidney_search_89aa9450:
 translate french sidney_search_e10f00ff:
 
     # J "Sidney, this is my niece Armani."
-    ""
+    J "Sidney, voici ma nièce Armani."
 
 # game/UpdateScript0.05.rpy:1372
 translate french sidney_search_8a2d51b0:

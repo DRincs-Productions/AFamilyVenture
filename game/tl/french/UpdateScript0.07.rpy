@@ -10666,7 +10666,7 @@ translate french finished_painting_199dffce:
 translate french finished_painting_b798e26f:
 
     # MS "Are you doing okay over there?"
-    ""
+    MS "Vous vous en sortez bien là-bas ?"
 
 # game/UpdateScript0.07.rpy:5050
 translate french finished_painting_52683ccd:
@@ -11044,7 +11044,7 @@ translate french finished_painting_17323868:
 translate french finished_painting_b798e26f_1:
 
     # MS "Are you doing okay over there?"
-    ""
+    MS "Vous vous en sortez bien là-bas ?"
 
 # game/UpdateScript0.07.rpy:5198
 translate french finished_painting_52683ccd_1:
@@ -28024,7 +28024,7 @@ translate french good_shower_end_f51b04c4:
 translate french good_shower_end_dbb84d14:
 
     # L "Well, normally I wouldn't... but if it helps me get dirt on Matt so I can win the election, I'm more than okay with it."
-    ""
+    L "Normalement, je ne le ferais pas... mais si ça me permet de salir Matt pour gagner l'élection, je suis plus que d'accord."
 
 # game/UpdateScript0.07.rpy:11743
 translate french good_shower_end_bb794cd3:
@@ -32764,7 +32764,7 @@ translate french best_polls_aftermath_d9193c1b:
 translate french best_polls_aftermath_6699749f:
 
     # MD "Is that okay with you, [ryan]?"
-    ""
+    MD "Cela vous convient-il, [ryan]?"
 
 # game/UpdateScript0.07.rpy:13507
 translate french best_polls_aftermath_d4d4950f:

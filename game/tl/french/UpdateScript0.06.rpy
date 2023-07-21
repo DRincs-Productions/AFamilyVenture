@@ -22186,7 +22186,7 @@ translate french both_caught_8eedc393:
 translate french both_caught_ad58939f:
 
     # R "So you're saying doing this to your son is weird, but you're okay with doing this to your students?"
-    ""
+    R "Donc vous dites que c'est bizarre de faire ça à votre fils, mais que vous êtes d'accord pour faire ça à vos élèves ?"
 
 # game/UpdateScript0.06.rpy:8974
 translate french both_caught_7ec8979f:
@@ -23218,7 +23218,7 @@ translate french both_caught_c878db5d:
 translate french both_caught_a9790eba:
 
     # MG "But besides the occasional creepy stalker, I haven't been able to get a very good following."
-    ""
+    MG "Mais à part quelques harceleurs effrayants, je n'ai pas réussi à me faire de nombreux adeptes."
 
 # game/UpdateScript0.06.rpy:9280
 translate french both_caught_a9ee5a67:
@@ -24616,7 +24616,7 @@ translate french candy_strip_show_72f9e39f:
 translate french candy_strip_show_4ddddd76:
 
     # CD "You won't be disappointed!"
-    ""
+    CD "Vous ne serez pas déçus !"
 
 # game/UpdateScript0.06.rpy:9715
 translate french candy_strip_show_cd95a702:
@@ -25516,7 +25516,7 @@ translate french find_sidney_202e4119_1:
 translate french find_sidney_1b81779d:
 
     # AD "So you think it's okay to shove things up someone's ass?"
-    ""
+    AD "Vous pensez donc qu'il est acceptable d'enfoncer des choses dans le cul de quelqu'un ?"
 
 # game/UpdateScript0.06.rpy:9991
 translate french find_sidney_a03e1d3e:
@@ -25720,7 +25720,7 @@ translate french find_sidney_dbd6e2dc:
 translate french find_sidney_757f4571:
 
     # A "Make sure Sidney's okay for me, will you?"
-    ""
+    A "Assurez-vous que Sidney va bien pour moi, voulez-vous ?"
 
 # game/UpdateScript0.06.rpy:10037
 translate french find_sidney_e5307bb3:
@@ -27766,7 +27766,7 @@ translate french candy_danced_again_72f9e39f:
 translate french candy_danced_again_4ddddd76:
 
     # CD "You won't be disappointed!"
-    ""
+    CD "Vous ne serez pas déçus !"
 
 # game/UpdateScript0.06.rpy:10941
 translate french candy_danced_again_06da713a:
@@ -48682,7 +48682,7 @@ translate french ph_recap_end_9c70221f:
 translate french ph_recap_end_875f43d0:
 
     # PM "Oh... You think it's okay to talk to your professor like that?"
-    ""
+    PM "Oh... Vous pensez que c'est normal de parler à votre professeur comme ça ?"
 
 # game/UpdateScript0.06.rpy:17223
 translate french ph_recap_end_1002f6e2:
