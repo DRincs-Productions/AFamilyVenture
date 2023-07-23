@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-06-26 17:10\n"
+"PO-Revision-Date: 2023-07-23 18:38\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScript0.06.rpy:715 #-#-# translate crowdin move_in_day_31871088:
 msgid "[_RT_] {i}I... think I slept in... What time is it?{/i}"
@@ -1486,27 +1486,27 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:1625 #-#-# translate crowdin ph_reading_time_1678de5a:
 msgid "[_RT_] {i}Perry Hotter and the prisoner of Moldevort's Dungeon.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Perry Hotter ve Moldevort'un Zindanı'ndaki mahkum.{/i}"
 
 # game/UpdateScript0.06.rpy:1626 #-#-# translate crowdin ph_reading_time_e0e8597b:
 msgid "[_RT_] {i}The books seem to progress in age content with the reader, but this one looks like it's going to be more like \"37 Shades of Grey\".{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Kitaplar okuyucuyla birlikte yaş içeriğinde ilerliyor gibi görünüyor, ancak bu kitap daha çok \"Grinin 37 Tonu\" gibi olacak gibi görünüyor.{/i}"
 
 # game/UpdateScript0.06.rpy:1627 #-#-# translate crowdin ph_reading_time_effd3c19:
 msgid "[_RT_] {i}I can't wait to get into it!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}İçine girmek için sabırsızlanıyorum!{/i}"
 
 # game/UpdateScript0.06.rpy:1630 #-#-# translate crowdin ph_reading_time_3e4008fa:
 msgid "[_RT_] {i}([ryan] reading in head) Perry Hotter was a highly unusual boy in many ways...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}([ryan] kafasında okuyor) Perry Hotter birçok açıdan oldukça sıra dışı bir çocuktu...{/i}"
 
 # game/UpdateScript0.06.rpy:1633 #-#-# translate crowdin ph_reading_time_b6829274:
 msgid "{i}\"Some time later.\"{/i}"
-msgstr ""
+msgstr "{i}\"Bir süre sonra.\"{/i}"
 
 # game/UpdateScript0.06.rpy:1636 #-#-# translate crowdin ph_reading_time_76b2ab26:
 msgid "[_RT_] {i}([ryan] still reading in head) Perry stepped out of the way. Thin cords shot from Lewdin’s wand this time, and next moment, Peckergrew was wriggling on the floor, bound and gagged...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}([ryan] hala kafasının içinde okuyor) Perry yoldan çekildi. Bu kez Lewdin'in asasından ince ipler fırladı ve bir an sonra Peckergrew yerde kıvranıyordu, bağlı ve ağzı tıkalıydı...{/i}"
 
 # game/UpdateScript0.06.rpy:1639 #-#-# translate crowdin ph_reading_time_3e25e689:
 msgid "[_M_] Oh, hey. Just passing by from the shower to my room, and I thought you might be reading again!"
@@ -1518,23 +1518,23 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:1643 #-#-# translate crowdin ph_reading_time_a6adb8ef:
 msgid "[_M_] Holy cow! I can't believe you're on the third book already!"
-msgstr ""
+msgstr "[_M_] Vay anasını! Şimdiden üçüncü kitapta olduğuna inanamıyorum!"
 
 # game/UpdateScript0.06.rpy:1644 #-#-# translate crowdin ph_reading_time_630d7a1a:
 msgid "[_M_] I told you those books are really addictive!"
-msgstr ""
+msgstr "[_M_] Bu kitapların gerçekten bağımlılık yaptığını söylemiştim!"
 
 # game/UpdateScript0.06.rpy:1645 #-#-# translate crowdin ph_reading_time_cbad11f0:
 msgid "[_R_] I'm not addicted!... I just want to get through them so we can finish the photoshoot."
-msgstr ""
+msgstr "[_R_] Bağımlı değilim!... Sadece fotoğraf çekimini bitirebilmek için onları bitirmek istiyorum."
 
 # game/UpdateScript0.06.rpy:1646 #-#-# translate crowdin ph_reading_time_b3e49aac:
 msgid "[_M_] Ok... sure..."
-msgstr ""
+msgstr "[_M_] Tamam... tabii..."
 
 # game/UpdateScript0.06.rpy:1647 #-#-# translate crowdin ph_reading_time_c459ded5:
 msgid "[_R_] What?... You don't believe me?"
-msgstr ""
+msgstr "[_R_] Ne? Bana inanmıyor musun?"
 
 # game/UpdateScript0.06.rpy:1648 #-#-# translate crowdin ph_reading_time_9040f0a8:
 msgid "[_M_] ...."
@@ -1542,51 +1542,51 @@ msgstr "[_M_] ...."
 
 # game/UpdateScript0.06.rpy:1649 #-#-# translate crowdin ph_reading_time_95df2b65:
 msgid "[_R_] Fine, I don't care."
-msgstr ""
+msgstr "[_R_] Tamam, umurumda değil."
 
 # game/UpdateScript0.06.rpy:1650 #-#-# translate crowdin ph_reading_time_fd36784a:
 msgid "[_M_] How far into it are you?"
-msgstr ""
+msgstr "[_M_] Ne kadar ilerledin?"
 
 # game/UpdateScript0.06.rpy:1651 #-#-# translate crowdin ph_reading_time_af4b37eb:
 msgid "[_R_] Well... Perry and Hermione are watching Sirius Wack and Lewdin confront Peckergrew for the second time."
-msgstr ""
+msgstr "[_R_] Şey... Perry ve Hermione, Sirius Wack ve Lewdin'in Peckergrew ile ikinci kez yüzleşmesini izliyor."
 
 # game/UpdateScript0.06.rpy:1652 #-#-# translate crowdin ph_reading_time_a3b91931:
 msgid "[_M_] Oh... so they've already gone back in time?"
-msgstr ""
+msgstr "[_M_] Oh... yani çoktan zamanda geri mi gittiler?"
 
 # game/UpdateScript0.06.rpy:1653 #-#-# translate crowdin ph_reading_time_3638e574:
 msgid "[_R_] Yeah... but some of this doesn't make any sense."
-msgstr ""
+msgstr "[_R_] Evet... ama bunların bazıları hiç mantıklı değil."
 
 # game/UpdateScript0.06.rpy:1656 #-#-# translate crowdin ph_reading_time_220dd449:
 msgid "[_M_] Oh?... Like what?"
-msgstr ""
+msgstr "[_M_] Oh?... Ne gibi?"
 
 # game/UpdateScript0.06.rpy:1657 #-#-# translate crowdin ph_reading_time_5651656b:
 msgid "[_R_] Like why don't they just use the time turner to go kill baby Moldevort?"
-msgstr ""
+msgstr "[_R_] Mesela neden zaman döndürücüyü bebek Moldevort'u öldürmek için kullanmıyorlar?"
 
 # game/UpdateScript0.06.rpy:1658 #-#-# translate crowdin ph_reading_time_b3c5a256:
 msgid "[_M_] You can't kill a baby! Plus, you can't travel that far back in time with it."
-msgstr ""
+msgstr "[_M_] Bir bebeği öldüremezsin! Ayrıca, onunla zamanda o kadar geriye gidemezsin."
 
 # game/UpdateScript0.06.rpy:1659 #-#-# translate crowdin ph_reading_time_df5655aa:
 msgid "[_R_] Well then, why didn't Duffledore use it in the past to stop Moldevort from killing Perry's parents?"
-msgstr ""
+msgstr "[_R_] Peki o zaman Duffledore neden geçmişte Moldevort'un Perry'nin ailesini öldürmesini engellemek için onu kullanmadı?"
 
 # game/UpdateScript0.06.rpy:1662 #-#-# translate crowdin ph_reading_time_6fafd760:
 msgid "[_M_] Because he knew the only person who could stop Moldevort was Perry, plus he didn't have one at the time since the Ministry keeps them locked up."
-msgstr ""
+msgstr "[_M_] Çünkü Moldevort'u durdurabilecek tek kişinin Perry olduğunu biliyordu, ayrıca Bakanlık onları kilit altında tuttuğu için o sırada bir tane bile yoktu."
 
 # game/UpdateScript0.06.rpy:1663 #-#-# translate crowdin ph_reading_time_2b1cf2ba:
 msgid "[_M_] Besides they need to use the time turner to save Blackbeak!"
-msgstr ""
+msgstr "[_M_] Ayrıca Karasakal'ı kurtarmak için zaman döndürücüyü kullanmaları gerekiyor!"
 
 # game/UpdateScript0.06.rpy:1664 #-#-# translate crowdin ph_reading_time_cd535a1e:
 msgid "[_R_] That stupid bird?"
-msgstr ""
+msgstr "[_R_] O aptal kuş mu?"
 
 # game/UpdateScript0.06.rpy:1665 #-#-# translate crowdin ph_reading_time_1e5c78df:
 msgid "[_M_] He's not stupid!... He and Hermione have a very special relationship!"
@@ -1758,27 +1758,27 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:1742 #-#-# translate crowdin ph_reading_time_1678de5a_1:
 msgid "[_RT_] {i}Perry Hotter and the prisoner of Moldevort's Dungeon.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Perry Hotter ve Moldevort'un Zindanı'ndaki mahkum.{/i}"
 
 # game/UpdateScript0.06.rpy:1743 #-#-# translate crowdin ph_reading_time_e0e8597b_1:
 msgid "[_RT_] {i}The books seem to progress in age content with the reader, but this one looks like it's going to be more like \"37 Shades of Grey\".{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Kitaplar okuyucuyla birlikte yaş içeriğinde ilerliyor gibi görünüyor, ancak bu kitap daha çok \"Grinin 37 Tonu\" gibi olacak gibi görünüyor.{/i}"
 
 # game/UpdateScript0.06.rpy:1744 #-#-# translate crowdin ph_reading_time_effd3c19_1:
 msgid "[_RT_] {i}I can't wait to get into it!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}İçine girmek için sabırsızlanıyorum!{/i}"
 
 # game/UpdateScript0.06.rpy:1747 #-#-# translate crowdin ph_reading_time_3e4008fa_1:
 msgid "[_RT_] {i}([ryan] reading in head) Perry Hotter was a highly unusual boy in many ways...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}([ryan] kafasında okuyor) Perry Hotter birçok açıdan oldukça sıra dışı bir çocuktu...{/i}"
 
 # game/UpdateScript0.06.rpy:1750 #-#-# translate crowdin ph_reading_time_b6829274_1:
 msgid "{i}\"Some time later.\"{/i}"
-msgstr ""
+msgstr "{i}\"Bir süre sonra.\"{/i}"
 
 # game/UpdateScript0.06.rpy:1753 #-#-# translate crowdin ph_reading_time_76b2ab26_1:
 msgid "[_RT_] {i}([ryan] still reading in head) Perry stepped out of the way. Thin cords shot from Lewdin’s wand this time, and next moment, Peckergrew was wriggling on the floor, bound and gagged...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}([ryan] hala kafasının içinde okuyor) Perry yoldan çekildi. Bu kez Lewdin'in asasından ince ipler fırladı ve bir an sonra Peckergrew yerde kıvranıyordu, bağlı ve ağzı tıkalıydı...{/i}"
 
 # game/UpdateScript0.06.rpy:1756 #-#-# translate crowdin ph_reading_time_3e25e689_1:
 msgid "[_M_] Oh, hey. Just passing by from the shower to my room, and I thought you might be reading again!"
@@ -1790,23 +1790,23 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:1760 #-#-# translate crowdin ph_reading_time_a6adb8ef_1:
 msgid "[_M_] Holy cow! I can't believe you're on the third book already!"
-msgstr ""
+msgstr "[_M_] Vay anasını! Şimdiden üçüncü kitapta olduğuna inanamıyorum!"
 
 # game/UpdateScript0.06.rpy:1761 #-#-# translate crowdin ph_reading_time_630d7a1a_1:
 msgid "[_M_] I told you those books are really addictive!"
-msgstr ""
+msgstr "[_M_] Bu kitapların gerçekten bağımlılık yaptığını söylemiştim!"
 
 # game/UpdateScript0.06.rpy:1762 #-#-# translate crowdin ph_reading_time_cbad11f0_1:
 msgid "[_R_] I'm not addicted!... I just want to get through them so we can finish the photoshoot."
-msgstr ""
+msgstr "[_R_] Bağımlı değilim!... Sadece fotoğraf çekimini bitirebilmek için onları bitirmek istiyorum."
 
 # game/UpdateScript0.06.rpy:1763 #-#-# translate crowdin ph_reading_time_b3e49aac_1:
 msgid "[_M_] Ok... sure..."
-msgstr ""
+msgstr "[_M_] Tamam... tabii..."
 
 # game/UpdateScript0.06.rpy:1764 #-#-# translate crowdin ph_reading_time_c459ded5_1:
 msgid "[_R_] What?... You don't believe me?"
-msgstr ""
+msgstr "[_R_] Ne? Bana inanmıyor musun?"
 
 # game/UpdateScript0.06.rpy:1765 #-#-# translate crowdin ph_reading_time_9040f0a8_1:
 msgid "[_M_] ...."
@@ -1814,51 +1814,51 @@ msgstr "[_M_] ...."
 
 # game/UpdateScript0.06.rpy:1766 #-#-# translate crowdin ph_reading_time_95df2b65_1:
 msgid "[_R_] Fine, I don't care."
-msgstr ""
+msgstr "[_R_] Tamam, umurumda değil."
 
 # game/UpdateScript0.06.rpy:1767 #-#-# translate crowdin ph_reading_time_fd36784a_1:
 msgid "[_M_] How far into it are you?"
-msgstr ""
+msgstr "[_M_] Ne kadar ilerledin?"
 
 # game/UpdateScript0.06.rpy:1768 #-#-# translate crowdin ph_reading_time_af4b37eb_1:
 msgid "[_R_] Well... Perry and Hermione are watching Sirius Wack and Lewdin confront Peckergrew for the second time."
-msgstr ""
+msgstr "[_R_] Şey... Perry ve Hermione, Sirius Wack ve Lewdin'in Peckergrew ile ikinci kez yüzleşmesini izliyor."
 
 # game/UpdateScript0.06.rpy:1769 #-#-# translate crowdin ph_reading_time_a3b91931_1:
 msgid "[_M_] Oh... so they've already gone back in time?"
-msgstr ""
+msgstr "[_M_] Oh... yani çoktan zamanda geri mi gittiler?"
 
 # game/UpdateScript0.06.rpy:1770 #-#-# translate crowdin ph_reading_time_3638e574_1:
 msgid "[_R_] Yeah... but some of this doesn't make any sense."
-msgstr ""
+msgstr "[_R_] Evet... ama bunların bazıları hiç mantıklı değil."
 
 # game/UpdateScript0.06.rpy:1773 #-#-# translate crowdin ph_reading_time_220dd449_1:
 msgid "[_M_] Oh?... Like what?"
-msgstr ""
+msgstr "[_M_] Oh?... Ne gibi?"
 
 # game/UpdateScript0.06.rpy:1774 #-#-# translate crowdin ph_reading_time_5651656b_1:
 msgid "[_R_] Like why don't they just use the time turner to go kill baby Moldevort?"
-msgstr ""
+msgstr "[_R_] Mesela neden zaman döndürücüyü bebek Moldevort'u öldürmek için kullanmıyorlar?"
 
 # game/UpdateScript0.06.rpy:1775 #-#-# translate crowdin ph_reading_time_b3c5a256_1:
 msgid "[_M_] You can't kill a baby! Plus, you can't travel that far back in time with it."
-msgstr ""
+msgstr "[_M_] Bir bebeği öldüremezsin! Ayrıca, onunla zamanda o kadar geriye gidemezsin."
 
 # game/UpdateScript0.06.rpy:1776 #-#-# translate crowdin ph_reading_time_df5655aa_1:
 msgid "[_R_] Well then, why didn't Duffledore use it in the past to stop Moldevort from killing Perry's parents?"
-msgstr ""
+msgstr "[_R_] Peki o zaman Duffledore neden geçmişte Moldevort'un Perry'nin ailesini öldürmesini engellemek için onu kullanmadı?"
 
 # game/UpdateScript0.06.rpy:1779 #-#-# translate crowdin ph_reading_time_6fafd760_1:
 msgid "[_M_] Because he knew the only person who could stop Moldevort was Perry, plus he didn't have one at the time since the Ministry keeps them locked up."
-msgstr ""
+msgstr "[_M_] Çünkü Moldevort'u durdurabilecek tek kişinin Perry olduğunu biliyordu, ayrıca Bakanlık onları kilit altında tuttuğu için o sırada bir tane bile yoktu."
 
 # game/UpdateScript0.06.rpy:1780 #-#-# translate crowdin ph_reading_time_2b1cf2ba_1:
 msgid "[_M_] Besides they need to use the time turner to save Blackbeak!"
-msgstr ""
+msgstr "[_M_] Ayrıca Karasakal'ı kurtarmak için zaman döndürücüyü kullanmaları gerekiyor!"
 
 # game/UpdateScript0.06.rpy:1781 #-#-# translate crowdin ph_reading_time_cd535a1e_1:
 msgid "[_R_] That stupid bird?"
-msgstr ""
+msgstr "[_R_] O aptal kuş mu?"
 
 # game/UpdateScript0.06.rpy:1782 #-#-# translate crowdin ph_reading_time_1e5c78df_1:
 msgid "[_M_] He's not stupid!... He and Hermione have a very special relationship!"
@@ -2054,7 +2054,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:1875 #-#-# translate crowdin ph_reading_time_b6829274_2:
 msgid "{i}\"Some time later.\"{/i}"
-msgstr ""
+msgstr "{i}\"Bir süre sonra.\"{/i}"
 
 # game/UpdateScript0.06.rpy:1878 #-#-# translate crowdin ph_reading_time_58918ff9:
 msgid "[_RT_] {i}([ryan] still reading in head) \"What have we found out, I’d like to know?\"\"That Hargrid never entered her Chambers of Secrets,\" said Perry, throwing the cloak over Rod and prodding him in the arm to make him walk. \"She's still innocent.\"{/i}"
@@ -2102,11 +2102,11 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:1893 #-#-# translate crowdin ph_reading_time_6b84f421:
 msgid "[_R_] Yeah well, there's one thing about this book that's been bothering me?"
-msgstr ""
+msgstr "[_R_] Bu kitapla ilgili beni rahatsız eden bir şey var."
 
 # game/UpdateScript0.06.rpy:1894 #-#-# translate crowdin ph_reading_time_0f5720a8:
 msgid "[_R_] So these are considered children's books right?"
-msgstr ""
+msgstr "[_R_] Yani bunlar çocuk kitabı sayılıyor, değil mi?"
 
 # game/UpdateScript0.06.rpy:1895 #-#-# translate crowdin ph_reading_time_b118768f:
 msgid "[_M_] Of course..."
@@ -2114,27 +2114,27 @@ msgstr "[_M_] Tabii ki..."
 
 # game/UpdateScript0.06.rpy:1896 #-#-# translate crowdin ph_reading_time_7c7a28f7:
 msgid "[_R_] Well aren't the so called \"Chambers of Secrets\" Just a metaphor for a girl's... you know..."
-msgstr ""
+msgstr "[_R_] \"Sırlar Odası\" denen şey bir kızın... bilirsiniz işte... için bir metafor değil mi?"
 
 # game/UpdateScript0.06.rpy:1899 #-#-# translate crowdin ph_reading_time_0f4ec527:
 msgid "[_M_] Of course not! At least I don't think so. They are a physical location in the book."
-msgstr ""
+msgstr "[_M_] Tabii ki hayır! En azından ben öyle düşünmüyorum. Onlar kitapta fiziksel bir konum."
 
 # game/UpdateScript0.06.rpy:1900 #-#-# translate crowdin ph_reading_time_b229c2b4:
 msgid "[_R_] Are you sure?"
-msgstr ""
+msgstr "[_R_] Emin misin?"
 
 # game/UpdateScript0.06.rpy:1901 #-#-# translate crowdin ph_reading_time_ffa289c6:
 msgid "[_M_] Of course I'm sure, you just haven't reached that part yet."
-msgstr ""
+msgstr "[_M_] Elbette eminim, sadece henüz o kısma gelmediniz."
 
 # game/UpdateScript0.06.rpy:1902 #-#-# translate crowdin ph_reading_time_e2159e71:
 msgid "[_M_] Though if you pay attention, you will understand that the purpose of the Chambers of Secrets are to help a wizard awaken their sexuality in their teen years."
-msgstr ""
+msgstr "[_M_] Yine de dikkat ederseniz, Sırlar Odalarının amacının bir büyücünün gençlik yıllarında cinselliğini uyandırmasına yardımcı olmak olduğunu anlayacaksınız."
 
 # game/UpdateScript0.06.rpy:1903 #-#-# translate crowdin ph_reading_time_41ed6ee0:
 msgid "[_R_] And you don't think it's a metaphor for a girl's vagina and asshole?"
-msgstr ""
+msgstr "[_R_] Ve bunun bir kızın vajinası ve göt deliği için bir metafor olduğunu düşünmüyor musunuz?"
 
 # game/UpdateScript0.06.rpy:1904 #-#-# translate crowdin ph_reading_time_7ec8979f:
 msgid "[_M_] No..."
@@ -2142,31 +2142,31 @@ msgstr "[_M_] Hayır..."
 
 # game/UpdateScript0.06.rpy:1905 #-#-# translate crowdin ph_reading_time_7cab74ef:
 msgid "[_R_] Well, the reason I think it might be..."
-msgstr ""
+msgstr "[_R_] Şey, bunun olabileceğini düşünmemin sebebi."
 
 # game/UpdateScript0.06.rpy:1906 #-#-# translate crowdin ph_reading_time_0b116151:
 msgid "[_MT_] {i}Does [ryan] ever think of anything besides sex?{/i}"
-msgstr ""
+msgstr "[_MT_] {i} [ryan] hiç seksten başka bir şey düşünür mü?{/i}"
 
 # game/UpdateScript0.06.rpy:1907 #-#-# translate crowdin ph_reading_time_1190d156:
 msgid "[_MT_] {i}I wonder how much he's been thinking about the last time I visited him in his room and flashed him my nipple.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Acaba onu odasında ziyaret ettiğim ve göğüs ucumu gösterdiğim son sefer hakkında ne kadar düşünüyordu?{/i}"
 
 # game/UpdateScript0.06.rpy:1908 #-#-# translate crowdin ph_reading_time_e8f948ac:
 msgid "[_MT_] {i}He still seems pretty comfortable around me.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Benim yanımda hala çok rahat görünüyor.{/i}"
 
 # game/UpdateScript0.06.rpy:1909 #-#-# translate crowdin ph_reading_time_f7898706:
 msgid "[_MT_] {i}Maybe I need to test him again.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Belki de onu tekrar test etmeliyim.{/i}"
 
 # game/UpdateScript0.06.rpy:1910 #-#-# translate crowdin ph_reading_time_28ebf749:
 msgid "[_MT_] {i}I mean... I need to know how bad his Oedipal complex is... right?{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Yani... Oedipal kompleksinin ne kadar kötü olduğunu bilmem gerek, değil mi?{/i}"
 
 # game/UpdateScript0.06.rpy:1911 #-#-# translate crowdin ph_reading_time_b1c953ac:
 msgid "[_R_] And, if you really pay attention to what Duffledore says when Perry gets a glimpse into his past..."
-msgstr ""
+msgstr "[_R_] Ve Perry geçmişine bir göz attığında Duffledore'un söylediklerine gerçekten dikkat ederseniz..."
 
 # game/UpdateScript0.06.rpy:1914 #-#-# translate crowdin ph_reading_time_dc7a84b6:
 msgid "[_R_] ...."
@@ -2174,7 +2174,7 @@ msgstr "[_R_] ...."
 
 # game/UpdateScript0.06.rpy:1915 #-#-# translate crowdin ph_reading_time_409df1d4:
 msgid "[_RT_] {i}Holy shit! Both her boobs fell out of her towel this time!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Vay anasını! Bu sefer iki memesi de havlusundan düştü!{/i}"
 
 # game/UpdateScript0.06.rpy:1916 #-#-# translate crowdin ph_reading_time_ef809c27:
 msgid "[_RT_] {i}Fuck! I just lost my train of thought!{/i}"
@@ -2182,7 +2182,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:1917 #-#-# translate crowdin ph_reading_time_86f9c0c2:
 msgid "[_RT_] {i}Does she really not notice?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Gerçekten fark etmedi mi?{/i}"
 
 # game/UpdateScript0.06.rpy:1918 #-#-# translate crowdin ph_reading_time_6098e2d6:
 msgid "[_RT_] {i}What do I do?{/i}"
@@ -2190,7 +2190,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:1923 #-#-# translate crowdin ph_reading_time_162063f1:
 msgid "[_MT_] {i}Filthy pervert! He can't look away...{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Pis sapık! Başka tarafa bakamıyor...{/i}"
 
 # game/UpdateScript0.06.rpy:1924 #-#-# translate crowdin ph_reading_time_7da4ac4e:
 msgid "[_MT_] {i}Looks like we've still got some major work to do!{/i}"
@@ -2206,7 +2206,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:1930 #-#-# translate crowdin ph_reading_time_b3197a62:
 msgid "[_MT_] {i}Still... I haven't had anyone stare at my breasts like that for a long time!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Yine de... Uzun zamandır kimse göğüslerime böyle bakmamıştı!{/i}"
 
 # game/UpdateScript0.06.rpy:1931 #-#-# translate crowdin ph_reading_time_8501e157:
 msgid "{i}{b}\"Mom's Libido +2\"{/b}{/i}"
@@ -2218,19 +2218,19 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:1936 #-#-# translate crowdin ph_reading_time_addbe1e4:
 msgid "[_M_] Uhhh... I've got to run... I think... I heard Sidney calling for me."
-msgstr ""
+msgstr "[_M_] Uhhh... Gitmeliyim... Sanırım... Sidney'in beni çağırdığını duydum."
 
 # game/UpdateScript0.06.rpy:1939 #-#-# translate crowdin ph_reading_time_8519046a:
 msgid "[_RT_] {i}Whoa... that got weird fast!...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Vay canına... Bu çok hızlı garipleşti!..{/i}"
 
 # game/UpdateScript0.06.rpy:1940 #-#-# translate crowdin ph_reading_time_adb8e737:
 msgid "[_RT_] {i}Does she keep flashing me on purpose?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Bana bilerek mi çakıyor?{/i}"
 
 # game/UpdateScript0.06.rpy:1941 #-#-# translate crowdin ph_reading_time_aec6aa1d:
 msgid "[_RT_] {i}No way!... She probably just noticed her breasts were hanging out... and got super embarrassed.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Yok artık! Muhtemelen göğüslerinin dışarıda olduğunu fark etmiş ve çok utanmıştır.{/i}"
 
 # game/UpdateScript0.06.rpy:1943 #-#-# translate crowdin ph_reading_time_6a02eb2f:
 msgid "[_R_] Oh! Hey, Mom?"
@@ -2238,11 +2238,11 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:1944 #-#-# translate crowdin ph_reading_time_ec637c3c:
 msgid "[_R_] Just to let you know... uhhmmm... your towel slipped down and now your breasts are hanging out."
-msgstr ""
+msgstr "[_R_] Haberin olsun diye söylüyorum... Havlun aşağı kaydı ve şimdi göğüslerin dışarıda."
 
 # game/UpdateScript0.06.rpy:1947 #-#-# translate crowdin ph_reading_time_80d96edd:
 msgid "[_M_] Oh, my God! I'm so sorry that happened!... I'm so embarrassed!"
-msgstr ""
+msgstr "[_M_] Aman Tanrım! Olanlar için çok üzgünüm! Çok utandım!"
 
 # game/UpdateScript0.06.rpy:1948 #-#-# translate crowdin ph_reading_time_c169f3be:
 msgid "[_MT_] {i}Maybe his complex is getting better off after all.{/i}"
@@ -2262,7 +2262,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:1955 #-#-# translate crowdin ph_reading_time_8519046a_1:
 msgid "[_RT_] {i}Whoa... that got weird fast!...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Vay canına... Bu çok hızlı garipleşti!..{/i}"
 
 # game/UpdateScript0.06.rpy:1956 #-#-# translate crowdin ph_reading_time_53261d7f:
 msgid "[_RT_] {i}Did she flash me on purpose?{/i}"
@@ -2278,7 +2278,7 @@ msgstr "[_RT_]..."
 
 # game/UpdateScript0.06.rpy:1959 #-#-# translate crowdin ph_reading_time_10ba1431:
 msgid "[_RT_] {i}Back to my book, I guess.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Sanırım kitabıma geri döneceğim.{/i}"
 
 # game/UpdateScript0.06.rpy:1962 #-#-# translate crowdin ph_reading_time_e0a1fd58_2:
 msgid "{i}\"Much later\"{/i}"
@@ -2286,7 +2286,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:1965 #-#-# translate crowdin ph_reading_time_0510eaf1:
 msgid "[_RT_] {i}(reading in head) And together they walked back through the gateway to the Muddle world... THE END!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}(Ve birlikte Muddle dünyasına açılan geçitten geri yürüdüler... SON!{/i}"
 
 # game/UpdateScript0.06.rpy:1966 #-#-# translate crowdin ph_reading_time_6594eec7_2:
 msgid "[_RT_] {i}Yes! I finished! Now I can get Mom to do a photoshoot!{/i}"
@@ -2294,7 +2294,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:1967 #-#-# translate crowdin ph_reading_time_02854afc:
 msgid "[_RT_] {i}Oh... Look... There's a preview for the first chapters of the next book...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Oh... Bak... Bir sonraki kitabın ilk bölümleri için bir önizleme var...{/i}"
 
 # game/UpdateScript0.06.rpy:1968 #-#-# translate crowdin ph_reading_time_8bf06be9_2:
 msgid "[_RT_] {i}I'll just take a little look... if... I can... stay... awake...{/i}"
@@ -2326,7 +2326,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:1995 #-#-# translate crowdin ph_reading_time_b6829274_3:
 msgid "{i}\"Some time later.\"{/i}"
-msgstr ""
+msgstr "{i}\"Bir süre sonra.\"{/i}"
 
 # game/UpdateScript0.06.rpy:1998 #-#-# translate crowdin ph_reading_time_58918ff9_1:
 msgid "[_RT_] {i}([ryan] still reading in head) \"What have we found out, I’d like to know?\"\"That Hargrid never entered her Chambers of Secrets,\" said Perry, throwing the cloak over Rod and prodding him in the arm to make him walk. \"She's still innocent.\"{/i}"
@@ -2374,11 +2374,11 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:2013 #-#-# translate crowdin ph_reading_time_6b84f421_1:
 msgid "[_R_] Yeah well, there's one thing about this book that's been bothering me?"
-msgstr ""
+msgstr "[_R_] Bu kitapla ilgili beni rahatsız eden bir şey var."
 
 # game/UpdateScript0.06.rpy:2014 #-#-# translate crowdin ph_reading_time_0f5720a8_1:
 msgid "[_R_] So these are considered children's books right?"
-msgstr ""
+msgstr "[_R_] Yani bunlar çocuk kitabı sayılıyor, değil mi?"
 
 # game/UpdateScript0.06.rpy:2015 #-#-# translate crowdin ph_reading_time_b118768f_1:
 msgid "[_M_] Of course..."
@@ -2386,27 +2386,27 @@ msgstr "[_M_] Tabii ki..."
 
 # game/UpdateScript0.06.rpy:2016 #-#-# translate crowdin ph_reading_time_7c7a28f7_1:
 msgid "[_R_] Well aren't the so called \"Chambers of Secrets\" Just a metaphor for a girl's... you know..."
-msgstr ""
+msgstr "[_R_] \"Sırlar Odası\" denen şey bir kızın... bilirsiniz işte... için bir metafor değil mi?"
 
 # game/UpdateScript0.06.rpy:2019 #-#-# translate crowdin ph_reading_time_0f4ec527_1:
 msgid "[_M_] Of course not! At least I don't think so. They are a physical location in the book."
-msgstr ""
+msgstr "[_M_] Tabii ki hayır! En azından ben öyle düşünmüyorum. Onlar kitapta fiziksel bir konum."
 
 # game/UpdateScript0.06.rpy:2020 #-#-# translate crowdin ph_reading_time_b229c2b4_1:
 msgid "[_R_] Are you sure?"
-msgstr ""
+msgstr "[_R_] Emin misin?"
 
 # game/UpdateScript0.06.rpy:2021 #-#-# translate crowdin ph_reading_time_ffa289c6_1:
 msgid "[_M_] Of course I'm sure, you just haven't reached that part yet."
-msgstr ""
+msgstr "[_M_] Elbette eminim, sadece henüz o kısma gelmediniz."
 
 # game/UpdateScript0.06.rpy:2022 #-#-# translate crowdin ph_reading_time_e2159e71_1:
 msgid "[_M_] Though if you pay attention, you will understand that the purpose of the Chambers of Secrets are to help a wizard awaken their sexuality in their teen years."
-msgstr ""
+msgstr "[_M_] Yine de dikkat ederseniz, Sırlar Odalarının amacının bir büyücünün gençlik yıllarında cinselliğini uyandırmasına yardımcı olmak olduğunu anlayacaksınız."
 
 # game/UpdateScript0.06.rpy:2023 #-#-# translate crowdin ph_reading_time_41ed6ee0_1:
 msgid "[_R_] And you don't think it's a metaphor for a girl's vagina and asshole?"
-msgstr ""
+msgstr "[_R_] Ve bunun bir kızın vajinası ve göt deliği için bir metafor olduğunu düşünmüyor musunuz?"
 
 # game/UpdateScript0.06.rpy:2024 #-#-# translate crowdin ph_reading_time_7ec8979f_1:
 msgid "[_M_] No..."
@@ -2414,31 +2414,31 @@ msgstr "[_M_] Hayır..."
 
 # game/UpdateScript0.06.rpy:2025 #-#-# translate crowdin ph_reading_time_7cab74ef_1:
 msgid "[_R_] Well, the reason I think it might be..."
-msgstr ""
+msgstr "[_R_] Şey, bunun olabileceğini düşünmemin sebebi."
 
 # game/UpdateScript0.06.rpy:2026 #-#-# translate crowdin ph_reading_time_0b116151_1:
 msgid "[_MT_] {i}Does [ryan] ever think of anything besides sex?{/i}"
-msgstr ""
+msgstr "[_MT_] {i} [ryan] hiç seksten başka bir şey düşünür mü?{/i}"
 
 # game/UpdateScript0.06.rpy:2027 #-#-# translate crowdin ph_reading_time_1190d156_1:
 msgid "[_MT_] {i}I wonder how much he's been thinking about the last time I visited him in his room and flashed him my nipple.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Acaba onu odasında ziyaret ettiğim ve göğüs ucumu gösterdiğim son sefer hakkında ne kadar düşünüyordu?{/i}"
 
 # game/UpdateScript0.06.rpy:2028 #-#-# translate crowdin ph_reading_time_e8f948ac_1:
 msgid "[_MT_] {i}He still seems pretty comfortable around me.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Benim yanımda hala çok rahat görünüyor.{/i}"
 
 # game/UpdateScript0.06.rpy:2029 #-#-# translate crowdin ph_reading_time_f7898706_1:
 msgid "[_MT_] {i}Maybe I need to test him again.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Belki de onu tekrar test etmeliyim.{/i}"
 
 # game/UpdateScript0.06.rpy:2030 #-#-# translate crowdin ph_reading_time_28ebf749_1:
 msgid "[_MT_] {i}I mean... I need to know how bad his Oedipal complex is... right?{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Yani... Oedipal kompleksinin ne kadar kötü olduğunu bilmem gerek, değil mi?{/i}"
 
 # game/UpdateScript0.06.rpy:2031 #-#-# translate crowdin ph_reading_time_b1c953ac_1:
 msgid "[_R_] And, if you really pay attention to what Duffledore says when Perry gets a glimpse into his past..."
-msgstr ""
+msgstr "[_R_] Ve Perry geçmişine bir göz attığında Duffledore'un söylediklerine gerçekten dikkat ederseniz..."
 
 # game/UpdateScript0.06.rpy:2034 #-#-# translate crowdin ph_reading_time_dc7a84b6_1:
 msgid "[_R_] ...."
@@ -2446,7 +2446,7 @@ msgstr "[_R_] ...."
 
 # game/UpdateScript0.06.rpy:2035 #-#-# translate crowdin ph_reading_time_409df1d4_1:
 msgid "[_RT_] {i}Holy shit! Both her boobs fell out of her towel this time!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Vay anasını! Bu sefer iki memesi de havlusundan düştü!{/i}"
 
 # game/UpdateScript0.06.rpy:2036 #-#-# translate crowdin ph_reading_time_ef809c27_1:
 msgid "[_RT_] {i}Fuck! I just lost my train of thought!{/i}"
@@ -2454,7 +2454,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:2037 #-#-# translate crowdin ph_reading_time_86f9c0c2_1:
 msgid "[_RT_] {i}Does she really not notice?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Gerçekten fark etmedi mi?{/i}"
 
 # game/UpdateScript0.06.rpy:2038 #-#-# translate crowdin ph_reading_time_6098e2d6_1:
 msgid "[_RT_] {i}What do I do?{/i}"
@@ -2462,7 +2462,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:2043 #-#-# translate crowdin ph_reading_time_162063f1_1:
 msgid "[_MT_] {i}Filthy pervert! He can't look away...{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Pis sapık! Başka tarafa bakamıyor...{/i}"
 
 # game/UpdateScript0.06.rpy:2044 #-#-# translate crowdin ph_reading_time_7da4ac4e_1:
 msgid "[_MT_] {i}Looks like we've still got some major work to do!{/i}"
@@ -2478,7 +2478,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:2050 #-#-# translate crowdin ph_reading_time_b3197a62_1:
 msgid "[_MT_] {i}Still... I haven't had anyone stare at my breasts like that for a long time!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Yine de... Uzun zamandır kimse göğüslerime böyle bakmamıştı!{/i}"
 
 # game/UpdateScript0.06.rpy:2051 #-#-# translate crowdin ph_reading_time_8501e157_1:
 msgid "{i}{b}\"Mom's Libido +2\"{/b}{/i}"
@@ -2490,19 +2490,19 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:2056 #-#-# translate crowdin ph_reading_time_addbe1e4_1:
 msgid "[_M_] Uhhh... I've got to run... I think... I heard Sidney calling for me."
-msgstr ""
+msgstr "[_M_] Uhhh... Gitmeliyim... Sanırım... Sidney'in beni çağırdığını duydum."
 
 # game/UpdateScript0.06.rpy:2059 #-#-# translate crowdin ph_reading_time_8519046a_2:
 msgid "[_RT_] {i}Whoa... that got weird fast!...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Vay canına... Bu çok hızlı garipleşti!..{/i}"
 
 # game/UpdateScript0.06.rpy:2060 #-#-# translate crowdin ph_reading_time_adb8e737_1:
 msgid "[_RT_] {i}Does she keep flashing me on purpose?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Bana bilerek mi çakıyor?{/i}"
 
 # game/UpdateScript0.06.rpy:2061 #-#-# translate crowdin ph_reading_time_aec6aa1d_1:
 msgid "[_RT_] {i}No way!... She probably just noticed her breasts were hanging out... and got super embarrassed.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Yok artık! Muhtemelen göğüslerinin dışarıda olduğunu fark etmiş ve çok utanmıştır.{/i}"
 
 # game/UpdateScript0.06.rpy:2063 #-#-# translate crowdin ph_reading_time_6a02eb2f_1:
 msgid "[_R_] Oh! Hey, Mom?"
@@ -2510,11 +2510,11 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:2064 #-#-# translate crowdin ph_reading_time_ec637c3c_1:
 msgid "[_R_] Just to let you know... uhhmmm... your towel slipped down and now your breasts are hanging out."
-msgstr ""
+msgstr "[_R_] Haberin olsun diye söylüyorum... Havlun aşağı kaydı ve şimdi göğüslerin dışarıda."
 
 # game/UpdateScript0.06.rpy:2067 #-#-# translate crowdin ph_reading_time_80d96edd_1:
 msgid "[_M_] Oh, my God! I'm so sorry that happened!... I'm so embarrassed!"
-msgstr ""
+msgstr "[_M_] Aman Tanrım! Olanlar için çok üzgünüm! Çok utandım!"
 
 # game/UpdateScript0.06.rpy:2068 #-#-# translate crowdin ph_reading_time_c169f3be_1:
 msgid "[_MT_] {i}Maybe his complex is getting better off after all.{/i}"
@@ -2534,7 +2534,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:2075 #-#-# translate crowdin ph_reading_time_8519046a_3:
 msgid "[_RT_] {i}Whoa... that got weird fast!...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Vay canına... Bu çok hızlı garipleşti!..{/i}"
 
 # game/UpdateScript0.06.rpy:2076 #-#-# translate crowdin ph_reading_time_53261d7f_1:
 msgid "[_RT_] {i}Did she flash me on purpose?{/i}"
@@ -2550,7 +2550,7 @@ msgstr "[_RT_]..."
 
 # game/UpdateScript0.06.rpy:2079 #-#-# translate crowdin ph_reading_time_10ba1431_1:
 msgid "[_RT_] {i}Back to my book, I guess.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Sanırım kitabıma geri döneceğim.{/i}"
 
 # game/UpdateScript0.06.rpy:2082 #-#-# translate crowdin ph_reading_time_e0a1fd58_3:
 msgid "{i}\"Much later\"{/i}"
@@ -2558,7 +2558,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:2085 #-#-# translate crowdin ph_reading_time_0510eaf1_1:
 msgid "[_RT_] {i}(reading in head) And together they walked back through the gateway to the Muddle world... THE END!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}(Ve birlikte Muddle dünyasına açılan geçitten geri yürüdüler... SON!{/i}"
 
 # game/UpdateScript0.06.rpy:2086 #-#-# translate crowdin ph_reading_time_6594eec7_3:
 msgid "[_RT_] {i}Yes! I finished! Now I can get Mom to do a photoshoot!{/i}"
@@ -2566,7 +2566,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:2087 #-#-# translate crowdin ph_reading_time_02854afc_1:
 msgid "[_RT_] {i}Oh... Look... There's a preview for the first chapters of the next book...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Oh... Bak... Bir sonraki kitabın ilk bölümleri için bir önizleme var...{/i}"
 
 # game/UpdateScript0.06.rpy:2088 #-#-# translate crowdin ph_reading_time_8bf06be9_3:
 msgid "[_RT_] {i}I'll just take a little look... if... I can... stay... awake...{/i}"
@@ -2594,39 +2594,39 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:2116 #-#-# translate crowdin ph_reading_time_9c03ac9d:
 msgid "[_RT_] {i}Perry Hotter and the Sorceror's Bone...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Perry Hotter ve Büyücünün Kemiği...{/i}"
 
 # game/UpdateScript0.06.rpy:2117 #-#-# translate crowdin ph_reading_time_a7b77f27:
 msgid "[_RT_] {i}Uggghh...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Uggghh...{/i}"
 
 # game/UpdateScript0.06.rpy:2118 #-#-# translate crowdin ph_reading_time_a854f278:
 msgid "[_RT_] {i}I've avoided reading this series for as long as I could.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Elimden geldiğince bu seriyi okumaktan kaçındım.{/i}"
 
 # game/UpdateScript0.06.rpy:2119 #-#-# translate crowdin ph_reading_time_7d0423a7:
 msgid "[_RT_] {i}I always thought being a Perry Hotter nerd would keep me from getting laid.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Hep Perry Hotter ineği olmanın beni biriyle yatmaktan alıkoyacağını düşünürdüm.{/i}"
 
 # game/UpdateScript0.06.rpy:2120 #-#-# translate crowdin ph_reading_time_185f75a4:
 msgid "[_RT_] {i}Now, it seems like it's the best path to getting laid.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Şimdi, biriyle yatmak için en iyi yol bu gibi görünüyor.{/i}"
 
 # game/UpdateScript0.06.rpy:2121 #-#-# translate crowdin ph_reading_time_fce8b27c:
 msgid "[_RT_] {i}Ok... I can do this...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Tamam... Bunu yapabilirim...{/i}"
 
 # game/UpdateScript0.06.rpy:2124 #-#-# translate crowdin ph_reading_time_038b4d59:
 msgid "[_RT_] {i}([ryan] reading in head) Mr. and Mrs. Bursley, of number five Pecker Drive, were proud to say they were immaculately normal, thank you very much...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}([ryan] kafasında okuyor) Pecker Drive beş numarada oturan Bay ve Bayan Bursley, kusursuz bir şekilde normal olduklarını söylemekten gurur duyuyorlardı, çok teşekkür ederim...{/i}"
 
 # game/UpdateScript0.06.rpy:2127 #-#-# translate crowdin ph_reading_time_b6829274_4:
 msgid "{i}\"Some time later.\"{/i}"
-msgstr ""
+msgstr "{i}\"Bir süre sonra.\"{/i}"
 
 # game/UpdateScript0.06.rpy:2130 #-#-# translate crowdin ph_reading_time_b2c2b3d8:
 msgid "[_RT_] {i}([ryan] still reading in head) It's tonight, said Perry, once he was sure Professor McGargleCum was out of earshot.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}([ryan] hala kafasında okuyor) Bu gece, dedi Perry, Profesör McGargleCum'un duyamayacağından emin olduktan sonra.{/i}"
 
 # game/UpdateScript0.06.rpy:2133 #-#-# translate crowdin ph_reading_time_d28db84e:
 msgid "[_M_] Oh, hey!"
@@ -2634,63 +2634,63 @@ msgstr "[_M_] Oh, hey!"
 
 # game/UpdateScript0.06.rpy:2134 #-#-# translate crowdin ph_reading_time_c95e429e:
 msgid "[_R_] Oh, hi Mom."
-msgstr ""
+msgstr "[_R_] Merhaba anne."
 
 # game/UpdateScript0.06.rpy:2135 #-#-# translate crowdin ph_reading_time_ba492937:
 msgid "[_M_] Sorry to interrupt you... I was on my way to my bedroom after my shower, and saw your light on... I was going to turn it off... but now I see you're in here."
-msgstr ""
+msgstr "[_M_] Böldüğüm için özür dilerim. Duştan sonra yatak odama gidiyordum ve ışığınızın yandığını gördüm. Kapatacaktım... ama şimdi burada olduğunu görüyorum."
 
 # game/UpdateScript0.06.rpy:2138 #-#-# translate crowdin ph_reading_time_5fccb590:
 msgid "[_M_] Oh, hey!... Is that Perry Hotter you're reading?"
-msgstr ""
+msgstr "[_M_] Oh, hey!... Okuduğun Perry Hotter mı?"
 
 # game/UpdateScript0.06.rpy:2139 #-#-# translate crowdin ph_reading_time_73fa0da8:
 msgid "[_R_] Yeah... I decided to finally bite the bullet."
-msgstr ""
+msgstr "[_R_] Evet... Sonunda kurşunu ısırmaya karar verdim."
 
 # game/UpdateScript0.06.rpy:2140 #-#-# translate crowdin ph_reading_time_0d9bc7cf:
 msgid "[_M_] Don't you just love it?"
-msgstr ""
+msgstr "[_M_] Sen de sevmedin mi?"
 
 # game/UpdateScript0.06.rpy:2141 #-#-# translate crowdin ph_reading_time_7c92d0cd:
 msgid "[_R_] It's ok... but there's one thing that's been bugging me... he's got a terrible nickname."
-msgstr ""
+msgstr "[_R_] Sorun değil... ama beni rahatsız eden bir şey var... berbat bir takma adı var."
 
 # game/UpdateScript0.06.rpy:2144 #-#-# translate crowdin ph_reading_time_7d77aaaa:
 msgid "[_M_] Oh, really? You don't like it?"
-msgstr ""
+msgstr "[_M_] Oh, gerçekten mi? Beğenmedin mi?"
 
 # game/UpdateScript0.06.rpy:2145 #-#-# translate crowdin ph_reading_time_18a9c6b4:
 msgid "[_R_] You do?... Really?... You wouldn't mind being called \"The boy with the golden snatch?\""
-msgstr ""
+msgstr "[_R_] Öyle mi? Gerçekten mi? \"Altın amcıklı çocuk\" diye çağrılmaktan rahatsız olmaz mıydın?"
 
 # game/UpdateScript0.06.rpy:2146 #-#-# translate crowdin ph_reading_time_b9824c43:
 msgid "[_R_] You do know what a snatch is slang for, right?"
-msgstr ""
+msgstr "[_R_] Kapışmanın argoda ne anlama geldiğini biliyorsun, değil mi?"
 
 # game/UpdateScript0.06.rpy:2147 #-#-# translate crowdin ph_reading_time_bd564a6e:
 msgid "[_M_] No... the author is British, I don't think it means that in British English..."
-msgstr ""
+msgstr "[_M_] Hayır... Yazar İngiliz, İngiliz İngilizcesinde bu anlama geldiğini sanmıyorum..."
 
 # game/UpdateScript0.06.rpy:2148 #-#-# translate crowdin ph_reading_time_f17af574:
 msgid "[_R_] I'm pretty sure it does."
-msgstr ""
+msgstr "[_R_] Öyle olduğuna eminim."
 
 # game/UpdateScript0.06.rpy:2151 #-#-# translate crowdin ph_reading_time_60fc9876:
 msgid "[_M_] Well... it doesn't mean that in the Perry Hotter world."
-msgstr ""
+msgstr "[_M_] Perry Hotter dünyasında bu anlama gelmiyor."
 
 # game/UpdateScript0.06.rpy:2152 #-#-# translate crowdin ph_reading_time_562d271e:
 msgid "[_M_] In the magic world, a snatch is a beautiful spherical object that they have to chase, and when they catch it... they win their game."
-msgstr ""
+msgstr "[_M_] Sihir dünyasında bir kapmaca, kovalamaları gereken güzel bir küresel nesnedir ve onu yakaladıklarında... oyunlarını kazanırlar."
 
 # game/UpdateScript0.06.rpy:2153 #-#-# translate crowdin ph_reading_time_5afe9ec3:
 msgid "[_M_] And since Perry caught the snatch in his mouth, they gave him that nickname."
-msgstr ""
+msgstr "[_M_] Perry ağzıyla yakaladığı için ona bu lakabı takmışlar."
 
 # game/UpdateScript0.06.rpy:2154 #-#-# translate crowdin ph_reading_time_042d27a5:
 msgid "[_R_] And that doesn't sound like a metaphor to you?"
-msgstr ""
+msgstr "[_R_] Ve bu size bir metafor gibi gelmiyor mu?"
 
 # game/UpdateScript0.06.rpy:2157 #-#-# translate crowdin ph_reading_time_c6bbe185:
 msgid "[_M_] Hmmm... I don't think there's any hidden meaning there."
@@ -5286,7 +5286,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:3994 #-#-# translate crowdin moms_update_six_mbate_thoughts_d48550d7:
 msgid "[_RT_] {i}I thought that was just some kinky porn gimmick where the girls just piss all over.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Bunun sadece kızların her tarafa işediği sapıkça bir porno numarası olduğunu sanıyordum.{/i}"
 
 # game/UpdateScript0.06.rpy:3995 #-#-# translate crowdin moms_update_six_mbate_thoughts_eccb6e7c:
 msgid "[_RT_] {i}Wow, Mom's a real squirter!{/i}"
@@ -5382,7 +5382,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:4056 #-#-# translate crowdin moms_update_six_mbate_thoughts_d48550d7_1:
 msgid "[_RT_] {i}I thought that was just some kinky porn gimmick where the girls just piss all over.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Bunun sadece kızların her tarafa işediği sapıkça bir porno numarası olduğunu sanıyordum.{/i}"
 
 # game/UpdateScript0.06.rpy:4057 #-#-# translate crowdin moms_update_six_mbate_thoughts_eccb6e7c_1:
 msgid "[_RT_] {i}Wow, Mom's a real squirter!{/i}"
@@ -10414,7 +10414,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:6570 #-#-# translate crowdin cum_hj_b229c2b4:
 msgid "[_R_] Are you sure?"
-msgstr ""
+msgstr "[_R_] Emin misin?"
 
 # game/UpdateScript0.06.rpy:6571 #-#-# translate crowdin cum_hj_826a8613:
 msgid "[_MD_] Yes... Positive... Now hurry and get out of here."
@@ -10550,7 +10550,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:6672 #-#-# translate crowdin cum_thighs_b229c2b4:
 msgid "[_R_] Are you sure?"
-msgstr ""
+msgstr "[_R_] Emin misin?"
 
 # game/UpdateScript0.06.rpy:6673 #-#-# translate crowdin cum_thighs_826a8613:
 msgid "[_MD_] Yes... Positive... Now hurry and get out of here."
@@ -11394,7 +11394,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7287 #-#-# translate crowdin update_six_sidneyspycamroomhorny_d48550d7:
 msgid "[_RT_] {i}I thought that was just some kinky porn gimmick where the girls just piss all over.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Bunun sadece kızların her tarafa işediği sapıkça bir porno numarası olduğunu sanıyordum.{/i}"
 
 # game/UpdateScript0.06.rpy:7288 #-#-# translate crowdin update_six_sidneyspycamroomhorny_c7ed333d:
 msgid "[_RT_] {i}Wow, Sidney's a real squirter!{/i}"
@@ -14750,31 +14750,31 @@ msgstr "[_R_] Kesinlikle."
 
 # game/UpdateScript0.06.rpy:8958 #-#-# translate crowdin both_caught_060c2f13:
 msgid "[_MT_] {i}What a bunch of bullshit!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Ne saçmalık ama!{/i}"
 
 # game/UpdateScript0.06.rpy:8959 #-#-# translate crowdin both_caught_ae7bb695:
 msgid "[_MT_] {i}But at least it gives me an excuse as well.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Ama en azından bana da bir bahane veriyor.{/i}"
 
 # game/UpdateScript0.06.rpy:8960 #-#-# translate crowdin both_caught_307c2600:
 msgid "[_M_] Ok fine, but just this once."
-msgstr ""
+msgstr "[_M_] Tamam iyi, ama sadece bu seferlik."
 
 # game/UpdateScript0.06.rpy:8961 #-#-# translate crowdin both_caught_9cd20663:
 msgid "[_R_] I can live with that."
-msgstr ""
+msgstr "[_R_] Bununla yaşayabilirim."
 
 # game/UpdateScript0.06.rpy:8964 #-#-# translate crowdin both_caught_20ecf26d:
 msgid "[_M_] You're even harder than usual."
-msgstr ""
+msgstr "[_M_] Her zamankinden daha sertsin."
 
 # game/UpdateScript0.06.rpy:8965 #-#-# translate crowdin both_caught_8598b082:
 msgid "[_R_] Something about doing this at school turns me on even more."
-msgstr ""
+msgstr "[_R_] Bunu okulda yapmak beni daha da tahrik ediyor."
 
 # game/UpdateScript0.06.rpy:8966 #-#-# translate crowdin both_caught_ecdaee87:
 msgid "[_M_] Haha... you must get that from me."
-msgstr ""
+msgstr "[_M_] Haha... bunu benden almış olmalısın."
 
 # game/UpdateScript0.06.rpy:8967 #-#-# translate crowdin both_caught_6efd0215:
 msgid "[_M_] Even before your dad was arrested, I would sneak in a session in my office now and then."
@@ -14782,23 +14782,23 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:8968 #-#-# translate crowdin both_caught_a7f8bc0b:
 msgid "[_M_] Fuck! Why did I just tell you that?"
-msgstr ""
+msgstr "[_M_] Hay sikeyim! Bunu sana neden söyledim ki?"
 
 # game/UpdateScript0.06.rpy:8969 #-#-# translate crowdin both_caught_ec4f7142:
 msgid "[_MT_] {i}It's like I can't think straight with a huge cock in my hands.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Sanki elimde kocaman bir sik varken doğru düzgün düşünemiyorum.{/i}"
 
 # game/UpdateScript0.06.rpy:8970 #-#-# translate crowdin both_caught_f7a78668:
 msgid "[_R_] It's ok, Mom... I love hearing how much we have in common."
-msgstr ""
+msgstr "[_R_] Sorun değil anne. Ne kadar çok ortak noktamız olduğunu duymak hoşuma gidiyor."
 
 # game/UpdateScript0.06.rpy:8971 #-#-# translate crowdin both_caught_a53252a6:
 msgid "[_M_] Please don't call me Mom in my office..."
-msgstr ""
+msgstr "[_M_] Lütfen ofisimde bana anne deme..."
 
 # game/UpdateScript0.06.rpy:8972 #-#-# translate crowdin both_caught_8eedc393:
 msgid "[_M_] Please call me Miss [mom_name]."
-msgstr ""
+msgstr "[_M_] Lütfen bana Bayan [mom_name]deyin."
 
 # game/UpdateScript0.06.rpy:8973 #-#-# translate crowdin both_caught_ad58939f:
 msgid "[_R_] So you're saying doing this to your son is weird, but you're okay with doing this to your students?"
@@ -14810,35 +14810,35 @@ msgstr "[_M_] Hayır..."
 
 # game/UpdateScript0.06.rpy:8975 #-#-# translate crowdin both_caught_ed0a6905:
 msgid "[_MT_] {i}Maybe?{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Belki? {/i}"
 
 # game/UpdateScript0.06.rpy:8976 #-#-# translate crowdin both_caught_46209681:
 msgid "[_M_] If you want me to finish, then you better stop being such a smartass."
-msgstr ""
+msgstr "[_M_] Bitirmemi istiyorsan, ukalalık etmeyi bıraksan iyi edersin."
 
 # game/UpdateScript0.06.rpy:8977 #-#-# translate crowdin both_caught_e30e8d17:
 msgid "[_R_] Yeah, you've got a class starting pretty soon."
-msgstr ""
+msgstr "[_R_] Evet, çok yakında başlayacak bir dersin var."
 
 # game/UpdateScript0.06.rpy:8978 #-#-# translate crowdin both_caught_480acc87:
 msgid "[_R_] I'll finish sooner if you talk dirty to me."
-msgstr ""
+msgstr "[_R_] Benimle edepsizce konuşursan daha çabuk bitiririm."
 
 # game/UpdateScript0.06.rpy:8979 #-#-# translate crowdin both_caught_728a28e7:
 msgid "[_M_] Or you won't finish at all, if I stop."
-msgstr ""
+msgstr "[_M_] Ya da durursam hiç bitiremezsin."
 
 # game/UpdateScript0.06.rpy:8980 #-#-# translate crowdin both_caught_1e81984b:
 msgid "[_MT_] {i}I don't want to stop.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Durmak istemiyorum.{/i}"
 
 # game/UpdateScript0.06.rpy:8981 #-#-# translate crowdin both_caught_cd90a122:
 msgid "[_MT_] {i}I want to see that cock shoot cum all over!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}O sikin her yere boşalmasını görmek istiyorum!"
 
 # game/UpdateScript0.06.rpy:8982 #-#-# translate crowdin both_caught_23cc0bcf:
 msgid "[_M_] But... for your sexual health..."
-msgstr ""
+msgstr "[_M_] Ama... cinsel sağlığınız için..."
 
 # game/UpdateScript0.06.rpy:8983 #-#-# translate crowdin both_caught_eaa98298:
 msgid "[_M_] ..."
@@ -14846,15 +14846,15 @@ msgstr "[_M_] ..."
 
 # game/UpdateScript0.06.rpy:8984 #-#-# translate crowdin both_caught_95b4590b:
 msgid "[_M_] I love this massive cock!"
-msgstr ""
+msgstr "[_M_] Bu kocaman siki seviyorum!"
 
 # game/UpdateScript0.06.rpy:8985 #-#-# translate crowdin both_caught_a1486ed0:
 msgid "[_R_] Ohhh..."
-msgstr ""
+msgstr "[_R_] Ohhh..."
 
 # game/UpdateScript0.06.rpy:8986 #-#-# translate crowdin both_caught_92d434d1:
 msgid "[_M_] Please... I need to see it cum!"
-msgstr ""
+msgstr "[_M_] Lütfen ... Onu görmeliyim!"
 
 # game/UpdateScript0.06.rpy:8987 #-#-# translate crowdin both_caught_01ac1f3b:
 msgid "[_MT_] {i}Uuugghh... I should not be talking to my son like this!{/i}"
@@ -14862,39 +14862,39 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:8988 #-#-# translate crowdin both_caught_a3569173:
 msgid "[_M_] I need your cum in my mouth!"
-msgstr ""
+msgstr "[_M_] Ağzıma boşalmanı istiyorum!"
 
 # game/UpdateScript0.06.rpy:8989 #-#-# translate crowdin both_caught_21d513b8:
 msgid "[_MT_] {i}This is so wrong!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Bu çok yanlış!{/i}"
 
 # game/UpdateScript0.06.rpy:8990 #-#-# translate crowdin both_caught_ba3dfc20:
 msgid "[_M_] I need it all over my face!"
-msgstr ""
+msgstr "[_M_] Yüzümün her yerinde buna ihtiyacım var!"
 
 # game/UpdateScript0.06.rpy:8991 #-#-# translate crowdin both_caught_11133e7a:
 msgid "[_MT_] {i}This is so weird!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Bu çok garip!{/i}"
 
 # game/UpdateScript0.06.rpy:8992 #-#-# translate crowdin both_caught_7f7200d5:
 msgid "[_M_] Please!... Cover me!"
-msgstr ""
+msgstr "[_M_] Lütfen!... Koru beni!"
 
 # game/UpdateScript0.06.rpy:8993 #-#-# translate crowdin both_caught_2dd0fbd7:
 msgid "[_MT_] {i}So... weirdly arousing!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Garip bir şekilde tahrik edici!{/i}"
 
 # game/UpdateScript0.06.rpy:8994 #-#-# translate crowdin both_caught_7620dcf8:
 msgid "[_R_] Oh, fuck!"
-msgstr ""
+msgstr "[_R_] Oh, siktir!"
 
 # game/UpdateScript0.06.rpy:8999 #-#-# translate crowdin both_caught_cddb97e4:
 msgid "[_MT_] {i}Oh, shit! He didn't give me any warning!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Oh, kahretsin! Beni hiç uyarmadı!{/i}"
 
 # game/UpdateScript0.06.rpy:9003 #-#-# translate crowdin both_caught_8aa23eb9:
 msgid "[_MT_] {i}Aaahh... he's covering me!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Aaahh... beni koruyor!{/i}"
 
 # game/UpdateScript0.06.rpy:9007 #-#-# translate crowdin both_caught_ee113af0:
 msgid "[_MB_] Holy fuck!"
@@ -14906,7 +14906,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:9011 #-#-# translate crowdin both_caught_0cf24963:
 msgid "[_MT_] {i}Goddamned doors without locks!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Kilitsiz lanet kapılar!{/i}"
 
 # game/UpdateScript0.06.rpy:9012 #-#-# translate crowdin both_caught_da7993e6:
 msgid "[_MB_] Hahaha..."
@@ -14926,7 +14926,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:9016 #-#-# translate crowdin both_caught_1fd72b23:
 msgid "[_M_] Not so loud! Get in here and shut the door! Let's talk about this!"
-msgstr ""
+msgstr "[_M_] Çok ses çıkarma! İçeri gir ve kapıyı kapat! Bu konuyu konuşalım!"
 
 # game/UpdateScript0.06.rpy:9021 #-#-# translate crowdin both_caught_c0c98f7d:
 msgid "[_MB_] I think you'll find that I'm pretty accepting and open to people and their sexual perversions."
@@ -14934,7 +14934,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:9022 #-#-# translate crowdin both_caught_5265ed08:
 msgid "[_M_] I wasn't lying... this really isn't what you think it is."
-msgstr ""
+msgstr "[_M_] Yalan söylemiyordum... Bu gerçekten düşündüğünüz gibi değil."
 
 # game/UpdateScript0.06.rpy:9025 #-#-# translate crowdin both_caught_0a90e08d:
 msgid "[_MB_] Let me guess..."
@@ -14946,7 +14946,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:9029 #-#-# translate crowdin both_caught_c2c7af4b:
 msgid "[_M_] Oh, my God... you've played \"Big Brother\" too?"
-msgstr ""
+msgstr "[_M_] Aman Tanrım... Sen de mi \"Big Brother\" oynadın?"
 
 # game/UpdateScript0.06.rpy:9030 #-#-# translate crowdin both_caught_9923bf6e:
 msgid "[_MB_] Well... yeah... those kind of games have been pretty popular with all the kids at school for a few years... Wait! You've played \"Big Brother\"?"
@@ -14954,7 +14954,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:9031 #-#-# translate crowdin both_caught_b903f8e9:
 msgid "[_M_] Well, I've been doing a bunch of research so I can teach the Oedipal curriculum, and [ryan] showed me a few of those games."
-msgstr ""
+msgstr "[_M_] Oedipal müfredatı öğretebilmek için bir süredir araştırma yapıyorum ve [ryan] bana bu oyunlardan birkaçını gösterdi."
 
 # game/UpdateScript0.06.rpy:9032 #-#-# translate crowdin both_caught_c90f311c:
 msgid "[_MB_] Hahah... nice one, [ryan]! Classic porn game protagonist type of move!"
@@ -15166,15 +15166,15 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:9117 #-#-# translate crowdin both_caught_6adc13c0:
 msgid "[_M_] They didn't even bring it before the school board because there were no grounds for dimissal."
-msgstr ""
+msgstr "[_M_] Okul yönetim kuruluna bile getirmediler çünkü görevden alma için bir gerekçe yoktu."
 
 # game/UpdateScript0.06.rpy:9118 #-#-# translate crowdin both_caught_307a5dda:
 msgid "[_M_] It probably helped that she has tenure as well."
-msgstr ""
+msgstr "[_M_] Muhtemelen kadrolu olması da yardımcı olmuştur."
 
 # game/UpdateScript0.06.rpy:9119 #-#-# translate crowdin both_caught_c8b77667:
 msgid "[_R_] You have tenure too, Miss [mom_name]."
-msgstr ""
+msgstr "[_R_] Sizin de görev süreniz var, Bayan [mom_name]."
 
 # game/UpdateScript0.06.rpy:9122 #-#-# translate crowdin both_caught_a36e0053:
 msgid "[_M_] Shut up, [ryan]!"
@@ -15190,7 +15190,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:9131 #-#-# translate crowdin both_caught_3ba1d641:
 msgid "[_M_] Fine!... I'll do the photoshoot."
-msgstr ""
+msgstr "[_M_] Tamam!... Fotoğraf çekimini ben yapacağım."
 
 # game/UpdateScript0.06.rpy:9132 #-#-# translate crowdin both_caught_18917c69:
 msgid "[_MB_] That's awesome!"
@@ -15222,35 +15222,35 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:9143 #-#-# translate crowdin both_caught_8bafe8f4:
 msgid "[_R_] Really? Isn't Perry Hotter kind of juvenile?"
-msgstr ""
+msgstr "[_R_] Gerçekten mi? Perry Hotter biraz çocukça değil mi?"
 
 # game/UpdateScript0.06.rpy:9146 #-#-# translate crowdin both_caught_6d3c7569:
 msgid "[_M_] If you had actually read the books then you'd know they appeal to all ages."
-msgstr ""
+msgstr "[_M_] Kitapları gerçekten okumuş olsaydınız, her yaşa hitap ettiklerini bilirdiniz."
 
 # game/UpdateScript0.06.rpy:9147 #-#-# translate crowdin both_caught_814cd7e0:
 msgid "[_R_] Ok... sorry."
-msgstr ""
+msgstr "[_R_] Tamam. Özür dilerim."
 
 # game/UpdateScript0.06.rpy:9148 #-#-# translate crowdin both_caught_10e7c676:
 msgid "[_M_] You should be!"
-msgstr ""
+msgstr "[_M_] Olmalısın!"
 
 # game/UpdateScript0.06.rpy:9149 #-#-# translate crowdin both_caught_3217f575:
 msgid "[_R_] So, who's going to pay for the cosplay outfits?"
-msgstr ""
+msgstr "[_R_] Peki, cosplay kıyafetlerinin parasını kim ödeyecek?"
 
 # game/UpdateScript0.06.rpy:9152 #-#-# translate crowdin both_caught_1dcb6977:
 msgid "[_M_] Who do you think?"
-msgstr ""
+msgstr "[_M_] Sence kim?"
 
 # game/UpdateScript0.06.rpy:9153 #-#-# translate crowdin both_caught_9212973a:
 msgid "[_R_] Me? But why am I getting stuck with the bill?"
-msgstr ""
+msgstr "[_R_] Ben mi? Ama neden fatura bana kesiliyor?"
 
 # game/UpdateScript0.06.rpy:9154 #-#-# translate crowdin both_caught_91250809:
 msgid "[_M_] All my wages are garnished by the FBI, and I hardly think our extortioner is going to offer to pick up the bill."
-msgstr ""
+msgstr "[_M_] Tüm maaşlarıma FBI tarafından haciz konuldu ve gaspçımızın faturayı ödemeyi teklif edeceğini hiç sanmıyorum."
 
 # game/UpdateScript0.06.rpy:9155 #-#-# translate crowdin both_caught_81826fbe:
 msgid "[_MB_] You thought right."
@@ -15262,7 +15262,7 @@ msgstr "[_R_] İyi!"
 
 # game/UpdateScript0.06.rpy:9157 #-#-# translate crowdin both_caught_253373e3:
 msgid "[_R_] I'll give Sidney the money the next time I see her."
-msgstr ""
+msgstr "[_R_] Sidney'i bir daha gördüğümde parayı ona vereceğim."
 
 # game/UpdateScript0.06.rpy:9160 #-#-# translate crowdin both_caught_8cd1c219:
 msgid "[_MB_] This is so awesome! I can't wait to tell Megan the good news! Just let me know when Sidney's got the costumes all made."
@@ -15270,7 +15270,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:9161 #-#-# translate crowdin both_caught_2decb5dc:
 msgid "[_R_] ... fine."
-msgstr ""
+msgstr "[_R_] .. iyi."
 
 # game/UpdateScript0.06.rpy:9164 #-#-# translate crowdin both_caught_5306e991:
 msgid "[_RT_] {i}Goddammit, I don't want Matt at my photo studio. That's supposed to be my place to be alone with girls. I don't need another guy competing with me in my own space!{/i}"
@@ -15286,15 +15286,15 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:9191 #-#-# translate crowdin both_caught_9c9e7552:
 msgid "[_MG_] Holy fuck!"
-msgstr ""
+msgstr "[_MG_] Ha siktir!"
 
 # game/UpdateScript0.06.rpy:9194 #-#-# translate crowdin both_caught_63f29f23:
 msgid "[_M_] Oh, my God! Megan!"
-msgstr ""
+msgstr "[_M_] Aman Tanrım! Megan!"
 
 # game/UpdateScript0.06.rpy:9195 #-#-# translate crowdin both_caught_0cf24963_1:
 msgid "[_MT_] {i}Goddamned doors without locks!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Kilitsiz lanet kapılar!{/i}"
 
 # game/UpdateScript0.06.rpy:9196 #-#-# translate crowdin both_caught_423519d2:
 msgid "[_MG_] Hahaha..."
@@ -15302,51 +15302,51 @@ msgstr "[_MG_] Hahaha..."
 
 # game/UpdateScript0.06.rpy:9197 #-#-# translate crowdin both_caught_bddc6877:
 msgid "[_MG_] I knew there was something weird going on between the two of you."
-msgstr ""
+msgstr "[_MG_] İkinizin arasında garip bir şeyler olduğunu biliyordum."
 
 # game/UpdateScript0.06.rpy:9198 #-#-# translate crowdin both_caught_dc63d8cd:
 msgid "[_M_] Megan! It's not what you're thinking!"
-msgstr ""
+msgstr "[_M_] Megan! Düşündüğün gibi değil!"
 
 # game/UpdateScript0.06.rpy:9199 #-#-# translate crowdin both_caught_37668f9e:
 msgid "[_MG_] Really?... So that isn't [ryan]'s cum all over your face?"
-msgstr ""
+msgstr "[_MG_] Gerçekten mi?... Yani yüzündeki [ryan]'un dölleri değil mi?"
 
 # game/UpdateScript0.06.rpy:9200 #-#-# translate crowdin both_caught_1fd72b23_1:
 msgid "[_M_] Not so loud! Get in here and shut the door! Let's talk about this!"
-msgstr ""
+msgstr "[_M_] Çok ses çıkarma! İçeri gir ve kapıyı kapat! Bu konuyu konuşalım!"
 
 # game/UpdateScript0.06.rpy:9205 #-#-# translate crowdin both_caught_0f67d412:
 msgid "[_MG_] I think you'll find that I'm pretty accepting and open to people and their sexual perversions."
-msgstr ""
+msgstr "[_MG_] Sanırım insanlara ve onların cinsel sapkınlıklarına karşı oldukça kabullenici ve açık olduğumu göreceksiniz."
 
 # game/UpdateScript0.06.rpy:9206 #-#-# translate crowdin both_caught_5265ed08_1:
 msgid "[_M_] I wasn't lying... this really isn't what you think it is."
-msgstr ""
+msgstr "[_M_] Yalan söylemiyordum... Bu gerçekten düşündüğünüz gibi değil."
 
 # game/UpdateScript0.06.rpy:9209 #-#-# translate crowdin both_caught_7df74920:
 msgid "[_MG_] Let me guess..."
-msgstr ""
+msgstr "[_MG_] Dur tahmin edeyim..."
 
 # game/UpdateScript0.06.rpy:9210 #-#-# translate crowdin both_caught_2ff878eb:
 msgid "[_MG_] [ryan]'s got carpal tunnel syndrome, or some kind of crazy reason why he can't jerk himself off, so you're just helping him to not get too backed up?"
-msgstr ""
+msgstr "[_MG_] [ryan]'nin karpal tünel sendromu ya da mastürbasyon yapamamasının çılgınca bir nedeni var, bu yüzden siz sadece çok fazla geri çekilmemesi için ona yardım ediyorsunuz?"
 
 # game/UpdateScript0.06.rpy:9213 #-#-# translate crowdin both_caught_c2c7af4b_1:
 msgid "[_M_] Oh, my God... you've played \"Big Brother\" too?"
-msgstr ""
+msgstr "[_M_] Aman Tanrım... Sen de mi \"Big Brother\" oynadın?"
 
 # game/UpdateScript0.06.rpy:9214 #-#-# translate crowdin both_caught_7a8b980e:
 msgid "[_MG_] Well... yeah... those kind of games have been pretty popular with all the kids at school for a few years... Wait! You've played \"Big Brother\"?"
-msgstr ""
+msgstr "[_MG_] Şey... evet... bu tür oyunlar birkaç yıldır okuldaki tüm çocuklar arasında oldukça popüler... Bekle! \"Big Brother\" mı oynadın?"
 
 # game/UpdateScript0.06.rpy:9215 #-#-# translate crowdin both_caught_b903f8e9_1:
 msgid "[_M_] Well, I've been doing a bunch of research so I can teach the Oedipal curriculum, and [ryan] showed me a few of those games."
-msgstr ""
+msgstr "[_M_] Oedipal müfredatı öğretebilmek için bir süredir araştırma yapıyorum ve [ryan] bana bu oyunlardan birkaçını gösterdi."
 
 # game/UpdateScript0.06.rpy:9216 #-#-# translate crowdin both_caught_82b48847:
 msgid "[_MG_] Hahah... nice one, [ryan]! Classic porn game protagonist type of move!"
-msgstr ""
+msgstr "[_MG_] Hahah... iyiydi, [ryan]! Klasik porno oyun kahramanı tipi hareket!"
 
 # game/UpdateScript0.06.rpy:9219 #-#-# translate crowdin both_caught_b26417f0:
 msgid "[_MG_] Im impressed!"
@@ -15554,15 +15554,15 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:9301 #-#-# translate crowdin both_caught_6adc13c0_1:
 msgid "[_M_] They didn't even bring it before the school board because there were no grounds for dimissal."
-msgstr ""
+msgstr "[_M_] Okul yönetim kuruluna bile getirmediler çünkü görevden alma için bir gerekçe yoktu."
 
 # game/UpdateScript0.06.rpy:9302 #-#-# translate crowdin both_caught_307a5dda_1:
 msgid "[_M_] It probably helped that she has tenure as well."
-msgstr ""
+msgstr "[_M_] Muhtemelen kadrolu olması da yardımcı olmuştur."
 
 # game/UpdateScript0.06.rpy:9303 #-#-# translate crowdin both_caught_c8b77667_1:
 msgid "[_R_] You have tenure too, Miss [mom_name]."
-msgstr ""
+msgstr "[_R_] Sizin de görev süreniz var, Bayan [mom_name]."
 
 # game/UpdateScript0.06.rpy:9306 #-#-# translate crowdin both_caught_a36e0053_1:
 msgid "[_M_] Shut up, [ryan]!"
@@ -15570,7 +15570,7 @@ msgstr "[_M_] Kapa çeneni, [ryan]!"
 
 # game/UpdateScript0.06.rpy:9309 #-#-# translate crowdin both_caught_e595badc:
 msgid "[_MG_] [ryan] could even put the pictures behind a paywall for premium members, then probably none of your students would see the pics, since almost none of us have access to credit cards."
-msgstr ""
+msgstr "[_MG_] [ryan] Hatta resimleri premium üyeler için bir ödeme duvarının arkasına koyabilirsiniz, o zaman muhtemelen öğrencilerinizden hiçbiri resimleri görmez, çünkü neredeyse hiçbirimizin kredi kartına erişimi yok."
 
 # game/UpdateScript0.06.rpy:9312 #-#-# translate crowdin both_caught_43192fa3_1:
 msgid "[_MT_] {i}Let's see... a formal investigation and scandal for incest, or taking sexy pics with a student, which probably no one will see?{/i}"
@@ -15578,67 +15578,67 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:9315 #-#-# translate crowdin both_caught_3ba1d641_1:
 msgid "[_M_] Fine!... I'll do the photoshoot."
-msgstr ""
+msgstr "[_M_] Tamam!... Fotoğraf çekimini ben yapacağım."
 
 # game/UpdateScript0.06.rpy:9316 #-#-# translate crowdin both_caught_914efb7a:
 msgid "[_MG_] Yay! That's awesome!"
-msgstr ""
+msgstr "[_MG_] Yaşasın! Bu harika!"
 
 # game/UpdateScript0.06.rpy:9317 #-#-# translate crowdin both_caught_01909c65:
 msgid "[_MG_] And just a few more details."
-msgstr ""
+msgstr "[_MG_] Ve sadece birkaç detay daha."
 
 # game/UpdateScript0.06.rpy:9320 #-#-# translate crowdin both_caught_5e175dd6:
 msgid "[_MG_] [ryan], I want you to create the background with your Photochop and 3d modeling skills."
-msgstr ""
+msgstr "[_MG_] [ryan]Photochop ve 3d modelleme becerileriniz ile arka planı oluşturmanızı istiyorum."
 
 # game/UpdateScript0.06.rpy:9323 #-#-# translate crowdin both_caught_f9f763c7:
 msgid "[_MG_] And I love the Perry Hotter movies and books."
-msgstr ""
+msgstr "[_MG_] Perry Hotter filmlerine ve kitaplarına bayılıyorum."
 
 # game/UpdateScript0.06.rpy:9324 #-#-# translate crowdin both_caught_9ec20a00:
 msgid "[_MG_] So I want you to get some Perry Hotter cosplay outfits."
-msgstr ""
+msgstr "[_MG_] Bu yüzden Perry Hotter cosplay kıyafetleri almanı istiyorum."
 
 # game/UpdateScript0.06.rpy:9325 #-#-# translate crowdin both_caught_7e5a14ee:
 msgid "[_MG_] I'm thinking a student and a teacher outfit."
-msgstr ""
+msgstr "[_MG_] Bir öğrenci ve bir öğretmen kıyafeti düşünüyorum."
 
 # game/UpdateScript0.06.rpy:9326 #-#-# translate crowdin both_caught_8bafe8f4_1:
 msgid "[_R_] Really? Isn't Perry Hotter kind of juvenile?"
-msgstr ""
+msgstr "[_R_] Gerçekten mi? Perry Hotter biraz çocukça değil mi?"
 
 # game/UpdateScript0.06.rpy:9329 #-#-# translate crowdin both_caught_6d3c7569_1:
 msgid "[_M_] If you had actually read the books then you'd know they appeal to all ages."
-msgstr ""
+msgstr "[_M_] Kitapları gerçekten okumuş olsaydınız, her yaşa hitap ettiklerini bilirdiniz."
 
 # game/UpdateScript0.06.rpy:9330 #-#-# translate crowdin both_caught_814cd7e0_1:
 msgid "[_R_] Ok... sorry."
-msgstr ""
+msgstr "[_R_] Tamam. Özür dilerim."
 
 # game/UpdateScript0.06.rpy:9331 #-#-# translate crowdin both_caught_10e7c676_1:
 msgid "[_M_] You should be!"
-msgstr ""
+msgstr "[_M_] Olmalısın!"
 
 # game/UpdateScript0.06.rpy:9332 #-#-# translate crowdin both_caught_3217f575_1:
 msgid "[_R_] So, who's going to pay for the cosplay outfits?"
-msgstr ""
+msgstr "[_R_] Peki, cosplay kıyafetlerinin parasını kim ödeyecek?"
 
 # game/UpdateScript0.06.rpy:9335 #-#-# translate crowdin both_caught_1dcb6977_1:
 msgid "[_M_] Who do you think?"
-msgstr ""
+msgstr "[_M_] Sence kim?"
 
 # game/UpdateScript0.06.rpy:9336 #-#-# translate crowdin both_caught_9212973a_1:
 msgid "[_R_] Me? But why am I getting stuck with the bill?"
-msgstr ""
+msgstr "[_R_] Ben mi? Ama neden fatura bana kesiliyor?"
 
 # game/UpdateScript0.06.rpy:9337 #-#-# translate crowdin both_caught_91250809_1:
 msgid "[_M_] All my wages are garnished by the FBI, and I hardly think our extortioner is going to offer to pick up the bill."
-msgstr ""
+msgstr "[_M_] Tüm maaşlarıma FBI tarafından haciz konuldu ve gaspçımızın faturayı ödemeyi teklif edeceğini hiç sanmıyorum."
 
 # game/UpdateScript0.06.rpy:9338 #-#-# translate crowdin both_caught_9ff1fa2b:
 msgid "[_MG_] You thought right."
-msgstr ""
+msgstr "[_MG_] Doğru düşünmüşsün."
 
 # game/UpdateScript0.06.rpy:9339 #-#-# translate crowdin both_caught_ce73a1d5_2:
 msgid "[_R_] Fine!"
@@ -15646,23 +15646,23 @@ msgstr "[_R_] İyi!"
 
 # game/UpdateScript0.06.rpy:9340 #-#-# translate crowdin both_caught_253373e3_1:
 msgid "[_R_] I'll give Sidney the money the next time I see her."
-msgstr ""
+msgstr "[_R_] Sidney'i bir daha gördüğümde parayı ona vereceğim."
 
 # game/UpdateScript0.06.rpy:9343 #-#-# translate crowdin both_caught_4204fcaf:
 msgid "[_MG_] This is so awesome! I can't wait to see the costumes! Just let me know when Sidney's got them ready."
-msgstr ""
+msgstr "[_MG_] Bu çok harika! Kostümleri görmek için sabırsızlanıyorum! Sidney onları hazırladığında bana haber ver."
 
 # game/UpdateScript0.06.rpy:9344 #-#-# translate crowdin both_caught_2decb5dc_1:
 msgid "[_R_] ... fine."
-msgstr ""
+msgstr "[_R_] .. iyi."
 
 # game/UpdateScript0.06.rpy:9347 #-#-# translate crowdin both_caught_e932ea58:
 msgid "[_RT_] {i}Well that was an interesting turn of events. I've been trying to think of a way to get Mom in the studio, but now Megan has done it for me!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Olaylar ilginç bir şekilde gelişti. Annemi stüdyoya sokmanın bir yolunu bulmaya çalışıyordum, ama şimdi Megan bunu benim için yaptı!{/i}"
 
 # game/UpdateScript0.06.rpy:9348 #-#-# translate crowdin both_caught_4c834465:
 msgid "[_RT_] {i}As excited as I am though, I think Megan's even more excited.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ben ne kadar heyecanlıysam, sanırım Megan daha da heyecanlı.{/i}"
 
 # game/UpdateScript0.06.rpy:9366 #-#-# translate crowdin both_caught_6674bde4_1:
 msgid "[_RT_] {i}{b}(HINT){/b} I need to bring some money to Sidney so she can start on the \"Perry Hotter\" cosplay outfits.{/i}"
@@ -33406,7 +33406,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:17756 #-#-# translate crowdin park_sex_a1486ed0:
 msgid "[_R_] Ohhh..."
-msgstr ""
+msgstr "[_R_] Ohhh..."
 
 # game/UpdateScript0.06.rpy:17757 #-#-# translate crowdin park_sex_4240747c:
 msgid "[_R_] Fuck!..."
