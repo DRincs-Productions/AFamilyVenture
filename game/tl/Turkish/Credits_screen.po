@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-06-26 17:09\n"
+"PO-Revision-Date: 2023-07-23 17:43\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # §translate crowdin strings: #|#|# # game/Credits_screen.rpy:57
 msgid "                               Credits"
@@ -51,7 +51,8 @@ msgstr "Cybeon"
 # game/Credits_screen.rpy:165
 msgid "\n"
 "{b}{i}Game Script Writer, Image Creator, Render Farm, Face Card Designer:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Oyun Senaryosu Yazarı, Görüntü Oluşturucu, Render Çiftliği, Yüz Kartı Tasarımcısı:{/i}{/b} \n"
 
 # game/Credits_screen.rpy:167
 msgid "Strenif"
@@ -80,11 +81,12 @@ msgstr "Will Tylor"
 # game/Credits_screen.rpy:177
 msgid "\n"
 "{i}I avoided using supporters full names where possible, and used Discord handles instead wherever I had access to those.{/i}\n"
-msgstr ""
+msgstr "\n"
+"{i}Mümkün olduğunca destekçilerin tam adlarını kullanmaktan kaçındım ve bunun yerine erişebildiğim her yerde Discord tanıtıcılarını kullandım.{/i}\n"
 
 # game/Credits_screen.rpy:178
 msgid "{i}Please contact me if you believe your name isn't here and it should be, or would like to have it listed differently.{/i}"
-msgstr ""
+msgstr "{i}Adınızın burada olmadığını ve olması gerektiğini düşünüyorsanız veya farklı bir şekilde listelenmesini istiyorsanız lütfen benimle iletişime geçin.{/i}"
 
 # game/Credits_screen.rpy:180
 msgid "\n"
@@ -97,7 +99,7 @@ msgstr ""
 
 # game/Credits_screen.rpy:183
 msgid "Charley"
-msgstr ""
+msgstr "Charley"
 
 # game/Credits_screen.rpy:184
 msgid "DD0"
@@ -105,7 +107,7 @@ msgstr "DD0"
 
 # game/Credits_screen.rpy:185
 msgid "delta6198"
-msgstr ""
+msgstr "delta6198"
 
 # game/Credits_screen.rpy:186
 msgid "Drew G"
@@ -113,7 +115,7 @@ msgstr "Drew G"
 
 # game/Credits_screen.rpy:187
 msgid "Eddie"
-msgstr ""
+msgstr "Eddie"
 
 # game/Credits_screen.rpy:188
 msgid "fatfrogs"
@@ -133,7 +135,7 @@ msgstr "hyperion72"
 
 # game/Credits_screen.rpy:192
 msgid "Janusz"
-msgstr ""
+msgstr "Janusz"
 
 # game/Credits_screen.rpy:193
 msgid "Jtf1357"
@@ -141,11 +143,11 @@ msgstr "Jtf1357"
 
 # game/Credits_screen.rpy:194
 msgid "Kenny89"
-msgstr ""
+msgstr "Kenny89"
 
 # game/Credits_screen.rpy:195
 msgid "Kire4th"
-msgstr ""
+msgstr "Kire4th"
 
 # game/Credits_screen.rpy:196
 msgid "kingkoopa"
@@ -153,7 +155,7 @@ msgstr "kingkoopa"
 
 # game/Credits_screen.rpy:197
 msgid "Martin K"
-msgstr ""
+msgstr "Martin K"
 
 # game/Credits_screen.rpy:198
 msgid "Tarakis"
@@ -170,19 +172,19 @@ msgstr ""
 
 # game/Credits_screen.rpy:203
 msgid "."
-msgstr ""
+msgstr "."
 
 # game/Credits_screen.rpy:204
 msgid "af"
-msgstr ""
+msgstr "af"
 
 # game/Credits_screen.rpy:205
 msgid "Alex421"
-msgstr ""
+msgstr "Alex421"
 
 # game/Credits_screen.rpy:206
 msgid "Alex"
-msgstr ""
+msgstr "Alex"
 
 # game/Credits_screen.rpy:207
 msgid "Allen Ho"
