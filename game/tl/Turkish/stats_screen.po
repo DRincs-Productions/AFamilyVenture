@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-06-26 17:06\n"
+"PO-Revision-Date: 2023-07-23 19:43\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # §translate crowdin strings: #|#|# # game/stats_screen.rpy:28
 msgid "{color=#42f456}Mom's:{/color}"
@@ -115,7 +115,7 @@ msgstr ""
 
 # game/stats_screen.rpy:57
 msgid "{color=#000000}Respect............[cousinrespect]{/color}"
-msgstr ""
+msgstr "{ color=#000000}Saygı ............[cousinrespect]{ /color }"
 
 # game/stats_screen.rpy:58
 msgid "{color=#000000}Affection.........[cousinaffection]{/color}"
