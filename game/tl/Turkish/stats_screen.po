@@ -11,23 +11,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-07-23 19:43\n"
+"PO-Revision-Date: 2023-07-23 20:40\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # §translate crowdin strings: #|#|# # game/stats_screen.rpy:28
 msgid "{color=#42f456}Mom's:{/color}"
-msgstr ""
+msgstr "{ color=#42f456} Anne: { /color }"
 
 # game/stats_screen.rpy:29
 msgid "{color=#000000}Respect..............[momrespect]{/color}"
-msgstr ""
+msgstr "{color=#000000}Saygı..............[momrespect]{/color}"
 
 # game/stats_screen.rpy:30
 msgid "{color=#000000}Affection............[momaffection]{/color}"
-msgstr ""
+msgstr "{color=#000000}Sevgi............[momaffection]{/color}"
 
 # game/stats_screen.rpy:31
 msgid "{color=#000000}Libido................[momlibido]{/color}"
-msgstr ""
+msgstr "{color=#000000}Azgınlık................[momlibido]{/color}"
 
 # game/stats_screen.rpy:32
 msgid "{color=#000000}Submission........[momsubmission]{/color}"
@@ -119,17 +119,17 @@ msgstr "{ color=#000000}Saygı ............[cousinrespect]{ /color }"
 
 # game/stats_screen.rpy:58
 msgid "{color=#000000}Affection.........[cousinaffection]{/color}"
-msgstr ""
+msgstr "{color=#000000}Sevgi.........[cousinaffection]{/color}"
 
 # game/stats_screen.rpy:59
 msgid "{color=#000000}Libido.............[cousinlibido]{/color}"
-msgstr ""
+msgstr "{color=#000000}Azgınlık.............[cousinlibido]{/color}"
 
 # game/stats_screen.rpy:60
 msgid "{color=#000000}Submission.....[cousinsubmission]{/color}"
-msgstr ""
+msgstr "{color=#000000}Boyun Eğme.....[cousinsubmission]{/color}"
 
 # game/stats_screen.rpy:61
 msgid "{color=#000000}Anger...............[cousinanger]{/color}"
-msgstr ""
+msgstr "{color=#000000}Öfke...............[cousinanger]{/color}"
 
