@@ -12,7 +12,7 @@ translate french strings:
 
     # game/Game_screens.rpy:191
     old "Yard"
-    new ""
+    new "Cour"
 
     # game/Game_screens.rpy:200
     old "City"

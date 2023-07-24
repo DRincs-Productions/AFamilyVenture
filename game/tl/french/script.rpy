@@ -772,7 +772,7 @@ translate french myroomnight_9fb415aa:
 translate french myroomnight_6e41530c:
 
     # RT "{i}I hope she's okay at the club tonight.{/i}"
-    ""
+    RT "{i}J'espère qu'elle ira bien au club ce soir.{/i}"
 
 # game/script.rpy:1474
 translate french computer_306f7f3e:
@@ -988,7 +988,7 @@ translate french sleep_287d118c_1:
 translate french sleep_d16b4e81:
 
     # RT "{i}I hope Lauren was okay on her own, I should just go check on her before I go to bed.{/i}"
-    ""
+    RT "{i}J'espère que Lauren allait bien toute seule, je devrais aller la voir avant d'aller me coucher.{/i}"
 
 # game/script.rpy:2446
 translate french sleep_ac0c56b3:
@@ -9820,7 +9820,7 @@ translate french stripclub_59d55d64:
 translate french stripclub_e2fe2196:
 
     # RT "{i}They'll only let me in while Mom or Sidney are working.{/i}"
-    ""
+    RT "{i}Ils ne me laissent entrer que lorsque maman ou Sidney travaillent.{/i}"
 
 # game/script.rpy:8638
 translate french stripclub_1bc663a3:
@@ -12214,7 +12214,7 @@ translate french momdissapointed_bb64a15e:
 translate french momdissapointed_68cce5bc:
 
     # RT "{i}I wonder if I should go make sure she is okay again.{/i}"
-    ""
+    RT "{i}Je me demande si je ne devrais pas aller m'assurer qu'elle va bien à nouveau.{/i}"
 
 # game/script.rpy:9991
 translate french nightclubbing_09a446a5:

@@ -52,7 +52,7 @@ translate french sidneys_home_late_11b17b2f:
 translate french sidneys_home_late_fd9fe3c7:
 
     # R "Wait... Sidney?... Was Mom okay at the club tonight?... Did she do anything that she..."
-    ""
+    R "Attendez... Sidney ?... Maman était bien au club ce soir ?... A-t-elle fait quelque chose qu'elle..."
 
 # game/UpdateScript0.05.rpy:498
 translate french sidneys_home_late_015af989:
@@ -2266,7 +2266,7 @@ translate french sidney_search_3f6e100a:
 translate french sidney_search_23ce227c:
 
     # M "It's okay honey. We'll find it, and at least I won't have to go next week."
-    ""
+    M "C'est bon, chérie. On le trouvera, et au moins je n'aurai pas à y aller la semaine prochaine."
 
 # game/UpdateScript0.05.rpy:1235
 translate french sidney_search_5bc5c0af:
@@ -2782,7 +2782,7 @@ translate french sidney_search_89aa9450:
 translate french sidney_search_e10f00ff:
 
     # J "Sidney, this is my niece Armani."
-    ""
+    J "Sidney, voici ma nièce Armani."
 
 # game/UpdateScript0.05.rpy:1372
 translate french sidney_search_8a2d51b0:
@@ -2914,7 +2914,7 @@ translate french sidney_search_dcfdd779:
 translate french sidney_search_e63bee68:
 
     # RT "{i}Why wasn't I more careful with my money this week? I hate how disappointed my mom looks when I fail to pay off the mob.{/i}"
-    ""
+    RT "{i}Pourquoi n'ai-je pas été plus prudent avec mon argent cette semaine ? Je déteste l'air déçu de ma mère lorsque je ne parviens pas à rembourser la mafia.{/i}"
 
 # game/UpdateScript0.05.rpy:1407
 translate french sidney_search_4aca768f:
@@ -9772,7 +9772,7 @@ translate french please_go_work_c9bb1489:
 translate french please_go_work_6e21a174:
 
     # ST "{i}I sure hope everything goes okay tonight. After [ryan]'s warnings about working for the Mafia, I do feel a little nervous.{/i}"
-    ""
+    ST "{i}J'espère que tout se passera bien ce soir. Après [ryan] se sens un peu nerveux après avoir entendu les mises en garde du commissaire concernant le fait de travailler pour la mafia.{/i}"
 
 # game/UpdateScript0.05.rpy:3698
 translate french please_go_work_9b6df4ee:
@@ -11542,7 +11542,7 @@ translate french fix_washer_4e1d9024:
 translate french fix_washer_98aa3f00:
 
     # MT "{i}Ok,.... Seems like he's doing okay so far.... {/i}"
-    ""
+    MT "{i}Ok, .... Il semble qu'il s'en sorte bien jusqu'à présent.... {/i}"
 
 # game/UpdateScript0.05.rpy:4642
 translate french fix_washer_db98260b:

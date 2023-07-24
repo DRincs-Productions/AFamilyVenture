@@ -44,5 +44,5 @@ translate french strings:
 
     # game/Gallery_AFV_v0.2.rpy:1863
     old "                          Events Completed gallery"
-    new ""
+    new "                          Événements Galerie terminée"
 

@@ -430,7 +430,7 @@ translate french event_info_36_fb2fbedc:
 translate french event_info_37_6762287c:
 
     # RT "{i}I can't believe Lauren's okay with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
-    ""
+    RT "{i}Je n'arrive pas à croire que Lauren soit d'accord pour écraser sa chatte sur ma bite ! Je devrais continuer à lui rendre visite dans le salon le soir. Je parie que je peux l'amener à aller plus loin.{/i}"
 
 # game/Phone_event_screen.rpy:1376
 translate french event_info_38_ca2c61d4:
@@ -1156,25 +1156,25 @@ translate french event_info_92_a6823d22:
 translate french event_info_92_d2b234ee:
 
     # RT "{i}Just because Sidney isn't working at the club on Mondays, doesn't mean I can't persuade her to work some other night. I could always visit her some evening in the kitchen and ask her to go make us some money.{/i}"
-    ""
+    RT "{i}Ce n'est pas parce que Sidney ne travaille pas au club le lundi que je ne peux pas la persuader de travailler un autre soir. Je pourrais toujours lui rendre visite un soir dans la cuisine et lui demander d'aller nous faire de l'argent.{/i}"
 
 # game/Phone_event_screen.rpy:1803
 translate french event_info_92_0eeca9a9:
 
     # RT "{i}Plus, talking to her at the club might be a useful way to get more info to help us break free from the Mob.{/i}"
-    ""
+    RT "{i}De plus, lui parler au club pourrait être un moyen utile d'obtenir plus d'informations pour nous aider à nous libérer de la mafia.{/i}"
 
 # game/Phone_event_screen.rpy:1806
 translate french event_info_92_598888a2:
 
     # RT "{i}I don't ever get a chance to talk to Sidney at the club when Mom's with her on Mondays. I can always get her to work some other day though. I could always visit her some evening in the kitchen and ask her to go make us some money.{/i}"
-    ""
+    RT "{i}Je n'ai jamais eu l'occasion de parler à Sidney au club quand maman est avec elle le lundi. Je peux toujours la faire travailler un autre jour. Je pourrais toujours lui rendre visite un soir dans la cuisine et lui demander d'aller nous faire de l'argent.{/i}"
 
 # game/Phone_event_screen.rpy:1807
 translate french event_info_92_0eeca9a9_1:
 
     # RT "{i}Plus, talking to her at the club might be a useful way to get more info to help us break free from the Mob.{/i}"
-    ""
+    RT "{i}De plus, lui parler au club pourrait être un moyen utile d'obtenir plus d'informations pour nous aider à nous libérer de la mafia.{/i}"
 
 # game/Phone_event_screen.rpy:1810
 translate french event_info_92_1d352c04:
@@ -1198,61 +1198,61 @@ translate french event_info_93_027fa306:
 translate french event_info_94_0669b526:
 
     # RT "{i}Now that Lauren and Matt are hooking up, I wonder what kinds of messages she's sending him on her phone. I should keep checking on her in her room on the weekends.{/i}"
-    ""
+    RT "{i}Maintenant que Lauren et Matt sortent ensemble, je me demande quel genre de messages elle lui envoie sur son téléphone. Je devrais continuer à la surveiller dans sa chambre pendant les week-ends..{/i}"
 
 # game/Phone_event_screen.rpy:1824
 translate french event_info_94_bfbaa313:
 
     # RT "{i}It sounds like Matt's coming over one of these nights... I'm sure they'll be looking for someplace private. I should keep an eye on Lauren's room each night.{/i}"
-    ""
+    RT "{i}Il semblerait que Matt vienne un de ces soirs... Je suis sûr qu'ils chercheront un endroit privé. Je devrais surveiller la chambre de Lauren tous les soirs.{/i}"
 
 # game/Phone_event_screen.rpy:1829
 translate french event_info_95_726bc338:
 
     # RT "{i}Cousin Mandy volonteered to help with the yard work. Maybe I should meet her in the Lounge on Saturday Afternoon to help her get started.{/i}"
-    ""
+    RT "{i}La cousine Mandy s'est portée volontaire pour aider à l'entretien du jardin. Je devrais peut-être la rencontrer dans le salon samedi après-midi pour l'aider à démarrer.{/i}"
 
 # game/Phone_event_screen.rpy:1834
 translate french event_info_96_5511dfc3:
 
     # RT "{i}I should keep playing Truth or Dare with Lauren and Mandy in Lauren's room at night.{/i}"
-    ""
+    RT "{i}Je devrais continuer à jouer à Action ou Vérité avec Lauren et Mandy dans la chambre de Lauren le soir.{/i}"
 
 # game/Phone_event_screen.rpy:1837
 translate french event_info_96_e1676527:
 
     # RT "{i}I should keep working on Lauren's campaign until the election is over.{/i}"
-    ""
+    RT "{i}Je devrais continuer à travailler sur la campagne de Lauren jusqu'à la fin de l'élection.{/i}"
 
 # game/Phone_event_screen.rpy:1840
 translate french event_info_96_823b1a96:
 
     # RT "{i}I should keep cleaning the backyard on Saturday Afternoon... I'll meet Mandy in the Lounge to get started.{/i}"
-    ""
+    RT "{i}Je devrais continuer à nettoyer le jardin le samedi après-midi... Je rejoindrai Mandy dans le salon pour commencer.{/i}"
 
 # game/Phone_event_screen.rpy:1845
 translate french event_info_97_80ee2bf7:
 
     # RT "{i}Maybe Mom will let me rub lotion on her if her libido is high enough.{/i}"
-    ""
+    RT "{i}Peut-être que maman me laissera lui passer de la lotion si sa libido est assez élevée.{/i}"
 
 # game/Phone_event_screen.rpy:1850
 translate french event_info_98_2006636c:
 
     # RT "{i}If Mom's trying to get closer with her kids, I want in on that action. I wonder if she'd be available to do something with me early Sunday morning.{/i}"
-    ""
+    RT "{i}Si la mère essaie de se rapprocher de ses enfants, je veux être de la partie. Je me demande si elle serait disponible pour faire quelque chose avec moi tôt dimanche matin.{/i}"
 
 # game/Phone_event_screen.rpy:1853
 translate french event_info_98_5dd939e4:
 
     # RT "{i}Wouldn't it be great if Mom owned all the best selling lingerie?{/i}"
-    ""
+    RT "{i}Ne serait-ce pas génial si maman possédait toutes les meilleures ventes de lingerie ?{/i}"
 
 # game/Phone_event_screen.rpy:1858
 translate french event_info_99_cc3427bd:
 
     # RT "{i}I'd better keep an eye on Mom and Sidney in the club each Monday night.{/i}"
-    ""
+    RT "{i}Je ferais mieux de surveiller maman et Sidney au club tous les lundis soirs.{/i}"
 
 # game/Phone_event_screen.rpy:1873
 translate french again_tutorial_50b4b06e:
@@ -1756,11 +1756,11 @@ translate french strings:
 
     # game/Phone_event_screen.rpy:25
     old "Complete"
-    new ""
+    new "Terminé"
 
     # game/Phone_event_screen.rpy:40
     old "[event_num]"
-    new ""
+    new "[event_num]"
 
     # game/Phone_event_screen.rpy:41
     old "???"
@@ -1772,7 +1772,7 @@ translate french strings:
 
     # game/Phone_event_screen.rpy:1058
     old "{font=DejaVuSans.ttf}Watch the tutorial again!{/font}"
-    new ""
+    new "{font=DejaVuSans.ttf}Regardez à nouveau le tutoriel !{/font}"
 
     # game/Phone_event_screen.rpy:1064
     old "{color=#E60000}-------------------------------------{/color}"

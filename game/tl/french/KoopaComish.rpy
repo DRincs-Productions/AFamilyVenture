@@ -1942,7 +1942,7 @@ translate french koopa_scene_6c4c1f29:
 translate french koopa_scene_dc471653:
 
     # M "It's okay Sidney, I'm fine."
-    ""
+    M "C'est bon Sidney, je vais bien."
 
 # game/KoopaComish.rpy:620
 translate french koopa_scene_159f0936:
@@ -1990,7 +1990,7 @@ translate french koopa_scene_7848dc8d:
 translate french koopa_scene_817298a6:
 
     # MT "{i}Shit!... I can't hold it!{/i}"
-    ""
+    MT "{i}Merde !... Je ne peux pas me retenir!{/i}"
 
 # game/KoopaComish.rpy:642
 translate french koopa_scene_c9ffa6e7:
