@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-06-26 17:10\n"
+"PO-Revision-Date: 2023-07-23 19:43\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/script.rpy:351 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -5954,7 +5954,7 @@ msgstr ""
 
 # game/script.rpy:7947 #-#-# translate crowdin classroommorning_2863d310:
 msgid "[_RT_] {i}I've heard they have an exciting announcement to start it off. I'd better make sure I'm in {b}Mom's class every Monday morning{/b} so I don't miss the announcements.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Başlamak için heyecan verici bir duyuruları olduğunu duydum. Duyuruları kaçırmamak için her Pazartesi sabahı{/b} {b}annemin sınıfında olsam iyi olur.{/i}"
 
 # game/script.rpy:7962 #-#-# translate crowdin classroommorning_22f8779a_1:
 msgid "[_M_] Okay class, let's pick up where we left off last time with our discussion on the Oedipus tragedy, and its influence today."
@@ -6330,7 +6330,7 @@ msgstr ""
 
 # game/script.rpy:8214 #-#-# translate crowdin firstdayofschool_41732efc:
 msgid "[_RT_] {i}I really believe that I'll get something just as good, if not better. I'll just have to be very patient until then.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Daha iyisi olmasa bile en az onun kadar iyi bir şey alacağıma gerçekten inanıyorum. Sadece o zamana kadar çok sabırlı olmam gerekecek.{/i}"
 
 # game/script.rpy:8225 #-#-# translate crowdin classlecture_a4531fa1:
 msgid "[_M_] Now Tiresias is being pressured by Oedipus to reveal to him what he knows of the murder of Laius..."
