@@ -1,5 +1,4 @@
-
-"{color=#42f456}Mom's:{/color}\n"# TODO: Translation updated at 2023-06-26 18:52
+# TODO: Translation updated at 2023-06-26 18:52
 
 translate italian strings:
 

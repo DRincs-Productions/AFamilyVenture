@@ -1,5 +1,4 @@
-
-"[_DS_] You added $[addmoney] and now have: $[money].\n"# TODO: Translation updated at 2022-12-01 22:29
+# TODO: Translation updated at 2022-12-01 22:29
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2269
 translate french input_money_9c2e4d68:
