@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-19 18:16\n"
+"PO-Revision-Date: 2023-09-19 19:59\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScript0.03.rpy:466 #-#-# translate crowdin posting_the_htbyd_pics_99f2fd00:
 msgid "[_RT_] {i}I finally finished the Zad 3D work and photo editing.{/i}"
@@ -34,47 +34,47 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:514 #-#-# translate crowdin posting_the_htbyd_pics_6876a73c:
 msgid "[_RT_] {i}{b}(HINT){/b} I need to keep taking these \"How to Breed your Dragon\" pictures with Lauren until we've got every kind of picture we need.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(İPUCU){/b} İhtiyacımız olan her tür fotoğrafı elde edene kadar Lauren ile bu \"How to Breed your Dragon\" fotoğraflarını çekmeye devam etmeliyim.{/i}"
 
 # game/UpdateScript0.03.rpy:527 #-#-# translate crowdin check_for_htbyd_likes_b47e0d22:
 msgid "[_RT_] {i}Ok, I've got to just login with my username and password and we'll see if anyone liked the girls' pictures.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Tamam, kullanıcı adım ve şifremle giriş yapacağım ve kızların resimlerini beğenen var mı göreceğiz.{/i}"
 
 # game/UpdateScript0.03.rpy:534 #-#-# translate crowdin check_for_htbyd_likes_213638a4:
 msgid "[_R_] Oh, hey Lauren, what's up?"
-msgstr ""
+msgstr "[_R_] Selam Lauren, naber?"
 
 # game/UpdateScript0.03.rpy:536 #-#-# translate crowdin check_for_htbyd_likes_5fa12a12:
 msgid "[_L_] Hey pervert, I just came to see if you'd posted those pictures online yet."
-msgstr ""
+msgstr "[_L_] Hey sapık, o resimleri internete koydun mu diye bakmaya geldim."
 
 # game/UpdateScript0.03.rpy:538 #-#-# translate crowdin check_for_htbyd_likes_8bbe7edb:
 msgid "[_L_] Hey [ryan], I just came to see if you'd posted those pictures online yet."
-msgstr ""
+msgstr "[_L_] Hey [ryan], o resimleri internete koydun mu diye bakmaya geldim."
 
 # game/UpdateScript0.03.rpy:539 #-#-# translate crowdin check_for_htbyd_likes_c29fb562:
 msgid "[_R_] What a coincidence, I was just checking to see if they got any likes at exactly the same moment that you walked into my room."
-msgstr ""
+msgstr "[_R_] Ne tesadüf, ben de tam senin odama girdiğin anda beğeni alıp almadıklarını kontrol ediyordum."
 
 # game/UpdateScript0.03.rpy:540 #-#-# translate crowdin check_for_htbyd_likes_80266054:
 msgid "[_R_] Why don't we take a look together?"
-msgstr ""
+msgstr "[_R_] Neden birlikte bir göz atmıyoruz?"
 
 # game/UpdateScript0.03.rpy:547 #-#-# translate crowdin check_for_htbyd_likes_e398f781:
 msgid "[_L_] Wow! Look how many people liked and commented on the outfit."
-msgstr ""
+msgstr "[_L_] Vay canına! Bak kaç kişi kıyafetimi beğenmiş ve yorum yapmış."
 
 # game/UpdateScript0.03.rpy:548 #-#-# translate crowdin check_for_htbyd_likes_0387a891:
 msgid "[_R_] Yeah, Sidney really did an amazing job on that one."
-msgstr ""
+msgstr "[_R_] Evet, Sidney gerçekten harika bir iş çıkardın."
 
 # game/UpdateScript0.03.rpy:555 #-#-# translate crowdin check_for_htbyd_likes_d8cb744c:
 msgid "[_R_] Look how the amount of likes goes up consistently with the amount of skin you showed off."
-msgstr ""
+msgstr "[_R_] Gösterdiğin vücut ile beğeni miktarının nasıl tutarlı bir şekilde arttığına bak."
 
 # game/UpdateScript0.03.rpy:556 #-#-# translate crowdin check_for_htbyd_likes_bf9ca968:
 msgid "[_L_] Wow! I can't believe how much a difference that made."
-msgstr ""
+msgstr "[_L_] Vay canına! Ne kadar büyük bir fark yarattığına inanamıyorum."
 
 # game/UpdateScript0.03.rpy:558 #-#-# translate crowdin check_for_htbyd_likes_41512102:
 msgid "[_R_] Let's take a look at how the photos I added backgrounds to did."
@@ -126,43 +126,43 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:574 #-#-# translate crowdin check_for_htbyd_likes_1ffebffc:
 msgid "{i}{b}\"Lauren's Anger =0\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in kızgınlığı =0\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:578 #-#-# translate crowdin check_for_htbyd_likes_b911c927:
 msgid "[_L_] Well.... your skin to likes ratio theory seems to hold true."
-msgstr ""
+msgstr "[_L_] Peki.... vücudun beğenilere oranı teorisi doğru gibi görünüyor."
 
 # game/UpdateScript0.03.rpy:579 #-#-# translate crowdin check_for_htbyd_likes_b63b6ce7:
 msgid "[_L_] I'll try to get up the courage to take the next shoot even farther."
-msgstr ""
+msgstr "[_L_] Bir sonraki çekimi daha da ileri götürmek için cesaretimi toplamaya çalışacağım."
 
 # game/UpdateScript0.03.rpy:580 #-#-# translate crowdin check_for_htbyd_likes_0118e43a:
 msgid "[_L_] Thanks again for helping me try to get famous!"
-msgstr ""
+msgstr "[_L_] Ünlü olmama yardım ettiğin için tekrar teşekkürler!"
 
 # game/UpdateScript0.03.rpy:581 #-#-# translate crowdin check_for_htbyd_likes_21facd81:
 msgid "[_L_] And for using the money to help Mom."
-msgstr ""
+msgstr "[_L_] Ve parayı anneme yardım etmek için kullandığın için."
 
 # game/UpdateScript0.03.rpy:582 #-#-# translate crowdin check_for_htbyd_likes_fce2cdb1:
 msgid "[_L_] You really are proving to be a great substitute for Dad."
-msgstr ""
+msgstr "[_L_] Gerçekten de babamın yerine harika bir yedek olduğunu kanıtlıyorsun."
 
 # game/UpdateScript0.03.rpy:583 #-#-# translate crowdin check_for_htbyd_likes_1da10f54:
 msgid "[_R_] Thanks Lauren!"
-msgstr ""
+msgstr "[_R_] Teşekkürler Lauren!"
 
 # game/UpdateScript0.03.rpy:584 #-#-# translate crowdin check_for_htbyd_likes_4ca04940:
 msgid "[_L_] Ok, it's getting too mushy in here. I'll see you around the house sometime."
-msgstr ""
+msgstr "[_L_] Tamam, burası çok duygusal olmaya başladı. Bir ara evde görüşürüz."
 
 # game/UpdateScript0.03.rpy:604 #-#-# translate crowdin diazvisit_c00ec3a6:
 msgid "[_RT_] {i}{b}(HINT){/b} I wonder what's going on with the FBI lately?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(İPUCU){/b} Acaba son zamanlarda FBI'da neler oluyor?{/i}"
 
 # game/UpdateScript0.03.rpy:611 #-#-# translate crowdin diazvisit_0b70a703:
 msgid "[_RT_] {i}{b}(HINT){/b} It's almost like the FBI has forgotten us.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(İPUCU){/b} Sanki FBI bizi unutmuş gibi.{/i}"
 
 # game/UpdateScript0.03.rpy:616 #-#-# translate crowdin diazvisit_ac5a80fe:
 msgid "{b}Ding Dong!{/b}"
@@ -226,7 +226,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:647 #-#-# translate crowdin diazvisit_dc7f54e4:
 msgid "[_AD_] I've arranged for her to have an early morning meeting with her lawyer and the federal prosecutor each Thursday morning to go over details of the investigation against her husband."
-msgstr ""
+msgstr "[_AD_] Kocasına karşı yürütülen soruşturmanın ayrıntılarını gözden geçirmek üzere her Perşembe sabahı erkenden avukatı ve federal savcı ile bir toplantı yapmasını ayarladım."
 
 # game/UpdateScript0.03.rpy:648 #-#-# translate crowdin diazvisit_377b52c5:
 msgid "[_R_] Then who are you here to see?"
@@ -330,7 +330,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:685 #-#-# translate crowdin diazvisit_94706216:
 msgid "[_R_] But Lauren and I are both adults. It's not illegal for us to take and pose for adult pictures, and we've set up everything legally online through Cosplay Heaven."
-msgstr ""
+msgstr "[_R_] Ama Lauren ve ben ikimiz de yetişkiniz. Yetişkin fotoğrafları çekmek ve poz vermek bizim için yasadışı değil ve Cosplay Heaven aracılığıyla her şeyi yasal olarak çevrimiçi olarak ayarladık."
 
 # game/UpdateScript0.03.rpy:686 #-#-# translate crowdin diazvisit_61fc2b1d:
 msgid "[_AD_] Yes, and you generated tax forms that prove you're making an income that you aren't reporting and surrendering to the FBI."
@@ -342,7 +342,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:688 #-#-# translate crowdin diazvisit_58d10a0f:
 msgid "[_AD_] And that's not even mentioning the money you're getting under the table from your uncle Bobby to help you pay off your weekly debt to the DeCapos."
-msgstr ""
+msgstr "[_AD_] DeCapo'lara olan haftalık borcunuzu ödemenize yardımcı olması için Bobby amcanızdan el altından aldığınız paradan bahsetmiyorum bile."
 
 # game/UpdateScript0.03.rpy:689 #-#-# translate crowdin diazvisit_c6841c25:
 msgid "[_R_] ..."
@@ -410,7 +410,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:715 #-#-# translate crowdin diazvisit_fc264d09:
 msgid "[_AD_] But now Joey DeCapo is happier with the arrangement as it is now. He's getting paid each week, or he's getting a visit from your mom."
-msgstr ""
+msgstr "[_AD_] Ama Joey DeCapo şu anki durumdan daha mutlu. Her hafta parasını alıyor ya da annen onu ziyaret ediyor."
 
 # game/UpdateScript0.03.rpy:716 #-#-# translate crowdin diazvisit_36545c57:
 msgid "[_AD_] He actually enjoys those visits more than he does the money."
@@ -594,7 +594,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:778 #-#-# translate crowdin diazvisit_1d2e43f3:
 msgid "{i}\"Money - $500\"{/i}"
-msgstr ""
+msgstr "{i}\"Paran -$500\"{/i}"
 
 # game/UpdateScript0.03.rpy:780 #-#-# translate crowdin diazvisit_22792f17:
 msgid "[_AD_] It's been a pleasure doing business with you."
@@ -602,7 +602,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:783 #-#-# translate crowdin diazvisit_7e923b39:
 msgid "[_AD_] And just so you know, I know exactly what's going on in this house. I know about the inappropriate gifts you buy on Hardnlong, and the little surveillance state you've got going on here."
-msgstr ""
+msgstr "[_AD_] Ve bilesin diye söylüyorum, bu evde neler döndüğünü çok iyi biliyorum. HardnLong'dan aldığın uygunsuz hediyelerden ve burada yürüttüğün küçük gözetleme durumundan haberim var."
 
 # game/UpdateScript0.03.rpy:784 #-#-# translate crowdin diazvisit_19a346c4:
 msgid "[_AD_] So, you'd better be willing to play ball, or your life is going to get pretty uncomfortable."
@@ -742,7 +742,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:850 #-#-# translate crowdin diazvisit_413e9889:
 msgid "{i}\"Money -$500\"{/i}"
-msgstr ""
+msgstr "{i}\"Paran -$500\"{/i}"
 
 # game/UpdateScript0.03.rpy:852 #-#-# translate crowdin diazvisit_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
@@ -794,7 +794,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:885 #-#-# translate crowdin diazvisit_413e9889_1:
 msgid "{i}\"Money -$500\"{/i}"
-msgstr ""
+msgstr "{i}\"Paran -$500\"{/i}"
 
 # game/UpdateScript0.03.rpy:889 #-#-# translate crowdin diazvisit_0d5e051e:
 msgid "[_AD_] Now don't be like that..."
@@ -970,7 +970,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:970 #-#-# translate crowdin firstloyaltyweekend_b6e02bea:
 msgid "{i}{b}\"Mom's Affection -2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin saygısı -2\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:972 #-#-# translate crowdin firstloyaltyweekend_99cfd95b:
 msgid "[_R_] Sorry Mom, I just can't help but worry about you."
@@ -1006,7 +1006,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:984 #-#-# translate crowdin firstloyaltyweekend_21ebdb42:
 msgid "{i}{b}\"Mom's Respect +3\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin saygısı +3\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:986 #-#-# translate crowdin firstloyaltyweekend_28ce09a6:
 msgid "[_R_] It just makes me feel really good to take care of you and make you happy."
@@ -1014,11 +1014,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:987 #-#-# translate crowdin firstloyaltyweekend_b47c24a5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin saygısı +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:988 #-#-# translate crowdin firstloyaltyweekend_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin saygısı +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:992 #-#-# translate crowdin firstloyaltyweekend_702aacb5:
 msgid "[_R_] Good! I'm so glad to see you looking happy. I know your stress has to be through the roof."
@@ -1030,11 +1030,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:994 #-#-# translate crowdin firstloyaltyweekend_b591b992:
 msgid "{i}{b}\"Mom's Affection +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin saygısı +2\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:996 #-#-# translate crowdin firstloyaltyweekend_0c178c1e:
 msgid "[_M_] Oh, honey, you're so sweet!"
-msgstr ""
+msgstr "[_M_] Oh, tatlım, çok tatlısın!"
 
 # game/UpdateScript0.03.rpy:997 #-#-# translate crowdin firstloyaltyweekend_eff831e8:
 msgid "[_M_] Today I'm actually drinking in your honor."
@@ -1058,7 +1058,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1004 #-#-# translate crowdin firstloyaltyweekend_21ebdb42_1:
 msgid "{i}{b}\"Mom's Respect +3\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin saygısı +3\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:1006 #-#-# translate crowdin firstloyaltyweekend_28ce09a6_1:
 msgid "[_R_] It just makes me feel really good to take care of you and make you happy."
@@ -1082,11 +1082,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1016 #-#-# translate crowdin firstloyaltyweekend_e969bf46:
 msgid "[_MT_] {i}Shit!! I just admitted to [ryan] that I think of him as the man of the house now. That's going to give him a bigger head.... the kind above his shoulders.... not the kind.... shit.... why did my mind go there?{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Siktir! Az önce onu artık evin erkeği olarak gördüğümü itiraf ettim. Bu ona daha büyük bir kafa verecek.... küçük omuzlarının üzerindeki türden.... türden değil.... saçmalık.... bunu neden söyledim?{/i}"
 
 # game/UpdateScript0.03.rpy:1019 #-#-# translate crowdin firstloyaltyweekend_5c48efb2:
 msgid "[_M_] But really, I want to do something nice for just you to show how grateful I am to you. Isn't there anything you want to do? .... something that doesn't cost any money of course!"
-msgstr ""
+msgstr "[_M_] Ama gerçekten, sana ne kadar minnettar olduğumu göstermek için sadece senin için güzel bir şey yapmak istiyorum. Senin yapmak istediğin bir şey yok mu?.... paraya mal olmayan bir şey tabii ki!"
 
 # game/UpdateScript0.03.rpy:1020 #-#-# translate crowdin firstloyaltyweekend_b0e40590:
 msgid "[_R_] Hmmmm.... It's been a long time since we went swimming at the club, and we always go with Lauren and she takes all of your attention. I'd love to go with just you!"
@@ -1114,7 +1114,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1028 #-#-# translate crowdin firstloyaltyweekend_1799d5fd:
 msgid "[_M_] This isn't about what I want.... I want to reward you. So, if you want to go swimming at the club pool, then we'll go swimming at the club pool."
-msgstr ""
+msgstr "[_M_] Bu benim ne istediğimle ilgili değil.... Seni ödüllendirmek istiyorum. Eğer kulüp havuzunda yüzmek istiyorsan, o zaman kulüp havuzunda yüzmeye gideriz."
 
 # game/UpdateScript0.03.rpy:1029 #-#-# translate crowdin firstloyaltyweekend_f18defd9:
 msgid "[_M_] Though, that's not asking much.... are you sure there's nothing else you want?"
@@ -1202,7 +1202,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1067 #-#-# translate crowdin firstloyaltyweekend_dcdec28a:
 msgid "{i}{b}\"Mom's Anger +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin kızgınlığı +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:1078 #-#-# translate crowdin firstloyaltyweekend_30b80105:
 msgid "[_M_] Oh.... my.... God.... [ryan]! Do you even know what the word subtle means?"
@@ -1254,7 +1254,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1096 #-#-# translate crowdin firstloyaltyweekend_0ce4da08:
 msgid "[_M_] Ok then you smart-ass, why would you ask for a swimsuit fashion show?"
-msgstr ""
+msgstr "[_M_] Tamam o zaman seni ukala, neden mayo şovu istedin ki?"
 
 # game/UpdateScript0.03.rpy:1097 #-#-# translate crowdin firstloyaltyweekend_fd9dd43b:
 msgid "[_R_] Because I bought you a new swimming suit."
@@ -1326,15 +1326,15 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1134 #-#-# translate crowdin commissionsecondoutfit_9e830674:
 msgid "[_R_] Nothing, just felt like talking with you."
-msgstr ""
+msgstr "[_R_] Yok bir şey, sadece seninle konuşmak istedim."
 
 # game/UpdateScript0.03.rpy:1137 #-#-# translate crowdin commissionsecondoutfit_27e47e05:
 msgid "[_S_] Sorry little brother, but right now I'm really busy trying to finish up some designs."
-msgstr ""
+msgstr "[_S_] Üzgünüm küçük kardeşim, ama şu anda bazı tasarımları bitirmeye çalışmakla meşgulüm."
 
 # game/UpdateScript0.03.rpy:1138 #-#-# translate crowdin commissionsecondoutfit_f2dd77c3:
 msgid "[_S_] Come find me again when I'm not so busy."
-msgstr ""
+msgstr "[_S_] Bu kadar meşgul olmadığım bir zamanda beni tekrar bul."
 
 # game/UpdateScript0.03.rpy:1139 #-#-# translate crowdin commissionsecondoutfit_bf87ec39:
 msgid "[_RT_] {i}She's flashing me again!{/i}"
@@ -1346,11 +1346,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1141 #-#-# translate crowdin commissionsecondoutfit_7c3354e4:
 msgid "[_RT_] {i}Or could she really be this clueless?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Yoksa gerçekten bundan haberi mi yok?{/i}"
 
 # game/UpdateScript0.03.rpy:1142 #-#-# translate crowdin commissionsecondoutfit_25b0019e:
 msgid "[_R_] Ok, I'll find you again soon."
-msgstr ""
+msgstr "[_R_] Tamam, seni tekrar bulacağım."
 
 # game/UpdateScript0.03.rpy:1151 #-#-# translate crowdin commissionsecondoutfit_53a5049c_1:
 msgid "[_S_] Hey [ryan], what can I do for you?"
@@ -1466,7 +1466,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1191 #-#-# translate crowdin commissionsecondoutfit_43a49173:
 msgid "{i}{b}\"Sidney's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidney'in saygısı +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:1193 #-#-# translate crowdin commissionsecondoutfit_bfd8516a:
 msgid "[_S_] Good for you little brother! Keep it up and maybe we will be able to get along without Dad after all."
@@ -1474,7 +1474,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1194 #-#-# translate crowdin commissionsecondoutfit_3e143f5a:
 msgid "{i}\"Money - $400\"{/i}"
-msgstr ""
+msgstr "{i}\"Paran -$400\"{/i}"
 
 # game/UpdateScript0.03.rpy:1197 #-#-# translate crowdin commissionsecondoutfit_0770ae02:
 msgid "[_R_] Why should I be the one responsible to pay off the debt every week, Mom can help out too."
@@ -1486,11 +1486,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1199 #-#-# translate crowdin commissionsecondoutfit_81c09fc9:
 msgid "[_R_] Oh please, Mom's not in any danger."
-msgstr ""
+msgstr "[_R_] Oh lütfen, annem tehlikede değil."
 
 # game/UpdateScript0.03.rpy:1200 #-#-# translate crowdin commissionsecondoutfit_3e143f5a_1:
 msgid "{i}\"Money - $400\"{/i}"
-msgstr ""
+msgstr "{i}\"Paran -$400\"{/i}"
 
 # game/UpdateScript0.03.rpy:1207 #-#-# translate crowdin commissionsecondoutfit_10adc244:
 msgid "[_R_] So, how long will it take to finish?"
@@ -1530,7 +1530,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1221 #-#-# translate crowdin commissionsecondoutfit_7c3354e4_1:
 msgid "[_RT_] {i}Or could she really be this clueless?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Yoksa gerçekten bundan haberi mi yok?{/i}"
 
 # game/UpdateScript0.03.rpy:1222 #-#-# translate crowdin commissionsecondoutfit_05a9b552:
 msgid "[_R_] Whatever.... I'll keep checking back to see when you're done."
@@ -1538,7 +1538,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1229 #-#-# translate crowdin commissionsecondoutfit_3a36764e:
 msgid "[_RT_] {i}{b}(HINT){/b} I can't wait for Sidney to finish Lauren's Cosplay outfit!... I should go to the lounge and check with her this evening to see if it's done.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(İPUCU){/b} Sidney'in Lauren'in Cosplay kıyafetini bitirmesini bekleyemiyorum!... Bu akşam salona gidip bitip bitmediğini kontrol etmeliyim.{/i}"
 
 # game/UpdateScript0.03.rpy:1245 #-#-# translate crowdin secondcosplayfitting_5e51bcad:
 msgid "[_R_] Oh sweet! The new outfit is done!"
@@ -1546,7 +1546,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1247 #-#-# translate crowdin secondcosplayfitting_23ae0291:
 msgid "[_R_] Let me guess, Arsetrid, from \"How to Breed your Dragon\"?"
-msgstr ""
+msgstr "[_R_] Dur tahmin edeyim, \"How to Breed your Dragon\"dan Arsetrid mi?"
 
 # game/UpdateScript0.03.rpy:1248 #-#-# translate crowdin secondcosplayfitting_23bfa76d:
 msgid "[_L_] Yep! Do you like it?"
@@ -1594,7 +1594,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1265 #-#-# translate crowdin secondcosplayfitting_dcfbda0f:
 msgid "[_L_] My schedule is basically {b}weekdays in the late morning.{/b}"
-msgstr ""
+msgstr "[_L_] Programım genelde {b}hafta içi sabah geç saatlerde.{/b}"
 
 # game/UpdateScript0.03.rpy:1266 #-#-# translate crowdin secondcosplayfitting_76c0ef6a:
 msgid "[_L_] Just head to the {b}warehouse and give me a call{/b} when you're ready."
@@ -1618,7 +1618,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1271 #-#-# translate crowdin secondcosplayfitting_ae60b022:
 msgid "[_R_] You haven't told her what you're doing for work, have you?"
-msgstr ""
+msgstr "[_R_] Ona iş için ne yaptığını söylemedin, değil mi?"
 
 # game/UpdateScript0.03.rpy:1272 #-#-# translate crowdin secondcosplayfitting_3a1db584:
 msgid "[_L_] Haha of course not.... I'm leaving that up to you."
@@ -1634,7 +1634,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1275 #-#-# translate crowdin secondcosplayfitting_50a74cf7:
 msgid "[_R_] So, Sidney?"
-msgstr ""
+msgstr "[_R_] Ee, Sidney?"
 
 # game/UpdateScript0.03.rpy:1276 #-#-# translate crowdin secondcosplayfitting_f3f04389:
 msgid "[_S_] Yeah?"
@@ -1686,7 +1686,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1310 #-#-# translate crowdin bikinishow_be6a153c:
 msgid "[_M_] How did you afford it? I better not have to strip at the club on Saturday because you spent too much on this bikini!"
-msgstr ""
+msgstr "[_M_] Buna nasıl paran yetti? Bu bikiniye çok para harcadığın için cumartesi günü kulüpte soyunmak zorunda kalmasam iyi olur!"
 
 # game/UpdateScript0.03.rpy:1311 #-#-# translate crowdin bikinishow_a2aa9581:
 msgid "[_R_] Don't worry, Mom, I found a really good deal. Plus I know how judgy the women at the club can be if they see you in a cheap swimsuit."
@@ -1698,7 +1698,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1313 #-#-# translate crowdin bikinishow_c1a1bace:
 msgid "[_M_] Well, thank you! Let me go try it on. Actually let me try on the one I've already got, and then I'll try on this new one. Then I'll let you decide which one I'm going to wear to the pool."
-msgstr ""
+msgstr "[_M_] Teşekkür ederim! Gidip deneyeyim. Aslında elimdekini deneyeyim, sonra da bu yenisini deneyeceğim. Sonra havuza giderken hangisini giyeceğime sen karar verirsin."
 
 # game/UpdateScript0.03.rpy:1314 #-#-# translate crowdin bikinishow_2231bc8b:
 msgid "[_R_] Really? You're going to give me a bikini fashion show?!..."
@@ -1710,7 +1710,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1316 #-#-# translate crowdin bikinishow_05a911a8:
 msgid "[_M_] But if there's a problem, and you can't keep \"little [ryan]\" from popping up and giving us a visit like he's been doing all too frequently lately, then the show will end, and we won't go to the pool. So, control yourself!"
-msgstr ""
+msgstr "[_M_] Ama eğer bir sorun varsa ve \"küçük [ryan]\" son zamanlarda sık sık yaptığı gibi ortaya çıkıp bizi ziyaret ederse ve onu engelleyemezsen, o zaman gösteri sona erer ve havuza gitmeyiz. O yüzden, kendini kontrol edin!"
 
 # game/UpdateScript0.03.rpy:1317 #-#-# translate crowdin bikinishow_1269d6c5:
 msgid "[_R_] Of course.... I mean \"little [ryan]\" won't be visiting.... I mean.... yuck!.... Why would I react like that to my own mom?"
@@ -1886,11 +1886,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1377 #-#-# translate crowdin bikinishow_1d957916:
 msgid "[_RT_] {i}Ok, well the pink one is more revealing since she's wearing the shorts. I mean I definitely get to see more of her ass.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Tamam, pembe olan daha açık. Yani kesinlikle götünü daha çok görebiliyorum.{/i}"
 
 # game/UpdateScript0.03.rpy:1378 #-#-# translate crowdin bikinishow_77c7f73f:
 msgid "[_RT_] {i}The blue one is sexier, but those damn shorts!.... I wonder if there's some way I'll be able to get her to take them off at the club pool?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Mavi olan daha seksi, ama şu lanet şortlar!.... Acaba kulüp havuzunda onu çıkarmasını sağlamanın bir yolu var mı?{/i}"
 
 # game/UpdateScript0.03.rpy:1379 #-#-# translate crowdin bikinishow_8e92b373:
 msgid "[_RT_] {i}Which should I choose?{/i}"
@@ -1898,11 +1898,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1383 #-#-# translate crowdin bikinishow_f5178826:
 msgid "[_R_] Let's go with the pink one. I'm sorry about the other one, I couldn't tell from the online advertisement that it was going to be so immodest."
-msgstr ""
+msgstr "[_R_] Pembe olanla devam edelim. Diğeri için üzgünüm, internetteki reklamdan bu kadar utanmaz olacağını anlayamadım."
 
 # game/UpdateScript0.03.rpy:1384 #-#-# translate crowdin bikinishow_4ec17905:
 msgid "[_M_] You sure? I actually do love the Hyongu bikini, I just know I can't wear it without the shorts in front of my own son."
-msgstr ""
+msgstr "[_M_] Emin misin? Aslında Hyongu bikinisini seviyorum, sadece kendi oğlumun önünde şort olmadan giyemeyeceğimi biliyorum."
 
 # game/UpdateScript0.03.rpy:1385 #-#-# translate crowdin bikinishow_504d3715:
 msgid "[_R_] Yeah, I think you'll still be more comfortable in the pink one."
@@ -1926,7 +1926,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1392 #-#-# translate crowdin bikinishow_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin saygısı +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:1394 #-#-# translate crowdin bikinishow_886ca893:
 msgid "[_M_] Alright. Why don't you run and get ready for the pool, and I'll meet you in the car."
@@ -2026,7 +2026,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1443 #-#-# translate crowdin diaz_and_lauren_ea21b17e:
 msgid "[_RT_] {i}Luckily Sidney will be out jogging this morning. I have no idea how I'd explain this to her.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Neyse ki Sidney bu sabah koşuya çıkacak. Bunu ona nasıl açıklayacağımı bilmiyorum.{/i}"
 
 # game/UpdateScript0.03.rpy:1445 #-#-# translate crowdin diaz_and_lauren_0c29a03f:
 msgid "[_RT_] {i}Luckily Sidney can sleep through a train driving through the house, cuz I don't know how I'd explain this to her.{/i}"
@@ -2078,7 +2078,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1464 #-#-# translate crowdin diaz_and_lauren_0a81a5f1:
 msgid "[_LT_] {i}Shit, I hate him almost as much as Agent Diaz though.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Siktir, ondan neredeyse Ajan Diaz kadar nefret ediyorum.{/i}"
 
 # game/UpdateScript0.03.rpy:1465 #-#-# translate crowdin diaz_and_lauren_eb1995a7:
 msgid "[_AD_] Let's see you shake that booty!"
@@ -2182,7 +2182,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1521 #-#-# translate crowdin diaz_and_lauren_4ac15ba2:
 msgid "[_RT_] {i}Oh my God! She's spanking Lauren!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Aman Tanrım! Lauren'e şaplaklar atıyor!{/i}"
 
 # game/UpdateScript0.03.rpy:1525 #-#-# translate crowdin diaz_and_lauren_937147bc:
 msgid "[_RT_] {i}Why do I find that so hot?.... {/i}"
@@ -2246,7 +2246,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1567 #-#-# translate crowdin diaz_and_lauren_5b0fae7a:
 msgid "[_AD_] Remember! I already know you're recording your family."
-msgstr ""
+msgstr "[_AD_] Unutma! Aileni kaydettiğini biliyorum."
 
 # game/UpdateScript0.03.rpy:1568 #-#-# translate crowdin diaz_and_lauren_c043cbe4:
 msgid "[_AD_] I can only assume you were watching that too."
@@ -2266,7 +2266,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1575 #-#-# translate crowdin diaz_and_lauren_a583aa71:
 msgid "[_RT_] {i}Holy shit! I'm going to cum right here in my pants! The thought of Lauren and myself with Diaz!.... Shit, that's hot!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Vay anasını! Tam burada pantolonumun içine boşalacağım! Lauren ve benim Diaz'la birlikte olma düşüncesi!.... Kahretsin, bu çok ateşli!{/i}"
 
 # game/UpdateScript0.03.rpy:1576 #-#-# translate crowdin diaz_and_lauren_2d5a20bc:
 msgid "[_RT_] {i}Shit!.... I'd better go check on Lauren.{/i}"
@@ -2330,7 +2330,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1599 #-#-# translate crowdin diaz_and_lauren_5e392b39:
 msgid "[_R_] Yeah.... well, it's not all on me.... I've got two ransoms to pay now, don't I?"
-msgstr ""
+msgstr "[_R_] Tamam.... şey, hepsi benim suçum değil.... Şimdi ödemem gereken iki fidye var değil mi?"
 
 # game/UpdateScript0.03.rpy:1600 #-#-# translate crowdin diaz_and_lauren_4c5c8593:
 msgid "[_R_] The best thing we can do is make sure the Cosplay business takes off."
@@ -2482,7 +2482,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1688 #-#-# translate crowdin diaz_and_lauren_f9ee413b:
 msgid "[_AD_] There, now remember what you are on my next visit!"
-msgstr ""
+msgstr "[_AD_] İşte, şimdi bir sonraki ziyaretimde ne olacağını hatırla!"
 
 # game/UpdateScript0.03.rpy:1689 #-#-# translate crowdin diaz_and_lauren_a6e76ee1_1:
 msgid "[_L_] Yes, Agent Diaz, your toy will remember."
@@ -2526,7 +2526,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1707 #-#-# translate crowdin diaz_and_lauren_a583aa71_1:
 msgid "[_RT_] {i}Holy shit! I'm going to cum right here in my pants! The thought of Lauren and myself with Diaz!.... Shit, that's hot!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Vay anasını! Tam burada pantolonumun içine boşalacağım! Lauren ve benim Diaz'la birlikte olma düşüncesi!.... Kahretsin, bu çok ateşli!{/i}"
 
 # game/UpdateScript0.03.rpy:1708 #-#-# translate crowdin diaz_and_lauren_2d5a20bc_1:
 msgid "[_RT_] {i}Shit!.... I'd better go check on Lauren.{/i}"
@@ -2654,7 +2654,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1760 #-#-# translate crowdin ryan_and_lauren_137c3d57:
 msgid "[_L_] I've noticed you staring at my ass a lot lately, but you act like a professional during our photoshoots,"
-msgstr ""
+msgstr "[_L_] Son zamanlarda götüme çok baktığını fark ettim, ama fotoğraf çekimlerimizde bir profesyonel gibi davranıyorsun,"
 
 # game/UpdateScript0.03.rpy:1761 #-#-# translate crowdin ryan_and_lauren_bd1efd1e:
 msgid "[_L_] But I can't help but notice you're always pitching a tent once I start taking off my clothes."
@@ -2698,7 +2698,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1781 #-#-# translate crowdin ryan_and_lauren_a9d8f990:
 msgid "[_RT_] {i}Oh my.... how am I supposed to keep my eyes shut for this.... {/i}"
-msgstr ""
+msgstr "[_RT_] {i}Aman.... bunun için gözlerimi nasıl kapalı tutacağım.... {/i}"
 
 # game/UpdateScript0.03.rpy:1782 #-#-# translate crowdin ryan_and_lauren_8331f458:
 msgid "[_L_] Ok, I'm serious, keep your eyes closed."
@@ -2750,7 +2750,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1802 #-#-# translate crowdin ryan_and_lauren_01cf0930:
 msgid "[_R_] Wow! I've seen a lot of your body on the photo shoots,"
-msgstr ""
+msgstr "[_R_] Vay canına! Fotoğraf çekimlerinde vücudunu çok gördüm,"
 
 # game/UpdateScript0.03.rpy:1803 #-#-# translate crowdin ryan_and_lauren_a86b6321:
 msgid "[_R_] But I've never seen you move like this before."
@@ -2810,7 +2810,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1822 #-#-# translate crowdin ryan_and_lauren_81b4ba91:
 msgid "[_R_] I can hardly allow you to pass on to the next grade after displaying that incredibly lewd, but sexy behavior."
-msgstr ""
+msgstr "[_R_] Bu inanılmaz müstehcen ama seksi davranıştan sonra bir üst sınıfa geçmene izin veremem."
 
 # game/UpdateScript0.03.rpy:1825 #-#-# translate crowdin ryan_and_lauren_24d19202:
 msgid "[_L_] There must be something I can do to change your mind."
@@ -2942,7 +2942,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1948 #-#-# translate crowdin ryan_and_lauren_b8d7c08c:
 msgid "[_L_] I think you came bucketloads."
-msgstr ""
+msgstr "[_L_] Bence kova dolusu geliyor."
 
 # game/UpdateScript0.03.rpy:1949 #-#-# translate crowdin ryan_and_lauren_c765dd3c:
 msgid "[_L_] Your shorts are soaking wet."
@@ -3474,7 +3474,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:2259 #-#-# translate crowdin meganloyaltyblowjob_b372e47c:
 msgid "[_R_] Oh shit, this feels so good."
-msgstr ""
+msgstr "[_R_] Siktir, bu çok iyi hissettiriyor."
 
 # game/UpdateScript0.03.rpy:2260 #-#-# translate crowdin meganloyaltyblowjob_e6ffffea:
 msgid "[_MG_] Haha.... well, hold on a little longer."
@@ -3546,7 +3546,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:2357 #-#-# translate crowdin megan_cum_4d6fa5e6:
 msgid "[_R_] Thank you for that, my first blowjob!!"
-msgstr ""
+msgstr "[_R_] Bunun için teşekkür ederim, ilk oral seksim!!"
 
 # game/UpdateScript0.03.rpy:2358 #-#-# translate crowdin megan_cum_215f2cfe:
 msgid "[_MG_] Hahaha.... don't mention it! And there's more where that came from if you'll let me model for you."
@@ -3570,7 +3570,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:2421 #-#-# translate crowdin clubpool_131764d1:
 msgid "[_M_] It looks like we dodged a bullet though, there's almost no one here, and definitely not anyone I know."
-msgstr ""
+msgstr "[_M_] Yine de ucuz atlatmışız gibi görünüyor, burada neredeyse hiç kimse yok ve kesinlikle tanıdığım kimse yok."
 
 # game/UpdateScript0.03.rpy:2422 #-#-# translate crowdin clubpool_b1c91f45:
 msgid "[_R_] What are you talking about, there's Lauren's friend Kenzie over there hanging out with Matt from our class."
@@ -3650,7 +3650,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:2455 #-#-# translate crowdin clubpool_559278d6:
 msgid "[_MB_] Our Dads left us here while they go play a round of golf."
-msgstr ""
+msgstr "[_MB_] Babalarımız golf oynamaya giderken bizi burada bıraktılar."
 
 # game/UpdateScript0.03.rpy:2456 #-#-# translate crowdin clubpool_d5acbaa6:
 msgid "[_MB_] But I see you brought your gorgeous mom!"
@@ -3678,7 +3678,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:2466 #-#-# translate crowdin clubpool_369c0df2:
 msgid "[_MB_] So, what's the deal? Is your mom going to come swim with us?"
-msgstr ""
+msgstr "[_MB_] Ee, olay nedir? Annen bizimle yüzmeye gelecek mi?"
 
 # game/UpdateScript0.03.rpy:2467 #-#-# translate crowdin clubpool_0d3f4dad:
 msgid "[_R_] Yeah right, she usually just sits and reads a book, or sleeps in the shade."
@@ -3814,7 +3814,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:2522 #-#-# translate crowdin clubpool_223a377e:
 msgid "[_W_] Yes, sir, what can I do for you?"
-msgstr ""
+msgstr "[_W_] Evet efendim, sizin için ne yapabilirim?"
 
 # game/UpdateScript0.03.rpy:2523 #-#-# translate crowdin clubpool_39bdd415:
 msgid "[_R_] How much is your wine?"
@@ -3894,7 +3894,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:2542 #-#-# translate crowdin clubpool_6ae10c6f:
 msgid "[_R_] Alright, I'll be right back, I just have to run and grab the cash out of my wallet."
-msgstr ""
+msgstr "[_R_] Tamam, hemen döneceğim, sadece koşup cüzdanımdan parayı almam gerekiyor."
 
 # game/UpdateScript0.03.rpy:2544 #-#-# translate crowdin clubpool_2ebf8fd9:
 msgid "[_RT_] {i}Umm.... ok, let me just think a second.{/i}"
@@ -3918,7 +3918,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:2553 #-#-# translate crowdin clubpool_617c9bdb:
 msgid "{i}\"Money -$20\"{/i}"
-msgstr ""
+msgstr "{i}\"Paran -$20\"{/i}"
 
 # game/UpdateScript0.03.rpy:2555 #-#-# translate crowdin clubpool_f2276e41:
 msgid "[_W_] Ok, I'll run and get her a glass and let her know it's from the gentleman in the blue swimsuit."
@@ -3942,7 +3942,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:2569 #-#-# translate crowdin clubpool_8f73246e:
 msgid "{i}\"Money -$100\"{/i}"
-msgstr ""
+msgstr "{i}\"Paran -$100\"{/i}"
 
 # game/UpdateScript0.03.rpy:2572 #-#-# translate crowdin clubpool_f2276e41_1:
 msgid "[_W_] Ok, I'll run and get her a glass and let her know it's from the gentleman in the blue swimsuit."
@@ -4026,7 +4026,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:2614 #-#-# translate crowdin clubpool_a34cbae1:
 msgid "[_M_] Of course, buying me a $100 bottle of wine, something is definitely developing."
-msgstr ""
+msgstr "[_M_] Tabii ki, bana 100 dolarlık bir şişe şarap aldığında, kesinlikle bir şeyler gelişiyor."
 
 # game/UpdateScript0.03.rpy:2616 #-#-# translate crowdin clubpool_b35ff7a1:
 msgid "[_M_] Buying me a $20 glass of wine? How sweet!..."
@@ -4054,11 +4054,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:2634 #-#-# translate crowdin clubpool_2ed3c66c:
 msgid "[_MT_] {i}Is [ryan] buying me wine because he thinks it's something his father would do?....{/i}"
-msgstr ""
+msgstr "[_MT_] {i} [ryan] bana şarap alıyor çünkü bunun babasının yapacağı bir şey olduğunu düşünüyor?....{/i}"
 
 # game/UpdateScript0.03.rpy:2641 #-#-# translate crowdin clubpool_49415e1d:
 msgid "[_MT_] {i}Or is he really starting to enter an Oedipal phase? And if he is, will not allowing it to develop to a certain point really make him get stuck in it like the book said?{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Yoksa gerçekten Ödipal bir evreye mi girmeye başlıyor? Ve eğer öyleyse, belli bir noktaya kadar gelişmesine izin vermemek, kitabın söylediği gibi onu gerçekten bu evrede sıkışıp kalmasına neden olacak mı?{/i}"
 
 # game/UpdateScript0.03.rpy:2642 #-#-# translate crowdin clubpool_5c825f60:
 msgid "[_MT_] {i}Shit, I hope that's bullshit!{/i}"
@@ -4106,11 +4106,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:2672 #-#-# translate crowdin clubpool_b591b992:
 msgid "{i}{b}\"Mom's Affection +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin saygısı +2\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:2673 #-#-# translate crowdin clubpool_b47c24a5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin saygısı +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:2676 #-#-# translate crowdin clubpool_d1d0eb65:
 msgid "[_M_] Maybe I should come work with you, you might be making more money than me, haha..."
@@ -4138,7 +4138,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:2683 #-#-# translate crowdin clubpool_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin saygısı +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:2685 #-#-# translate crowdin clubpool_d1d0eb65_1:
 msgid "[_M_] Maybe I should come work with you, you might be making more money than me, haha..."
@@ -4166,7 +4166,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:2692 #-#-# translate crowdin clubpool_f4c5fa30_1:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin saygısı +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:2694 #-#-# translate crowdin clubpool_d1d0eb65_2:
 msgid "[_M_] Maybe I should come work with you, you might be making more money than me, haha..."
@@ -4186,7 +4186,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:2699 #-#-# translate crowdin clubpool_c8301859:
 msgid "[_M_] So, let me finish this wine, and I'll join you in the pool."
-msgstr ""
+msgstr "[_M_] Şu şarabı bitireyim, sonra havuzda size katılırım."
 
 # game/UpdateScript0.03.rpy:2700 #-#-# translate crowdin clubpool_88f3c36a:
 msgid "[_R_] Really?! That's awesome!"
@@ -4378,7 +4378,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:2842 #-#-# translate crowdin clubpool_dcdec28a:
 msgid "{i}{b}\"Mom's Anger +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin kızgınlığı +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:2844 #-#-# translate crowdin clubpool_b578b25a:
 msgid "[_MB_] No.... sorry! We'll behave!"
@@ -4554,7 +4554,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:2922 #-#-# translate crowdin clubpool_53e9c6e2:
 msgid "[_MBT_] {i}That's definitely Miss [mom_name]. a strong pull on that top should do the trick.{/i}"
-msgstr ""
+msgstr "[_MBT_] {i}Bu kesinlikle Bayan [mom_name]. Üstünü güçlü bir şekilde çekmek işe yarayacaktır.{/i}"
 
 # game/UpdateScript0.03.rpy:2923 #-#-# translate crowdin clubpool_252d2def:
 msgid "[_RT_] {i}Is Matt going to do what I think he's doing?{/i}"
@@ -4654,7 +4654,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:2996 #-#-# translate crowdin clubpool_61e7f9dc:
 msgid "[_M_] Now Matt, would you please hand me my top?"
-msgstr ""
+msgstr "[_M_] Şimdi Matt, lütfen üstümü verir misin?"
 
 # game/UpdateScript0.03.rpy:2997 #-#-# translate crowdin clubpool_23489fd0:
 msgid "[_M_] And I'm going to assume that was an accident?"
@@ -4822,7 +4822,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3082 #-#-# translate crowdin clubpool_ad85e890:
 msgid "[_MT_] {i}Shit, [mom_name]! Pull yourself together! You can't think about one of your students like that!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Kahretsin, [mom_name]! Kendini topla! Öğrencilerinden biri hakkında böyle düşünemezsin!{/i}"
 
 # game/UpdateScript0.03.rpy:3085 #-#-# translate crowdin clubpool_2d99d24c:
 msgid "[_RT_] {i}Shit!! Matt's gonna come after Mom hard.{/i}"
@@ -5042,7 +5042,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3233 #-#-# translate crowdin clubpool_fe9752c5:
 msgid "[_M_] Ok just shhh..."
-msgstr ""
+msgstr "[_M_] Tamam sadece şşş sus..."
 
 # game/UpdateScript0.03.rpy:3234 #-#-# translate crowdin clubpool_a53691f3:
 msgid "[_R_] I'm sorry!..."
@@ -5090,7 +5090,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3269 #-#-# translate crowdin clubpool_39ee4319:
 msgid "[_RT_] {i}{b}(HINT){/b} I need to keep \"Talking to Mom about the Oedipus assignment\" in her office, that is unless I have the chance to see where Matt and Megan sneak off to.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(İPUCU){/b} \"Annemle Oedipus ödevi hakkında konuşmayı\" ofisinde tutmam gerekiyor, tabii Matt ve Megan'ın nereye kaçtığını görme şansım olmazsa.{/i}"
 
 # game/UpdateScript0.03.rpy:3276 #-#-# translate crowdin clubpool_50b37385:
 msgid "[_RT_] {i}{b}(HINT){/b} I need to keep \"Talking to Mom about the Oedipus assignment\" in her office. Is it me, or does she seem flushed when I come see her... maybe if I don't get distracted on the way, I can see what she's doing in there.{/i}"
@@ -5146,7 +5146,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3315 #-#-# translate crowdin clubpool_1cb7a5f0:
 msgid "[_M_] I've never been so embarrassed."
-msgstr ""
+msgstr "[_M_] Hiç bu kadar utanmamıştım."
 
 # game/UpdateScript0.03.rpy:3316 #-#-# translate crowdin clubpool_fa3877fd:
 msgid "{i}\"Mom's Respect -1\"{/i}"
@@ -5178,7 +5178,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3342 #-#-# translate crowdin clubpool_39ee4319_1:
 msgid "[_RT_] {i}{b}(HINT){/b} I need to keep \"Talking to Mom about the Oedipus assignment\" in her office, that is unless I have the chance to see where Matt and Megan sneak off to.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(İPUCU){/b} \"Annemle Oedipus ödevi hakkında konuşmayı\" ofisinde tutmam gerekiyor, tabii Matt ve Megan'ın nereye kaçtığını görme şansım olmazsa.{/i}"
 
 # game/UpdateScript0.03.rpy:3349 #-#-# translate crowdin clubpool_50b37385_1:
 msgid "[_RT_] {i}{b}(HINT){/b} I need to keep \"Talking to Mom about the Oedipus assignment\" in her office. Is it me, or does she seem flushed when I come see her... maybe if I don't get distracted on the way, I can see what she's doing in there.{/i}"
@@ -5186,7 +5186,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3359 #-#-# translate crowdin clubpool_c2aa0bdd:
 msgid "[_MT_] {i}I'll go for Kenzie, she should be easy to catch, and the sooner this game's done, the sooner we can go home!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Ben Kenzie'yi seçiyorum, onu yakalamak kolay olacaktır ve bu oyun ne kadar çabuk biterse, eve o kadar çabuk gidebiliriz!{/i}"
 
 # game/UpdateScript0.03.rpy:3366 #-#-# translate crowdin clubpool_c3298bbf_3:
 msgid "[_M_] Marco!"
@@ -5282,7 +5282,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3474 #-#-# translate crowdin clubpool_fe9752c5_1:
 msgid "[_M_] Ok just shhh..."
-msgstr ""
+msgstr "[_M_] Tamam sadece şşş sus..."
 
 # game/UpdateScript0.03.rpy:3475 #-#-# translate crowdin clubpool_19d48028:
 msgid "[_K_] I'm sorry!..."
@@ -5370,7 +5370,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3520 #-#-# translate crowdin clubpool_39ee4319_2:
 msgid "[_RT_] {i}{b}(HINT){/b} I need to keep \"Talking to Mom about the Oedipus assignment\" in her office, that is unless I have the chance to see where Matt and Megan sneak off to.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(İPUCU){/b} \"Annemle Oedipus ödevi hakkında konuşmayı\" ofisinde tutmam gerekiyor, tabii Matt ve Megan'ın nereye kaçtığını görme şansım olmazsa.{/i}"
 
 # game/UpdateScript0.03.rpy:3527 #-#-# translate crowdin clubpool_50b37385_2:
 msgid "[_RT_] {i}{b}(HINT){/b} I need to keep \"Talking to Mom about the Oedipus assignment\" in her office. Is it me, or does she seem flushed when I come see her... maybe if I don't get distracted on the way, I can see what she's doing in there.{/i}"
@@ -5406,7 +5406,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3555 #-#-# translate crowdin clubpool_fe9752c5_2:
 msgid "[_M_] Ok just shhh..."
-msgstr ""
+msgstr "[_M_] Tamam sadece şşş sus..."
 
 # game/UpdateScript0.03.rpy:3556 #-#-# translate crowdin clubpool_19d48028_1:
 msgid "[_K_] I'm sorry!..."
@@ -5482,7 +5482,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3598 #-#-# translate crowdin clubpool_39ee4319_3:
 msgid "[_RT_] {i}{b}(HINT){/b} I need to keep \"Talking to Mom about the Oedipus assignment\" in her office, that is unless I have the chance to see where Matt and Megan sneak off to.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(İPUCU){/b} \"Annemle Oedipus ödevi hakkında konuşmayı\" ofisinde tutmam gerekiyor, tabii Matt ve Megan'ın nereye kaçtığını görme şansım olmazsa.{/i}"
 
 # game/UpdateScript0.03.rpy:3605 #-#-# translate crowdin clubpool_50b37385_3:
 msgid "[_RT_] {i}{b}(HINT){/b} I need to keep \"Talking to Mom about the Oedipus assignment\" in her office. Is it me, or does she seem flushed when I come see her... maybe if I don't get distracted on the way, I can see what she's doing in there.{/i}"
@@ -5590,7 +5590,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3714 #-#-# translate crowdin clubpool_fe9752c5_3:
 msgid "[_M_] Ok just shhh..."
-msgstr ""
+msgstr "[_M_] Tamam sadece şşş sus..."
 
 # game/UpdateScript0.03.rpy:3715 #-#-# translate crowdin clubpool_5943c1bf:
 msgid "[_MB_] I'm sorry!..."
@@ -5610,7 +5610,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3725 #-#-# translate crowdin clubpool_ab3bf6db:
 msgid "[_R_] Yeah.... It was pretty obvious by the look on Matt's face!"
-msgstr ""
+msgstr "[_R_] Evet.... Matt'in yüzündeki ifadeden anlaşılıyordu!"
 
 # game/UpdateScript0.03.rpy:3726 #-#-# translate crowdin clubpool_ce5b1b7e:
 msgid "[_MT_] {i}Hahah.... I wish I had seen his face!{/i}"
@@ -5674,7 +5674,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3759 #-#-# translate crowdin clubpool_39ee4319_4:
 msgid "[_RT_] {i}{b}(HINT){/b} I need to keep \"Talking to Mom about the Oedipus assignment\" in her office, that is unless I have the chance to see where Matt and Megan sneak off to.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(İPUCU){/b} \"Annemle Oedipus ödevi hakkında konuşmayı\" ofisinde tutmam gerekiyor, tabii Matt ve Megan'ın nereye kaçtığını görme şansım olmazsa.{/i}"
 
 # game/UpdateScript0.03.rpy:3766 #-#-# translate crowdin clubpool_50b37385_4:
 msgid "[_RT_] {i}{b}(HINT){/b} I need to keep \"Talking to Mom about the Oedipus assignment\" in her office. Is it me, or does she seem flushed when I come see her... maybe if I don't get distracted on the way, I can see what she's doing in there.{/i}"
@@ -5738,7 +5738,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3807 #-#-# translate crowdin clubpool_ab3bf6db_1:
 msgid "[_R_] Yeah.... It was pretty obvious by the look on Matt's face!"
-msgstr ""
+msgstr "[_R_] Evet.... Matt'in yüzündeki ifadeden anlaşılıyordu!"
 
 # game/UpdateScript0.03.rpy:3808 #-#-# translate crowdin clubpool_2c5df9ec:
 msgid "[_MT_] Oh, God! I'm so humiliated!"
@@ -5790,7 +5790,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3838 #-#-# translate crowdin clubpool_39ee4319_5:
 msgid "[_RT_] {i}{b}(HINT){/b} I need to keep \"Talking to Mom about the Oedipus assignment\" in her office, that is unless I have the chance to see where Matt and Megan sneak off to.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(İPUCU){/b} \"Annemle Oedipus ödevi hakkında konuşmayı\" ofisinde tutmam gerekiyor, tabii Matt ve Megan'ın nereye kaçtığını görme şansım olmazsa.{/i}"
 
 # game/UpdateScript0.03.rpy:3845 #-#-# translate crowdin clubpool_50b37385_5:
 msgid "[_RT_] {i}{b}(HINT){/b} I need to keep \"Talking to Mom about the Oedipus assignment\" in her office. Is it me, or does she seem flushed when I come see her... maybe if I don't get distracted on the way, I can see what she's doing in there.{/i}"
@@ -5810,19 +5810,19 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3911 #-#-# translate crowdin htbydshoot_1b47bdc8:
 msgid "Lauren is only available to take pictures in the late morning."
-msgstr ""
+msgstr "Lauren sadece sabah geç saatlerde fotoğraf çekmek için müsait oluyor."
 
 # game/UpdateScript0.03.rpy:3915 #-#-# translate crowdin htbydshoot_1b47bdc8_1:
 msgid "Lauren is only available to take pictures in the late morning."
-msgstr ""
+msgstr "Lauren sadece sabah geç saatlerde fotoğraf çekmek için müsait oluyor."
 
 # game/UpdateScript0.03.rpy:3919 #-#-# translate crowdin htbydshoot_1b47bdc8_2:
 msgid "Lauren is only available to take pictures in the late morning."
-msgstr ""
+msgstr "Lauren sadece sabah geç saatlerde fotoğraf çekmek için müsait oluyor."
 
 # game/UpdateScript0.03.rpy:3923 #-#-# translate crowdin htbydshoot_1b47bdc8_3:
 msgid "Lauren is only available to take pictures in the late morning."
-msgstr ""
+msgstr "Lauren sadece sabah geç saatlerde fotoğraf çekmek için müsait oluyor."
 
 # game/UpdateScript0.03.rpy:3927 #-#-# translate crowdin htbydshoot_fba0da7d:
 msgid "You have completed this photo session with Lauren entirely."
@@ -5842,51 +5842,51 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:3935 #-#-# translate crowdin htbydshoot_4e3273ee:
 msgid "You have already done this photo session with Lauren this week."
-msgstr ""
+msgstr "Lauren ile fotoğraf çekimini bu hafta zaten yapmıştınız."
 
 # game/UpdateScript0.03.rpy:3936 #-#-# translate crowdin htbydshoot_704bd7a7:
 msgid "You will still be able to increase Lauren's stats and progress through this scene,"
-msgstr ""
+msgstr "Yine de Lauren'ın istatistiklerini artırabilecek ve bu sahnede ilerleyebileceksiniz,"
 
 # game/UpdateScript0.03.rpy:3937 #-#-# translate crowdin htbydshoot_d2e00a31:
 msgid "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
-msgstr ""
+msgstr "Ancak bu etkinliğin her hafta yalnızca ilk oynanışı Cosplay Heaven web sitesi için beğeni toplayacaktır."
 
 # game/UpdateScript0.03.rpy:3940 #-#-# translate crowdin htbydshoot_4e3273ee_1:
 msgid "You have already done this photo session with Lauren this week."
-msgstr ""
+msgstr "Lauren ile fotoğraf çekimini bu hafta zaten yapmıştınız."
 
 # game/UpdateScript0.03.rpy:3941 #-#-# translate crowdin htbydshoot_704bd7a7_1:
 msgid "You will still be able to increase Lauren's stats and progress through this scene,"
-msgstr ""
+msgstr "Yine de Lauren'ın istatistiklerini artırabilecek ve bu sahnede ilerleyebileceksiniz,"
 
 # game/UpdateScript0.03.rpy:3942 #-#-# translate crowdin htbydshoot_d2e00a31_1:
 msgid "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
-msgstr ""
+msgstr "Ancak bu etkinliğin her hafta yalnızca ilk oynanışı Cosplay Heaven web sitesi için beğeni toplayacaktır."
 
 # game/UpdateScript0.03.rpy:3945 #-#-# translate crowdin htbydshoot_4e3273ee_2:
 msgid "You have already done this photo session with Lauren this week."
-msgstr ""
+msgstr "Lauren ile fotoğraf çekimini bu hafta zaten yapmıştınız."
 
 # game/UpdateScript0.03.rpy:3946 #-#-# translate crowdin htbydshoot_704bd7a7_2:
 msgid "You will still be able to increase Lauren's stats and progress through this scene,"
-msgstr ""
+msgstr "Yine de Lauren'ın istatistiklerini artırabilecek ve bu sahnede ilerleyebileceksiniz,"
 
 # game/UpdateScript0.03.rpy:3947 #-#-# translate crowdin htbydshoot_d2e00a31_2:
 msgid "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
-msgstr ""
+msgstr "Ancak bu etkinliğin her hafta yalnızca ilk oynanışı Cosplay Heaven web sitesi için beğeni toplayacaktır."
 
 # game/UpdateScript0.03.rpy:3950 #-#-# translate crowdin htbydshoot_4e3273ee_3:
 msgid "You have already done this photo session with Lauren this week."
-msgstr ""
+msgstr "Lauren ile fotoğraf çekimini bu hafta zaten yapmıştınız."
 
 # game/UpdateScript0.03.rpy:3951 #-#-# translate crowdin htbydshoot_704bd7a7_3:
 msgid "You will still be able to increase Lauren's stats and progress through this scene,"
-msgstr ""
+msgstr "Yine de Lauren'ın istatistiklerini artırabilecek ve bu sahnede ilerleyebileceksiniz,"
 
 # game/UpdateScript0.03.rpy:3952 #-#-# translate crowdin htbydshoot_d2e00a31_3:
 msgid "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
-msgstr ""
+msgstr "Ancak bu etkinliğin her hafta yalnızca ilk oynanışı Cosplay Heaven web sitesi için beğeni toplayacaktır."
 
 # game/UpdateScript0.03.rpy:3959 #-#-# translate crowdin htbydshoot_bd3ba4e4:
 msgid "[_R_] Yeah.... I'm already over here."
@@ -6038,11 +6038,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4055 #-#-# translate crowdin htbydshoot_20fe84ff:
 msgid "[_RT_] {i}{b}I've got to remember not to push Lauren too hard. If I make her mad, she's just going to end the photo shoot and go home.{/b}{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}Lauren'i çok zorlamamam gerektiğini hatırlamalıyım. Eğer onu kızdırırsam, fotoğraf çekimini bitirip eve gidecektir.{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4056 #-#-# translate crowdin htbydshoot_197cc58c:
 msgid "[_R_] So, are you ready?"
-msgstr ""
+msgstr "[_R_] Hazır mısın?"
 
 # game/UpdateScript0.03.rpy:4059 #-#-# translate crowdin htbydshoot_9676be82:
 msgid "[_L_] I think so. Thanks for being so professional, I almost forgot you were my brother for a second."
@@ -6282,11 +6282,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4212 #-#-# translate crowdin htbydshoot_c40e9816:
 msgid "{i}\"Lauren Anger +1\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in kızgınlığı +1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4214 #-#-# translate crowdin htbydshoot_5541bdda:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4216 #-#-# translate crowdin htbydshoot_375035b3_1:
 msgid "[_L_] We can try again next week if you're willing to be more professional."
@@ -6374,11 +6374,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4263 #-#-# translate crowdin htbydshoot_f9fe282d:
 msgid "{i}\"Lauren Anger +2\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in kızgınlığı +2\"{/i}"
 
 # game/UpdateScript0.03.rpy:4265 #-#-# translate crowdin htbydshoot_5541bdda_1:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4267 #-#-# translate crowdin htbydshoot_375035b3_2:
 msgid "[_L_] We can try again next week if you're willing to be more professional."
@@ -6386,7 +6386,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4270 #-#-# translate crowdin htbydshoot_30106a6e:
 msgid "To get Lauren to take her bra off you must have her submission at 10 points or her libido at 10 points."
-msgstr ""
+msgstr "Lauren'in sütyenini çıkarmasını sağlamak için onun boyun eğmesini 10 puan ya da libidosunu 10 puan yapmalısınız."
 
 # game/UpdateScript0.03.rpy:4275 #-#-# translate crowdin htbydshoot_27706357:
 msgid "[_R_] Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -6478,11 +6478,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4312 #-#-# translate crowdin htbydshoot_94579670:
 msgid "{i}\"Lauren Anger +3\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in kızgınlığı +3\"{/i}"
 
 # game/UpdateScript0.03.rpy:4314 #-#-# translate crowdin htbydshoot_5541bdda_2:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4316 #-#-# translate crowdin htbydshoot_375035b3_3:
 msgid "[_L_] We can try again next week if you're willing to be more professional."
@@ -6490,7 +6490,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4319 #-#-# translate crowdin htbydshoot_380a4c3d:
 msgid "To get Lauren to take her bra off and show off her tits, you must have her submission at 14 points."
-msgstr ""
+msgstr "Lauren'ın sütyenini çıkarıp meme uçlarını göstermesini sağlamak için 14 boyun eğme puanına sahip olmalısınız."
 
 # game/UpdateScript0.03.rpy:4324 #-#-# translate crowdin htbydshoot_27706357_1:
 msgid "[_R_] Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -6582,11 +6582,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4361 #-#-# translate crowdin htbydshoot_6210cab1:
 msgid "{i}\"Lauren Anger +4\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in kızgınlığı +4\"{/i}"
 
 # game/UpdateScript0.03.rpy:4363 #-#-# translate crowdin htbydshoot_5541bdda_3:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4365 #-#-# translate crowdin htbydshoot_375035b3_4:
 msgid "[_L_] We can try again next week if you're willing to be more professional."
@@ -6702,11 +6702,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4414 #-#-# translate crowdin htbydshoot_357c0099:
 msgid "{i}\"Lauren Anger +10\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in kızgınlığı +10\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4416 #-#-# translate crowdin htbydshoot_1c9f8e4a:
 msgid "{i}\"Lauren Affection -5\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in saygısı -5\"{/i}"
 
 # game/UpdateScript0.03.rpy:4418 #-#-# translate crowdin htbydshoot_5a4211b0:
 msgid "[_L_] You better stop acting like an asshole if you want me to come again next week."
@@ -6746,7 +6746,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4433 #-#-# translate crowdin htbydshoot_05947e83:
 msgid "{i}{b}\"Lauren's Libido +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı +2\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4436 #-#-# translate crowdin htbydshoot_c023ab9a:
 msgid "[_L_] I can't wait for the next photoshoot."
@@ -6826,7 +6826,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4476 #-#-# translate crowdin removeskirt_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4482 #-#-# translate crowdin removeskirt_be95a5c5:
 msgid "[_R_] Ok, just hold that pose."
@@ -6926,11 +6926,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4544 #-#-# translate crowdin removeskirt_c40e9816:
 msgid "{i}\"Lauren Anger +1\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in kızgınlığı +1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4546 #-#-# translate crowdin removeskirt_5541bdda:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4548 #-#-# translate crowdin removeskirt_375035b3:
 msgid "[_L_] We can try again next week if you're willing to be more professional."
@@ -7018,11 +7018,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4595 #-#-# translate crowdin removeskirt_f9fe282d:
 msgid "{i}\"Lauren Anger +2\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in kızgınlığı +2\"{/i}"
 
 # game/UpdateScript0.03.rpy:4597 #-#-# translate crowdin removeskirt_5541bdda_1:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4599 #-#-# translate crowdin removeskirt_375035b3_1:
 msgid "[_L_] We can try again next week if you're willing to be more professional."
@@ -7030,7 +7030,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4602 #-#-# translate crowdin removeskirt_30106a6e:
 msgid "To get Lauren to take her bra off you must have her submission at 10 points or her libido at 10 points."
-msgstr ""
+msgstr "Lauren'in sütyenini çıkarmasını sağlamak için onun boyun eğmesini 10 puan ya da libidosunu 10 puan yapmalısınız."
 
 # game/UpdateScript0.03.rpy:4607 #-#-# translate crowdin removeskirt_27706357:
 msgid "[_R_] Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -7122,11 +7122,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4644 #-#-# translate crowdin removeskirt_94579670:
 msgid "{i}\"Lauren Anger +3\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in kızgınlığı +3\"{/i}"
 
 # game/UpdateScript0.03.rpy:4646 #-#-# translate crowdin removeskirt_5541bdda_2:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4648 #-#-# translate crowdin removeskirt_375035b3_2:
 msgid "[_L_] We can try again next week if you're willing to be more professional."
@@ -7134,7 +7134,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4651 #-#-# translate crowdin removeskirt_380a4c3d:
 msgid "To get Lauren to take her bra off and show off her tits, you must have her submission at 14 points."
-msgstr ""
+msgstr "Lauren'ın sütyenini çıkarıp meme uçlarını göstermesini sağlamak için 14 boyun eğme puanına sahip olmalısınız."
 
 # game/UpdateScript0.03.rpy:4656 #-#-# translate crowdin removeskirt_27706357_1:
 msgid "[_R_] Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -7226,11 +7226,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4693 #-#-# translate crowdin removeskirt_6210cab1:
 msgid "{i}\"Lauren Anger +4\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in kızgınlığı +4\"{/i}"
 
 # game/UpdateScript0.03.rpy:4695 #-#-# translate crowdin removeskirt_5541bdda_3:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4697 #-#-# translate crowdin removeskirt_375035b3_3:
 msgid "[_L_] We can try again next week if you're willing to be more professional."
@@ -7346,11 +7346,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4746 #-#-# translate crowdin removeskirt_357c0099:
 msgid "{i}\"Lauren Anger +10\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in kızgınlığı +10\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4748 #-#-# translate crowdin removeskirt_1c9f8e4a:
 msgid "{i}\"Lauren Affection -5\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in saygısı -5\"{/i}"
 
 # game/UpdateScript0.03.rpy:4750 #-#-# translate crowdin removeskirt_5a4211b0:
 msgid "[_L_] You better stop acting like an asshole if you want me to come again next week."
@@ -7390,7 +7390,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4765 #-#-# translate crowdin removeskirt_05947e83:
 msgid "{i}{b}\"Lauren's Libido +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı +2\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:4768 #-#-# translate crowdin removeskirt_c023ab9a:
 msgid "[_L_] I can't wait for the next photoshoot."
@@ -7530,11 +7530,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4858 #-#-# translate crowdin thongtime_f9fe282d:
 msgid "{i}\"Lauren Anger +2\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in kızgınlığı +2\"{/i}"
 
 # game/UpdateScript0.03.rpy:4860 #-#-# translate crowdin thongtime_5541bdda:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4862 #-#-# translate crowdin thongtime_375035b3:
 msgid "[_L_] We can try again next week if you're willing to be more professional."
@@ -7542,7 +7542,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4865 #-#-# translate crowdin thongtime_30106a6e:
 msgid "To get Lauren to take her bra off you must have her submission at 10 points or her libido at 10 points."
-msgstr ""
+msgstr "Lauren'in sütyenini çıkarmasını sağlamak için onun boyun eğmesini 10 puan ya da libidosunu 10 puan yapmalısınız."
 
 # game/UpdateScript0.03.rpy:4870 #-#-# translate crowdin thongtime_27706357:
 msgid "[_R_] Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -7634,11 +7634,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4907 #-#-# translate crowdin thongtime_94579670:
 msgid "{i}\"Lauren Anger +3\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in kızgınlığı +3\"{/i}"
 
 # game/UpdateScript0.03.rpy:4909 #-#-# translate crowdin thongtime_5541bdda_1:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4911 #-#-# translate crowdin thongtime_375035b3_1:
 msgid "[_L_] We can try again next week if you're willing to be more professional."
@@ -7646,7 +7646,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4914 #-#-# translate crowdin thongtime_380a4c3d:
 msgid "To get Lauren to take her bra off and show off her tits, you must have her submission at 14 points."
-msgstr ""
+msgstr "Lauren'ın sütyenini çıkarıp meme uçlarını göstermesini sağlamak için 14 boyun eğme puanına sahip olmalısınız."
 
 # game/UpdateScript0.03.rpy:4919 #-#-# translate crowdin thongtime_27706357_1:
 msgid "[_R_] Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -7738,11 +7738,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:4956 #-#-# translate crowdin thongtime_6210cab1:
 msgid "{i}\"Lauren Anger +4\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in kızgınlığı +4\"{/i}"
 
 # game/UpdateScript0.03.rpy:4958 #-#-# translate crowdin thongtime_5541bdda_2:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:4960 #-#-# translate crowdin thongtime_375035b3_2:
 msgid "[_L_] We can try again next week if you're willing to be more professional."
@@ -7858,11 +7858,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:5009 #-#-# translate crowdin thongtime_357c0099:
 msgid "{i}\"Lauren Anger +10\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in kızgınlığı +10\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:5011 #-#-# translate crowdin thongtime_1c9f8e4a:
 msgid "{i}\"Lauren Affection -5\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in saygısı -5\"{/i}"
 
 # game/UpdateScript0.03.rpy:5013 #-#-# translate crowdin thongtime_5a4211b0:
 msgid "[_L_] You better stop acting like an asshole if you want me to come again next week."
@@ -7902,7 +7902,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:5028 #-#-# translate crowdin thongtime_05947e83:
 msgid "{i}{b}\"Lauren's Libido +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı +2\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:5031 #-#-# translate crowdin thongtime_c023ab9a:
 msgid "[_L_] I can't wait for the next photoshoot."
@@ -8066,11 +8066,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:5122 #-#-# translate crowdin removebra_94579670:
 msgid "{i}\"Lauren Anger +3\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in kızgınlığı +3\"{/i}"
 
 # game/UpdateScript0.03.rpy:5124 #-#-# translate crowdin removebra_5541bdda:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:5126 #-#-# translate crowdin removebra_375035b3:
 msgid "[_L_] We can try again next week if you're willing to be more professional."
@@ -8078,7 +8078,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:5129 #-#-# translate crowdin removebra_380a4c3d:
 msgid "To get Lauren to take her bra off and show off her tits, you must have her submission at 14 points."
-msgstr ""
+msgstr "Lauren'ın sütyenini çıkarıp meme uçlarını göstermesini sağlamak için 14 boyun eğme puanına sahip olmalısınız."
 
 # game/UpdateScript0.03.rpy:5134 #-#-# translate crowdin removebra_27706357_1:
 msgid "[_R_] Actually, let's call it a day. I've got some more great ideas for this photoshoot in the future, but I need to get a green screen first."
@@ -8170,11 +8170,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:5171 #-#-# translate crowdin removebra_6210cab1:
 msgid "{i}\"Lauren Anger +4\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in kızgınlığı +4\"{/i}"
 
 # game/UpdateScript0.03.rpy:5173 #-#-# translate crowdin removebra_5541bdda_1:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:5175 #-#-# translate crowdin removebra_375035b3_1:
 msgid "[_L_] We can try again next week if you're willing to be more professional."
@@ -8290,11 +8290,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:5224 #-#-# translate crowdin removebra_357c0099:
 msgid "{i}\"Lauren Anger +10\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in kızgınlığı +10\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:5226 #-#-# translate crowdin removebra_1c9f8e4a:
 msgid "{i}\"Lauren Affection -5\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in saygısı -5\"{/i}"
 
 # game/UpdateScript0.03.rpy:5228 #-#-# translate crowdin removebra_5a4211b0:
 msgid "[_L_] You better stop acting like an asshole if you want me to come again next week."
@@ -8390,7 +8390,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:5272 #-#-# translate crowdin showtitties_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:5274 #-#-# translate crowdin showtitties_ad32df25:
 msgid "[_L_] .... Are you going to make me pose like this all day, or are you going to take a picture?"
@@ -8618,11 +8618,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:5418 #-#-# translate crowdin showtitties_6210cab1:
 msgid "{i}\"Lauren Anger +4\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in kızgınlığı +4\"{/i}"
 
 # game/UpdateScript0.03.rpy:5420 #-#-# translate crowdin showtitties_5541bdda:
 msgid "{i}\"Lauren Affection -1\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in saygısı -1\"{/i}"
 
 # game/UpdateScript0.03.rpy:5422 #-#-# translate crowdin showtitties_375035b3:
 msgid "[_L_] We can try again next week if you're willing to be more professional."
@@ -8726,11 +8726,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:5469 #-#-# translate crowdin showtitties_357c0099:
 msgid "{i}\"Lauren Anger +10\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in kızgınlığı +10\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:5471 #-#-# translate crowdin showtitties_1c9f8e4a:
 msgid "{i}\"Lauren Affection -5\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in saygısı -5\"{/i}"
 
 # game/UpdateScript0.03.rpy:5473 #-#-# translate crowdin showtitties_5a4211b0:
 msgid "[_L_] You better stop acting like an asshole if you want me to come again next week."
@@ -8846,7 +8846,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:5521 #-#-# translate crowdin removethong_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:5523 #-#-# translate crowdin removethong_8ee8f0fb:
 msgid "[_R_] And hold that pose."
@@ -8986,11 +8986,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:5587 #-#-# translate crowdin removethong_357c0099:
 msgid "{i}\"Lauren Anger +10\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in kızgınlığı +10\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:5589 #-#-# translate crowdin removethong_1c9f8e4a:
 msgid "{i}\"Lauren Affection -5\"{/i}"
-msgstr ""
+msgstr "{i}\"Lauren'in saygısı -5\"{/i}"
 
 # game/UpdateScript0.03.rpy:5591 #-#-# translate crowdin removethong_5a4211b0:
 msgid "[_L_] You better stop acting like an asshole if you want me to come again next week."
@@ -9342,7 +9342,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:5824 #-#-# translate crowdin htbyd_closeups_aae3c931:
 msgid "{i}{b}\"Lauren's Libido +10\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı +10\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:5826 #-#-# translate crowdin htbyd_closeups_f7b90ea3:
 msgid "[_L_] I can't believe that just happened."
@@ -9458,7 +9458,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:5927 #-#-# translate crowdin htbyd_closeups_aae3c931_1:
 msgid "{i}{b}\"Lauren's Libido +10\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in azgınlığı +10\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:5929 #-#-# translate crowdin htbyd_closeups_edac7e1a:
 msgid "[_L_] I can't believe that just happened again."
@@ -9510,11 +9510,11 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:5957 #-#-# translate crowdin emailalert_65801c46:
 msgid "[_RT_] {i}Oh man, it's just an email alert. You buy one thing at Hardnlong, and the emails never stop.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ah adamım, bu sadece bir e-posta uyarısı. Hardnlong'dan bir şey satın alıyorsun ve e-postalar hiç durmuyor.{/i}"
 
 # game/UpdateScript0.03.rpy:5958 #-#-# translate crowdin emailalert_86b823da:
 msgid "[_RT_] {i}Huh? Oh, man! I'd love to see Mom in this! Maybe I should check the store and get it for her. I'm sure I can think of some way to get her to wear it.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ha? Oh, adamım! Annemi bunun içinde görmeyi çok isterdim! Belki de mağazayı kontrol edip ona almalıyım. Eminim ona bunu giydirmenin bir yolunu bulabilirim.{/i}"
 
 # game/UpdateScript0.03.rpy:5965 #-#-# translate crowdin emailalert_e9769530:
 msgid "[_RT_] {i}{b}(HINT){/b} I got an email ad on my phone for a special deal on a Hyongu bikini. The deal is for a very limited time, so if I want to get it, I'd better do it soon.{/i}"
@@ -9558,33 +9558,33 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:955
 msgid "Just Leave her alone."
-msgstr ""
+msgstr "Onu rahat bırak."
 
 # game/UpdateScript0.03.rpy:1129
 msgid "Commission a new cosplay outfit."
-msgstr ""
+msgstr "Yeni bir cosplay kıyafeti sipariş et."
 
 # game/UpdateScript0.03.rpy:4144
 msgid "Ask her to take off her skirt. {i}(submission 5+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
-msgstr ""
+msgstr "Ona eteğini çıkarmasını söyle. Gerekli: {i}(boyun eğme +5 {b}{color=#0000ff}veya{/color}{/b} azgınlık +9){/i}"
 
 # game/UpdateScript0.03.rpy:4144
 msgid "Ask her to show her buckskin thong from behind. {i}(submission 7+ {b}{color=#0000ff}or{/color}{/b} libido 9+){/i}"
-msgstr ""
+msgstr "Arkadan geyik derisi tangasını göstermesini iste. Gerekli: {i}(boyun eğme +7 {b}{color=#0000ff}veya{/color}{/b} azgınlık +9){/i}"
 
 # game/UpdateScript0.03.rpy:4144
 msgid "Ask her to take off her buckskin bra. {i}(submission 10+ {b}{color=#0000ff}or{/color}{/b} libido 10){/i}"
-msgstr ""
+msgstr "Sütyenini çıkarmasını iste. Gerekli: {i}(boyun eğme +10 {b}{color=#0000ff}veya{/color}{/b} azgınlık 10){/i}"
 
 # game/UpdateScript0.03.rpy:4144
 msgid "Ask her to show her titties. {i}(submission 14+){/i}"
-msgstr ""
+msgstr "Meme uçlarını göstermesini iste. Gerekli: {i}(boyun eğme +14){/i}"
 
 # game/UpdateScript0.03.rpy:4144
 msgid "Ask her to take off her buckskin thong. {i}(submission 19+){/i}"
-msgstr ""
+msgstr "Geyik derisi tangasını çıkarmasını iste. Gerekli: {i}(boyun eğme +19){/i}"
 
 # game/UpdateScript0.03.rpy:4144
 msgid "Ask her for explicit close-ups. {i}(submission 25+){/i}"
-msgstr ""
+msgstr "Ondan açık seçik yakın çekimler iste. {i}(saygınlık 25+){/i}"
 
