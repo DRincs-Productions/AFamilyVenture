@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 19:58\n"
+"PO-Revision-Date: 2023-09-19 22:55\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # §translate crowdin strings: #|#|# # game/Phone_stats_screen.rpy:70
 msgid "Girls stats"
@@ -46,7 +46,7 @@ msgstr "{image=anger}{color=#000000} Anger...................[momanger]{/color}"
 
 # game/Phone_stats_screen.rpy:91
 msgid "{image=frustrated}{color=#000000} Sex Frustration..[mom_sexual_frustration]{/color}"
-msgstr ""
+msgstr "{image=frustrated}{color=#000000} Sex Frustration..[mom_sexual_frustration]{/color}"
 
 # game/Phone_stats_screen.rpy:93
 msgid "{image=iconL} {color=#f442d9}Lauren's:{/color}"
