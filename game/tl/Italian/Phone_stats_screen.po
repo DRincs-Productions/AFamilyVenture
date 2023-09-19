@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 18:16\n"
+"PO-Revision-Date: 2023-09-19 18:55\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # §translate crowdin strings: #|#|# # game/Phone_stats_screen.rpy:70
 msgid "Girls stats"
@@ -18,7 +18,7 @@ msgstr ""
 
 # game/Phone_stats_screen.rpy:73
 msgid "{color=#E60000}---------------------------------------{/color}"
-msgstr ""
+msgstr "{color=#E60000}-------------------------------{/color}"
 
 # game/Phone_stats_screen.rpy:83
 msgid "{image=iconM} {color=#42f456}Mom's:{/color}"
@@ -26,7 +26,7 @@ msgstr ""
 
 # game/Phone_stats_screen.rpy:85
 msgid "{image=respect}{color=#000000} Respect..............[momrespect]{/color}"
-msgstr ""
+msgstr "{image=respect}{color=#000000} Rispetto..............[momrespect]{/color}"
 
 # game/Phone_stats_screen.rpy:86
 msgid "{image=affection}{color=#000000} Affection............[momaffection]{/color}"
@@ -38,7 +38,7 @@ msgstr ""
 
 # game/Phone_stats_screen.rpy:88
 msgid "{image=submission}{color=#000000} Submission........[momsubmission]{/color}"
-msgstr ""
+msgstr "{image=submission}{color=#000000} Invio........[momsubmission]{/color}"
 
 # game/Phone_stats_screen.rpy:89
 msgid "{image=anger}{color=#000000} Anger...................[momanger]{/color}"
@@ -54,7 +54,7 @@ msgstr ""
 
 # game/Phone_stats_screen.rpy:95
 msgid "{image=respect}{color=#000000} Respect..............[laurenrespect]{/color}"
-msgstr ""
+msgstr "{image=respect}{color=#000000} Rispetto..............[laurenrespect]{/color}"
 
 # game/Phone_stats_screen.rpy:96
 msgid "{image=affection}{color=#000000} Affection............[laurenaffection]{/color}"
@@ -66,7 +66,7 @@ msgstr ""
 
 # game/Phone_stats_screen.rpy:98
 msgid "{image=submission}{color=#000000} Submission........[laurensubmission]{/color}"
-msgstr ""
+msgstr "{image=submission}{color=#000000} Invio........[laurensubmission]{/color}"
 
 # game/Phone_stats_screen.rpy:99
 msgid "{image=anger}{color=#000000} Anger...................[laurenanger]{/color}"
@@ -74,7 +74,7 @@ msgstr ""
 
 # game/Phone_stats_screen.rpy:101
 msgid "{image=election}{color=#000000} School influence.[school_influence]{/color}"
-msgstr ""
+msgstr "{image=election}{color=#000000} Influenza scolastica.[school_influence]{/color}"
 
 # game/Phone_stats_screen.rpy:103
 msgid "{image=iconS} {color=#006600}Sidney's:{/color}"
@@ -82,7 +82,7 @@ msgstr ""
 
 # game/Phone_stats_screen.rpy:105
 msgid "{image=respect}{color=#000000} Respect..............[sidneyrespect]{/color}"
-msgstr ""
+msgstr "{image=respect}{color=#000000} Rispetto..............[sidneyrespect]{/color}"
 
 # game/Phone_stats_screen.rpy:106
 msgid "{image=affection}{color=#000000} Affection............[sidneyaffection]{/color}"
@@ -94,7 +94,7 @@ msgstr ""
 
 # game/Phone_stats_screen.rpy:108
 msgid "{image=submission}{color=#000000} Submission........[sidneysubmission]{/color}"
-msgstr ""
+msgstr "{image=submission}{color=#000000} Invio........[sidneysubmission]{/color}"
 
 # game/Phone_stats_screen.rpy:109
 msgid "{image=anger}{color=#000000} Anger...................[sidneyanger]{/color}"
@@ -106,7 +106,7 @@ msgstr ""
 
 # game/Phone_stats_screen.rpy:114
 msgid "{image=respect}{color=#000000} Respect..............[cousinrespect]{/color}"
-msgstr ""
+msgstr "{image=respect}{color=#000000} Rispetto..............[cousinrespect]{/color}"
 
 # game/Phone_stats_screen.rpy:115
 msgid "{image=affection}{color=#000000} Affection............[cousinaffection]{/color}"
@@ -118,7 +118,7 @@ msgstr ""
 
 # game/Phone_stats_screen.rpy:117
 msgid "{image=submission}{color=#000000} Submission........[cousinsubmission]{/color}"
-msgstr ""
+msgstr "{image=submission}{color=#000000} Invio........[cousinsubmission]{/color}"
 
 # game/Phone_stats_screen.rpy:118
 msgid "{image=anger}{color=#000000} Anger...................[cousinanger]{/color}"
@@ -126,11 +126,11 @@ msgstr ""
 
 # game/Phone_stats_screen.rpy:120
 msgid "{image=iconA} {color=#9966FF}Aunt Camille's:{/color}"
-msgstr ""
+msgstr "{image=iconA} {color=#9966FF}zia Camille's:{/color}"
 
 # game/Phone_stats_screen.rpy:122
 msgid "{image=respect}{color=#000000} Respect..............[auntrespect]{/color}"
-msgstr ""
+msgstr "{image=respect}{color=#000000} Rispetto..............[auntrespect]{/color}"
 
 # game/Phone_stats_screen.rpy:123
 msgid "{image=affection}{color=#000000} Affection............[auntaffection]{/color}"
@@ -142,7 +142,7 @@ msgstr ""
 
 # game/Phone_stats_screen.rpy:125
 msgid "{image=submission}{color=#000000} Submission........[auntsubmission]{/color}"
-msgstr ""
+msgstr "{image=submission}{color=#000000} Invio........[auntsubmission]{/color}"
 
 # game/Phone_stats_screen.rpy:126
 msgid "{image=anger}{color=#000000} Anger...................[auntanger]{/color}"
@@ -150,11 +150,11 @@ msgstr ""
 
 # game/Phone_stats_screen.rpy:185
 msgid "  Loads counter {image=load_counter}"
-msgstr ""
+msgstr "  Contatore di carichi {image=load_counter}"
 
 # game/Phone_stats_screen.rpy:198
 msgid "{image=iconR} {color=#0000CC} By [ryan]:{/color}"
-msgstr ""
+msgstr "{image=iconR} {color=#0000CC} Da [ryan]:{/color}"
 
 # game/Phone_stats_screen.rpy:201
 msgid "{image=iconL}{color=#f442d9} in Lauren............[lauren_cum_loads_counter]{/color}"
@@ -170,7 +170,7 @@ msgstr ""
 
 # game/Phone_stats_screen.rpy:210
 msgid "{image=iconMT} {color=#993300} By Matt:{/color}"
-msgstr ""
+msgstr "{image=iconMT} {color=#993300} Per Matt:{/color}"
 
 # game/Phone_stats_screen.rpy:213
 msgid "{image=iconL}{color=#f442d9} in Lauren............[lauren_matt_cum_loads_counter]{/color}"
