@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-09-19 18:18\n"
+"PO-Revision-Date: 2023-09-19 20:00\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/script.rpy:351 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -6158,7 +6158,7 @@ msgstr ""
 
 # game/script.rpy:8128 #-#-# translate crowdin firstdayofschool_975c4636:
 msgid "[_M_] [upper_ryan]!"
-msgstr ""
+msgstr "[_M_] [upper_ryan]!"
 
 # game/script.rpy:8134 #-#-# translate crowdin firstdayofschool_7bd0559b:
 msgid "[_R_] Huh?..."
@@ -6742,11 +6742,11 @@ msgstr ""
 
 # game/script.rpy:8753 #-#-# translate crowdin warehouse_c270d39d:
 msgid "[_R_] Shit..."
-msgstr ""
+msgstr "[_R_] Verdammt..."
 
 # game/script.rpy:8754 #-#-# translate crowdin warehouse_3916486f:
 msgid "[_R_] Shit!..."
-msgstr ""
+msgstr "[_R_] Verdammt!..."
 
 # game/script.rpy:8755 #-#-# translate crowdin warehouse_2446c035:
 msgid "[_R_] .... SHIT!!..."
@@ -7810,7 +7810,7 @@ msgstr ""
 
 # game/script.rpy:9746 #-#-# translate crowdin dinnerfirst_1981bd55:
 msgid "[_MT_] {i}They keep throwing me money. I'll bet I'm close to making the $500 I need.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Sie werfen mir ständig Geld zu. Ich wette, ich bin kurz davor, die 500 Dollar zu verdienen, die ich brauche.{/i}"
 
 # game/script.rpy:9747 #-#-# translate crowdin dinnerfirst_a13b4016:
 msgid "[_MT_] {i}This beats a lot of other ways of making money.{/i}"
@@ -8702,7 +8702,7 @@ msgstr ""
 
 # game/script.rpy:1512
 msgid "Sleep"
-msgstr ""
+msgstr "Schlafen"
 
 # game/script.rpy:1512
 msgid "Never mind"
@@ -8838,7 +8838,7 @@ msgstr ""
 
 # game/script.rpy:5214
 msgid "Nothing!"
-msgstr ""
+msgstr "Nichts!"
 
 # game/script.rpy:5223
 msgid "Just walk away"
@@ -8958,7 +8958,7 @@ msgstr ""
 
 # game/script.rpy:7236
 msgid "Nothing"
-msgstr ""
+msgstr "Nichts"
 
 # game/script.rpy:7273
 msgid "Of course!"
