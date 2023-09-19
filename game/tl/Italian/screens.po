@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 18:56\n"
+"PO-Revision-Date: 2023-09-19 20:00\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:265
 msgid "History"
-msgstr ""
+msgstr "Cronologia"
 
 # game/screens.rpy:266
 msgid "Skip"
@@ -108,7 +108,7 @@ msgstr "Salvataggi rapidi"
 
 # game/screens.rpy:677
 msgid "{#file_time}%A, %B %d %Y, %H:%M"
-msgstr ""
+msgstr "{#file_time}%A, %B %d %Y, %H:%M"
 
 # game/screens.rpy:677
 msgid "empty slot"
@@ -120,7 +120,7 @@ msgstr ""
 
 # game/screens.rpy:706
 msgid "{#auto_page}A"
-msgstr ""
+msgstr "{#auto_page}A"
 
 # game/screens.rpy:709
 msgid "{#quick_page}Q"
@@ -132,7 +132,7 @@ msgstr ""
 
 # game/screens.rpy:772
 msgid "Display"
-msgstr ""
+msgstr "Display"
 
 # game/screens.rpy:773
 msgid "Window"
@@ -196,7 +196,7 @@ msgstr "Volume dei suoni"
 
 # game/screens.rpy:880
 msgid "Test"
-msgstr ""
+msgstr "Test"
 
 # game/screens.rpy:884
 msgid "Voice Volume"
@@ -216,11 +216,11 @@ msgstr "Tastiera"
 
 # game/screens.rpy:1094
 msgid "Mouse"
-msgstr ""
+msgstr "Mouse"
 
 # game/screens.rpy:1097
 msgid "Gamepad"
-msgstr ""
+msgstr "Gamepad"
 
 # game/screens.rpy:1110
 msgid "Enter"
@@ -256,7 +256,7 @@ msgstr "Accede al menu di gioco."
 
 # game/screens.rpy:1126
 msgid "Ctrl"
-msgstr ""
+msgstr "Ctrl"
 
 # game/screens.rpy:1127
 msgid "Skips dialogue while held down."
@@ -264,7 +264,7 @@ msgstr "Salta il dialogo mentre è trattenuto."
 
 # game/screens.rpy:1130
 msgid "Tab"
-msgstr ""
+msgstr "Tab"
 
 # game/screens.rpy:1131
 msgid "Toggles dialogue skipping."
