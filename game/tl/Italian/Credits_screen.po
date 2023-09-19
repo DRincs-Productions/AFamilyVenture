@@ -10,32 +10,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 18:14\n"
+"PO-Revision-Date: 2023-09-19 18:54\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # §translate crowdin strings: #|#|# # game/Credits_screen.rpy:57
 msgid "                               Credits"
-msgstr ""
+msgstr "                               Riconoscimenti"
 
 # game/Credits_screen.rpy:62
 msgid " We would like to thank all the game developers that have accepted to let us use some of their creations in our game, also we'd like to thank our subscribestar/patreon supporters that make this game posible."
-msgstr ""
+msgstr " Vorremmo ringraziare tutti gli sviluppatori di giochi che hanno accettato di farci utilizzare alcune delle loro creazioni nel nostro gioco, anche noi vorremmo ringraziare i nostri sostenitori di subscribestar/patreon che rendono questo gioco posable."
 
 # game/Credits_screen.rpy:69
 msgid "Game developers"
-msgstr ""
+msgstr "Sviluppatori di giochi"
 
 # game/Credits_screen.rpy:147
 msgid "Subscribers/Patrons"
-msgstr ""
+msgstr "Subscribers/Patrons"
 
 # game/Credits_screen.rpy:157
 msgid "\n"
 "{b}{i}Game Designer, Master Coder, Patch Creator, Gallery Guru:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Game Designer, Master Coder, Patch Creator, Gallery Guru:{/i}{/b} \n"
 
 # game/Credits_screen.rpy:159
 msgid "{a=https://www.patreon.com/DS_sama}{image=icon_patreon} D.S.-Sama{/a}"
-msgstr ""
+msgstr "{a=https://www.patreon.com/DS_sama}{image=icon_patreon} D.S.-Sama{/a}"
 
 # game/Credits_screen.rpy:161
 msgid "\n"
@@ -53,25 +54,27 @@ msgstr ""
 
 # game/Credits_screen.rpy:167
 msgid "Strenif"
-msgstr ""
+msgstr "Strenif"
 
 # game/Credits_screen.rpy:169
 msgid "\n"
 "{b}{i}Spelling and Grammar Editor:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Editor Ortografico e Grammatica:{/i}{/b} \n"
 
 # game/Credits_screen.rpy:171
 msgid "lapdragon"
-msgstr ""
+msgstr "lapdragon"
 
 # game/Credits_screen.rpy:173
 msgid "\n"
 "{b}{i}Game Writer, Coder, Images, Animations:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Scrittore di gioco, Coder, Immagini, Animazioni:{/i}{/b} \n"
 
 # game/Credits_screen.rpy:175
 msgid "Will Tylor"
-msgstr ""
+msgstr "Will Tylor"
 
 # game/Credits_screen.rpy:177
 msgid "\n"
@@ -105,7 +108,7 @@ msgstr ""
 
 # game/Credits_screen.rpy:186
 msgid "Drew G"
-msgstr ""
+msgstr "Drew G"
 
 # game/Credits_screen.rpy:187
 msgid "Eddie"
@@ -117,11 +120,11 @@ msgstr ""
 
 # game/Credits_screen.rpy:189
 msgid "Frayed80"
-msgstr ""
+msgstr "Frayed80"
 
 # game/Credits_screen.rpy:190
 msgid "Grub"
-msgstr ""
+msgstr "Grub"
 
 # game/Credits_screen.rpy:191
 msgid "hyperion72"
@@ -133,7 +136,7 @@ msgstr ""
 
 # game/Credits_screen.rpy:193
 msgid "Jtf1357"
-msgstr ""
+msgstr "Jtf1357"
 
 # game/Credits_screen.rpy:194
 msgid "Kenny89"
@@ -157,7 +160,7 @@ msgstr ""
 
 # game/Credits_screen.rpy:199
 msgid "Urqy"
-msgstr ""
+msgstr "Urqy"
 
 # game/Credits_screen.rpy:201
 msgid "\n"
@@ -202,7 +205,7 @@ msgstr ""
 
 # game/Credits_screen.rpy:212
 msgid "Benja Talos"
-msgstr ""
+msgstr "Benja Talos"
 
 # game/Credits_screen.rpy:213
 msgid "Big Daddi"
@@ -250,7 +253,7 @@ msgstr ""
 
 # game/Credits_screen.rpy:224
 msgid "Coscara88"
-msgstr ""
+msgstr "Coscara88"
 
 # game/Credits_screen.rpy:225
 msgid "David"
@@ -262,7 +265,7 @@ msgstr ""
 
 # game/Credits_screen.rpy:227
 msgid "deadpool25"
-msgstr ""
+msgstr "deadpool25"
 
 # game/Credits_screen.rpy:228
 msgid "Deangelo"
@@ -362,7 +365,7 @@ msgstr ""
 
 # game/Credits_screen.rpy:252
 msgid "Imyourbuddy"
-msgstr ""
+msgstr "Imyourbuddy"
 
 # game/Credits_screen.rpy:253
 msgid "inzane"
@@ -370,7 +373,7 @@ msgstr ""
 
 # game/Credits_screen.rpy:254
 msgid "ItsMrGru"
-msgstr ""
+msgstr "ItsMrGru"
 
 # game/Credits_screen.rpy:255
 msgid "Iwa"
@@ -442,7 +445,7 @@ msgstr ""
 
 # game/Credits_screen.rpy:272
 msgid "kp helman"
-msgstr ""
+msgstr "kp helman"
 
 # game/Credits_screen.rpy:273
 msgid "Kristian No******"
@@ -558,7 +561,7 @@ msgstr ""
 
 # game/Credits_screen.rpy:301
 msgid "TheHorror"
-msgstr ""
+msgstr "TheHorror"
 
 # game/Credits_screen.rpy:302
 msgid "Thudd"
