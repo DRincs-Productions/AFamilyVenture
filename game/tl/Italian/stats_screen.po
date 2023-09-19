@@ -11,11 +11,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 18:56\n"
+"PO-Revision-Date: 2023-09-19 22:56\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # §translate crowdin strings: #|#|# # game/stats_screen.rpy:28
 msgid "{color=#42f456}Mom's:{/color}"
-msgstr ""
+msgstr "{color=#42f456}Mom's:{/color}"
 
 # game/stats_screen.rpy:29
 msgid "{color=#000000}Respect..............[momrespect]{/color}"
@@ -27,7 +27,7 @@ msgstr "{color=#000000}Affezione............[momaffection]{/color}"
 
 # game/stats_screen.rpy:31
 msgid "{color=#000000}Libido................[momlibido]{/color}"
-msgstr ""
+msgstr "{color=#000000}Libido................[momlibido]{/color}"
 
 # game/stats_screen.rpy:32
 msgid "{color=#000000}Submission........[momsubmission]{/color}"
@@ -51,7 +51,7 @@ msgstr "{color=#000000}Affetto.........[laurenaffection]{/color}"
 
 # game/stats_screen.rpy:38
 msgid "{color=#000000}Libido.............[laurenlibido]{/color}"
-msgstr ""
+msgstr "{color=#000000}Libido.............[laurenlibido]{/color}"
 
 # game/stats_screen.rpy:39
 msgid "{color=#000000}Submission....[laurensubmission]{/color}"
@@ -75,7 +75,7 @@ msgstr "{color=#000000}Affetto.........[sidneyaffection]{/color}"
 
 # game/stats_screen.rpy:45
 msgid "{color=#000000}Libido.............[sidneylibido]{/color}"
-msgstr ""
+msgstr "{color=#000000}Libido.............[sidneylibido]{/color}"
 
 # game/stats_screen.rpy:46
 msgid "{color=#000000}Submission.....[sidneysubmission]{/color}"
@@ -99,7 +99,7 @@ msgstr "{color=#000000}Affetto.........[auntaffection]{/color}"
 
 # game/stats_screen.rpy:52
 msgid "{color=#000000}Libido.............[auntlibido]{/color}"
-msgstr ""
+msgstr "{color=#000000}Libido.............[auntlibido]{/color}"
 
 # game/stats_screen.rpy:53
 msgid "{color=#000000}Submission.....[auntsubmission]{/color}"
@@ -123,7 +123,7 @@ msgstr "{color=#000000}Affetto.........[cousinaffection]{/colore}"
 
 # game/stats_screen.rpy:59
 msgid "{color=#000000}Libido.............[cousinlibido]{/color}"
-msgstr ""
+msgstr "{color=#000000}Libido.............[cousinlibido]{/color}"
 
 # game/stats_screen.rpy:60
 msgid "{color=#000000}Submission.....[cousinsubmission]{/color}"
