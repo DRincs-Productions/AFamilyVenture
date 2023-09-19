@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 18:16\n"
+"PO-Revision-Date: 2023-09-19 18:55\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScript0.05.rpy:476 #-#-# translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -22,15 +22,15 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:480 #-#-# translate crowdin sidneys_home_late_246eb5ce:
 msgid "[_S_] Oh.... I'm sorry I woke you.... I was trying to be as quiet as I can."
-msgstr ""
+msgstr "[_S_] Oh.... Mi dispiace di averti svegliato... stavo cercando di essere il più tranquillo possibile."
 
 # game/UpdateScript0.05.rpy:481 #-#-# translate crowdin sidneys_home_late_a7c564df:
 msgid "[_R_] It's ok. I think I just barely dozed off, so I should be able to fall right back asleep."
-msgstr ""
+msgstr "[_R_] Va bene. Penso di aver appena fatto a malapena fuori, quindi dovrei essere in grado di addormentarmi."
 
 # game/UpdateScript0.05.rpy:484 #-#-# translate crowdin sidneys_home_late_c46957d2:
 msgid "[_S_] Well, since you're awake, let me give you part of the money from work tonight. Please use it for the Mafia debt, or some other way that's good for our family."
-msgstr ""
+msgstr "[_S_] Beh, visto che sei sveglio, lasciati che ti dia parte del denaro dal lavoro stasera. Si prega di usarlo per il debito mafioso, o qualche altro modo che è buono per la nostra famiglia."
 
 # game/UpdateScript0.05.rpy:485 #-#-# translate crowdin sidneys_home_late_1490106d:
 msgid "{i}\"Money + $100\"{/i}"
@@ -38,11 +38,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:491 #-#-# translate crowdin sidneys_home_late_63defa7e:
 msgid "[_R_] Thank you so much! This will help out a lot!"
-msgstr ""
+msgstr "[_R_] Grazie mille! Questo ti aiuterà molto!"
 
 # game/UpdateScript0.05.rpy:492 #-#-# translate crowdin sidneys_home_late_11b17b2f:
 msgid "[_S_] My pleasure.... Now scootch over!.... I've got to get to sleep. Work was exhausting, and I've had a cup of tea to help calm my nerves."
-msgstr ""
+msgstr "[_S_] Il mio piacere.... Ora scootch sopra!.... Devo andare a dormire. Il lavoro era faticoso, e ho avuto una tazza di tè per aiutare a calmare i nervi."
 
 # game/UpdateScript0.05.rpy:496 #-#-# translate crowdin sidneys_home_late_fd9fe3c7:
 msgid "[_R_] Wait... Sidney?... Was Mom okay at the club tonight?... Did she do anything that she..."
@@ -11618,23 +11618,23 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:8
 msgid "Crazy Old Man's Thoughts"
-msgstr ""
+msgstr "Pensieri del Vecchio Pazzo"
 
 # game/UpdateScript0.05.rpy:9
 msgid "Mr. Peterson"
-msgstr ""
+msgstr "Signor Peterson"
 
 # game/UpdateScript0.05.rpy:10
 msgid "Mr. Peterson's Thoughts"
-msgstr ""
+msgstr "Pensieri del signor Peterson"
 
 # game/UpdateScript0.05.rpy:11
 msgid "Policeman"
-msgstr ""
+msgstr "Poliziotto"
 
 # game/UpdateScript0.05.rpy:12
 msgid "Mrs. Stone"
-msgstr ""
+msgstr "Signora Stone"
 
 # game/UpdateScript0.05.rpy:13
 msgid "Armani"
