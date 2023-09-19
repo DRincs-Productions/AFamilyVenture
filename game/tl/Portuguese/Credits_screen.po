@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2023-09-19 18:14\n"
+"PO-Revision-Date: 2023-09-19 19:57\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # §translate crowdin strings: #|#|# # game/Credits_screen.rpy:57
 msgid "                               Credits"
-msgstr ""
+msgstr "                               Créditos"
 
 # game/Credits_screen.rpy:62
 msgid " We would like to thank all the game developers that have accepted to let us use some of their creations in our game, also we'd like to thank our subscribestar/patreon supporters that make this game posible."
-msgstr ""
+msgstr " Gostaríamos de agradecer a todos os game developers que nos permitiram usar algumas de suas criações no nosso jogo, também gostaríamos de agradecer aos nossos apoiadores do subscribestar / patreon que fazem este jogo possível."
 
 # game/Credits_screen.rpy:69
 msgid "Game developers"
@@ -76,11 +76,12 @@ msgstr ""
 # game/Credits_screen.rpy:177
 msgid "\n"
 "{i}I avoided using supporters full names where possible, and used Discord handles instead wherever I had access to those.{/i}\n"
-msgstr ""
+msgstr "\n"
+"{i}Evitei usar os nomes completos dos apoiadores sempre que possível e, em vez disso, usei os identificadores do Discord sempre que tinha acesso a eles.{/i}\n"
 
 # game/Credits_screen.rpy:178
 msgid "{i}Please contact me if you believe your name isn't here and it should be, or would like to have it listed differently.{/i}"
-msgstr ""
+msgstr "{i}Por favor, entre em contato comigo se você acredita que seu nome não está aqui e deveria estar, ou gostaria de tê-lo listado de forma diferente.{/i}"
 
 # game/Credits_screen.rpy:180
 msgid "\n"
