@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-19 20:00\n"
+"PO-Revision-Date: 2023-09-20 08:01\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScriptHalloweenEvent.rpy:256 #-#-# translate crowdin halloween_event_start_36b1bdbb:
 msgid "{i}{b}(HINT){/b} Happy Halloween!{/i}"
@@ -58,7 +58,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:309 #-#-# translate crowdin scary_wakeup_263a6df2:
 msgid "[_R_] No!"
-msgstr ""
+msgstr "[_R_] Hayır!"
 
 # game/UpdateScriptHalloweenEvent.rpy:314 #-#-# translate crowdin scary_wakeup_e47031c5:
 msgid "[_R_] Fuck, no!!"
@@ -66,7 +66,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:322 #-#-# translate crowdin scary_wakeup_263a6df2_1:
 msgid "[_R_] No!"
-msgstr ""
+msgstr "[_R_] Hayır!"
 
 # game/UpdateScriptHalloweenEvent.rpy:323 #-#-# translate crowdin scary_wakeup_872bfa52:
 msgid "[_S_] {i}(Sleepily){/i} [ryan], you were having a nightmare... Go back to sleep."
@@ -398,7 +398,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:603 #-#-# translate crowdin found_sidney_inside_out_d8bf5ca9:
 msgid "[_M_] What?"
-msgstr ""
+msgstr "[_M_] Ne?"
 
 # game/UpdateScriptHalloweenEvent.rpy:604 #-#-# translate crowdin found_sidney_inside_out_13d0d53d:
 msgid "[_R_] I said, Sidney's stuck..."
@@ -482,7 +482,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:641 #-#-# translate crowdin found_sidney_inside_out_9040f0a8:
 msgid "[_M_] ...."
-msgstr ""
+msgstr "[_M_] ...."
 
 # game/UpdateScriptHalloweenEvent.rpy:642 #-#-# translate crowdin found_sidney_inside_out_28b37f6e:
 msgid "[_M_] Now, about those drugs!"
@@ -558,7 +558,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:689 #-#-# translate crowdin sidney_loyalty_path_d9f5fd82:
 msgid "[_R_] Fuck!"
-msgstr ""
+msgstr "[_R_] Hay amk!"
 
 # game/UpdateScriptHalloweenEvent.rpy:692 #-#-# translate crowdin sidney_loyalty_path_56a6aa54:
 msgid "[_RT_] {i}She said, through the slime.{/i}"
@@ -642,7 +642,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:746 #-#-# translate crowdin sidney_loyalty_path_7fec2a48:
 msgid "[_RT_] {i}Oh, thank God!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Oh, Tanrıya şükür!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:747 #-#-# translate crowdin sidney_loyalty_path_83d209e9:
 msgid "[_RT_] {i}I'd better lock it out in case it tries to come back.{/i}"
@@ -890,7 +890,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:970 #-#-# translate crowdin scary_cum_saved_6d1f8767:
 msgid "[_S_] Ohhh..."
-msgstr ""
+msgstr "[_S_] Ohhh..."
 
 # game/UpdateScriptHalloweenEvent.rpy:975 #-#-# translate crowdin scary_cum_saved_6574f150:
 msgid "[_R_] Holy shit!... What the fuck?!"
@@ -1310,7 +1310,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:1230 #-#-# translate crowdin monsters_and_mountains_917370fe:
 msgid "[_R_] I'm afraid so."
-msgstr ""
+msgstr "[_R_] Korkarım ki öyle."
 
 # game/UpdateScriptHalloweenEvent.rpy:1231 #-#-# translate crowdin monsters_and_mountains_fd124381:
 msgid "[_R_] A creature so powerful, that it will take all of your strength, skills, and powers, not to mention, a lot of luck, to defeat."
@@ -1318,7 +1318,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:1232 #-#-# translate crowdin monsters_and_mountains_f8055650:
 msgid "[_M_] [ryan]?"
-msgstr ""
+msgstr "[_M_] [ryan]?"
 
 # game/UpdateScriptHalloweenEvent.rpy:1233 #-#-# translate crowdin monsters_and_mountains_c531636f:
 msgid "[_R_] You'll have to have a combined roll of over 40 to be able to vanquish this foe!"
@@ -1326,7 +1326,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:1234 #-#-# translate crowdin monsters_and_mountains_c93d9342:
 msgid "[_M_] [ryan]!"
-msgstr ""
+msgstr "[_M_] [ryan]!"
 
 # game/UpdateScriptHalloweenEvent.rpy:1237 #-#-# translate crowdin monsters_and_mountains_4fb90733:
 msgid "[_R_] What is it, Mom?"
@@ -1530,7 +1530,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:1331 #-#-# translate crowdin monsters_and_mountains_f8055650_1:
 msgid "[_M_] [ryan]?"
-msgstr ""
+msgstr "[_M_] [ryan]?"
 
 # game/UpdateScriptHalloweenEvent.rpy:1332 #-#-# translate crowdin monsters_and_mountains_c92246b7:
 msgid "[_R_] Really, Mom? You're going to interrupt our campaign again?"
@@ -1854,7 +1854,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:1546 #-#-# translate crowdin shagtown_lab_669aa1e2:
 msgid "[_SF_] Fuck!"
-msgstr ""
+msgstr "[_SF_] Hay amk!"
 
 # game/UpdateScriptHalloweenEvent.rpy:1547 #-#-# translate crowdin shagtown_lab_44c00ede:
 msgid "[_SF_] He's going to get us both killed!"
