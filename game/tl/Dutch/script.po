@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2023-09-19 18:18\n"
+"PO-Revision-Date: 2023-09-20 08:01\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/script.rpy:351 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -3506,19 +3506,19 @@ msgstr ""
 
 # game/script.rpy:5444 #-#-# translate crowdin mommorningweekend_e1aba2f6:
 msgid "[_RT_] {i}Hmmm.... no answer. I don't have a key, but I'm started to get a little worried about her.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Hmmm.... geen antwoord. Ik heb geen sleutel, maar ik begin me wel zorgen te maken om haar.{/i}"
 
 # game/script.rpy:5445 #-#-# translate crowdin mommorningweekend_e517f87b:
 msgid "[_RT_] {i}There's a sliding door outside on the patio into her room. Hopefully it's unlocked.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Er is een schuifdeur buiten bij de patio naar haar kamer. Hopelijk is deze niet op slot.{/i}"
 
 # game/script.rpy:5449 #-#-# translate crowdin mommorningweekend_c6d27ccf:
 msgid "[_RT_] {i}Bingo.... {/i}"
-msgstr ""
+msgstr "[_RT_] {i}Bingo.... {/i}"
 
 # game/script.rpy:5450 #-#-# translate crowdin mommorningweekend_435e36e6:
 msgid "[_RT_] {i}Looks like she's passed out.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Het lijkt alsof ze is flauwgevallen.{/i}"
 
 # game/script.rpy:5451 #-#-# translate crowdin mommorningweekend_ccc8b0a4:
 msgid "[_RT_] {i}Is that one of Dad's empty whiskey bottles she's cuddling?{/i}"
@@ -3526,7 +3526,7 @@ msgstr ""
 
 # game/script.rpy:5452 #-#-# translate crowdin mommorningweekend_f6b7fd29:
 msgid "[_RT_] {i}I wonder how much of it she drank. I don't think I've actually ever seen her dead drunk before.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ik vraag me af hoeveel ze gedronken heeft. Ik denk dat ik haar nog nooit dronken heb gezien.{/i}"
 
 # game/script.rpy:5453 #-#-# translate crowdin mommorningweekend_cc3b4bb3:
 msgid "[_RT_] {i}Last night must have been pretty traumatic for her.{/i}"
