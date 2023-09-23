@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-09-22 19:12\n"
+"PO-Revision-Date: 2023-09-23 13:12\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScript0.06.rpy:715 #-#-# translate crowdin move_in_day_31871088:
 msgid "[_RT_] {i}I... think I slept in... What time is it?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}... myslím, že som spal v ... Aký je čas? {/i}"
 
 # game/UpdateScript0.06.rpy:718 #-#-# translate crowdin move_in_day_d069348a:
 msgid "[_RT_] {i}It looks like Sidney already left to go running.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Vyzerá to, že Sidney už odišla bežať. {/i}"
 
 # game/UpdateScript0.06.rpy:719 #-#-# translate crowdin move_in_day_ec66fb78:
 msgid "[_RT_] {i}Isn't today Sunday? I should probably go see if Mom needs any help with the \"honey-do list\".{/i}"
@@ -30,11 +30,11 @@ msgstr "{b}Ding Dong!{/b}"
 
 # game/UpdateScript0.06.rpy:721 #-#-# translate crowdin move_in_day_7e4ac3a7:
 msgid "[_RT_] {i}Who could that be?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Kto by to mohol byť? {/i}"
 
 # game/UpdateScript0.06.rpy:726 #-#-# translate crowdin move_in_day_8e574e89:
 msgid "[_RT_] {i}Why am I the only one in the house who ever answers the door?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Prečo som ja jediný v dome, ktorý kedy odpovie na dvere?"
 
 # game/UpdateScript0.06.rpy:729 #-#-# translate crowdin move_in_day_4ef0a7dc:
 msgid "[_AD_] Well, there's the little twerp himself."
@@ -42,7 +42,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:730 #-#-# translate crowdin move_in_day_f73a4691:
 msgid "[_R_] The... bitch is back."
-msgstr ""
+msgstr "[_R_] ... suka je späť."
 
 # game/UpdateScript0.06.rpy:731 #-#-# translate crowdin move_in_day_aa6ffd2b:
 msgid "[_RT_] {i}Shit... That just sounded lame.{/i}"
