@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-19 18:54\n"
+"PO-Revision-Date: 2023-09-28 16:33\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # §translate crowdin strings: #|#|# # game/Credits_screen.rpy:57
 msgid "                               Credits"
@@ -41,16 +41,18 @@ msgstr "{a=https://www.patreon.com/DS_sama}{image=icon_patreon} D.S.-Sama{/a}"
 # game/Credits_screen.rpy:161
 msgid "\n"
 "{b}{i}Game Coding, Android Specialist:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Game Coding, Android Specialist:{/i}{/b} \n"
 
 # game/Credits_screen.rpy:163
 msgid "Cybeon"
-msgstr ""
+msgstr "Cybeon"
 
 # game/Credits_screen.rpy:165
 msgid "\n"
 "{b}{i}Game Script Writer, Image Creator, Render Farm, Face Card Designer:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Game Script Writer, Image Creator, Render Farm, Face Card Designer:{/i}{/b} \n"
 
 # game/Credits_screen.rpy:167
 msgid "Strenif"
@@ -79,32 +81,34 @@ msgstr "Will Tylor"
 # game/Credits_screen.rpy:177
 msgid "\n"
 "{i}I avoided using supporters full names where possible, and used Discord handles instead wherever I had access to those.{/i}\n"
-msgstr ""
+msgstr "\n"
+"{i}Ho evitato di usare i nomi completi dei sostenitori, ove possibile, e ho usato le maniglie di Discord invece ovunque avessi accesso a quelli.{/i}\n"
 
 # game/Credits_screen.rpy:178
 msgid "{i}Please contact me if you believe your name isn't here and it should be, or would like to have it listed differently.{/i}"
-msgstr ""
+msgstr "{i}Contattami se credi che il tuo nome non sia qui e dovrebbe essere, o vorresti averlo elencato in modo diverso.{/i}"
 
 # game/Credits_screen.rpy:180
 msgid "\n"
 "{b}{i}$35 tier (My Family with Benefits {i}SubscribeStar{/i}) (My Family {i}Patreon{/i}):{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}$35 tier (Mia famiglia con benefici {i}AbbonatoStar{/i}) (Mia famiglia {i}Patreon{/i}):{/i}{/b} \n"
 
 # game/Credits_screen.rpy:182
 msgid "Anthony"
-msgstr ""
+msgstr "Anthony"
 
 # game/Credits_screen.rpy:183
 msgid "Charley"
-msgstr ""
+msgstr "Charley"
 
 # game/Credits_screen.rpy:184
 msgid "DD0"
-msgstr ""
+msgstr "DD0"
 
 # game/Credits_screen.rpy:185
 msgid "delta6198"
-msgstr ""
+msgstr "delta6198"
 
 # game/Credits_screen.rpy:186
 msgid "Drew G"
@@ -112,11 +116,11 @@ msgstr "Drew G"
 
 # game/Credits_screen.rpy:187
 msgid "Eddie"
-msgstr ""
+msgstr "Eddie"
 
 # game/Credits_screen.rpy:188
 msgid "fatfrogs"
-msgstr ""
+msgstr "fatfrogs"
 
 # game/Credits_screen.rpy:189
 msgid "Frayed80"
@@ -128,11 +132,11 @@ msgstr "Grub"
 
 # game/Credits_screen.rpy:191
 msgid "hyperion72"
-msgstr ""
+msgstr "hyperion72"
 
 # game/Credits_screen.rpy:192
 msgid "Janusz"
-msgstr ""
+msgstr "Janusz"
 
 # game/Credits_screen.rpy:193
 msgid "Jtf1357"
@@ -140,23 +144,23 @@ msgstr "Jtf1357"
 
 # game/Credits_screen.rpy:194
 msgid "Kenny89"
-msgstr ""
+msgstr "Kenny89"
 
 # game/Credits_screen.rpy:195
 msgid "Kire4th"
-msgstr ""
+msgstr "Kire4th"
 
 # game/Credits_screen.rpy:196
 msgid "kingkoopa"
-msgstr ""
+msgstr "kingkoopa"
 
 # game/Credits_screen.rpy:197
 msgid "Martin K"
-msgstr ""
+msgstr "Martin K"
 
 # game/Credits_screen.rpy:198
 msgid "Tarakis"
-msgstr ""
+msgstr "Tarakis"
 
 # game/Credits_screen.rpy:199
 msgid "Urqy"
@@ -165,43 +169,44 @@ msgstr "Urqy"
 # game/Credits_screen.rpy:201
 msgid "\n"
 "{b}{i}$20 tier (My Family {i}SubscribeStar{/i}) (My BFF's {i}Patreon{/i}):{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}$20 tier (Mia famiglia {i}AbbonatoStar{/i}) (Mia BFF {i}Patreon{/i}):{/i}{/b} \n"
 
 # game/Credits_screen.rpy:203
 msgid "."
-msgstr ""
+msgstr "."
 
 # game/Credits_screen.rpy:204
 msgid "af"
-msgstr ""
+msgstr "af"
 
 # game/Credits_screen.rpy:205
 msgid "Alex421"
-msgstr ""
+msgstr "Alex421"
 
 # game/Credits_screen.rpy:206
 msgid "Alex"
-msgstr ""
+msgstr "Alex"
 
 # game/Credits_screen.rpy:207
 msgid "Allen Ho"
-msgstr ""
+msgstr "Allen Ho"
 
 # game/Credits_screen.rpy:208
 msgid "AN SOS"
-msgstr ""
+msgstr "AN SOS"
 
 # game/Credits_screen.rpy:209
 msgid "arshhh111"
-msgstr ""
+msgstr "arshhh111"
 
 # game/Credits_screen.rpy:210
 msgid "AtlasRise"
-msgstr ""
+msgstr "AtlasRise"
 
 # game/Credits_screen.rpy:211
 msgid "Baily C****"
-msgstr ""
+msgstr "Baily C****"
 
 # game/Credits_screen.rpy:212
 msgid "Benja Talos"
@@ -209,47 +214,47 @@ msgstr "Benja Talos"
 
 # game/Credits_screen.rpy:213
 msgid "Big Daddi"
-msgstr ""
+msgstr "Grande Daddi"
 
 # game/Credits_screen.rpy:214
 msgid "blee lee"
-msgstr ""
+msgstr "blee lee"
 
 # game/Credits_screen.rpy:215
 msgid "Blue_Raptor"
-msgstr ""
+msgstr "Blue_Raptor"
 
 # game/Credits_screen.rpy:216
 msgid "bobojajo"
-msgstr ""
+msgstr "bobojajo"
 
 # game/Credits_screen.rpy:217
 msgid "Bolt368"
-msgstr ""
+msgstr "Bolt368"
 
 # game/Credits_screen.rpy:218
 msgid "Caitlin"
-msgstr ""
+msgstr "Caitlin"
 
 # game/Credits_screen.rpy:219
 msgid "Carmen Sandiego"
-msgstr ""
+msgstr "Carmen Sandiego"
 
 # game/Credits_screen.rpy:220
 msgid "cheffymac"
-msgstr ""
+msgstr "cheffymac"
 
 # game/Credits_screen.rpy:221
 msgid "Christian *** *****"
-msgstr ""
+msgstr "Cristiano ***"
 
 # game/Credits_screen.rpy:222
 msgid "Clare"
-msgstr ""
+msgstr "Chiara"
 
 # game/Credits_screen.rpy:223
 msgid "Cs in SC"
-msgstr ""
+msgstr "C in SC"
 
 # game/Credits_screen.rpy:224
 msgid "Coscara88"
@@ -257,11 +262,11 @@ msgstr "Coscara88"
 
 # game/Credits_screen.rpy:225
 msgid "David"
-msgstr ""
+msgstr "David"
 
 # game/Credits_screen.rpy:226
 msgid "David Ho*******"
-msgstr ""
+msgstr "David Ho*****"
 
 # game/Credits_screen.rpy:227
 msgid "deadpool25"
@@ -269,99 +274,99 @@ msgstr "deadpool25"
 
 # game/Credits_screen.rpy:228
 msgid "Deangelo"
-msgstr ""
+msgstr "Deangelo"
 
 # game/Credits_screen.rpy:229
 msgid "deeznutsgotem20012031203"
-msgstr ""
+msgstr "deeznutsgotem20012031203"
 
 # game/Credits_screen.rpy:230
 msgid "Devin"
-msgstr ""
+msgstr "Devin"
 
 # game/Credits_screen.rpy:231
 msgid "Devon Br*********"
-msgstr ""
+msgstr "Devon Br*********"
 
 # game/Credits_screen.rpy:232
 msgid "Discoklaus"
-msgstr ""
+msgstr "Discoklaus"
 
 # game/Credits_screen.rpy:233
 msgid "Dom"
-msgstr ""
+msgstr "Dom"
 
 # game/Credits_screen.rpy:234
 msgid "Durzo"
-msgstr ""
+msgstr "Durzo"
 
 # game/Credits_screen.rpy:235
 msgid "ejc"
-msgstr ""
+msgstr "ejc"
 
 # game/Credits_screen.rpy:236
 msgid "Eru Ilúvatar"
-msgstr ""
+msgstr "Eru Ilúvatar"
 
 # game/Credits_screen.rpy:237
 msgid "eward"
-msgstr ""
+msgstr "eward"
 
 # game/Credits_screen.rpy:238
 msgid "Fangin"
-msgstr ""
+msgstr "Fangin"
 
 # game/Credits_screen.rpy:239
 msgid "Fantastic Georgette"
-msgstr ""
+msgstr "Fantastica Georgette"
 
 # game/Credits_screen.rpy:240
 msgid "Ferryman"
-msgstr ""
+msgstr "Ferryman"
 
 # game/Credits_screen.rpy:241
 msgid "Fischi"
-msgstr ""
+msgstr "Fischi"
 
 # game/Credits_screen.rpy:242
 msgid "Fuchi Zhong"
-msgstr ""
+msgstr "Fuchi Zhong"
 
 # game/Credits_screen.rpy:243
 msgid "Giggly Smoker"
-msgstr ""
+msgstr "Fumatore Giggly"
 
 # game/Credits_screen.rpy:244
 msgid "Glen N****"
-msgstr ""
+msgstr "Glen N****"
 
 # game/Credits_screen.rpy:245
 msgid "grimjah"
-msgstr ""
+msgstr "grimjah"
 
 # game/Credits_screen.rpy:246
 msgid "GUNSFM"
-msgstr ""
+msgstr "GUNSFM"
 
 # game/Credits_screen.rpy:247
 msgid "Happy89"
-msgstr ""
+msgstr "Felice89"
 
 # game/Credits_screen.rpy:248
 msgid "Helirindir"
-msgstr ""
+msgstr "Helirindir"
 
 # game/Credits_screen.rpy:249
 msgid "hironmon"
-msgstr ""
+msgstr "hironmon"
 
 # game/Credits_screen.rpy:250
 msgid "Hotbox"
-msgstr ""
+msgstr "Hotbox"
 
 # game/Credits_screen.rpy:251
 msgid "Imjust Q"
-msgstr ""
+msgstr "Imjust Q"
 
 # game/Credits_screen.rpy:252
 msgid "Imyourbuddy"
@@ -369,7 +374,7 @@ msgstr "Imyourbuddy"
 
 # game/Credits_screen.rpy:253
 msgid "inzane"
-msgstr ""
+msgstr "inzane"
 
 # game/Credits_screen.rpy:254
 msgid "ItsMrGru"
@@ -377,71 +382,71 @@ msgstr "ItsMrGru"
 
 # game/Credits_screen.rpy:255
 msgid "Iwa"
-msgstr ""
+msgstr "Iwa"
 
 # game/Credits_screen.rpy:256
 msgid "J L"
-msgstr ""
+msgstr "J L"
 
 # game/Credits_screen.rpy:257
 msgid "jeffy meffy"
-msgstr ""
+msgstr "jeffy meffy"
 
 # game/Credits_screen.rpy:258
 msgid "jiffylubey"
-msgstr ""
+msgstr "jiffylubey"
 
 # game/Credits_screen.rpy:259
 msgid "JoelMartinez86"
-msgstr ""
+msgstr "JoelMartinez86"
 
 # game/Credits_screen.rpy:260
 msgid "John"
-msgstr ""
+msgstr "John"
 
 # game/Credits_screen.rpy:261
 msgid "John S***"
-msgstr ""
+msgstr "John S"
 
 # game/Credits_screen.rpy:262
 msgid "Joseph Ma*****"
-msgstr ""
+msgstr "Joseph Ma***"
 
 # game/Credits_screen.rpy:263
 msgid "Justin Co******"
-msgstr ""
+msgstr "Justin Co****"
 
 # game/Credits_screen.rpy:264
 msgid "Levi Cr*****"
-msgstr ""
+msgstr "Levi CR***"
 
 # game/Credits_screen.rpy:265
 msgid "Lokki87"
-msgstr ""
+msgstr "Lokki87"
 
 # game/Credits_screen.rpy:266
 msgid "Luca La*****"
-msgstr ""
+msgstr "Luca La*****"
 
 # game/Credits_screen.rpy:267
 msgid "LustFang"
-msgstr ""
+msgstr "LustFang"
 
 # game/Credits_screen.rpy:268
 msgid "Kal The Fairy"
-msgstr ""
+msgstr "Kal La Fata"
 
 # game/Credits_screen.rpy:269
 msgid "Keeta Sh****"
-msgstr ""
+msgstr "Keeta Sh****"
 
 # game/Credits_screen.rpy:270
 msgid "King Hugi"
-msgstr ""
+msgstr "Re Hugi"
 
 # game/Credits_screen.rpy:271
 msgid "Kitten"
-msgstr ""
+msgstr "Gattino"
 
 # game/Credits_screen.rpy:272
 msgid "kp helman"
@@ -449,115 +454,115 @@ msgstr "kp helman"
 
 # game/Credits_screen.rpy:273
 msgid "Kristian No******"
-msgstr ""
+msgstr "Kristian No******"
 
 # game/Credits_screen.rpy:274
 msgid "Kyle"
-msgstr ""
+msgstr "Kyle"
 
 # game/Credits_screen.rpy:275
 msgid "kyle la*****"
-msgstr ""
+msgstr "kyle la*****"
 
 # game/Credits_screen.rpy:276
 msgid "Malidread"
-msgstr ""
+msgstr "Malidread"
 
 # game/Credits_screen.rpy:277
 msgid "manny s***"
-msgstr ""
+msgstr "manny s***"
 
 # game/Credits_screen.rpy:278
 msgid "maverick 123"
-msgstr ""
+msgstr "maverick 123"
 
 # game/Credits_screen.rpy:279
 msgid "Meradrin"
-msgstr ""
+msgstr "Meradrin"
 
 # game/Credits_screen.rpy:280
 msgid "MidnightDancer"
-msgstr ""
+msgstr "Ballerina Di Mezzanotte"
 
 # game/Credits_screen.rpy:281
 msgid "Mikestav86"
-msgstr ""
+msgstr "Mikestav86"
 
 # game/Credits_screen.rpy:282
 msgid "mikey"
-msgstr ""
+msgstr "mikey"
 
 # game/Credits_screen.rpy:283
 msgid "Noah E M****"
-msgstr ""
+msgstr "Noah E M"
 
 # game/Credits_screen.rpy:284
 msgid "Nuclear Abyss"
-msgstr ""
+msgstr "Nuclear Abyss"
 
 # game/Credits_screen.rpy:285
 msgid "Official Trentled"
-msgstr ""
+msgstr "Trentled Ufficiale"
 
 # game/Credits_screen.rpy:286
 msgid "Orhan Pi***"
-msgstr ""
+msgstr "Orhan Pi***"
 
 # game/Credits_screen.rpy:287
 msgid "pa bu"
-msgstr ""
+msgstr "pa bu"
 
 # game/Credits_screen.rpy:288
 msgid "Quinn"
-msgstr ""
+msgstr "Quinn"
 
 # game/Credits_screen.rpy:289
 msgid "Rasgris"
-msgstr ""
+msgstr "Rasgris"
 
 # game/Credits_screen.rpy:290
 msgid "Razzmatazz"
-msgstr ""
+msgstr "Razzmatazz"
 
 # game/Credits_screen.rpy:291
 msgid "Repulgis"
-msgstr ""
+msgstr "Repulgis"
 
 # game/Credits_screen.rpy:292
 msgid "Rhylar"
-msgstr ""
+msgstr "Rhylar"
 
 # game/Credits_screen.rpy:293
 msgid "Roger J****"
-msgstr ""
+msgstr "Roger J"
 
 # game/Credits_screen.rpy:294
 msgid "Sahiden"
-msgstr ""
+msgstr "Sahiden"
 
 # game/Credits_screen.rpy:295
 msgid "sfnc45"
-msgstr ""
+msgstr "sfnc45"
 
 # game/Credits_screen.rpy:296
 msgid "Silvio l***"
-msgstr ""
+msgstr "Silvio l*"
 
 # game/Credits_screen.rpy:297
 msgid "Stefan"
-msgstr ""
+msgstr "Stefan"
 
 # game/Credits_screen.rpy:298
 msgid "Steve"
-msgstr ""
+msgstr "Steve"
 
 # game/Credits_screen.rpy:299
 msgid "the yak"
-msgstr ""
+msgstr "lo yak"
 
 # game/Credits_screen.rpy:300
 msgid "TheHunterwolf097"
-msgstr ""
+msgstr "IlHunterwolf097"
 
 # game/Credits_screen.rpy:301
 msgid "TheHorror"
@@ -565,73 +570,73 @@ msgstr "TheHorror"
 
 # game/Credits_screen.rpy:302
 msgid "Thudd"
-msgstr ""
+msgstr "Thudd"
 
 # game/Credits_screen.rpy:303
 msgid "Trold666"
-msgstr ""
+msgstr "Trold666"
 
 # game/Credits_screen.rpy:304
 msgid "troy sale"
-msgstr ""
+msgstr "vendita troy"
 
 # game/Credits_screen.rpy:305
 msgid "Trumpdog"
-msgstr ""
+msgstr "Trumpdog"
 
 # game/Credits_screen.rpy:306
 msgid "TuuGaa_xD_"
-msgstr ""
+msgstr "TuuGaa_xD_"
 
 # game/Credits_screen.rpy:307
 msgid "Tyler"
-msgstr ""
+msgstr "Tyler"
 
 # game/Credits_screen.rpy:308
 msgid "Umorrian"
-msgstr ""
+msgstr "Umorriano"
 
 # game/Credits_screen.rpy:309
 msgid "Varzii"
-msgstr ""
+msgstr "Varzii"
 
 # game/Credits_screen.rpy:310
 msgid "Vash"
-msgstr ""
+msgstr "Vash"
 
 # game/Credits_screen.rpy:311
 msgid "Verosia"
-msgstr ""
+msgstr "Verosia"
 
 # game/Credits_screen.rpy:312
 msgid "Vivigatsu"
-msgstr ""
+msgstr "Vivigatsu"
 
 # game/Credits_screen.rpy:313
 msgid "Vizko"
-msgstr ""
+msgstr "Vizko"
 
 # game/Credits_screen.rpy:314
 msgid "VOLTAGE 722"
-msgstr ""
+msgstr "VOLTAGGIO 722"
 
 # game/Credits_screen.rpy:315
 msgid "vorlon92"
-msgstr ""
+msgstr "vorlon92"
 
 # game/Credits_screen.rpy:316
 msgid "William"
-msgstr ""
+msgstr "William"
 
 # game/Credits_screen.rpy:317
 msgid "zach"
-msgstr ""
+msgstr "zach"
 
 # game/Credits_screen.rpy:318
 msgid "zapper"
-msgstr ""
+msgstr "zapper"
 
 # game/Credits_screen.rpy:319
 msgid "ㅁㄴㅇㄹ"
-msgstr ""
+msgstr "ᄆᄂᄋᄅ"
 
