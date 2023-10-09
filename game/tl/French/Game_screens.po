@@ -10,41 +10,47 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-19 18:15\n"
+"PO-Revision-Date: 2023-10-09 19:25\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # §translate crowdin strings: #|#|# # game/Game_screens.rpy:77
 msgid " My\n"
 "Room"
-msgstr ""
+msgstr " Ma\n"
+"chambre"
 
 # game/Game_screens.rpy:115
 msgid "Bath"
-msgstr ""
+msgstr "Bain"
 
 # game/Game_screens.rpy:191
 msgid "Yard"
-msgstr ""
+msgstr "Cour"
 
 # game/Game_screens.rpy:200
 msgid "City"
-msgstr ""
+msgstr "Ville"
 
 # game/Game_screens.rpy:220
 msgid "Hallway"
-msgstr ""
+msgstr "Hall"
 
 # game/Game_screens.rpy:229
 msgid "Class"
-msgstr ""
+msgstr "Salle \n"
+" de \n"
+"classe"
 
 # game/Game_screens.rpy:247
 msgid "{size=29} {/size}Girls\n"
 "Locker\n"
 "{size=25} {/size}Room"
-msgstr ""
+msgstr "Casier\n"
+" des \n"
+"filles"
 
 # game/Game_screens.rpy:303
 msgid "Campaign\n"
 "   HQ"
-msgstr ""
+msgstr "  QG de \n"
+"Campagne"
 
