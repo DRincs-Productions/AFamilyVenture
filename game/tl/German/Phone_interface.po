@@ -10,27 +10,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-09-19 19:58\n"
+"PO-Revision-Date: 2023-10-20 17:08\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/Phone_interface.rpy:276 #-#-# translate crowdin mafia_warning_f561667c:
 msgid "[_RT_] {i}I can't waste time right now, the DeCapos will be here any minute.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ich kann jetzt keine Zeit verlieren, die DeCapos werden jeden Moment hier sein.{/i}"
 
 # game/Phone_interface.rpy:281 #-#-# translate crowdin night_warning_48ae09e0:
 msgid "[_RT_] {i}It's night, I should go to sleep.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Es ist Nacht, ich sollte schlafen gehen.{/i}"
 
 # game/Phone_interface.rpy:286 #-#-# translate crowdin school_warning_1afbbf5b:
 msgid "[_RT_] {i}Right now I'm at School, I must first go home to advance time.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Im Moment bin ich in der Schule, ich muss erst nach Hause, um die Zeit überspringen zu können.{/i}"
 
 # game/Phone_interface.rpy:291 #-#-# translate crowdin campaign_warning_88e99dc5:
 msgid "[_RT_] {i}I can't waist time. I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
-msgstr "[_RT_] {i}Ich kann keine Zeit verlieren. Ich muss in die Schule gehen und sehen, wie Lauren bei der Wahl zur Schülervertretung abschneidet {/i}"
+msgstr "[_RT_] {i}Ich kann keine Zeit verlieren. Ich muss in die Schule gehen und sehen, wie Lauren bei der Wahl zur Schülervertreterin abschneidet {/i}"
 
 # game/Phone_interface.rpy:296 #-#-# translate crowdin prison_warning_5ae78a21:
 msgid "[_RT_] {i}I can't waist time. I need to get ready to visit Dad in prison.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ich darf keine Zeit verlieren. Ich muss mich darauf vorbereiten, Dad im Gefängnis zu besuchen.{/i}"
 
 # game/Phone_interface.rpy:519 #-#-# translate crowdin memes_time_skip_e011db0e:
 msgid "[_RT_] {i}School has ended, I must return home.{/i}"
