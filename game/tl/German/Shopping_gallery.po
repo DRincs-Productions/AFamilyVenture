@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-10-20 18:11\n"
+"PO-Revision-Date: 2023-10-20 19:49\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/Shopping_gallery.rpy:260 #-#-# translate crowdin online_shopping_d0d5deb3:
 msgid "[_RT_] {i}HardnLong.dong it's the best online shop that has the best prices, they deliver everywhere and they also accept online currency that'll help me be anonymous.{/i}"
@@ -146,7 +146,7 @@ msgstr "[_RT_] {i}Nicht gerade jetzt.{/i}"
 
 # game/Shopping_gallery.rpy:393 #-#-# translate crowdin buying_label_58136dd2:
 msgid "[_RT_] {i}This could come in handy for a pervert like me.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Dies könnte für einen Perversen wie mich nützlich sein.{/i}"
 
 # game/Shopping_gallery.rpy:395 #-#-# translate crowdin buying_label_b4ac69d5_4:
 msgid "You don't have enough money."
@@ -154,19 +154,19 @@ msgstr "Du hast dafür nicht genug Geld."
 
 # game/Shopping_gallery.rpy:401 #-#-# translate crowdin buying_label_8675cce7:
 msgid "[_RT_] {i}Good thing this is being delivered to Dad's warehouse. If anyone saw what I ordered, it could raise a few questions.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Gut, dass dies in Dads Lager geliefert wird. Wenn jemand sieht, was ich bestellt habe, könnte es ein paar Fragen aufwerfen. {/i}"
 
 # game/Shopping_gallery.rpy:404 #-#-# translate crowdin buying_label_1614efdb:
 msgid "[_RT_] {i}Let's not go overboard.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Lass uns nicht übermütig werden.{/i}"
 
 # game/Shopping_gallery.rpy:406 #-#-# translate crowdin buying_label_8eb4f041:
 msgid "[_RT_] {i}I need to set up some of these before I buy anymore.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ich muss einige von diesen aufstellen, bevor ich mehr kaufe. {/i}"
 
 # game/Shopping_gallery.rpy:412 #-#-# translate crowdin buying_label_8675cce7_1:
 msgid "[_RT_] {i}Good thing this is being delivered to Dad's warehouse. If anyone saw what I ordered, it could raise a few questions.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Gut, dass dies in Dads Lager geliefert wird. Wenn jemand sieht, was ich bestellt habe, könnte es ein paar Fragen aufwerfen. {/i}"
 
 # game/Shopping_gallery.rpy:414 #-#-# translate crowdin buying_label_ee2b767d_4:
 msgid "[_RT_] {i}Not right now.{/i}"
@@ -174,7 +174,7 @@ msgstr "[_RT_] {i}Nicht gerade jetzt.{/i}"
 
 # game/Shopping_gallery.rpy:416 #-#-# translate crowdin buying_label_ffa825ca:
 msgid "[_RT_] {i}I could make whatever background I want for my photo shoots!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ich könnte für meine Fotoshootings jeden gewünschten Hintergrund erstellen!{/i}"
 
 # game/Shopping_gallery.rpy:418 #-#-# translate crowdin buying_label_b4ac69d5_5:
 msgid "You don't have enough money."
@@ -190,11 +190,11 @@ msgstr "Du hast bereits genug."
 
 # game/Shopping_gallery.rpy:429 #-#-# translate crowdin buying_label_1526a744:
 msgid "You bought a green screen."
-msgstr ""
+msgstr "Du hast einen grünen Wandbehang gekauft."
 
 # game/Shopping_gallery.rpy:430 #-#-# translate crowdin buying_label_d843ed8c:
 msgid "[_RT_] {i}Great, now the pictures will be higher quality and will bring us more likes! I'll just need to pick it up at Dad's warehouse.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Toll, jetzt werden die Bilder eine höhere Qualität haben und damit mehr Likes bringen! Ich werde es einfach in Dads Lager abholen müssen. {/i}"
 
 # game/Shopping_gallery.rpy:432 #-#-# translate crowdin buying_label_ee2b767d_5:
 msgid "[_RT_] {i}Not right now.{/i}"
@@ -202,7 +202,7 @@ msgstr "[_RT_] {i}Nicht gerade jetzt.{/i}"
 
 # game/Shopping_gallery.rpy:434 #-#-# translate crowdin buying_label_2ed0f9e6:
 msgid "[_RT_] {i}The flash on my camera just doesn't do enough.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Der Blitz meiner Kamera ist einfach nicht hell genug. {/i}"
 
 # game/Shopping_gallery.rpy:436 #-#-# translate crowdin buying_label_b4ac69d5_6:
 msgid "You don't have enough money."
@@ -218,11 +218,11 @@ msgstr "Du hast bereits genug."
 
 # game/Shopping_gallery.rpy:447 #-#-# translate crowdin buying_label_eb62cd53:
 msgid "You bought professional lights for your studio."
-msgstr ""
+msgstr "Du hast eine professionelle Beleuchtung für dein Studio gekauft."
 
 # game/Shopping_gallery.rpy:448 #-#-# translate crowdin buying_label_d843ed8c_1:
 msgid "[_RT_] {i}Great, now the pictures will be higher quality and will bring us more likes! I'll just need to pick it up at Dad's warehouse.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Toll, jetzt werden die Bilder eine höhere Qualität haben und damit mehr Likes bringen! Ich werde es einfach in Dads Lager abholen müssen. {/i}"
 
 # game/Shopping_gallery.rpy:450 #-#-# translate crowdin buying_label_ee2b767d_6:
 msgid "[_RT_] {i}Not right now.{/i}"
@@ -230,7 +230,7 @@ msgstr "[_RT_] {i}Nicht gerade jetzt.{/i}"
 
 # game/Shopping_gallery.rpy:452 #-#-# translate crowdin buying_label_6c37a294:
 msgid "[_RT_] {i}This camera makes me drool!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Diese Kamera lässt mich jubeln! {/i}"
 
 # game/Shopping_gallery.rpy:454 #-#-# translate crowdin buying_label_b4ac69d5_7:
 msgid "You don't have enough money."
@@ -246,11 +246,11 @@ msgstr "Du hast bereits genug."
 
 # game/Shopping_gallery.rpy:465 #-#-# translate crowdin buying_label_249fc77d:
 msgid "You bought a new DSLR camera."
-msgstr ""
+msgstr "Du hast eine neue DSLR-Kamera gekauft."
 
 # game/Shopping_gallery.rpy:466 #-#-# translate crowdin buying_label_d843ed8c_2:
 msgid "[_RT_] {i}Great, now the pictures will be higher quality and will bring us more likes! I'll just need to pick it up at Dad's warehouse.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Toll, jetzt werden die Bilder eine höhere Qualität haben und damit mehr Likes bringen! Ich werde es einfach in Dads Lager abholen müssen. {/i}"
 
 # game/Shopping_gallery.rpy:468 #-#-# translate crowdin buying_label_ee2b767d_7:
 msgid "[_RT_] {i}Not right now.{/i}"
@@ -270,11 +270,11 @@ msgstr "Du hast bereits genug."
 
 # game/Shopping_gallery.rpy:482 #-#-# translate crowdin buying_label_9aef3168:
 msgid "You bought a new camera accessory."
-msgstr ""
+msgstr "Du hast neues Kamera-Zubehör gekauft."
 
 # game/Shopping_gallery.rpy:483 #-#-# translate crowdin buying_label_d843ed8c_3:
 msgid "[_RT_] {i}Great, now the pictures will be higher quality and will bring us more likes! I'll just need to pick it up at Dad's warehouse.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Toll, jetzt werden die Bilder eine höhere Qualität haben und damit mehr Likes bringen! Ich werde es einfach in Dads Lager abholen müssen. {/i}"
 
 # game/Shopping_gallery.rpy:485 #-#-# translate crowdin buying_label_ee2b767d_8:
 msgid "[_RT_] {i}Not right now.{/i}"
@@ -294,11 +294,11 @@ msgstr "Du hast bereits genug."
 
 # game/Shopping_gallery.rpy:499 #-#-# translate crowdin buying_label_9aef3168_1:
 msgid "You bought a new camera accessory."
-msgstr ""
+msgstr "Du hast neues Kamera-Zubehör gekauft."
 
 # game/Shopping_gallery.rpy:500 #-#-# translate crowdin buying_label_d843ed8c_4:
 msgid "[_RT_] {i}Great, now the pictures will be higher quality and will bring us more likes! I'll just need to pick it up at Dad's warehouse.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Toll, jetzt werden die Bilder eine höhere Qualität haben und damit mehr Likes bringen! Ich werde es einfach in Dads Lager abholen müssen. {/i}"
 
 # game/Shopping_gallery.rpy:502 #-#-# translate crowdin buying_label_ee2b767d_9:
 msgid "[_RT_] {i}Not right now.{/i}"
@@ -318,11 +318,11 @@ msgstr "Du hast bereits genug."
 
 # game/Shopping_gallery.rpy:516 #-#-# translate crowdin buying_label_9aef3168_2:
 msgid "You bought a new camera accessory."
-msgstr ""
+msgstr "Du hast neues Kamera-Zubehör gekauft."
 
 # game/Shopping_gallery.rpy:517 #-#-# translate crowdin buying_label_d843ed8c_5:
 msgid "[_RT_] {i}Great, now the pictures will be higher quality and will bring us more likes! I'll just need to pick it up at Dad's warehouse.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Toll, jetzt werden die Bilder eine höhere Qualität haben und damit mehr Likes bringen! Ich werde es einfach in Dads Lager abholen müssen. {/i}"
 
 # game/Shopping_gallery.rpy:519 #-#-# translate crowdin buying_label_ee2b767d_10:
 msgid "[_RT_] {i}Not right now.{/i}"
@@ -342,11 +342,11 @@ msgstr "Du hast bereits genug."
 
 # game/Shopping_gallery.rpy:533 #-#-# translate crowdin buying_label_9aef3168_3:
 msgid "You bought a new camera accessory."
-msgstr ""
+msgstr "Du hast neues Kamera-Zubehör gekauft."
 
 # game/Shopping_gallery.rpy:534 #-#-# translate crowdin buying_label_d843ed8c_6:
 msgid "[_RT_] {i}Great, now the pictures will be higher quality and will bring us more likes! I'll just need to pick it up at Dad's warehouse.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Toll, jetzt werden die Bilder eine höhere Qualität haben und damit mehr Likes bringen! Ich werde es einfach in Dads Lager abholen müssen. {/i}"
 
 # game/Shopping_gallery.rpy:536 #-#-# translate crowdin buying_label_ee2b767d_11:
 msgid "[_RT_] {i}Not right now.{/i}"
@@ -366,11 +366,11 @@ msgstr "Du hast bereits genug."
 
 # game/Shopping_gallery.rpy:550 #-#-# translate crowdin buying_label_9aef3168_4:
 msgid "You bought a new camera accessory."
-msgstr ""
+msgstr "Du hast neues Kamera-Zubehör gekauft."
 
 # game/Shopping_gallery.rpy:551 #-#-# translate crowdin buying_label_d843ed8c_7:
 msgid "[_RT_] {i}Great, now the pictures will be higher quality and will bring us more likes! I'll just need to pick it up at Dad's warehouse.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Toll, jetzt werden die Bilder eine höhere Qualität haben und damit mehr Likes bringen! Ich werde es einfach in Dads Lager abholen müssen. {/i}"
 
 # game/Shopping_gallery.rpy:553 #-#-# translate crowdin buying_label_ee2b767d_12:
 msgid "[_RT_] {i}Not right now.{/i}"
@@ -390,11 +390,11 @@ msgstr "Du hast bereits genug."
 
 # game/Shopping_gallery.rpy:567 #-#-# translate crowdin buying_label_9aef3168_5:
 msgid "You bought a new camera accessory."
-msgstr ""
+msgstr "Du hast neues Kamera-Zubehör gekauft."
 
 # game/Shopping_gallery.rpy:568 #-#-# translate crowdin buying_label_4c1f7824:
 msgid "[_RT_] {i}Great, now with this microphone we can make videos for more money. I'll just need to pick it up at Dad's warehouse.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Großartig, jetzt mit diesem Mikrofon können wir Videos für mehr Geld machen. Ich muss es nur im Lager von Vater abholen.{/i}"
 
 # game/Shopping_gallery.rpy:570 #-#-# translate crowdin buying_label_ee2b767d_13:
 msgid "[_RT_] {i}Not right now.{/i}"
@@ -414,11 +414,11 @@ msgstr "Du hast bereits genug."
 
 # game/Shopping_gallery.rpy:584 #-#-# translate crowdin buying_label_9aef3168_6:
 msgid "You bought a new camera accessory."
-msgstr ""
+msgstr "Du hast neues Kamera-Zubehör gekauft."
 
 # game/Shopping_gallery.rpy:585 #-#-# translate crowdin buying_label_07d87587:
 msgid "[_RT_] {i}Great, now the video quality will be better and will bring us more likes. I'll just need to pick it up at Dad's warehouse.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Große, jetzt wird die Videoqualität besser sein und wird uns mehr Likes bringen. Ich werde es einfach im Lager von Vater abholen müssen. {/i}"
 
 # game/Shopping_gallery.rpy:587 #-#-# translate crowdin buying_label_ee2b767d_14:
 msgid "[_RT_] {i}Not right now.{/i}"
@@ -438,11 +438,11 @@ msgstr "Du hast bereits genug."
 
 # game/Shopping_gallery.rpy:601 #-#-# translate crowdin buying_label_9aef3168_7:
 msgid "You bought a new camera accessory."
-msgstr ""
+msgstr "Du hast neues Kamera-Zubehör gekauft."
 
 # game/Shopping_gallery.rpy:602 #-#-# translate crowdin buying_label_07d87587_1:
 msgid "[_RT_] {i}Great, now the video quality will be better and will bring us more likes. I'll just need to pick it up at Dad's warehouse.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Große, jetzt wird die Videoqualität besser sein und wird uns mehr Likes bringen. Ich werde es einfach im Lager von Vater abholen müssen. {/i}"
 
 # game/Shopping_gallery.rpy:604 #-#-# translate crowdin buying_label_ee2b767d_15:
 msgid "[_RT_] {i}Not right now.{/i}"
@@ -450,7 +450,7 @@ msgstr "[_RT_] {i}Nicht gerade jetzt.{/i}"
 
 # game/Shopping_gallery.rpy:606 #-#-# translate crowdin buying_label_ce229c09:
 msgid "[_RT_] {i}Mmmmm... I can imagine all the girls in this... But I think it would look best on Mom.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Mmmmm ... Ich kann mir vorstellen, dass alle Mädchen in diesem ... Aber ich denke, dass Mama damit am besten aussehen wird. {/i}"
 
 # game/Shopping_gallery.rpy:608 #-#-# translate crowdin buying_label_b4ac69d5_16:
 msgid "You don't have enough money."
@@ -466,7 +466,7 @@ msgstr "Du hast bereits genug."
 
 # game/Shopping_gallery.rpy:619 #-#-# translate crowdin buying_label_4e98bab6:
 msgid "You bought a new swimsuit."
-msgstr ""
+msgstr "Du hast einen neuen Badeanzug gekauft."
 
 # game/Shopping_gallery.rpy:620 #-#-# translate crowdin buying_label_d5c7abcb:
 msgid "[_RT_] {i}Wow! That's expensive, but Mom will only wear the most stylish swimsuits to the club pool. I'll just need to pick it up at Dad's warehouse.{/i}"
