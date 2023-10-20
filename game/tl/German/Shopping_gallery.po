@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-10-20 17:08\n"
+"PO-Revision-Date: 2023-10-20 18:11\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/Shopping_gallery.rpy:260 #-#-# translate crowdin online_shopping_d0d5deb3:
 msgid "[_RT_] {i}HardnLong.dong it's the best online shop that has the best prices, they deliver everywhere and they also accept online currency that'll help me be anonymous.{/i}"
@@ -118,7 +118,7 @@ msgstr "[_RT_] {i}Ok, das ist das stärkste Schlafmittel, das ich legal kaufen k
 
 # game/Shopping_gallery.rpy:376 #-#-# translate crowdin buying_label_2ff35624:
 msgid "[_RT_] {i}Oh look, it's all natural...non addictive...So it won't be bad for my family.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Oh toll, es ist rein natürlich... nicht süchtig machend... also wird es nicht schlecht für meine Familie sein.{/i}"
 
 # game/Shopping_gallery.rpy:378 #-#-# translate crowdin buying_label_b4ac69d5_3:
 msgid "You don't have enough money."
@@ -126,19 +126,19 @@ msgstr "Du hast dafür nicht genug Geld."
 
 # game/Shopping_gallery.rpy:380 #-#-# translate crowdin buying_label_5b013d92:
 msgid "You don't need any more of this."
-msgstr ""
+msgstr "Du brauchst nicht mehr davon."
 
 # game/Shopping_gallery.rpy:387 #-#-# translate crowdin buying_label_689e106e:
 msgid "You bought a bottle of Melatonin."
-msgstr ""
+msgstr "Sie haben eine Packung Melatonin gekauft."
 
 # game/Shopping_gallery.rpy:388 #-#-# translate crowdin buying_label_2d609e58:
 msgid "[_RT_] {i}Awesome. Now I've just got to figure out how to get Mom and my sisters to take some each night.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Großartig. Jetzt muss ich herausfinden, wie man Mutter und meine Schwestern dazu bringt, es jede Nacht zu nehmen.{/i}"
 
 # game/Shopping_gallery.rpy:389 #-#-# translate crowdin buying_label_0bda74b1:
 msgid "[_RT_] {i}But first I need to go pick it up at the warehouse.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Aber zuerst muss ich es im Lager abholen. {/i}"
 
 # game/Shopping_gallery.rpy:391 #-#-# translate crowdin buying_label_ee2b767d_3:
 msgid "[_RT_] {i}Not right now.{/i}"
