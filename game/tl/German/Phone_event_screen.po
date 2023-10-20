@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-10-20 15:57\n"
+"PO-Revision-Date: 2023-10-20 17:08\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/Phone_event_screen.rpy:1114 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -1062,31 +1062,31 @@ msgstr "[_WT_] indem du die Taste \"P\" auf Ihrer Tastatur drückst."
 
 # game/Phone_event_screen.rpy:1990 #-#-# translate crowdin again_tutorial_b769c99b:
 msgid "[_WT_] You can cycle through the girls in the game by clicking on the left or right arrows."
-msgstr ""
+msgstr "[_WT_] Du kannst die verschiedenen Mädchen im Spiel anschauen, indem du auf den linken oder rechten Pfeil klickst."
 
 # game/Phone_event_screen.rpy:1993 #-#-# translate crowdin again_tutorial_c8ef2a6f:
 msgid "[_WT_] Once you've found the girl you want to track, you can figure out her stats by looking at the icons by her name and picture."
-msgstr ""
+msgstr "[_WT_] Wenn du das Mädchen gefunden hast, das du verfolgen willst, kannst du ihre Statistiken herausfinden, indem du dir die Symbole neben ihrem Namen und Bild ansiehst."
 
 # game/Phone_event_screen.rpy:1996 #-#-# translate crowdin again_tutorial_418686a5:
 msgid "[_WT_] The heart icon stands for love."
-msgstr ""
+msgstr "[_WT_] Das Herzsymbol steht für die Liebe."
 
 # game/Phone_event_screen.rpy:1999 #-#-# translate crowdin again_tutorial_c3bbac67:
 msgid "[_WT_] These hands represent respect."
-msgstr ""
+msgstr "[_WT_] Die Hände stehen für Respekt."
 
 # game/Phone_event_screen.rpy:2002 #-#-# translate crowdin again_tutorial_3c0737b4:
 msgid "[_WT_] The angry emoji stands for a girls anger towards you. It's hard to get them to do anything for you when they are mad."
-msgstr ""
+msgstr "[_WT_] Das wütende Emoji steht für die Wut eines Mädchens auf dich. Es ist schwer, sie dazu zu bringen, etwas für dich zu tun, wenn sie wütend sind."
 
 # game/Phone_event_screen.rpy:2005 #-#-# translate crowdin again_tutorial_e38fd42a:
 msgid "[_WT_] This whip icon, represents a girls submission to you."
-msgstr ""
+msgstr "[_WT_] Das Peitschensymbol steht für die Unterwerfung eines Mädchens durch dich."
 
 # game/Phone_event_screen.rpy:2008 #-#-# translate crowdin again_tutorial_2bd860cf:
 msgid "[_WT_] And these lips represent a girls libido."
-msgstr ""
+msgstr "[_WT_] Und die Lippen stehen für die Libido eines Mädchens."
 
 # game/Phone_event_screen.rpy:2011 #-#-# translate crowdin again_tutorial_d4d20a80:
 msgid "[_WT_] To close the stats window, just press the \"P\" on your keyboard again."
