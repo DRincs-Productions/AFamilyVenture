@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-09-19 19:57\n"
+"PO-Revision-Date: 2023-10-20 09:36\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # §translate crowdin strings: #|#|# # game/Credits_screen.rpy:57
 msgid "                               Credits"
@@ -80,16 +80,18 @@ msgstr "Wirst du"
 # game/Credits_screen.rpy:177
 msgid "\n"
 "{i}I avoided using supporters full names where possible, and used Discord handles instead wherever I had access to those.{/i}\n"
-msgstr ""
+msgstr "\n"
+"{i}Ich habe es nach Möglichkeit vermieden, die vollen Namen der Supporter zu verwenden und habe stattdessen Discord-Handles benutzt, wo immer ich Zugang zu diesen hatte. {/i}\n"
 
 # game/Credits_screen.rpy:178
 msgid "{i}Please contact me if you believe your name isn't here and it should be, or would like to have it listed differently.{/i}"
-msgstr ""
+msgstr "{i}Bitte setzen Sie sich mit mir in Verbindung, wenn Sie der Meinung sind, dass Ihr Name hier nicht aufgeführt ist, obwohl er es sein sollte, oder wenn Sie eine andere Auflistung wünschen {/i}."
 
 # game/Credits_screen.rpy:180
 msgid "\n"
 "{b}{i}$35 tier (My Family with Benefits {i}SubscribeStar{/i}) (My Family {i}Patreon{/i}):{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}$35 Stufe (Meine Familie mit Vorteilen {i}SubscribeStar{/i}) (Meine Familie {i}Patreon{/i}):{/i}{/b} \n"
 
 # game/Credits_screen.rpy:182
 msgid "Anthony"
@@ -166,7 +168,8 @@ msgstr "Urqy"
 # game/Credits_screen.rpy:201
 msgid "\n"
 "{b}{i}$20 tier (My Family {i}SubscribeStar{/i}) (My BFF's {i}Patreon{/i}):{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}$20 Stufe (Meine Familie mit Vorteilen {i}SubscribeStar{/i}) (Meine Familie {i}Patreon{/i}):{/i}{/b} \n"
 
 # game/Credits_screen.rpy:203
 msgid "."
