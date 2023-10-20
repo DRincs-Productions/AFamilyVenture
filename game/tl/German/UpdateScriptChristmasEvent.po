@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-10-20 14:46\n"
+"PO-Revision-Date: 2023-10-20 15:57\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScriptChristmasEvent.rpy:247 #-#-# translate crowdin xmas_dream_387f76a6:
 msgid "Welcome to our Christmas event! WARNING!! This event has elements of NTR, that are completely avoidable! Choices that lead to NTR content are clearly marked!"
@@ -1410,15 +1410,15 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:851 #-#-# translate crowdin tutorial_f9858483:
 msgid "[_R_] I know many wouldn't understand why I've been doing the things I'm doing, if I didn't explain myself, so this is my attempt to justify my actions."
-msgstr ""
+msgstr "[_R_] Ich weiß, dass viele nicht verstehen würden, warum ich das tue, was ich tue, wenn ich es nicht erklären würde, also ist dies mein Versuch, mein Handeln zu rechtfertigen."
 
 # game/UpdateScriptChristmasEvent.rpy:852 #-#-# translate crowdin tutorial_15e2c4a9:
 msgid "[_R_] I've been acquiring many items to help me achieve my goals, of saving those I love, and helping that love to become even more realized."
-msgstr ""
+msgstr "[_R_] Ich habe viele Dinge gemacht, die mir dabei helfen, meine Ziele zu erreichen, nämlich die Menschen zu retten, die ich liebe, und dieser Liebe zu helfen, sich noch mehr zu verwirklichen."
 
 # game/UpdateScriptChristmasEvent.rpy:855 #-#-# translate crowdin tutorial_7be5f7b4:
 msgid "[_WT_] Thanks [ryan]. Let me do a little explaining from here."
-msgstr ""
+msgstr "[_WT_] Danke [ryan]. Lasse mich jetzt eine kleine Erklärung abgeben."
 
 # game/UpdateScriptChristmasEvent.rpy:858 #-#-# translate crowdin tutorial_308a5fdb:
 msgid "[_WT_] This is a typical in-game screen. As [ryan] mentioned, you will acquire many items in the game."
@@ -1426,27 +1426,27 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:861 #-#-# translate crowdin tutorial_c3f79235:
 msgid "[_WT_] You can keep track of the items you acquire by clicking on this blue backpack."
-msgstr ""
+msgstr "[_WT_] Du kannst  die erworbenen Gegenstände anschauen, indem du auf diesen blauen Rucksack klickst."
 
 # game/UpdateScriptChristmasEvent.rpy:864 #-#-# translate crowdin tutorial_0556842f:
 msgid "[_WT_] This will open up your inventory,"
-msgstr ""
+msgstr "[_WT_] Dadurch wird dein Inventar geöffnet,"
 
 # game/UpdateScriptChristmasEvent.rpy:867 #-#-# translate crowdin tutorial_d644837a:
 msgid "[_WT_] where you will be able to see how much money you have earned,"
-msgstr ""
+msgstr "[_WT_] wo du sehen kannst, wie viel Geld du verdient hast,"
 
 # game/UpdateScriptChristmasEvent.rpy:870 #-#-# translate crowdin tutorial_25ecef9b:
 msgid "[_WT_] and what items you have acquired."
-msgstr ""
+msgstr "[_WT_] und welche Gegenstände du erworben hast."
 
 # game/UpdateScriptChristmasEvent.rpy:873 #-#-# translate crowdin tutorial_48f3259e:
 msgid "[_WT_] There are several other important items on the game screen I'd like to draw your attention to."
-msgstr ""
+msgstr "[_WT_] Es gibt noch einige andere wichtige Dinge auf dem Spielbildschirm, auf die ich deine Aufmerksamkeit lenken möchte."
 
 # game/UpdateScriptChristmasEvent.rpy:876 #-#-# translate crowdin tutorial_25fc2c00:
 msgid "[_WT_] This symbol shows you what day of the week it is,"
-msgstr ""
+msgstr "[_WT_] Dieses Symbol zeigt Ihnen, welcher Wochentag gerade ist,"
 
 # game/UpdateScriptChristmasEvent.rpy:879 #-#-# translate crowdin tutorial_75aeed33:
 msgid "[_WT_] while this symbol shows you the time of day."
@@ -1454,23 +1454,23 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:882 #-#-# translate crowdin tutorial_2c6857c0:
 msgid "[_WT_] I'll let you get back to [ryan] again."
-msgstr ""
+msgstr "[_WT_] Ich lasse dich wieder zu [ryan] zurückkehren."
 
 # game/UpdateScriptChristmasEvent.rpy:885 #-#-# translate crowdin tutorial_4f74ea21:
 msgid "[_R_] I've had to become very good at managing my money. I've got debts I have to pay, and items I need to buy, to help influence those around me."
-msgstr ""
+msgstr "[_R_] Ich musste sehr gut mit meinem Geld umgehen können. Ich hatte Schulden, die ich bezahlen musste, und Dinge, die ich kaufen musste, um die Menschen um mich herum beeinflussen zu können."
 
 # game/UpdateScriptChristmasEvent.rpy:888 #-#-# translate crowdin tutorial_88c4b13a:
 msgid "[_R_] I've become aware that someone, or several someones, have been tracking my movements. So, I have learned to be stealthy, and to watch my back wherever I go."
-msgstr ""
+msgstr "[_R_] Ich bin mir bewusst geworden, dass jemand oder mehrere Personen meine Bewegungen verfolgt haben. Also habe ich gelernt, mich zu verstecken und aufzupassen, wohin ich gehe."
 
 # game/UpdateScriptChristmasEvent.rpy:891 #-#-# translate crowdin tutorial_33df29b8:
 msgid "[_WT_] Let me just pause you again for a second. [ryan] brings up a good point about getting around."
-msgstr ""
+msgstr "[_WT_] Ich muss noch einmal kurz unterbrechen. [ryan] muss noch erklären, wie man gut vorwärts kommt."
 
 # game/UpdateScriptChristmasEvent.rpy:892 #-#-# translate crowdin tutorial_c69197d0:
 msgid "[_WT_] You will find that navigation is very important in this type of game, so let me just show you how that's done."
-msgstr ""
+msgstr "[_WT_] Du wirst feststellen, dass die Navigation bei dieser Art von Spiel sehr wichtig ist, also lasse mich dir zeigen, wie man das macht."
 
 # game/UpdateScriptChristmasEvent.rpy:895 #-#-# translate crowdin tutorial_f5ab5820:
 msgid "[_WT_] On the game screen, you can get around to many locations by using the travel buttons."
@@ -1482,15 +1482,15 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:901 #-#-# translate crowdin tutorial_1e2916f7:
 msgid "[_WT_] You can also hover your cursor over this button, to open up the quick travel options."
-msgstr ""
+msgstr "[_WT_] Du kannst auch dem Mauszeiger über diese Schaltfläche bewegen, um die Schnellreiseoptionen zu öffnen."
 
 # game/UpdateScriptChristmasEvent.rpy:902 #-#-# translate crowdin tutorial_65da6e59:
 msgid "[_WT_] These buttons will take you to any room in the house, as well as the world map."
-msgstr ""
+msgstr "[_WT_] Mit diesen Buttons kannst du jeden Raum im Haus sowie die Weltkarte aufrufen."
 
 # game/UpdateScriptChristmasEvent.rpy:903 #-#-# translate crowdin tutorial_82d216eb:
 msgid "[_WT_] Exploring the AFV world is vitally important, as you will find that some events only happen at certain times, and in certain places."
-msgstr ""
+msgstr "[_WT_] Die Erkundung der Orte ist von entscheidender Bedeutung, denn du wirst feststellen, dass einige Ereignisse nur zu bestimmten Zeiten und an bestimmten Orten stattfinden."
 
 # game/UpdateScriptChristmasEvent.rpy:904 #-#-# translate crowdin tutorial_60f71c6f:
 msgid "[_WT_] So, have fun exploring!"
@@ -1498,7 +1498,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:910 #-#-# translate crowdin tutorial_c83ea849:
 msgid "[_R_] I never can be sure who is following me, even though I have my suspicions."
-msgstr ""
+msgstr "[_R_] Ich kann nie sicher sein, wer mich verfolgt, auch wenn ich Verdachtspunkte habe."
 
 # game/UpdateScriptChristmasEvent.rpy:911 #-#-# translate crowdin tutorial_422bf6c7:
 msgid "[_R_] Always having to watch my back has made me grow closer to the few people I can trust."
@@ -1506,15 +1506,15 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:912 #-#-# translate crowdin tutorial_51e7cbc3:
 msgid "[_R_] And who can I trust better than those that live right here with me?"
-msgstr ""
+msgstr "[_R_] Und wem kann ich besser vertrauen als denen, die hier bei mir leben?"
 
 # game/UpdateScriptChristmasEvent.rpy:913 #-#-# translate crowdin tutorial_033e4640:
 msgid "{i}\"(knock knock knock....)\"{/i}"
-msgstr ""
+msgstr "{i}\"(klopf, klopf, klopf....)\"{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:914 #-#-# translate crowdin tutorial_c1bfb181:
 msgid "[_M_] {i}(muffled voice){/i} [ryan]? Why is the door locked? You're not looking at porn and masturbating again are you?"
-msgstr ""
+msgstr "[_M_] {i}(gedämpfte Stimme){/i} [ryan]? Warum ist die Tür verschlossen? Du schaust dir doch nicht wieder Pornos an und masturbierst dabei, oder?"
 
 # game/UpdateScriptChristmasEvent.rpy:917 #-#-# translate crowdin tutorial_80ba08b4:
 msgid "[_R_] No, Mom!.... But I'm really busy right now!"
@@ -1522,7 +1522,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:918 #-#-# translate crowdin tutorial_ecfc0255:
 msgid "[_M_] With what?"
-msgstr ""
+msgstr "[_M_] Womit?"
 
 # game/UpdateScriptChristmasEvent.rpy:919 #-#-# translate crowdin tutorial_0fcacb7c:
 msgid "[_R_] Ummm.... homework.... of course!"
@@ -1550,19 +1550,19 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:931 #-#-# translate crowdin tutorial_0f68a40c:
 msgid "[_WT_] Let me just jump in here one more time."
-msgstr ""
+msgstr "[_WT_] Lasse mich hier nur noch einmal unterbrechen."
 
 # game/UpdateScriptChristmasEvent.rpy:934 #-#-# translate crowdin tutorial_c7f3d7ec:
 msgid "[_WT_] To be successful, [ryan] has to influence those around him."
-msgstr ""
+msgstr "[_WT_] Um erfolgreich zu sein, muss [ryan] die Menschen in seinem Umfeld beeinflussen."
 
 # game/UpdateScriptChristmasEvent.rpy:935 #-#-# translate crowdin tutorial_762d3d13:
 msgid "[_WT_] Relationship management is the most important part of this game."
-msgstr ""
+msgstr "[_WT_] Das Beziehungsmanagement ist der wichtigste Teil dieses Spiels."
 
 # game/UpdateScriptChristmasEvent.rpy:936 #-#-# translate crowdin tutorial_6141dd6f:
 msgid "[_WT_] You will need to make choices throughout the game that will influence the way the girls in your life feel about you."
-msgstr ""
+msgstr "[_WT_] Im Laufe des Spiels musst du Entscheidungen treffen, die Einfluss darauf haben, wie die Mädchen in deinem Leben zu dir stehen."
 
 # game/UpdateScriptChristmasEvent.rpy:937 #-#-# translate crowdin tutorial_4329ffca:
 msgid "[_WT_] So, it's pretty important that you keep track of those stats."
@@ -1574,7 +1574,7 @@ msgstr ""
 
 # game/UpdateScriptChristmasEvent.rpy:941 #-#-# translate crowdin tutorial_9491e3d1:
 msgid "[_WT_] by pressing the \"P\" button on your keyboard."
-msgstr ""
+msgstr "[_WT_] indem du die Taste \"P\" auf Ihrer Tastatur drückst."
 
 # game/UpdateScriptChristmasEvent.rpy:944 #-#-# translate crowdin tutorial_b769c99b:
 msgid "[_WT_] You can cycle through the girls in the game by clicking on the left or right arrows."
