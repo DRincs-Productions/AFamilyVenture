@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-09-19 20:00\n"
+"PO-Revision-Date: 2023-10-20 17:08\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:265
 msgid "History"
@@ -22,7 +22,7 @@ msgstr "Überspringen"
 
 # game/screens.rpy:267
 msgid "Auto"
-msgstr ""
+msgstr "Automatisch"
 
 # game/screens.rpy:268
 msgid "Save"
@@ -34,11 +34,11 @@ msgstr "Laden"
 
 # game/screens.rpy:270
 msgid "Q.Save"
-msgstr ""
+msgstr "S.Speichern"
 
 # game/screens.rpy:271
 msgid "Q.Load"
-msgstr ""
+msgstr "S.Laden"
 
 # game/screens.rpy:272
 msgid "Prefs"
@@ -58,15 +58,15 @@ msgstr "Optionen"
 
 # game/screens.rpy:334
 msgid "End Replay"
-msgstr ""
+msgstr "Wiedergabe beenden"
 
 # game/screens.rpy:338
 msgid "Main Menu"
-msgstr ""
+msgstr "Hauptmenü"
 
 # game/screens.rpy:340
 msgid "About"
-msgstr ""
+msgstr "Über"
 
 # game/screens.rpy:343
 msgid "Credits"
@@ -112,23 +112,23 @@ msgstr "{#file_time}%A, %B %d %Y, %H:%M"
 
 # game/screens.rpy:677
 msgid "empty slot"
-msgstr ""
+msgstr "Leerer Platz"
 
 # game/screens.rpy:703
 msgid "<"
-msgstr ""
+msgstr "<"
 
 # game/screens.rpy:706
 msgid "{#auto_page}A"
-msgstr ""
+msgstr "{#auto_page}A"
 
 # game/screens.rpy:709
 msgid "{#quick_page}Q"
-msgstr ""
+msgstr "{#quick_page}Q"
 
 # game/screens.rpy:715
 msgid ">"
-msgstr ""
+msgstr ">"
 
 # game/screens.rpy:772
 msgid "Display"
@@ -144,11 +144,11 @@ msgstr "Vollbildmodus"
 
 # game/screens.rpy:778
 msgid "Rollback Side"
-msgstr ""
+msgstr "Rollback-Seite"
 
 # game/screens.rpy:779
 msgid "Disable"
-msgstr ""
+msgstr "Deaktivieren"
 
 # game/screens.rpy:780
 msgid "Left"
@@ -160,15 +160,15 @@ msgstr "Rechts"
 
 # game/screens.rpy:786
 msgid "Unseen Text"
-msgstr ""
+msgstr "Ungelesener Text"
 
 # game/screens.rpy:787
 msgid "After Choices"
-msgstr ""
+msgstr "Nach Auswahl"
 
 # game/screens.rpy:788
 msgid "Transitions"
-msgstr ""
+msgstr "Übergänge"
 
 # game/screens.rpy:792
 msgid "Navigation settings"
@@ -184,19 +184,19 @@ msgstr "Textgeschwindigkeit"
 
 # game/screens.rpy:860
 msgid "Auto-Forward Time"
-msgstr ""
+msgstr "Automatische Vorwärts-Zeit"
 
 # game/screens.rpy:867
 msgid "Music Volume"
-msgstr ""
+msgstr "Musiklautstärke"
 
 # game/screens.rpy:874
 msgid "Sound Volume"
-msgstr ""
+msgstr "Geräuschlautstärke"
 
 # game/screens.rpy:880
 msgid "Test"
-msgstr ""
+msgstr "Test"
 
 # game/screens.rpy:884
 msgid "Voice Volume"
@@ -208,148 +208,151 @@ msgstr "Alles stumm schalten"
 
 # game/screens.rpy:1023
 msgid "The dialogue history is empty."
-msgstr ""
+msgstr "Der Dialogverlauf ist leer."
 
 # game/screens.rpy:1093
 msgid "Keyboard"
-msgstr ""
+msgstr "Tastatur"
 
 # game/screens.rpy:1094
 msgid "Mouse"
-msgstr ""
+msgstr "Maus"
 
 # game/screens.rpy:1097
 msgid "Gamepad"
-msgstr ""
+msgstr "Gamepad"
 
 # game/screens.rpy:1110
 msgid "Enter"
-msgstr ""
+msgstr "Eingabe"
 
 # game/screens.rpy:1111
 msgid "Advances dialogue and activates the interface."
-msgstr ""
+msgstr "Erweitert den Dialog und aktiviert die Schnittstelle."
 
 # game/screens.rpy:1114
 msgid "Space"
-msgstr ""
+msgstr "Leerzeichen"
 
 # game/screens.rpy:1115
 msgid "Advances dialogue without selecting choices."
-msgstr ""
+msgstr "Erweitert den Dialog ohne Auswahl"
 
 # game/screens.rpy:1118
 msgid "Arrow Keys"
-msgstr ""
+msgstr "Pfeiltasten"
 
 # game/screens.rpy:1119
 msgid "Navigate the interface."
-msgstr ""
+msgstr "Navigieren Sie zur Schnittstelle"
 
 # game/screens.rpy:1122
 msgid "Escape"
-msgstr ""
+msgstr "Escape"
 
 # game/screens.rpy:1123
 msgid "Accesses the game menu."
-msgstr ""
+msgstr "Greift auf das Spielmenü zu"
 
 # game/screens.rpy:1126
 msgid "Ctrl"
-msgstr ""
+msgstr "Strg"
 
 # game/screens.rpy:1127
 msgid "Skips dialogue while held down."
-msgstr ""
+msgstr "Überspringt den Dialog, wenn gedrückt wird"
 
 # game/screens.rpy:1130
 msgid "Tab"
-msgstr ""
+msgstr "Tabulator"
 
 # game/screens.rpy:1131
 msgid "Toggles dialogue skipping."
-msgstr ""
+msgstr "Dialog wird übersprungen"
 
 # game/screens.rpy:1134
 msgid "Page Up"
-msgstr ""
+msgstr "Seite nach oben"
 
 # game/screens.rpy:1135
 msgid "Rolls back to earlier dialogue."
-msgstr ""
+msgstr "Zurück zum früheren Dialog"
 
 # game/screens.rpy:1138
 msgid "Page Down"
-msgstr ""
+msgstr "Seite nach unten"
 
 # game/screens.rpy:1139
 msgid "Rolls forward to later dialogue."
-msgstr ""
+msgstr "Spult zu einem späteren Dialog vor."
 
 # game/screens.rpy:1143
 msgid "Hides the user interface."
-msgstr ""
+msgstr "Benutzerinferface ausblenden."
 
 # game/screens.rpy:1147
 msgid "Takes a screenshot."
-msgstr ""
+msgstr "Screenshot erstellen"
 
 # game/screens.rpy:1151
 msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-msgstr ""
+msgstr "Schaltet behindertengerechte Bedienung {a=https: //www.renpy.org/l/voicing}self-voicing{/a} ein."
 
 # game/screens.rpy:1157
 msgid "Left Click"
-msgstr ""
+msgstr "Linksklick"
 
 # game/screens.rpy:1161
 msgid "Middle Click"
-msgstr ""
+msgstr "Mittelklick"
 
 # game/screens.rpy:1165
 msgid "Right Click"
-msgstr ""
+msgstr "Rechtsklick"
 
 # game/screens.rpy:1169
 msgid "Mouse Wheel Up\n"
 "Click Rollback Side"
-msgstr ""
+msgstr "Mausrad nach oben\n"
+"Klicken Sie auf Rollback-Seite"
 
 # game/screens.rpy:1173
 msgid "Mouse Wheel Down"
-msgstr ""
+msgstr "Mausrad nach unten"
 
 # game/screens.rpy:1180
 msgid "Right Trigger\n"
 "A/Bottom Button"
-msgstr ""
+msgstr "Rechter Auslöser\n"
+"A/Unten Taste"
 
 # game/screens.rpy:1184
 msgid "Left Trigger\n"
 "Left Shoulder"
-msgstr ""
+msgstr "Links Trigger\n"
+"Linke Schulter"
 
 # game/screens.rpy:1188
 msgid "Right Shoulder"
-msgstr ""
+msgstr "Rechte Schulter"
 
 # game/screens.rpy:1193
 msgid "D-Pad, Sticks"
-msgstr ""
+msgstr "D-Pad, Sticks"
 
 # game/screens.rpy:1197
 msgid "Start, Guide"
-msgstr ""
+msgstr "Starthilfe"
 
 # game/screens.rpy:1201
 msgid "Y/Top Button"
-msgstr ""
+msgstr "Y/Top Button"
 
 # game/screens.rpy:1204
 msgid "Calibrate"
-msgstr ""
+msgstr "Kalibriere"
 
 # game/screens.rpy:1316
 msgid "Skipping"
-msgstr ""
+msgstr "Überspringen"
 
