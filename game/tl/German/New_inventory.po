@@ -10,19 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-10-20 12:38\n"
+"PO-Revision-Date: 2023-10-20 13:35\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # §translate crowdin strings: #|#|# # game/New_inventory.rpy:228
 msgid "Lauren's first cosplay outfit, you can sell it online to make money."
-msgstr "Laurens erstes Cosplay-Kostüm kannst du online verkaufen, um Geld zu verdienen."
+msgstr "Laurens erstes Cosplay-Kostüm, welches du online verkaufen kannst, um Geld zu verdienen."
 
 # game/New_inventory.rpy:229
 msgid "Mandy's first cosplay outfit, you can sell it online to make money."
-msgstr "Mandys erstes Cosplay-Kostüm kannst du online verkaufen, um Geld zu verdienen."
+msgstr "Mandys erstes Cosplay-Kostüm, welches du online verkaufen kannst, um Geld zu verdienen."
 
 # game/New_inventory.rpy:231
 msgid "Expensive, but the most stylish swimsuit for my mom."
-msgstr "Teuer, aber der schickste Badeanzug für meine Mutter."
+msgstr "Teurer, aber besonders schicker Badeanzug für meine Mutter."
 
 # game/New_inventory.rpy:234
 msgid "Generic milk chocolate bar."
@@ -30,7 +30,7 @@ msgstr "Einfache Tafel  Milchschokolade."
 
 # game/New_inventory.rpy:235
 msgid "hardnLong.com $25 Gift Card(s)."
-msgstr "hardnLong.com $25 Geschenkkarte(n)."
+msgstr "hardnLong.com 25 $ Geschenkkarte(n)."
 
 # game/New_inventory.rpy:236
 msgid "Flowers for my ladies."
@@ -90,7 +90,7 @@ msgstr "Ich muss den Wein von Mama immer wieder ersetzen."
 
 # game/New_inventory.rpy:267
 msgid "Money:$[money]"
-msgstr "Geld:$[money]"
+msgstr "Geld: [money] $"
 
 # game/New_inventory.rpy:269
 msgid "INVENTORY"
