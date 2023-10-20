@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-09-19 19:57\n"
+"PO-Revision-Date: 2023-10-20 13:35\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/Cosplay_gallery.rpy:1213 #-#-# translate crowdin cosplay_label_c1f386dd:
 msgid "[_RT_] {i}Yes... I have sold another pair of oufits for $[sold] more.{/i}"
-msgstr "[_RT_] {i}Ja... Ich habe ein weiteres Paar Oufits für $[sold] mehr verkauft.{/i}"
+msgstr "[_RT_] {i}Ja... Ich habe ein weiteres Oufit für [sold] $ verkauft.{/i}"
 
 # game/Cosplay_gallery.rpy:1218 #-#-# translate crowdin cosplay_label_16130f80:
 msgid "[_RT_] {i}I should check if I got any likes and if I can transfer the money to my account.{/i}"
@@ -22,7 +22,7 @@ msgstr "[_RT_] {i}Ich sollte überprüfen, ob ich Likes bekommen habe und ob ich
 
 # game/Cosplay_gallery.rpy:1793 #-#-# translate crowdin supporters_income_photoshoot_26a16025:
 msgid "You were sponsored by a total of [var_total_supporters] supporters and earned $[var_earnings_from_supporters]!"
-msgstr "Du wurdest von insgesamt [var_total_supporters] Unterstützern gesponsert und hast $[var_earnings_from_supporters]verdient!"
+msgstr "Du wurdest von insgesamt [var_total_supporters] Unterstützern gesponsert und hast [var_earnings_from_supporters] $ verdient!"
 
 # game/Cosplay_gallery.rpy:1798 #-#-# translate crowdin supporters_income_photoshoot_aa36c7f3:
 msgid "You have already withdrawn the money that you have earned this month!"
@@ -30,11 +30,11 @@ msgstr "Sie haben das Geld, das Sie in diesem Monat verdient haben, bereits abge
 
 # game/Cosplay_gallery.rpy:1803 #-#-# translate crowdin supporters_income_photoshoot_ed87ddab:
 msgid "[_RT_] {i}I must wait until the end of the month to withdraw my funds.{/i}"
-msgstr "[_RT_] {i}Ich muss bis zum Ende des Monats warten, um mein Geld abzuheben {/i}"
+msgstr "[_RT_] {i}Ich muss bis zum Ende des Monats warten, um mein Geld abheben zu können{/i}"
 
 # game/Cosplay_gallery.rpy:1822 #-#-# translate crowdin income_photoshoot_9eef3851:
 msgid "You have received [new_likes] new likes and earned $[income]!"
-msgstr "Du hast [new_likes] neue Likes erhalten und $[income] verdient!"
+msgstr "Du hast [new_likes] neue Likes erhalten und [income] $ verdient!"
 
 # game/Cosplay_gallery.rpy:1827 #-#-# translate crowdin income_photoshoot_e4c275b3:
 msgid "You have already withdrawn the money that you have earned!"
@@ -42,7 +42,7 @@ msgstr "Sie haben das Geld, das Sie in diesem Monat verdient haben, bereits abge
 
 # game/Cosplay_gallery.rpy:1832 #-#-# translate crowdin income_photoshoot_35500616:
 msgid "[_RT_] {i}I must wait until the end of the week to withdraw my funds.{/i}"
-msgstr "[_RT_] {i}Ich muss bis zum Ende des Monats warten, um mein Geld abzuheben {/i}"
+msgstr "[_RT_] {i}Ich muss bis zum Ende der Woche warten, um mein Geld abheben zu können{/i}"
 
 # game/Cosplay_gallery.rpy:1846 #-#-# translate crowdin advertising_label_4491e190:
 msgid "[_RT_] {i}For only 5 bucks I'll get more likes. I should remember to do this daily.{/i}"
@@ -54,7 +54,7 @@ msgstr "[_RT_] {i}Ich habe heute bereits Werbung gemacht {/i}"
 
 # game/Cosplay_gallery.rpy:1864 #-#-# translate crowdin outfits_sell_label_606ee1bf:
 msgid "[_RT_] {i}Yes... The outfits were sold and now I have $[sold] more in my account.{/i}"
-msgstr "[_RT_] {i}Ja... Die Outfits wurden verkauft, und jetzt habe ich $[sold] mehr auf meinem Konto.{/i}"
+msgstr "[_RT_] {i}Ja... Die Outfits wurden verkauft, und jetzt habe ich [sold] $ mehr auf meinem Konto.{/i}"
 
 # game/Cosplay_gallery.rpy:1871 #-#-# translate crowdin outfits_sell_label_68310073:
 msgid "[_RT_] {i}I should sell the cosplay outfits.{/i}"
@@ -95,21 +95,21 @@ msgstr "{color=#ffffff}{b}Unterstützer{/b}{/color}"
 
 # game/Cosplay_gallery.rpy:581
 msgid "{color=#000000}{b}Likes: [total_likes]{/b}{/color}"
-msgstr "{color=#000000}{b}Gefällt mir: [total_likes]{/b}{/color}"
+msgstr "{color=#000000}{b}Likes: [total_likes]{/b}{/color}"
 
 # game/Cosplay_gallery.rpy:582
 msgid "{color=#ffffff}{b}Press to change \n"
 " likes to money{/b}{/color}"
-msgstr "{color=#ffffff}{b}Drücken Sie, um \n"
-" in Geld zu ändern{/b}{/color}"
+msgstr "{color=#ffffff}{b}Drücken Sie, um Likes\n"
+" in Geld zu wechseln{/b}{/color}"
 
 # game/Cosplay_gallery.rpy:709
 msgid "{color=#000000}{b}Sell{/b}{/color}"
-msgstr "{color=#000000}{b}Gefällt mir: {/b}{/color}"
+msgstr "{color=#000000}{b}Likes: {/b}{/color}"
 
 # game/Cosplay_gallery.rpy:710
 msgid "{color=#000000}{b}outfits{/b}{/color}"
-msgstr "{color=#000000}{b}Gefällt mir: {/b}{/color}"
+msgstr "{color=#000000}{b}Likes: {/b}{/color}"
 
 # game/Cosplay_gallery.rpy:1077
 msgid "{color=#ff0000}{b}Supporters: [var_total_supporters]{/b}{/color}"
