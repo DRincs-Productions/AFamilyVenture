@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-10-21 08:24\n"
+"PO-Revision-Date: 2023-10-21 10:53\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScript0.06.rpy:715 #-#-# translate crowdin move_in_day_31871088:
 msgid "[_RT_] {i}I... think I slept in... What time is it?{/i}"
@@ -3222,7 +3222,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:2618 #-#-# translate crowdin commission_ph_outfit_43a49173:
 msgid "{i}{b}\"Sidney's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidneys Respekt +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:2620 #-#-# translate crowdin commission_ph_outfit_576267cf:
 msgid "[_S_] I hope it's enough to pay the Mafia debt this week, and buy the costumes."
@@ -3234,7 +3234,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:2624 #-#-# translate crowdin commission_ph_outfit_43a49173_1:
 msgid "{i}{b}\"Sidney's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidneys Respekt +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:2626 #-#-# translate crowdin commission_ph_outfit_cbd4c6fe:
 msgid "[_S_] Good for you, [ryan]! Keep it up and maybe we will be able to get along without Dad."
@@ -3494,7 +3494,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:2741 #-#-# translate crowdin commission_ph_outfit_43a49173_2:
 msgid "{i}{b}\"Sidney's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidneys Respekt +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:2743 #-#-# translate crowdin commission_ph_outfit_53c865e4:
 msgid "[_S_] Good for you [ryan]! Keep it up and maybe we will be able to get along without Dad."
