@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-10-20 11:27\n"
+"PO-Revision-Date: 2023-10-21 08:24\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScript0.04.rpy:320 #-#-# translate crowdin get_sidney_modeling_68a39f05:
 msgid "[_RT_] {i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
@@ -10762,7 +10762,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:5674 #-#-# translate crowdin removeshirt_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidneys Libido + 1\" {/b} {/i}"
 
 # game/UpdateScript0.04.rpy:5677 #-#-# translate crowdin removeshirt_f914686b:
 msgid "[_S_] I'm not nearly as nervous for the next photoshoot."
