@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-10-20 09:37\n"
+"PO-Revision-Date: 2023-10-21 08:24\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScript0.05.rpy:476 #-#-# translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -3622,7 +3622,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2210 #-#-# translate crowdin tv_together_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Laurens Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:2214 #-#-# translate crowdin tv_together_4502fba6:
 msgid "[_L_] Oh my God!.... How long has Mom's shower been off?"
@@ -4138,7 +4138,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2437 #-#-# translate crowdin tv_together_64e7b164_1:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Laurens Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:2442 #-#-# translate crowdin tv_together_d98df879:
 msgid "[_L_] Oh, shit!.... Mom's shower just turned off!"
@@ -4262,7 +4262,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2499 #-#-# translate crowdin lounge_hj_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Laurens Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:2506 #-#-# translate crowdin lounge_hj_2cbffccf:
 msgid "[_LT_] {i}Wow!{/i}"
@@ -7210,7 +7210,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4300 #-#-# translate crowdin breakfast_events_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Laurens Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:4311 #-#-# translate crowdin breakfast_events_c7c8695b:
 msgid "[_RT_] {i}Man, Sidney is hella beautiful, but my brain just shuts down when she starts talking about design college.{/i}"
@@ -7270,7 +7270,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4331 #-#-# translate crowdin breakfast_events_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidneys Libido + 1\" {/b} {/i}"
 
 # game/UpdateScript0.05.rpy:4344 #-#-# translate crowdin breakfast_events_8d9a4b12_9:
 msgid "[_RT_] {i}It smells good in here. Should I join everybody for breakfast?{/i}"
@@ -7430,7 +7430,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4476 #-#-# translate crowdin breakfast_events_64e7b164_1:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Laurens Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:4487 #-#-# translate crowdin breakfast_events_c7c8695b_1:
 msgid "[_RT_] {i}Man, Sidney is hella beautiful, but my brain just shuts down when she starts talking about design college.{/i}"
@@ -7490,7 +7490,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4507 #-#-# translate crowdin breakfast_events_5bd31dc0_1:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidneys Libido + 1\" {/b} {/i}"
 
 # game/UpdateScript0.05.rpy:4520 #-#-# translate crowdin breakfast_events_8d9a4b12_10:
 msgid "[_RT_] {i}It smells good in here. Should I join everybody for breakfast?{/i}"
@@ -10826,7 +10826,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6372 #-#-# translate crowdin sid_working_club_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidneys Libido + 1\" {/b} {/i}"
 
 # game/UpdateScript0.05.rpy:6374 #-#-# translate crowdin sid_working_club_2c439995:
 msgid "[_RT_] {i}Aaahhh!.... Should I just risk a peek?{/i}"
@@ -11186,7 +11186,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6621 #-#-# translate crowdin club_fun_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidneys Libido + 1\" {/b} {/i}"
 
 # game/UpdateScript0.05.rpy:6633 #-#-# translate crowdin club_fun_cf5f45d7:
 msgid "[_S_] Yeah, that's a big no for me."
