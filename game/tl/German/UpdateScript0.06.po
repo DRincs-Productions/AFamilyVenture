@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-10-20 11:27\n"
+"PO-Revision-Date: 2023-10-21 08:24\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScript0.06.rpy:715 #-#-# translate crowdin move_in_day_31871088:
 msgid "[_RT_] {i}I... think I slept in... What time is it?{/i}"
@@ -4022,7 +4022,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:3021 #-#-# translate crowdin update_six_bfasts_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Laurens Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:3032 #-#-# translate crowdin update_six_bfasts_c7c8695b:
 msgid "[_RT_] {i}Man, Sidney is hella beautiful, but my brain just shuts down when she starts talking about design college.{/i}"
@@ -4082,7 +4082,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:3052 #-#-# translate crowdin update_six_bfasts_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidneys Libido + 1\" {/b} {/i}"
 
 # game/UpdateScript0.06.rpy:3065 #-#-# translate crowdin update_six_bfasts_8d9a4b12_1:
 msgid "[_RT_] {i}It smells good in here. Should I join everybody for breakfast?{/i}"
@@ -4222,7 +4222,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:3184 #-#-# translate crowdin update_six_bfasts_64e7b164_1:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Laurens Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:3195 #-#-# translate crowdin update_six_bfasts_c7c8695b_1:
 msgid "[_RT_] {i}Man, Sidney is hella beautiful, but my brain just shuts down when she starts talking about design college.{/i}"
@@ -4282,7 +4282,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:3215 #-#-# translate crowdin update_six_bfasts_5bd31dc0_1:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidneys Libido + 1\" {/b} {/i}"
 
 # game/UpdateScript0.06.rpy:3237 #-#-# translate crowdin camille_workout_28c36d5d:
 msgid "[_RT_] {i}I'm not going back in there... she was pissed!{/i}"
@@ -6006,7 +6006,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:4353 #-#-# translate crowdin lauren_night_554188de:
 msgid "{i}{b}\"Mandy's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mandys Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:4355 #-#-# translate crowdin lauren_night_eda87fb3:
 msgid "[_R_] Wait!... What?"
@@ -6402,7 +6402,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:4533 #-#-# translate crowdin lauren_night_554188de_1:
 msgid "{i}{b}\"Mandy's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mandys Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:4535 #-#-# translate crowdin lauren_night_d731989a:
 msgid "[_R_] Your mom is hot too, though."
@@ -6458,7 +6458,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:4555 #-#-# translate crowdin lauren_night_554188de_2:
 msgid "{i}{b}\"Mandy's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mandys Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:4559 #-#-# translate crowdin lauren_night_cf568eba:
 msgid "[_MD_] Pervert!"
@@ -6498,7 +6498,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:4571 #-#-# translate crowdin lauren_night_554188de_3:
 msgid "{i}{b}\"Mandy's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mandys Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:4575 #-#-# translate crowdin lauren_night_1c4b3ccd_1:
 msgid "[_R_] But, you..."
@@ -6542,7 +6542,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:4590 #-#-# translate crowdin lauren_night_554188de_4:
 msgid "{i}{b}\"Mandy's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mandys Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:4592 #-#-# translate crowdin lauren_night_375d1ea1_3:
 msgid "[_MD_] Alright, it's my turn."
@@ -6650,7 +6650,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:4626 #-#-# translate crowdin lauren_night_554188de_5:
 msgid "{i}{b}\"Mandy's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mandys Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:4630 #-#-# translate crowdin lauren_night_95ca86a1:
 msgid "[_R_] Alright, it's your turn."
@@ -6714,7 +6714,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:4655 #-#-# translate crowdin lauren_night_554188de_6:
 msgid "{i}{b}\"Mandy's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mandys Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:4657 #-#-# translate crowdin lauren_night_a04277cf:
 msgid "[_RT_] {i}That's pretty hot!{/i}"
@@ -7430,7 +7430,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:5139 #-#-# translate crowdin truth_sequence_554188de:
 msgid "{i}{b}\"Mandy's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mandys Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:5141 #-#-# translate crowdin truth_sequence_f632d562:
 msgid "[_R_] Alright, it's your turn. Truth, or Dare?"
@@ -7634,7 +7634,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:5221 #-#-# translate crowdin truth_sequence_554188de_1:
 msgid "{i}{b}\"Mandy's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mandys Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:5223 #-#-# translate crowdin truth_sequence_00ea3bf6:
 msgid "[_R_] I'll make sure those funds are used specifically for that."
@@ -8038,7 +8038,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:5378 #-#-# translate crowdin truth_sequence_554188de_2:
 msgid "{i}{b}\"Mandy's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mandys Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:5380 #-#-# translate crowdin truth_sequence_f3adae72:
 msgid "[_MD_] So what did you two do together?"
@@ -8278,7 +8278,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:5487 #-#-# translate crowdin truth_sequence_554188de_3:
 msgid "{i}{b}\"Mandy's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mandys Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:5489 #-#-# translate crowdin truth_sequence_a2b1f6a3:
 msgid "[_R_] Do what?"
@@ -8410,7 +8410,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:5566 #-#-# translate crowdin truth_sequence_554188de_4:
 msgid "{i}{b}\"Mandy's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mandys Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:5574 #-#-# translate crowdin truth_sequence_ad48e0c3:
 msgid "[_MD_] Ok, now do me."
@@ -8518,7 +8518,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:5658 #-#-# translate crowdin truth_sequence_554188de_5:
 msgid "{i}{b}\"Mandy's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mandys Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:5660 #-#-# translate crowdin truth_sequence_d731989a:
 msgid "[_R_] Your mom is hot too, though."
@@ -8574,7 +8574,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:5692 #-#-# translate crowdin truth_sequence_554188de_6:
 msgid "{i}{b}\"Mandy's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mandys Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:5700 #-#-# translate crowdin truth_sequence_cf568eba:
 msgid "[_MD_] Pervert!"
@@ -8614,7 +8614,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:5716 #-#-# translate crowdin truth_sequence_554188de_7:
 msgid "{i}{b}\"Mandy's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mandys Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:5724 #-#-# translate crowdin truth_sequence_1c4b3ccd_2:
 msgid "[_R_] But, you..."
@@ -8658,7 +8658,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:5747 #-#-# translate crowdin truth_sequence_554188de_8:
 msgid "{i}{b}\"Mandy's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mandys Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:5749 #-#-# translate crowdin truth_sequence_375d1ea1_3:
 msgid "[_MD_] Alright, it's my turn."
@@ -8770,7 +8770,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:5790 #-#-# translate crowdin safest_dare_sequence_554188de:
 msgid "{i}{b}\"Mandy's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mandys Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:5794 #-#-# translate crowdin safest_dare_sequence_54c68159:
 msgid "[_R_] Was that better?"
@@ -9950,7 +9950,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:6318 #-#-# translate crowdin v_risky_dare_sequence_554188de:
 msgid "{i}{b}\"Mandy's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mandys Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:6320 #-#-# translate crowdin v_risky_dare_sequence_00ea3bf6:
 msgid "[_R_] I'll make sure those funds are used specifically for that."
@@ -10102,7 +10102,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:6383 #-#-# translate crowdin v_risky_dare_sequence_554188de_1:
 msgid "{i}{b}\"Mandy's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mandys Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:6386 #-#-# translate crowdin v_risky_dare_sequence_28463b3d:
 msgid "[_MD_] Does it feel like you're really fucking her?"
@@ -10154,7 +10154,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:6417 #-#-# translate crowdin v_risky_dare_sequence_554188de_2:
 msgid "{i}{b}\"Mandy's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mandys Libido + 1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:6419 #-#-# translate crowdin v_risky_dare_sequence_54041de3:
 msgid "[_R_] Yeah, I'd better clean that up."
