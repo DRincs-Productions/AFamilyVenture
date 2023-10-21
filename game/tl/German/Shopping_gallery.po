@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-10-20 19:49\n"
+"PO-Revision-Date: 2023-10-21 06:46\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/Shopping_gallery.rpy:260 #-#-# translate crowdin online_shopping_d0d5deb3:
 msgid "[_RT_] {i}HardnLong.dong it's the best online shop that has the best prices, they deliver everywhere and they also accept online currency that'll help me be anonymous.{/i}"
@@ -470,7 +470,7 @@ msgstr "Du hast einen neuen Badeanzug gekauft."
 
 # game/Shopping_gallery.rpy:620 #-#-# translate crowdin buying_label_d5c7abcb:
 msgid "[_RT_] {i}Wow! That's expensive, but Mom will only wear the most stylish swimsuits to the club pool. I'll just need to pick it up at Dad's warehouse.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Wow! Das ist teuer, aber Mama wird nur die stilvollsten Badeanzüge am Clubpool tragen. Ich werde es einfach im Lager von Vater abholen müssen. {/i}"
 
 # game/Shopping_gallery.rpy:622 #-#-# translate crowdin buying_label_ee2b767d_16:
 msgid "[_RT_] {i}Not right now.{/i}"
@@ -490,11 +490,11 @@ msgstr "Du hast bereits genug."
 
 # game/Shopping_gallery.rpy:634 #-#-# translate crowdin buying_label_8e69bfda:
 msgid "[_RT_] {i}I've already bought this... I still need to go pick it up at the warehouse.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ich habe das schon gekauft ... Ich muss es immer noch im Lager abholen. {/i}"
 
 # game/Shopping_gallery.rpy:640 #-#-# translate crowdin buying_label_1fbd6f50:
 msgid "You bought a ball gag."
-msgstr ""
+msgstr "Du hast einen Ball Gag gekauft."
 
 # game/Shopping_gallery.rpy:641 #-#-# translate crowdin buying_label_a3a66a09:
 msgid "[_RT_] {i}I don't know what I'm going to use this for, but it never hurts to have a ball gag on hand. I'd better go to Dad's warehouse to pick it up.{/i}"
@@ -526,7 +526,7 @@ msgstr "Du hast bereits genug."
 
 # game/Shopping_gallery.rpy:657 #-#-# translate crowdin buying_label_8e69bfda_1:
 msgid "[_RT_] {i}I've already bought this... I still need to go pick it up at the warehouse.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ich habe das schon gekauft ... Ich muss es immer noch im Lager abholen. {/i}"
 
 # game/Shopping_gallery.rpy:663 #-#-# translate crowdin buying_label_7b494822:
 msgid "You bought Perry Hotter Book 1."
@@ -562,7 +562,7 @@ msgstr "Du hast bereits genug."
 
 # game/Shopping_gallery.rpy:680 #-#-# translate crowdin buying_label_8e69bfda_2:
 msgid "[_RT_] {i}I've already bought this... I still need to go pick it up at the warehouse.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ich habe das schon gekauft ... Ich muss es immer noch im Lager abholen. {/i}"
 
 # game/Shopping_gallery.rpy:686 #-#-# translate crowdin buying_label_35160924:
 msgid "You bought Perry Hotter Book 2."
@@ -598,7 +598,7 @@ msgstr "Du hast bereits genug."
 
 # game/Shopping_gallery.rpy:703 #-#-# translate crowdin buying_label_8e69bfda_3:
 msgid "[_RT_] {i}I've already bought this... I still need to go pick it up at the warehouse.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ich habe das schon gekauft ... Ich muss es immer noch im Lager abholen. {/i}"
 
 # game/Shopping_gallery.rpy:709 #-#-# translate crowdin buying_label_4eb61aad:
 msgid "You bought Perry Hotter Book 3."
