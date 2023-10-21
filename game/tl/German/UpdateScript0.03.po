@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-10-21 08:24\n"
+"PO-Revision-Date: 2023-10-21 10:53\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScript0.03.rpy:466 #-#-# translate crowdin posting_the_htbyd_pics_99f2fd00:
 msgid "[_RT_] {i}I finally finished the Zad 3D work and photo editing.{/i}"
@@ -1466,7 +1466,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1191 #-#-# translate crowdin commissionsecondoutfit_43a49173:
 msgid "{i}{b}\"Sidney's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidneys Respekt +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:1193 #-#-# translate crowdin commissionsecondoutfit_bfd8516a:
 msgid "[_S_] Good for you little brother! Keep it up and maybe we will be able to get along without Dad after all."
@@ -1474,7 +1474,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1194 #-#-# translate crowdin commissionsecondoutfit_3e143f5a:
 msgid "{i}\"Money - $400\"{/i}"
-msgstr ""
+msgstr "{i}\"Geld - 400 $\"{/i}"
 
 # game/UpdateScript0.03.rpy:1197 #-#-# translate crowdin commissionsecondoutfit_0770ae02:
 msgid "[_R_] Why should I be the one responsible to pay off the debt every week, Mom can help out too."
@@ -1490,7 +1490,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1200 #-#-# translate crowdin commissionsecondoutfit_3e143f5a_1:
 msgid "{i}\"Money - $400\"{/i}"
-msgstr ""
+msgstr "{i}\"Geld - 400 $\"{/i}"
 
 # game/UpdateScript0.03.rpy:1207 #-#-# translate crowdin commissionsecondoutfit_10adc244:
 msgid "[_R_] So, how long will it take to finish?"
