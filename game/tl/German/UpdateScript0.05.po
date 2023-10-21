@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-10-21 08:24\n"
+"PO-Revision-Date: 2023-10-21 10:53\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScript0.05.rpy:476 #-#-# translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -818,7 +818,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:928 #-#-# translate crowdin sidney_morning_jog_43a49173:
 msgid "{i}{b}\"Sidney's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidneys Respekt +1\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:930 #-#-# translate crowdin sidney_morning_jog_1bef7fd5:
 msgid "[_S_] I'd really appreciate that."
@@ -9942,7 +9942,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5750 #-#-# translate crowdin park_activities_43a49173:
 msgid "{i}{b}\"Sidney's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidneys Respekt +1\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:5752 #-#-# translate crowdin park_activities_64db5d4c:
 msgid "[_RT_] {i}Oh my God! Is my sister going to kiss me?{/i}"
@@ -10898,7 +10898,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6406 #-#-# translate crowdin sid_working_club_43a49173:
 msgid "{i}{b}\"Sidney's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidneys Respekt +1\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:6420 #-#-# translate crowdin sid_working_club_9cf1104a:
 msgid "[_S_] So, was there something you wanted to talk to me about?"
