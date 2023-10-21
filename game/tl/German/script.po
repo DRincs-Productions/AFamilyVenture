@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-10-20 17:08\n"
+"PO-Revision-Date: 2023-10-21 08:24\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/script.rpy:351 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -386,7 +386,7 @@ msgstr "[_L_] [ryan]?..."
 
 # game/script.rpy:1279 #-#-# translate crowdin myroom_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Laurens Libido + 1\"{/b}{/i}"
 
 # game/script.rpy:1283 #-#-# translate crowdin myroom_19aacb37:
 msgid "[_R_] Uhh.... yeah.... sorry. I was just looking for the remote under this couch cushion, and didn't realize I was that close to you until you backed up."
@@ -518,7 +518,7 @@ msgstr ""
 
 # game/script.rpy:1337 #-#-# translate crowdin myroom_64e7b164_1:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Laurens Libido + 1\"{/b}{/i}"
 
 # game/script.rpy:1428 #-#-# translate crowdin myroomnight_9fb415aa:
 msgid "[_RT_] {i}My bed looks lonely without Sidney in it.{/i}"
@@ -890,7 +890,7 @@ msgstr ""
 
 # game/script.rpy:2860 #-#-# translate crowdin wakeupryan_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Laurens Libido + 1\"{/b}{/i}"
 
 # game/script.rpy:2861 #-#-# translate crowdin wakeupryan_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
@@ -1082,7 +1082,7 @@ msgstr "[_L_] [ryan]?..."
 
 # game/script.rpy:3202 #-#-# translate crowdin loungeevening_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Laurens Libido + 1\"{/b}{/i}"
 
 # game/script.rpy:3206 #-#-# translate crowdin loungeevening_19aacb37:
 msgid "[_R_] Uhh.... yeah.... sorry. I was just looking for the remote under this couch cushion, and didn't realize I was that close to you until you backed up."
@@ -1218,7 +1218,7 @@ msgstr ""
 
 # game/script.rpy:3275 #-#-# translate crowdin loungeevening_64e7b164_1:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Laurens Libido + 1\"{/b}{/i}"
 
 # game/script.rpy:3292 #-#-# translate crowdin loungeevening_cf4c0aae_1:
 msgid "[_RT_] {i}{b}(HINT){/b} I should go to the kitchen in the evening for family dinner.{/i}"
@@ -1318,7 +1318,7 @@ msgstr ""
 
 # game/script.rpy:3347 #-#-# translate crowdin loungeevening_64e7b164_2:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Laurens Libido + 1\"{/b}{/i}"
 
 # game/script.rpy:3357 #-#-# translate crowdin loungeevening_ec117b46:
 msgid "[_RT_] {i}I wonder If Lauren would mind if I joined her?{/i}"
@@ -1354,7 +1354,7 @@ msgstr ""
 
 # game/script.rpy:3385 #-#-# translate crowdin loungeevening_64e7b164_3:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Laurens Libido + 1\"{/b}{/i}"
 
 # game/script.rpy:3410 #-#-# translate crowdin loungeeveningweekend_3959ba15:
 msgid "[_RT_] {i}What did I just walk in on? It's like Mom and Lauren are purposely trying to be cock-teases lately.{/i}"
@@ -1446,7 +1446,7 @@ msgstr "[_L_] [ryan]?..."
 
 # game/script.rpy:3453 #-#-# translate crowdin loungeeveningweekend_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Laurens Libido + 1\"{/b}{/i}"
 
 # game/script.rpy:3457 #-#-# translate crowdin loungeeveningweekend_19aacb37:
 msgid "[_R_] Uhh.... yeah.... sorry. I was just looking for the remote under this couch cushion, and didn't realize I was that close to you until you backed up."
@@ -1582,7 +1582,7 @@ msgstr ""
 
 # game/script.rpy:3526 #-#-# translate crowdin loungeeveningweekend_64e7b164_1:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Laurens Libido + 1\"{/b}{/i}"
 
 # game/script.rpy:3543 #-#-# translate crowdin loungeeveningweekend_cf4c0aae_1:
 msgid "[_RT_] {i}{b}(HINT){/b} I should go to the kitchen in the evening for family dinner.{/i}"
@@ -1682,7 +1682,7 @@ msgstr ""
 
 # game/script.rpy:3598 #-#-# translate crowdin loungeeveningweekend_64e7b164_2:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Laurens Libido + 1\"{/b}{/i}"
 
 # game/script.rpy:3608 #-#-# translate crowdin loungeeveningweekend_ec117b46:
 msgid "[_RT_] {i}I wonder If Lauren would mind if I joined her?{/i}"
@@ -1718,7 +1718,7 @@ msgstr ""
 
 # game/script.rpy:3636 #-#-# translate crowdin loungeeveningweekend_64e7b164_3:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Laurens Libido + 1\"{/b}{/i}"
 
 # game/script.rpy:3657 #-#-# translate crowdin loungenight_03188596:
 msgid "[_RT_] {i}I better not push it any further tonight.{/i}"
@@ -2494,7 +2494,7 @@ msgstr "[_L_] [ryan]?..."
 
 # game/script.rpy:4749 #-#-# translate crowdin dishes_64e7b164:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Laurens Libido + 1\"{/b}{/i}"
 
 # game/script.rpy:4753 #-#-# translate crowdin dishes_19aacb37:
 msgid "[_R_] Uhh.... yeah.... sorry. I was just looking for the remote under this couch cushion, and didn't realize I was that close to you until you backed up."
@@ -2630,7 +2630,7 @@ msgstr ""
 
 # game/script.rpy:4822 #-#-# translate crowdin dishes_64e7b164_1:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Laurens Libido + 1\"{/b}{/i}"
 
 # game/script.rpy:4839 #-#-# translate crowdin dishes_cf4c0aae_1:
 msgid "[_RT_] {i}{b}(HINT){/b} I should go to the kitchen in the evening for family dinner.{/i}"
@@ -3410,7 +3410,7 @@ msgstr ""
 
 # game/script.rpy:5294 #-#-# translate crowdin sidneyinthekitchencontinued_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidneys Libido + 1\" {/b} {/i}"
 
 # game/script.rpy:5302 #-#-# translate crowdin sidneyinthekitchencontinued_bb947539_2:
 msgid "[_RT_] {i}{b}(HINT){/b} So, if I get four hundred dollars to Sidney, she'll make Lauren a cosplay outfit. That would probably impress both Sidney and Lauren. I'll give the money to Sidney in the kitchen some evening.{/i}"
@@ -5106,7 +5106,7 @@ msgstr ""
 
 # game/script.rpy:7203 #-#-# translate crowdin sidneychanging_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidneys Libido + 1\" {/b} {/i}"
 
 # game/script.rpy:7208 #-#-# translate crowdin sidneychanging_5bd59466:
 msgid "[_RT_] {i}Holy shit, that was close, but I don't think she saw me.{/i}"
@@ -5406,7 +5406,7 @@ msgstr ""
 
 # game/script.rpy:7392 #-#-# translate crowdin sidneylaurensneakingnight_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidneys Libido + 1\" {/b} {/i}"
 
 # game/script.rpy:7394 #-#-# translate crowdin sidneylaurensneakingnight_88fdacc0:
 msgid "[_M_] Well?"
@@ -5650,7 +5650,7 @@ msgstr ""
 
 # game/script.rpy:7523 #-#-# translate crowdin sidneylaurensneakingnight_5bd31dc0_1:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Sidneys Libido + 1\" {/b} {/i}"
 
 # game/script.rpy:7525 #-#-# translate crowdin sidneylaurensneakingnight_353d424e:
 msgid "[_ST_] {i}Shit! I can't admit to this!{/i}"
