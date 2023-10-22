@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2023-09-19 18:17\n"
+"PO-Revision-Date: 2023-10-22 05:49\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScriptHalloweenEvent.rpy:256 #-#-# translate crowdin halloween_event_start_36b1bdbb:
 msgid "{i}{b}(HINT){/b} Happy Halloween!{/i}"
-msgstr ""
+msgstr "Fijne Halloween!"
 
 # game/UpdateScriptHalloweenEvent.rpy:266 #-#-# translate crowdin halloween_event_start_5c240a68:
 msgid "{b}{i}\"Happy Halloween, and welcome to \"Stranger Ventures\"!\"{/i}{/b}"
@@ -22,7 +22,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:267 #-#-# translate crowdin halloween_event_start_bea662cf:
 msgid "{b}{i}\"If you would like to skip this event, you can do so now.\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Als je dit evenement wilt overslaan, kun je dat nu doen.\"{/i}{/b}"
 
 # game/UpdateScriptHalloweenEvent.rpy:270 #-#-# translate crowdin halloween_event_start_1e33d05a:
 msgid "{b}{i}\"The Halloween special will be available in the main menu gallery to play later if you would like.\"{/i}{/b}"
@@ -202,7 +202,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:441 #-#-# translate crowdin sidney_grabbed_1ec4bff4:
 msgid "[_S_] Why is it growing?"
-msgstr ""
+msgstr "[_S_] Waarom groeit dat?"
 
 # game/UpdateScriptHalloweenEvent.rpy:442 #-#-# translate crowdin sidney_grabbed_c20775b5:
 msgid "[_S_] What's going on?"
