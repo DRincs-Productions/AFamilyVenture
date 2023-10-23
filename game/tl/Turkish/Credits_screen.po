@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-19 19:57\n"
+"PO-Revision-Date: 2023-10-23 03:32\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # §translate crowdin strings: #|#|# # game/Credits_screen.rpy:57
 msgid "                               Credits"
@@ -169,7 +169,7 @@ msgstr "Urqy"
 # game/Credits_screen.rpy:201
 msgid "\n"
 "{b}{i}$20 tier (My Family {i}SubscribeStar{/i}) (My BFF's {i}Patreon{/i}):{/i}{/b} \n"
-msgstr ""
+msgstr "{b}{i}$20 kademe (Ailem {i}SubscribeStar{/i}) (En iyi Arkadaşımın {i}Patreon{/i}):{/i}{/b} "
 
 # game/Credits_screen.rpy:203
 msgid "."
