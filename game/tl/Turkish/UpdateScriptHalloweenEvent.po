@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-20 08:01\n"
+"PO-Revision-Date: 2023-10-23 03:32\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScriptHalloweenEvent.rpy:256 #-#-# translate crowdin halloween_event_start_36b1bdbb:
 msgid "{i}{b}(HINT){/b} Happy Halloween!{/i}"
-msgstr ""
+msgstr "{i}{b}(HINT) { /b } Mutlu Cadılar Bayramı! { /i }"
 
 # game/UpdateScriptHalloweenEvent.rpy:266 #-#-# translate crowdin halloween_event_start_5c240a68:
 msgid "{b}{i}\"Happy Halloween, and welcome to \"Stranger Ventures\"!\"{/i}{/b}"
@@ -22,19 +22,19 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:267 #-#-# translate crowdin halloween_event_start_bea662cf:
 msgid "{b}{i}\"If you would like to skip this event, you can do so now.\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"bu olayı atlamak ister misiniz, şimdi yapabilirsiniz.\" { /i } { /b }"
 
 # game/UpdateScriptHalloweenEvent.rpy:270 #-#-# translate crowdin halloween_event_start_1e33d05a:
 msgid "{b}{i}\"The Halloween special will be available in the main menu gallery to play later if you would like.\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"cadılar bayramı özel, daha sonra oynamak için ana menü galerisinde mevcut olacaktır.\" { /i } { /b }"
 
 # game/UpdateScriptHalloweenEvent.rpy:278 #-#-# translate crowdin halloween_event_start_c43cc938:
 msgid "{b}{i}\"The choices you make in this event will have no consequences in the main story line of the game.\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"bu etkinlikte yaptığınız seçimler, oyunun ana hikaye çiziminde hiçbir sonuç vermeyecektir.\" { /i } { /b }"
 
 # game/UpdateScriptHalloweenEvent.rpy:279 #-#-# translate crowdin halloween_event_start_97cbda75:
 msgid "{b}{i}\"They will however make a difference in future chapters of our Halloween event.\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Ancak cadılar bayramı etkinliklerimizin gelecek fasıllarında bir fark yaratacaklar.\" { /i } { /b }"
 
 # game/UpdateScriptHalloweenEvent.rpy:280 #-#-# translate crowdin halloween_event_start_62c4ee5d:
 msgid "{b}{i}\"We hope you enjoy!\"{/i}{/b}"
@@ -86,7 +86,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:331 #-#-# translate crowdin scary_wakeup_a18b2d73:
 msgid "[_RT_] {i}I can't believe it's morning already!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Öfkeli olmadığına inanamıyorum!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:332 #-#-# translate crowdin scary_wakeup_9036761d:
 msgid "[_RT_] {i}Fuck... What was I even dreaming about?{/i}"
