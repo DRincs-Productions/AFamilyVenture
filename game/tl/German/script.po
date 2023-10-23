@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-10-21 14:31\n"
+"PO-Revision-Date: 2023-10-23 12:00\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/script.rpy:351 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -4450,7 +4450,7 @@ msgstr ""
 
 # game/script.rpy:6579 #-#-# translate crowdin laurenangryroom_9484f841:
 msgid "{i}{b}\"Lauren's Anger +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Laurens Wut + 1\"{/b}{/i}"
 
 # game/script.rpy:6586 #-#-# translate crowdin laurenangryroom_8c9e2af5:
 msgid "[_L_] You already gave me a gift. Stop being creepy!"
@@ -4458,7 +4458,7 @@ msgstr ""
 
 # game/script.rpy:6588 #-#-# translate crowdin laurenangryroom_9484f841_1:
 msgid "{i}{b}\"Lauren's Anger +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Laurens Wut + 1\"{/b}{/i}"
 
 # game/script.rpy:6594 #-#-# translate crowdin laurenangryroom_b03b3469:
 msgid "[_L_] Well, it's going to take more than just words for me to forgive you for what you did!"
