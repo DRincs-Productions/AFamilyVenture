@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-20 07:59\n"
+"PO-Revision-Date: 2023-10-23 08:01\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/Shopping_gallery.rpy:260 #-#-# translate crowdin online_shopping_d0d5deb3:
 msgid "[_RT_] {i}HardnLong.dong it's the best online shop that has the best prices, they deliver everywhere and they also accept online currency that'll help me be anonymous.{/i}"
@@ -58,11 +58,11 @@ msgstr "[_RT_] {i}Babamın deposundan almam gerekecek.{/i}"
 
 # game/Shopping_gallery.rpy:338 #-#-# translate crowdin buying_label_ee2b767d:
 msgid "[_RT_] {i}Not right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Henüz değil....{/i}"
 
 # game/Shopping_gallery.rpy:340 #-#-# translate crowdin buying_label_f2fb2328:
 msgid "[_RT_] {i}This seems like a good gift when the FBI is trying to track the money we spend.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Bu, FBI ' ın harcadığımız parayı bulmaya çalışırken iyi bir hediye gibi görünüyor. { /i }"
 
 # game/Shopping_gallery.rpy:342 #-#-# translate crowdin buying_label_b4ac69d5_1:
 msgid "You don't have enough money."
@@ -86,7 +86,7 @@ msgstr "[_RT_] {i}Babamın deposundan almam gerekecek.{/i}"
 
 # game/Shopping_gallery.rpy:356 #-#-# translate crowdin buying_label_ee2b767d_1:
 msgid "[_RT_] {i}Not right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Henüz değil....{/i}"
 
 # game/Shopping_gallery.rpy:359 #-#-# translate crowdin buying_label_b4ac69d5_2:
 msgid "You don't have enough money."
@@ -110,7 +110,7 @@ msgstr "[_RT_] {i}Babamın deposundan almam gerekecek.{/i}"
 
 # game/Shopping_gallery.rpy:373 #-#-# translate crowdin buying_label_ee2b767d_2:
 msgid "[_RT_] {i}Not right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Henüz değil....{/i}"
 
 # game/Shopping_gallery.rpy:375 #-#-# translate crowdin buying_label_62f9a4e6:
 msgid "[_RT_] {i}Ok, this is the strongest over the counter sleep aid I can buy.{/i}"
@@ -142,7 +142,7 @@ msgstr "[_RT_] {i}Ama önce gidip depodan almam lazım.{/i}"
 
 # game/Shopping_gallery.rpy:391 #-#-# translate crowdin buying_label_ee2b767d_3:
 msgid "[_RT_] {i}Not right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Henüz değil....{/i}"
 
 # game/Shopping_gallery.rpy:393 #-#-# translate crowdin buying_label_58136dd2:
 msgid "[_RT_] {i}This could come in handy for a pervert like me.{/i}"
@@ -170,7 +170,7 @@ msgstr "[_RT_] {i}İyi ki bu babamın deposuna teslim ediliyor. Eğer biri ne si
 
 # game/Shopping_gallery.rpy:414 #-#-# translate crowdin buying_label_ee2b767d_4:
 msgid "[_RT_] {i}Not right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Henüz değil....{/i}"
 
 # game/Shopping_gallery.rpy:416 #-#-# translate crowdin buying_label_ffa825ca:
 msgid "[_RT_] {i}I could make whatever background I want for my photo shoots!{/i}"
@@ -198,7 +198,7 @@ msgstr "[_RT_] {i}Harika, şimdi resimler daha kaliteli olacak ve bize daha fazl
 
 # game/Shopping_gallery.rpy:432 #-#-# translate crowdin buying_label_ee2b767d_5:
 msgid "[_RT_] {i}Not right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Henüz değil....{/i}"
 
 # game/Shopping_gallery.rpy:434 #-#-# translate crowdin buying_label_2ed0f9e6:
 msgid "[_RT_] {i}The flash on my camera just doesn't do enough.{/i}"
@@ -226,7 +226,7 @@ msgstr "[_RT_] {i}Harika, şimdi resimler daha kaliteli olacak ve bize daha fazl
 
 # game/Shopping_gallery.rpy:450 #-#-# translate crowdin buying_label_ee2b767d_6:
 msgid "[_RT_] {i}Not right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Henüz değil....{/i}"
 
 # game/Shopping_gallery.rpy:452 #-#-# translate crowdin buying_label_6c37a294:
 msgid "[_RT_] {i}This camera makes me drool!{/i}"
@@ -254,7 +254,7 @@ msgstr "[_RT_] {i}Harika, şimdi resimler daha kaliteli olacak ve bize daha fazl
 
 # game/Shopping_gallery.rpy:468 #-#-# translate crowdin buying_label_ee2b767d_7:
 msgid "[_RT_] {i}Not right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Henüz değil....{/i}"
 
 # game/Shopping_gallery.rpy:471 #-#-# translate crowdin buying_label_b4ac69d5_8:
 msgid "You don't have enough money."
@@ -278,7 +278,7 @@ msgstr "[_RT_] {i}Harika, şimdi resimler daha kaliteli olacak ve bize daha fazl
 
 # game/Shopping_gallery.rpy:485 #-#-# translate crowdin buying_label_ee2b767d_8:
 msgid "[_RT_] {i}Not right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Henüz değil....{/i}"
 
 # game/Shopping_gallery.rpy:488 #-#-# translate crowdin buying_label_b4ac69d5_9:
 msgid "You don't have enough money."
@@ -302,7 +302,7 @@ msgstr "[_RT_] {i}Harika, şimdi resimler daha kaliteli olacak ve bize daha fazl
 
 # game/Shopping_gallery.rpy:502 #-#-# translate crowdin buying_label_ee2b767d_9:
 msgid "[_RT_] {i}Not right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Henüz değil....{/i}"
 
 # game/Shopping_gallery.rpy:505 #-#-# translate crowdin buying_label_b4ac69d5_10:
 msgid "You don't have enough money."
@@ -326,7 +326,7 @@ msgstr "[_RT_] {i}Harika, şimdi resimler daha kaliteli olacak ve bize daha fazl
 
 # game/Shopping_gallery.rpy:519 #-#-# translate crowdin buying_label_ee2b767d_10:
 msgid "[_RT_] {i}Not right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Henüz değil....{/i}"
 
 # game/Shopping_gallery.rpy:522 #-#-# translate crowdin buying_label_b4ac69d5_11:
 msgid "You don't have enough money."
@@ -350,7 +350,7 @@ msgstr "[_RT_] {i}Harika, şimdi resimler daha kaliteli olacak ve bize daha fazl
 
 # game/Shopping_gallery.rpy:536 #-#-# translate crowdin buying_label_ee2b767d_11:
 msgid "[_RT_] {i}Not right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Henüz değil....{/i}"
 
 # game/Shopping_gallery.rpy:539 #-#-# translate crowdin buying_label_b4ac69d5_12:
 msgid "You don't have enough money."
@@ -374,7 +374,7 @@ msgstr "[_RT_] {i}Harika, şimdi resimler daha kaliteli olacak ve bize daha fazl
 
 # game/Shopping_gallery.rpy:553 #-#-# translate crowdin buying_label_ee2b767d_12:
 msgid "[_RT_] {i}Not right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Henüz değil....{/i}"
 
 # game/Shopping_gallery.rpy:556 #-#-# translate crowdin buying_label_b4ac69d5_13:
 msgid "You don't have enough money."
@@ -398,7 +398,7 @@ msgstr "[_RT_] {i}Harika, şimdi bu mikrofonla daha fazla para kazanmak için vi
 
 # game/Shopping_gallery.rpy:570 #-#-# translate crowdin buying_label_ee2b767d_13:
 msgid "[_RT_] {i}Not right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Henüz değil....{/i}"
 
 # game/Shopping_gallery.rpy:573 #-#-# translate crowdin buying_label_b4ac69d5_14:
 msgid "You don't have enough money."
@@ -422,7 +422,7 @@ msgstr "[_RT_] {i}Harika, şimdi video kalitesi daha iyi olacak ve bize daha faz
 
 # game/Shopping_gallery.rpy:587 #-#-# translate crowdin buying_label_ee2b767d_14:
 msgid "[_RT_] {i}Not right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Henüz değil....{/i}"
 
 # game/Shopping_gallery.rpy:590 #-#-# translate crowdin buying_label_b4ac69d5_15:
 msgid "You don't have enough money."
@@ -446,7 +446,7 @@ msgstr "[_RT_] {i}Harika, şimdi video kalitesi daha iyi olacak ve bize daha faz
 
 # game/Shopping_gallery.rpy:604 #-#-# translate crowdin buying_label_ee2b767d_15:
 msgid "[_RT_] {i}Not right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Henüz değil....{/i}"
 
 # game/Shopping_gallery.rpy:606 #-#-# translate crowdin buying_label_ce229c09:
 msgid "[_RT_] {i}Mmmmm... I can imagine all the girls in this... But I think it would look best on Mom.{/i}"
@@ -474,7 +474,7 @@ msgstr "[_RT_] {i}Vay canına! Çok pahalı ama annem kulüp havuzunda sadece en
 
 # game/Shopping_gallery.rpy:622 #-#-# translate crowdin buying_label_ee2b767d_16:
 msgid "[_RT_] {i}Not right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Henüz değil....{/i}"
 
 # game/Shopping_gallery.rpy:625 #-#-# translate crowdin buying_label_b4ac69d5_17:
 msgid "You don't have enough money."
@@ -498,19 +498,19 @@ msgstr "Ağız topu aldın."
 
 # game/Shopping_gallery.rpy:641 #-#-# translate crowdin buying_label_a3a66a09:
 msgid "[_RT_] {i}I don't know what I'm going to use this for, but it never hurts to have a ball gag on hand. I'd better go to Dad's warehouse to pick it up.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Bunu ne için kullanacağımı bilmiyorum, ama hiç bir zaman bir top şakası yapmak acıtmaz. Onu almak için babamın deposuna gitsem iyi olur."
 
 # game/Shopping_gallery.rpy:643 #-#-# translate crowdin buying_label_ee2b767d_17:
 msgid "[_RT_] {i}Not right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Henüz değil....{/i}"
 
 # game/Shopping_gallery.rpy:645 #-#-# translate crowdin buying_label_6b949452:
 msgid "[_RT_] {i}Here we go... Perry Hotter and the Sorceror's Bone.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Perry Hotter ve Büyücünün Kemiği...{/i}"
 
 # game/Shopping_gallery.rpy:646 #-#-# translate crowdin buying_label_24f0c0f3:
 msgid "[_RT_] {i}One hundred and fifty dollars! Holy fuck! I should have just read them when everyone else was reading them. I guess my only option is this hardback collector's edition.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Bir yüz elli dolar! Lanet olsun! Herkes okuduğu zaman onları okumam gerekirdi. Sanırım benim tek seçeneğim, bu hardback koleksiyoncu baskısı."
 
 # game/Shopping_gallery.rpy:648 #-#-# translate crowdin buying_label_b4ac69d5_18:
 msgid "You don't have enough money."
@@ -538,15 +538,15 @@ msgstr "[_RT_] {i}Bu kitap abartıldığı kadar iyi olsa iyi olur!{/i}"
 
 # game/Shopping_gallery.rpy:666 #-#-# translate crowdin buying_label_ee2b767d_18:
 msgid "[_RT_] {i}Not right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Henüz değil....{/i}"
 
 # game/Shopping_gallery.rpy:668 #-#-# translate crowdin buying_label_3c0453c7:
 msgid "[_RT_] {i}Here we go... Perry Hotter and her chambers of Secrets. Am I the only one who think's these titles are questionably sexual?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}İşte gidiyoruz. Perry Sports ve Secrets 'in odaları. Bu unvanların cinsel olarak cinsel bir şey olduğunu düşünen tek kişi ben miyim?"
 
 # game/Shopping_gallery.rpy:669 #-#-# translate crowdin buying_label_2b18cc45:
 msgid "[_RT_] {i}Goddammit! Looks like my only option is the hardback collector's edition for this book too.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Lanet olsun! Görünüşe göre benim tek seçeneğim bu kitap için hardback koleksiyoncusu."
 
 # game/Shopping_gallery.rpy:671 #-#-# translate crowdin buying_label_b4ac69d5_19:
 msgid "You don't have enough money."
@@ -574,15 +574,15 @@ msgstr "[_RT_] {i}En azından ilk kitap biraz eğlenceliydi... Belki bu da o kad
 
 # game/Shopping_gallery.rpy:689 #-#-# translate crowdin buying_label_ee2b767d_19:
 msgid "[_RT_] {i}Not right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Henüz değil....{/i}"
 
 # game/Shopping_gallery.rpy:691 #-#-# translate crowdin buying_label_b0c31640:
 msgid "[_RT_] {i}Alrigh... Perry Hotter and the prisoner of Moldevorts Dungeon. Oh come on... Even the cover is overtly sexual.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Alrigh ... Perry Spier ve Moldevorts Dungeon 'un esiri. Hadi ama ... Kapak bile aşırı derecede cinsel. { /i }"
 
 # game/Shopping_gallery.rpy:692 #-#-# translate crowdin buying_label_177f6c0f:
 msgid "[_RT_] {i}Of course! Another collector's edition. I guess third times the charm.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Tabi ki! Başka bir koleksiyoncu basımı. Sanırım 3. kat cazibesi."
 
 # game/Shopping_gallery.rpy:694 #-#-# translate crowdin buying_label_b4ac69d5_20:
 msgid "You don't have enough money."
@@ -610,7 +610,7 @@ msgstr "[_RT_] {i}Bu hikayeleri sevdiğimi kimseye itiraf edemem.{/i}"
 
 # game/Shopping_gallery.rpy:712 #-#-# translate crowdin buying_label_ee2b767d_20:
 msgid "[_RT_] {i}Not right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Henüz değil....{/i}"
 
 # game/Shopping_gallery.rpy:715 #-#-# translate crowdin buying_label_b4ac69d5_21:
 msgid "You don't have enough money."
@@ -626,7 +626,7 @@ msgstr "Zaten yeterince var."
 
 # game/Shopping_gallery.rpy:726 #-#-# translate crowdin buying_label_2abc7078:
 msgid "You bought one bottle of wine."
-msgstr ""
+msgstr "Bir buket çiçek aldın."
 
 # game/Shopping_gallery.rpy:727 #-#-# translate crowdin buying_label_42292d87_3:
 msgid "[_RT_] {i}I'll need to pick it up at Dad's warehouse.{/i}"
@@ -634,7 +634,7 @@ msgstr "[_RT_] {i}Babamın deposundan almam gerekecek.{/i}"
 
 # game/Shopping_gallery.rpy:729 #-#-# translate crowdin buying_label_ee2b767d_21:
 msgid "[_RT_] {i}Not right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Henüz değil....{/i}"
 
 # §translate crowdin strings: #|#|# # game/Shopping_gallery.rpy:331
 msgid "Buy chocolate"
@@ -702,5 +702,5 @@ msgstr "Perry Hotter serisinin 3. kitabını satın alın."
 
 # game/Shopping_gallery.rpy:722
 msgid "Buy Wine"
-msgstr ""
+msgstr "Şarap Satın."
 
