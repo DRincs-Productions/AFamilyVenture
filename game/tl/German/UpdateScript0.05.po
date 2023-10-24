@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-10-21 13:29\n"
+"PO-Revision-Date: 2023-10-24 07:49\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScript0.05.rpy:476 #-#-# translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -198,7 +198,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:599 #-#-# translate crowdin fix_bulb_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mamas Zuneigung + 1\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:603 #-#-# translate crowdin fix_bulb_70623939:
 msgid "[_M_] Alright, well, we still need to stay right here in the lounge."
@@ -446,7 +446,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:705 #-#-# translate crowdin fix_bulb_f4c5fa30_1:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mamas Zuneigung + 1\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:709 #-#-# translate crowdin fix_bulb_6580be01:
 msgid "[_M_] Alright, well let's start out right here in the lounge."
@@ -3382,7 +3382,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2093 #-#-# translate crowdin tv_together_dcdec28a:
 msgid "{i}{b}\"Mom's Anger +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mamas Wut + 1\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:2095 #-#-# translate crowdin tv_together_ba74cc91:
 msgid "[_R_] Ok.... sorry Mom, I'll just run grab a towel from the kitchen then."
@@ -4042,7 +4042,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2393 #-#-# translate crowdin tv_together_c00662a5:
 msgid "{i}{b}\"Lauren's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Laurens Respekt +1\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:2396 #-#-# translate crowdin tv_together_e08c7d89:
 msgid "[_R_] That shouldn't concern you! Sidney doesn't ever look up from her computer when she's working."
@@ -4066,7 +4066,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2401 #-#-# translate crowdin tv_together_c335f1dc:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Laurens Unterwerfung + 1\" {/b} {/i}"
 
 # game/UpdateScript0.05.rpy:2403 #-#-# translate crowdin tv_together_444ae30c:
 msgid "[_L_] Ok.... I trust you."
@@ -6082,7 +6082,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3466 #-#-# translate crowdin fix_sink_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mamas Zuneigung + 1\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:3469 #-#-# translate crowdin fix_sink_8c1d690b:
 msgid "[_M_] And I appreciate your kind words, I just need to stop you before it gets too weird."
@@ -6398,7 +6398,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3601 #-#-# translate crowdin fix_sink_f4c5fa30_1:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mamas Zuneigung + 1\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:3603 #-#-# translate crowdin fix_sink_7be0a053:
 msgid "[_M_] Well, be that as it may, I think it's time to call it a day. Thanks for your help today!"
