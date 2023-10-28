@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-10-09 19:27\n"
+"PO-Revision-Date: 2023-10-28 13:49\n"
 
-# TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScript0.02.rpy:10 #-#-# translate crowdin cosplaywakeme_8a3aa425:
+# TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/UpdateScript0.02.rpy:10 #-#-# translate crowdin cosplaywakeme_8a3aa425:
 msgid "[_L_] See, it's like this almost every morning."
 msgstr "[_L_] Regarde, c'est comme ça presque tous les matins."
 
@@ -1344,9 +1344,9 @@ msgstr "[_R_] Je ne sais pas, je vais y réfléchir."
 msgid "[_S_] Whatever!"
 msgstr "[_S_] Peu importe!"
 
-# game/UpdateScript0.02.rpy:759 #-#-# translate crowdin sidneysleepswithryan_ba9243ea:
-msgid "[_S_] Oh, and honey?"
-msgstr "[_S_] Oh, et chéri?"
+# game/UpdateScript0.02.rpy:759 #-#-# translate crowdin sidneysleepswithryan_55aee143:
+msgid "[_S_] Oh, and [ryan]?"
+msgstr ""
 
 # game/UpdateScript0.02.rpy:760 #-#-# translate crowdin sidneysleepswithryan_95428694:
 msgid "[_R_] Yeah?"
@@ -2372,9 +2372,9 @@ msgstr "[_RT_] {i}J'ai encore beaucoup de travail devant moi.{/i}"
 msgid "[_RT_] {i}Oh!.... I think she's about there!{/i}"
 msgstr "[_RT_] {i}Oh!.... Je crois qu'elle est là !{/i}"
 
-# game/UpdateScript0.02.rpy:1479 #-#-# translate crowdin momfingerselfbathcontinued_caf9963f:
-msgid "[_RT_] {i}Holy shit!.... If her spray range gets much bigger, she's going to ruin my camara!{/i}"
-msgstr "[_RT_] {i}Merde!.... Si sa portée de pulvérisation devient beaucoup plus grande, elle va ruiner ma camara!{/i}"
+# game/UpdateScript0.02.rpy:1479 #-#-# translate crowdin momfingerselfbathcontinued_276197ea:
+msgid "[_RT_] {i}Holy shit!.... If her spray range gets much bigger, she's going to ruin my camera!{/i}"
+msgstr ""
 
 # game/UpdateScript0.02.rpy:1480 #-#-# translate crowdin momfingerselfbathcontinued_69e5f1f9:
 msgid "[_RT_] {i}And I don't think I can send her the bill for a replacement.{/i}"
