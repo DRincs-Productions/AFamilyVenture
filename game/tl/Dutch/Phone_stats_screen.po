@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2023-09-19 18:16\n"
+"PO-Revision-Date: 2023-10-28 13:49\n"
 
-# TODO: Translation updated at 2023-06-26 18:52 #|#|# # §translate crowdin strings: #|#|# # game/Phone_stats_screen.rpy:70
+# TODO: Translation updated at 2023-10-28 15:07 #|#|# # §translate crowdin strings: #|#|# # game/Phone_stats_screen.rpy:70
 msgid "Girls stats"
 msgstr ""
 
@@ -154,6 +154,10 @@ msgstr ""
 
 # game/Phone_stats_screen.rpy:198
 msgid "{image=iconR} {color=#0000CC} By [ryan]:{/color}"
+msgstr ""
+
+# game/Phone_stats_screen.rpy:200
+msgid "{image=iconM}{color=#42f456} in Mom..............[mom_cum_loads_counter]{/color}"
 msgstr ""
 
 # game/Phone_stats_screen.rpy:201
