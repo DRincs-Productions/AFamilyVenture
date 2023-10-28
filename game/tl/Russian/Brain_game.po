@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: a-family-venture\n"
+"X-Crowdin-Project-ID: 492487\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /main/game/tl/crowdin/Brain_game.po\n"
+"X-Crowdin-File-ID: 7599\n"
+"Project-Id-Version: a-family-venture\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"PO-Revision-Date: 2023-10-28 15:39\n"
+
+# TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/Brain_game.rpy:601 #-#-# translate crowdin map_location_e011db0e:
+msgid "[_RT_] {i}School has ended, I must return home.{/i}"
+msgstr ""
+
+# game/Brain_game.rpy:609 #-#-# translate crowdin map_location_e011db0e_1:
+msgid "[_RT_] {i}School has ended, I must return home.{/i}"
+msgstr ""
+
+# game/Brain_game.rpy:615 #-#-# translate crowdin map_location_e011db0e_2:
+msgid "[_RT_] {i}School has ended, I must return home.{/i}"
+msgstr ""
+
+# game/Brain_game.rpy:621 #-#-# translate crowdin map_location_e011db0e_3:
+msgid "[_RT_] {i}School has ended, I must return home.{/i}"
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/Brain_game.rpy:497
+msgid "You lose!"
+msgstr ""
+
+# game/Brain_game.rpy:519
+msgid "YOU WON!!!"
+msgstr ""
+
