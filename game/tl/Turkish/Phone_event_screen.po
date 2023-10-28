@@ -10,1173 +10,1205 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-10-23 08:01\n"
+"PO-Revision-Date: 2023-10-28 13:47\n"
 
-# TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/Phone_event_screen.rpy:1114 #-#-# translate crowdin event_info_02_5cb3efa8:
+# TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/Phone_event_screen.rpy:1132 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
 msgstr "[_RT_] {i}Hatırlamak için önce aile portresine gitmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1116 #-#-# translate crowdin event_info_02_f0ec2643:
+# game/Phone_event_screen.rpy:1134 #-#-# translate crowdin event_info_02_f0ec2643:
 msgid "[_RT_] {i}I need to go talk to Uncle Bobby at the warehouse. I can get there by looking at the city map.{/i}"
 msgstr "[_RT_] {i}Depodaki Bobby Amca'yla konuşmam gerek. Şehir haritasına bakarak oraya ulaşabilirim.{/i}"
 
-# game/Phone_event_screen.rpy:1120 #-#-# translate crowdin event_info_03_eeb2658d:
+# game/Phone_event_screen.rpy:1138 #-#-# translate crowdin event_info_03_eeb2658d:
 msgid "[_RT_] {i}I need to go to my house and talk to Mom about what Uncle Bobby told me. She should be in the kitchen.{/i}"
 msgstr "[_RT_] {i}Evime gidip Bobby Amca'nın bana söyledikleri hakkında annemle konuşmam gerekiyor. Mutfakta olmalı.{/i}"
 
-# game/Phone_event_screen.rpy:1124 #-#-# translate crowdin event_info_04_f695f2ca:
+# game/Phone_event_screen.rpy:1142 #-#-# translate crowdin event_info_04_f695f2ca:
 msgid "[_RT_] {i}I think Mom's probably pretty shook up after what happened at the club. I should go check on her in her room.{/i}"
 msgstr "[_RT_] {i}Sanırım annem kulüpte olanlardan sonra oldukça sarsılmıştır. Gidip onu odasında kontrol etmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1128 #-#-# translate crowdin event_info_05_9f6b4bbd:
+# game/Phone_event_screen.rpy:1146 #-#-# translate crowdin event_info_05_9f6b4bbd:
 msgid "[_RT_] {i}Lauren likes to hang out in the living room in the evenings. Maybe I should go see her.{/i}"
 msgstr "[_RT_] {i}Lauren akşamları oturma odasında takılmayı seviyor. Belki de gidip onu görmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1132 #-#-# translate crowdin event_info_06_b69019fb:
+# game/Phone_event_screen.rpy:1150 #-#-# translate crowdin event_info_06_b69019fb:
 msgid "[_RT_] {i}I should go to the kitchen in the evening for family dinner.{/i}"
 msgstr "[_RT_] {i}Akşam aile yemeği için mutfağa gitmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1137 #-#-# translate crowdin event_info_07_5fd67134:
+# game/Phone_event_screen.rpy:1155 #-#-# translate crowdin event_info_07_5fd67134:
 msgid "[_RT_] {i}I need to visit the first stall in the school bathroom in the afternoon.{/i}"
 msgstr "[_RT_] {i}Öğleden sonra okul tuvaletindeki ilk kabini ziyaret etmem gerekiyor.{/i}"
 
-# game/Phone_event_screen.rpy:1140 #-#-# translate crowdin event_info_07_03a348f0:
+# game/Phone_event_screen.rpy:1158 #-#-# translate crowdin event_info_07_03a348f0:
 msgid "[_RT_] {i}I know I missed out on something amazing by not accepting Matt's help to seduce my Mom... I feel pretty good about my choice though.{/i}"
 msgstr "[_RT_] {i}Annemi baştan çıkarmak için Matt'in yardımını kabul etmeyerek harika bir şeyi kaçırdığımı biliyorum... Yine de seçimim hakkında oldukça iyi hissediyorum.{/i}"
 
-# game/Phone_event_screen.rpy:1141 #-#-# translate crowdin event_info_07_41732efc:
+# game/Phone_event_screen.rpy:1159 #-#-# translate crowdin event_info_07_41732efc:
 msgid "[_RT_] {i}I really believe that I'll get something just as good, if not better. I'll just have to be very patient until then.{/i}"
 msgstr "[_RT_] {i}Daha iyisi olmasa bile en az onun kadar iyi bir şey alacağıma gerçekten inanıyorum. Sadece o zamana kadar çok sabırlı olmam gerekecek.{/i}"
 
-# game/Phone_event_screen.rpy:1143 #-#-# translate crowdin event_info_07_5a98029a:
+# game/Phone_event_screen.rpy:1161 #-#-# translate crowdin event_info_07_5a98029a:
 msgid "[_RT_] {i}I should go to school and hang out in the hallway in the late morning.{/i}"
 msgstr "[_RT_] {i}Okula gidip sabahın geç saatlerinde koridorda takılmalıyım.{/i}"
 
-# game/Phone_event_screen.rpy:1147 #-#-# translate crowdin event_info_08_fb2fbedc:
+# game/Phone_event_screen.rpy:1165 #-#-# translate crowdin event_info_08_fb2fbedc:
 msgid "[_RT_] {i}Mom works really hard all week. I should help her with jobs around the house on weekend mornings. She usually starts cleaning in the lounge.{/i}"
 msgstr "[_RT_] {i}Annem bütün hafta çok çalışıyor. Hafta sonu sabahları ev işlerinde ona yardım etmeliyim. Temizliğe genellikle salonda başlar.{/i}"
 
-# game/Phone_event_screen.rpy:1152 #-#-# translate crowdin event_info_09_48bf4440:
+# game/Phone_event_screen.rpy:1170 #-#-# translate crowdin event_info_09_48bf4440:
 msgid "[_RT_] {i}I need to sneak into Lauren's room at night and see if I can use subliminal messages on the girls.{/i}"
 msgstr "[_RT_] {i}Geceleri Lauren'in odasına gizlice girip kızlar üzerinde bilinçaltı mesajlar kullanıp kullanamayacağıma bakmalıyım.{/i}"
 
-# game/Phone_event_screen.rpy:1155 #-#-# translate crowdin event_info_09_08349636:
+# game/Phone_event_screen.rpy:1173 #-#-# translate crowdin event_info_09_08349636:
 msgid "[_RT_] {i}Sidney sleeps too light... How can I get her to sleep deeper? I've heard melatonin can help people sleep much deeper. I wonder if I can buy some online?{/i}"
 msgstr "[_RT_] {i}Sidney çok hafif uyuyor. Daha derin uyumasını nasıl sağlayabilirim? Melatoninin insanların daha derin uyumasına yardımcı olduğunu duymuştum. Acaba internetten alabilir miyim?{/i}"
 
-# game/Phone_event_screen.rpy:1158 #-#-# translate crowdin event_info_09_633d14db:
+# game/Phone_event_screen.rpy:1176 #-#-# translate crowdin event_info_09_633d14db:
 msgid "[_RT_] {i}I've got the melatonin, now I've got to figure how to get the girls to take it. I should head to the kitchen for inspiration.{/i}"
 msgstr "[_RT_] {i}Melatonini aldım, şimdi kızlara nasıl içireceğimi bulmalıyım. İlham almak için mutfağa gitmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1160 #-#-# translate crowdin event_info_09_40c65cba:
+# game/Phone_event_screen.rpy:1178 #-#-# translate crowdin event_info_09_40c65cba:
 msgid "[_RT_] {i}The girls should be sleeping deeper at night. I should go pay them another visit.{/i}"
 msgstr "[_RT_] {i}Kızlar geceleri daha derin uyuyor olmalılar. Onları bir kez daha ziyaret etmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1163 #-#-# translate crowdin event_info_09_fb75c678:
+# game/Phone_event_screen.rpy:1181 #-#-# translate crowdin event_info_09_fb75c678:
 msgid "[_RT_] {i}I need to keep sneaking into the girls room at night until I complete this event.{/i}"
 msgstr "[_RT_] {i}Bu etkinliği tamamlayana kadar geceleri kızların odasına gizlice girmeye devam etmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1168 #-#-# translate crowdin event_info_10_915299f0:
+# game/Phone_event_screen.rpy:1186 #-#-# translate crowdin event_info_10_915299f0:
 msgid "[_RT_] {i}I was able to get Sidney out of Lauren's room and now she's sleeping in the lounge, I'll bet a really good scare at night would get her into my bed.{/i}"
 msgstr "[_RT_] {i}Sidney'i Lauren'in odasından çıkarmayı başardım ve şimdi salonda uyuyor, bahse girerim geceleri gerçekten iyi bir korkutma onu yatağıma getirecektir.{/i}"
 
-# game/Phone_event_screen.rpy:1171 #-#-# translate crowdin event_info_10_a396cd0e:
+# game/Phone_event_screen.rpy:1189 #-#-# translate crowdin event_info_10_a396cd0e:
 msgid "[_RT_] {i}Sidney's started running every weekday morning. I've been getting out of shape, maybe I should join her.{/i}"
 msgstr "[_RT_] {i}Sidney hafta içi her sabah koşmaya başladı. Formumu kaybetmeye başladım, belki ben de ona katılmalıyım.{/i}"
 
-# game/Phone_event_screen.rpy:1174 #-#-# translate crowdin event_info_10_026b4497:
+# game/Phone_event_screen.rpy:1192 #-#-# translate crowdin event_info_10_026b4497:
 msgid "[_RT_] {i}I should keep running with Sidney during the early morning to complete this event.{/i}"
 msgstr "[_RT_] {i}Bu etkinliği tamamlamak için sabahın erken saatlerinde Sidney ile koşmaya devam etmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1179 #-#-# translate crowdin event_info_11_7417fa25:
+# game/Phone_event_screen.rpy:1197 #-#-# translate crowdin event_info_11_7417fa25:
 msgid "[_RT_] {i}So, if I get four hundred dollars to Sidney, she'll make Lauren a cosplay outfit. That would probably impress both Sidney and Lauren. I'll give the money to Sidney in the kitchen some evening.{/i}"
 msgstr "[_RT_] {i}Eğer Sidney'e 400 dolar verirsem, Lauren'a bir cosplay kıyafeti dikecek. Bu muhtemelen hem Sidney'i hem de Lauren'ı etkileyecektir. Parayı bir akşam mutfakta Sidney'e vereceğim.{/i}"
 
-# game/Phone_event_screen.rpy:1182 #-#-# translate crowdin event_info_11_9e99a5a5:
+# game/Phone_event_screen.rpy:1200 #-#-# translate crowdin event_info_11_9e99a5a5:
 msgid "[_RT_] {i}I should keep visiting the kitchen in the evening until Sidney is done with the cosplay costumes.{/i}"
 msgstr "[_RT_] {i}Sidney cosplay kostümlerini bitirene kadar akşamları mutfağa uğramaya devam etmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1185 #-#-# translate crowdin event_info_11_a6b9a8e8:
+# game/Phone_event_screen.rpy:1203 #-#-# translate crowdin event_info_11_a6b9a8e8:
 msgid "[_RT_] {i}I can't wait to hear how the Cosplay Convention went. I should go to sleep and maybe I'll be able to talk to Lauren and Cousin Mandy in the morning.{/i}"
 msgstr "[_RT_] {i}Cosplay Kongresi'nin nasıl geçtiğini duymak için sabırsızlanıyorum. Uyumalıyım, belki sabah Lauren ve Kuzen Mandy ile konuşabilirim.{/i}"
 
-# game/Phone_event_screen.rpy:1189 #-#-# translate crowdin event_info_12_381ffe70:
+# game/Phone_event_screen.rpy:1207 #-#-# translate crowdin event_info_12_381ffe70:
 msgid "[_RT_] {i}I need to find and hide Mom's bathrobe. The most likely spot would be in her room.{/i}"
 msgstr "[_RT_] {i}Annemin bornozunu bulup saklamam gerekiyor. En olası yer onun odası.{/i}"
 
-# game/Phone_event_screen.rpy:1190 #-#-# translate crowdin event_info_12_7303ae7a:
+# game/Phone_event_screen.rpy:1208 #-#-# translate crowdin event_info_12_7303ae7a:
 msgid "[_RT_] {i}She always wears her robe to breakfast... I wonder what she would wear if it were to dissapear?{/i}"
 msgstr "[_RT_] {i}Kahvaltıda her zaman bornozunu giyer. Kaybolursa ne giyer acaba?{/i}"
 
-# game/Phone_event_screen.rpy:1194 #-#-# translate crowdin event_info_13_3970b819:
+# game/Phone_event_screen.rpy:1212 #-#-# translate crowdin event_info_13_3970b819:
 msgid "[_RT_] {i}I've still got this overwhelming lust for Mom!... Winning her over is taking too long... I should keep sneaking into her room at night to scratch my lustful itch.{/i}"
 msgstr "[_RT_] {i}Hala anneme karşı büyük bir şehvet duyuyorum! Onu kazanmak çok uzun sürüyor. Şehvetli kaşıntımı kaşımak için geceleri odasına gizlice girmeye devam etmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1198 #-#-# translate crowdin event_info_14_dfaf6f5f:
+# game/Phone_event_screen.rpy:1216 #-#-# translate crowdin event_info_14_dfaf6f5f:
 msgid "[_RT_] {i}I need to satisfy some urges tonight... I should keep sneaking into Lauren's room and take full advantage of the melatonin tea.{/i}"
 msgstr "[_RT_] {i}Bu gece bazı dürtülerimi tatmin etmem gerekiyor. Lauren'ın odasına gizlice girip melatonin çayından faydalanmaya devam etmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1203 #-#-# translate crowdin event_info_15_38b0743a:
+# game/Phone_event_screen.rpy:1221 #-#-# translate crowdin event_info_15_38b0743a:
 msgid "[_RT_] {i}Shelling out one thousand dollars a week is not easy... I wonder how Mom would do if I just let her keep working off the debt at the strip club?{/i}"
 msgstr "[_RT_] {i}Haftada bin dolar ödemek kolay değil. Annemin striptiz kulübünde çalışarak borcunu kapatmasına izin versem ne yapardı acaba?{/i}"
 
-# game/Phone_event_screen.rpy:1204 #-#-# translate crowdin event_info_15_6ca9791a:
+# game/Phone_event_screen.rpy:1222 #-#-# translate crowdin event_info_15_6ca9791a:
 msgid "[_RT_] {i}I guess the only way to find out, is to let her do it. I should go and check on her after a few times to make sure she's doing alright though.{/i}"
 msgstr "[_RT_] {i}Sanırım bunu öğrenmenin tek yolu onun yapmasına izin vermek. Yine de iyi olduğundan emin olmak için birkaç kez gidip onu kontrol etmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1207 #-#-# translate crowdin event_info_15_5f29faef:
+# game/Phone_event_screen.rpy:1225 #-#-# translate crowdin event_info_15_5f29faef:
 msgid "[_RT_] {i}When Mom goes to the club, I need to go check on her to see how she's doing.{/i}"
 msgstr "[_RT_] {i}Annem kulübe gittiğinde, nasıl olduğunu görmek için onu kontrol etmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1212 #-#-# translate crowdin event_info_16_9ad81116:
+# game/Phone_event_screen.rpy:1230 #-#-# translate crowdin event_info_16_9ad81116:
 msgid "[_RT_] {i}I need to get Mom to loosen up a little more. Maybe I can corrupt her with our Oedipus assignment at school.{/i}"
 msgstr "[_RT_] {i}Annemin biraz daha gevşemesini sağlamalıyım. Belki onu okuldaki Oedipus ödevimizle bozabilirim.{/i}"
 
-# game/Phone_event_screen.rpy:1215 #-#-# translate crowdin event_info_16_fb2fbedc:
+# game/Phone_event_screen.rpy:1233 #-#-# translate crowdin event_info_16_fb2fbedc:
 msgid "[_RT_] {i}Mom works really hard all week. I should help her with jobs around the house on weekend mornings. She usually starts cleaning in the lounge.{/i}"
 msgstr "[_RT_] {i}Annem bütün hafta çok çalışıyor. Hafta sonu sabahları ev işlerinde ona yardım etmeliyim. Temizliğe genellikle salonda başlar.{/i}"
 
-# game/Phone_event_screen.rpy:1220 #-#-# translate crowdin event_info_17_18b1dcc5:
+# game/Phone_event_screen.rpy:1238 #-#-# translate crowdin event_info_17_18b1dcc5:
 msgid "[_RT_] {i}I've got the spy-cam... now I need to install it in the bathroom.{/i}"
 msgstr "[_RT_] {i}Casus kamerayı aldım... şimdi onu banyoya kurmam gerekiyor. {/i}"
 
-# game/Phone_event_screen.rpy:1223 #-#-# translate crowdin event_info_17_f9a76d81:
+# game/Phone_event_screen.rpy:1241 #-#-# translate crowdin event_info_17_f9a76d81:
 msgid "[_RT_] {i}I should see if I can buy a spy-cam online and place it in the bathroom when no one is around.{/i}"
 msgstr "[_RT_] {i}İnternetten bir casus kamera alıp etrafta kimse yokken banyoya yerleştirebilir miyim diye bakmalıyım.{/i}"
 
-# game/Phone_event_screen.rpy:1226 #-#-# translate crowdin event_info_17_5f3dd9c0:
+# game/Phone_event_screen.rpy:1244 #-#-# translate crowdin event_info_17_5f3dd9c0:
 msgid "[_RT_] {i}I've placed the spycam in the bathroom. Now I just need to catch Mom in there when her libido is at it's highest (10 pts).{/i}"
 msgstr "[_RT_] {i}Spycam'i banyoya yerleştirdim. Şimdi tek yapmam gereken annemi libidosunun en yüksek olduğu anda yakalamak (10 puan).{/i}"
 
-# game/Phone_event_screen.rpy:1231 #-#-# translate crowdin event_info_18_eff61365:
+# game/Phone_event_screen.rpy:1249 #-#-# translate crowdin event_info_18_eff61365:
 msgid "[_RT_] {i}I've got the spy-cam... now I need to install it in Mom's room.{/i}"
 msgstr "[_RT_] {i}Casus kamerayı aldım... şimdi onu annemin odasına kurmam gerekiyor. {/i}"
 
-# game/Phone_event_screen.rpy:1234 #-#-# translate crowdin event_info_18_f693ae09:
+# game/Phone_event_screen.rpy:1252 #-#-# translate crowdin event_info_18_f693ae09:
 msgid "[_RT_] {i}I need to buy a spy-cam and place it in Mom's bedroom when no one is around.{/i}"
 msgstr "[_RT_] {i}Bir casusluk kamerası almam ve kimse yokken annemin yatak odasına yerleştirmem gerekiyor.{/i}"
 
-# game/Phone_event_screen.rpy:1237 #-#-# translate crowdin event_info_18_2cff7759:
+# game/Phone_event_screen.rpy:1255 #-#-# translate crowdin event_info_18_2cff7759:
 msgid "[_RT_] {i}I've placed the spycam in Mom's bedroom. Now I just need to catch Mom in there when her libido is at it's highest (10 pts).{/i}"
 msgstr "[_RT_] {i}Casus kamerayı annemin yatak odasına yerleştirdim. Şimdi tek yapmam gereken annemi libidosunun en yüksek olduğu anda yakalamak (10 puan).{/i}"
 
-# game/Phone_event_screen.rpy:1242 #-#-# translate crowdin event_info_19_18b1dcc5:
+# game/Phone_event_screen.rpy:1260 #-#-# translate crowdin event_info_19_18b1dcc5:
 msgid "[_RT_] {i}I've got the spy-cam... now I need to install it in the bathroom.{/i}"
 msgstr "[_RT_] {i}Casus kamerayı aldım... şimdi onu banyoya kurmam gerekiyor. {/i}"
 
-# game/Phone_event_screen.rpy:1245 #-#-# translate crowdin event_info_19_c5e375e6:
+# game/Phone_event_screen.rpy:1263 #-#-# translate crowdin event_info_19_c5e375e6:
 msgid "[_RT_] {i}I need to buy a spy-cam and place it in the bathroom when no one is around.{/i}"
 msgstr "[_RT_] {i}Bir casusluk kamerası almam ve etrafta kimse yokken banyoya yerleştirmem gerekiyor.{/i}"
 
-# game/Phone_event_screen.rpy:1248 #-#-# translate crowdin event_info_19_4b775fb3:
+# game/Phone_event_screen.rpy:1266 #-#-# translate crowdin event_info_19_4b775fb3:
 msgid "[_RT_] {i}I've placed the spycam in the bathroom. Now I just need to catch Lauren in there when her libido is at it's highest (10 pts).{/i}"
 msgstr "[_RT_] {i}Spycam'i banyoya yerleştirdim. Şimdi tek yapmam gereken Lauren'ı libidosunun en yüksek olduğu anda yakalamak (10 puan).{/i}"
 
-# game/Phone_event_screen.rpy:1253 #-#-# translate crowdin event_info_20_3f653d21:
+# game/Phone_event_screen.rpy:1271 #-#-# translate crowdin event_info_20_3f653d21:
 msgid "[_RT_] {i}I've got the spy-cam... now I need to install it in Lauren's room.{/i}"
 msgstr "[_RT_] {i}Casus kamerayı aldım... Şimdi Lauren'ın odasına kurmam gerekiyor. {/i}"
 
-# game/Phone_event_screen.rpy:1256 #-#-# translate crowdin event_info_20_2d973a36:
+# game/Phone_event_screen.rpy:1274 #-#-# translate crowdin event_info_20_2d973a36:
 msgid "[_RT_] {i}I need to buy a spy-cam and place it in Lauren's bedroom when no one is around.{/i}"
 msgstr "[_RT_] {i}Bir casusluk kamerası almam ve kimse yokken Lauren'in yatak odasına yerleştirmem gerekiyor.{/i}"
 
-# game/Phone_event_screen.rpy:1259 #-#-# translate crowdin event_info_20_0c3965e8:
+# game/Phone_event_screen.rpy:1277 #-#-# translate crowdin event_info_20_0c3965e8:
 msgid "[_RT_] {i}I've placed the spycam in Lauren's bedroom. Now I just need to catch Lauren in there when her libido is at it's highest (10 pts).{/i}"
 msgstr "[_RT_] {i}Casus kamerayı Lauren'ın yatak odasına yerleştirdim. Şimdi tek yapmam gereken Lauren'ı libidosunun en yüksek olduğu anda yakalamak (10 puan).{/i}"
 
-# game/Phone_event_screen.rpy:1264 #-#-# translate crowdin event_info_21_18b1dcc5:
+# game/Phone_event_screen.rpy:1282 #-#-# translate crowdin event_info_21_18b1dcc5:
 msgid "[_RT_] {i}I've got the spy-cam... now I need to install it in the bathroom.{/i}"
 msgstr "[_RT_] {i}Casus kamerayı aldım... şimdi onu banyoya kurmam gerekiyor. {/i}"
 
-# game/Phone_event_screen.rpy:1267 #-#-# translate crowdin event_info_21_c5e375e6:
+# game/Phone_event_screen.rpy:1285 #-#-# translate crowdin event_info_21_c5e375e6:
 msgid "[_RT_] {i}I need to buy a spy-cam and place it in the bathroom when no one is around.{/i}"
 msgstr "[_RT_] {i}Bir casusluk kamerası almam ve etrafta kimse yokken banyoya yerleştirmem gerekiyor.{/i}"
 
-# game/Phone_event_screen.rpy:1270 #-#-# translate crowdin event_info_21_4cbfb321:
+# game/Phone_event_screen.rpy:1288 #-#-# translate crowdin event_info_21_4cbfb321:
 msgid "[_RT_] {i}I've placed the spycam in the bathroom. Now I just need to catch Sidney in there when her libido is at it's highest (10 pts).{/i}"
 msgstr "[_RT_] {i}Casusluk kamerasını banyoya yerleştirdim. Şimdi tek yapmam gereken Sidney'i azgınlığının en yüksek olduğu anda yakalamak (10 puan).{/i}"
 
-# game/Phone_event_screen.rpy:1275 #-#-# translate crowdin event_info_22_3f653d21:
+# game/Phone_event_screen.rpy:1293 #-#-# translate crowdin event_info_22_3f653d21:
 msgid "[_RT_] {i}I've got the spy-cam... now I need to install it in Lauren's room.{/i}"
 msgstr "[_RT_] {i}Casus kamerayı aldım... Şimdi Lauren'ın odasına kurmam gerekiyor. {/i}"
 
-# game/Phone_event_screen.rpy:1278 #-#-# translate crowdin event_info_22_2d973a36:
+# game/Phone_event_screen.rpy:1296 #-#-# translate crowdin event_info_22_2d973a36:
 msgid "[_RT_] {i}I need to buy a spy-cam and place it in Lauren's bedroom when no one is around.{/i}"
 msgstr "[_RT_] {i}Bir casusluk kamerası almam ve kimse yokken Lauren'in yatak odasına yerleştirmem gerekiyor.{/i}"
 
-# game/Phone_event_screen.rpy:1281 #-#-# translate crowdin event_info_22_678e43f0:
+# game/Phone_event_screen.rpy:1299 #-#-# translate crowdin event_info_22_678e43f0:
 msgid "[_RT_] {i}I've placed the spycam in Lauren's bedroom. Now I just need to catch Sidney in there when her libido is at it's highest (10 pts).{/i}"
 msgstr "[_RT_] {i}Casusluk kamerasını Lauren'in yatak odasına yerleştirdim. Şimdi tek yapmam gereken Sidney'i azgınlığının en yüksek olduğu anda yakalamak (10 puan).{/i}"
 
-# game/Phone_event_screen.rpy:1285 #-#-# translate crowdin event_info_23_a0fcddaa:
+# game/Phone_event_screen.rpy:1303 #-#-# translate crowdin event_info_23_a0fcddaa:
 msgid "[_RT_] {i}I got an email ad on my phone for a special deal on a Hyongu bikini. The deal is for a very limited time, so if I want to get it, I'd better do it soon.{/i}"
 msgstr "[_RT_] {i}Telefonuma Hyongu bikini için özel bir fırsat e-postası geldi. Fırsat çok sınırlı bir süre için, bu yüzden almak istiyorsam bir an önce alsam iyi olur.{/i}"
 
-# game/Phone_event_screen.rpy:1289 #-#-# translate crowdin event_info_24_4faca48d:
+# game/Phone_event_screen.rpy:1307 #-#-# translate crowdin event_info_24_4faca48d:
 msgid "[_RT_] {i}I've got the bikini now. I would be smart to make sure Mom's libido and submission are as high as possible before next weekend, then maybe I can ask her to try on the swimsuit for me.{/i}"
 msgstr "[_RT_] {i}Artık bikinim var. Önümüzdeki hafta sonundan önce annemin libidosunun ve teslimiyetinin mümkün olduğunca yüksek olduğundan emin olmak akıllıca olur, o zaman belki ondan benim için mayoyu denemesini isteyebilirim.{/i}"
 
-# game/Phone_event_screen.rpy:1294 #-#-# translate crowdin event_info_25_f6ed3265:
+# game/Phone_event_screen.rpy:1312 #-#-# translate crowdin event_info_25_f6ed3265:
 msgid "[_RT_] {i}I need to keep Mom out of the club by paying the Mafia debt for more than three weeks in a row. Maybe she'll reward me with some one-on-one time.{/i}"
 msgstr "[_RT_] {i}Mafya borcunu üç haftadan fazla üst üste ödeyerek annemi kulüpten uzak tutmalıyım. Belki beni bire bir zaman geçirerek ödüllendirir.{/i}"
 
-# game/Phone_event_screen.rpy:1299 #-#-# translate crowdin event_info_26_e7bc06e0:
+# game/Phone_event_screen.rpy:1317 #-#-# translate crowdin event_info_26_e7bc06e0:
 msgid "[_RT_] {i}I should keep checking the kitchen to see when Sidney will be done with Lauren's cosplay outfit.{/i}"
 msgstr "[_RT_] {i}Sidney'nin Lauren'ın kostümlü kıyafetini ne zaman bitireceğini görmek için mutfağı kontrol etmeye devam etmeliyim {/i}"
 
-# game/Phone_event_screen.rpy:1302 #-#-# translate crowdin event_info_26_9a13761b:
+# game/Phone_event_screen.rpy:1320 #-#-# translate crowdin event_info_26_9a13761b:
 msgid "[_RT_] {i}I should go talk to Sidney about commissioning another cosplay outfit.{/i}"
 msgstr "[_RT_] {i}Gidip Sidney'le başka bir cosplay kıyafeti sipariş etmek için konuşmalıyım.{/i}"
 
-# game/Phone_event_screen.rpy:1307 #-#-# translate crowdin event_info_27_5ae2501a:
+# game/Phone_event_screen.rpy:1325 #-#-# translate crowdin event_info_27_5ae2501a:
 msgid "[_RT_] {i}I can't wait for Sidney to finish Lauren's Cosplay outfit!... I should go to the lounge and check with her this evening to see if it's done.{/i}"
 msgstr "[_RT_] {i}Sidney'in Lauren'in Cosplay kıyafetini bitirmesini bekleyemiyorum!... Bu akşam salona gidip bitip bitmediğini kontrol etmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1310 #-#-# translate crowdin event_info_27_6e2e44c4:
+# game/Phone_event_screen.rpy:1328 #-#-# translate crowdin event_info_27_6e2e44c4:
 msgid "[_RT_] {i}Finally... I can take some sexy pictures with Lauren... I need to meet Lauren at the warehouse in the late morning to begin our first photshoot.{/i}"
 msgstr "[_RT_] {i}Sonunda. Lauren ile seksi fotoğraflar çekebileceğim. İlk fotoğraf çekimimize başlamak için Lauren'la sabah geç saatlerde depoda buluşmam gerekiyor.{/i}"
 
-# game/Phone_event_screen.rpy:1314 #-#-# translate crowdin event_info_28_8f0a41a8:
+# game/Phone_event_screen.rpy:1332 #-#-# translate crowdin event_info_28_8f0a41a8:
 msgid "[_RT_] {i}I need to keep taking these \"How to Breed your Dragon\" pictures with Lauren until we've got every kind of picture we need.{/i}"
 msgstr "[_RT_] {i}İhtiyacımız olan her tür fotoğrafı elde edene kadar Lauren ile bu \"Ejderhanı Nasıl Yetiştirirsin\" fotoğraflarını çekmeye devam etmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1319 #-#-# translate crowdin event_info_29_bbf607a0:
+# game/Phone_event_screen.rpy:1337 #-#-# translate crowdin event_info_29_bbf607a0:
 msgid "[_RT_] {i}I wonder what's going on with the FBI lately?{/i}"
 msgstr "[_RT_] {i}Acaba son zamanlarda FBI'da neler oluyor?{/i}"
 
-# game/Phone_event_screen.rpy:1322 #-#-# translate crowdin event_info_29_abda1f0e:
+# game/Phone_event_screen.rpy:1340 #-#-# translate crowdin event_info_29_abda1f0e:
 msgid "[_RT_] {i}I've got to protect Lauren from that crazy Agent Diaz.{/i}"
 msgstr "[_RT_] {i}Lauren'ı o çılgın Ajan Diaz'dan korumalıyım.{/i}"
 
-# game/Phone_event_screen.rpy:1327 #-#-# translate crowdin event_info_30_6668208d:
+# game/Phone_event_screen.rpy:1345 #-#-# translate crowdin event_info_30_6668208d:
 msgid "[_RT_] {i} It's almost like the FBI has forgotten us.{/i}"
 msgstr "[_RT_] {i} Sanki FBI bizi unutmuş gibi.{/i}"
 
-# game/Phone_event_screen.rpy:1330 #-#-# translate crowdin event_info_30_36defed0:
+# game/Phone_event_screen.rpy:1348 #-#-# translate crowdin event_info_30_36defed0:
 msgid "[_RT_] {i}If I don't pay, Lauren get's punished.{/i}"
 msgstr "[_RT_] {i}Eğer ödemezsem, Lauren cezalandırılır.{/i}"
 
-# game/Phone_event_screen.rpy:1334 #-#-# translate crowdin event_info_31_599ee4c0:
+# game/Phone_event_screen.rpy:1352 #-#-# translate crowdin event_info_31_599ee4c0:
 msgid "[_RT_] {i}I've heard the school is going to start doing morning announcements every Monday again. They stopped when the student body officers left for New York on their mock UN trip.{/i}"
 msgstr "[_RT_] {i}Okulun yeniden her Pazartesi sabah anonsları yapmaya başlayacağını duydum. Öğrenciler New York'a sahte BM gezisine gittikten sonra bırakmışlardı.{/i}"
 
-# game/Phone_event_screen.rpy:1335 #-#-# translate crowdin event_info_31_2863d310:
+# game/Phone_event_screen.rpy:1353 #-#-# translate crowdin event_info_31_2863d310:
 msgid "[_RT_] {i}I've heard they have an exciting announcement to start it off. I'd better make sure I'm in {b}Mom's class every Monday morning{/b} so I don't miss the announcements.{/i}"
 msgstr "[_RT_] {i}Başlamak için heyecan verici bir duyuruları olduğunu duydum. Duyuruları kaçırmamak için her Pazartesi sabahı{/b} {b}annemin sınıfında olsam iyi olur.{/i}"
 
-# game/Phone_event_screen.rpy:1339 #-#-# translate crowdin event_info_32_cc9d6575:
+# game/Phone_event_screen.rpy:1357 #-#-# translate crowdin event_info_32_cc9d6575:
 msgid "[_RT_] {i}Lauren's popularity would go through the roof if we hung sexy posters of her... I need to keep trying to convince her at her campaign meetings until she agrees.{/i}"
 msgstr "[_RT_] {i}Lauren'in seksi posterlerini asarsak popülaritesi tavan yapar. Kabul edene kadar kampanya toplantılarında onu ikna etmeye çalışmalıyım.{/i}"
 
-# game/Phone_event_screen.rpy:1344 #-#-# translate crowdin event_info_33_b0d7745d:
+# game/Phone_event_screen.rpy:1362 #-#-# translate crowdin event_info_33_b0d7745d:
 msgid "[_RT_] {i}I need to attend class until I have the option to \"Talk to Mom about the Oedipus assignment.\"{/i}"
 msgstr "[_RT_] {i}\"Annemle Oedipus ödevi hakkında konuşma\" seçeneğim olana kadar derse katılmam gerekiyor.{/i}"
 
-# game/Phone_event_screen.rpy:1347 #-#-# translate crowdin event_info_33_46f5fc45:
+# game/Phone_event_screen.rpy:1365 #-#-# translate crowdin event_info_33_46f5fc45:
 msgid "[_RT_] {i}I need to keep \"Talking to Mom about the Oedipus assignment\" in her office, that is unless I have the chance to see where Matt and Megan sneak off to.{/i}"
 msgstr "[_RT_] {i}\"Annemle Oedipus ödevi hakkında konuşmayı\" ofisinde tutmam gerekiyor, tabii Matt ve Megan'ın nereye kaçtığını görme şansım olmazsa.{/i}"
 
-# game/Phone_event_screen.rpy:1352 #-#-# translate crowdin event_info_34_b0d7745d:
+# game/Phone_event_screen.rpy:1370 #-#-# translate crowdin event_info_34_b0d7745d:
 msgid "[_RT_] {i}I need to attend class until I have the option to \"Talk to Mom about the Oedipus assignment.\"{/i}"
 msgstr "[_RT_] {i}\"Annemle Oedipus ödevi hakkında konuşma\" seçeneğim olana kadar derse katılmam gerekiyor.{/i}"
 
-# game/Phone_event_screen.rpy:1355 #-#-# translate crowdin event_info_34_96e4be74:
+# game/Phone_event_screen.rpy:1373 #-#-# translate crowdin event_info_34_96e4be74:
 msgid "[_RT_] {i}I need to keep \"Talking to Mom about the Oedipus assignment\" in her office. Is it me, or does she seem flushed when I come see her... maybe if I don't get distracted on the way, I can see what she's doing in there.{/i}"
 msgstr "[_RT_] {i}\"Annemle Oedipus ödevi hakkında konuşmayı\" ofisinde tutmalıyım. Bana mı öyle geliyor yoksa onu görmeye gittiğimde yüzü kızarmış gibi mi görünüyor... belki yolda dikkatim dağılmazsa orada ne yaptığını görebilirim.{/i}"
 
-# game/Phone_event_screen.rpy:1359 #-#-# translate crowdin event_info_35_ad23c68f:
+# game/Phone_event_screen.rpy:1377 #-#-# translate crowdin event_info_35_ad23c68f:
 msgid "[_RT_] {i}After our afternoon campaign meetings in the girls bathroom, I have the option to go see Mrs. Stone. {p}She can help me make some kick-ass posters.{/i}"
 msgstr "[_RT_] {i}Öğleden sonra kızlar tuvaletindeki kampanya toplantılarımızdan sonra Bayan Stone'u görmeye gitme seçeneğim var. {p}Harika posterler yapmama yardım edebilir.{/i}"
 
-# game/Phone_event_screen.rpy:1364 #-#-# translate crowdin event_info_36_e451667c:
+# game/Phone_event_screen.rpy:1382 #-#-# translate crowdin event_info_36_e451667c:
 msgid "[_RT_] {i}I've helped Mom fix a lightbulb, and hopefully that fix on the sink will hold. I should keep helping with chores on the weekend, and keep visiting Mom in her office to strengthen our relationship.{/i}"
 msgstr "[_RT_] {i}Annemin bir ampulü tamir etmesine yardım ettim ve umarım lavabodaki tamir de işe yarar. Hafta sonları ev işlerine yardım etmeye devam etmeli ve ilişkimizi güçlendirmek için annemi ofisinde ziyaret etmeye devam etmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1367 #-#-# translate crowdin event_info_36_fb2fbedc:
+# game/Phone_event_screen.rpy:1385 #-#-# translate crowdin event_info_36_fb2fbedc:
 msgid "[_RT_] {i}Mom works really hard all week. I should help her with jobs around the house on weekend mornings. She usually starts cleaning in the lounge.{/i}"
 msgstr "[_RT_] {i}Annem bütün hafta çok çalışıyor. Hafta sonu sabahları ev işlerinde ona yardım etmeliyim. Temizliğe genellikle salonda başlar.{/i}"
 
-# game/Phone_event_screen.rpy:1371 #-#-# translate crowdin event_info_37_6762287c:
+# game/Phone_event_screen.rpy:1389 #-#-# translate crowdin event_info_37_6762287c:
 msgid "[_RT_] {i}I can't believe Lauren's okay with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
 msgstr "[_RT_] {i}Lauren'in amını aletimin üzerine sürtmeyi sorun etmediğine inanamıyorum! Akşamları onu salonda ziyaret etmeye devam etmeliyim. Bahse girerim onu daha ileri götürebilirim. {/i}"
 
-# game/Phone_event_screen.rpy:1376 #-#-# translate crowdin event_info_38_ca2c61d4:
+# game/Phone_event_screen.rpy:1394 #-#-# translate crowdin event_info_38_ca2c61d4:
 msgid "[_RT_] {i}Now that Sidney's got her cosplay outfit done, I need to visit the photo-studio at the warehouse during the afternoon to begen our first photoshoot.{/i}"
 msgstr "[_RT_] {i}Sidney cosplay kıyafetini hazırladığına göre, ilk fotoğraf çekimimize başlamak için öğleden sonra depodaki fotoğraf stüdyosunu ziyaret etmem gerekiyor.{/i}"
 
-# game/Phone_event_screen.rpy:1379 #-#-# translate crowdin event_info_38_c2d48062:
+# game/Phone_event_screen.rpy:1397 #-#-# translate crowdin event_info_38_c2d48062:
 msgid "[_RT_] {i}I need to keep checking back with Sidney in the lounge each evening to see if she's finished her cosplay outfit.{/i}"
 msgstr "[_RT_] {i}Kosplay kıyafetini bitirip bitirmediğini görmek için her akşam Sidney 'le tekrar kontrol etmeye devam etmek istiyorum."
 
-# game/Phone_event_screen.rpy:1382 #-#-# translate crowdin event_info_38_c0b6d0ab:
+# game/Phone_event_screen.rpy:1400 #-#-# translate crowdin event_info_38_c0b6d0ab:
 msgid "[_RT_] {i}I need to bring $200 to Sidney so she can start making her cosplay outfit.{/i}"
 msgstr "[_RT_] {i}(İPUCU){/b} Sidney'e 200 dolar vermeliyim ki cosplay kıyafetini yapmaya başlayabilsin.{/i}"
 
-# game/Phone_event_screen.rpy:1387 #-#-# translate crowdin event_info_39_6d1efae0:
+# game/Phone_event_screen.rpy:1405 #-#-# translate crowdin event_info_39_6d1efae0:
 msgid "[_RT_] {i}We decided it would be good to visit Diaz and see if she can dig up some dirt on Matt. I can probably find her van on my map on a weekday evening.{/i}"
 msgstr "[_RT_] {i}Diaz 'ı ziyaret edip Matt 'in kirini kazabilecek mi diye baksak iyi olur. Muhtemelen hafta içi bir akşam haritamda minibüsü bulabilirim."
 
-# game/Phone_event_screen.rpy:1390 #-#-# translate crowdin event_info_39_c98a2588:
+# game/Phone_event_screen.rpy:1408 #-#-# translate crowdin event_info_39_c98a2588:
 msgid "[_RT_] {i}I need to put a spy camera in the girls locker room. It would probably be best to go early in the morning before it gets crowded.{/i}"
 msgstr "[_RT_] {i}kızlar soyunma odasına bir casus kamera koymam lazım. Kalabalık olmadan önce erken gitmek en iyisi olacaktır. { /i }"
 
-# game/Phone_event_screen.rpy:1394 #-#-# translate crowdin event_info_40_cb7e7f31:
+# game/Phone_event_screen.rpy:1412 #-#-# translate crowdin event_info_40_cb7e7f31:
 msgid "[_RT_] {i}I need to keep taking these \"Womb Raider\" pictures with Sidney until we've got every kind of picture we need.{/i}"
 msgstr "[_RT_] {i}İhtiyacımız olan her tür fotoğrafı elde edene kadar Lauren ile bu \"Ejderhanı Nasıl Yetiştirirsin\" fotoğraflarını çekmeye devam etmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1399 #-#-# translate crowdin event_info_41_c969fdd5:
+# game/Phone_event_screen.rpy:1417 #-#-# translate crowdin event_info_41_c969fdd5:
 msgid "[_RT_] {i}Sidney's being weird about messing around at night. Maybe I can fix the awkwardness between us during our photoshoots.{/i}"
 msgstr "[_RT_] {i}(İPUCU){/b} Sidney geceleri ortalıkta dolaşmak konusunda garip davranıyor. Belki fotoğraf çekimlerimiz sırasında aramızdaki garipliği düzeltebilirim.{/i}"
 
-# game/Phone_event_screen.rpy:1401 #-#-# translate crowdin event_info_41_9fc9715e:
+# game/Phone_event_screen.rpy:1419 #-#-# translate crowdin event_info_41_9fc9715e:
 msgid "[_RT_] {i}Sidney seems comfortable with fooling around again... I wonder if she'll be up for anything in bed tonight.{/i}"
 msgstr "[_RT_] {i}Sidney yine aylaklıkla rahatlıyor gibi görünüyor ... Acaba bu gece yataktan kalkacak mı acaba? { /i }"
 
-# game/Phone_event_screen.rpy:1406 #-#-# translate crowdin event_info_42_4681b3ab:
+# game/Phone_event_screen.rpy:1424 #-#-# translate crowdin event_info_42_4681b3ab:
 msgid "[_RT_] {i}If I want anything else from Diaz, I'd better find a way to install that spy-cam in the girls locker room. Diaz said the best time would be to go into the school in the early morning.{/i}"
 msgstr "[_RT_] {i}Diaz 'dan başka bir şey istesem, o casus kamerasını kızların soyunma odasına kurmanın bir yolunu bulsam iyi olur. Diaz, sabahın erken saatlerinde okula gitmek için en uygun zamanın olacağını söyledi. { /i }"
 
-# game/Phone_event_screen.rpy:1409 #-#-# translate crowdin event_info_42_47e170e9:
+# game/Phone_event_screen.rpy:1427 #-#-# translate crowdin event_info_42_47e170e9:
 msgid "[_RT_] {i}I need to keep visiting Diaz in her van until I complete this event.{/i}"
 msgstr "[_RT_] {i}Bu etkinliği tamamlayana kadar geceleri kızların odasına gizlice girmeye devam etmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1414 #-#-# translate crowdin event_info_43_7d862783:
+# game/Phone_event_screen.rpy:1432 #-#-# translate crowdin event_info_43_7d862783:
 msgid "[_RT_] {i}Lauren really has her heart set on winning this election... I wonder how far she would be willing to go?... Should I let her lose in the polls for a few weeks to see?{/i}"
 msgstr "[_RT_] {i}Lauren bu seçimi kazanmayı gerçekten çok iyi biliyor ... Acaba ne kadar ileri gitmek ister? Birkaç hafta için anketlerde kaybolmasına izin mi vermeliyim?"
 
-# game/Phone_event_screen.rpy:1417 #-#-# translate crowdin event_info_43_886848de:
+# game/Phone_event_screen.rpy:1435 #-#-# translate crowdin event_info_43_886848de:
 msgid "[_RT_] {i}I never would have thought Lauren would be the kind of person to sell sex favors for votes. Will she do worse if I don't help her do better in the polls?{/i}"
 msgstr "[_RT_] {i}Ben asla Lauren 'in oylar için seks iyilik satacak bir insan olacağını düşünmezdim. Anketlerde daha iyisini yapmasında yardım etmiyorsam daha da kötü mü olacak?"
 
-# game/Phone_event_screen.rpy:1421 #-#-# translate crowdin event_info_44_9081c5d8:
+# game/Phone_event_screen.rpy:1439 #-#-# translate crowdin event_info_44_9081c5d8:
 msgid "[_RT_] {i}I can't believe how comfortable Mom was watching me jack off... Maybe I don't need to worry so much about getting boners around her, especially when she hugs me after I pay the mafia debt.{/i}"
 msgstr "[_RT_] {i}Annemin beni mastürbasyon yaparken bu kadar rahat izlediğine inanamıyorum. Belki de onun yanında ereksiyon olmak konusunda o kadar endişelenmeme gerek yoktur, özellikle de mafya borcumu ödedikten sonra bana sarıldığında.{/i}"
 
-# game/Phone_event_screen.rpy:1426 #-#-# translate crowdin event_info_45_c6fcb0ec:
+# game/Phone_event_screen.rpy:1444 #-#-# translate crowdin event_info_45_c6fcb0ec:
 msgid "[_RT_] {i}Visiting Mom in her office is getting some results, but maybe for now, I should concentrate my efforts on my sister's photo shoots.{/i}"
 msgstr "[_RT_] {i}Ofisinde annemi ziyaret etmek bazı sonuçlar alıyor, ama belki şimdilik, kardeşimin fotoğraf çekimlerine odaklanmalıyım. { /i }"
 
-# game/Phone_event_screen.rpy:1429 #-#-# translate crowdin event_info_45_e1f523ed:
+# game/Phone_event_screen.rpy:1447 #-#-# translate crowdin event_info_45_e1f523ed:
 msgid "[_RT_] {i}Messing around in Mom's office is super risky... Her door doesn't even have a lock! The more we mess around in there, the greater our chances are of getting caught.{/i}"
 msgstr "[_RT_] {i}(İPUCU){/b} Annemin ofisinde dolaşmak çok riskli. Kapısının kilidi bile yok! Orayı ne kadar çok karıştırırsak, yakalanma ihtimalimiz o kadar artar.{/i}"
 
-# game/Phone_event_screen.rpy:1434 #-#-# translate crowdin event_info_46_d13850bb:
+# game/Phone_event_screen.rpy:1452 #-#-# translate crowdin event_info_46_d13850bb:
 msgid "[_RT_] {i}I need to bring some money to Sidney so she can start on the \"Perry Hotter\" cosplay outfits.{/i}"
 msgstr "[_RT_] {i}(İPUCU){/b} Sidney'e 200 dolar vermeliyim ki cosplay kıyafetini yapmaya başlayabilsin.{/i}"
 
-# game/Phone_event_screen.rpy:1437 #-#-# translate crowdin event_info_46_b3b6d5be:
+# game/Phone_event_screen.rpy:1455 #-#-# translate crowdin event_info_46_b3b6d5be:
 msgid "[_RT_] {i}I should keep checking back with Sidney to see if those outfits are done.{/i}"
 msgstr "[_RT_] {i}Bu kıyafetlerin yapılıp yapılmaması için Sidney 'i kontrol etmeye devam etmeliydim."
 
-# game/Phone_event_screen.rpy:1440 #-#-# translate crowdin event_info_46_1973ba12:
+# game/Phone_event_screen.rpy:1458 #-#-# translate crowdin event_info_46_1973ba12:
 msgid "[_RT_] {i}I recently saw a ball gag on the Hardnlong website. I should buy it. It might come in handy for the \"Perry Hotter\" photoshoot.{/i}"
 msgstr "[_RT_] {i}Son zamanlarda Hardnlong 'un internet sitesinde bir top şakası gördüm. -Ben ısmarlamalıyım. Bu \"Perry Hitter\" fotokopisi için kullanışlı olabilir."
 
-# game/Phone_event_screen.rpy:1443 #-#-# translate crowdin event_info_46_33b26b3b:
+# game/Phone_event_screen.rpy:1461 #-#-# translate crowdin event_info_46_33b26b3b:
 msgid "[_RT_] {i}I should start the photshoot with Mom and Megan by going to the warehouse on a weekday evening.{/i}"
 msgstr "[_RT_] {i}hafta içi bir akşam saatlerinde depoya giderek, anne ve Megan ile fotshot ' u başlasam iyi olur. { /i }"
 
-# game/Phone_event_screen.rpy:1447 #-#-# translate crowdin event_info_47_0853e6a0:
+# game/Phone_event_screen.rpy:1465 #-#-# translate crowdin event_info_47_0853e6a0:
 msgid "[_RT_] {i}I should make Mom more submissive by pushing her to do new things at the photoshoot.{/i}"
 msgstr "[_RT_] {i}onu fotoshot ' ta yeni şeyler yapması için iterek annemi daha aldırıcı hale getirmeliyim. { /i }"
 
-# game/Phone_event_screen.rpy:1452 #-#-# translate crowdin event_info_48_eb2a4b2e:
+# game/Phone_event_screen.rpy:1470 #-#-# translate crowdin event_info_48_eb2a4b2e:
 msgid "[_RT_] {i}Besides Mr. Peterson, Sidney and I are pretty much alone at the park. I wish she were more open to some fooling around. I've got to figure out other ways to corrupt her.{/i}"
 msgstr "[_RT_] {i}Bay Peterson dışında, Sidney ve ben parkta oldukça yalnızız. Keşke biraz şakalaşmaya daha açık olsaydı. Onu baştan çıkarmanın başka yollarını bulmalıyım.{/i}"
 
-# game/Phone_event_screen.rpy:1455 #-#-# translate crowdin event_info_48_a72ceb57:
+# game/Phone_event_screen.rpy:1473 #-#-# translate crowdin event_info_48_a72ceb57:
 msgid "[_RT_] {i}Besides Mr. Peterson, Sidney and I are pretty much alone at the park. I don't think she's up to any fooling around yet though. Maybe or photoshoots together will loosen her up a little.{/i}"
 msgstr "[_RT_] {i}Bay Peterson dışında, Sidney ve ben parkta oldukça yalnızız. Gerçi henüz şakalaşmaya hazır olduğunu sanmıyorum. Belki birlikte fotoğraf çektirmek onu biraz gevşetir.{/i}"
 
-# game/Phone_event_screen.rpy:1458 #-#-# translate crowdin event_info_48_0af54d05:
+# game/Phone_event_screen.rpy:1476 #-#-# translate crowdin event_info_48_0af54d05:
 msgid "[_RT_] {i}While I admire the hell out of Mr. Peterson, he's kind of a cockblock, and he needs help. I hope he's caught soon!{/i}"
 msgstr "[_RT_] {i}(İPUCU){/b} Bay Peterson'a hayran olsam da, o bir tür engel ve yardıma ihtiyacı var. Umarım yakında yakalanır!{/i}"
 
-# game/Phone_event_screen.rpy:1462 #-#-# translate crowdin event_info_49_db295b3d:
+# game/Phone_event_screen.rpy:1480 #-#-# translate crowdin event_info_49_db295b3d:
 msgid "[_RT_] {i}Sidney was acting funny when I told her about Mom. I'd better keep an eye on her this weekend when the Mafia comes for their weekly payment.{/i}"
 msgstr "[_RT_] {i}Sidney ona annemi anlattığımda komik davranıyordu. Mafyanın haftalık ödemeleri için geldiği zaman bu hafta sonu ona göz kulak olacaktım."
 
-# game/Phone_event_screen.rpy:1466 #-#-# translate crowdin event_info_50_df590c99:
+# game/Phone_event_screen.rpy:1484 #-#-# translate crowdin event_info_50_df590c99:
 msgid "[_RT_] {i}I need to visit Sidney while she's working at the club, maybe she'll have some time for a little more fun.{/i}"
 msgstr "[_RT_] {i}O kulüpte çalışırken Sidney 'i ziyaret etmek istiyorum, belki biraz daha eğlenceli olacak. { /i }"
 
-# game/Phone_event_screen.rpy:1471 #-#-# translate crowdin event_info_51_deef578a:
+# game/Phone_event_screen.rpy:1489 #-#-# translate crowdin event_info_51_deef578a:
 msgid "[_RT_] {i}Boy, Aunt Cami can be such a bitch!... I don't know what Uncle Bobby see's in her. I'd leave her ass in a second.{/i}"
 msgstr "[_RT_] {i}(İPUCU){/b} Cami Teyze tam bir sürtük olabiliyor! Bobby Amca onda ne buluyor bilmiyorum. Onun kıçını bir saniyede terk ederdim.{/i}"
 
-# game/Phone_event_screen.rpy:1473 #-#-# translate crowdin event_info_51_be96a731:
+# game/Phone_event_screen.rpy:1491 #-#-# translate crowdin event_info_51_be96a731:
 msgid "[_RT_] {i}I wonder what that text was about. I should go to the warehouse to see if Uncle Bobby is ok.{/i}"
 msgstr "[_RT_] {i}O metnin ne hakkında olduğunu merak ediyorum. Bobby amcanın iyi olup olmadığını görmek için depoya gitmem gerek."
 
-# game/Phone_event_screen.rpy:1478 #-#-# translate crowdin event_info_52_66da387f:
+# game/Phone_event_screen.rpy:1496 #-#-# translate crowdin event_info_52_66da387f:
 msgid "[_RT_] {i}Sidney usually takes about 3 days to make a new outfit. She usually fits them in the kitchen, but I'd be smart to check the lounge in the morning too.{/i}"
 msgstr "[_RT_] {i}Sidney genellikle yeni bir kıyafet yapmak için yaklaşık 3 gün sürüyor. Genelde mutfağa oturur, ama ben de sabahları salonu kontrol etmek akıllıca olur."
 
-# game/Phone_event_screen.rpy:1481 #-#-# translate crowdin event_info_52_3743c889:
+# game/Phone_event_screen.rpy:1499 #-#-# translate crowdin event_info_52_3743c889:
 msgid "[_RT_] {i}Sidney will probably finish Aunt Cami's new sexy maid outfit in a couple days. She usually fits them in the kitchen, but I'd be smart to check the lounge in the morning too.{/i}"
 msgstr "[_RT_] {i}Sidney genellikle yeni bir kıyafet yapmak için yaklaşık 3 gün sürüyor. Genelde mutfağa oturur, ama ben de sabahları salonu kontrol etmek akıllıca olur."
 
-# game/Phone_event_screen.rpy:1484 #-#-# translate crowdin event_info_52_19ecc4b2:
+# game/Phone_event_screen.rpy:1502 #-#-# translate crowdin event_info_52_19ecc4b2:
 msgid "[_RT_] {i}Sidney will probably finish Aunt Cami's new sexy maid outfit tomorrow. She usually fits them in the kitchen, but I'd be smart to check the lounge in the morning too.{/i}"
 msgstr "[_RT_] {i}Sidney genellikle yeni bir kıyafet yapmak için yaklaşık 3 gün sürüyor. Genelde mutfağa oturur, ama ben de sabahları salonu kontrol etmek akıllıca olur."
 
-# game/Phone_event_screen.rpy:1487 #-#-# translate crowdin event_info_52_6b9af5e7:
+# game/Phone_event_screen.rpy:1505 #-#-# translate crowdin event_info_52_6b9af5e7:
 msgid "[_RT_] {i}Sidney is probably done with Aunt Cami's sexy maid outfit... I should check the lounge in the morning to see if Sidney has finished.{/i}"
 msgstr "[_RT_] {i}Sidney muhtemelen Cami Teyze 'nin seksi hizmetçi kıyafetiyle yapıImış. Sidney 'in işi bitirip bitirmediğini görmek için sabahleyin salonu kontrol etmeliydim."
 
-# game/Phone_event_screen.rpy:1492 #-#-# translate crowdin event_info_53_a21fc395:
+# game/Phone_event_screen.rpy:1510 #-#-# translate crowdin event_info_53_a21fc395:
 msgid "[_RT_] {i}I should keep going to the kitchen in the late morning until I can assign Aunt Cami a chore to work on.{/i}"
 msgstr "[_RT_] {i}Sabah geç saatlerde mutfağa gitmeye devam etmeliydim. Ta ki Cami Teyze 'nin çalışabileceği bir görev atayana kadar. { /i }"
 
-# game/Phone_event_screen.rpy:1495 #-#-# translate crowdin event_info_53_2f25f546:
+# game/Phone_event_screen.rpy:1513 #-#-# translate crowdin event_info_53_2f25f546:
 msgid "[_RT_] {i}I need to build up Aunt Cami's libido or submission so I can do something even more mischievous to her in the bathroom.{/i}"
 msgstr "[_RT_] {i}Chami Teyze 'nin libido ya da gönderimi yapmam gerekiyor ki banyoda ona daha çok kötülük yapabilirim. { /i }"
 
-# game/Phone_event_screen.rpy:1500 #-#-# translate crowdin event_info_54_a21fc395:
+# game/Phone_event_screen.rpy:1518 #-#-# translate crowdin event_info_54_a21fc395:
 msgid "[_RT_] {i}I should keep going to the kitchen in the late morning until I can assign Aunt Cami a chore to work on.{/i}"
 msgstr "[_RT_] {i}Sabah geç saatlerde mutfağa gitmeye devam etmeliydim. Ta ki Cami Teyze 'nin çalışabileceği bir görev atayana kadar. { /i }"
 
-# game/Phone_event_screen.rpy:1503 #-#-# translate crowdin event_info_54_e13d5320:
+# game/Phone_event_screen.rpy:1521 #-#-# translate crowdin event_info_54_e13d5320:
 msgid "[_RT_] {i}I should focus on getting Aunt Cami to do something scandelous in the bathroom.{/i}"
 msgstr "[_RT_] {i}Chami halamın tuvalette skandal bir şey yapması için odaklanmalıyım."
 
-# game/Phone_event_screen.rpy:1506 #-#-# translate crowdin event_info_54_472d15e0:
+# game/Phone_event_screen.rpy:1524 #-#-# translate crowdin event_info_54_472d15e0:
 msgid "[_RT_] {i}I was able to get Aunt Cami to flash me in both the bathroom and the kitchen... I'll bet I can get her to flash me in the lounge too.{/i}"
 msgstr "[_RT_] {i}Cami Teyzem beni hem banyoya hem de mutfağa çaktırmayı başardım. İddiaya girerim, onu da salonda gösterebilirim. { /i }"
 
-# game/Phone_event_screen.rpy:1509 #-#-# translate crowdin event_info_54_9f669ddf:
+# game/Phone_event_screen.rpy:1527 #-#-# translate crowdin event_info_54_9f669ddf:
 msgid "[_RT_] {i}Aunt Cami flashed me in the bathroom... I'll bet I can get her to flash me in the lounge too.{/i}"
 msgstr "[_RT_] {i}Cami Teyzem beni hem banyoya hem de mutfağa çaktırmayı başardım. İddiaya girerim, onu da salonda gösterebilirim. { /i }"
 
-# game/Phone_event_screen.rpy:1514 #-#-# translate crowdin event_info_55_a21fc395:
+# game/Phone_event_screen.rpy:1532 #-#-# translate crowdin event_info_55_a21fc395:
 msgid "[_RT_] {i}I should keep going to the kitchen in the late morning until I can assign Aunt Cami a chore to work on.{/i}"
 msgstr "[_RT_] {i}Sabah geç saatlerde mutfağa gitmeye devam etmeliydim. Ta ki Cami Teyze 'nin çalışabileceği bir görev atayana kadar. { /i }"
 
-# game/Phone_event_screen.rpy:1517 #-#-# translate crowdin event_info_55_e13d5320:
+# game/Phone_event_screen.rpy:1535 #-#-# translate crowdin event_info_55_e13d5320:
 msgid "[_RT_] {i}I should focus on getting Aunt Cami to do something scandelous in the bathroom.{/i}"
 msgstr "[_RT_] {i}Chami halamın tuvalette skandal bir şey yapması için odaklanmalıyım."
 
-# game/Phone_event_screen.rpy:1520 #-#-# translate crowdin event_info_55_6aa00998:
+# game/Phone_event_screen.rpy:1538 #-#-# translate crowdin event_info_55_6aa00998:
 msgid "[_RT_] {i}I was able to get Aunt Cami to flash me in both the bathroom and the lounge... I'll bet I can get her to flash me in the kitchen too.{/i}"
 msgstr "[_RT_] {i}Cami Teyzem beni hem banyoya hem de mutfağa çaktırmayı başardım. İddiaya girerim, onu da salonda gösterebilirim. { /i }"
 
-# game/Phone_event_screen.rpy:1523 #-#-# translate crowdin event_info_55_bb360e1b:
+# game/Phone_event_screen.rpy:1541 #-#-# translate crowdin event_info_55_bb360e1b:
 msgid "[_RT_] {i}Aunt Cami flashed me in the bathroom... I'll bet I can get her to flash me in the kitchen too.{/i}"
 msgstr "[_RT_] {i}Cami Teyzem beni hem banyoya hem de mutfağa çaktırmayı başardım. İddiaya girerim, onu da salonda gösterebilirim. { /i }"
 
-# game/Phone_event_screen.rpy:1527 #-#-# translate crowdin event_info_56_8d8a1f42:
+# game/Phone_event_screen.rpy:1545 #-#-# translate crowdin event_info_56_8d8a1f42:
 msgid "[_RT_] {i}Recent events have caused me to have weird dreams. I wonder if I'll have another weird dream soon.{/i}"
 msgstr "[_RT_] {i}son zamanlarda yaşanan olaylar garip rüyalar görmeme neden oldu. Yakında başka bir garip rüya göreceğimi merak ediyorum."
 
-# game/Phone_event_screen.rpy:1531 #-#-# translate crowdin event_info_57_58a00b43:
+# game/Phone_event_screen.rpy:1549 #-#-# translate crowdin event_info_57_58a00b43:
 msgid "[_RT_] {i}I need to go running with Sidney in the early morning and try everything she has to offer at the park.{/i}"
 msgstr "[_RT_] {i}sabah erken saatlerde Sidney ile koşmak ve parkta sunabilmek için her şeyi denemeli. { /i }"
 
-# game/Phone_event_screen.rpy:1536 #-#-# translate crowdin event_info_58_a8ca7a8a:
+# game/Phone_event_screen.rpy:1554 #-#-# translate crowdin event_info_58_a8ca7a8a:
 msgid "[_RT_] {i}This business with Uncle Bobby and Aunt Cami could really disrupt the way we live... I might not have many opportunities to perv on my Mom at night... I'd better sneak into her room while I still can.{/i}"
 msgstr "[_RT_] {i}Bu iş Bobby amcaya ve Cami teyzeyle olan bu iş, bizim yaşadığımız yolu gerçekten bozabilir ... Geceleri anneme karşı pek fazla fırt fırt vermemiş olabilirim. Hala yapabilirken odasına gizlice girsem iyi olur."
 
-# game/Phone_event_screen.rpy:1539 #-#-# translate crowdin event_info_58_b039c104:
+# game/Phone_event_screen.rpy:1557 #-#-# translate crowdin event_info_58_b039c104:
 msgid "[_RT_] {i}This business with Uncle Bobby and Aunt Cami could really disrupt the way we live... I might not have many opportunities to perv on Lauren at night... I'd better sneak into her room while I still can.{/i}"
 msgstr "[_RT_] {i}Bu iş Bobby amcaya ve Cami teyzeyle olan bu iş, bizim yaşadığımız yolu gerçekten bozabilir ... Geceleri anneme karşı pek fazla fırt fırt vermemiş olabilirim. Hala yapabilirken odasına gizlice girsem iyi olur."
 
-# game/Phone_event_screen.rpy:1542 #-#-# translate crowdin event_info_58_88919201:
+# game/Phone_event_screen.rpy:1560 #-#-# translate crowdin event_info_58_88919201:
 msgid "[_RT_] {i}I think there's a chance that Aunt Cami and Mandy will have to move in with us. It's going to be hell if I can't get Aunt Cami to be more submissive. I wonder if I can get her to act more submissive while she cleans our bathroom.{/i}"
 msgstr "[_RT_] {i}sanırım Cami teyze ve Mandy hala bizimle birlikte taşınmak zorunda. Cami Teyze 'yi daha uysal olmaya götüremezsem çok kötü olacak. Acaba banyomuzu temizlerken daha uysal davranmasını ister miyim?"
 
-# game/Phone_event_screen.rpy:1545 #-#-# translate crowdin event_info_58_0deaf611:
+# game/Phone_event_screen.rpy:1563 #-#-# translate crowdin event_info_58_0deaf611:
 msgid "[_RT_] {i}Thank God Uncle Bobby left Aunt Cami some money to pay their mortgage, otherwise they would probably have to move in with us.{/i}"
 msgstr "[_RT_] {i}Teşekkür ederim Bobby amca Cami teyzeyi ipotek parasını ödemek için biraz para bıraktı, aksi takdirde muhtemelen bizimle birlikte taşınmak zorunda kalmışlardır. { /i }"
 
-# game/Phone_event_screen.rpy:1550 #-#-# translate crowdin event_info_59_4529e9c3:
+# game/Phone_event_screen.rpy:1568 #-#-# translate crowdin event_info_59_4529e9c3:
 msgid "[_RT_] {i}I really want to get closer to Sidney. We seem to be bonding during our runs to the park. I should really explore how much sexual stuff she's willing to do with me.{/i}"
 msgstr "[_RT_] {i}gerçekten Sidney 'e daha yakın olmak istiyorum. Parkın koşuları sırasında birbirimize bağlıyız. Benimle ne kadar cinsel şeyler yapmaya istekli olduğunu gerçekten keşfetmeliyim."
 
-# game/Phone_event_screen.rpy:1553 #-#-# translate crowdin event_info_59_ac330282:
+# game/Phone_event_screen.rpy:1571 #-#-# translate crowdin event_info_59_ac330282:
 msgid "[_RT_] {i}I need Sidney to be more submissive. I'm sure a few photo shoots with her would do the trick.{/i}"
 msgstr "[_RT_] {i}Biraz daha uysal olmak için Sidney 'e ihtiyacım var. Eminim, onunla birkaç fotoğraf çekmesi işe girecektir."
 
-# game/Phone_event_screen.rpy:1556 #-#-# translate crowdin event_info_59_59bdc941:
+# game/Phone_event_screen.rpy:1574 #-#-# translate crowdin event_info_59_59bdc941:
 msgid "[_RT_] {i}I need to visit Sidney at the club and find out everything I can. I should ask her every question that comes to mind.{/i}"
 msgstr "[_RT_] {i}klüpte Sidney 'i ziyaret edip elimden gelen her şeyi öğrenmem gerekiyor. Aklına gelen her soruyu ona sormalıyım."
 
-# game/Phone_event_screen.rpy:1559 #-#-# translate crowdin event_info_59_80fabc3c:
+# game/Phone_event_screen.rpy:1577 #-#-# translate crowdin event_info_59_80fabc3c:
 msgid "[_RT_] {i}I need to visit Sidney at the club on Monday night.{/i}"
 msgstr "[_RT_] {i}pazartesi gecesi kulüpte Sidney 'i ziyaret etmek lazım. { /i }"
 
-# game/Phone_event_screen.rpy:1564 #-#-# translate crowdin event_info_60_111f070a:
+# game/Phone_event_screen.rpy:1582 #-#-# translate crowdin event_info_60_111f070a:
 msgid "[_RT_] {i}I'll bet I could go all the way with Mrs. Stone, but I don't like the idea of losing my virginity to a teacher. I think I should try to accomplish that with someone else first.{/i}"
 msgstr "[_RT_] {i}Bayan Stone ile birlikte gidebileceğime bahse girerim ama bekaretimi bir öğretmene kaybetme fikrinden hoşlanmadım. Sanırım bunu ilk önce başka biriyle başarmalıyım. { /i }"
 
-# game/Phone_event_screen.rpy:1567 #-#-# translate crowdin event_info_60_fee57787:
+# game/Phone_event_screen.rpy:1585 #-#-# translate crowdin event_info_60_fee57787:
 msgid "[_RT_] {i}Mrs. Stone is up for almost anything... I wonder how far she'll go if I keep visiting her each week.{/i}"
 msgstr "[_RT_] {i}Bayan Stone neredeyse her şey için hazır ... Onu her hafta ziyaret etseydim ne kadar ileri gidebileceğini merak ediyorum."
 
-# game/Phone_event_screen.rpy:1571 #-#-# translate crowdin event_info_61_78a44907:
+# game/Phone_event_screen.rpy:1589 #-#-# translate crowdin event_info_61_78a44907:
 msgid "[_RT_] {i}I think I've heard Mandy watching TV in the lounge with Lauren in the evenings. I should go see them.{/i}"
 msgstr "[_RT_] {i}Sanırım Mandy 'nin akşamları Lauren ile birlikte salonda TV izlediğimi duydum. Gidip onları görmeliyim."
 
-# game/Phone_event_screen.rpy:1576 #-#-# translate crowdin event_info_62_8ef0465d:
+# game/Phone_event_screen.rpy:1594 #-#-# translate crowdin event_info_62_8ef0465d:
 msgid "[_RT_] {i}I've got to plant a camera in the girls locker room at school so that Agent Diaz will dig up some dirt on Matt.{/i}"
 msgstr "[_RT_] {i}okulda kızlar soyunma odasına bir kamera yerleştirmem gerekiyor ki Ajan Diaz Matt 'in pisliklerinden bir şeyler çıkaracaklar."
 
-# game/Phone_event_screen.rpy:1579 #-#-# translate crowdin event_info_62_74383b81:
+# game/Phone_event_screen.rpy:1597 #-#-# translate crowdin event_info_62_74383b81:
 msgid "[_RT_] {i}I need to let Diaz know that I was able to install the spy-cam in the girls locker room.{/i}"
 msgstr "[_RT_] {i}Diaz'a kızların soyunma odasına casus kamera yerleştirebildiğimi söylemeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1582 #-#-# translate crowdin event_info_62_2081ef45:
+# game/Phone_event_screen.rpy:1600 #-#-# translate crowdin event_info_62_2081ef45:
 msgid "[_RT_] {i}I wonder if Diaz has found any dirt on Matt yet?{/i}"
 msgstr "[_RT_] {i}Acaba Diaz Matt hakkında bir şey bulabildi mi?{/i}"
 
-# game/Phone_event_screen.rpy:1585 #-#-# translate crowdin event_info_62_84e4e29d:
+# game/Phone_event_screen.rpy:1603 #-#-# translate crowdin event_info_62_84e4e29d:
 msgid "[_RT_] {i}I've got the video Diaz gave me, and I'll bet Megan would be willing to go further than a blowjob to get it. But I don't want to lose my virginity to Megan. I should spend my time with Sidney before I give Megan this video.{/i}"
 msgstr "[_RT_] {i}Diaz'ın bana verdiği video var ve bahse girerim Megan onu almak için sakso çekmekten daha fazlasını yapmak isteyecektir. Ama bekaretimi Megan'a kaptırmak istemiyorum. Megan'a bu videoyu vermeden önce Sidney'le vakit geçirmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1588 #-#-# translate crowdin event_info_62_0c599b15:
+# game/Phone_event_screen.rpy:1606 #-#-# translate crowdin event_info_62_0c599b15:
 msgid "[_RT_] {i}I should talk to Megan in class about what Diaz recorded in the locker room.{/i}"
 msgstr "[_RT_] {i}Diaz'ın soyunma odasında kaydettikleri hakkında Megan'la sınıfta konuşmalıyım.{/i}"
 
-# game/Phone_event_screen.rpy:1592 #-#-# translate crowdin event_info_63_633d8f0b:
+# game/Phone_event_screen.rpy:1610 #-#-# translate crowdin event_info_63_633d8f0b:
 msgid "[_RT_] {i}Mandy and Lauren will be showering together every weekday. The only time I might catch her alone in the shower is on the weekend. I wonder if she'll put on a good show when her libido is full?{/i}"
 msgstr "[_RT_] {i}Mandy ve Lauren hafta içi her gün birlikte duş alacaklar. Onu duşta yalnız yakalayabileceğim tek zaman hafta sonları. Acaba libidosu doluyken iyi bir gösteri sergileyecek mi?{/i}"
 
-# game/Phone_event_screen.rpy:1596 #-#-# translate crowdin event_info_64_5fac0199:
+# game/Phone_event_screen.rpy:1614 #-#-# translate crowdin event_info_64_5fac0199:
 msgid "[_RT_] {i}Mandy's always alone in Lauren's room in the evening. I wonder what I'll see if her libido is full.{/i}"
 msgstr "[_RT_] {i}Mandy akşamları Lauren'in odasında hep yalnızdır. Libidosu doluysa ne göreceğimi merak ediyorum.{/i}"
 
-# game/Phone_event_screen.rpy:1600 #-#-# translate crowdin event_info_65_1a28dd4a:
+# game/Phone_event_screen.rpy:1618 #-#-# translate crowdin event_info_65_1a28dd4a:
 msgid "[_RT_] {i}Aunt Cami always showers in the afternoon, I wonder what I'll see if I spy on her when her libido is full.{/i}"
 msgstr "[_RT_] {i}Cami Teyze her zaman öğleden sonra duş alır, libidosu doluyken onu gözetlediğimde ne göreceğimi merak ediyorum.{/i}"
 
-# game/Phone_event_screen.rpy:1604 #-#-# translate crowdin event_info_66_87fe1c2d:
+# game/Phone_event_screen.rpy:1622 #-#-# translate crowdin event_info_66_87fe1c2d:
 msgid "[_RT_] {i}Aunt Cami's always alone in Mom's room in the evening. I wonder what I'll see if her libido is full.{/i}"
 msgstr "[_RT_] {i}Cami Teyze akşamları annemin odasında hep yalnızdır. Libidosu doluysa ne göreceğimi merak ediyorum.{/i}"
 
-# game/Phone_event_screen.rpy:1608 #-#-# translate crowdin event_info_67_01033ce4:
+# game/Phone_event_screen.rpy:1626 #-#-# translate crowdin event_info_67_01033ce4:
 msgid "[_RT_] {i}I should just keep visiting Lauren's room at night. I want to see where it will lead.{/i}"
 msgstr "[_RT_] {i}Geceleri Lauren'ın odasını ziyaret etmeye devam etmeliyim. Nereye varacağını görmek istiyorum.{/i}"
 
-# game/Phone_event_screen.rpy:1613 #-#-# translate crowdin event_info_68_b58e81cb:
+# game/Phone_event_screen.rpy:1631 #-#-# translate crowdin event_info_68_b58e81cb:
 msgid "[_RT_] {i}I need to keep Lauren happy by helping her do as good as possible in the polls. Mandy would be a good help, it's too bad she doesn't live with us.{/i}"
 msgstr "[_RT_] {i}Lauren'in anketlerde olabildiğince iyi sonuç almasına yardım ederek onu mutlu tutmalıyım. Mandy iyi bir yardımcı olurdu, bizimle yaşamıyor olması çok kötü.{/i}"
 
-# game/Phone_event_screen.rpy:1616 #-#-# translate crowdin event_info_68_216be146:
+# game/Phone_event_screen.rpy:1634 #-#-# translate crowdin event_info_68_216be146:
 msgid "[_RT_] {i}I need to keep Lauren happy by helping her do as good as possible in the polls. Maybe Mandy could be of help too. I should improve my relationship with her by visiting her every night.{/i}"
 msgstr "[_RT_] {i}Lauren'in anketlerde olabildiğince başarılı olmasına yardım ederek onu mutlu tutmalıyım. Belki Mandy de yardımcı olabilir. Her gece onu ziyaret ederek onunla ilişkimi geliştirmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1619 #-#-# translate crowdin event_info_68_74b99636:
+# game/Phone_event_screen.rpy:1637 #-#-# translate crowdin event_info_68_74b99636:
 msgid "[_RT_] {i}Lauren gets so sad when she loses in the polls. Imagine how happy she'd be if she were to win every week.{/i}"
 msgstr "[_RT_] {i}Lauren anketlerde kaybedince çok üzülüyor. Her hafta kazansa ne kadar mutlu olacağını hayal edin.{/i}"
 
-# game/Phone_event_screen.rpy:1623 #-#-# translate crowdin event_info_69_6617e691:
+# game/Phone_event_screen.rpy:1641 #-#-# translate crowdin event_info_69_6617e691:
 msgid "[_RT_] {i}With Cousin Mandy in Lauren's room, Agent Diaz's visits could get interesting. I should still make sure to pay to keep them safe.{/i}"
 msgstr "[_RT_] {i}Kuzen Mandy Lauren'ın odasındayken, Ajan Diaz'ın ziyaretleri ilginçleşebilir. Yine de onları güvende tutmak için ödeme yaptığımdan emin olmalıyım.{/i}"
 
-# game/Phone_event_screen.rpy:1627 #-#-# translate crowdin event_info_70_d371ddf0:
+# game/Phone_event_screen.rpy:1645 #-#-# translate crowdin event_info_70_d371ddf0:
 msgid "[_RT_] {i}With Cousin Mandy in Lauren's room, Agent Diaz's visits could get interesting. I wonder what would happen if I don't pay Diaz this week?{/i}"
 msgstr "[_RT_] {i}Kuzen Mandy Lauren'ın odasındayken, Ajan Diaz'ın ziyaretleri ilginçleşebilir. Bu hafta Diaz'a ödeme yapmazsam ne olur acaba?{/i}"
 
-# game/Phone_event_screen.rpy:1632 #-#-# translate crowdin event_info_71_3a3558ac:
+# game/Phone_event_screen.rpy:1650 #-#-# translate crowdin event_info_71_3a3558ac:
 msgid "[_RT_] {i}I need to visit school board member Will Tylor. I can probably find his office on my map in the late morning or afternoon.{/i}"
 msgstr "[_RT_] {i}Okul yönetim kurulu üyesi Will Tylor'ı ziyaret etmem gerekiyor. Muhtemelen sabah geç saatlerde ya da öğleden sonra haritamda ofisini bulabilirim.{/i}"
 
-# game/Phone_event_screen.rpy:1635 #-#-# translate crowdin event_info_71_ba138732:
+# game/Phone_event_screen.rpy:1653 #-#-# translate crowdin event_info_71_ba138732:
 msgid "[_RT_] {i}Will Tylor wants a fucking date with my mom?... Should I help him out?... Changing the dress code would almost guarantee that Lauren would win.{/i}"
 msgstr "[_RT_] {i}Will Tylor annemle çıkmak mı istiyor? Ona yardım etmeli miyim? Kıyafet yönetmeliğini değiştirmek Lauren'ın kazanmasını garanti ederdi.{/i}"
 
-# game/Phone_event_screen.rpy:1636 #-#-# translate crowdin event_info_71_0b52e09f:
+# game/Phone_event_screen.rpy:1654 #-#-# translate crowdin event_info_71_0b52e09f:
 msgid "[_RT_] {i}I'd have to convince Mom to go to dinner with him though... I don't know if she would. I think she hates him... I could ask her at breakfast. She seems to be in a better mood in the morning.{/i}"
 msgstr "[_RT_] {i}Yine de annemi onunla yemeğe gitmeye ikna etmem gerekecek. Yapar mı bilmiyorum. Sanırım ondan nefret ediyor. Kahvaltıda sorabilirim. Sabahları daha iyi bir ruh halinde oluyor.{/i}"
 
-# game/Phone_event_screen.rpy:1639 #-#-# translate crowdin event_info_71_44bcec30:
+# game/Phone_event_screen.rpy:1657 #-#-# translate crowdin event_info_71_44bcec30:
 msgid "[_RT_] {i}I've sent Will an email letting him know my mom is willing to meet him for dinner. Now I've just got to wait for his reply. I'm sure it won't take longer than a week. I'll bet he sends it on Saturday when he's got a little more time.{/i}"
 msgstr "[_RT_] {i}Will'e annemin onunla akşam yemeği için buluşmak istediğini bildiren bir e-posta gönderdim. Şimdi tek yapmam gereken cevabını beklemek. Bir haftadan uzun sürmeyeceğine eminim. Bahse girerim cumartesi günü biraz daha vakti olduğunda gönderir.{/i}"
 
-# game/Phone_event_screen.rpy:1643 #-#-# translate crowdin event_info_72_a06cd21d:
+# game/Phone_event_screen.rpy:1661 #-#-# translate crowdin event_info_72_a06cd21d:
 msgid "[_RT_] {i}After what Sidney and I did in the club, I wonder if she'll be willing to go further at the park.{/i}"
 msgstr "[_RT_] {i}Sidney'le kulüpte yaptıklarımızdan sonra, parkta daha ileri gitmeye istekli olup olmayacağını merak ediyorum.{/i}"
 
-# game/Phone_event_screen.rpy:1647 #-#-# translate crowdin event_info_73_349607b2:
+# game/Phone_event_screen.rpy:1665 #-#-# translate crowdin event_info_73_349607b2:
 msgid "[_RT_] {i}After what Sidney and I did in the club, I wonder if she'll be willing to go further in the bedroom.{/i}"
 msgstr "[_RT_] {i}Sidney'le kulüpte yaptıklarımızdan sonra, acaba yatak odasında daha ileri gitmek isteyecek mi?{/i}"
 
-# game/Phone_event_screen.rpy:1651 #-#-# translate crowdin event_info_74_3525a635:
+# game/Phone_event_screen.rpy:1669 #-#-# translate crowdin event_info_74_3525a635:
 msgid "[_RT_] {i}After what Sidney and I did in the club, I wonder if she'll be willing to go further after a photoshoot.{/i}"
 msgstr "[_RT_] {i}Sidney'le kulüpte yaptıklarımızdan sonra, bir fotoğraf çekiminden sonra daha ileri gitmek isteyip istemeyeceğini merak ediyorum.{/i}"
 
-# game/Phone_event_screen.rpy:1655 #-#-# translate crowdin event_info_75_c09fbcc3:
+# game/Phone_event_screen.rpy:1673 #-#-# translate crowdin event_info_75_c09fbcc3:
 msgid "[_RT_] {i}After what Sidney and I did in the club, I wonder if she'll be willing to keep doing it there.{/i}"
 msgstr "[_RT_] {i}Sidney'le kulüpte yaptıklarımızdan sonra, orada yapmaya devam etmek isteyip istemeyeceğini merak ediyorum.{/i}"
 
-# game/Phone_event_screen.rpy:1659 #-#-# translate crowdin event_info_76_c87dd0d8:
+# game/Phone_event_screen.rpy:1677 #-#-# translate crowdin event_info_76_c87dd0d8:
 msgid "[_RT_] {i}The more events, and school influence I gain, the better the outcome of the election. {p}The election will start on a Friday. I just need to be in class when it begins.{/i}"
 msgstr "[_RT_] {i}Ne kadar çok etkinlik ve okul etkisi kazanırsam, seçimin sonucu o kadar iyi olur. {p}Seçim Cuma günü başlayacak. Sadece başladığında sınıfta olmam gerekiyor."
 
-# game/Phone_event_screen.rpy:1660 #-#-# translate crowdin event_info_76_e82579f1:
+# game/Phone_event_screen.rpy:1678 #-#-# translate crowdin event_info_76_e82579f1:
 msgid "[_RT_] {i}I'd better be sure I've completed all my tasks before... I won't be able to do them after the election.{/i}"
 msgstr "[_RT_] {i}Daha önce tüm görevlerimi tamamladığımdan emin olsam iyi olur... Seçimden sonra onları yapamayacağım.{/i}"
 
-# game/Phone_event_screen.rpy:1664 #-#-# translate crowdin event_info_77_9051e9d4:
+# game/Phone_event_screen.rpy:1682 #-#-# translate crowdin event_info_77_9051e9d4:
 msgid "[_RT_] {i}Now that Lauren is the student body president, she gets to read the morning announcements. I should listen to a few of them on Monday mornings.{/i}"
 msgstr "[_RT_] {i}Lauren artık öğrenci birliği başkanı olduğu için sabah duyurularını o okuyor. Pazartesi sabahları birkaçını dinlemeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1668 #-#-# translate crowdin event_info_78_6c53e1cb:
+# game/Phone_event_screen.rpy:1686 #-#-# translate crowdin event_info_78_6c53e1cb:
 msgid "[_RT_] {i}I'll bet I can go even further with Lauren when we watch tv in the evenings.{/i}"
 msgstr "[_RT_] {i}Akşamları televizyon izlerken Lauren ile daha da ileri gidebileceğime bahse girerim.{/i}"
 
-# game/Phone_event_screen.rpy:1673 #-#-# translate crowdin event_info_79_f0affadf:
+# game/Phone_event_screen.rpy:1691 #-#-# translate crowdin event_info_79_f0affadf:
 msgid "[_RT_] {i}I think Lauren and I both feel extra horny after a photoshoot. I wonder if I can push things any further after our next photo session.{/i}"
 msgstr "[_RT_] {i}Sanırım Lauren ve ben fotoğraf çekiminden sonra daha da azmış hissediyoruz. Bir sonraki fotoğraf çekimimizden sonra işleri daha da zorlayabilir miyim merak ediyorum.{/i}"
 
-# game/Phone_event_screen.rpy:1676 #-#-# translate crowdin event_info_79_9b93ea4a:
+# game/Phone_event_screen.rpy:1694 #-#-# translate crowdin event_info_79_9b93ea4a:
 msgid "[_RT_] {i}I'll bet I can breed with Lauren the dragon breeder after our next photo session.{/i}"
 msgstr "[_RT_] {i}Bir sonraki fotoğraf seansımızdan sonra ejderha yetiştiricisi Lauren ile çiftleşebileceğime bahse girerim.{/i}"
 
-# game/Phone_event_screen.rpy:1680 #-#-# translate crowdin event_info_80_c0ddeef9:
+# game/Phone_event_screen.rpy:1698 #-#-# translate crowdin event_info_80_c0ddeef9:
 msgid "[_RT_] {i}With so many people in the house, it's hard to catch Lauren alone... She usually showers alone early on Saturday. That might be a good opportunity for some more fun.{/i}"
 msgstr "[_RT_] {i}Evde bu kadar çok insan varken Lauren'i yalnız yakalamak zor. Genelde cumartesi günleri erkenden tek başına duş alır. Bu biraz daha eğlenmek için iyi bir fırsat olabilir.{/i}"
 
-# game/Phone_event_screen.rpy:1684 #-#-# translate crowdin event_info_81_3cdb9017:
+# game/Phone_event_screen.rpy:1702 #-#-# translate crowdin event_info_81_3cdb9017:
 msgid "[_RT_] {i}I need to stop Mom from masturbating in the bathroom.{/i}"
 msgstr "[_RT_] {i}Annemin banyoda mastürbasyon yapmasını engellemem lazım.{/i}"
 
-# game/Phone_event_screen.rpy:1688 #-#-# translate crowdin event_info_82_b8e2b7f5:
+# game/Phone_event_screen.rpy:1706 #-#-# translate crowdin event_info_82_b8e2b7f5:
 msgid "[_RT_] {i}I need to stop Mom from masturbating in her office.{/i}"
 msgstr "[_RT_] {i}Annemin ofisinde mastürbasyon yapmasını engellemem lazım.{/i}"
 
-# game/Phone_event_screen.rpy:1692 #-#-# translate crowdin event_info_83_90618492:
+# game/Phone_event_screen.rpy:1710 #-#-# translate crowdin event_info_83_90618492:
 msgid "[_RT_] {i}I need to stop Mom from masturbating in her bedroom.{/i}"
 msgstr "[_RT_] {i}Annemin yatak odasında mastürbasyon yapmasını engellemeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1697 #-#-# translate crowdin event_info_84_11f14d54:
+# game/Phone_event_screen.rpy:1715 #-#-# translate crowdin event_info_84_11f14d54:
 msgid "[_RT_] {i}I should pay Mom a visit in the kitchen, on Sunday, in the early morning.{/i}"
 msgstr "[_RT_] {i}Pazar günü sabah erkenden annemi mutfakta ziyaret etmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1700 #-#-# translate crowdin event_info_84_7b75e84e:
+# game/Phone_event_screen.rpy:1718 #-#-# translate crowdin event_info_84_7b75e84e:
 msgid "[_RT_] {i}Mom wants me to take a shower before we go visit Dad.{/i}"
 msgstr "[_RT_] {i}Annem babamı ziyarete gitmeden önce duş almamı istiyor.{/i}"
 
-# game/Phone_event_screen.rpy:1703 #-#-# translate crowdin event_info_84_2e94e2f5:
+# game/Phone_event_screen.rpy:1721 #-#-# translate crowdin event_info_84_2e94e2f5:
 msgid "[_RT_] {i}All cleaned up. I should go check on Mom.{/i}"
 msgstr "[_RT_] {i}Her şey temizlendi. Gidip annemi kontrol etmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1706 #-#-# translate crowdin event_info_84_ad177acb:
+# game/Phone_event_screen.rpy:1724 #-#-# translate crowdin event_info_84_ad177acb:
 msgid "[_RT_] {i}I should go wait for Mom in the car... I can get in the car by going to the city map.{/i}"
 msgstr "[_RT_] {i}Gidip annemi arabada beklemeliyim... Şehir haritasına giderek arabaya binebilirim.{/i}"
 
-# game/Phone_event_screen.rpy:1711 #-#-# translate crowdin event_info_85_86fdcc0a:
+# game/Phone_event_screen.rpy:1729 #-#-# translate crowdin event_info_85_86fdcc0a:
 msgid "[_RT_] {i}If I stop Mom from masturbating in the shower in the evening, she's going to want to finish herself off at night. That's why she's kicking Aunt Cami out of the bedroom.{/i}"
 msgstr "[_RT_] {i}Annemin akşamları duşta mastürbasyon yapmasını engellersem, gece kendini bitirmek isteyecektir. Bu yüzden Cami teyzeyi yatak odasından kovuyor.{/i}"
 
-# game/Phone_event_screen.rpy:1712 #-#-# translate crowdin event_info_85_8f34d855:
+# game/Phone_event_screen.rpy:1730 #-#-# translate crowdin event_info_85_8f34d855:
 msgid "[_RT_] {i}To stop Mom from masturbating in the shower, her libido has to be full. Those adult visual novels she plays in her office seems to do the trick.{/i}"
 msgstr "[_RT_] {i}Annemin duşta mastürbasyon yapmasını engellemek için libidosunun dolu olması gerekir. Ofisinde oynadığı yetişkin görsel romanları işe yarıyor gibi görünüyor.{/i}"
 
-# game/Phone_event_screen.rpy:1713 #-#-# translate crowdin event_info_85_ce1e8d86:
+# game/Phone_event_screen.rpy:1731 #-#-# translate crowdin event_info_85_ce1e8d86:
 msgid "[_RT_] {i}So, I need to make sure Mom's libido is full by going to her office in the afternoon, stop her from masturbating in the shower in the evening, Then she'll kick Aunt Cami out to sleep in the lounge at night.{/i}"
 msgstr "[_RT_] {i}Bu yüzden, öğleden sonra ofisine giderek annemin libidosunun dolu olduğundan emin olmalıyım, akşam duşta mastürbasyon yapmasını engellemeliyim, Sonra geceleri Cami Teyze'yi salonda uyuması için dışarı atacak.{/i}"
 
-# game/Phone_event_screen.rpy:1714 #-#-# translate crowdin event_info_85_eff22b06:
+# game/Phone_event_screen.rpy:1732 #-#-# translate crowdin event_info_85_eff22b06:
 msgid "[_RT_] {i}Damn! That's a lot of steps to get Aunt Cami to sleep on the couch! Once she's on the couch, I should have a nice conversation with her.{/i}"
 msgstr "[_RT_] {i}Vay be! Cami Teyze'yi kanepede uyutmak için çok fazla adım var! Kanepeye yattığında, onunla güzel bir konuşma yapmalıyım.{/i}"
 
-# game/Phone_event_screen.rpy:1717 #-#-# translate crowdin event_info_85_c1c13846:
+# game/Phone_event_screen.rpy:1735 #-#-# translate crowdin event_info_85_c1c13846:
 msgid "[_RT_] {i}I'm sure Aunt Camille's going to notice that Sidney's not sleeping on the couch anymore. Hopefully she doesn't suspect that she's been sleeping in my room.{/i}"
 msgstr "[_RT_] {i}Eminim Camille Teyze Sidney'nin artık kanepede uyumadığını fark edecektir. Umarım benim odamda uyuduğundan şüphelenmez.{/i}"
 
-# game/Phone_event_screen.rpy:1718 #-#-# translate crowdin event_info_85_f926600a:
+# game/Phone_event_screen.rpy:1736 #-#-# translate crowdin event_info_85_f926600a:
 msgid "[_RT_] {i}I guess I'll just have to wait and hope nothing bad comes of this.{/i}"
 msgstr "[_RT_] {i}Sanırım beklemek ve bundan kötü bir şey çıkmamasını ummak zorundayım.{/i}"
 
-# game/Phone_event_screen.rpy:1723 #-#-# translate crowdin event_info_86_e6e39f04:
+# game/Phone_event_screen.rpy:1741 #-#-# translate crowdin event_info_86_e6e39f04:
 msgid "[_RT_] {i}I can't expect to corrupt Aunt Camille more if I haven't started corrupting her at all. I should try to get her to flash me her boobs when she's cleaning the bathroom in the morning.{/i}"
 msgstr "[_RT_] {i}Eğer Camille Teyze'yi daha fazla yoldan çıkarmaya başlamadıysam, onu daha fazla yoldan çıkarmayı bekleyemem. Sabahları banyoyu temizlerken bana göğüslerini göstermesini sağlamaya çalışmalıyım.{/i}"
 
-# game/Phone_event_screen.rpy:1726 #-#-# translate crowdin event_info_86_2f9141a9:
+# game/Phone_event_screen.rpy:1744 #-#-# translate crowdin event_info_86_2f9141a9:
 msgid "[_RT_] {i}I could use some help corrupting Aunt Camille. I should increase my relationship with Cousin Mandy by playing truth or dare with her in the evening.{/i}"
 msgstr "[_RT_] {i}Camille Teyze'yi ayartmak için biraz yardıma ihtiyacım var. Akşamları onunla doğruluk mu cesaret mi oynayarak Kuzen Mandy ile ilişkimi geliştirmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1729 #-#-# translate crowdin event_info_86_91341691:
+# game/Phone_event_screen.rpy:1747 #-#-# translate crowdin event_info_86_91341691:
 msgid "[_RT_] {i}Aunt Cami's no longer behind a locked door every night. I should visit her in the lounge when she's sleeping on the couch.{/i}"
 msgstr "[_RT_] {i}Cami Teyze artık her gece kilitli bir kapının ardında değil. Kanepede uyurken onu salonda ziyaret etmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1732 #-#-# translate crowdin event_info_86_8a1bcca5:
+# game/Phone_event_screen.rpy:1750 #-#-# translate crowdin event_info_86_8a1bcca5:
 msgid "[_RT_] {i}Aunt Camille's not going to talk to me if I don't juice her up a little. I'd better buy some wine from Hardnlong.com and pick it up at the warehouse.{/i}"
 msgstr "[_RT_] {i}Camille Teyze'yi biraz canlandırmazsam benimle konuşmayacak. Hardnlong.com'dan biraz şarap alıp depodan alsam iyi olacak.{/i}"
 
-# game/Phone_event_screen.rpy:1735 #-#-# translate crowdin event_info_86_4dce1887:
+# game/Phone_event_screen.rpy:1753 #-#-# translate crowdin event_info_86_4dce1887:
 msgid "[_RT_] {i}I need to keep visiting Aunt Camille in the lounge every night Mom kicks her out of her bedroom.{/i}"
 msgstr "[_RT_] {i}Annemin onu yatak odasından kovduğu her gece Camille Teyze'yi salonda ziyaret etmeye devam etmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1740 #-#-# translate crowdin event_info_87_9e524001:
+# game/Phone_event_screen.rpy:1758 #-#-# translate crowdin event_info_87_9e524001:
 msgid "[_RT_] {i}I need to max out Mom's libido.{/i}"
 msgstr "[_RT_] {i}Annemin libidosunu yükseltmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1743 #-#-# translate crowdin event_info_87_8786ab1c:
+# game/Phone_event_screen.rpy:1761 #-#-# translate crowdin event_info_87_8786ab1c:
 msgid "[_RT_] {i}I need to keep raising \"Mom's Sexual Frustration\" by preventing her from masturbating in her favorite places, then return to the bathroom when her frustration is at its max (10 pts).{/i}"
 msgstr "[_RT_] {i}En sevdiği yerlerde mastürbasyon yapmasını engelleyerek \"Annenin Cinsel Hayal Kırıklığı \"nı yükseltmeye devam etmeli, ardından hayal kırıklığı en üst düzeye çıktığında banyoya dönmeliyim (10 puan).{/i}"
 
-# game/Phone_event_screen.rpy:1748 #-#-# translate crowdin event_info_88_bdfed69d:
+# game/Phone_event_screen.rpy:1766 #-#-# translate crowdin event_info_88_bdfed69d:
 msgid "[_RT_] {i}I need to stop Mom from masturbating in her bedroom when her libido is full.{/i}"
 msgstr "[_RT_] {i}Annemin libidosu doluyken yatak odasında mastürbasyon yapmasını engellemem gerek.{/i}"
 
-# game/Phone_event_screen.rpy:1751 #-#-# translate crowdin event_info_88_a4f80555:
+# game/Phone_event_screen.rpy:1769 #-#-# translate crowdin event_info_88_a4f80555:
 msgid "[_RT_] {i}I need to stop Mom from masturbating in the bathroom when her libido is full.{/i}"
 msgstr "[_RT_] {i}Annemin libidosu doluyken yatak odasında mastürbasyon yapmasını engellemem gerek.{/i}"
 
-# game/Phone_event_screen.rpy:1754 #-#-# translate crowdin event_info_88_0fbf134d:
+# game/Phone_event_screen.rpy:1772 #-#-# translate crowdin event_info_88_0fbf134d:
 msgid "[_RT_] {i}I need to keep raising Mom's sexual frustration until it's at its max (10 pts).{/i}"
 msgstr "[_RT_] {i}Annemin cinsel hayal kırıklığını en fazla (10 puan) oluncaya kadar büyütmeye devam etmek istiyorum. { /i }"
 
-# game/Phone_event_screen.rpy:1757 #-#-# translate crowdin event_info_88_9eceb03e:
+# game/Phone_event_screen.rpy:1775 #-#-# translate crowdin event_info_88_9eceb03e:
 msgid "[_RT_] {i}It's going to be tough to get Mom to do anything too crazy in her office if I don't get her to do it elsewhere first... I should keep trying to take the next step with her in the bathroom in the evening.{/i}"
 msgstr "[_RT_] {i}Önce başka bir yerde yapmasını sağlamazsam, annemin ofisinde çok çılgınca bir şey yapmasını sağlamak zor olacak... Akşamları banyoda onunla bir sonraki adımı atmaya çalışmalıyım.{/i}"
 
-# game/Phone_event_screen.rpy:1760 #-#-# translate crowdin event_info_88_43b96528:
+# game/Phone_event_screen.rpy:1778 #-#-# translate crowdin event_info_88_43b96528:
 msgid "[_RT_] {i}I need to visit Mom in her office in the afternoon.{/i}"
 msgstr "[_RT_] {i}öğleden sonra annemi ofisinde ziyaret etmek istiyorum. { /i }"
 
-# game/Phone_event_screen.rpy:1765 #-#-# translate crowdin event_info_89_bb1feb03:
+# game/Phone_event_screen.rpy:1783 #-#-# translate crowdin event_info_89_bb1feb03:
 msgid "[_RT_] {i}I've been keeping Mom out of the club. Thank God! That will keep me from completing this NTR event.{/i}"
 msgstr "[_RT_] {i}annemi kulüpten uzak tutuyorum. Tanrıya şükür! Bu beni bu NTR olayını tamamlamamdan alıkoyacaktır. { /i }"
 
-# game/Phone_event_screen.rpy:1768 #-#-# translate crowdin event_info_89_8556d192:
+# game/Phone_event_screen.rpy:1786 #-#-# translate crowdin event_info_89_8556d192:
 msgid "[_RT_] {i}I've been making such good choices that I'm not going to be able to complete this NTR event. Not that I want to, I want my girls to be loyal.{/i}"
 msgstr "[_RT_] {i}Bu NTR olayını tamamlamayacağımı çok iyi biliyorum. İstediğimden değil, kızlarımın sadık olmasını istiyorum. { /i }"
 
-# game/Phone_event_screen.rpy:1771 #-#-# translate crowdin event_info_89_93a4cd58:
+# game/Phone_event_screen.rpy:1789 #-#-# translate crowdin event_info_89_93a4cd58:
 msgid "[_RT_] {i}I need to keep visiting Aunt Camille in the Lounge whenever Mom kicks her out of her room.{/i}"
 msgstr "[_RT_] {i}Annemin onu yatak odasından kovduğu her gece Camille Teyze'yi salonda ziyaret etmeye devam etmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1774 #-#-# translate crowdin event_info_89_41219f6c:
+# game/Phone_event_screen.rpy:1792 #-#-# translate crowdin event_info_89_41219f6c:
 msgid "[_RT_] {i}Mom told Dad she would deliver a letter from him to Joey DeCapo... I wonder what happened with that?... I shouldn't have to wait more than a week to find out.{/i}"
 msgstr "[_RT_] {i}annem babama, ondan Joey DeCapo 'ya bir mektup göndereceğini söyledi. Bununla ne oldu merak ediyorum? Bunu öğrenmek için bir haftadan fazla beklemek zorunda kalmamalıyım. { /i }"
 
-# game/Phone_event_screen.rpy:1779 #-#-# translate crowdin event_info_90_93a4cd58:
+# game/Phone_event_screen.rpy:1797 #-#-# translate crowdin event_info_90_93a4cd58:
 msgid "[_RT_] {i}I need to keep visiting Aunt Camille in the Lounge whenever Mom kicks her out of her room.{/i}"
 msgstr "[_RT_] {i}Annemin onu yatak odasından kovduğu her gece Camille Teyze'yi salonda ziyaret etmeye devam etmeliyim.{/i}"
 
-# game/Phone_event_screen.rpy:1782 #-#-# translate crowdin event_info_90_41219f6c:
+# game/Phone_event_screen.rpy:1800 #-#-# translate crowdin event_info_90_41219f6c:
 msgid "[_RT_] {i}Mom told Dad she would deliver a letter from him to Joey DeCapo... I wonder what happened with that?... I shouldn't have to wait more than a week to find out.{/i}"
 msgstr "[_RT_] {i}annem babama, ondan Joey DeCapo 'ya bir mektup göndereceğini söyledi. Bununla ne oldu merak ediyorum? Bunu öğrenmek için bir haftadan fazla beklemek zorunda kalmamalıyım. { /i }"
 
-# game/Phone_event_screen.rpy:1787 #-#-# translate crowdin event_info_91_84cdb9de:
+# game/Phone_event_screen.rpy:1805 #-#-# translate crowdin event_info_91_84cdb9de:
 msgid "[_RT_] {i}The journey of a thousand miles starts with a single step. Corrupting Mom will be no easy task, but visiting her room in the early mornings might be a good first step.{/i}"
 msgstr "[_RT_] {i}bin km ' lik yolculuk tek bir adımla başlıyor. Annemin yozlaştırılması kolay bir iş olmayacak. Ama sabah erken saatlerde odasını ziyaret etmek iyi bir ilk adım olabilir."
 
-# game/Phone_event_screen.rpy:1788 #-#-# translate crowdin event_info_91_31caaae9:
+# game/Phone_event_screen.rpy:1806 #-#-# translate crowdin event_info_91_31caaae9:
 msgid "[_RT_] {i}As I make progress with her in other places, I'm sure the possibilities in her bedroom in the early morning will increase as well.{/i}"
 msgstr "[_RT_] {i}Onunla başka yerlerde ilerleme kaydettikçe, eminim ki yatak odasındaki olasılıklar sabahın erken saatlerinde de artacaktır."
 
-# game/Phone_event_screen.rpy:1791 #-#-# translate crowdin event_info_91_dd94d556:
+# game/Phone_event_screen.rpy:1809 #-#-# translate crowdin event_info_91_dd94d556:
 msgid "[_RT_] {i}Finally some progress with Mom... I've got to keep the progress going in her room each early morning as well.{/i}"
 msgstr "[_RT_] {i}Sonunda annem ile bazı gelişmeler oldu ... Her sabah onun odasında devam eden ilerlemeyi sürdürmem gerekiyor."
 
-# game/Phone_event_screen.rpy:1794 #-#-# translate crowdin event_info_91_47712705:
+# game/Phone_event_screen.rpy:1812 #-#-# translate crowdin event_info_91_47712705:
 msgid "[_RT_] {i}Mom and I are definitely getting more comfortable with looking and touching, I need to keep things progressing in her bedroom in the early mornings.{/i}"
 msgstr "[_RT_] {i}anne ve ben kesinlikle daha rahat ve dokunaklı ile daha rahat alıyordum, sabahları erken saatlerde yatak odasında işlerin ilerlemesine devam etmek lazım. { /i }"
 
-# game/Phone_event_screen.rpy:1799 #-#-# translate crowdin event_info_92_a6823d22:
+# game/Phone_event_screen.rpy:1817 #-#-# translate crowdin event_info_92_a6823d22:
 msgid "[_RT_] {i}I need to keep things progressing with Sidney.{/i}"
 msgstr "[_RT_] {i}Sidney ile devam eden şeyleri sürdürmem gerekiyor. { /i }"
 
-# game/Phone_event_screen.rpy:1802 #-#-# translate crowdin event_info_92_d2b234ee:
+# game/Phone_event_screen.rpy:1820 #-#-# translate crowdin event_info_92_d2b234ee:
 msgid "[_RT_] {i}Just because Sidney isn't working at the club on Mondays, doesn't mean I can't persuade her to work some other night. I could always visit her some evening in the kitchen and ask her to go make us some money.{/i}"
 msgstr "[_RT_] {i}çünkü Sidney kulüpte çalışmıyor çünkü onu başka bir gece çalışmaya ikna edemeyeceğim anlamına gelmiyor. Onu her zaman mutfakta ziyaret edip, gidip para kazanmasını isteyebilirim."
 
-# game/Phone_event_screen.rpy:1803 #-#-# translate crowdin event_info_92_0eeca9a9:
+# game/Phone_event_screen.rpy:1821 #-#-# translate crowdin event_info_92_0eeca9a9:
 msgid "[_RT_] {i}Plus, talking to her at the club might be a useful way to get more info to help us break free from the Mob.{/i}"
 msgstr "[_RT_] {i}Plus, kulüpte onunla konuşmak, Mob 'dan kurtulmamıza yardımcı olacak daha fazla bilgi almak için yararlı bir yol olabilir. { /i }"
 
-# game/Phone_event_screen.rpy:1806 #-#-# translate crowdin event_info_92_598888a2:
+# game/Phone_event_screen.rpy:1824 #-#-# translate crowdin event_info_92_598888a2:
 msgid "[_RT_] {i}I don't ever get a chance to talk to Sidney at the club when Mom's with her on Mondays. I can always get her to work some other day though. I could always visit her some evening in the kitchen and ask her to go make us some money.{/i}"
 msgstr "[_RT_] {i}annem Mondays 'de onunla birlikte olduğunda Sidney 'le konuşmak için bir şansım bile olmadı. Onu her zaman başka bir gün işe götürebilirim. Onu her zaman mutfakta ziyaret edip, gidip para kazanmasını isteyebilirim."
 
-# game/Phone_event_screen.rpy:1807 #-#-# translate crowdin event_info_92_0eeca9a9_1:
+# game/Phone_event_screen.rpy:1825 #-#-# translate crowdin event_info_92_0eeca9a9_1:
 msgid "[_RT_] {i}Plus, talking to her at the club might be a useful way to get more info to help us break free from the Mob.{/i}"
 msgstr "[_RT_] {i}Plus, kulüpte onunla konuşmak, Mob 'dan kurtulmamıza yardımcı olacak daha fazla bilgi almak için yararlı bir yol olabilir. { /i }"
 
-# game/Phone_event_screen.rpy:1810 #-#-# translate crowdin event_info_92_1d352c04:
+# game/Phone_event_screen.rpy:1828 #-#-# translate crowdin event_info_92_1d352c04:
 msgid "{i}Dad seemed to want Mom to do something for him. I wonder if it had anything to do with Joey at the club.{/i}"
 msgstr "{i}babam annemin onun için bir şey yapması için bir şeyler istiyor gibiydi. Acaba kulüpte Joey 'le bir ilgisi var mı?"
 
-# game/Phone_event_screen.rpy:1811 #-#-# translate crowdin event_info_92_a9b7c3bf:
+# game/Phone_event_screen.rpy:1829 #-#-# translate crowdin event_info_92_a9b7c3bf:
 msgid "{i}I should stop by sometime when Sidney's working and see if she can find anything out.{/i}"
 msgstr "{i}Sidney çalışırken bir ara uğrayıp bir şey bulabilecek mi diye bakmalıyım. { /i }"
 
-# game/Phone_event_screen.rpy:1816 #-#-# translate crowdin event_info_93_027fa306:
+# game/Phone_event_screen.rpy:1834 #-#-# translate crowdin event_info_93_027fa306:
 msgid "[_WT_] {i}If you're seeing this, I fucked something up.{/i}"
 msgstr "[_WT_] {i}Eğer bunu görüyorsanız, bir şeyi berbat ettim. { /i }"
 
-# game/Phone_event_screen.rpy:1821 #-#-# translate crowdin event_info_94_0669b526:
+# game/Phone_event_screen.rpy:1839 #-#-# translate crowdin event_info_94_0669b526:
 msgid "[_RT_] {i}Now that Lauren and Matt are hooking up, I wonder what kinds of messages she's sending him on her phone. I should keep checking on her in her room on the weekends.{/i}"
 msgstr "[_RT_] {i}Şu anda Lauren ve Matt takılıyor, acaba ona ne tür mesajlar gönderdiğini merak ediyorum. Hafta sonları odasında onu kontrol etmeye devam etmeliydim."
 
-# game/Phone_event_screen.rpy:1824 #-#-# translate crowdin event_info_94_bfbaa313:
+# game/Phone_event_screen.rpy:1842 #-#-# translate crowdin event_info_94_bfbaa313:
 msgid "[_RT_] {i}It sounds like Matt's coming over one of these nights... I'm sure they'll be looking for someplace private. I should keep an eye on Lauren's room each night.{/i}"
 msgstr "[_RT_] {i}Bu gece Matt 'in gelişi gibi geliyor. Eminim özel bir yer arıyacaklardır. Her gece Lauren 'in odasına göz kulak olmalıydım."
 
-# game/Phone_event_screen.rpy:1829 #-#-# translate crowdin event_info_95_726bc338:
+# game/Phone_event_screen.rpy:1847 #-#-# translate crowdin event_info_95_726bc338:
 msgid "[_RT_] {i}Cousin Mandy volonteered to help with the yard work. Maybe I should meet her in the Lounge on Saturday Afternoon to help her get started.{/i}"
 msgstr "Avluda yardım etmek için [_RT_] {i}kuzen Mandy volonteetti. Belki de onu işe başlamasına yardım etmek için cumartesi öğleden sonra Lounge 'da buluşmalıyım."
 
-# game/Phone_event_screen.rpy:1834 #-#-# translate crowdin event_info_96_5511dfc3:
+# game/Phone_event_screen.rpy:1852 #-#-# translate crowdin event_info_96_5511dfc3:
 msgid "[_RT_] {i}I should keep playing Truth or Dare with Lauren and Mandy in Lauren's room at night.{/i}"
 msgstr "\"[_RT_] {i}\" \"Gerçek ya da Dare\" i Lauren ve Mandy ile birlikte gece Lauren 'in odasında oynamalıyım."
 
-# game/Phone_event_screen.rpy:1837 #-#-# translate crowdin event_info_96_e1676527:
+# game/Phone_event_screen.rpy:1855 #-#-# translate crowdin event_info_96_e1676527:
 msgid "[_RT_] {i}I should keep working on Lauren's campaign until the election is over.{/i}"
 msgstr "[_RT_] {i}Seçim bitene kadar Lauren 'in kampanyasında çalışmaya devam etmek istiyorum."
 
-# game/Phone_event_screen.rpy:1840 #-#-# translate crowdin event_info_96_823b1a96:
+# game/Phone_event_screen.rpy:1858 #-#-# translate crowdin event_info_96_823b1a96:
 msgid "[_RT_] {i}I should keep cleaning the backyard on Saturday Afternoon... I'll meet Mandy in the Lounge to get started.{/i}"
 msgstr "[_RT_] {i}Cumartesi öğleden sonra arka bahçeyi temizlemeye devam etmeliydim ... Mandy ile buluşacağım. Başlamak için."
 
-# game/Phone_event_screen.rpy:1845 #-#-# translate crowdin event_info_97_80ee2bf7:
+# game/Phone_event_screen.rpy:1863 #-#-# translate crowdin event_info_97_80ee2bf7:
 msgid "[_RT_] {i}Maybe Mom will let me rub lotion on her if her libido is high enough.{/i}"
 msgstr "[_RT_] {i}belki annem ona losyonu sürmeme izin verir. eğer libido yeterince yüksekse."
 
-# game/Phone_event_screen.rpy:1850 #-#-# translate crowdin event_info_98_2006636c:
+# game/Phone_event_screen.rpy:1868 #-#-# translate crowdin event_info_98_2006636c:
 msgid "[_RT_] {i}If Mom's trying to get closer with her kids, I want in on that action. I wonder if she'd be available to do something with me early Sunday morning.{/i}"
 msgstr "[_RT_] {i}Eğer annem çocuklarıyla yakınlaşıyorsa, ben de o aksiyona girmek istiyorum. Acaba pazar sabahı erkenden benimle bir şeyler yapabilir mi acaba?"
 
-# game/Phone_event_screen.rpy:1853 #-#-# translate crowdin event_info_98_5dd939e4:
+# game/Phone_event_screen.rpy:1871 #-#-# translate crowdin event_info_98_5dd939e4:
 msgid "[_RT_] {i}Wouldn't it be great if Mom owned all the best selling lingerie?{/i}"
 msgstr "[_RT_] {i}Annemin en çok satan iç çamaşırına sahip olması harika olmaz mıydı?"
 
-# game/Phone_event_screen.rpy:1858 #-#-# translate crowdin event_info_99_cc3427bd:
+# game/Phone_event_screen.rpy:1876 #-#-# translate crowdin event_info_99_cc3427bd:
 msgid "[_RT_] {i}I'd better keep an eye on Mom and Sidney in the club each Monday night.{/i}"
 msgstr "[_RT_] {i}her pazartesi gecesi annemle Sidney 'de bir göz atsam iyi olur."
 
-# game/Phone_event_screen.rpy:1873 #-#-# translate crowdin again_tutorial_50b4b06e:
+# game/Phone_event_screen.rpy:1882 #-#-# translate crowdin event_info_100_adfe49b3:
+msgid "[_RT_] {i}Mom's getting even more busy now that she'll be gardening with Sidney. I need quality time with her too! Sunday's probably the only time we could spend time together.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1885 #-#-# translate crowdin event_info_100_947c1047:
+msgid "[_RT_] {i}Mom's getting to be so much less prudish. Maybe it's time to see what she'll do with me if I invite her on a date. Sunday's probably the only time we could both do it.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1888 #-#-# translate crowdin event_info_100_0e1ef52b:
+msgid "[_RT_] {i}I need to make the date so perfect that Mom won't be able to resist me any longer.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1893 #-#-# translate crowdin event_info_101_bec3d440:
+msgid "[_RT_] {i}I need to check out what Mandy and Lauren are doing in the yard each Sunday morning.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1896 #-#-# translate crowdin event_info_101_8ce103bc:
+msgid "[_RT_] {i}I need to buy the girls some bikinis on the Hard'n Long website, pick them up from the warehouse, and give them to the girls on Sunday morning.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1899 #-#-# translate crowdin event_info_101_78644780:
+msgid "[_RT_] {i}Corrupting the girls enough to get the type of shots that will bring them real fame is taking longer than I thought. Maybe I should start focusing more on the campaign until it's over so I can give this my full attention.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1902 #-#-# translate crowdin event_info_101_7640b858:
+msgid "[_RT_] {i}Corrupting the girls enough to get the type of shots that will bring them real fame is taking longer than I thought. Maybe I should focus more on only corrupting Mandy on the days we clean the yard.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1905 #-#-# translate crowdin event_info_101_63e6c99b:
+msgid "[_RT_] {i}I just need to keep taking pictures of the girls Sunday morning until they get those one hundred thousand followers they're after.{/i}"
+msgstr ""
+
+# game/Phone_event_screen.rpy:1920 #-#-# translate crowdin again_tutorial_50b4b06e:
 msgid "[_R_] Testing.... Testing.... Ok.... It looks like it's recording."
 msgstr "[_R_] Deneme 123... tamam... Kaydediyor gibi görünüyor."
 
-# game/Phone_event_screen.rpy:1876 #-#-# translate crowdin again_tutorial_eb7ecfdc:
+# game/Phone_event_screen.rpy:1923 #-#-# translate crowdin again_tutorial_eb7ecfdc:
 msgid "[_R_] My name is [ryan].... And if you are watching this recording, it means that I am dead."
 msgstr "[_R_] Benim adım [ryan]... ve eğer bu kaydı izliyorsanız, bu benim öldüğüm anlamına gelir."
 
-# game/Phone_event_screen.rpy:1877 #-#-# translate crowdin again_tutorial_0d8199d8:
+# game/Phone_event_screen.rpy:1924 #-#-# translate crowdin again_tutorial_0d8199d8:
 msgid "[_R_] Or I guess it could mean the extremely unlikely scenario, that my computer was hacked, and now some schmuck is using my story for financial gain."
 msgstr "[_R_] Ya da sanırım bu, bilgisayarımın hacklendiği ve şimdi bazı aptalların hikayemi maddi kazanç için kullandığı gibi son derece düşük ihtimalli bir senaryo anlamına da gelebilir."
 
-# game/Phone_event_screen.rpy:1880 #-#-# translate crowdin again_tutorial_a7a71d55:
+# game/Phone_event_screen.rpy:1927 #-#-# translate crowdin again_tutorial_a7a71d55:
 msgid "[_R_] Because the series of events I'm going to tell you about, is so unbelievable, it would make a great movie, or tv series."
 msgstr "[_R_] Çünkü size anlatacağım olaylar dizisi o kadar inanılmaz ki, harika bir film ya da dizi olabilir."
 
-# game/Phone_event_screen.rpy:1881 #-#-# translate crowdin again_tutorial_4941a26d:
+# game/Phone_event_screen.rpy:1928 #-#-# translate crowdin again_tutorial_4941a26d:
 msgid "[_R_] But probably the kind of tv series you could only see on HBO."
 msgstr "[_R_] Ama muhtemelen sadece HBO'da görebileceğiniz türden bir dizi."
 
-# game/Phone_event_screen.rpy:1884 #-#-# translate crowdin again_tutorial_047a76a4:
+# game/Phone_event_screen.rpy:1931 #-#-# translate crowdin again_tutorial_047a76a4:
 msgid "[_R_] Please God, just don't let anybody make a crappy H-game out of this."
 msgstr "[_R_] Lütfen Tanrım, kimsenin bundan berbat bir H-oyunu çıkarmasına izin verme."
 
-# game/Phone_event_screen.rpy:1888 #-#-# translate crowdin again_tutorial_29d73646:
+# game/Phone_event_screen.rpy:1935 #-#-# translate crowdin again_tutorial_29d73646:
 msgid "[_WT_] Ummm.... Hi!"
 msgstr "[_WT_] Umm... merhaba!"
 
-# game/Phone_event_screen.rpy:1889 #-#-# translate crowdin again_tutorial_327b2971:
+# game/Phone_event_screen.rpy:1936 #-#-# translate crowdin again_tutorial_327b2971:
 msgid "[_WT_] Sorry to interrupt."
 msgstr "[_WT_] Böldüğüm için özür dilerim."
 
-# game/Phone_event_screen.rpy:1890 #-#-# translate crowdin again_tutorial_3f364fff:
+# game/Phone_event_screen.rpy:1937 #-#-# translate crowdin again_tutorial_3f364fff:
 msgid "[_WT_] My name is Will Tylor and I just wanted to take this opportunity to welcome you to our \"awesome\" H-game, \"A Family Venture!\""
 msgstr "[_WT_] Benim adım Will Tylor ve bu vesileyle size \"harika\" H-oyunumuz \"A Family Venture!\"a hoş geldiniz demek istiyorum."
 
-# game/Phone_event_screen.rpy:1891 #-#-# translate crowdin again_tutorial_6be1bbb5:
+# game/Phone_event_screen.rpy:1938 #-#-# translate crowdin again_tutorial_6be1bbb5:
 msgid "[_WT_] Back to you [ryan]."
 msgstr "[_WT_] Sana dönüyoruz, [ryan]."
 
-# game/Phone_event_screen.rpy:1896 #-#-# translate crowdin again_tutorial_9888c663:
+# game/Phone_event_screen.rpy:1943 #-#-# translate crowdin again_tutorial_9888c663:
 msgid "[_R_] I wanted to record my version of the remarkable events that have occured over the last little while."
 msgstr "[_R_] Son zamanlarda meydana gelen olağanüstü olaylarla ilgili kendi versiyonumu kaydetmek istedim."
 
-# game/Phone_event_screen.rpy:1897 #-#-# translate crowdin again_tutorial_f9858483:
+# game/Phone_event_screen.rpy:1944 #-#-# translate crowdin again_tutorial_f9858483:
 msgid "[_R_] I know many wouldn't understand why I've been doing the things I'm doing, if I didn't explain myself, so this is my attempt to justify my actions."
 msgstr "[_R_] Kendimi açıklamazsam birçok kişinin yaptığım şeyleri neden yaptığımı anlamayacağını biliyorum, bu yüzden davranışlarımı haklı çıkarma girişimim."
 
-# game/Phone_event_screen.rpy:1898 #-#-# translate crowdin again_tutorial_15e2c4a9:
+# game/Phone_event_screen.rpy:1945 #-#-# translate crowdin again_tutorial_15e2c4a9:
 msgid "[_R_] I've been acquiring many items to help me achieve my goals, of saving those I love, and helping that love to become even more realized."
 msgstr "[_R_] Sevdiklerimi kurtarmak ve bu sevginin daha da gerçekleşmesine yardımcı olmak gibi hedeflerime ulaşmama yardımcı olacak birçok eşya ediniyorum."
 
-# game/Phone_event_screen.rpy:1901 #-#-# translate crowdin again_tutorial_7be5f7b4:
+# game/Phone_event_screen.rpy:1948 #-#-# translate crowdin again_tutorial_7be5f7b4:
 msgid "[_WT_] Thanks [ryan]. Let me do a little explaining from here."
 msgstr "[_WT_] Teşekkürler [ryan]. Buradan biraz açıklama yapmama izin ver."
 
-# game/Phone_event_screen.rpy:1904 #-#-# translate crowdin again_tutorial_cf17643b:
+# game/Phone_event_screen.rpy:1951 #-#-# translate crowdin again_tutorial_cf17643b:
 msgid "[_WT_] This is a typical in game screen. As [ryan] mentioned, you will acquire many items in the game."
 msgstr "[_WT_] Bu klasik bir oyun içi ekranıdır. [ryan]'ın da bahsettiği gibi, oyunda birçok eşya elde edeceksiniz."
 
-# game/Phone_event_screen.rpy:1907 #-#-# translate crowdin again_tutorial_c3f79235:
+# game/Phone_event_screen.rpy:1954 #-#-# translate crowdin again_tutorial_c3f79235:
 msgid "[_WT_] You can keep track of the items you acquire by clicking on this blue backpack."
 msgstr "[_WT_] Bu mavi sırt çantasına tıklayarak edindiğin eşyaları görebilirsin."
 
-# game/Phone_event_screen.rpy:1910 #-#-# translate crowdin again_tutorial_0556842f:
+# game/Phone_event_screen.rpy:1957 #-#-# translate crowdin again_tutorial_0556842f:
 msgid "[_WT_] This will open up your inventory,"
 msgstr "[_WT_] Envanteriniz açılacaktır,"
 
-# game/Phone_event_screen.rpy:1913 #-#-# translate crowdin again_tutorial_d644837a:
+# game/Phone_event_screen.rpy:1960 #-#-# translate crowdin again_tutorial_d644837a:
 msgid "[_WT_] where you will be able to see how much money you have earned,"
 msgstr "[_WT_] ne kadar para kazandığınızı görebileceğiniz yer,"
 
-# game/Phone_event_screen.rpy:1916 #-#-# translate crowdin again_tutorial_25ecef9b:
+# game/Phone_event_screen.rpy:1963 #-#-# translate crowdin again_tutorial_25ecef9b:
 msgid "[_WT_] and what items you have acquired."
 msgstr "[_WT_] ve hangi eşyalara sahip olduğunuz bölüm görünecektir."
 
-# game/Phone_event_screen.rpy:1919 #-#-# translate crowdin again_tutorial_48f3259e:
+# game/Phone_event_screen.rpy:1966 #-#-# translate crowdin again_tutorial_48f3259e:
 msgid "[_WT_] There are several other important items on the game screen I'd like to draw your attention to."
 msgstr "[_WT_] Oyun ekranında dikkatinizi çekmek istediğim birkaç önemli kısım daha var."
 
-# game/Phone_event_screen.rpy:1922 #-#-# translate crowdin again_tutorial_25fc2c00:
+# game/Phone_event_screen.rpy:1969 #-#-# translate crowdin again_tutorial_25fc2c00:
 msgid "[_WT_] This symbol shows you what day of the week it is,"
 msgstr "[_WT_] Bu sembol size haftanın hangi günü olduğunu gösterirken,"
 
-# game/Phone_event_screen.rpy:1925 #-#-# translate crowdin again_tutorial_0665f6d0:
+# game/Phone_event_screen.rpy:1972 #-#-# translate crowdin again_tutorial_0665f6d0:
 msgid "[_WT_] while this symbol show you the time of day."
 msgstr "[_WT_] Bu sembol size günün saatini gösterir."
 
-# game/Phone_event_screen.rpy:1928 #-#-# translate crowdin again_tutorial_2c6857c0:
+# game/Phone_event_screen.rpy:1975 #-#-# translate crowdin again_tutorial_2c6857c0:
 msgid "[_WT_] I'll let you get back to [ryan] again."
 msgstr "[_WT_] Tekrardan sana geri dönelim [ryan]."
 
-# game/Phone_event_screen.rpy:1931 #-#-# translate crowdin again_tutorial_4f74ea21:
+# game/Phone_event_screen.rpy:1978 #-#-# translate crowdin again_tutorial_4f74ea21:
 msgid "[_R_] I've had to become very good at managing my money. I've got debts I have to pay, and items I need to buy, to help influence those around me."
 msgstr "[_R_] Paramı yönetme konusunda çok iyi olmak zorunda kaldım. Çevremdekileri etkilemek için ödemem gereken borçlar ve satın almam gereken ürünler var."
 
-# game/Phone_event_screen.rpy:1934 #-#-# translate crowdin again_tutorial_88c4b13a:
+# game/Phone_event_screen.rpy:1981 #-#-# translate crowdin again_tutorial_88c4b13a:
 msgid "[_R_] I've become aware that someone, or several someones, have been tracking my movements. So, I have learned to be stealthy, and to watch my back wherever I go."
 msgstr "[_R_] Birinin ya da birkaçının hareketlerimi takip ettiğinin farkına vardım. Bu yüzden gizli olmayı ve nereye gidersem gideyim arkamı kollamayı öğrendim."
 
-# game/Phone_event_screen.rpy:1937 #-#-# translate crowdin again_tutorial_33df29b8:
+# game/Phone_event_screen.rpy:1984 #-#-# translate crowdin again_tutorial_33df29b8:
 msgid "[_WT_] Let me just pause you again for a second. [ryan] brings up a good point about getting around."
 msgstr "[_WT_] Bir saniyeliğine sizi tekrar durdurmama izin verin. [ryan] ulaşım konusunda iyi bir noktaya değindi."
 
-# game/Phone_event_screen.rpy:1938 #-#-# translate crowdin again_tutorial_c69197d0:
+# game/Phone_event_screen.rpy:1985 #-#-# translate crowdin again_tutorial_c69197d0:
 msgid "[_WT_] You will find that navigation is very important in this type of game, so let me just show you how that's done."
 msgstr "[_WT_] Bu tür bir oyunda navigasyonun çok önemli olduğunu göreceksiniz, bu yüzden size bunun nasıl yapıldığını göstereyim."
 
-# game/Phone_event_screen.rpy:1941 #-#-# translate crowdin again_tutorial_850d20d8:
+# game/Phone_event_screen.rpy:1988 #-#-# translate crowdin again_tutorial_850d20d8:
 msgid "[_WT_] On the game map, you can get around to many locations by using the travel buttons."
 msgstr "[_WT_] Oyun ekranında, seyahat butonlarını kullanarak birçok yere gidebilirsiniz."
 
-# game/Phone_event_screen.rpy:1944 #-#-# translate crowdin again_tutorial_6bfbd2da:
+# game/Phone_event_screen.rpy:1991 #-#-# translate crowdin again_tutorial_6bfbd2da:
 msgid "[_WT_] This button right here will open up a map of the house, where you can pick any room you would like to go to."
 msgstr "[_WT_] Buradaki buton, gitmek istediğiniz herhangi bir odayı seçebileceğiniz bir ev haritası açacaktır."
 
-# game/Phone_event_screen.rpy:1947 #-#-# translate crowdin again_tutorial_1e2916f7:
+# game/Phone_event_screen.rpy:1994 #-#-# translate crowdin again_tutorial_1e2916f7:
 msgid "[_WT_] You can also hover your cursor over this button, to open up the quick travel options."
 msgstr "[_WT_] Hızlı seyahat seçeneklerini açmak için imlecinizi bu butonun üzerine de getirebilirsiniz."
 
-# game/Phone_event_screen.rpy:1948 #-#-# translate crowdin again_tutorial_65da6e59:
+# game/Phone_event_screen.rpy:1995 #-#-# translate crowdin again_tutorial_65da6e59:
 msgid "[_WT_] These buttons will take you to any room in the house, as well as the world map."
 msgstr "[_WT_] Bu butonlar sizi evdeki herhangi bir odaya veya dünya haritasına götürecektir."
 
-# game/Phone_event_screen.rpy:1949 #-#-# translate crowdin again_tutorial_82d216eb:
+# game/Phone_event_screen.rpy:1996 #-#-# translate crowdin again_tutorial_82d216eb:
 msgid "[_WT_] Exploring the AFV world is vitally important, as you will find that some events only happen at certain times, and in certain places."
 msgstr "[_WT_] AFV dünyasını keşfetmek hayati derecede önemlidir, çünkü bazı olayların sadece belirli zamanlarda ve belirli yerlerde gerçekleştiğini göreceksiniz."
 
-# game/Phone_event_screen.rpy:1950 #-#-# translate crowdin again_tutorial_604a535f:
+# game/Phone_event_screen.rpy:1997 #-#-# translate crowdin again_tutorial_604a535f:
 msgid "[_WT_] So have fun exploring!"
 msgstr "[_WT_] Çok eğlenceli bir keşif var!"
 
-# game/Phone_event_screen.rpy:1956 #-#-# translate crowdin again_tutorial_c83ea849:
+# game/Phone_event_screen.rpy:2003 #-#-# translate crowdin again_tutorial_c83ea849:
 msgid "[_R_] I never can be sure who is following me, even though I have my suspicions."
 msgstr "[_R_] Şüphelerim olsa da beni kimin takip ettiğinden asla emin olamıyorum."
 
-# game/Phone_event_screen.rpy:1957 #-#-# translate crowdin again_tutorial_7346a4af:
+# game/Phone_event_screen.rpy:2004 #-#-# translate crowdin again_tutorial_7346a4af:
 msgid "[_R_] Always having to watch my back, has made me grow closer to the few people I can trust."
 msgstr "[_R_] Her zaman arkamı kollamak zorunda olmam, güvenebileceğim birkaç kişiye daha yakın olmamı sağladı."
 
-# game/Phone_event_screen.rpy:1958 #-#-# translate crowdin again_tutorial_51e7cbc3:
+# game/Phone_event_screen.rpy:2005 #-#-# translate crowdin again_tutorial_51e7cbc3:
 msgid "[_R_] And who can I trust better than those that live right here with me?"
 msgstr "[_R_] Ve burada benimle birlikte yaşayanlardan daha iyi kime güvenebilirim?"
 
-# game/Phone_event_screen.rpy:1959 #-#-# translate crowdin again_tutorial_033e4640:
+# game/Phone_event_screen.rpy:2006 #-#-# translate crowdin again_tutorial_033e4640:
 msgid "{i}\"(knock knock knock....)\"{/i}"
 msgstr "{i}\"(tak tak tak....)\"{/i}"
 
-# game/Phone_event_screen.rpy:1960 #-#-# translate crowdin again_tutorial_c1bfb181:
+# game/Phone_event_screen.rpy:2007 #-#-# translate crowdin again_tutorial_c1bfb181:
 msgid "[_M_] {i}(muffled voice){/i} [ryan]? Why is the door locked? You're not looking at porn and masturbating again are you?"
 msgstr "[_M_] {i}(boğuk ses){/i} [ryan]? Kapı neden kilitli? Yine porno izleyip 31 çekmiyorsun değil mi?"
 
-# game/Phone_event_screen.rpy:1963 #-#-# translate crowdin again_tutorial_a8730e81:
+# game/Phone_event_screen.rpy:2010 #-#-# translate crowdin again_tutorial_a8730e81:
 msgid "[_R_] No Mom!.... But I'm really busy right now!"
 msgstr "[_R_] Hayır, anne!... Ama şu anda çok meşgulüm!"
 
-# game/Phone_event_screen.rpy:1964 #-#-# translate crowdin again_tutorial_ecfc0255:
+# game/Phone_event_screen.rpy:2011 #-#-# translate crowdin again_tutorial_ecfc0255:
 msgid "[_M_] With what?"
 msgstr "[_M_] Neyle meşgulsün?"
 
-# game/Phone_event_screen.rpy:1965 #-#-# translate crowdin again_tutorial_2f540835:
+# game/Phone_event_screen.rpy:2012 #-#-# translate crowdin again_tutorial_2f540835:
 msgid "[_R_] Ummm.... Homework.... of course!"
 msgstr "[_R_] Hmmm.... ev ödevi... tabii ki!"
 
-# game/Phone_event_screen.rpy:1966 #-#-# translate crowdin again_tutorial_d3cb05bf:
+# game/Phone_event_screen.rpy:2013 #-#-# translate crowdin again_tutorial_d3cb05bf:
 msgid "[_M_] Well, ok.... But you know, you don't need to take care of yourself, right?"
 msgstr "[_M_] Tamam... ama artık kendine böyle bakmana gerek olmadığını biliyorsun, değil mi?"
 
-# game/Phone_event_screen.rpy:1967 #-#-# translate crowdin again_tutorial_ef4266bd:
+# game/Phone_event_screen.rpy:2014 #-#-# translate crowdin again_tutorial_ef4266bd:
 msgid "[_M_] You know, that if you need some relief, you just need to let me know. And If I'm too busy, I'm sure your sisters would be happy to help you out."
 msgstr "[_M_] Yardıma ihtiyacın olursa bana söylemen yeterli. Eğer çok meşgul olursam, eminim Lauren veya Sidney sana yardım etmekten mutluluk duyacaktır."
 
-# game/Phone_event_screen.rpy:1970 #-#-# translate crowdin again_tutorial_c8d5a1ef:
+# game/Phone_event_screen.rpy:2017 #-#-# translate crowdin again_tutorial_c8d5a1ef:
 msgid "[_R_] Ok!.... thanks Mom!"
 msgstr "[_R_] Tamam!.... Teşekkürler anne!"
 
-# game/Phone_event_screen.rpy:1971 #-#-# translate crowdin again_tutorial_b7d2b788:
+# game/Phone_event_screen.rpy:2018 #-#-# translate crowdin again_tutorial_b7d2b788:
 msgid "[_R_] Please don't judge me until you've heard my side of the story."
 msgstr "[_R_] Lütfen, hikayeyi bir de benden dinlemeden beni yargılamayın."
 
-# game/Phone_event_screen.rpy:1974 #-#-# translate crowdin again_tutorial_483a3f0e:
+# game/Phone_event_screen.rpy:2021 #-#-# translate crowdin again_tutorial_483a3f0e:
 msgid "[_R_] It's like I said.... With so many shady characters around, tracking my movements, I've needed to grow closer to the people around me."
 msgstr "[_R_] Dediğim gibi.... etrafımda yaptıklarımı izleyen pek çok karanlık varlık varken.... çevremdeki insanlarla yakınlaşmaya ihtiyaç duydum."
 
-# game/Phone_event_screen.rpy:1977 #-#-# translate crowdin again_tutorial_0f68a40c:
+# game/Phone_event_screen.rpy:2024 #-#-# translate crowdin again_tutorial_0f68a40c:
 msgid "[_WT_] Let me just jump in here one more time."
 msgstr "[_WT_] Burada bir kez daha araya girmeme izin verin."
 
-# game/Phone_event_screen.rpy:1980 #-#-# translate crowdin again_tutorial_c7f3d7ec:
+# game/Phone_event_screen.rpy:2027 #-#-# translate crowdin again_tutorial_c7f3d7ec:
 msgid "[_WT_] To be successful, [ryan] has to influence those around him."
 msgstr "[_WT_] Başarılı olmak için [ryan] çevresindekileri etkilemek zorundadır."
 
-# game/Phone_event_screen.rpy:1981 #-#-# translate crowdin again_tutorial_762d3d13:
+# game/Phone_event_screen.rpy:2028 #-#-# translate crowdin again_tutorial_762d3d13:
 msgid "[_WT_] Relationship management is the most important part of this game."
 msgstr "[_WT_] İlişki yönetimi bu oyunun en önemli parçasıdır."
 
-# game/Phone_event_screen.rpy:1982 #-#-# translate crowdin again_tutorial_6141dd6f:
+# game/Phone_event_screen.rpy:2029 #-#-# translate crowdin again_tutorial_6141dd6f:
 msgid "[_WT_] You will need to make choices throughout the game that will influence the way the girls in your life feel about you."
 msgstr "[_WT_] Oyun boyunca hayatınızdaki kızların sizin hakkınızdaki hislerini etkileyecek seçimler yapmanız gerekecek."
 
-# game/Phone_event_screen.rpy:1983 #-#-# translate crowdin again_tutorial_11cac143:
+# game/Phone_event_screen.rpy:2030 #-#-# translate crowdin again_tutorial_11cac143:
 msgid "[_WT_] So it's pretty important that you keep track of those stats."
 msgstr "[_WT_] Bu yüzden, bu istatistikleri takip etmeniz oldukça önemli."
 
-# game/Phone_event_screen.rpy:1984 #-#-# translate crowdin again_tutorial_6f912c38:
+# game/Phone_event_screen.rpy:2031 #-#-# translate crowdin again_tutorial_6f912c38:
 msgid "[_WT_] You can access a girls stats,"
 msgstr "[_WT_] Bir kızın istatistiklerine erişmek için,"
 
-# game/Phone_event_screen.rpy:1987 #-#-# translate crowdin again_tutorial_9491e3d1:
+# game/Phone_event_screen.rpy:2034 #-#-# translate crowdin again_tutorial_9491e3d1:
 msgid "[_WT_] by pressing the \"P\" button on your keyboard."
 msgstr "[_WT_] Klavyenizdeki P tuşuna basmanız yeterlidir."
 
-# game/Phone_event_screen.rpy:1990 #-#-# translate crowdin again_tutorial_b769c99b:
+# game/Phone_event_screen.rpy:2037 #-#-# translate crowdin again_tutorial_b769c99b:
 msgid "[_WT_] You can cycle through the girls in the game by clicking on the left or right arrows."
 msgstr "[_WT_] Sol veya sağ oklara tıklayarak kızlar arasında geçiş yapabilirsiniz."
 
-# game/Phone_event_screen.rpy:1993 #-#-# translate crowdin again_tutorial_c8ef2a6f:
+# game/Phone_event_screen.rpy:2040 #-#-# translate crowdin again_tutorial_c8ef2a6f:
 msgid "[_WT_] Once you've found the girl you want to track, you can figure out her stats by looking at the icons by her name and picture."
 msgstr "[_WT_] İstediğiniz kızı bulduğunuzda, adının ve resminin yanındaki simgelere bakarak istatistiklerini öğrenebilirsiniz."
 
-# game/Phone_event_screen.rpy:1996 #-#-# translate crowdin again_tutorial_418686a5:
+# game/Phone_event_screen.rpy:2043 #-#-# translate crowdin again_tutorial_418686a5:
 msgid "[_WT_] The heart icon stands for love."
 msgstr "[_WT_] Kalp simgesi aşkı temsil eder."
 
-# game/Phone_event_screen.rpy:1999 #-#-# translate crowdin again_tutorial_c3bbac67:
+# game/Phone_event_screen.rpy:2046 #-#-# translate crowdin again_tutorial_c3bbac67:
 msgid "[_WT_] These hands represent respect."
 msgstr "[_WT_] Bu eller saygıyı temsil eder."
 
-# game/Phone_event_screen.rpy:2002 #-#-# translate crowdin again_tutorial_3c0737b4:
+# game/Phone_event_screen.rpy:2049 #-#-# translate crowdin again_tutorial_3c0737b4:
 msgid "[_WT_] The angry emoji stands for a girls anger towards you. It's hard to get them to do anything for you when they are mad."
 msgstr "[_WT_] Kızgın emoji, bir kızın size karşı olan öfkesini gösterir. Kızgın olduklarında sizin için bir şey yapmalarını sağlamanız zor olacak."
 
-# game/Phone_event_screen.rpy:2005 #-#-# translate crowdin again_tutorial_e38fd42a:
+# game/Phone_event_screen.rpy:2052 #-#-# translate crowdin again_tutorial_e38fd42a:
 msgid "[_WT_] This whip icon, represents a girls submission to you."
 msgstr "[_WT_] Bu kırbaç sembolü, bir kızın size boyun eğmesini temsil eder."
 
-# game/Phone_event_screen.rpy:2008 #-#-# translate crowdin again_tutorial_2bd860cf:
+# game/Phone_event_screen.rpy:2055 #-#-# translate crowdin again_tutorial_2bd860cf:
 msgid "[_WT_] And these lips represent a girls libido."
 msgstr "[_WT_] Ve bu dudaklar bir kızın azgınlığını temsil eder."
 
-# game/Phone_event_screen.rpy:2011 #-#-# translate crowdin again_tutorial_d4d20a80:
+# game/Phone_event_screen.rpy:2058 #-#-# translate crowdin again_tutorial_d4d20a80:
 msgid "[_WT_] To close the stats window, just press the \"P\" on your keyboard again."
 msgstr "[_WT_] İstatistikler penceresini kapatmak için klavyenizdeki P tuşuna tekrar basmanız yeterlidir."
 
-# game/Phone_event_screen.rpy:2012 #-#-# translate crowdin again_tutorial_f429d6fe:
+# game/Phone_event_screen.rpy:2059 #-#-# translate crowdin again_tutorial_f429d6fe:
 msgid "[_WT_] Another handy way to track a girls stats is through your phone."
 msgstr "[_WT_] Bir kızın istatistiklerini takip etmenin başka bir yolu ise telefonunuzdur."
 
-# game/Phone_event_screen.rpy:2015 #-#-# translate crowdin again_tutorial_bb9483d0:
+# game/Phone_event_screen.rpy:2062 #-#-# translate crowdin again_tutorial_bb9483d0:
 msgid "[_WT_] You can access your phone by clicking on this button."
 msgstr "[_WT_] Bu butona tıklayarak telefonunuza erişebilirsiniz."
 
-# game/Phone_event_screen.rpy:2018 #-#-# translate crowdin again_tutorial_f595b29b:
+# game/Phone_event_screen.rpy:2065 #-#-# translate crowdin again_tutorial_f595b29b:
 msgid "[_WT_] Once your phone is pulled up, you can track a girls stats,"
 msgstr "[_WT_] Telefonunuzu açtığınızda, bir kızın istatistiklerini takip etmek için,"
 
-# game/Phone_event_screen.rpy:2021 #-#-# translate crowdin again_tutorial_d3037095:
+# game/Phone_event_screen.rpy:2068 #-#-# translate crowdin again_tutorial_d3037095:
 msgid "[_WT_] by clicking on this button right here."
 msgstr "[_WT_] buradaki butona tıklamanız yeterlidir."
 
-# game/Phone_event_screen.rpy:2024 #-#-# translate crowdin again_tutorial_6d29e98a:
+# game/Phone_event_screen.rpy:2071 #-#-# translate crowdin again_tutorial_6d29e98a:
 msgid "[_WT_] There are also some other handy things you can do with your phone as well."
 msgstr "[_WT_] Telefonunuzla yapabileceğiniz başka şeyler de var."
 
-# game/Phone_event_screen.rpy:2027 #-#-# translate crowdin again_tutorial_c65434ed:
+# game/Phone_event_screen.rpy:2074 #-#-# translate crowdin again_tutorial_c65434ed:
 msgid "[_WT_] For those of you who support us at the \"Friend\" tier on SubscribeStar or Patreon, you can install a mod that you can access by pressing on this button."
 msgstr "[_WT_] SubscribeStar veya Patreon'da bizi \"Friend\" katmanında destekleyenleriniz için, bu düğmeye basarak erişebileceğiniz bir mod yükleyebilirsiniz."
 
-# game/Phone_event_screen.rpy:2028 #-#-# translate crowdin again_tutorial_c33007ea:
+# game/Phone_event_screen.rpy:2075 #-#-# translate crowdin again_tutorial_c33007ea:
 msgid "[_WT_] The mod is pretty awesome! It allows you to change the name of your character, manipulate the stats of other characters, add and remove items, and add money to your backpack."
 msgstr "[_WT_] Bu mod oldukça harika! Karakterinizin adını değiştirmenize, diğer karakterlerin istatistiklerini manipüle etmenize, eşya eklemenize ve çıkarmanıza ve paranızı arttırmanızı olanak tanır."
 
-# game/Phone_event_screen.rpy:2031 #-#-# translate crowdin again_tutorial_aadd8f32:
+# game/Phone_event_screen.rpy:2078 #-#-# translate crowdin again_tutorial_aadd8f32:
 msgid "[_WT_] This button allows you to track your progress. When you click on it,"
 msgstr "[_WT_] Bu buton ilerlemenizi takip etmenizi sağlar. Üzerine tıkladığınızda,"
 
-# game/Phone_event_screen.rpy:2034 #-#-# translate crowdin again_tutorial_69912aa8:
+# game/Phone_event_screen.rpy:2081 #-#-# translate crowdin again_tutorial_69912aa8:
 msgid "[_WT_] A screen that lists events will pop up."
 msgstr "[_WT_] olayları listeleyen bir ekran açılacaktır."
 
-# game/Phone_event_screen.rpy:2037 #-#-# translate crowdin again_tutorial_7a7c9308:
+# game/Phone_event_screen.rpy:2084 #-#-# translate crowdin again_tutorial_7a7c9308:
 msgid "[_WT_] And when you click on the three question marks \"???\", you will receive hints to help you know how to complete that event."
 msgstr "[_WT_] Ve üç soru işaretine \"???\" tıkladığınızda, o olayı nasıl tamamlayacağınızı bilmenize yardımcı olacak ipuçları alacaksınız."
 
-# game/Phone_event_screen.rpy:2040 #-#-# translate crowdin again_tutorial_caf2f581:
+# game/Phone_event_screen.rpy:2087 #-#-# translate crowdin again_tutorial_caf2f581:
 msgid "[_WT_] A couple other useful buttons are on the bottom of the phone."
 msgstr "[_WT_] Telefonun alt kısmında birkaç kullanışlı buton daha bulunuyor."
 
-# game/Phone_event_screen.rpy:2043 #-#-# translate crowdin again_tutorial_ce5b1c76:
+# game/Phone_event_screen.rpy:2090 #-#-# translate crowdin again_tutorial_ce5b1c76:
 msgid "[_WT_] This button lets you see any pictures of girls that you may take throughout the course of the game."
 msgstr "[_WT_] Bu buton, oyun boyunca çekebileceğiniz kızların fotoğraflarını görmenizi sağlar."
 
-# game/Phone_event_screen.rpy:2046 #-#-# translate crowdin again_tutorial_89244cba:
+# game/Phone_event_screen.rpy:2093 #-#-# translate crowdin again_tutorial_89244cba:
 msgid "[_WT_] And this extremely useful button let's you move forward in time."
 msgstr "[_WT_] Ve bu sihirli buton ise zamanda ilerlemeni sağlar."
 
-# game/Phone_event_screen.rpy:2049 #-#-# translate crowdin again_tutorial_e27d758f:
+# game/Phone_event_screen.rpy:2096 #-#-# translate crowdin again_tutorial_e27d758f:
 msgid "[_WT_] So that's all the tips we have for you. Everything else you will have to figure out on your own, or I guess you could always find the walkthrough, or ask for help online."
 msgstr "[_WT_] Gösterebileceğimiz tüm ipuçları bu kadardı. Geri kalan her şeyi kendi başınıza halletmeniz gerekecek. Başınız sıkıştığında online yardım isteyebilirsiniz."
 
-# game/Phone_event_screen.rpy:2050 #-#-# translate crowdin again_tutorial_ca4042fa:
+# game/Phone_event_screen.rpy:2097 #-#-# translate crowdin again_tutorial_ca4042fa:
 msgid "[_WT_] However you decide to play. We hope you enjoy the game."
 msgstr "[_WT_] Hikayenizi nasıl şekillendirirseniz şekillendirin, oyunu beğeneceğinizi umuyoruz."
 
-# game/Phone_event_screen.rpy:2053 #-#-# translate crowdin again_tutorial_4c175238:
+# game/Phone_event_screen.rpy:2100 #-#-# translate crowdin again_tutorial_4c175238:
 msgid "[_WT_] Go ahead and take it from here [ryan]!"
 msgstr "[_WT_] Devam et ve buradan al, [ryan]!"
 
-# game/Phone_event_screen.rpy:2056 #-#-# translate crowdin again_tutorial_26e720f0:
+# game/Phone_event_screen.rpy:2103 #-#-# translate crowdin again_tutorial_26e720f0:
 msgid "[_R_] I guess the best thing I can do, is tell you my story, and let whomever watches this, be the judge of my actions."
 msgstr "[_R_] Sanırım yapabileceğim en iyi şey size hikayemi anlatmak ve bunu izleyenlerin yapacaklarıma karar vermesine izin vermek olacaktır."
 
-# game/Phone_event_screen.rpy:2057 #-#-# translate crowdin again_tutorial_a0f32abe:
+# game/Phone_event_screen.rpy:2104 #-#-# translate crowdin again_tutorial_a0f32abe:
 msgid "[_R_] And once again, hope this story gets turned into a kick ass HBO series, and not a fucking lame-ass H-game."
 msgstr "[_R_] Ve bir kez daha, umarım bu hikaye berbat bir HBO dizisine dönüşürüz, dandik bir H-oyununa değil."
 
-# game/Phone_event_screen.rpy:2060 #-#-# translate crowdin again_tutorial_e6d5853d:
+# game/Phone_event_screen.rpy:2107 #-#-# translate crowdin again_tutorial_e6d5853d:
 msgid "[_R_] .... So, until fairly recently, I was just a normal teenage kid like everybody else."
 msgstr "[_R_] .... Yakın zamana kadar ben de herkes gibi normal bir gençtim."
 
-# game/Phone_event_screen.rpy:2061 #-#-# translate crowdin again_tutorial_e48aa4ec:
+# game/Phone_event_screen.rpy:2108 #-#-# translate crowdin again_tutorial_e48aa4ec:
 msgid "[_R_] Until I was woken up really early one day, by a phone call that would change my life forever...."
 msgstr "[_R_] Ta ki bir sabah çok erken saatlerde hayatımı sonsuza dek değişterecek bir telefonla uyanana kadar...."
 
-# game/Phone_event_screen.rpy:2062 #-#-# translate crowdin again_tutorial_dc7a84b6:
+# game/Phone_event_screen.rpy:2109 #-#-# translate crowdin again_tutorial_dc7a84b6:
 msgid "[_R_] ...."
 msgstr "[_R_] ...."
 
-# game/Phone_event_screen.rpy:2065 #-#-# translate crowdin again_tutorial_076a53a8:
+# game/Phone_event_screen.rpy:2112 #-#-# translate crowdin again_tutorial_076a53a8:
 msgid "End of tutorial."
 msgstr "Öğreticinin sonu."
 
@@ -1192,17 +1224,17 @@ msgstr "[event_num]"
 msgid "???"
 msgstr "???"
 
-# game/Phone_event_screen.rpy:1055
+# game/Phone_event_screen.rpy:1073
 msgid "Press the \"{color=#E60000}???{/color}\" to see \n"
 "             hints!"
 msgstr "İpuçlarını görmek için \"{color=#E60000}???{/color}\"e \n"
 "             tıkla!"
 
-# game/Phone_event_screen.rpy:1058
+# game/Phone_event_screen.rpy:1076
 msgid "{font=DejaVuSans.ttf}Watch the tutorial again!{/font}"
 msgstr "{ font=DejaVuSans.ttf } Öğretici programı yeniden izleyin! { /font }"
 
-# game/Phone_event_screen.rpy:1064
+# game/Phone_event_screen.rpy:1082
 msgid "{color=#E60000}-------------------------------------{/color}"
 msgstr "{color=#E60000}-------------------------------------{/color}"
 
