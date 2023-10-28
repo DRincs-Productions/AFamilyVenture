@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2023-09-22 15:15\n"
+"PO-Revision-Date: 2023-10-28 13:49\n"
 
-# TODO: Translation updated at 2023-06-26 18:52 #|#|# # §translate crowdin strings: #|#|# # game/Phone_stats_screen.rpy:70
+# TODO: Translation updated at 2023-10-28 15:07 #|#|# # §translate crowdin strings: #|#|# # game/Phone_stats_screen.rpy:70
 msgid "Girls stats"
 msgstr "Štatistiky dievčat"
 
@@ -155,6 +155,10 @@ msgstr "  Načíta počítadlo {image=load_counter}"
 # game/Phone_stats_screen.rpy:198
 msgid "{image=iconR} {color=#0000CC} By [ryan]:{/color}"
 msgstr "{image=iconR} {color=#0000CC} Od [ryan]:{/color}"
+
+# game/Phone_stats_screen.rpy:200
+msgid "{image=iconM}{color=#42f456} in Mom..............[mom_cum_loads_counter]{/color}"
+msgstr ""
 
 # game/Phone_stats_screen.rpy:201
 msgid "{image=iconL}{color=#f442d9} in Lauren............[lauren_cum_loads_counter]{/color}"
