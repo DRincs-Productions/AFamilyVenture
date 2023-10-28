@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-06-26 18:52
+﻿# TODO: Translation updated at 2023-10-28 15:07
 
 # game/UpdateScript0.06.rpy:715
 translate crowdin move_in_day_31871088:
@@ -30787,10 +30787,10 @@ translate crowdin ph_shoot_e51f9dbd:
     R "That will work, I think."
 
 # game/UpdateScript0.06.rpy:12017
-translate crowdin ph_shoot_08d2767b:
+translate crowdin ph_shoot_9c13488e:
 
-    # R "Ok Mom, drop the books like they were knocked or blown out of your arms."
-    R "Ok Mom, drop the books like they were knocked or blown out of your arms."
+    # R "Okay Mom, drop the books like they were knocked or blown out of your arms."
+    R "Okay Mom, drop the books like they were knocked or blown out of your arms."
 
 # game/UpdateScript0.06.rpy:12020
 translate crowdin ph_shoot_1bd34cc8:
