@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-10-28 13:48\n"
+"PO-Revision-Date: 2023-10-28 15:36\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # §translate crowdin strings: #|#|# # game/New_inventory.rpy:228
 msgid "Lauren's first cosplay outfit, you can sell it online to make money."
@@ -90,7 +90,7 @@ msgstr "Devo continuare a sostituire il vino della mamma."
 
 # game/New_inventory.rpy:255
 msgid "I should give these to Lauren and Mandy in the backyard on Sunday morning."
-msgstr ""
+msgstr "Dovrei consegnarli a Lauren e Mandy nel cortile di domenica mattina."
 
 # game/New_inventory.rpy:267
 msgid "Money:$[money]"
