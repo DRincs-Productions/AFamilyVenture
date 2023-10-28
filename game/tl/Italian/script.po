@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-10-28 13:50\n"
+"PO-Revision-Date: 2023-10-28 15:38\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -994,15 +994,15 @@ msgstr "[_RT_] {i}Cosa c'è di sbagliato con me?{/i}"
 
 # game/script.rpy:3139 #-#-# translate crowdin loungemorningweekend_eeb76109:
 msgid "[_RT_] {i}Why isn't Mom here doing her chores?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Perché la mamma qui non fa le sue core?{/i}"
 
 # game/script.rpy:3140 #-#-# translate crowdin loungemorningweekend_617586d1:
 msgid "[_RT_] {i}Oh, right... She's avoiding me now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Oh, destra... Mi sta evitando ora.{/i}"
 
 # game/script.rpy:3141 #-#-# translate crowdin loungemorningweekend_a16e2949:
 msgid "[_RT_] {i}Where could she have gone?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Dove avrebbe potuto andare?{/i}"
 
 # game/script.rpy:3204 #-#-# translate crowdin loungeevening_3959ba15:
 msgid "[_RT_] {i}What did I just walk in on? It's like Mom and Lauren are purposely trying to be cock-teases lately.{/i}"
@@ -7102,7 +7102,7 @@ msgstr "\"Hai ricevuto tre bottiglie di vino.\""
 
 # game/script.rpy:9272 #-#-# translate crowdin warehouse_d87d2efa:
 msgid "\"You received a lovely set of bikinis.\""
-msgstr ""
+msgstr "\"Hai ricevuto un bel set di bikini.\""
 
 # game/script.rpy:9275 #-#-# translate crowdin warehouse_b27ef456:
 msgid "\"There's nothing else to do here.\""
@@ -7270,7 +7270,7 @@ msgstr "\"Hai ricevuto tre bottiglie di vino.\""
 
 # game/script.rpy:9552 #-#-# translate crowdin warehousealso_d87d2efa:
 msgid "\"You received a lovely set of bikinis.\""
-msgstr ""
+msgstr "\"Hai ricevuto un bel set di bikini.\""
 
 # game/script.rpy:9555 #-#-# translate crowdin warehousealso_dc658733:
 msgid "\"There's nothing left to do here.\""
