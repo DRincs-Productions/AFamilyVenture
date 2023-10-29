@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-10-28 15:39\n"
+"PO-Revision-Date: 2023-10-29 16:54\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScriptHalloweenEvent.rpy:256 #-#-# translate crowdin halloween_event_start_36b1bdbb:
 msgid "{i}{b}(HINT){/b} Happy Halloween!{/i}"
-msgstr ""
+msgstr "Счастливого Хэллоуина"
 
 # game/UpdateScriptHalloweenEvent.rpy:266 #-#-# translate crowdin halloween_event_start_5c240a68:
 msgid "{b}{i}\"Happy Halloween, and welcome to \"Stranger Ventures\"!\"{/i}{/b}"
