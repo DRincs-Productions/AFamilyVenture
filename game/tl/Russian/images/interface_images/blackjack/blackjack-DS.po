@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-11-12 21:45\n"
+"PO-Revision-Date: 2023-11-14 23:49\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/images/interface_images/blackjack/blackjack-DS.rpy:503 #-#-# translate crowdin startGameBJ_ddfcd22e:
 msgid "[_BJ_dealer_] I'll start dealing the cards!{w=2.0}{nw}"
@@ -18,85 +18,85 @@ msgstr "[_BJ_dealer_] Я начну раздачу кард!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:573 #-#-# translate crowdin handCheckLabel_8e5fda21:
 msgid "[_BJ_dealer_] Dealer Bust, you won $[betSum]!{w=2.0}{nw}"
-msgstr ""
+msgstr "[_BJ_dealer_] У дилера больше 21, вы выиграли $[betSum]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:585 #-#-# translate crowdin handCheckLabel_1a74bd53:
 msgid "[_BJ_dealer_] You bust! You lost $[betSum]!{w=2.0}{nw}"
-msgstr ""
+msgstr "[_BJ_dealer_] У вас больше 21, вы проиграли[betSum]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:597 #-#-# translate crowdin handCheckLabel_d1330db7:
 msgid "[_BJ_dealer_] Blackjack! The dealer also has blackjack, but you have insurance! You win $[betSum]!{w=2.0}{nw}"
-msgstr ""
+msgstr "[_BJ_dealer_] Блэкджек! У дилера тоже блэкджек, но у вас есть страховка! Вы выигрываете $[betSum]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:600 #-#-# translate crowdin handCheckLabel_f74531ea:
 msgid "[_BJ_dealer_] Blackjack! The dealer also has blackjack, so it's a push! You get your $[betSum] back!{w=2.0}{nw}"
-msgstr ""
+msgstr "[_BJ_dealer_] Блэкджек! У дилера тоже блэкджек, так что это ничья! Вы получаете свои $[betSum] обратно!{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:612 #-#-# translate crowdin handCheckLabel_3b883a25:
 msgid "[_BJ_dealer_] Blackjack! You won the game and $[betSum]!{w=2.0}{nw}"
-msgstr ""
+msgstr "[_BJ_dealer_] Блэкджек! Вы выиграли игру и $[betSum]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:623 #-#-# translate crowdin handCheckLabel_4b09cedb:
 msgid "[_BJ_dealer_] Dealer has blackjack, but you have insurance! You make your bets back, $[betSum]!{w=2.0}{nw}"
-msgstr ""
+msgstr "[_BJ_dealer_] У дилера блэкджек, но у вас страховка! Вы возвращаете свои ставки, $[betSum]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:626 #-#-# translate crowdin handCheckLabel_1d95a20c:
 msgid "[_BJ_dealer_] Dealer has blackjack! You lose the game and $[betSum]!{w=2.0}{nw}"
-msgstr ""
+msgstr "[_BJ_dealer_] У дилера блэкджек! Вы проигрываете игру и $[betSum]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:637 #-#-# translate crowdin handCheckLabel_b384deae:
 msgid "[_BJ_dealer_] You won the game and $[betSum]!{w=2.0}{nw}"
-msgstr ""
+msgstr "[_BJ_dealer_] Вы выиграли игру и $[betSum]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:649 #-#-# translate crowdin handCheckLabel_e4d35a85:
 msgid "[_BJ_dealer_] You lost the game and $[betSum]!{w=2.0}{nw}"
-msgstr ""
+msgstr "[_BJ_dealer_] Вы проиграли игру и $[betSum]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:661 #-#-# translate crowdin handCheckLabel_901a9a2d:
 msgid "[_BJ_dealer_] The dealer also has [computerScore], so it's a push! You get your $[betSum] back minus $[betIns] for insurance.{w=2.0}{nw}"
-msgstr ""
+msgstr "[_BJ_dealer_] У дилера также есть [computerScore], так что это ничья! Вы получаете обратно свои $[betSum] минус $[betIns] за страховку.{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:663 #-#-# translate crowdin handCheckLabel_3615550f:
 msgid "[_BJ_dealer_] The dealer also has [computerScore], so it's a push! You get your $[betSum] back!{w=2.0}{nw}"
-msgstr ""
+msgstr "[_BJ_dealer_] У дилера также есть [computerScore], так что это ничья! Вы получаете свои $[betSum] обратно!{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:681 #-#-# translate crowdin noMoney_9706b720:
 msgid "[_BJ_dealer_] Sorry! You don't have enough money!{w=2.0}{nw}"
-msgstr ""
+msgstr "[_BJ_dealer_] Извините! У вас недостаточно денег!{w=2.0}{nw}"
 
 # §translate crowdin strings: #|#|# # game/images/interface_images/blackjack/blackjack-DS.rpy:257
 msgid "Dealer"
-msgstr ""
+msgstr "Дилер"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:367
 msgid "Place your bets!"
-msgstr ""
+msgstr "Делайте ваши ставки!"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:374
 msgid "Do you want to bet $100 and start the game?"
-msgstr ""
+msgstr "Хотите ли Вы поставить 100 долларов и начать игру?"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:381
 msgid "Do you want to bet $500 and start the game?"
-msgstr ""
+msgstr "Хотите ли Вы поставить $500 и начать игру?"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:388
 msgid "Do you want to bet $1000 and start the game?"
-msgstr ""
+msgstr "Хотите ли Вы поставить $1000 и начать игру?"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:396
 msgid "Do you want to leave the BlackJack game?"
-msgstr ""
+msgstr "Вы уверены, что хотите покинуть игру в Блэкджек?"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:404
 msgid "Games won: [persistent.playerWin] / lost: [persistent.computerWin]"
-msgstr ""
+msgstr "Выигранные игры: [persistent.playerWin] / проиграно: [persistent.computerWin]"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:470
 msgid "Player cards: [playerScore]"
-msgstr ""
+msgstr "Карты игрока: [playerScore]"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:673
 msgid "Do you want to play again?"
-msgstr ""
+msgstr "Хотите ли вы сыграть еще раз?"
 
