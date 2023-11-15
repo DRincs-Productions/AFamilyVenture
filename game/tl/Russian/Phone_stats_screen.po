@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-10-28 15:39\n"
+"PO-Revision-Date: 2023-11-15 17:25\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # §translate crowdin strings: #|#|# # game/Phone_stats_screen.rpy:70
 msgid "Girls stats"
-msgstr ""
+msgstr "Статистика девочек"
 
 # game/Phone_stats_screen.rpy:73
 msgid "{color=#E60000}---------------------------------------{/color}"
@@ -22,11 +22,11 @@ msgstr ""
 
 # game/Phone_stats_screen.rpy:83
 msgid "{image=iconM} {color=#42f456}Mom's:{/color}"
-msgstr ""
+msgstr "{image=iconM} {color=#42f456}Мамы:{/color}"
 
 # game/Phone_stats_screen.rpy:85
 msgid "{image=respect}{color=#000000} Respect..............[momrespect]{/color}"
-msgstr ""
+msgstr "{image=respect}{color=#000000} Респект..............[momrespect]{/color}"
 
 # game/Phone_stats_screen.rpy:86
 msgid "{image=affection}{color=#000000} Affection............[momaffection]{/color}"
