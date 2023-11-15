@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-10-28 15:39\n"
+"PO-Revision-Date: 2023-11-15 00:51\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/images/interface_images/minigame/Shower_Run_02_timed_event.rpy:126 #-#-# translate crowdin Shower_Run02_game_start_lbl_ab1a7de6:
 msgid "[_RT_] {i}Ok... Don't panic!... I've just got to sneak past them too.{/i}"
@@ -22,11 +22,11 @@ msgstr ""
 
 # game/images/interface_images/minigame/Shower_Run_02_timed_event.rpy:129 #-#-# translate crowdin Shower_Run02_game_start_lbl_0480f1ff:
 msgid "[_RT_] {i}I've got it this time.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}На этот раз у меня получилось."
 
 # game/images/interface_images/minigame/Shower_Run_02_timed_event.rpy:130 #-#-# translate crowdin Shower_Run02_game_start_lbl_93504167:
 msgid "[_RT_] {i}At least I get to sneak another peek.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}По крайней мере, у меня есть возможность еще раз подсмотреть."
 
 # game/images/interface_images/minigame/Shower_Run_02_timed_event.rpy:143 #-#-# translate crowdin Shower_Run02_game_end_lbl_87277f79:
 msgid "[_RT_] {i}I made it!{/i}"
@@ -42,7 +42,7 @@ msgstr ""
 
 # game/images/interface_images/minigame/Shower_Run_02_timed_event.rpy:148 #-#-# translate crowdin Shower_Run02_game_end_lbl_cb3dfaa4:
 msgid "[_RT_] {i}Damnit!... The swim team again? I've got the worst luck!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Черт возьми!... Опять команда по плаванию? Мне не везет!"
 
 # game/images/interface_images/minigame/Shower_Run_02_timed_event.rpy:153 #-#-# translate crowdin Shower_Run02_game_end_lbl_ada0e35b:
 msgid "[_RT_] {i}Ok, just a little further and I can turn right.{/i}"
