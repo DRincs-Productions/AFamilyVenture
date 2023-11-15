@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-11-15 00:51\n"
+"PO-Revision-Date: 2023-11-15 17:25\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # §translate crowdin strings: #|#|# # game/Credits_screen.rpy:57
 msgid "                               Credits"
@@ -36,209 +36,215 @@ msgstr "\n"
 
 # game/Credits_screen.rpy:159
 msgid "{a=https://www.patreon.com/DS_sama}{image=icon_patreon} D.S.-Sama{/a}"
-msgstr ""
+msgstr "{a=https://www.patreon.com/DS_sama}{image=icon_patreon} D.S.-Sama{/a}"
 
 # game/Credits_screen.rpy:161
 msgid "\n"
 "{b}{i}Game Coding, Android Specialist:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Кодирование игры, специалист по Android:{/i}{/b} \n"
 
 # game/Credits_screen.rpy:163
 msgid "Cybeon"
-msgstr ""
+msgstr "Cybeon"
 
 # game/Credits_screen.rpy:165
 msgid "\n"
 "{b}{i}Game Script Writer, Image Creator, Face Card Designer:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Автор сценариев игр, создатель изображений, дизайнер лицевых карт:{/i}{/b} \n"
 
 # game/Credits_screen.rpy:167
 msgid "Strenif"
-msgstr ""
+msgstr "Strenif"
 
 # game/Credits_screen.rpy:169
 msgid "\n"
 "{b}{i}Game Writer, Coder, Images, Animations:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Писатель игр, кодер, изображения, анимация:{/i}{/b} \n"
 
 # game/Credits_screen.rpy:171
 msgid "Will Tylor"
-msgstr ""
+msgstr "Will Tylor"
 
 # game/Credits_screen.rpy:173
 msgid "\n"
 "{i}I avoided using supporters full names where possible, and used Discord handles instead wherever I had access to those.{/i}\n"
-msgstr ""
+msgstr "\n"
+"{i}Я по возможности избегал использования полных имен сторонников и использовал вместо них Discord, если у меня был к ним доступ.{/i}\n"
 
 # game/Credits_screen.rpy:174
 msgid "{i}Please contact me if you believe your name isn't here and it should be, or would like to have it listed differently.{/i}"
-msgstr ""
+msgstr "{i}Пожалуйста, свяжитесь со мной, если вы считаете, что вашего имени здесь нет, а оно должно быть, или хотели бы, чтобы оно было указано по-другому.{/i}"
 
 # game/Credits_screen.rpy:176
 msgid "\n"
 "{b}{i}$35 tier (My Family with Benefits {i}SubscribeStar{/i}) (My Family {i}Patreon{/i}):{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Уровень $35 (Моя семья с преимуществами {i}SubscribeStar{/i}) (Моя семья {i}Patreon{/i}):{/i}{/b} \n"
 
 # game/Credits_screen.rpy:178
 msgid "Anthony"
-msgstr ""
+msgstr "Anthony"
 
 # game/Credits_screen.rpy:179
 msgid "Charley"
-msgstr ""
+msgstr "Charley"
 
 # game/Credits_screen.rpy:180
 msgid "DD0"
-msgstr ""
+msgstr "DD0"
 
 # game/Credits_screen.rpy:181
 msgid "delta6198"
-msgstr ""
+msgstr "delta6198"
 
 # game/Credits_screen.rpy:182
 msgid "Drew G"
-msgstr ""
+msgstr "Drew G"
 
 # game/Credits_screen.rpy:183
 msgid "Eddie"
-msgstr ""
+msgstr "Eddie"
 
 # game/Credits_screen.rpy:184
 msgid "fanfan"
-msgstr ""
+msgstr "fanfan"
 
 # game/Credits_screen.rpy:185
 msgid "fatfrogs"
-msgstr ""
+msgstr "fatfrogs"
 
 # game/Credits_screen.rpy:186
 msgid "Frayed80"
-msgstr ""
+msgstr "Frayed80"
 
 # game/Credits_screen.rpy:187
 msgid "Grub"
-msgstr ""
+msgstr "Grub"
 
 # game/Credits_screen.rpy:188
 msgid "hyperion72"
-msgstr ""
+msgstr "hyperion72"
 
 # game/Credits_screen.rpy:189
 msgid "Janusz"
-msgstr ""
+msgstr "Janusz"
 
 # game/Credits_screen.rpy:190
 msgid "Jtf1357"
-msgstr ""
+msgstr "Jtf1357"
 
 # game/Credits_screen.rpy:191
 msgid "Kenny89"
-msgstr ""
+msgstr "Kenny89"
 
 # game/Credits_screen.rpy:192
 msgid "Kire4th"
-msgstr ""
+msgstr "Kire4th"
 
 # game/Credits_screen.rpy:193
 msgid "kingkoopa"
-msgstr ""
+msgstr "kingkoopa"
 
 # game/Credits_screen.rpy:194
 msgid "Martin K"
-msgstr ""
+msgstr "Martin K"
 
 # game/Credits_screen.rpy:195
 msgid "Mc Byte"
-msgstr ""
+msgstr "Mc Byte"
 
 # game/Credits_screen.rpy:196
 msgid "Tarakis"
-msgstr ""
+msgstr "Tarakis"
 
 # game/Credits_screen.rpy:197
 msgid "Urqy"
-msgstr ""
+msgstr "Urqy"
 
 # game/Credits_screen.rpy:198
 msgid "User#326F358E"
-msgstr ""
+msgstr "User#326F358E"
 
 # game/Credits_screen.rpy:200
 msgid "\n"
 "{b}{i}$20 tier (My Family {i}SubscribeStar{/i}) (My BFF's {i}Patreon{/i}):{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}$20 tier (My Family {i}SubscribeStar{/i}) (My BFF's {i}Patreon{/i}):{/i}{/b} \n"
 
 # game/Credits_screen.rpy:202
 msgid "."
-msgstr ""
+msgstr "."
 
 # game/Credits_screen.rpy:203
 msgid "af"
-msgstr ""
+msgstr "af"
 
 # game/Credits_screen.rpy:204
 msgid "Aj W********"
-msgstr ""
+msgstr "Aj W********"
 
 # game/Credits_screen.rpy:205
 msgid "Alec C****"
-msgstr ""
+msgstr "Alec C****"
 
 # game/Credits_screen.rpy:206
 msgid "Alex421"
-msgstr ""
+msgstr "Alex421"
 
 # game/Credits_screen.rpy:207
 msgid "Alex"
-msgstr ""
+msgstr "Alex"
 
 # game/Credits_screen.rpy:208
 msgid "Allen Ho"
-msgstr ""
+msgstr "Allen Ho"
 
 # game/Credits_screen.rpy:209
 msgid "Alshe"
-msgstr ""
+msgstr "Alshe"
 
 # game/Credits_screen.rpy:210
 msgid "AN SOS"
-msgstr ""
+msgstr "AN SOS"
 
 # game/Credits_screen.rpy:211
 msgid "Andre"
-msgstr ""
+msgstr "Andre"
 
 # game/Credits_screen.rpy:213
 msgid "arshhh111"
-msgstr ""
+msgstr "arshhh111"
 
 # game/Credits_screen.rpy:214
 msgid "ashton5531"
-msgstr ""
+msgstr "ashton5531"
 
 # game/Credits_screen.rpy:215
 msgid "AtlasRise"
-msgstr ""
+msgstr "AtlasRise"
 
 # game/Credits_screen.rpy:216
 msgid "BadassLobster"
-msgstr ""
+msgstr "BadassLobster"
 
 # game/Credits_screen.rpy:217
 msgid "Baily C****"
-msgstr ""
+msgstr "Baily C****"
 
 # game/Credits_screen.rpy:218
 msgid "Balkanac7"
-msgstr ""
+msgstr "Balkanac7"
 
 # game/Credits_screen.rpy:219
 msgid "Benja Talos"
-msgstr ""
+msgstr "Benja Talos"
 
 # game/Credits_screen.rpy:220
 msgid "Big Daddi"
-msgstr ""
+msgstr "Big Daddi"
 
 # game/Credits_screen.rpy:221
 msgid "blee lee"
@@ -442,87 +448,87 @@ msgstr ""
 
 # game/Credits_screen.rpy:271
 msgid "ItsMrGru"
-msgstr ""
+msgstr "ItsMrGru"
 
 # game/Credits_screen.rpy:272
 msgid "Iwa"
-msgstr ""
+msgstr "Iwa"
 
 # game/Credits_screen.rpy:273
 msgid "J L"
-msgstr ""
+msgstr "J L"
 
 # game/Credits_screen.rpy:274
 msgid "James"
-msgstr ""
+msgstr "James"
 
 # game/Credits_screen.rpy:275
 msgid "James Smith"
-msgstr ""
+msgstr "James Smith"
 
 # game/Credits_screen.rpy:276
 msgid "jaydawg"
-msgstr ""
+msgstr "jaydawg"
 
 # game/Credits_screen.rpy:277
 msgid "jeffy meffy"
-msgstr ""
+msgstr "jeffy meffy"
 
 # game/Credits_screen.rpy:278
 msgid "jiffylubey"
-msgstr ""
+msgstr "jiffylubey"
 
 # game/Credits_screen.rpy:279
 msgid "JoelMartinez86"
-msgstr ""
+msgstr "JoelMartinez86"
 
 # game/Credits_screen.rpy:280
 msgid "John"
-msgstr ""
+msgstr "John"
 
 # game/Credits_screen.rpy:281
 msgid "john35"
-msgstr ""
+msgstr "john35"
 
 # game/Credits_screen.rpy:282
 msgid "John S***"
-msgstr ""
+msgstr "John S***"
 
 # game/Credits_screen.rpy:283
 msgid "Joseph Ma*****"
-msgstr ""
+msgstr "Joseph Ma*****"
 
 # game/Credits_screen.rpy:284
 msgid "Justin Co******"
-msgstr ""
+msgstr "Justin Co******"
 
 # game/Credits_screen.rpy:285
 msgid "Levi Cr*****"
-msgstr ""
+msgstr "Levi Cr*****"
 
 # game/Credits_screen.rpy:286
 msgid "Lokki87"
-msgstr ""
+msgstr "Lokki87"
 
 # game/Credits_screen.rpy:287
 msgid "Luca La*****"
-msgstr ""
+msgstr "Luca La*****"
 
 # game/Credits_screen.rpy:288
 msgid "LustFang"
-msgstr ""
+msgstr "LustFang"
 
 # game/Credits_screen.rpy:289
 msgid "Kal The Fairy"
-msgstr ""
+msgstr "Kal The Fairy"
 
 # game/Credits_screen.rpy:290
 msgid "Keeta Sh****"
-msgstr ""
+msgstr "Keeta Sh****"
 
 # game/Credits_screen.rpy:291
 msgid "KILLSWITCH14FP 69"
-msgstr ""
+msgstr "KILLSWITCH14FP 69"
 
 # game/Credits_screen.rpy:292
 msgid "King Hugi"
@@ -775,19 +781,20 @@ msgstr ""
 # game/Credits_screen.rpy:355
 msgid "\n"
 "{b}Music Attributions:{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}Музыкальные атрибуты:{/b} \n"
 
 # game/Credits_screen.rpy:357
 msgid "Waiting for the Moment that Never Comes"
-msgstr ""
+msgstr "Ожидание момента, который никогда не наступит"
 
 # game/Credits_screen.rpy:358
 msgid "by Lee Rosevere from The Free Music Archive"
-msgstr ""
+msgstr "by Lee Rosevere from The Free Music Archive"
 
 # game/Credits_screen.rpy:359
 msgid "CC by 4.0"
-msgstr ""
+msgstr "CC by 4.0"
 
 # game/Credits_screen.rpy:361
 msgid "I Will (Instrumental)"
