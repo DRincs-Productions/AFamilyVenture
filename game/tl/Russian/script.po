@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-11-15 17:25\n"
+"PO-Revision-Date: 2023-11-15 18:48\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -6342,7 +6342,7 @@ msgstr ""
 
 # game/script.rpy:8273 #-#-# translate crowdin firstdayofschool_41732efc:
 msgid "[_RT_] {i}I really believe that I'll get something just as good, if not better. I'll just have to be very patient until then.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Я очень верю, что получу что-то такое же хорошее, если не лучше. Просто до тех пор мне придется быть очень терпеливым.{/i}"
 
 # game/script.rpy:8284 #-#-# translate crowdin classlecture_a4531fa1:
 msgid "[_M_] Now Tiresias is being pressured by Oedipus to reveal to him what he knows of the murder of Laius..."
