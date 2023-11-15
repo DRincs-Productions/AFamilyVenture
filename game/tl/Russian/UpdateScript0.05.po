@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-10-28 15:39\n"
+"PO-Revision-Date: 2023-11-15 00:51\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScript0.05.rpy:476 #-#-# translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -1346,7 +1346,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1157 #-#-# translate crowdin sidney_search_49b69b6c:
 msgid "[_J_] Hello little boy, is your mom at home?"
-msgstr ""
+msgstr "[_J_] Здравствуй, малыш, твоя мама дома?"
 
 # game/UpdateScript0.05.rpy:1160 #-#-# translate crowdin sidney_search_63899ea1:
 msgid "{i}\"A few minutes earlier.\"{/i}"
@@ -1430,7 +1430,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1195 #-#-# translate crowdin sidney_search_49b69b6c_1:
 msgid "[_J_] Hello little boy, is your mom at home?"
-msgstr ""
+msgstr "[_J_] Здравствуй, малыш, твоя мама дома?"
 
 # game/UpdateScript0.05.rpy:1196 #-#-# translate crowdin sidney_search_907e3218:
 msgid "[_RT_] {i}He knows I'm an adult by now. What an asshole.{/i}"
@@ -4530,7 +4530,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2773 #-#-# translate crowdin reward_for_payment_49b69b6c:
 msgid "[_J_] Hello little boy, is your mom at home?"
-msgstr ""
+msgstr "[_J_] Здравствуй, малыш, твоя мама дома?"
 
 # game/UpdateScript0.05.rpy:2774 #-#-# translate crowdin reward_for_payment_9b083f3b:
 msgid "[_RT_] {i}Little boy, what an asshole!{/i}"
@@ -4570,23 +4570,23 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2793 #-#-# translate crowdin reward_for_payment_28ffd828:
 msgid "[_M_] Joey, thanks for dropping by, and I'm sure we'll see you next week!"
-msgstr ""
+msgstr "[_M_] Джоуи, спасибо, что заглянули, и я уверен, что мы увидимся с тобой на следующей неделе!"
 
 # game/UpdateScript0.05.rpy:2794 #-#-# translate crowdin reward_for_payment_2513f28b:
 msgid "[_J_] Well, I'll admit I'm a little disappointed. I mean don't get me wrong, it's admirable that you were able to pay your debt,"
-msgstr ""
+msgstr "[_J_] Что ж, признаюсь, я немного разочарован. Не поймите меня неправильно, это достойно восхищения, что вы смогли оплатить свой долг,"
 
 # game/UpdateScript0.05.rpy:2795 #-#-# translate crowdin reward_for_payment_9177a126:
 msgid "[_J_] But I enjoy your company more than I enjoy the money."
-msgstr ""
+msgstr "[_J_] Но мне больше нравится ваше общество, чем деньги."
 
 # game/UpdateScript0.05.rpy:2796 #-#-# translate crowdin reward_for_payment_d647bd82:
 msgid "[_J_] We'll see you next week."
-msgstr ""
+msgstr "[_J_] Увидимся на следующей неделе."
 
 # game/UpdateScript0.05.rpy:2799 #-#-# translate crowdin reward_for_payment_59d44aa6:
 msgid "[_M_] Oh, thank you! Thank you! Thank you!!"
-msgstr ""
+msgstr "[_M_] О, спасибо! Спасибо! Спасибо!!!"
 
 # game/UpdateScript0.05.rpy:2800 #-#-# translate crowdin reward_for_payment_e8aca4c4:
 msgid "{i}{b}\"Mom's Affection +10\"{/b}{/i}"
@@ -4598,23 +4598,23 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2804 #-#-# translate crowdin reward_for_payment_c9ba28b5:
 msgid "[_M_] I am so relieved I don't have to go shake my ass for them tonight!"
-msgstr ""
+msgstr "[_M_] Я так рада, что мне не надо идти трясти задницей ради них сегодня!"
 
 # game/UpdateScript0.05.rpy:2807 #-#-# translate crowdin reward_for_payment_1f921a0b:
 msgid "[_RT_] {i}Oh, but it's such a firm ass!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}О, но это такая упругая задница!"
 
 # game/UpdateScript0.05.rpy:2810 #-#-# translate crowdin reward_for_payment_45f710da:
 msgid "[_RT_] {i}And these perfect milky white breasts right in my face!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}И эти идеальные молочно-белые груди прямо мне в лицо!"
 
 # game/UpdateScript0.05.rpy:2811 #-#-# translate crowdin reward_for_payment_c12c8b9c:
 msgid "[_RT_] {i}I'm so glad I could make her feel so happy.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Я так рад, что смог доставить ей такое удовольствие."
 
 # game/UpdateScript0.05.rpy:2814 #-#-# translate crowdin reward_for_payment_b72fcdc5:
 msgid "[_RT_] {i}And this hug is making me so happy!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}И эти объятия делают меня таким счастливым!"
 
 # game/UpdateScript0.05.rpy:2815 #-#-# translate crowdin reward_for_payment_42d71c1f:
 msgid "[_RT_] ..."
@@ -4622,23 +4622,23 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2816 #-#-# translate crowdin reward_for_payment_5314b939:
 msgid "[_RT_] {i}Maybe a little bit too happy!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Может быть, немного слишком счастливым."
 
 # game/UpdateScript0.05.rpy:2818 #-#-# translate crowdin reward_for_payment_89c56151:
 msgid "[_RT_] {i}Oh, no.... stay down.... stay down.... stay down!.... {/i}"
-msgstr ""
+msgstr "[_RT_] {i}О, нет.... тихо.... тихо.... тихо.... тихо!.... {/i}"
 
 # game/UpdateScript0.05.rpy:2821 #-#-# translate crowdin reward_for_payment_8e0ea896:
 msgid "[_RT_] {i}Shit!.... {/i}"
-msgstr ""
+msgstr "[_RT_] {i}Дерьмо! .... {/i}"
 
 # game/UpdateScript0.05.rpy:2822 #-#-# translate crowdin reward_for_payment_6e9dc37d:
 msgid "[_RT_] {i}She's going to notice any moment.... {/i}"
-msgstr ""
+msgstr "[_RT_] {i}Она заметит меня в любой момент.... {/i}"
 
 # game/UpdateScript0.05.rpy:2823 #-#-# translate crowdin reward_for_payment_1f0d1982:
 msgid "[_MT_] {i}Oh my God! Is that what I think it is?{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Боже мой! Это то, что я думаю?"
 
 # game/UpdateScript0.05.rpy:2824 #-#-# translate crowdin reward_for_payment_004f965b:
 msgid "[_MT_] {i}I've got to act quick, or I'm going to get dumped on my ass again!{/i}"
@@ -5198,7 +5198,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3044 #-#-# translate crowdin reward_for_payment_6e9dc37d_1:
 msgid "[_RT_] {i}She's going to notice any moment.... {/i}"
-msgstr ""
+msgstr "[_RT_] {i}Она заметит меня в любой момент.... {/i}"
 
 # game/UpdateScript0.05.rpy:3045 #-#-# translate crowdin reward_for_payment_4d83d32f:
 msgid "[_MT_] {i}Oh my God!.... There it is again.{/i}"
