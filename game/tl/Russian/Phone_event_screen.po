@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-11-15 00:51\n"
+"PO-Revision-Date: 2023-11-15 18:48\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/Phone_event_screen.rpy:1132 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -30,31 +30,31 @@ msgstr "[_RT_] {i}Я думаю, что мама, наверное, в шоке 
 
 # game/Phone_event_screen.rpy:1146 #-#-# translate crowdin event_info_05_9f6b4bbd:
 msgid "[_RT_] {i}Lauren likes to hang out in the living room in the evenings. Maybe I should go see her.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Лорен любит по вечерам проводить время в гостиной. Может, мне стоит сходить к ней?{/i}"
 
 # game/Phone_event_screen.rpy:1150 #-#-# translate crowdin event_info_06_b69019fb:
 msgid "[_RT_] {i}I should go to the kitchen in the evening for family dinner.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Я должен пойти на кухню вечером на семейный ужин.{/i}"
 
 # game/Phone_event_screen.rpy:1155 #-#-# translate crowdin event_info_07_5fd67134:
 msgid "[_RT_] {i}I need to visit the first stall in the school bathroom in the afternoon.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Мне нужно посетить первую кабинку в школьном туалете после обеда.{/i}"
 
 # game/Phone_event_screen.rpy:1158 #-#-# translate crowdin event_info_07_03a348f0:
 msgid "[_RT_] {i}I know I missed out on something amazing by not accepting Matt's help to seduce my Mom... I feel pretty good about my choice though.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Я знаю, что упустил нечто потрясающее, не согласившись на помощь Мэтта в соблазнении моей мамы... Но я вполне доволен своим выбором.{/i}"
 
 # game/Phone_event_screen.rpy:1159 #-#-# translate crowdin event_info_07_41732efc:
 msgid "[_RT_] {i}I really believe that I'll get something just as good, if not better. I'll just have to be very patient until then.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Я очень верю, что получу что-то такое же хорошее, если не лучше. Просто до тех пор мне придется быть очень терпеливым.{/i}"
 
 # game/Phone_event_screen.rpy:1161 #-#-# translate crowdin event_info_07_5a98029a:
 msgid "[_RT_] {i}I should go to school and hang out in the hallway in the late morning.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Я должен ходить в школу и болтаться в коридоре поздним утром.{/i}"
 
 # game/Phone_event_screen.rpy:1165 #-#-# translate crowdin event_info_08_fb2fbedc:
 msgid "[_RT_] {i}Mom works really hard all week. I should help her with jobs around the house on weekend mornings. She usually starts cleaning in the lounge.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Мама очень много работает всю неделю. Я должен помогать ей с работой по дому по утрам в выходные дни. Обычно она начинает уборку в комнате отдыха.{/i}"
 
 # game/Phone_event_screen.rpy:1170 #-#-# translate crowdin event_info_09_48bf4440:
 msgid "[_RT_] {i}I need to sneak into Lauren's room at night and see if I can use subliminal messages on the girls.{/i}"
@@ -62,31 +62,31 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1173 #-#-# translate crowdin event_info_09_08349636:
 msgid "[_RT_] {i}Sidney sleeps too light... How can I get her to sleep deeper? I've heard melatonin can help people sleep much deeper. I wonder if I can buy some online?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Сидни спит слишком крепко... Как сделать так, чтобы она спала глубже? Я слышала, что мелатонин помогает людям спать намного крепче. Интересно, можно ли купить его в Интернете?{/i}"
 
 # game/Phone_event_screen.rpy:1176 #-#-# translate crowdin event_info_09_633d14db:
 msgid "[_RT_] {i}I've got the melatonin, now I've got to figure how to get the girls to take it. I should head to the kitchen for inspiration.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Мелатонин у меня есть, теперь надо придумать, как заставить девочек его принимать. Мне нужно отправиться на кухню за вдохновением.{/i}"
 
 # game/Phone_event_screen.rpy:1178 #-#-# translate crowdin event_info_09_40c65cba:
 msgid "[_RT_] {i}The girls should be sleeping deeper at night. I should go pay them another visit.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Девочки должны спать ночью более крепко. Я должен навестить их еще раз.{/i}"
 
 # game/Phone_event_screen.rpy:1181 #-#-# translate crowdin event_info_09_fb75c678:
 msgid "[_RT_] {i}I need to keep sneaking into the girls room at night until I complete this event.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Мне нужно продолжать пробираться в комнату девочек по ночам, пока я не завершу это мероприятие.{/i}"
 
 # game/Phone_event_screen.rpy:1186 #-#-# translate crowdin event_info_10_915299f0:
 msgid "[_RT_] {i}I was able to get Sidney out of Lauren's room and now she's sleeping in the lounge, I'll bet a really good scare at night would get her into my bed.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Мне удалось вытащить Сидни из комнаты Лорен, и теперь она спит в гостиной, могу поспорить, что если ее хорошенько напугать ночью, то она попадет в мою кровать.{/i}"
 
 # game/Phone_event_screen.rpy:1189 #-#-# translate crowdin event_info_10_a396cd0e:
 msgid "[_RT_] {i}Sidney's started running every weekday morning. I've been getting out of shape, maybe I should join her.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Сидни начала бегать по утрам в будние дни. Я не в форме, может, мне стоит присоединиться к ней?{/i}"
 
 # game/Phone_event_screen.rpy:1192 #-#-# translate crowdin event_info_10_026b4497:
 msgid "[_RT_] {i}I should keep running with Sidney during the early morning to complete this event.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Я должен продолжать бегать с Сидни ранним утром, чтобы завершить это мероприятие.{/i}"
 
 # game/Phone_event_screen.rpy:1197 #-#-# translate crowdin event_info_11_7417fa25:
 msgid "[_RT_] {i}So, if I get four hundred dollars to Sidney, she'll make Lauren a cosplay outfit. That would probably impress both Sidney and Lauren. I'll give the money to Sidney in the kitchen some evening.{/i}"
@@ -134,7 +134,7 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1233 #-#-# translate crowdin event_info_16_fb2fbedc:
 msgid "[_RT_] {i}Mom works really hard all week. I should help her with jobs around the house on weekend mornings. She usually starts cleaning in the lounge.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Мама очень много работает всю неделю. Я должен помогать ей с работой по дому по утрам в выходные дни. Обычно она начинает уборку в комнате отдыха.{/i}"
 
 # game/Phone_event_screen.rpy:1238 #-#-# translate crowdin event_info_17_18b1dcc5:
 msgid "[_RT_] {i}I've got the spy-cam... now I need to install it in the bathroom.{/i}"
@@ -294,7 +294,7 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1385 #-#-# translate crowdin event_info_36_fb2fbedc:
 msgid "[_RT_] {i}Mom works really hard all week. I should help her with jobs around the house on weekend mornings. She usually starts cleaning in the lounge.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Мама очень много работает всю неделю. Я должен помогать ей с работой по дому по утрам в выходные дни. Обычно она начинает уборку в комнате отдыха.{/i}"
 
 # game/Phone_event_screen.rpy:1389 #-#-# translate crowdin event_info_37_6762287c:
 msgid "[_RT_] {i}I can't believe Lauren's okay with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
