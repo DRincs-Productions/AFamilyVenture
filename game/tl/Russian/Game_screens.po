@@ -10,41 +10,43 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-10-28 15:39\n"
+"PO-Revision-Date: 2023-11-15 00:51\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # §translate crowdin strings: #|#|# # game/Game_screens.rpy:77
 msgid " My\n"
 "Room"
-msgstr ""
+msgstr " Моя комната\n"
 
 # game/Game_screens.rpy:115
 msgid "Bath"
-msgstr ""
+msgstr "Ванна"
 
 # game/Game_screens.rpy:191
 msgid "Yard"
-msgstr ""
+msgstr "Двор"
 
 # game/Game_screens.rpy:200
 msgid "City"
-msgstr ""
+msgstr "Город"
 
 # game/Game_screens.rpy:220
 msgid "Hallway"
-msgstr ""
+msgstr "Прихожая"
 
 # game/Game_screens.rpy:229
 msgid "Class"
-msgstr ""
+msgstr "Класс"
 
 # game/Game_screens.rpy:247
 msgid "{size=29} {/size}Girls\n"
 "Locker\n"
 "{size=25} {/size}Room"
-msgstr ""
+msgstr "{size=29} {/size}Женская\n"
+"{size=25} {/size}Раздевалка"
 
 # game/Game_screens.rpy:303
 msgid "Campaign\n"
 "   HQ"
-msgstr ""
+msgstr "Кампания\n"
+"   Штаб"
 
