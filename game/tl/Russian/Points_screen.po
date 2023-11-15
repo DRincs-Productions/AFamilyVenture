@@ -11,11 +11,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-10-28 15:39\n"
+"PO-Revision-Date: 2023-11-15 17:25\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # §translate crowdin strings: #|#|# # game/Points_screen.rpy:117
 msgid "Mom's stats:"
-msgstr ""
+msgstr "Статистика мамы:"
 
 # game/Points_screen.rpy:127
 msgid "[momaffection]"
@@ -39,7 +39,7 @@ msgstr ""
 
 # game/Points_screen.rpy:138
 msgid "Lauren's stats:"
-msgstr ""
+msgstr "Статистика Лорен:"
 
 # game/Points_screen.rpy:147
 msgid "[laurenaffection]"
@@ -63,7 +63,7 @@ msgstr ""
 
 # game/Points_screen.rpy:158
 msgid "Sidney's stats:"
-msgstr ""
+msgstr "Статистика Сидни:"
 
 # game/Points_screen.rpy:167
 msgid "[sidneyaffection]"
@@ -107,7 +107,7 @@ msgstr ""
 
 # game/Points_screen.rpy:204
 msgid "Mandy's stats:"
-msgstr ""
+msgstr "Статистика Мэнди:"
 
 # game/Points_screen.rpy:213
 msgid "[cousinaffection]"
