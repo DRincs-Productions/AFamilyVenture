@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-11-15 00:51\n"
+"PO-Revision-Date: 2023-11-15 17:25\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -566,7 +566,7 @@ msgstr ""
 
 # game/script.rpy:1541 #-#-# translate crowdin bed_f561667c:
 msgid "[_RT_] {i}I can't waste time right now, the DeCapos will be here any minute.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Я не могу сейчас терять время, ДеКапо будут здесь с минуты на минуту.{/i}"
 
 # game/script.rpy:1549 #-#-# translate crowdin bed_0ba776cf:
 msgid "[_RT_] {i}I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
