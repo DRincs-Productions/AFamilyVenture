@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-10-28 13:50\n"
+"PO-Revision-Date: 2023-11-18 03:30\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/UpdateScript0.08_2.rpy:9 #-#-# translate crowdin mom_bumps_sidney_bc054bd6:
 msgid "[_G_] Well, if it isn't the lovely Miss [mom_name]."
@@ -958,7 +958,7 @@ msgstr "[_M_] Je t'aime aussi !"
 
 # game/UpdateScript0.08_2.rpy:495 #-#-# translate crowdin mom_bumps_sidney_continued_464a0aa4:
 msgid "{i}{b}(HINT){/b} Mom's getting to be so much less prudish. Maybe it's time to see what she'll do with me if I invite her on a date. Sunday's probably the only time we could both do it.{/i}"
-msgstr ""
+msgstr "{i}{b}(HINT){/b} Maman est de moins en moins pudibonde. Il est peut-être temps de voir ce qu'elle fera de moi si je l'invite à un rendez-vous. Dimanche est probablement le seul moment où nous pourrions tous les deux le faire."
 
 # game/UpdateScript0.08_2.rpy:502 #-#-# translate crowdin mom_bumps_sidney_continued_a88949ff_1:
 msgid "[_S_] Oh, it's not like I didn't have to deal with handsy guys back in my high school days. You'd have no idea who it was who grabbed you in those crowded hallways."
@@ -1070,7 +1070,7 @@ msgstr "[_RT_] {i}Je dormirai mieux en sachant qu'elle n'est pas près de cet en
 
 # game/UpdateScript0.08_2.rpy:552 #-#-# translate crowdin mom_bumps_sidney_continued_1d17fd0f:
 msgid "{i}{b}(HINT){/b} Mom's getting even more busy now that she'll be gardening with Sidney. I need quality time with her too! Sunday's probably the only time we could spend time together.{/i}"
-msgstr ""
+msgstr "{i}{b}(HINT){/b} Maman est encore plus occupée maintenant qu'elle va jardiner avec Sidney. J'ai besoin de temps de qualité avec elle aussi ! Le dimanche est probablement le seul moment où nous pourrons passer du temps ensemble.{/i}"
 
 # game/UpdateScript0.08_2.rpy:565 #-#-# translate crowdin golden_king_2519ab60:
 msgid "[_A_] Are you sure it's back here?"
@@ -4858,7 +4858,7 @@ msgstr "[_M_] Je t'aime aussi !"
 
 # game/UpdateScript0.08_2.rpy:3350 #-#-# translate crowdin last_time_on_afv_464a0aa4:
 msgid "{i}{b}(HINT){/b} Mom's getting to be so much less prudish. Maybe it's time to see what she'll do with me if I invite her on a date. Sunday's probably the only time we could both do it.{/i}"
-msgstr ""
+msgstr "{i}{b}(HINT){/b} Maman est de moins en moins pudibonde. Il est peut-être temps de voir ce qu'elle fera de moi si je l'invite à un rendez-vous. Dimanche est probablement le seul moment où nous pourrions tous les deux le faire."
 
 # game/UpdateScript0.08_2.rpy:3357 #-#-# translate crowdin last_time_on_afv_a88949ff_1:
 msgid "[_S_] Oh, it's not like I didn't have to deal with handsy guys back in my high school days. You'd have no idea who it was who grabbed you in those crowded hallways."
@@ -4970,7 +4970,7 @@ msgstr "[_RT_] {i}Je dormirai mieux en sachant qu'elle n'est pas près de cet en
 
 # game/UpdateScript0.08_2.rpy:3407 #-#-# translate crowdin last_time_on_afv_1d17fd0f:
 msgid "{i}{b}(HINT){/b} Mom's getting even more busy now that she'll be gardening with Sidney. I need quality time with her too! Sunday's probably the only time we could spend time together.{/i}"
-msgstr ""
+msgstr "{i}{b}(HINT){/b} Maman est encore plus occupée maintenant qu'elle va jardiner avec Sidney. J'ai besoin de temps de qualité avec elle aussi ! Le dimanche est probablement le seul moment où nous pourrons passer du temps ensemble.{/i}"
 
 # game/UpdateScript0.08_2.rpy:3417 #-#-# translate crowdin girl_time_club_c23d3f74:
 msgid "[_RT_] {i}It's too late to do anything else in the club tonight.{/i}"
@@ -5014,11 +5014,11 @@ msgstr "[_RT_] {i}Bon sang de bonsoir... J'ai hâte d'avoir la prochaine mise à
 
 # game/UpdateScript0.08_2.rpy:3476 #-#-# translate crowdin girl_time_club_75126546:
 msgid "[_RT_] {i}I used to enjoy my trips here. Now, it seems like I add more stress to my life with every visit.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}J'avais l'habitude d'apprécier mes voyages ici. Aujourd'hui, j'ai l'impression d'ajouter du stress à ma vie à chaque visite."
 
 # game/UpdateScript0.08_2.rpy:3477 #-#-# translate crowdin girl_time_club_f4f7837b:
 msgid "[_RT_] {i}At least the scenery is always nice.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Au moins, le paysage est toujours agréable.{/i}"
 
 # game/UpdateScript0.08_2.rpy:3480 #-#-# translate crowdin girl_time_club_bef44e06:
 msgid "[_AD_] Hey, Slick!"
