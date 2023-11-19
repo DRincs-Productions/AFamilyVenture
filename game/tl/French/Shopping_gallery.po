@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-10-28 13:49\n"
+"PO-Revision-Date: 2023-11-19 08:06\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/Shopping_gallery.rpy:266 #-#-# translate crowdin online_shopping_d0d5deb3:
 msgid "[_RT_] {i}HardnLong.dong it's the best online shop that has the best prices, they deliver everywhere and they also accept online currency that'll help me be anonymous.{/i}"
@@ -650,11 +650,11 @@ msgstr "Vous en avez déjà assez."
 
 # game/Shopping_gallery.rpy:750 #-#-# translate crowdin buying_label_b3034456:
 msgid "You bought a lovely set of bikinis."
-msgstr ""
+msgstr "Tu as acheté un joli ensemble de bikinis."
 
 # game/Shopping_gallery.rpy:751 #-#-# translate crowdin buying_label_bbdb8b3c:
 msgid "[_RT_] {i}I'll need to pick these up at Dad's warehouse.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Il faudra que j'aille les chercher à l'entrepôt de papa.{/i}"
 
 # game/Shopping_gallery.rpy:753 #-#-# translate crowdin buying_label_ee2b767d_22:
 msgid "[_RT_] {i}Not right now.{/i}"
@@ -730,5 +730,5 @@ msgstr "Acheter du vin"
 
 # game/Shopping_gallery.rpy:746
 msgid "Buy Bikinis"
-msgstr ""
+msgstr "Acheter un bikini"
 
