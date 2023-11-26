@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-10-28 13:47\n"
+"PO-Revision-Date: 2023-11-26 17:06\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/UpdateScript0.06.rpy:715 #-#-# translate crowdin move_in_day_31871088:
 msgid "[_RT_] {i}I... think I slept in... What time is it?{/i}"
@@ -11438,7 +11438,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7319 #-#-# translate crowdin diaz_is_back_b13f5117:
 msgid "It's time for the weekly Agent Diaz event, would you like to skip it this week?"
-msgstr ""
+msgstr "Haftalık Ajan Diaz etkinliğinin zamanı geldi, bu hafta bunu atlamak ister misiniz?"
 
 # game/UpdateScript0.06.rpy:7322 #-#-# translate crowdin diaz_is_back_89b54335:
 msgid "Ok... I get it... you've got other events to complete."
@@ -11482,7 +11482,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7348 #-#-# translate crowdin diaz_is_back_c335f1dc:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in Teslimiyeti +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:7353 #-#-# translate crowdin diaz_is_back_2faf6c00:
 msgid "{i}{b}\"Mandy's Affection -1\"{/b}{/i}"
@@ -11490,7 +11490,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7355 #-#-# translate crowdin diaz_is_back_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in Sevgisi +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:7357 #-#-# translate crowdin diaz_is_back_4b04ae8e_1:
 msgid "{i}\"Lauren and Mandy's Libido +1\"{/i}"
@@ -11510,7 +11510,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7367 #-#-# translate crowdin diaz_is_back_c335f1dc_1:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in Teslimiyeti +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:7370 #-#-# translate crowdin diaz_is_back_d49f35e4_1:
 msgid "{i}{b}\"Lauren's Affection -1\"{/b}{/i}"
@@ -11526,7 +11526,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7377 #-#-# translate crowdin diaz_is_back_c335f1dc_2:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in Teslimiyeti +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:7382 #-#-# translate crowdin diaz_is_back_2faf6c00_1:
 msgid "{i}{b}\"Mandy's Affection -1\"{/b}{/i}"
@@ -11534,7 +11534,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7384 #-#-# translate crowdin diaz_is_back_32f0afae_1:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in Sevgisi +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:7386 #-#-# translate crowdin diaz_is_back_4b04ae8e_3:
 msgid "{i}\"Lauren and Mandy's Libido +1\"{/i}"
@@ -12698,7 +12698,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7933 #-#-# translate crowdin diaz_is_back_c335f1dc_3:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in Teslimiyeti +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:7937 #-#-# translate crowdin diaz_is_back_d695f904:
 msgid "[_R_] Sorry Mandy, but Lauren's already been terrorized by Agent Diaz too much."
@@ -12714,7 +12714,7 @@ msgstr "[_L_] Hay amk..."
 
 # game/UpdateScript0.06.rpy:7940 #-#-# translate crowdin diaz_is_back_32f0afae_2:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in Sevgisi +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:7941 #-#-# translate crowdin diaz_is_back_2faf6c00_2:
 msgid "{i}{b}\"Mandy's Affection -1\"{/b}{/i}"
@@ -13994,7 +13994,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:8597 #-#-# translate crowdin diaz_lauren_and_mandy_c335f1dc:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in Teslimiyeti +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:8601 #-#-# translate crowdin diaz_lauren_and_mandy_a0d191df:
 msgid "[_R_] Sorry, Mandy."
@@ -14014,7 +14014,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:8605 #-#-# translate crowdin diaz_lauren_and_mandy_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in Sevgisi +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:8608 #-#-# translate crowdin diaz_lauren_and_mandy_676d5451:
 msgid "[_AD_] Alright! [ryan], why don't you step out while we get changed and get Mandy all tied up."
@@ -17454,7 +17454,7 @@ msgstr "{i}{b}\"Sidney'in azgınlığı +5\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:10192 #-#-# translate crowdin find_sidney_1d59362d:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}\"Sidney'in Teslimiyeti +1\"{/i}"
 
 # game/UpdateScript0.06.rpy:10198 #-#-# translate crowdin find_sidney_b6514ddd:
 msgid "[_S_] Wow, [ryan]! That was amazing!"
