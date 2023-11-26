@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-10-28 13:46\n"
+"PO-Revision-Date: 2023-11-26 17:05\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # §translate crowdin strings: #|#|# # game/Credits_screen.rpy:57
 msgid "                               Credits"
@@ -51,7 +51,8 @@ msgstr "Cybeon"
 # game/Credits_screen.rpy:165
 msgid "\n"
 "{b}{i}Game Script Writer, Image Creator, Face Card Designer:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Oyun Senaryosu Yazarı, Görüntü Yaratıcısı, Yüz Kartı Tasarımcısı:{/i}{/b} \n"
 
 # game/Credits_screen.rpy:167
 msgid "Strenif"
