@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-10-28 13:48\n"
+"PO-Revision-Date: 2023-11-26 17:06\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -514,7 +514,7 @@ msgstr "[_LT_] {i}Hmmmm.... Bunu bir düşünmem gerekecek.... {/i}"
 
 # game/script.rpy:1355 #-#-# translate crowdin myroom_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in Sevgisi +1\"{/b}{/i}"
 
 # game/script.rpy:1356 #-#-# translate crowdin myroom_64e7b164_1:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
@@ -658,7 +658,7 @@ msgstr "[_S_] EHHHHEEEEEMMMM..."
 
 # game/script.rpy:2161 #-#-# translate crowdin sleep_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in Sevgisi +1\"{/b}{/i}"
 
 # game/script.rpy:2163 #-#-# translate crowdin sleep_a3c2b612:
 msgid "[_L_] OMG [ryan].... so Kenzie was so funny today after PE she was all like___"
@@ -894,7 +894,7 @@ msgstr "{i}{b}\"Lauren'in azgınlığı +1\"{/b}{/i}"
 
 # game/script.rpy:2896 #-#-# translate crowdin wakeupryan_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in Sevgisi +1\"{/b}{/i}"
 
 # game/script.rpy:2897 #-#-# translate crowdin wakeupryan_fb7fef67:
 msgid "[_RT_] {i}So she did dream about me last night. I'll have to keep whispering suggestions at night.{/i}"
@@ -1226,7 +1226,7 @@ msgstr "[_LT_] {i}Hmmmm.... Bunu bir düşünmem gerekecek.... {/i}"
 
 # game/script.rpy:3319 #-#-# translate crowdin loungeevening_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in Sevgisi +1\"{/b}{/i}"
 
 # game/script.rpy:3320 #-#-# translate crowdin loungeevening_64e7b164_1:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
@@ -1326,7 +1326,7 @@ msgstr "[_LT_] {i}Hmmmm.... Bunu bir düşünmem gerekecek.... {/i}"
 
 # game/script.rpy:3391 #-#-# translate crowdin loungeevening_32f0afae_1:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in Sevgisi +1\"{/b}{/i}"
 
 # game/script.rpy:3392 #-#-# translate crowdin loungeevening_64e7b164_2:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
@@ -1590,7 +1590,7 @@ msgstr "[_LT_] {i}Hmmmm.... Bunu bir düşünmem gerekecek.... {/i}"
 
 # game/script.rpy:3570 #-#-# translate crowdin loungeeveningweekend_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in Sevgisi +1\"{/b}{/i}"
 
 # game/script.rpy:3571 #-#-# translate crowdin loungeeveningweekend_64e7b164_1:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
@@ -1690,7 +1690,7 @@ msgstr "[_LT_] {i}Hmmmm.... Bunu bir düşünmem gerekecek.... {/i}"
 
 # game/script.rpy:3642 #-#-# translate crowdin loungeeveningweekend_32f0afae_1:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in Sevgisi +1\"{/b}{/i}"
 
 # game/script.rpy:3643 #-#-# translate crowdin loungeeveningweekend_64e7b164_2:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
@@ -2638,7 +2638,7 @@ msgstr "[_LT_] {i}Hmmmm.... Bunu bir düşünmem gerekecek.... {/i}"
 
 # game/script.rpy:4872 #-#-# translate crowdin dishes_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in Sevgisi +1\"{/b}{/i}"
 
 # game/script.rpy:4873 #-#-# translate crowdin dishes_64e7b164_1:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
@@ -2690,7 +2690,7 @@ msgstr "[_S_] EHHHHEEEEEMMMM..."
 
 # game/script.rpy:4948 #-#-# translate crowdin sidneycomeshome_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in Sevgisi +1\"{/b}{/i}"
 
 # game/script.rpy:4950 #-#-# translate crowdin sidneycomeshome_a3c2b612:
 msgid "[_L_] OMG [ryan].... so Kenzie was so funny today after PE she was all like___"
@@ -3414,7 +3414,7 @@ msgstr "[_ST_] {i}Siktir, eğer başarılı olursa, ondan para almak için ona b
 
 # game/script.rpy:5342 #-#-# translate crowdin sidneyinthekitchencontinued_1d59362d:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}\"Sidney'in Teslimiyeti +1\"{/i}"
 
 # game/script.rpy:5344 #-#-# translate crowdin sidneyinthekitchencontinued_90007593:
 msgid "[_ST_] {i}I wonder if [ryan] understands the sexual connotation of a woman calling him daddy.{/i}"
@@ -4446,7 +4446,7 @@ msgstr "{i}{b}\"Lauren'in kızgınlığı -10\"{/b}{/i}"
 
 # game/script.rpy:6628 #-#-# translate crowdin laurenangryroom_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in Sevgisi +1\"{/b}{/i}"
 
 # game/script.rpy:6630 #-#-# translate crowdin laurenangryroom_6e20e2d8:
 msgid "[_L_] Thank you so much!"
@@ -4846,7 +4846,7 @@ msgstr "[_R_] {i}(Fısıldayarak){/i} Kardeşinin seksi olduğunu düşünüyors
 
 # game/script.rpy:7073 #-#-# translate crowdin laurensneakingnight_c335f1dc:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in Teslimiyeti +1\"{/b}{/i}"
 
 # game/script.rpy:7075 #-#-# translate crowdin laurensneakingnight_e5956746:
 msgid "[_RT_] {i}That's all I can do tonight. My legs are tingling like crazy.{/i}"
@@ -4874,7 +4874,7 @@ msgstr "[_R_] {i}(Fısıldayarak){/i} Kardeşinin seksi olduğunu düşünüyors
 
 # game/script.rpy:7107 #-#-# translate crowdin laurensneakingnight_c335f1dc_1:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in Teslimiyeti +1\"{/b}{/i}"
 
 # game/script.rpy:7109 #-#-# translate crowdin laurensneakingnight_e5956746_1:
 msgid "[_RT_] {i}That's all I can do tonight. My legs are tingling like crazy.{/i}"
@@ -7306,7 +7306,7 @@ msgstr "{i}10 dakika sonra.... {/i}"
 
 # game/script.rpy:9589 #-#-# translate crowdin dinnerfirst_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in Sevgisi +1\"{/b}{/i}"
 
 # game/script.rpy:9590 #-#-# translate crowdin dinnerfirst_23a6c031:
 msgid "[_L_] OMG [ryan], you missed everything! A bunch of hunky FBI guys were here digging through all our junk, combing through our trash. They even copied everything on my phone and our computers! I better not find any of my selfies on the internet!"
