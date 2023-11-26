@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-10-23 04:29\n"
+"PO-Revision-Date: 2023-11-26 17:05\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScript0.05.rpy:476 #-#-# translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -4042,7 +4042,7 @@ msgstr "[_L_] Hmmmm.... Eğer çok dikkatli olursak.... Tamam.... Madem ısrar e
 
 # game/UpdateScript0.05.rpy:2393 #-#-# translate crowdin tv_together_c00662a5:
 msgid "{i}{b}\"Lauren's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in Saygısı +1\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:2396 #-#-# translate crowdin tv_together_e08c7d89:
 msgid "[_R_] That shouldn't concern you! Sidney doesn't ever look up from her computer when she's working."
@@ -4066,7 +4066,7 @@ msgstr "[_R_] Sadece bana güvenmelisin."
 
 # game/UpdateScript0.05.rpy:2401 #-#-# translate crowdin tv_together_c335f1dc:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Lauren'in Teslimiyeti +1\"{/b}{/i}"
 
 # game/UpdateScript0.05.rpy:2403 #-#-# translate crowdin tv_together_444ae30c:
 msgid "[_L_] Ok.... I trust you."
@@ -6958,7 +6958,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4069 #-#-# translate crowdin breakfast_events_fa3877fd:
 msgid "{i}\"Mom's Respect -1\"{/i}"
-msgstr ""
+msgstr "{i}\"Annemin Saygısı -1\"{/i}"
 
 # game/UpdateScript0.05.rpy:4082 #-#-# translate crowdin breakfast_events_8d9a4b12_7:
 msgid "[_RT_] {i}It smells good in here. Should I join everybody for breakfast?{/i}"
@@ -10298,7 +10298,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5990 #-#-# translate crowdin park_menu_1d59362d:
 msgid "{i}\"Sidney's Submission +1\"{/i}"
-msgstr ""
+msgstr "{i}\"Sidney'in Teslimiyeti +1\"{/i}"
 
 # game/UpdateScript0.05.rpy:5991 #-#-# translate crowdin park_menu_6be6e73d_2:
 msgid "{i}{b}\"Sidney's Libido +2\"{/b}{/i}"
