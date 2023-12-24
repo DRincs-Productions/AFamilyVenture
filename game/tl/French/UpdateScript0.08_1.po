@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-19 12:50\n"
+"PO-Revision-Date: 2023-12-24 15:08\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/UpdateScript0.08_1.rpy:2250 #-#-# translate crowdin mom_ramp_up_c71fc1d6:
 msgid "[_RT_] {i}Oh wow!... I can't believe I've had sex with both of my sisters!{/i}"
@@ -958,7 +958,7 @@ msgstr "[_RT_] {i}Je ne pourrai pas dormir tant que je ne saurai pas avec certit
 
 # game/UpdateScript0.08_1.rpy:2795 #-#-# translate crowdin early_text_from_lauren_d5c7257e:
 msgid "[_RT_] {i}Uugh, who's texting me this early in the morning?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Uuuuughhh, qui m'envoie un texto si tôt le matin?{/i}"
 
 # game/UpdateScript0.08_1.rpy:2799 #-#-# translate crowdin early_text_from_lauren_f900c8fe:
 msgid "[_RT_] {i}We found the bikinis we want you to buy us!{/i}"
@@ -1002,7 +1002,7 @@ msgstr "[_S_] {b}Lauren ! Dépêche-toi !"
 
 # game/UpdateScript0.08_1.rpy:2838 #-#-# translate crowdin jacky_morning_hj_a64427be:
 msgid "[_L_] Oh, my God! Relax! There, it's all yours, spazoid!"
-msgstr ""
+msgstr "[Oh, mon Dieu ! Détendez-vous ! Voilà, c'est tout à toi, spazoïde !"
 
 # game/UpdateScript0.08_1.rpy:2839 #-#-# translate crowdin jacky_morning_hj_c1bb833c:
 msgid "[_R_] Zzz...!"
@@ -1014,11 +1014,11 @@ msgstr "[_R_] Mmm…"
 
 # game/UpdateScript0.08_1.rpy:2843 #-#-# translate crowdin jacky_morning_hj_7d4e6594:
 msgid "[_S_] Did you use the last of my skin moisturizer?"
-msgstr ""
+msgstr "[As-tu utilisé la dernière dose de ma crème hydratante ?"
 
 # game/UpdateScript0.08_1.rpy:2844 #-#-# translate crowdin jacky_morning_hj_7f73980e:
 msgid "[_L_] Maybe, just tell Mom to buy some more, jeeze!"
-msgstr ""
+msgstr "[Peut-être, dis à maman d'en acheter d'autres, bon sang !"
 
 # game/UpdateScript0.08_1.rpy:2845 #-#-# translate crowdin jacky_morning_hj_56c63b6e:
 msgid "[_S_] {b}What the hell Lauren!?{/b}"
@@ -1026,15 +1026,15 @@ msgstr ""
 
 # game/UpdateScript0.08_1.rpy:2846 #-#-# translate crowdin jacky_morning_hj_6d7ac1a5:
 msgid "[_L_] I needed it! I have to look good for my InstaSlam pictures."
-msgstr ""
+msgstr "[J'en avais besoin ! Je dois être belle pour mes photos InstaSlam."
 
 # game/UpdateScript0.08_1.rpy:2849 #-#-# translate crowdin jacky_morning_hj_2ec78f6c:
 msgid "[_R_] Mmmm...!"
-msgstr ""
+msgstr "[_R_] Mmmm...!"
 
 # game/UpdateScript0.08_1.rpy:2850 #-#-# translate crowdin jacky_morning_hj_77c14a38:
 msgid "[_M_] Keep it down out there. [ryan]'s trying to sleep."
-msgstr ""
+msgstr "[Ne faites pas de bruit. [Ryan] essaie de dormir."
 
 # game/UpdateScript0.08_1.rpy:2851 #-#-# translate crowdin jacky_morning_hj_5c220758:
 msgid "[_L_] Why does he get to sleep in? You made me get up early even though it's Sunday."
@@ -1042,23 +1042,23 @@ msgstr "[_L_] Pourquoi fait-il la grasse matinée ? Tu m'as fait lever tôt mêm
 
 # game/UpdateScript0.08_1.rpy:2852 #-#-# translate crowdin jacky_morning_hj_414e5ce6:
 msgid "[_M_] Because your brother has been working hard to pay Mr. Decapo these past weeks for us, and you forgot to do your chores yesterday."
-msgstr ""
+msgstr "[_M_] Parce que ton frère a travaillé dur pour payer M. Decapo ces dernières semaines pour nous, et que tu as oublié de faire tes corvées hier."
 
 # game/UpdateScript0.08_1.rpy:2853 #-#-# translate crowdin jacky_morning_hj_3dc3cd73:
 msgid "[_M_] Now, keep it down you two! [ryan] deserves some peace and quiet."
-msgstr ""
+msgstr "[Baissez d'un ton, tous les deux ! [Ryan] mérite un peu de paix et de tranquillité."
 
 # game/UpdateScript0.08_1.rpy:2854 #-#-# translate crowdin jacky_morning_hj_6529f483:
 msgid "[_L_] Whatever! I'll be in my room."
-msgstr ""
+msgstr "[Peu importe ! Je serai dans ma chambre."
 
 # game/UpdateScript0.08_1.rpy:2855 #-#-# translate crowdin jacky_morning_hj_6a7276bf:
 msgid "[_R_] Mmhm... Mom...?"
-msgstr ""
+msgstr "[_R_] Ohhh.... Maman...?"
 
 # game/UpdateScript0.08_1.rpy:2858 #-#-# translate crowdin jacky_morning_hj_76027ccc:
 msgid "[_M_] Shhh."
-msgstr ""
+msgstr "[_MD_] Chut."
 
 # game/UpdateScript0.08_1.rpy:2859 #-#-# translate crowdin jacky_morning_hj_b2c344e3:
 msgid "[_M_] Go back to sleep, Sweety."
@@ -1066,11 +1066,11 @@ msgstr ""
 
 # game/UpdateScript0.08_1.rpy:2860 #-#-# translate crowdin jacky_morning_hj_07fac577:
 msgid "[_R_] Mmmhmm..."
-msgstr ""
+msgstr "[_R_] MMmmmmm..."
 
 # game/UpdateScript0.08_1.rpy:2861 #-#-# translate crowdin jacky_morning_hj_7070d1c6:
 msgid "[_MT_] {i}My little angel.{/i}"
-msgstr ""
+msgstr "[ _MT_ ] {i}Mon petit ange. { /i }"
 
 # game/UpdateScript0.08_1.rpy:2862 #-#-# translate crowdin jacky_morning_hj_5ec38e14:
 msgid "[_MT_] {i}Thank you, Baby, for all you've been doing for the family. I don't know what I would have done without your help.{/i}"
