@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-01-12 19:45\n"
+"PO-Revision-Date: 2024-01-12 21:10\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/Phone_event_screen.rpy:1132 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -862,23 +862,23 @@ msgstr "[_RT_] {i}Je dois rendre le rendez-vous parfait pour que maman ne me ré
 
 # game/Phone_event_screen.rpy:1893 #-#-# translate crowdin event_info_101_bec3d440:
 msgid "[_RT_] {i}I need to check out what Mandy and Lauren are doing in the yard each Sunday morning.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Je dois vérifier ce que Mandy et Lauren font dans le jardin chaque dimanche matin.{/i}"
 
 # game/Phone_event_screen.rpy:1896 #-#-# translate crowdin event_info_101_8ce103bc:
 msgid "[_RT_] {i}I need to buy the girls some bikinis on the Hard'n Long website, pick them up from the warehouse, and give them to the girls on Sunday morning.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Je dois acheter des bikinis aux filles sur le site de Hard'n Long, les récupérer à l'entrepôt et les donner aux filles le dimanche matin.{/i}"
 
 # game/Phone_event_screen.rpy:1899 #-#-# translate crowdin event_info_101_78644780:
 msgid "[_RT_] {i}Corrupting the girls enough to get the type of shots that will bring them real fame is taking longer than I thought. Maybe I should start focusing more on the campaign until it's over so I can give this my full attention.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Corrompre suffisamment les filles pour obtenir le type de photos qui leur apportera la gloire prend plus de temps que je ne le pensais. Je devrais peut-être me concentrer davantage sur la campagne jusqu'à ce qu'elle soit terminée pour pouvoir y consacrer toute mon attention."
 
 # game/Phone_event_screen.rpy:1902 #-#-# translate crowdin event_info_101_7640b858:
 msgid "[_RT_] {i}Corrupting the girls enough to get the type of shots that will bring them real fame is taking longer than I thought. Maybe I should focus more on only corrupting Mandy on the days we clean the yard.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Corrompre suffisamment les filles pour obtenir le type de photos qui leur apportera la gloire prend plus de temps que je ne le pensais. Je devrais peut-être me concentrer davantage sur la campagne jusqu'à ce qu'elle soit terminée pour pouvoir y consacrer toute mon attention."
 
 # game/Phone_event_screen.rpy:1905 #-#-# translate crowdin event_info_101_63e6c99b:
 msgid "[_RT_] {i}I just need to keep taking pictures of the girls Sunday morning until they get those one hundred thousand followers they're after.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Je dois juste continuer à prendre des photos des filles le dimanche matin jusqu'à ce qu'elles obtiennent les cent mille followers qu'elles recherchent.{/i}"
 
 # game/Phone_event_screen.rpy:1920 #-#-# translate crowdin again_tutorial_50b4b06e:
 msgid "[_R_] Testing.... Testing.... Ok.... It looks like it's recording."
@@ -1222,7 +1222,7 @@ msgstr "[event_num]"
 
 # game/Phone_event_screen.rpy:41
 msgid "???"
-msgstr ""
+msgstr "???"
 
 # game/Phone_event_screen.rpy:1073
 msgid "Press the \"{color=#E60000}???{/color}\" to see \n"
