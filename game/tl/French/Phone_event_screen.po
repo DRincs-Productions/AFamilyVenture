@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-01-12 21:10\n"
+"PO-Revision-Date: 2024-01-13 04:48\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/Phone_event_screen.rpy:1132 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -850,7 +850,7 @@ msgstr "[_RT_] {i}Je ferais mieux de surveiller maman et Sidney au club tous les
 
 # game/Phone_event_screen.rpy:1882 #-#-# translate crowdin event_info_100_adfe49b3:
 msgid "[_RT_] {i}Mom's getting even more busy now that she'll be gardening with Sidney. I need quality time with her too! Sunday's probably the only time we could spend time together.{/i}"
-msgstr "[ {i}Maman est encore plus occupée maintenant qu'elle va jardiner avec Sidney. J'ai besoin de passer du temps avec elle aussi ! Le dimanche est probablement le seul moment où nous pourrons passer du temps ensemble.{/i}"
+msgstr "[_RT_]{i}Maman est encore plus occupée maintenant qu'elle va jardiner avec Sidney. J'ai besoin de passer du temps avec elle aussi ! Le dimanche est probablement le seul moment où nous pourrons passer du temps ensemble.{/i}"
 
 # game/Phone_event_screen.rpy:1885 #-#-# translate crowdin event_info_100_947c1047:
 msgid "[_RT_] {i}Mom's getting to be so much less prudish. Maybe it's time to see what she'll do with me if I invite her on a date. Sunday's probably the only time we could both do it.{/i}"
