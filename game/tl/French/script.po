@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-10-28 13:48\n"
+"PO-Revision-Date: 2024-01-23 14:54\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -994,15 +994,15 @@ msgstr "[_RT_] {i}Qu'est-ce qui ne va pas chez moi?{/i}"
 
 # game/script.rpy:3139 #-#-# translate crowdin loungemorningweekend_eeb76109:
 msgid "[_RT_] {i}Why isn't Mom here doing her chores?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Pourquoi ma mère ne fait-elle pas ses cordes ici ?{/i}"
 
 # game/script.rpy:3140 #-#-# translate crowdin loungemorningweekend_617586d1:
 msgid "[_RT_] {i}Oh, right... She's avoiding me now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Oh, d'accord... Elle m'évite maintenant.{/i}"
 
 # game/script.rpy:3141 #-#-# translate crowdin loungemorningweekend_a16e2949:
 msgid "[_RT_] {i}Where could she have gone?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Où aurait-elle pu partir?{/i}"
 
 # game/script.rpy:3204 #-#-# translate crowdin loungeevening_3959ba15:
 msgid "[_RT_] {i}What did I just walk in on? It's like Mom and Lauren are purposely trying to be cock-teases lately.{/i}"
@@ -7102,7 +7102,7 @@ msgstr "'Vous avez reçu trois bouteilles de vin.'"
 
 # game/script.rpy:9272 #-#-# translate crowdin warehouse_d87d2efa:
 msgid "\"You received a lovely set of bikinis.\""
-msgstr ""
+msgstr "\"Vous avez reçu un beau bikinis.\""
 
 # game/script.rpy:9275 #-#-# translate crowdin warehouse_b27ef456:
 msgid "\"There's nothing else to do here.\""
@@ -7270,7 +7270,7 @@ msgstr "'Vous avez reçu trois bouteilles de vin.'"
 
 # game/script.rpy:9552 #-#-# translate crowdin warehousealso_d87d2efa:
 msgid "\"You received a lovely set of bikinis.\""
-msgstr ""
+msgstr "\"Vous avez reçu un beau bikinis.\""
 
 # game/script.rpy:9555 #-#-# translate crowdin warehousealso_dc658733:
 msgid "\"There's nothing left to do here.\""
