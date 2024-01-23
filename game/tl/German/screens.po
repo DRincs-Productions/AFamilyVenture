@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-10-28 13:48\n"
+"PO-Revision-Date: 2024-01-23 18:03\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:247
 msgid "History"
@@ -188,7 +188,7 @@ msgstr "Automatische Vorwärts-Zeit"
 
 # game/screens.rpy:845
 msgid "Dialogue Box Opacity"
-msgstr ""
+msgstr "Dialogbox Deckkraft"
 
 # game/screens.rpy:851
 msgid "Music Volume"
