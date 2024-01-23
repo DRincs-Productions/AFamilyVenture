@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-01-23 14:55\n"
+"PO-Revision-Date: 2024-01-23 15:57\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/images/interface_images/minigame/Shower_Run_01_timed_event.rpy:125 #-#-# translate crowdin Shower_Run01_game_start_lbl_b6d04ae0:
 msgid "[_RT_] {i}I've just got to move as silently as a ninja.{/i}"
@@ -38,5 +38,5 @@ msgstr "[_RT_] {i}So weit gut... Jetzt nicht aufschrauben.{/i}"
 
 # game/images/interface_images/minigame/Shower_Run_01_timed_event.rpy:156 #-#-# translate crowdin Shower_Run01_game_end_lbl_1d59b54d:
 msgid "[_R_] Goddammit!"
-msgstr ""
+msgstr "[_R_] Goddammit!"
 
