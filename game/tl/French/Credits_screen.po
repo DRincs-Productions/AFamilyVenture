@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-16 12:09\n"
+"PO-Revision-Date: 2024-01-23 13:07\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # §translate crowdin strings: #|#|# # game/Credits_screen.rpy:57
 msgid "                               Credits"
@@ -782,11 +782,11 @@ msgstr "ㅁㄴㅇㄹ"
 msgid "\n"
 "{b}Music Attributions:{/b} \n"
 msgstr "\n"
-"{b}Attributions de musique:{/b} \n"
+"{b}Attributions de la musique:{/b} \n"
 
 # game/Credits_screen.rpy:357
 msgid "Waiting for the Moment that Never Comes"
-msgstr "En attendant le moment qui n'arrive jamais"
+msgstr "En attente du moment qui ne vient jamais"
 
 # game/Credits_screen.rpy:358
 msgid "by Lee Rosevere from The Free Music Archive"
@@ -794,7 +794,7 @@ msgstr "De Lee Rosevere de The Free Music Archive"
 
 # game/Credits_screen.rpy:359
 msgid "CC by 4.0"
-msgstr "CC par SA 4.0"
+msgstr "CC par 4.0"
 
 # game/Credits_screen.rpy:361
 msgid "I Will (Instrumental)"
