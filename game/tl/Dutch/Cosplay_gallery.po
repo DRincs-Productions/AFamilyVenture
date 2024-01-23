@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2023-09-19 19:57\n"
+"PO-Revision-Date: 2024-01-23 14:56\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/Cosplay_gallery.rpy:1213 #-#-# translate crowdin cosplay_label_c1f386dd:
 msgid "[_RT_] {i}Yes... I have sold another pair of oufits for $[sold] more.{/i}"
@@ -46,65 +46,67 @@ msgstr "[_RT_] {i}Ik moet tot het einde van de week wachten voordat ik mijn geld
 
 # game/Cosplay_gallery.rpy:1846 #-#-# translate crowdin advertising_label_4491e190:
 msgid "[_RT_] {i}For only 5 bucks I'll get more likes. I should remember to do this daily.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Voor slechts 5 kopjes krijg ik meer lekkers. Ik moet onthouden deze dag te doen.{/i}"
 
 # game/Cosplay_gallery.rpy:1849 #-#-# translate crowdin advertising_label_15ea30e2:
 msgid "[_RT_] {i}I already advertised today.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ik heb vandaag al geadverteerd.{/i}"
 
 # game/Cosplay_gallery.rpy:1864 #-#-# translate crowdin outfits_sell_label_606ee1bf:
 msgid "[_RT_] {i}Yes... The outfits were sold and now I have $[sold] more in my account.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ja... De outfits werden verkocht en nu heb ik $[sold] meer in mijn account.{/i}"
 
 # game/Cosplay_gallery.rpy:1871 #-#-# translate crowdin outfits_sell_label_68310073:
 msgid "[_RT_] {i}I should sell the cosplay outfits.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ik zou de cosplay outfits moeten verkopen{/i}"
 
 # game/Cosplay_gallery.rpy:1873 #-#-# translate crowdin outfits_sell_label_5cd5db5b:
 msgid "[_RT_] {i}There... all outfits have been put up for sale, now I'll just have to wait and see if they'll sell.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}There... alle outfits zijn verkocht en nu moet ik even wachten om te zien of ze zullen verkopen.{/i}"
 
 # game/Cosplay_gallery.rpy:1879 #-#-# translate crowdin outfits_sell_label_b7c5d749:
 msgid "[_RT_] {i}I don't have anything to sell.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ik heb niets te verkopen.{/i}"
 
 # game/Cosplay_gallery.rpy:1888 #-#-# translate crowdin outfit_info_488a37ce:
 msgid "[_RT_] {i} The first cosplay outfit that [outfit_nfo_name] wore on our first photoshoot.{/i}"
-msgstr ""
+msgstr "[_RT_] {i} De eerste cosplay outfit die [outfit_nfo_name] droeg op onze eerste fotoshoot.{/i}"
 
 # game/Cosplay_gallery.rpy:1889 #-#-# translate crowdin outfit_info_d4afad73:
 msgid "[_RT_] {i}I hope we can sell more of them.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ik hoop dat we er meer van kunnen verkopen.{/i}"
 
 # §translate crowdin strings: #|#|# # game/Cosplay_gallery.rpy:562
 msgid "{color=#ffffff}{b}Supporters{/b}{/color}"
-msgstr ""
+msgstr "{color=#ffffffff}{b}Supporters{/b}{/color}"
 
 # game/Cosplay_gallery.rpy:566
 msgid "{color=#ffffff}{b}Advertising{/b}{/color}"
-msgstr ""
+msgstr "{color=#ffffffffff}{b}Advertentie{/b}{/color}"
 
 # game/Cosplay_gallery.rpy:570
 msgid "{color=#ffffff}{b}Images\n"
 "Videos{/b}{/color}"
-msgstr ""
+msgstr "{color=#ffffffffff}{b}Afbeeldingen\n"
+"Video's{/b}{/color}"
 
 # game/Cosplay_gallery.rpy:575
 msgid "{color=#ffffff}{b}Outfits{/b}{/color}"
-msgstr ""
+msgstr "{color=#ffffffff}{b}Outfits{/b}{/color}"
 
 # game/Cosplay_gallery.rpy:581
 msgid "{color=#000000}{b}Likes: [total_likes]{/b}{/color}"
-msgstr ""
+msgstr "{color=#000000}{b}Likes: [total_likes]{/b}{/color}"
 
 # game/Cosplay_gallery.rpy:582
 msgid "{color=#ffffff}{b}Press to change \n"
 " likes to money{/b}{/color}"
-msgstr ""
+msgstr "{color=#ffffffffff}{b}Druk om \n"
+" te veranderen van money{/b}{/color}"
 
 # game/Cosplay_gallery.rpy:709
 msgid "{color=#000000}{b}Sell{/b}{/color}"
-msgstr ""
+msgstr "{color=#000000}{b}Sell{/b}{/color}"
 
 # game/Cosplay_gallery.rpy:710
 msgid "{color=#000000}{b}outfits{/b}{/color}"
