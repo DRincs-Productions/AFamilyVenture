@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-01-23 16:59\n"
+"PO-Revision-Date: 2024-01-23 18:06\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -4450,7 +4450,7 @@ msgstr "{i}{b}\"Слава Лорана +1\"{/b}{/i}"
 
 # game/script.rpy:6630 #-#-# translate crowdin laurenangryroom_6e20e2d8:
 msgid "[_L_] Thank you so much!"
-msgstr ""
+msgstr "[_L_] Большое спасибо!"
 
 # game/script.rpy:6631 #-#-# translate crowdin laurenangryroom_e3882901:
 msgid "[_RT_] {i}Oh, wow.{/i}"
@@ -5890,7 +5890,7 @@ msgstr ""
 
 # game/script.rpy:7870 #-#-# translate crowdin schoolhallwaymorning_d5337759:
 msgid "[_RT_] {i}I'm going to be late for class if I don't hurry.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Если не спешите, я буду опоздать на класс.{/i}"
 
 # game/script.rpy:7876 #-#-# translate crowdin schoolmorningweekend_aa22f048:
 msgid "There's no school on the weekend."
@@ -5898,7 +5898,7 @@ msgstr ""
 
 # game/script.rpy:7886 #-#-# translate crowdin schoolhallwayafternoon_379aa1ba:
 msgid "[_RT_] {i}Should I sit through another class, or find something else to do?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Должен я сидеть через другой класс или найти что-нибудь еще?{/i}"
 
 # game/script.rpy:7892 #-#-# translate crowdin schoolafternoonweekend_aa22f048:
 msgid "There's no school on the weekend."
@@ -6542,11 +6542,11 @@ msgstr ""
 
 # game/script.rpy:8598 #-#-# translate crowdin girlslockersmorning_b5e65263:
 msgid "[_RT_] {i}What am I doing here? I could get in a lot of trouble if somebody sees me.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Что я делаю здесь? Я могу попасть в много проблем, если кто-то меня увидит.{/i}"
 
 # game/script.rpy:8605 #-#-# translate crowdin girlslockersafternoon_b5e65263:
 msgid "[_RT_] {i}What am I doing here? I could get in a lot of trouble if somebody sees me.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Что я делаю здесь? Я могу попасть в много проблем, если кто-то меня увидит.{/i}"
 
 # game/script.rpy:8621 #-#-# translate crowdin girllocker_38fdacbf:
 msgid "{b}{i}\"You have found the \"Three of Spades!\" Card!\"{/i}{/b}"
