@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-01-23 14:55\n"
+"PO-Revision-Date: 2024-01-23 16:56\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScriptHalloweenEvent.rpy:256 #-#-# translate crowdin halloween_event_start_36b1bdbb:
 msgid "{i}{b}(HINT){/b} Happy Halloween!{/i}"
@@ -114,7 +114,7 @@ msgstr "{b}{i}\"Aufgrund Ihrer herausragenden Leistungen auf dem Gebiet der Fick
 
 # game/UpdateScriptHalloweenEvent.rpy:358 #-#-# translate crowdin scary_wakeup_aff0e59d:
 msgid "{b}{i}\"View this card in the gallery and casino\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Sehen Sie diese Karte in der Galerie und Casino\"{/i}{/b}"
 
 # game/UpdateScriptHalloweenEvent.rpy:382 #-#-# translate crowdin sidney_mirror_slime_9cb523ba:
 msgid "[_ST_] {i}That was a geat run!{/i}"
