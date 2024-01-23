@@ -10,23 +10,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-11-15 00:51\n"
+"PO-Revision-Date: 2024-01-23 14:59\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/images/interface_images/minigame/Shower_Run_01_timed_event.rpy:125 #-#-# translate crowdin Shower_Run01_game_start_lbl_b6d04ae0:
 msgid "[_RT_] {i}I've just got to move as silently as a ninja.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Я только что должен беззвучно двигаться как нинджа.{/i}"
 
 # game/images/interface_images/minigame/Shower_Run_01_timed_event.rpy:138 #-#-# translate crowdin Shower_Run01_game_end_lbl_87277f79:
 msgid "[_RT_] {i}I made it!{/i}"
-msgstr ""
+msgstr "[ _RT_] {i}Я сделал его! { /i }"
 
 # game/images/interface_images/minigame/Shower_Run_01_timed_event.rpy:139 #-#-# translate crowdin Shower_Run01_game_end_lbl_7e7de48a:
 msgid "[_RT_] {i}Shit!... The cheerleading squad must have early morning practice!{/i}"
-msgstr ""
+msgstr "[ _RT_] {i}Дерьмо! ... Команда группы поддержки должна иметь раннюю утреннюю практику! { /i }"
 
 # game/images/interface_images/minigame/Shower_Run_01_timed_event.rpy:142 #-#-# translate crowdin Shower_Run01_game_end_lbl_87277f79_1:
 msgid "[_RT_] {i}I made it!{/i}"
-msgstr ""
+msgstr "[ _RT_] {i}Я сделал его! { /i }"
 
 # game/images/interface_images/minigame/Shower_Run_01_timed_event.rpy:143 #-#-# translate crowdin Shower_Run01_game_end_lbl_ba56d138:
 msgid "[_RT_] {i}Shit!... The cheerleaders are here again!{/i}"
@@ -34,7 +34,7 @@ msgstr "[_RT_] {i}Черт!... Чирлидерши снова здесь!"
 
 # game/images/interface_images/minigame/Shower_Run_01_timed_event.rpy:148 #-#-# translate crowdin Shower_Run01_game_end_lbl_c5894761:
 msgid "[_RT_] {i}So far so good... Don't screw up now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}так хорошо... Не откручивайте сейчас.{/i}"
 
 # game/images/interface_images/minigame/Shower_Run_01_timed_event.rpy:156 #-#-# translate crowdin Shower_Run01_game_end_lbl_1d59b54d:
 msgid "[_R_] Goddammit!"
