@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-01-23 14:58\n"
+"PO-Revision-Date: 2024-01-23 15:58\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScript0.05.rpy:476 #-#-# translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -4722,7 +4722,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2853 #-#-# translate crowdin reward_for_payment_2e1c4340:
 msgid "{i}\"A few minutes later.\"{/i}"
-msgstr ""
+msgstr "{i}\"Alguns minutos depois.\"{/i}"
 
 # game/UpdateScript0.05.rpy:2856 #-#-# translate crowdin reward_for_payment_3316e2cf:
 msgid "[_M_] I'm going to lock the doors, just in case the girls come back for something."
@@ -4978,7 +4978,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2947 #-#-# translate crowdin reward_for_payment_36e5bd82:
 msgid "[_R_] Like this?"
-msgstr ""
+msgstr "[_R_] curtir isto?"
 
 # game/UpdateScript0.05.rpy:2948 #-#-# translate crowdin reward_for_payment_23d51e32:
 msgid "[_M_] Ummm.... Yeah...."
@@ -5214,7 +5214,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3052 #-#-# translate crowdin reward_for_payment_2e1c4340_1:
 msgid "{i}\"A few minutes later.\"{/i}"
-msgstr ""
+msgstr "{i}\"Alguns minutos depois.\"{/i}"
 
 # game/UpdateScript0.05.rpy:3055 #-#-# translate crowdin reward_for_payment_e020075c:
 msgid "[_M_] The door is locked this time.... Just in case."
@@ -5254,7 +5254,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:3075 #-#-# translate crowdin reward_for_payment_36e5bd82_1:
 msgid "[_R_] Like this?"
-msgstr ""
+msgstr "[_R_] curtir isto?"
 
 # game/UpdateScript0.05.rpy:3076 #-#-# translate crowdin reward_for_payment_dbe19c75:
 msgid "[_M_] Perfect, once again...."
@@ -7182,7 +7182,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4287 #-#-# translate crowdin breakfast_events_a314db81:
 msgid "[_L_] ...."
-msgstr ""
+msgstr "[_L_] ...."
 
 # game/UpdateScript0.05.rpy:4288 #-#-# translate crowdin breakfast_events_0093b117:
 msgid "[_S_] What?.... What did you say to Kenzie?"
@@ -7402,7 +7402,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4463 #-#-# translate crowdin breakfast_events_a314db81_1:
 msgid "[_L_] ...."
-msgstr ""
+msgstr "[_L_] ...."
 
 # game/UpdateScript0.05.rpy:4464 #-#-# translate crowdin breakfast_events_0093b117_1:
 msgid "[_S_] What?.... What did you say to Kenzie?"
@@ -8134,7 +8134,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4855 #-#-# translate crowdin fix_washer_fa18e4ef:
 msgid "[_M_] Thank you!"
-msgstr ""
+msgstr "[_M_] Obrigado!"
 
 # game/UpdateScript0.05.rpy:4856 #-#-# translate crowdin fix_washer_72099235:
 msgid "[_R_] I'll just think it instead."
@@ -8846,7 +8846,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5225 #-#-# translate crowdin not_fit_enough_0a73ed47:
 msgid "[_S_] Alright! Get stretched out and we'll take off."
-msgstr ""
+msgstr "[_S_] Certo! Estice-se e nós decolaremos."
 
 # game/UpdateScript0.05.rpy:5226 #-#-# translate crowdin not_fit_enough_6e1e1032:
 msgid "[_S_] Just let me know when you're ready."
@@ -8858,7 +8858,7 @@ msgstr "[_R_] ...."
 
 # game/UpdateScript0.05.rpy:5228 #-#-# translate crowdin not_fit_enough_02ef2b40:
 msgid "[_R_] Ok, let's go."
-msgstr ""
+msgstr "[_R_] Ok, vamos embora."
 
 # game/UpdateScript0.05.rpy:5231 #-#-# translate crowdin not_fit_enough_3c680c94:
 msgid "[_RT_] {i}Oh, shit!.... I'm still not going to be able to keep this pace.{/i}"
@@ -8874,7 +8874,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5234 #-#-# translate crowdin not_fit_enough_ea33c383:
 msgid "[_R_] Well, I'm sorry, but I'm not going to be able to keep this pace. You'll have to go on ahead of me."
-msgstr ""
+msgstr "[_R_] Bem, me desculpe, mas não vou ser capaz de manter este ritmo. Você terá que ir na minha frente."
 
 # game/UpdateScript0.05.rpy:5235 #-#-# translate crowdin not_fit_enough_36277929:
 msgid "[_R_] You should hold back, so you're not alone in the park with Mr. Peterson again."
@@ -8882,11 +8882,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5236 #-#-# translate crowdin not_fit_enough_047a7447:
 msgid "[_S_] Shit!.... I know I should.... I'm just going to go for it. I'll just try to be extra vigilant for that crazy old pervert."
-msgstr ""
+msgstr "[_S_] Merda!.... Eu sei que deveria... Só vou tentar. Só tentarei estar muito vigilante por aquele velho e louco perverso."
 
 # game/UpdateScript0.05.rpy:5238 #-#-# translate crowdin not_fit_enough_53beb040:
 msgid "[_S_] {i}(yelling){/i}Try to hurry though, I feel much safer when you're there with me!"
-msgstr ""
+msgstr "[_S_] {i}(gritando){/i}Tente se apressar, porém, eu me sinto muito mais seguro quando você está lá comigo!"
 
 # game/UpdateScript0.05.rpy:5239 #-#-# translate crowdin not_fit_enough_e08d498e:
 msgid "[_R_] {i}(yelling){/i} I'll try, but I might need to stop for a second to take a rest."
@@ -8894,31 +8894,31 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5242 #-#-# translate crowdin not_fit_enough_135e9a00:
 msgid "[_RT_] {i}Uugghh.... I pushed it too hard again trying to keep up with her.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Uugghh.... Eu empurrei muito difícil de novo para tentar mantê-lo.{/i}"
 
 # game/UpdateScript0.05.rpy:5245 #-#-# translate crowdin not_fit_enough_5fd7b03e:
 msgid "[_RT_] {i}I just need to take a minute to rest.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Eu só preciso usar um minuto para descansar.{/i}"
 
 # game/UpdateScript0.05.rpy:5250 #-#-# translate crowdin not_fit_enough_e903ecdf:
 msgid "[_ST_] {i}Ooofff.... I'm tired! I made pretty good time though.{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Ooofff.... Estou cansado! Entretanto fiz um bom momento.{/i}"
 
 # game/UpdateScript0.05.rpy:5251 #-#-# translate crowdin not_fit_enough_a484cb0b:
 msgid "[_ST_] {i}It would have been even better if [ryan] hadn't slowed me down.{/i}"
-msgstr ""
+msgstr "[_ST_] {i}teria sido ainda melhor se [ryan] não me tivesse atrasado.{/i}"
 
 # game/UpdateScript0.05.rpy:5254 #-#-# translate crowdin not_fit_enough_5753115c:
 msgid "[_ST_] {i}Man, I am a sweaty mess.{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Cara, sou um suor bagunçado.{/i}"
 
 # game/UpdateScript0.05.rpy:5257 #-#-# translate crowdin not_fit_enough_f4ca417c:
 msgid "[_MPT_] {i}Well, would you look at that.{/i}"
-msgstr ""
+msgstr "[_MPT_] {i}Bem, você gostaria de ver isso.{/i}"
 
 # game/UpdateScript0.05.rpy:5260 #-#-# translate crowdin not_fit_enough_485ee4b8:
 msgid "[_MPT_] {i}The saucy little whore who keeps getting away from me.{/i}"
-msgstr ""
+msgstr "[_MPT_] {i}The saucy small whore that keep to away from me.{/i}"
 
 # game/UpdateScript0.05.rpy:5261 #-#-# translate crowdin not_fit_enough_cc4fe2d8:
 msgid "[_MPT_] {i}I need some pussy so bad! If I could even get a taste of it, I'd be happy.{/i}"
@@ -8926,11 +8926,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5262 #-#-# translate crowdin not_fit_enough_c578c216:
 msgid "[_MPT_] {i}She must not speak English very well. She didn't seem to understand I was trying to pay her.{/i}"
-msgstr ""
+msgstr "[_MPT_] {i}Ela não deve falar Inglês muito bem. Parecia que não entendia que eu estava tentando pagá-la.{/i}"
 
 # game/UpdateScript0.05.rpy:5263 #-#-# translate crowdin not_fit_enough_8a572ffa:
 msgid "[_MPT_] {i}She must have thought I was trying to kidnap her.{/i}"
-msgstr ""
+msgstr "[_MPT_] {i}Ela deve ter pensado que eu estava tentando sequestrá-la.{/i}"
 
 # game/UpdateScript0.05.rpy:5264 #-#-# translate crowdin not_fit_enough_b15a93b7:
 msgid "[_MPT_] {i}I need to sneak in there again and take her by surprise. I think she'll understand what I'm after if I'm a little more direct.{/i}"
@@ -8938,7 +8938,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5267 #-#-# translate crowdin not_fit_enough_81772745:
 msgid "[_ST_] {i}Typical, [ryan]'s nowhere to be seen. I need to rest a little more before I take off for home.{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Típico [ryan]não deve ser visto. Preciso descansar um pouco mais antes de decolar para casa.{/i}"
 
 # game/UpdateScript0.05.rpy:5270 #-#-# translate crowdin not_fit_enough_0311799c:
 msgid "[_ST_] {i}He always seems to come out of these bushes. I think I'll try resting on the other end of the park.{/i}"
@@ -8946,15 +8946,15 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5273 #-#-# translate crowdin not_fit_enough_6e42adc2:
 msgid "[_ST_] {i}I should be able to see him coming from here, if he pops out of his hideout in those bushes.{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Eu devo poder vê-lo vir daqui, se ele aparecer do esconderijo nesses ônibus.{/i}"
 
 # game/UpdateScript0.05.rpy:5276 #-#-# translate crowdin not_fit_enough_1a584b33:
 msgid "[_ST_] {i}So far I don't see any sign of him.{/i}"
-msgstr ""
+msgstr "[_ST_] {i}até agora não vejo nenhum sinal dele.{/i}"
 
 # game/UpdateScript0.05.rpy:5279 #-#-# translate crowdin not_fit_enough_edd36aa1:
 msgid "[_ST_] {i}I better just make sure he's not sneaking up behind me.{/i}"
-msgstr ""
+msgstr "[_ST_] {i}é melhor garantir que ele não está se esgueirando atrás de mim.{/i}"
 
 # game/UpdateScript0.05.rpy:5282 #-#-# translate crowdin not_fit_enough_cb176255:
 msgid "[_ST_] {i}Ok, I think I should be safe to take a little rest on the grass right here. I'll just keep my eyes peeled.{/i}"
@@ -8962,11 +8962,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5291 #-#-# translate crowdin not_fit_enough_78f161ef:
 msgid "[_S_] Aaaaahhhh!...."
-msgstr ""
+msgstr "[_S_] Aaaaahhhh!...."
 
 # game/UpdateScript0.05.rpy:5292 #-#-# translate crowdin not_fit_enough_2f96bff5:
 msgid "[_MPT_] {i}Oh yeah! What a sweet smelling pussy!{/i}"
-msgstr ""
+msgstr "[_MPT_] {i}Oh sim! Que linda besteira!{/i}"
 
 # game/UpdateScript0.05.rpy:5293 #-#-# translate crowdin not_fit_enough_48194a2a:
 msgid "[_MPT_] {i}It should be pretty clear to her what I'm after now. Hopefully she'll take my money.{/i}"
@@ -8974,7 +8974,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5296 #-#-# translate crowdin not_fit_enough_83808de1:
 msgid "[_S_] YOU.... DIRTY.... OLD.... PERVERT! Let go.... of my legs.... and get your face.... out of my pussy!"
-msgstr ""
+msgstr "U[_S_] VOCÊ... DIGITAMENTO... OLD.... PERVERTÊ! Vai... das minhas pernas.... e tire o seu rosto... da minha pussy!"
 
 # game/UpdateScript0.05.rpy:5299 #-#-# translate crowdin not_fit_enough_cfc9079c:
 msgid "[_RT_] {i}What the hell?{/i}"
@@ -8982,15 +8982,15 @@ msgstr "[_RT_] {i}O que o hell? {/i}"
 
 # game/UpdateScript0.05.rpy:5300 #-#-# translate crowdin not_fit_enough_b0868d40:
 msgid "[_R_] Sidney! Are you ok?"
-msgstr ""
+msgstr "[_R_] Sidney! Você está bem?"
 
 # game/UpdateScript0.05.rpy:5301 #-#-# translate crowdin not_fit_enough_4a624643:
 msgid "[_S_] HELP!"
-msgstr ""
+msgstr "[_S_] AJUDA!"
 
 # game/UpdateScript0.05.rpy:5304 #-#-# translate crowdin not_fit_enough_12f5d14a:
 msgid "[_R_] I'm coming!"
-msgstr ""
+msgstr "[_R_] estou chegando!"
 
 # game/UpdateScript0.05.rpy:5305 #-#-# translate crowdin not_fit_enough_2a5916b0:
 msgid "[_MP_] Shit!"
@@ -8998,11 +8998,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5308 #-#-# translate crowdin not_fit_enough_0238913b:
 msgid "[_R_] Mr. Peterson! Stop!"
-msgstr ""
+msgstr "[_R_] Sr. Peterson! Pare!"
 
 # game/UpdateScript0.05.rpy:5311 #-#-# translate crowdin not_fit_enough_ce98e3ac:
 msgid "[_R_] {i}(gasping){/i}Holy fuck!.... I'm gonna pass out!"
-msgstr ""
+msgstr "[_R_] {i}(garganta){/i}Santa Fuck!.... Vou desmaiar!"
 
 # game/UpdateScript0.05.rpy:5312 #-#-# translate crowdin not_fit_enough_d83399ed:
 msgid "{i}\"[ryan]'s physical fitness +1\"{/i}"
@@ -9014,7 +9014,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5315 #-#-# translate crowdin not_fit_enough_0149f8c4:
 msgid "[_S_] Or so sneaky?"
-msgstr ""
+msgstr "[_S_] Ou então sorrateiro?"
 
 # game/UpdateScript0.05.rpy:5318 #-#-# translate crowdin not_fit_enough_62720feb:
 msgid "[_R_] Are you ok?"
@@ -9022,23 +9022,23 @@ msgstr "[_R_] Você não é?"
 
 # game/UpdateScript0.05.rpy:5319 #-#-# translate crowdin not_fit_enough_9b668fbf:
 msgid "[_S_] I guess. Knowing he's just crazy makes me not feel so violated."
-msgstr ""
+msgstr "[_S_] Eu acho. Saber que ele é só louco me faz não me sentir tão violado."
 
 # game/UpdateScript0.05.rpy:5320 #-#-# translate crowdin not_fit_enough_8d16ed58:
 msgid "[_S_] But I'm not coming here again until he's caught, or until you're in good enough shape to keep up with me."
-msgstr ""
+msgstr "[_S_] Mas eu não virei aqui novamente até que ele seja pego, ou até que você tenha uma forma boa o suficiente para se manter comigo."
 
 # game/UpdateScript0.05.rpy:5321 #-#-# translate crowdin not_fit_enough_be8519d3:
 msgid "[_S_] He wouldn't have touched me if you had been here."
-msgstr ""
+msgstr "[_S_] Ele não teria me tocado se você tivesse estado aqui."
 
 # game/UpdateScript0.05.rpy:5322 #-#-# translate crowdin not_fit_enough_c1699fe3:
 msgid "[_R_] Ok, I'll let you know when I'm in good enough shape."
-msgstr ""
+msgstr "[_R_] Ok, eu te avisarei quando estiver em forma boa, o suficiente."
 
 # game/UpdateScript0.05.rpy:5323 #-#-# translate crowdin not_fit_enough_f7ec9b9e:
 msgid "[_S_] Alright, I'm going to head home."
-msgstr ""
+msgstr "[_S_] Certo, vou ir para casa."
 
 # game/UpdateScript0.05.rpy:5324 #-#-# translate crowdin not_fit_enough_bd9e716c:
 msgid "[_S_] I'll see you later."
@@ -9046,7 +9046,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5325 #-#-# translate crowdin not_fit_enough_b03c020e:
 msgid "[_R_] Later, Sid."
-msgstr ""
+msgstr "[_R_] Mais tarde, Sid."
 
 # game/UpdateScript0.05.rpy:5334 #-#-# translate crowdin not_fit_enough_18daa7ad:
 msgid "[_S_] There you are. Are you going to stretch this time?"
@@ -9054,7 +9054,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5335 #-#-# translate crowdin not_fit_enough_300c6777:
 msgid "[_R_] Yeah I think I will. My legs got really sore last time."
-msgstr ""
+msgstr "[_R_] É, acho que eu vou durar muito. Minhas pernas ficaram doloridas na última vez."
 
 # game/UpdateScript0.05.rpy:5336 #-#-# translate crowdin not_fit_enough_fd2a5b9e:
 msgid "[_S_] Ok, just let me know when you're ready."
@@ -9066,7 +9066,7 @@ msgstr "[_R_] ...."
 
 # game/UpdateScript0.05.rpy:5338 #-#-# translate crowdin not_fit_enough_02ef2b40_1:
 msgid "[_R_] Ok, let's go."
-msgstr ""
+msgstr "[_R_] Ok, vamos embora."
 
 # game/UpdateScript0.05.rpy:5341 #-#-# translate crowdin not_fit_enough_2f7a6157:
 msgid "[_RT_] {i}Oh, shit!.... I'm not going to be able to keep this pace.{/i}"
@@ -9082,11 +9082,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5344 #-#-# translate crowdin not_fit_enough_ea33c383_1:
 msgid "[_R_] Well, I'm sorry, but I'm not going to be able to keep this pace. You'll have to go on ahead of me."
-msgstr ""
+msgstr "[_R_] Bem, me desculpe, mas não vou ser capaz de manter este ritmo. Você terá que ir na minha frente."
 
 # game/UpdateScript0.05.rpy:5346 #-#-# translate crowdin not_fit_enough_fe568762:
 msgid "[_S_] {i}(yelling){/i} Don't take too long. I don't want to have to wait at the park very long with that crazy old man on the loose!"
-msgstr ""
+msgstr "[_S_] {i}(gritando){/i} Não demore muito. Não quero ter de esperar muito tempo no parque com aquele velho louco e solto solto!"
 
 # game/UpdateScript0.05.rpy:5347 #-#-# translate crowdin not_fit_enough_e08d498e_1:
 msgid "[_R_] {i}(yelling){/i} I'll try, but I might need to stop for a second to take a rest."
@@ -9094,35 +9094,35 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5350 #-#-# translate crowdin not_fit_enough_135e9a00_1:
 msgid "[_RT_] {i}Uugghh.... I pushed it too hard again trying to keep up with her.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Uugghh.... Eu empurrei muito difícil de novo para tentar mantê-lo.{/i}"
 
 # game/UpdateScript0.05.rpy:5353 #-#-# translate crowdin not_fit_enough_5fd7b03e_1:
 msgid "[_RT_] {i}I just need to take a minute to rest.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Eu só preciso usar um minuto para descansar.{/i}"
 
 # game/UpdateScript0.05.rpy:5358 #-#-# translate crowdin not_fit_enough_e903ecdf_1:
 msgid "[_ST_] {i}Ooofff.... I'm tired! I made pretty good time though.{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Ooofff.... Estou cansado! Entretanto fiz um bom momento.{/i}"
 
 # game/UpdateScript0.05.rpy:5359 #-#-# translate crowdin not_fit_enough_a484cb0b_1:
 msgid "[_ST_] {i}It would have been even better if [ryan] hadn't slowed me down.{/i}"
-msgstr ""
+msgstr "[_ST_] {i}teria sido ainda melhor se [ryan] não me tivesse atrasado.{/i}"
 
 # game/UpdateScript0.05.rpy:5362 #-#-# translate crowdin not_fit_enough_f13ac275:
 msgid "[_ST_] {i}Man, I am a sweaty mess though.{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Cara, no entanto, sou um suorento.{/i}"
 
 # game/UpdateScript0.05.rpy:5365 #-#-# translate crowdin not_fit_enough_f4ca417c_1:
 msgid "[_MPT_] {i}Well, would you look at that.{/i}"
-msgstr ""
+msgstr "[_MPT_] {i}Bem, você gostaria de ver isso.{/i}"
 
 # game/UpdateScript0.05.rpy:5366 #-#-# translate crowdin not_fit_enough_9472213a:
 msgid "[_MPT_] {i}That shriekin' hooker is back.{/i}"
-msgstr ""
+msgstr "[_MPT_] {i}Aquela camarada está de volta.{/i}"
 
 # game/UpdateScript0.05.rpy:5369 #-#-# translate crowdin not_fit_enough_95863104:
 msgid "[_MPT_] {i}She must be a hooker for the commies then.{/i}"
-msgstr ""
+msgstr "[_MPT_] {i}Deve ser uma ganchadora para as vírgulas.{/i}"
 
 # game/UpdateScript0.05.rpy:5370 #-#-# translate crowdin not_fit_enough_edc738a3:
 msgid "[_MPT_] {i}Why else would she have screamed like she did?{/i}"
@@ -9130,7 +9130,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5371 #-#-# translate crowdin not_fit_enough_fc99e2ad:
 msgid "[_MPT_] {i}I need to help her realize that my money is just as good as her commie compatriots, even better actually.{/i}"
-msgstr ""
+msgstr "[_MPT_] {i}Eu preciso ajudá-la a perceber que o meu dinheiro é tão bom quanto os seus compatriotas companheiros, ainda melhor na verdade.{/i}"
 
 # game/UpdateScript0.05.rpy:5372 #-#-# translate crowdin not_fit_enough_e3cf3179:
 msgid "[_MPT_] {i}I need to sneak in there without her seeing me so that she doesn't alert the commie MP's.{/i}"
@@ -9142,7 +9142,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5378 #-#-# translate crowdin not_fit_enough_1001b4ed:
 msgid "[_ST_] {i}I just want to get out of here.{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Eu só quero sair daqui.{/i}"
 
 # game/UpdateScript0.05.rpy:5387 #-#-# translate crowdin not_fit_enough_128beb1f:
 msgid "[_ST_] {i}Fuck it. I'm going to leave just as soon as I'm rested.{/i}"
@@ -9150,19 +9150,19 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5390 #-#-# translate crowdin not_fit_enough_7df286ea:
 msgid "[_ST_] {i}There doesn't seem to be any sign of that crazy old pervert.{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Não parece haver nenhum sinal desse antigo perverso louco.{/i}"
 
 # game/UpdateScript0.05.rpy:5391 #-#-# translate crowdin not_fit_enough_fa76aa94:
 msgid "[_ST_] {i}I'll just sit here on this bench to wait for [ryan].{/i}"
-msgstr ""
+msgstr "[_ST_] {i}eu vou simplesmente sentar aqui neste banco para esperar por [ryan].{/i}"
 
 # game/UpdateScript0.05.rpy:5398 #-#-# translate crowdin not_fit_enough_3a87d27f:
 msgid "[_S_] What the hell?"
-msgstr ""
+msgstr "[_S_] Que diabos?"
 
 # game/UpdateScript0.05.rpy:5399 #-#-# translate crowdin not_fit_enough_a36ca266:
 msgid "[_MP_] Hello again, beautiful."
-msgstr ""
+msgstr "[_MP_] Olá de novo, bonito."
 
 # game/UpdateScript0.05.rpy:5402 #-#-# translate crowdin not_fit_enough_5c17299d:
 msgid "[_MP_] I know I'm not one of your commie customers, but my money is worth even more, and I think you'll find my dick is twice as big."
@@ -9174,11 +9174,11 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5404 #-#-# translate crowdin not_fit_enough_4a624643_1:
 msgid "[_S_] HELP!"
-msgstr ""
+msgstr "[_S_] AJUDA!"
 
 # game/UpdateScript0.05.rpy:5407 #-#-# translate crowdin not_fit_enough_4a624643_2:
 msgid "[_S_] HELP!"
-msgstr ""
+msgstr "[_S_] AJUDA!"
 
 # game/UpdateScript0.05.rpy:5408 #-#-# translate crowdin not_fit_enough_aec4b66d:
 msgid "[_RT_] {i}Holy shit!{/i}"
@@ -9186,7 +9186,7 @@ msgstr "[_RT_] {i}merda Santa! {/i}"
 
 # game/UpdateScript0.05.rpy:5409 #-#-# translate crowdin not_fit_enough_330cef42:
 msgid "[_RT_] {i}Mr. Peterson's grabbing Sidney!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}O Sr. Peterson está agarrando Sidney!{/i}"
 
 # game/UpdateScript0.05.rpy:5410 #-#-# translate crowdin not_fit_enough_dbc155fe:
 msgid "[_R_] HEY!"
@@ -9194,15 +9194,15 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5413 #-#-# translate crowdin not_fit_enough_471abc3b:
 msgid "[_MP_] Damnit girl! I just wanted a taste! And now your commie friends are coming!"
-msgstr ""
+msgstr "[_MP_] Droga! Eu só queria um sabor! E agora seus amigos companheiros estão vindo!"
 
 # game/UpdateScript0.05.rpy:5414 #-#-# translate crowdin not_fit_enough_17d7b5be:
 msgid "[_R_] Mr. Peterson! Let go of her, and let's talk!"
-msgstr ""
+msgstr "[_R_] Sr. Peterson! Solte dela, e vamos falar!"
 
 # game/UpdateScript0.05.rpy:5415 #-#-# translate crowdin not_fit_enough_694458e3:
 msgid "[_MP_] How do you know my name? You commie spy!"
-msgstr ""
+msgstr "[_MP_] Como você sabe o meu nome? Você viaja espião!"
 
 # game/UpdateScript0.05.rpy:5416 #-#-# translate crowdin not_fit_enough_1f173978:
 msgid "[_R_] No! Don't run!"
@@ -9210,7 +9210,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5419 #-#-# translate crowdin not_fit_enough_4f2dae12:
 msgid "[_R_] No, Mr. Peterson! Stop!"
-msgstr ""
+msgstr "[_R_] Não, Sr. Peterson! Pare!"
 
 # game/UpdateScript0.05.rpy:5422 #-#-# translate crowdin not_fit_enough_18d6babc:
 msgid "[_R_] Hey Sid, I'll be right back!"
@@ -9218,7 +9218,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5425 #-#-# translate crowdin not_fit_enough_ddf16a8a:
 msgid "[_R_] Mr. Peterson! I just want to talk to you!"
-msgstr ""
+msgstr "[_R_] Sr. Peterson! Eu só quero falar com você!"
 
 # game/UpdateScript0.05.rpy:5428 #-#-# translate crowdin not_fit_enough_ced5a59e:
 msgid "[_RT_] {i}How in the hell is that old man so fast?{/i}"
@@ -9226,7 +9226,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5431 #-#-# translate crowdin not_fit_enough_f13b7cf5:
 msgid "[_RT_] {i}Holy hell! My lungs are going to explode!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}O inferno sagrado! Meus pulmões vão explodir!{/i}"
 
 # game/UpdateScript0.05.rpy:5432 #-#-# translate crowdin not_fit_enough_d83399ed_1:
 msgid "{i}\"[ryan]'s physical fitness +1\"{/i}"
@@ -9234,7 +9234,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5434 #-#-# translate crowdin not_fit_enough_83e64ffc:
 msgid "[_RT_] {i}Spritely old fucker.{/i}"
-msgstr ""
+msgstr "U[_RT_] {i}Campainha muito antiga.{/i}"
 
 # game/UpdateScript0.05.rpy:5435 #-#-# translate crowdin not_fit_enough_1cf47a17:
 msgid "[_RT_] {i}I'd better go check on Sidney.{/i}"
@@ -9242,7 +9242,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5438 #-#-# translate crowdin not_fit_enough_1aac21b1:
 msgid "[_S_] You let him get away?"
-msgstr ""
+msgstr "[_S_] Você o deixa escapar?"
 
 # game/UpdateScript0.05.rpy:5439 #-#-# translate crowdin not_fit_enough_5829cf57:
 msgid "[_R_] Sorry! I was already exhausted from running over here."
@@ -9250,7 +9250,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5440 #-#-# translate crowdin not_fit_enough_b2fff7d5:
 msgid "[_R_] Plus that old man is quick!"
-msgstr ""
+msgstr "[_R_] Mais que o homem velho é rápido!"
 
 # game/UpdateScript0.05.rpy:5442 #-#-# translate crowdin not_fit_enough_60a92f14:
 msgid "[_S_] I told you he was a huge pervert!"
@@ -9258,15 +9258,15 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5443 #-#-# translate crowdin not_fit_enough_6501ee4f:
 msgid "[_R_] Well yeah, a guy like that's probably used to getting pussy all the time, and now that he's confused, and off his meds, he's probably hornier than usual."
-msgstr ""
+msgstr "[_R_] Bem, um cara como aquele que provavelmente está acostumado a ser pego o tempo todo. e agora que está confuso e sem medalhas, provavelmente está mais horrível do que o normal."
 
 # game/UpdateScript0.05.rpy:5444 #-#-# translate crowdin not_fit_enough_65ce3d9a:
 msgid "[_R_] Did he get you very bad?"
-msgstr ""
+msgstr "[_R_] Ele te pegou muito ruim?"
 
 # game/UpdateScript0.05.rpy:5445 #-#-# translate crowdin not_fit_enough_958a8ab9:
 msgid "[_S_] No, just groped my boob a little."
-msgstr ""
+msgstr "[_S_] Não, apenas agrupou um pouco a minha bota."
 
 # game/UpdateScript0.05.rpy:5446 #-#-# translate crowdin not_fit_enough_48fe6876:
 msgid "[_S_] I'm sure I'd feel more violated if I didn't know he was so bat-shit crazy."
@@ -9278,7 +9278,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5448 #-#-# translate crowdin not_fit_enough_599d2724:
 msgid "[_S_] Alright, well I'm going to run home."
-msgstr ""
+msgstr "[_S_] Certo, vou correr para casa."
 
 # game/UpdateScript0.05.rpy:5449 #-#-# translate crowdin not_fit_enough_8258170e:
 msgid "[_R_] I'll see you there. I'm too tired to run anymore."
@@ -9966,7 +9966,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5759 #-#-# translate crowdin park_activities_02ef2b40:
 msgid "[_R_] Ok, let's go."
-msgstr ""
+msgstr "[_R_] Ok, vamos embora."
 
 # game/UpdateScript0.05.rpy:5774 #-#-# translate crowdin park_menu_10c39ed8:
 msgid "[_S_] Oh my God! Are you serious?"
@@ -10322,7 +10322,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6018 #-#-# translate crowdin park_menu_d3e53fb4:
 msgid "[_S_] Damnit, [ryan]!"
-msgstr ""
+msgstr "[_S_] Damnit, [ryan]!"
 
 # game/UpdateScript0.05.rpy:6019 #-#-# translate crowdin park_menu_10195eac:
 msgid "[_S_] I've told you not to do that without warning me!"
