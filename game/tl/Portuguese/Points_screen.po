@@ -11,11 +11,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2023-09-19 18:16\n"
+"PO-Revision-Date: 2024-01-23 16:58\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # §translate crowdin strings: #|#|# # game/Points_screen.rpy:117
 msgid "Mom's stats:"
-msgstr ""
+msgstr "Estatísticas da mãe:"
 
 # game/Points_screen.rpy:127
 msgid "[momaffection]"
@@ -39,7 +39,7 @@ msgstr ""
 
 # game/Points_screen.rpy:138
 msgid "Lauren's stats:"
-msgstr ""
+msgstr "Estatísticas de Lauren:"
 
 # game/Points_screen.rpy:147
 msgid "[laurenaffection]"
@@ -63,7 +63,7 @@ msgstr ""
 
 # game/Points_screen.rpy:158
 msgid "Sidney's stats:"
-msgstr ""
+msgstr "Estatísticas do Sidney:"
 
 # game/Points_screen.rpy:167
 msgid "[sidneyaffection]"
@@ -107,7 +107,7 @@ msgstr ""
 
 # game/Points_screen.rpy:204
 msgid "Mandy's stats:"
-msgstr ""
+msgstr "Estatísticas de mandia:"
 
 # game/Points_screen.rpy:213
 msgid "[cousinaffection]"
@@ -131,9 +131,9 @@ msgstr ""
 
 # game/Points_screen.rpy:219
 msgid "<<"
-msgstr ""
+msgstr "<<"
 
 # game/Points_screen.rpy:230
 msgid ">>"
-msgstr ""
+msgstr ">>"
 
