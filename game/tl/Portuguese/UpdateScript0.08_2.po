@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-01-23 15:59\n"
+"PO-Revision-Date: 2024-01-23 16:59\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/UpdateScript0.08_2.rpy:9 #-#-# translate crowdin mom_bumps_sidney_bc054bd6:
 msgid "[_G_] Well, if it isn't the lovely Miss [mom_name]."
@@ -1450,11 +1450,11 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:702 #-#-# translate crowdin vip_access_a27f0f3f:
 msgid "[_RT_] {i}I don't have time to wait for that.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Não tenho tempo para esperar por isso.{/i}"
 
 # game/UpdateScript0.08_2.rpy:703 #-#-# translate crowdin vip_access_b472ec11:
 msgid "[_R_] Alright... I'm outta here."
-msgstr ""
+msgstr "[_R_] Certo... Eu estou fora daqui."
 
 # game/UpdateScript0.08_2.rpy:711 #-#-# translate crowdin vip_access_d23d4c75:
 msgid "[_R_] Yeah... I'm not really feeling it for a lap dance today."
@@ -1462,7 +1462,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:712 #-#-# translate crowdin vip_access_69f70036:
 msgid "[_R_] I was hoping I could just see some of your moves on the pole."
-msgstr ""
+msgstr "[_R_] estava esperando que pudesse ver alguns de seus movimentos no polo."
 
 # game/UpdateScript0.08_2.rpy:713 #-#-# translate crowdin vip_access_b88a7291:
 msgid "[_CD_] Sorry, buddy... If you're not willing to spend the money for a lap dance, I'm sure you wouldn't tip me either."
@@ -1474,11 +1474,11 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:715 #-#-# translate crowdin vip_access_a27f0f3f_1:
 msgid "[_RT_] {i}I don't have time to wait for that.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Não tenho tempo para esperar por isso.{/i}"
 
 # game/UpdateScript0.08_2.rpy:716 #-#-# translate crowdin vip_access_b472ec11_1:
 msgid "[_R_] Alright... I'm outta here."
-msgstr ""
+msgstr "[_R_] Certo... Eu estou fora daqui."
 
 # game/UpdateScript0.08_2.rpy:729 #-#-# translate crowdin vip_access_ca3ecb48:
 msgid "[_CD_] Back again?"
@@ -1734,15 +1734,15 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:923 #-#-# translate crowdin vip_access_a0baa1c4:
 msgid "[_CD_] Oh, good! You're back!"
-msgstr ""
+msgstr "[_CD_] Ah, bom! Você voltou!"
 
 # game/UpdateScript0.08_2.rpy:924 #-#-# translate crowdin vip_access_babc4a4d:
 msgid "[_CD_] I'm having such a slow night!... I was hoping someone would come!"
-msgstr ""
+msgstr "[_CD_] Estou tendo uma noite tão lenta!... Eu esperava que alguém viesse!"
 
 # game/UpdateScript0.08_2.rpy:928 #-#-# translate crowdin vip_access_32100e90:
 msgid "[_R_] Hi, Candy, how's your husband Jack?"
-msgstr ""
+msgstr "[_R_] Oi, doces, como seu marido é Jack?"
 
 # game/UpdateScript0.08_2.rpy:931 #-#-# translate crowdin vip_access_4972e4a6:
 msgid "[_CD_] Why would you even ask about that tiny dicked loser again?"
@@ -1762,7 +1762,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:936 #-#-# translate crowdin vip_access_b30817c4:
 msgid "[_R_] Hi, Candy."
-msgstr ""
+msgstr "[_R_] Oi, doce."
 
 # game/UpdateScript0.08_2.rpy:937 #-#-# translate crowdin vip_access_60a99ac6:
 msgid "[_CD_] Please tell me you're here for a lap dance!"
@@ -8466,7 +8466,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:4830 #-#-# translate crowdin eight_of_diamonds_6bf1c5f2:
 msgid "{b}{i}\"View this card in the gallery and the casino\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Veja esta carta na galeria e o casino\"{/i}{/b}"
 
 # game/UpdateScript0.08_2.rpy:4846 #-#-# translate crowdin seven_of_diamonds_f9f93327:
 msgid "{b}{i}\"You have found the \"Seven of Diamonds\" Card!\"{/i}{/b}"
@@ -8474,7 +8474,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:4847 #-#-# translate crowdin seven_of_diamonds_6bf1c5f2:
 msgid "{b}{i}\"View this card in the gallery and the casino\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Veja esta carta na galeria e o casino\"{/i}{/b}"
 
 # game/UpdateScript0.08_2.rpy:4861 #-#-# translate crowdin prison_visit_1dee2353:
 msgid "{i}\"A little while later, on the way to the prison.\"{/i}"
@@ -8486,7 +8486,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:4868 #-#-# translate crowdin prison_visit_2ce04a4f:
 msgid "[_R_] Huh?"
-msgstr ""
+msgstr "[_R_] Huh?"
 
 # game/UpdateScript0.08_2.rpy:4869 #-#-# translate crowdin prison_visit_fbeb65de:
 msgid "[_M_] It's just that conversation usually comes pretty easy between the two of us, but you've hardly said two words."
@@ -10910,7 +10910,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:6082 #-#-# translate crowdin prison_visit_a9b7c3bf:
 msgid "{i}I should stop by sometime when Sidney's working and see if she can find anything out.{/i}"
-msgstr ""
+msgstr "{i}Eu deveria parar em algum momento quando Sidney está trabalhando e ver se ela consegue encontrar alguma coisa.{/i}"
 
 # game/UpdateScript0.08_2.rpy:6093 #-#-# translate crowdin weekend_date_shopping_b102a417:
 msgid "[_MT_] {i}Okay, I need to act normal, like there's nothing awkward between us. I owe him that much.{/i}"
@@ -11314,7 +11314,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:6287 #-#-# translate crowdin weekend_date_shopping_ee903cde:
 msgid "[_R_] You got it."
-msgstr ""
+msgstr "[_R_] Você conseguiu."
 
 # game/UpdateScript0.08_2.rpy:6294 #-#-# translate crowdin weekend_date_shopping_8e3e1572:
 msgid "[_MT_] {i}I wonder if I'll find [ryan] feeling up the mannequins again?{/i}"
@@ -11374,7 +11374,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:6327 #-#-# translate crowdin weekend_date_shopping_23e420e6:
 msgid "[_M_] [ryan]!..."
-msgstr ""
+msgstr "U[_M_] [ryan]!..."
 
 # game/UpdateScript0.08_2.rpy:6328 #-#-# translate crowdin weekend_date_shopping_c852f111:
 msgid "[_R_] Let's go pick one out."
@@ -15622,7 +15622,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:8812 #-#-# translate crowdin pizza_date_0287fbcc:
 msgid "{i}{b}\"Mom's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Respeito da Mãe +1\"{/b}{/i}"
 
 # game/UpdateScript0.08_2.rpy:8814 #-#-# translate crowdin pizza_date_e7c9eb9a:
 msgid "[_R_] Haha... Yeah... Probably less fun, though..."
@@ -17230,7 +17230,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:9499 #-#-# translate crowdin pizza_date_0287fbcc_1:
 msgid "{i}{b}\"Mom's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Respeito da Mãe +1\"{/b}{/i}"
 
 # game/UpdateScript0.08_2.rpy:9501 #-#-# translate crowdin pizza_date_e7c9eb9a_1:
 msgid "[_R_] Haha... Yeah... Probably less fun, though..."
@@ -24778,7 +24778,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:13106 #-#-# translate crowdin two_of_diamonds_6bf1c5f2:
 msgid "{b}{i}\"View this card in the gallery and the casino\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Veja esta carta na galeria e o casino\"{/i}{/b}"
 
 # game/UpdateScript0.08_2.rpy:13124 #-#-# translate crowdin beach_date_05fa8250:
 msgid "[_M_] Mmm... I love the smell of the ocean air!"
@@ -26434,7 +26434,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:14076 #-#-# translate crowdin beach_date_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"A Afeição da Mãe +1\"{/b}{/i}"
 
 # game/UpdateScript0.08_2.rpy:14077 #-#-# translate crowdin beach_date_67831cb2:
 msgid "{i}{b}\"Mom's Submission -1\"{/b}{/i}"
@@ -26534,7 +26534,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:14127 #-#-# translate crowdin beach_date_b47c24a5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Envio da Mãe +1\"{/b}{/i}"
 
 # game/UpdateScript0.08_2.rpy:14128 #-#-# translate crowdin beach_date_3d3b9d3e:
 msgid "{i}{b}\"Mom's Affection -1\"{/b}{/i}"
@@ -26954,7 +26954,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:14467 #-#-# translate crowdin beach_happy_ending_1e246541:
 msgid "{b}{i}\"Mom's Libido +3\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Mom's Libido +3\"{/i}{/b}"
 
 # game/UpdateScript0.08_2.rpy:14469 #-#-# translate crowdin beach_happy_ending_f30457be_1:
 msgid "{i}\"[ryan]'s cum loads in his mom's pussy +1\"{/i}"
@@ -27394,7 +27394,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:14681 #-#-# translate crowdin beach_happy_ending_1e246541_1:
 msgid "{b}{i}\"Mom's Libido +3\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Mom's Libido +3\"{/i}{/b}"
 
 # game/UpdateScript0.08_2.rpy:14683 #-#-# translate crowdin beach_happy_ending_f30457be_2:
 msgid "{i}\"[ryan]'s cum loads in his mom's pussy +1\"{/i}"
@@ -27410,7 +27410,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:14694 #-#-# translate crowdin beach_happy_ending_aff0e59d:
 msgid "{b}{i}\"View this card in the gallery and casino\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Ver esta carta na galeria e em casino\"{/i}{/b}"
 
 # game/UpdateScript0.08_2.rpy:14705 #-#-# translate crowdin beach_happy_ending_341221ef:
 msgid "[_M_] God, I hope I didn't just cause irreversable trauma!"
@@ -27890,7 +27890,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:15051 #-#-# translate crowdin beach_date_matt_continued_aff0e59d:
 msgid "{b}{i}\"View this card in the gallery and casino\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Ver esta carta na galeria e em casino\"{/i}{/b}"
 
 # game/UpdateScript0.08_2.rpy:15059 #-#-# translate crowdin beach_date_matt_continued_5170838f:
 msgid "[_RT_] {i}Goddammit!{/i}"
@@ -28550,7 +28550,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:15518 #-#-# translate crowdin beach_date_joey_continued_aff0e59d:
 msgid "{b}{i}\"View this card in the gallery and casino\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Ver esta carta na galeria e em casino\"{/i}{/b}"
 
 # game/UpdateScript0.08_2.rpy:15526 #-#-# translate crowdin beach_date_joey_continued_5170838f:
 msgid "[_RT_] {i}Goddammit!{/i}"
