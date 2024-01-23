@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-10-28 13:49\n"
+"PO-Revision-Date: 2024-01-23 14:54\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:247
 msgid "History"
@@ -116,7 +116,7 @@ msgstr "emplacement vide"
 
 # game/screens.rpy:685
 msgid "<"
-msgstr ""
+msgstr "<"
 
 # game/screens.rpy:688
 msgid "{#auto_page}A"
@@ -128,7 +128,7 @@ msgstr "{#quick_page}Q"
 
 # game/screens.rpy:697
 msgid ">"
-msgstr ""
+msgstr ">"
 
 # game/screens.rpy:754
 msgid "Display"
@@ -188,7 +188,7 @@ msgstr "Délai d'avancement automatique"
 
 # game/screens.rpy:845
 msgid "Dialogue Box Opacity"
-msgstr ""
+msgstr "Opacité de la boîte de dialogue"
 
 # game/screens.rpy:851
 msgid "Music Volume"
