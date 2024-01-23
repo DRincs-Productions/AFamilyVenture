@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-10-24 07:49\n"
+"PO-Revision-Date: 2024-01-23 14:55\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScript0.03.rpy:466 #-#-# translate crowdin posting_the_htbyd_pics_99f2fd00:
 msgid "[_RT_] {i}I finally finished the Zad 3D work and photo editing.{/i}"
@@ -102,7 +102,7 @@ msgstr "[_L_] Huh? .... Oh, wow! Schau, wie viele Ruhm-Punkte diese Bilder bekom
 
 # game/UpdateScript0.03.rpy:568 #-#-# translate crowdin check_for_htbyd_likes_7dbd44c3:
 msgid "[_R_] Well?..."
-msgstr ""
+msgstr "[_R_] Nun?..."
 
 # game/UpdateScript0.03.rpy:569 #-#-# translate crowdin check_for_htbyd_likes_1cfdcac8:
 msgid "[_L_] .... Well, what?"
@@ -166,63 +166,63 @@ msgstr "[_RT_] {i}{b}(Hinweis){/b} Es ist fast so, als ob das FBI uns vergessen 
 
 # game/UpdateScript0.03.rpy:616 #-#-# translate crowdin diazvisit_ac5a80fe:
 msgid "{b}Ding Dong!{/b}"
-msgstr ""
+msgstr "{b}Ding Dong!{/b}"
 
 # game/UpdateScript0.03.rpy:621 #-#-# translate crowdin diazvisit_ac5a80fe_1:
 msgid "{b}Ding Dong!{/b}"
-msgstr ""
+msgstr "{b}Ding Dong!{/b}"
 
 # game/UpdateScript0.03.rpy:626 #-#-# translate crowdin diazvisit_559bc79a:
 msgid "[_R_] Who in the hell?"
-msgstr ""
+msgstr "[_R_] Wer in der Hölle?"
 
 # game/UpdateScript0.03.rpy:628 #-#-# translate crowdin diazvisit_5beee9ea:
 msgid "[_S_] It's only six in the morning!"
-msgstr ""
+msgstr "[_S_] Es sind nur sechs am Morgen!"
 
 # game/UpdateScript0.03.rpy:629 #-#-# translate crowdin diazvisit_02e1ece4:
 msgid "[_S_] Get the door [ryan], I'm too tired.... not dressed.... crusty.... panties.... {i}snore{/i}..."
-msgstr ""
+msgstr "[_S_] Hol dir die Tür [ryan], ich bin zu müde .... nicht gekleidet... Krusten.... {i}Schnorchel{/i}..."
 
 # game/UpdateScript0.03.rpy:630 #-#-# translate crowdin diazvisit_f21c2334:
 msgid "[_RT_] {i}Anyone ringing the doorbell this early, can't be here with good news.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Jeder, der die Türglocke vorzeitig klingelt, kann nicht mit guten Nachrichten hier sein.{/i}"
 
 # game/UpdateScript0.03.rpy:635 #-#-# translate crowdin diazvisit_80cae6de:
 msgid "[_AD_] Well, good morning [ryan]!"
-msgstr ""
+msgstr "[_AD_] Gut, Guten Morgen [ryan]!"
 
 # game/UpdateScript0.03.rpy:637 #-#-# translate crowdin diazvisit_f25223a4:
 msgid "[_R_] Huh?.... Hi?.... How do you know me?"
-msgstr ""
+msgstr "[_R_] Huh?.... Hallo?.... Wie kennst du mich?"
 
 # game/UpdateScript0.03.rpy:638 #-#-# translate crowdin diazvisit_af20e3b0:
 msgid "[_AD_] My name is Special Agent Diaz of the FBI Criminal Investigation Division."
-msgstr ""
+msgstr "[_AD_] Mein Name ist Sonderbeauftragter Diaz der Abteilung für Kriminelle Ermittlung."
 
 # game/UpdateScript0.03.rpy:639 #-#-# translate crowdin diazvisit_6624d48a:
 msgid "[_AD_] I've just been reassigned to head the case against your father."
-msgstr ""
+msgstr "[_AD_] Ich wurde gerade neu zugewiesen, um den Fall gegen deinen Vater zu leiten."
 
 # game/UpdateScript0.03.rpy:640 #-#-# translate crowdin diazvisit_f392b75e:
 msgid "[_AD_] Aren't you going to invite me in?"
-msgstr ""
+msgstr "[_AD_] Willst du mich nicht einladen?"
 
 # game/UpdateScript0.03.rpy:641 #-#-# translate crowdin diazvisit_0cfeb5d2:
 msgid "[_R_] Uhhhh.... It's 6 in the morning.... do you have a warrant?"
-msgstr ""
+msgstr "[_R_] Uhhhhh.... Es ist 6 am Morgen.... Haben Sie einen Haftbefehl?"
 
 # game/UpdateScript0.03.rpy:644 #-#-# translate crowdin diazvisit_6ac2abd0:
 msgid "[_AD_] It's not that kind of visit, and we have an ongoing warrant to search the premises whenever we feel there is a need."
-msgstr ""
+msgstr "[_AD_] Es ist nicht diese Art von Besuch, und wir haben einen ständigen Haftbefehl, um die Räumlichkeiten zu durchsuchen, wenn wir glauben, dass sie benötigt werden."
 
 # game/UpdateScript0.03.rpy:645 #-#-# translate crowdin diazvisit_97be63b2:
 msgid "[_R_] Ok, let me go get my mom."
-msgstr ""
+msgstr "[_R_] Ok, lass mich meine Mama bekommen."
 
 # game/UpdateScript0.03.rpy:646 #-#-# translate crowdin diazvisit_79ea7cb6:
 msgid "[_AD_] She's not here, I just watched her drive away."
-msgstr ""
+msgstr "[_AD_] Sie ist nicht hier, ich habe ihr nur zugeschaut."
 
 # game/UpdateScript0.03.rpy:647 #-#-# translate crowdin diazvisit_dc7f54e4:
 msgid "[_AD_] I've arranged for her to have an early morning meeting with her lawyer and the federal prosecutor each Thursday morning to go over details of the investigation against her husband."
@@ -230,11 +230,11 @@ msgstr "[_AD_] Ich habe für sie ein frühmorgendliches Treffen mit ihrem Anwalt
 
 # game/UpdateScript0.03.rpy:648 #-#-# translate crowdin diazvisit_377b52c5:
 msgid "[_R_] Then who are you here to see?"
-msgstr ""
+msgstr "[_R_] Wer bist du dann hier zu sehen?"
 
 # game/UpdateScript0.03.rpy:651 #-#-# translate crowdin diazvisit_4bdfb08b:
 msgid "[_AD_] I actually want to have a few words with you and your sister Lauren."
-msgstr ""
+msgstr "[_AD_] Ich möchte eigentlich ein paar Worte mit Ihnen und Ihrer Schwester Lauren haben."
 
 # game/UpdateScript0.03.rpy:652 #-#-# translate crowdin diazvisit_4881927b:
 msgid "[_R_] What?"
@@ -242,91 +242,91 @@ msgstr "[_R_] Was?"
 
 # game/UpdateScript0.03.rpy:653 #-#-# translate crowdin diazvisit_81d16400:
 msgid "[_R_] What could you possibly want with us?"
-msgstr ""
+msgstr "[_R_] Was kannst du mit uns wollen?"
 
 # game/UpdateScript0.03.rpy:654 #-#-# translate crowdin diazvisit_70b47061:
 msgid "[_AD_] Why don't you go get your sister and I'll meet you in the lounge."
-msgstr ""
+msgstr "[_AD_] Warum gehst du nicht deine Schwester und ich werde dich in der Lounge treffen."
 
 # game/UpdateScript0.03.rpy:655 #-#-# translate crowdin diazvisit_2e4a6d3a:
 msgid "[_R_] Uhhhh.... ok.... let me show you where it..."
-msgstr ""
+msgstr "[_R_] Uhhhhhh.... ok.... Lassen Sie mich Ihnen zeigen, wo es ist..."
 
 # game/UpdateScript0.03.rpy:656 #-#-# translate crowdin diazvisit_1abb2e84:
 msgid "[_AD_] I know where it is.... just run and get Lauren."
-msgstr ""
+msgstr "[_AD_] Ich weiß, wo es ist.... nur laufen und besorge Lauren."
 
 # game/UpdateScript0.03.rpy:659 #-#-# translate crowdin diazvisit_f5e057fd:
 msgid "[_RT_] {i}Oh my God.... what is this about?.... I hope I haven't done anything to get Lauren in trouble.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Oh mein Gott.... worum geht es? Ich hoffe, ich habe nichts unternommen, um Lauren in Schwierigkeiten zu bringen.{/i}"
 
 # game/UpdateScript0.03.rpy:662 #-#-# translate crowdin diazvisit_2bd18c71:
 msgid "[_AD_] Good morning Lauren, I hope you slept well."
-msgstr ""
+msgstr "[_AD_] Guten Morgen Lauren, ich hoffe, du hast gut geschlafen."
 
 # game/UpdateScript0.03.rpy:663 #-#-# translate crowdin diazvisit_f770b05c:
 msgid "[_L_] Uuuuhhhh.... hi?"
-msgstr ""
+msgstr "[_L_] Uuuuhhhh.... hi?"
 
 # game/UpdateScript0.03.rpy:664 #-#-# translate crowdin diazvisit_bb33f9ab:
 msgid "[_AD_] I'm sorry, but did [ryan] tell you who I am?"
-msgstr ""
+msgstr "[_AD_] Tut mir leid, aber hat [ryan] dir gesagt, wer ich bin?"
 
 # game/UpdateScript0.03.rpy:665 #-#-# translate crowdin diazvisit_efb40849:
 msgid "[_L_] He said you're in charge of building a case against our dad?"
-msgstr ""
+msgstr "[_L_] Er sagte, dass du für den Bau eines Verfahrens gegen unseren Vater verantwortlich bist?"
 
 # game/UpdateScript0.03.rpy:666 #-#-# translate crowdin diazvisit_4af17a9e:
 msgid "[_AD_] I am, but I'm not here to talk about his case, I'm here because of the actions of you two."
-msgstr ""
+msgstr "[_AD_] Ich bin, aber ich bin nicht hier, um über seinen Fall zu sprechen, ich bin hier wegen der Handlungen von euch zwei."
 
 # game/UpdateScript0.03.rpy:669 #-#-# translate crowdin diazvisit_f2449bf5:
 msgid "[_L_] Oh, no.... what have we done?"
-msgstr ""
+msgstr "[_L_] Oh, nein.... Was haben wir getan?"
 
 # game/UpdateScript0.03.rpy:670 #-#-# translate crowdin diazvisit_0d8715ae:
 msgid "[_R_] Lauren.... let me do the talking. We have to be careful what we say here."
-msgstr ""
+msgstr "[_R_] Lauren.... Lassen Sie mich das sprechen. Wir müssen vorsichtig sein, was wir hier sagen."
 
 # game/UpdateScript0.03.rpy:671 #-#-# translate crowdin diazvisit_c73a52f0:
 msgid "[_AD_] You bet your ass you do. You two have been naughty lately."
-msgstr ""
+msgstr "[_AD_] Sie wetten Ihren Arsch, zwei waren in letzter Zeit unartig."
 
 # game/UpdateScript0.03.rpy:672 #-#-# translate crowdin diazvisit_5d4af1b1:
 msgid "[_L_] No, we haven't."
-msgstr ""
+msgstr "[_L_] Nein, wir nicht."
 
 # game/UpdateScript0.03.rpy:673 #-#-# translate crowdin diazvisit_9302d5ba:
 msgid "[_AD_] So, you haven't been taking sexy pictures of yourself on the property of a company that has suspected dealings with the Mafia?"
-msgstr ""
+msgstr "[_AD_] Du hast also keine sexy Bilder von dir auf dem Eigentum eines Unternehmens gemacht, das den Umgang mit der Mafia vermutet hat?"
 
 # game/UpdateScript0.03.rpy:676 #-#-# translate crowdin diazvisit_0e57b180:
 msgid "[_L_] How do you know that?"
-msgstr ""
+msgstr "[_L_] Woher wissen Sie das?"
 
 # game/UpdateScript0.03.rpy:677 #-#-# translate crowdin diazvisit_61f99ab9:
 msgid "[_R_] They're watching everything we do..."
-msgstr ""
+msgstr "[_R_] Sie beobachten alles, was wir tun..."
 
 # game/UpdateScript0.03.rpy:678 #-#-# translate crowdin diazvisit_db04ce07:
 msgid "[_AD_] Oh, please.... you aren't making it hard."
-msgstr ""
+msgstr "[_AD_] Ah, bitte.... Du machst es nicht schwer."
 
 # game/UpdateScript0.03.rpy:679 #-#-# translate crowdin diazvisit_09797b50:
 msgid "[_AD_] Are you aware how easy it is to track your activity on the internet?"
-msgstr ""
+msgstr "[_AD_] Weißt du, wie einfach es ist, deine Aktivitäten im Internet zu verfolgen?"
 
 # game/UpdateScript0.03.rpy:680 #-#-# translate crowdin diazvisit_20dacfb6:
 msgid "[_AD_] Are you aware how easy it is to follow teens on their bikes and mopeds?"
-msgstr ""
+msgstr "[_AD_] Weißt du, wie einfach es ist, Teenagern auf ihren Fahrrädern und Mopeds zu folgen?"
 
 # game/UpdateScript0.03.rpy:681 #-#-# translate crowdin diazvisit_a11847bd:
 msgid "[_RT_] {i}Oh my God, does that mean they know about me buying and installing my spy-cams?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Oh mein Gott, heißt das, dass sie von mir wissen, dass sie meine Spycam kaufen und installieren?{/i}"
 
 # game/UpdateScript0.03.rpy:682 #-#-# translate crowdin diazvisit_aecb30cb:
 msgid "[_AD_] Your father obviously didn't teach you anything he knew about conducting business covertly."
-msgstr ""
+msgstr "[_AD_] Dein Vater hat dir offensichtlich nichts beigebracht, was er über die geheime Geschäftsführung wusste."
 
 # game/UpdateScript0.03.rpy:685 #-#-# translate crowdin diazvisit_94706216:
 msgid "[_R_] But Lauren and I are both adults. It's not illegal for us to take and pose for adult pictures, and we've set up everything legally online through Cosplay Heaven."
@@ -334,11 +334,11 @@ msgstr "[_R_] Aber Lauren und ich sind beide Erwachsene. Für uns ist es nicht i
 
 # game/UpdateScript0.03.rpy:686 #-#-# translate crowdin diazvisit_61fc2b1d:
 msgid "[_AD_] Yes, and you generated tax forms that prove you're making an income that you aren't reporting and surrendering to the FBI."
-msgstr ""
+msgstr "[_AD_] Ja, und Sie haben Steuerformulare generiert, die beweisen, dass Sie ein Einkommen erzielen, das Sie nicht melden und dem FBI übergeben."
 
 # game/UpdateScript0.03.rpy:687 #-#-# translate crowdin diazvisit_00f6c236:
 msgid "[_R_] Oh, shit.... that's right..."
-msgstr ""
+msgstr "[_R_] Oh, shit.... das ist richtig..."
 
 # game/UpdateScript0.03.rpy:688 #-#-# translate crowdin diazvisit_58d10a0f:
 msgid "[_AD_] And that's not even mentioning the money you're getting under the table from your uncle Bobby to help you pay off your weekly debt to the DeCapos."
@@ -354,31 +354,31 @@ msgstr "[_R_] ..."
 
 # game/UpdateScript0.03.rpy:693 #-#-# translate crowdin diazvisit_a8b48c7e:
 msgid "[_R_] Wait!.... You know the DeCapos are extorting us for $1000 a week?"
-msgstr ""
+msgstr "[_R_] Warte!.... Du weißt, dass der DeCapos uns für $1000 pro Woche erpresst?"
 
 # game/UpdateScript0.03.rpy:694 #-#-# translate crowdin diazvisit_603e7276:
 msgid "[_AD_] And I know they're making your mom strip if they don't get their payment each week."
-msgstr ""
+msgstr "[_AD_] Und ich weiß, sie machen deine Mama Streifen, wenn sie nicht jede Woche ihre Zahlung erhalten."
 
 # game/UpdateScript0.03.rpy:697 #-#-# translate crowdin diazvisit_8bfbbc86:
 msgid "[_L_] What?.... Mom's not serving drinks at Joey's club? She's actually stripping?"
-msgstr ""
+msgstr "[_L_] Was?.... Mom's nicht serviert Getränke im Joey's Club? Sie ist wirklich abstreifen?"
 
 # game/UpdateScript0.03.rpy:698 #-#-# translate crowdin diazvisit_4da22d70:
 msgid "[_R_] Yeah.... she asked me not to tell you. I'll fill you in later."
-msgstr ""
+msgstr "[_R_] Ja. Sie bat mich, dir nicht zu sagen. Ich werde dich später füllen."
 
 # game/UpdateScript0.03.rpy:701 #-#-# translate crowdin diazvisit_5ce21906:
 msgid "[_R_] So, you know about all of this?.... And we're the ones who are in trouble? Why aren't you going after the DeCapo's?"
-msgstr ""
+msgstr "[_R_] Also, du weißt über all das Bescheiden?.... Und wir sind diejenigen, die in Schwierigkeiten sind? Warum gehst du nicht nach dem DeCapo?"
 
 # game/UpdateScript0.03.rpy:702 #-#-# translate crowdin diazvisit_0ee628bf:
 msgid "[_AD_] [ryan], you're a bright boy.... I'm sure you've seen Mafia movies before."
-msgstr ""
+msgstr "[_AD_] [ryan], du bist ein heller Junge.... Ich bin sicher, du hast Mafia Filme schon einmal gesehen."
 
 # game/UpdateScript0.03.rpy:703 #-#-# translate crowdin diazvisit_81c7844f:
 msgid "[_AD_] It shouldn't be too hard for you to put this together."
-msgstr ""
+msgstr "[_AD_] Es sollte für dich nicht zu schwer sein, dies zusammenzufügen."
 
 # game/UpdateScript0.03.rpy:706 #-#-# translate crowdin diazvisit_c6841c25_2:
 msgid "[_R_] ..."
@@ -386,7 +386,7 @@ msgstr "[_R_] ..."
 
 # game/UpdateScript0.03.rpy:707 #-#-# translate crowdin diazvisit_d5b2c6d8:
 msgid "[_R_] Oh my God.... you're in the pocket of the DeCapos."
-msgstr ""
+msgstr "[_R_] Oh mein Gott.... Du bist in der Tasche der DeCapos."
 
 # game/UpdateScript0.03.rpy:708 #-#-# translate crowdin diazvisit_9ead3cdb:
 msgid "[_L_] Oh my God..."
@@ -394,19 +394,19 @@ msgstr "[_L_] Oh mein Gott..."
 
 # game/UpdateScript0.03.rpy:709 #-#-# translate crowdin diazvisit_2d42041c:
 msgid "[_AD_] Haha.... bingo."
-msgstr ""
+msgstr "[_AD_] Haha.... bingo."
 
 # game/UpdateScript0.03.rpy:712 #-#-# translate crowdin diazvisit_ef91a493:
 msgid "[_L_] Well, thats not horrible news."
-msgstr ""
+msgstr "[_L_] Nun, das sind keine schrecklichen Nachrichten."
 
 # game/UpdateScript0.03.rpy:713 #-#-# translate crowdin diazvisit_a7c37087:
 msgid "[_L_] You should be able to help get Dad off on all charges right?"
-msgstr ""
+msgstr "[_L_] Du solltest in der Lage sein, Papa bei allen Ladungen richtig zu bekommen?"
 
 # game/UpdateScript0.03.rpy:714 #-#-# translate crowdin diazvisit_6bc64428:
 msgid "[_AD_] Well, that was the original plan."
-msgstr ""
+msgstr "[_AD_] Nun, das war der ursprüngliche Plan."
 
 # game/UpdateScript0.03.rpy:715 #-#-# translate crowdin diazvisit_fc264d09:
 msgid "[_AD_] But now Joey DeCapo is happier with the arrangement as it is now. He's getting paid each week, or he's getting a visit from your mom."
@@ -414,23 +414,23 @@ msgstr "[_AD_] Aber jetzt ist Joey DeCapo glücklicher mit der Anordnung als vor
 
 # game/UpdateScript0.03.rpy:716 #-#-# translate crowdin diazvisit_36545c57:
 msgid "[_AD_] He actually enjoys those visits more than he does the money."
-msgstr ""
+msgstr "[_AD_] Er genießt diese Besuche tatsächlich mehr als er das Geld leistet."
 
 # game/UpdateScript0.03.rpy:717 #-#-# translate crowdin diazvisit_c51a0b44:
 msgid "[_AD_] Now he wants to keep your dad in jail as long as possible."
-msgstr ""
+msgstr "[_AD_] Jetzt will er deinen Vater so lange wie möglich im Gefängnis halten."
 
 # game/UpdateScript0.03.rpy:720 #-#-# translate crowdin diazvisit_f595fb80:
 msgid "[_L_] Well, what do you want with us?"
-msgstr ""
+msgstr "[_L_] Nun, was willst du mit uns?"
 
 # game/UpdateScript0.03.rpy:721 #-#-# translate crowdin diazvisit_1dfa9e70:
 msgid "[_AD_] That's simple..."
-msgstr ""
+msgstr "[_AD_] Das ist einfach..."
 
 # game/UpdateScript0.03.rpy:722 #-#-# translate crowdin diazvisit_7916e651:
 msgid "[_AD_] I'm here to extort you."
-msgstr ""
+msgstr "[_AD_] Ich bin hier, um dich zu erpressen."
 
 # game/UpdateScript0.03.rpy:723 #-#-# translate crowdin diazvisit_c6841c25_3:
 msgid "[_R_] ..."
@@ -438,131 +438,131 @@ msgstr "[_R_] ..."
 
 # game/UpdateScript0.03.rpy:726 #-#-# translate crowdin diazvisit_29c6f165:
 msgid "[_R_] For what?"
-msgstr ""
+msgstr "[_R_] Wofür?"
 
 # game/UpdateScript0.03.rpy:727 #-#-# translate crowdin diazvisit_d9f4be24:
 msgid "[_AD_] Money and favors of course."
-msgstr ""
+msgstr "[_AD_] Geld und Gunst natürlich."
 
 # game/UpdateScript0.03.rpy:728 #-#-# translate crowdin diazvisit_83dd39a4:
 msgid "[_R_] Favors?"
-msgstr ""
+msgstr "[_R_] Favoriten?"
 
 # game/UpdateScript0.03.rpy:729 #-#-# translate crowdin diazvisit_0b83320f:
 msgid "[_R_] You mean if we don't pay you what you want, I have to do a strip dance for you?"
-msgstr ""
+msgstr "[_R_] Du meinst, wenn wir dir nicht bezahlen, was du willst, ich muss einen Streifentanz für dich machen?"
 
 # game/UpdateScript0.03.rpy:730 #-#-# translate crowdin diazvisit_f384769e:
 msgid "[_AD_] Haha.... do you see the pant-suit?"
-msgstr ""
+msgstr "[_AD_] Haha.... siehst du den Anzug?"
 
 # game/UpdateScript0.03.rpy:731 #-#-# translate crowdin diazvisit_41847f48:
 msgid "[_AD_] It's not you I would want to see lose their clothes."
-msgstr ""
+msgstr "[_AD_] Du bist nicht dich, wenn ich sehen würde, dass ihre Kleidung verloren geht."
 
 # game/UpdateScript0.03.rpy:732 #-#-# translate crowdin diazvisit_5c05342c:
 msgid "[_L_] Oh.... my.... God..."
-msgstr ""
+msgstr "[_L_] Oh.... Mein.... Gott..."
 
 # game/UpdateScript0.03.rpy:733 #-#-# translate crowdin diazvisit_0add412e:
 msgid "[_R_] How much do we have to pay you?"
-msgstr ""
+msgstr "[_R_] Wie viel müssen wir Ihnen bezahlen?"
 
 # game/UpdateScript0.03.rpy:734 #-#-# translate crowdin diazvisit_a624b532:
 msgid "[_AD_] Oh, not much, just $500 a week."
-msgstr ""
+msgstr "[_AD_] Oh, nicht viel, nur $500 pro Woche."
 
 # game/UpdateScript0.03.rpy:735 #-#-# translate crowdin diazvisit_e791425d:
 msgid "[_R_] But what if we can't pay the DeCapo's because you're extorting us?"
-msgstr ""
+msgstr "[_R_] Was aber, wenn wir die DeCapo's nicht bezahlen können, weil du uns erpresst?"
 
 # game/UpdateScript0.03.rpy:736 #-#-# translate crowdin diazvisit_219a7df5:
 msgid "[_R_] I'll make sure Joey knows it's you who's preventing us."
-msgstr ""
+msgstr "[_R_] Ich stelle sicher, dass Joey weiß, dass du es bist, der uns verhindert."
 
 # game/UpdateScript0.03.rpy:737 #-#-# translate crowdin diazvisit_a0d22d1a:
 msgid "[_AD_] Joey already knows about this."
-msgstr ""
+msgstr "[_AD_] Joey weiß dies bereits."
 
 # game/UpdateScript0.03.rpy:738 #-#-# translate crowdin diazvisit_16827e73:
 msgid "[_AD_] Like I said, he doesn't mind if you miss a payment here and there."
-msgstr ""
+msgstr "[_AD_] Wie gesagt, es macht ihm nichts aus, wenn Sie eine Zahlung hier und da vermissen."
 
 # game/UpdateScript0.03.rpy:739 #-#-# translate crowdin diazvisit_5c05342c_1:
 msgid "[_L_] Oh.... my.... God..."
-msgstr ""
+msgstr "[_L_] Oh.... Mein.... Gott..."
 
 # game/UpdateScript0.03.rpy:740 #-#-# translate crowdin diazvisit_9993b94e:
 msgid "[_L_] ..."
-msgstr ""
+msgstr "[_L_] ..."
 
 # game/UpdateScript0.03.rpy:743 #-#-# translate crowdin diazvisit_007e72e3:
 msgid "[_L_] [ryan]!.... We can't give Diaz the money.... we've got to protect Mom."
-msgstr ""
+msgstr "[_L_] [ryan]!.... Wir können Diaz nicht das Geld geben.... wir müssen Mamma schützen."
 
 # game/UpdateScript0.03.rpy:744 #-#-# translate crowdin diazvisit_1af3a4ba:
 msgid "[_R_] I think Mom would disagree.... she wouldn't want you to have to do favors for this pervy fed."
-msgstr ""
+msgstr "[_R_] Ich denke, Mom würde mir nicht zustimmen... sie würde nicht wollen, dass du für diese abenteuerliche Nahrung Gefallen tun musst."
 
 # game/UpdateScript0.03.rpy:745 #-#-# translate crowdin diazvisit_ea1f0ce3:
 msgid "[_L_] It's better that I do favors for this pervy fed in the safety of our home, than for Mom to do favors for a bunch of dangerous pervy gangsters."
-msgstr ""
+msgstr "[_L_] Es ist besser, dass ich diese Pervität bevorzuge, die in der Sicherheit unseres Hauses gefüttert wird als dass Mama einen Haufen gefährlicher Pervy Gangster bevorzugt."
 
 # game/UpdateScript0.03.rpy:746 #-#-# translate crowdin diazvisit_6d8a13bb:
 msgid "[_AD_] And I promise I won't take it too far. Haha.... unless you ask me to."
-msgstr ""
+msgstr "[_AD_] Und ich verspreche, dass ich es nicht zu weit nehmen werde. Haha.... außer du fragst mich."
 
 # game/UpdateScript0.03.rpy:747 #-#-# translate crowdin diazvisit_783b8425:
 msgid "[_AD_] Oh, and you can't tell your mom about this at all."
-msgstr ""
+msgstr "[_AD_] Oh, und du kannst deine Mama gar nicht darüber erzählen."
 
 # game/UpdateScript0.03.rpy:750 #-#-# translate crowdin diazvisit_523e9a43:
 msgid "[_R_] Or what?"
-msgstr ""
+msgstr "[_R_] Oder was?"
 
 # game/UpdateScript0.03.rpy:751 #-#-# translate crowdin diazvisit_beddc331:
 msgid "[_AD_] Or I tell her about everything else, the sexy pics, about posting them on the internet, and several other things I know [ryan]'s been up to around here lately."
-msgstr ""
+msgstr "[_AD_] Oder ich erzähle ihr über alles andere, die sexy Bilder, über die Veröffentlichung im Internet, und einige andere Dinge, die ich kenne [ryan]'s war in letzter Zeit hier zu finden."
 
 # game/UpdateScript0.03.rpy:752 #-#-# translate crowdin diazvisit_156efd48:
 msgid "[_AD_] You don't want me to be more specific in front of Lauren do you?..."
-msgstr ""
+msgstr "[_AD_] Du möchtest nicht, dass ich vor Lauren spezifischer?..."
 
 # game/UpdateScript0.03.rpy:755 #-#-# translate crowdin diazvisit_19ba8f13:
 msgid "[_L_] What's she talking about?"
-msgstr ""
+msgstr "[_L_] Worüber spricht sie?"
 
 # game/UpdateScript0.03.rpy:756 #-#-# translate crowdin diazvisit_80332d5f:
 msgid "[_R_] Don't worry about that. We can't let Mom find out about the pictures."
-msgstr ""
+msgstr "[_R_] Machen Sie sich keine Sorgen. Wir können Mama nicht über die Bilder informieren lassen."
 
 # game/UpdateScript0.03.rpy:757 #-#-# translate crowdin diazvisit_a1115915:
 msgid "[_R_] We have no choice, but to play along."
-msgstr ""
+msgstr "[_R_] Wir haben keine andere Wahl, als mitzuspielen."
 
 # game/UpdateScript0.03.rpy:758 #-#-# translate crowdin diazvisit_ddf711c1:
 msgid "[_AD_] That's great news."
-msgstr ""
+msgstr "[_AD_] Das sind tolle Neuigkeiten."
 
 # game/UpdateScript0.03.rpy:759 #-#-# translate crowdin diazvisit_8918a6a2:
 msgid "[_AD_] So, what's it gonna be?"
-msgstr ""
+msgstr "[_AD_] Also, was wird es sein?"
 
 # game/UpdateScript0.03.rpy:762 #-#-# translate crowdin diazvisit_0d4bafba:
 msgid "[_R_] No question, we're paying the $500."
-msgstr ""
+msgstr "[_R_] Keine Frage, wir zahlen die $500."
 
 # game/UpdateScript0.03.rpy:763 #-#-# translate crowdin diazvisit_91731246:
 msgid "[_L_] But [ryan]? What about Mom?"
-msgstr ""
+msgstr "[_L_] Aber [ryan]? Was ist mit Mama?"
 
 # game/UpdateScript0.03.rpy:765 #-#-# translate crowdin diazvisit_30f24883:
 msgid "[_R_] Don't worry, I'll have enough money to pay for her too by Saturday."
-msgstr ""
+msgstr "[_R_] Keine Sorge, ich habe genug Geld, um sie auch am Samstag zu bezahlen."
 
 # game/UpdateScript0.03.rpy:766 #-#-# translate crowdin diazvisit_fcbbb21d:
 msgid "[_L_] Oh, thank God!"
-msgstr ""
+msgstr "[_L_] Oh, vielen Dank!"
 
 # game/UpdateScript0.03.rpy:767 #-#-# translate crowdin diazvisit_c00662a5:
 msgid "{i}{b}\"Lauren's Respect +1\"{/b}{/i}"
@@ -570,27 +570,27 @@ msgstr "{i}{b}\"Laurens Respekt +1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:770 #-#-# translate crowdin diazvisit_f3e8c69d:
 msgid "[_R_] I'm a little short on money, but I'll do my best to get enough by Saturday."
-msgstr ""
+msgstr "[_R_] Ich bin ein wenig kurz mit Geld, aber ich werde mein Bestes tun, um am Samstag genug zu bekommen."
 
 # game/UpdateScript0.03.rpy:771 #-#-# translate crowdin diazvisit_104e4f39:
 msgid "[_L_] Well, what if you can't?"
-msgstr ""
+msgstr "[_L_] Nun, was ist, wenn du kannst?"
 
 # game/UpdateScript0.03.rpy:772 #-#-# translate crowdin diazvisit_5eb2512a:
 msgid "[_R_] Then it will be up to Mom to take care of it this week. I know she'd prefer that, to letting you do favors for some horny corrupt FBI agent."
-msgstr ""
+msgstr "[_R_] Dann ist es an der Mut, sich diese Woche darum zu kümmern. Ich weiß, dass sie es vorziehen würde, wenn ihr Euch einen geilen FBI-Agenten mit Gefallen versorgen lassen wollt."
 
 # game/UpdateScript0.03.rpy:773 #-#-# translate crowdin diazvisit_56e767cd:
 msgid "[_AD_] You're pushing it [ryan]."
-msgstr ""
+msgstr "[_AD_] Du drückst es [ryan]."
 
 # game/UpdateScript0.03.rpy:774 #-#-# translate crowdin diazvisit_daed1a1a:
 msgid "[_R_] Let me go grab you your money, and I'll meet you by the front door to show you out."
-msgstr ""
+msgstr "[_R_] Lass mich dir dein Geld schnappen und ich werde dich an der Vordertür treffen, um dir zu zeigen."
 
 # game/UpdateScript0.03.rpy:777 #-#-# translate crowdin diazvisit_8dfb6435:
 msgid "[_R_] Here's the $500."
-msgstr ""
+msgstr "[_R_] Hier ist der $500."
 
 # game/UpdateScript0.03.rpy:778 #-#-# translate crowdin diazvisit_1d2e43f3:
 msgid "{i}\"Money - $500\"{/i}"
@@ -598,7 +598,7 @@ msgstr "{i}\"Geld - 500 $\"{/i}"
 
 # game/UpdateScript0.03.rpy:780 #-#-# translate crowdin diazvisit_22792f17:
 msgid "[_AD_] It's been a pleasure doing business with you."
-msgstr ""
+msgstr "[_AD_] Es war ein Vergnügen, Geschäfte mit dir zu machen."
 
 # game/UpdateScript0.03.rpy:783 #-#-# translate crowdin diazvisit_7e923b39:
 msgid "[_AD_] And just so you know, I know exactly what's going on in this house. I know about the inappropriate gifts you buy on Hardnlong, and the little surveillance state you've got going on here."
@@ -606,67 +606,67 @@ msgstr "[_AD_] Und so wie du es weißt, ich weiß genau, was in diesem Haus vor 
 
 # game/UpdateScript0.03.rpy:784 #-#-# translate crowdin diazvisit_19a346c4:
 msgid "[_AD_] So, you'd better be willing to play ball, or your life is going to get pretty uncomfortable."
-msgstr ""
+msgstr "[_AD_] Du solltest also lieber bereit sein Ball zu spielen, sonst wird dein Leben ziemlich unbequem werden."
 
 # game/UpdateScript0.03.rpy:785 #-#-# translate crowdin diazvisit_47a4eebc:
 msgid "[_RT_] {i}Shit.... I'm an idiot to think I was being so sneaky with the FBI watching me.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Shit.... Ich bin ein Idiot zu denken, dass ich mit dem FBI so sneakig war und mich beobachtet.{/i}"
 
 # game/UpdateScript0.03.rpy:786 #-#-# translate crowdin diazvisit_f7c08ea8:
 msgid "[_RT_] {i}Maybe I'm lucky that a crooked agent is in charge of this case.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Vielleicht habe ich das Glück, dass ein betrügerischer Agent für diesen Fall verantwortlich ist.{/i}"
 
 # game/UpdateScript0.03.rpy:787 #-#-# translate crowdin diazvisit_b268dd27:
 msgid "[_RT_] {i}I'm not in trouble so to speak, and it sounds like Dad's going to be out of our lives, at least for the foreseeable future.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ich bin nicht in Schwierigkeiten zu sprechen, und es klingt so, als würde Dad aus unserem Leben, zumindest für die absehbare Zukunft. /i}"
 
 # game/UpdateScript0.03.rpy:790 #-#-# translate crowdin diazvisit_da2f7287:
 msgid "[_AD_] And just between you and me, I, just like Joey, wouldn't mind even a little bit if you had to miss a payment here and there."
-msgstr ""
+msgstr "[_AD_] Und genau zwischen dir und mir, ich, genau wie Joey, Das Zimmer war sehr klein, aber sehr sauber."
 
 # game/UpdateScript0.03.rpy:791 #-#-# translate crowdin diazvisit_6396e249:
 msgid "[_R_] I'll take that into consideration. Goodbye!"
-msgstr ""
+msgstr "[_R_] Ich werde das berücksichtigen. Goodbye!"
 
 # game/UpdateScript0.03.rpy:795 #-#-# translate crowdin diazvisit_b727c6bd:
 msgid "[_RT_] {i}Holy fucking shit!!.... What is happening with my life?.... {/i}"
-msgstr ""
+msgstr "[_RT_] {i}Heilige fucking shit!!.... Was passiert mit meinem Leben?.... {/i}"
 
 # game/UpdateScript0.03.rpy:796 #-#-# translate crowdin diazvisit_2c3ab4a5:
 msgid "[_L_] {i}(SHOUTING){/i} [ryan]!"
-msgstr ""
+msgstr "[_L_] {i}(SHOUTING){/i} [ryan]!"
 
 # game/UpdateScript0.03.rpy:797 #-#-# translate crowdin diazvisit_eddca0e0:
 msgid "[_R_] {i}(SHOUTING){/i} Yeah?"
-msgstr ""
+msgstr "[_R_] {i}(SHOUTING){/i} Ja?"
 
 # game/UpdateScript0.03.rpy:798 #-#-# translate crowdin diazvisit_f98d176e:
 msgid "[_L_] Will you please come to my room?"
-msgstr ""
+msgstr "[_L_] Kommst du bitte in mein Zimmer?"
 
 # game/UpdateScript0.03.rpy:801 #-#-# translate crowdin diazvisit_a5c2e44d:
 msgid "[_R_] What is it?"
-msgstr ""
+msgstr "[_R_] Was ist das?"
 
 # game/UpdateScript0.03.rpy:802 #-#-# translate crowdin diazvisit_8b6322c9:
 msgid "[_L_] Please sit down on my bed."
-msgstr ""
+msgstr "[_L_] Bitte setzen Sie sich auf mein Bett."
 
 # game/UpdateScript0.03.rpy:806 #-#-# translate crowdin diazvisit_1812126d:
 msgid "[_R_] Shit! I don't even have the money to pay you $500 right now, and getting $1000 by Saturday to pay for Mom is going to be almost impossible."
-msgstr ""
+msgstr "[_R_] Shit! Ich habe nicht einmal das Geld, um Ihnen $500 zu zahlen und $1000 bis Samstag für Mama zu bekommen ist fast unmöglich."
 
 # game/UpdateScript0.03.rpy:807 #-#-# translate crowdin diazvisit_55ba7e14:
 msgid "[_L_] What have you been doing with the money? I know you go to work at Dad's warehouse almost every day, and what about the money we've made taking pictures?"
-msgstr ""
+msgstr "[_L_] Was hast du mit dem Geld getan? Ich weiß, du gehst fast jeden Tag zur Arbeit im Lager von Papa, und was ist mit dem Geld, das wir gemacht haben, um Fotos zu machen?"
 
 # game/UpdateScript0.03.rpy:808 #-#-# translate crowdin diazvisit_bdc81fde:
 msgid "[_R_] I've had to use it on other things."
-msgstr ""
+msgstr "[_R_] Ich musste es auf andere Dinge verwenden."
 
 # game/UpdateScript0.03.rpy:809 #-#-# translate crowdin diazvisit_221236ad:
 msgid "[_L_] Things that are more important than Mom?"
-msgstr ""
+msgstr "[_L_] Dinge, die wichtiger sind als Mama?"
 
 # game/UpdateScript0.03.rpy:810 #-#-# translate crowdin diazvisit_6c49f378:
 msgid "{i}{b}\"Lauren's Respect -1\"{/b}{/i}"
@@ -674,59 +674,59 @@ msgstr "{i}{b}\"Laurens Respekt -1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:812 #-#-# translate crowdin diazvisit_cc62608b:
 msgid "[_R_] Well, why don't you try supporting the family?.... See how easy you think it is..."
-msgstr ""
+msgstr "[_R_] Nun, warum versuchst du nicht die Familie zu unterstützen?.... Schau, wie einfach du denkst..."
 
 # game/UpdateScript0.03.rpy:814 #-#-# translate crowdin diazvisit_efc3bd97:
 msgid "[_R_] Lauren.... I think you're right.... If we pay Diaz the $500, we may not have enough for Mom too."
-msgstr ""
+msgstr "[_R_] Lauren.... Ich denke, du hast Recht. Wenn wir Diaz die 500$ bezahlen, haben wir vielleicht nicht genug für Mama auch."
 
 # game/UpdateScript0.03.rpy:815 #-#-# translate crowdin diazvisit_66735aef:
 msgid "[_R_] And I think you're also right that Mom would be in more danger than you are here in the safety of our own home."
-msgstr ""
+msgstr "[_R_] Und ich denke, du hast auch Recht, dass Mama in größerer Gefahr wäre als du hier in der Sicherheit unseres eigenen Hauses."
 
 # game/UpdateScript0.03.rpy:816 #-#-# translate crowdin diazvisit_55cb7a81:
 msgid "[_R_] But are you sure you're willing to take one for the team?"
-msgstr ""
+msgstr "[_R_] Aber bist du sicher, dass du eines für das Team nehmen willst?"
 
 # game/UpdateScript0.03.rpy:817 #-#-# translate crowdin diazvisit_b8ab99de:
 msgid "[_L_] Of course! You're already doing your part. It's time for me to do mine."
-msgstr ""
+msgstr "[_L_] Natürlich! Du machst dein Teil bereits. Es ist Zeit für mich."
 
 # game/UpdateScript0.03.rpy:818 #-#-# translate crowdin diazvisit_9764a7ba:
 msgid "[_AD_] So, I take it I'll be paid in favors this week?"
-msgstr ""
+msgstr "[_AD_] Also, ich nehme es werde diese Woche zu Gunsten bezahlt werden?"
 
 # game/UpdateScript0.03.rpy:819 #-#-# translate crowdin diazvisit_9e0a772d:
 msgid "[_AD_] That's great! This is even better than the money.... I get so bored spying on you from my car."
-msgstr ""
+msgstr "[_AD_] Das ist großartig! Das ist sogar noch besser als das Geld... Ich habe es mir so langweilig ausspionieren Sie von meinem Auto."
 
 # game/UpdateScript0.03.rpy:820 #-#-# translate crowdin diazvisit_ff0dc771:
 msgid "[_AD_] Lauren, why don't we take this to your room. [ryan] you can go get ready for school."
-msgstr ""
+msgstr "[_AD_] Lauren, warum nehmen wir das nicht in deinen Raum. [ryan] du kannst dich auf die Schule vorbereiten."
 
 # game/UpdateScript0.03.rpy:823 #-#-# translate crowdin diazvisit_f23e9b65:
 msgid "[_AD_] I'll just make myself comfortable on your bed."
-msgstr ""
+msgstr "[_AD_] Ich werde mich einfach auf deinem Bett wohl fühlen."
 
 # game/UpdateScript0.03.rpy:828 #-#-# translate crowdin diazvisit_ac5a80fe_2:
 msgid "{b}Ding Dong!{/b}"
-msgstr ""
+msgstr "{b}Ding Dong!{/b}"
 
 # game/UpdateScript0.03.rpy:833 #-#-# translate crowdin diazvisit_ac5a80fe_3:
 msgid "{b}Ding Dong!{/b}"
-msgstr ""
+msgstr "{b}Ding Dong!{/b}"
 
 # game/UpdateScript0.03.rpy:838 #-#-# translate crowdin diazvisit_e4c22b0d:
 msgid "[_R_] Shit!.... I know who that is..."
-msgstr ""
+msgstr "[_R_] Shit!.... Ich weiß, wer das ist..."
 
 # game/UpdateScript0.03.rpy:841 #-#-# translate crowdin diazvisit_5beee9ea_1:
 msgid "[_S_] It's only six in the morning!"
-msgstr ""
+msgstr "[_S_] Es sind nur sechs am Morgen!"
 
 # game/UpdateScript0.03.rpy:842 #-#-# translate crowdin diazvisit_02e1ece4_1:
 msgid "[_S_] Get the door [ryan], I'm too tired.... not dressed.... crusty.... panties.... {i}snore{/i}..."
-msgstr ""
+msgstr "[_S_] Hol dir die Tür [ryan], ich bin zu müde .... nicht gekleidet... Krusten.... {i}Schnorchel{/i}..."
 
 # game/UpdateScript0.03.rpy:843 #-#-# translate crowdin diazvisit_b13f5117:
 msgid "It's time for the weekly Agent Diaz event, would you like to skip it this week?"
@@ -758,39 +758,39 @@ msgstr "{i}{b}\"Laurens Unterwerfung + 1\" {/b} {/i}"
 
 # game/UpdateScript0.03.rpy:869 #-#-# translate crowdin diazvisit_1682acb0:
 msgid "[_RT_] {i}I better grab my cash in case I need it.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ich nehme mein Geld besser ein, falls ich es brauche. {/i}"
 
 # game/UpdateScript0.03.rpy:871 #-#-# translate crowdin diazvisit_4459ac27:
 msgid "[_RT_] {i}Shit, I'm short on cash this week.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Teil, ich bin kurz auf Bargeld in dieser Woche.{/i}"
 
 # game/UpdateScript0.03.rpy:872 #-#-# translate crowdin diazvisit_8f29da67:
 msgid "[_RT_] {i}I hope Lauren's ready to do her duty.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ich hoffe, dass Lauren bereit ist, ihre Pflicht zu erfüllen.{/i}"
 
 # game/UpdateScript0.03.rpy:877 #-#-# translate crowdin diazvisit_80cae6de_1:
 msgid "[_AD_] Well, good morning [ryan]!"
-msgstr ""
+msgstr "[_AD_] Gut, Guten Morgen [ryan]!"
 
 # game/UpdateScript0.03.rpy:878 #-#-# translate crowdin diazvisit_632ab943:
 msgid "[_R_] Why do you always look so chipper this early in the morning?"
-msgstr ""
+msgstr "[_R_] Warum siehst du so früh am Morgen immer so Hacker aus?"
 
 # game/UpdateScript0.03.rpy:879 #-#-# translate crowdin diazvisit_b6acd729:
 msgid "[_AD_] Well, I know that I'm either going to make $500 this morning, or get some really great entertainment."
-msgstr ""
+msgstr "[_AD_] Nun, ich weiß, dass ich entweder heute Morgen 500 $ machen oder wirklich tolle Unterhaltung bekommen werde."
 
 # game/UpdateScript0.03.rpy:880 #-#-# translate crowdin diazvisit_faca0795:
 msgid "[_AD_] That just puts me in a good mood."
-msgstr ""
+msgstr "[_AD_] Das bringt mich in eine gute Laune."
 
 # game/UpdateScript0.03.rpy:881 #-#-# translate crowdin diazvisit_080fd5aa:
 msgid "[_AD_] So, what's it going to be this week?"
-msgstr ""
+msgstr "[_AD_] Also, was wird es diese Woche sein?"
 
 # game/UpdateScript0.03.rpy:884 #-#-# translate crowdin diazvisit_9686b8ae:
 msgid "[_R_] Here, just take your money and get out of here."
-msgstr ""
+msgstr "[_R_] Hier nehmen Sie einfach Ihr Geld und steigen aus hier."
 
 # game/UpdateScript0.03.rpy:885 #-#-# translate crowdin diazvisit_413e9889_1:
 msgid "{i}\"Money -$500\"{/i}"
@@ -798,15 +798,15 @@ msgstr "{i}\"Geld - 500 $\"{/i}"
 
 # game/UpdateScript0.03.rpy:889 #-#-# translate crowdin diazvisit_0d5e051e:
 msgid "[_AD_] Now don't be like that..."
-msgstr ""
+msgstr "[_AD_] Jetzt nicht so sein..."
 
 # game/UpdateScript0.03.rpy:890 #-#-# translate crowdin diazvisit_53c3cb2f:
 msgid "[_AD_] I'm going to be a big part of your family's lives here in the near future. So, let's try to keep things civil."
-msgstr ""
+msgstr "[_AD_] Ich werde ein großer Teil des Lebens deiner Familie hier in naher Zukunft sein. Lass uns versuchen die Dinge zu bewahren."
 
 # game/UpdateScript0.03.rpy:893 #-#-# translate crowdin diazvisit_b65e53d7:
 msgid "[_AD_] For now, let me just say, that I hope you enjoy your week."
-msgstr ""
+msgstr "[_AD_] fürs Erste lassen Sie mich nur sagen, dass ich Ihnen viel Spaß mit Ihrer Woche habe."
 
 # game/UpdateScript0.03.rpy:894 #-#-# translate crowdin diazvisit_c6841c25_4:
 msgid "[_R_] ..."
@@ -818,91 +818,91 @@ msgstr "[_AD_] Naja?"
 
 # game/UpdateScript0.03.rpy:896 #-#-# translate crowdin diazvisit_2d86e40e:
 msgid "[_R_] {i}(muttering){/i} I hope you enjoy your week too."
-msgstr ""
+msgstr "[_R_] {i}(Muttern){/i} Ich hoffe, dass dir auch deine Woche gefällt."
 
 # game/UpdateScript0.03.rpy:897 #-#-# translate crowdin diazvisit_97afc874:
 msgid "[_AD_] Well, thank you! I'll see you next Thursday, bright and early!"
-msgstr ""
+msgstr "[_AD_] Nun, danke! Ich werde dich nächsten Donnerstag hell und früh sehen!"
 
 # game/UpdateScript0.03.rpy:901 #-#-# translate crowdin diazvisit_784e2e16:
 msgid "[_RT_] {i}Oh, I hate that woman!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Oh, ich hasse diese Frau!{/i}"
 
 # game/UpdateScript0.03.rpy:902 #-#-# translate crowdin diazvisit_deb88fea:
 msgid "[_L_] {i}(Shouting){/i} [ryan]! Was that who I think it was?"
-msgstr ""
+msgstr "[_L_] {i}(Shouting){/i} [ryan]! War das, was ich glaube, war?"
 
 # game/UpdateScript0.03.rpy:903 #-#-# translate crowdin diazvisit_1913bb5b:
 msgid "[_R_] Yeah! But she's gone now!"
-msgstr ""
+msgstr "[_R_] Ja! Aber sie ist jetzt verschwunden!"
 
 # game/UpdateScript0.03.rpy:904 #-#-# translate crowdin diazvisit_8dcff1a8:
 msgid "[_L_] You mean you paid her!?"
-msgstr ""
+msgstr "[_L_] Du meinst du hast sie bezahlt!"
 
 # game/UpdateScript0.03.rpy:905 #-#-# translate crowdin diazvisit_7f274ffe:
 msgid "[_R_] I did!"
-msgstr ""
+msgstr "[_R_] Ich habe es getan!"
 
 # game/UpdateScript0.03.rpy:906 #-#-# translate crowdin diazvisit_f98d176e_1:
 msgid "[_L_] Will you please come to my room?"
-msgstr ""
+msgstr "[_L_] Kommst du bitte in mein Zimmer?"
 
 # game/UpdateScript0.03.rpy:909 #-#-# translate crowdin diazvisit_a5c2e44d_1:
 msgid "[_R_] What is it?"
-msgstr ""
+msgstr "[_R_] Was ist das?"
 
 # game/UpdateScript0.03.rpy:910 #-#-# translate crowdin diazvisit_8b6322c9_1:
 msgid "[_L_] Please sit down on my bed."
-msgstr ""
+msgstr "[_L_] Bitte setzen Sie sich auf mein Bett."
 
 # game/UpdateScript0.03.rpy:914 #-#-# translate crowdin diazvisit_04846c04:
 msgid "[_R_] Uuuuugghhh.... I don't have enough money this week."
-msgstr ""
+msgstr "[_R_] Uuuugghhh.... Ich habe diese Woche nicht genug Geld."
 
 # game/UpdateScript0.03.rpy:915 #-#-# translate crowdin diazvisit_1eac8f11:
 msgid "[_AD_] You've got to learn to manage your money better!"
-msgstr ""
+msgstr "[_AD_] Du musst lernen, dein Geld besser zu verwalten!"
 
 # game/UpdateScript0.03.rpy:916 #-#-# translate crowdin diazvisit_90bbe867:
 msgid "[_AD_] Lucky for you, your little sister can cover your ass, by using hers."
-msgstr ""
+msgstr "[_AD_] Glück, deine kleine Schwester kann deinen Arsch bedecken, indem du sie benutzt."
 
 # game/UpdateScript0.03.rpy:917 #-#-# translate crowdin diazvisit_a1198ce0:
 msgid "[_R_] You bitch!"
-msgstr ""
+msgstr "[_R_] Du Hündin!"
 
 # game/UpdateScript0.03.rpy:919 #-#-# translate crowdin diazvisit_2b0c2172:
 msgid "[_R_] I need my money for other things this week."
-msgstr ""
+msgstr "[_R_] Ich brauche mein Geld für andere Dinge diese Woche."
 
 # game/UpdateScript0.03.rpy:920 #-#-# translate crowdin diazvisit_db828e46:
 msgid "[_R_] I'm just going to have to let Lauren take one for the team."
-msgstr ""
+msgstr "[_R_] Ich muss Lauren nur eine für das Team nehmen lassen."
 
 # game/UpdateScript0.03.rpy:921 #-#-# translate crowdin diazvisit_c74a7699:
 msgid "[_AD_] Haha, I like that attitude!"
-msgstr ""
+msgstr "[_AD_] Haha, ich mag diese Haltung!"
 
 # game/UpdateScript0.03.rpy:922 #-#-# translate crowdin diazvisit_892a2fdd:
 msgid "[_AD_] Why put your ass on the line, when you can use hers."
-msgstr ""
+msgstr "[_AD_] Warum legen Sie Ihren Arsch auf die Linie, wenn Sie sie verwenden können."
 
 # game/UpdateScript0.03.rpy:923 #-#-# translate crowdin diazvisit_a1198ce0_1:
 msgid "[_R_] You bitch!"
-msgstr ""
+msgstr "[_R_] Du Hündin!"
 
 # game/UpdateScript0.03.rpy:926 #-#-# translate crowdin diazvisit_0d5e051e_1:
 msgid "[_AD_] Now don't be like that..."
-msgstr ""
+msgstr "[_AD_] Jetzt nicht so sein..."
 
 # game/UpdateScript0.03.rpy:927 #-#-# translate crowdin diazvisit_53c3cb2f_1:
 msgid "[_AD_] I'm going to be a big part of your family's lives here in the near future. So, let's try to keep things civil."
-msgstr ""
+msgstr "[_AD_] Ich werde ein großer Teil des Lebens deiner Familie hier in naher Zukunft sein. Lass uns versuchen die Dinge zu bewahren."
 
 # game/UpdateScript0.03.rpy:930 #-#-# translate crowdin diazvisit_b65e53d7_1:
 msgid "[_AD_] For now, let me just say, that I hope you enjoy your week."
-msgstr ""
+msgstr "[_AD_] fürs Erste lassen Sie mich nur sagen, dass ich Ihnen viel Spaß mit Ihrer Woche habe."
 
 # game/UpdateScript0.03.rpy:931 #-#-# translate crowdin diazvisit_c6841c25_5:
 msgid "[_R_] ..."
@@ -914,23 +914,23 @@ msgstr "[_AD_] Naja?"
 
 # game/UpdateScript0.03.rpy:933 #-#-# translate crowdin diazvisit_2d86e40e_1:
 msgid "[_R_] {i}(muttering){/i} I hope you enjoy your week too."
-msgstr ""
+msgstr "[_R_] {i}(Muttern){/i} Ich hoffe, dass dir auch deine Woche gefällt."
 
 # game/UpdateScript0.03.rpy:934 #-#-# translate crowdin diazvisit_1562c754:
 msgid "[_AD_] Thank you, and now if you'll move aside, I'll just help myself to your little sister's room."
-msgstr ""
+msgstr "[_AD_] Vielen Dank, und wenn du jetzt abwesend bist, werde ich mich einfach in das Zimmer deiner kleinen Schwester begeben."
 
 # game/UpdateScript0.03.rpy:937 #-#-# translate crowdin diazvisit_bd73707d:
 msgid "[_L_] I thought I smelled brimstone."
-msgstr ""
+msgstr "[_L_] Ich dachte, ich rief Brimstein."
 
 # game/UpdateScript0.03.rpy:938 #-#-# translate crowdin diazvisit_d8348de3:
 msgid "[_AD_] Hahah.... you cheeky little minx."
-msgstr ""
+msgstr "[_AD_] Hahah.... du freche kleine Minute."
 
 # game/UpdateScript0.03.rpy:939 #-#-# translate crowdin diazvisit_e5f967ac:
 msgid "[_AD_] I'll just make myself comfortable, shall I?"
-msgstr ""
+msgstr "[_AD_] Ich werde mich einfach gemütlich machen, oder?"
 
 # game/UpdateScript0.03.rpy:949 #-#-# translate crowdin firstloyaltyweekend_ebe51551:
 msgid "[_RT_] {i}10:00? I slept in, I must have been tired.{/i}"
@@ -1454,7 +1454,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1186 #-#-# translate crowdin commissionsecondoutfit_56b422f2:
 msgid "[_S_] Ok..."
-msgstr ""
+msgstr "[_S_] Ok..."
 
 # game/UpdateScript0.03.rpy:1187 #-#-# translate crowdin commissionsecondoutfit_8b37b799:
 msgid "[_S_] Oh, and you'll still be able to pay Mom's Mafia debt this week?"
@@ -1638,7 +1638,7 @@ msgstr "[_R_] Also, Sidney?"
 
 # game/UpdateScript0.03.rpy:1276 #-#-# translate crowdin secondcosplayfitting_f3f04389:
 msgid "[_S_] Yeah?"
-msgstr ""
+msgstr "[_S_] Ja?"
 
 # game/UpdateScript0.03.rpy:1277 #-#-# translate crowdin secondcosplayfitting_e56c6f41:
 msgid "[_R_] How easy is it to make adjustments to this outfit?"
@@ -1934,95 +1934,95 @@ msgstr "[_M_] Na gut. Warum gehst du nicht und machst dich für den Pool fertig,
 
 # game/UpdateScript0.03.rpy:1408 #-#-# translate crowdin diaz_and_lauren_0f057a83:
 msgid "[_L_] And now what do you want from your toy?"
-msgstr ""
+msgstr "[_L_] Und was willst du jetzt von deinem Spielzeug?"
 
 # game/UpdateScript0.03.rpy:1410 #-#-# translate crowdin diaz_and_lauren_95c4b99f:
 msgid "[_L_] And now what do you want from me?"
-msgstr ""
+msgstr "[_L_] Und was willst du jetzt von mir?"
 
 # game/UpdateScript0.03.rpy:1411 #-#-# translate crowdin diaz_and_lauren_564ea099:
 msgid "[_AD_] I just love me a girl in a school uniform, but I think you should sexy yours up just a bit."
-msgstr ""
+msgstr "[_AD_] Ich liebe mich einfach ein Mädchen in einer Schuluniform, aber ich denke, du solltest dir nur ein wenig ein wenig sexy machen."
 
 # game/UpdateScript0.03.rpy:1412 #-#-# translate crowdin diaz_and_lauren_975bbb36:
 msgid "[_L_] .... Fine!..."
-msgstr ""
+msgstr "[_L_] .... gut!..."
 
 # game/UpdateScript0.03.rpy:1413 #-#-# translate crowdin diaz_and_lauren_97dd1ac3:
 msgid "[_L_] But I'm not getting naked in front of you. I'm going to go change in the bathroom."
-msgstr ""
+msgstr "[_L_] Aber ich werde nicht nackt vor dir. Ich werde im Badezimmer wechseln."
 
 # game/UpdateScript0.03.rpy:1414 #-#-# translate crowdin diaz_and_lauren_6e20b891:
 msgid "[_AD_] That's fine.... suit yourself."
-msgstr ""
+msgstr "[_AD_] Das ist in Ordnung.... passt zu Ihnen."
 
 # game/UpdateScript0.03.rpy:1417 #-#-# translate crowdin diaz_and_lauren_29515934:
 msgid "[_LT_] {i}I can't believe I've got a legitimate creeper in my room.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Ich kann nicht glauben, dass ich einen legitimen Creeper in meinem Zimmer habe.{/i}"
 
 # game/UpdateScript0.03.rpy:1418 #-#-# translate crowdin diaz_and_lauren_bacd6814:
 msgid "[_LT_] {i}At least it's not some nasty old man like Mom has to deal with at the club.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Wenigstens ist es nicht ein übler alter Mann wie die Mutter muss sich im Club mit ihr beschäftigen.{/i}"
 
 # game/UpdateScript0.03.rpy:1419 #-#-# translate crowdin diaz_and_lauren_cb9e72e0:
 msgid "[_LT_] {i}I can't believe Mom hid that from me.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Ich kann Mom nicht glauben, dass vor mir versteckt wird.{/i}"
 
 # game/UpdateScript0.03.rpy:1420 #-#-# translate crowdin diaz_and_lauren_fab5d714:
 msgid "[_LT_] {i}And that [ryan] knew, and didn't tell me.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Und das [ryan] wusste und sagte mir nicht.{/i}"
 
 # game/UpdateScript0.03.rpy:1421 #-#-# translate crowdin diaz_and_lauren_195581ec:
 msgid "[_LT_] {i}He's just watching out for Mom, that's actually pretty sweet.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Er ist gerade auf Mama aufmerksam, das ist eigentlich ziemlich süß.{/i}"
 
 # game/UpdateScript0.03.rpy:1422 #-#-# translate crowdin diaz_and_lauren_08aeedd5:
 msgid "[_LT_] {i}I wish he'd been able to get me out of this though.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Ich wünschte, er hätte mich aber aus diesem Punkt herausgeholt.{/i}"
 
 # game/UpdateScript0.03.rpy:1423 #-#-# translate crowdin diaz_and_lauren_bbc87f40:
 msgid "[_LT_] {i}Diaz is even pretty hot.... I wonder what drove her to like other women.... {/i}"
-msgstr ""
+msgstr "[_LT_] {i}Diaz ist sogar ziemlich heiß... Ich frage mich, was sie dazu gebracht hat, andere Frauen zu mögen .... {/i}"
 
 # game/UpdateScript0.03.rpy:1424 #-#-# translate crowdin diaz_and_lauren_03aea652:
 msgid "[_LT_] {i}Probably some kind of traumatic experience like this one.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Wahrscheinlich eine Art traumatisches Erlebnis wie diese.{/i}"
 
 # game/UpdateScript0.03.rpy:1426 #-#-# translate crowdin diaz_and_lauren_a4e90ef0:
 msgid "[_LT_] {i}Am I going to start liking other women?{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Werde ich anfangen andere Frauen zu lieben?{/i}"
 
 # game/UpdateScript0.03.rpy:1427 #-#-# translate crowdin diaz_and_lauren_13804788:
 msgid "[_LT_] {i}I do think Diaz is pretty sexy!{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Ich glaube, Diaz ist ziemlich sexy!{/i}"
 
 # game/UpdateScript0.03.rpy:1428 #-#-# translate crowdin diaz_and_lauren_5a87628d:
 msgid "[_LT_] {i}And Kenzie and I have experimented a little.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Und Kenzie und ich haben ein wenig experimentiert.{/i}"
 
 # game/UpdateScript0.03.rpy:1429 #-#-# translate crowdin diaz_and_lauren_2733d9fa:
 msgid "[_LT_] {i}But seeing [ryan]'s cock made me feel some pretty confusing feelings too.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Aber der Schwanz von [ryan]ließ mich ein paar verwirrende Gefühle zu spüren.{/i}"
 
 # game/UpdateScript0.03.rpy:1430 #-#-# translate crowdin diaz_and_lauren_4c2f1e60:
 msgid "[_LT_] {i}Shit.... I'm getting pretty screwed up.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Shit.... Ich werde ziemlich verschraubt. {/i}"
 
 # game/UpdateScript0.03.rpy:1434 #-#-# translate crowdin diaz_and_lauren_70e847a8:
 msgid "[_L_] Well, Is this sexy enough for you?"
-msgstr ""
+msgstr "[_L_] Nun, ist das sexy genug für dich?"
 
 # game/UpdateScript0.03.rpy:1435 #-#-# translate crowdin diaz_and_lauren_2e11533d:
 msgid "[_AD_] .... Just.... wow!..."
-msgstr ""
+msgstr "[_AD_] .... Just.... wow!..."
 
 # game/UpdateScript0.03.rpy:1438 #-#-# translate crowdin diaz_and_lauren_46a5da4a:
 msgid "[_RT_] {i}I've got to see this!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ich muss das sehen!{/i}"
 
 # game/UpdateScript0.03.rpy:1439 #-#-# translate crowdin diaz_and_lauren_e9bfaf80:
 msgid "[_RT_] {i}Not just for my own enjoyment, but to make sure Agent Diaz doesn't take things too far.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nicht nur zu meinem eigenen Vergnügen, sondern um sicherzustellen, dass Agent Diaz nicht zu weit geht. {/i}"
 
 # game/UpdateScript0.03.rpy:1443 #-#-# translate crowdin diaz_and_lauren_ea21b17e:
 msgid "[_RT_] {i}Luckily Sidney will be out jogging this morning. I have no idea how I'd explain this to her.{/i}"
@@ -2030,51 +2030,51 @@ msgstr "[_RT_] {i}Glücklicherweise wird Sidney heute Morgen joggen. Ich habe ke
 
 # game/UpdateScript0.03.rpy:1445 #-#-# translate crowdin diaz_and_lauren_0c29a03f:
 msgid "[_RT_] {i}Luckily Sidney can sleep through a train driving through the house, cuz I don't know how I'd explain this to her.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Glücklicherweise kann Sidney durch einen Zug schlafen, der durch das Haus fährt. Cuz Ich weiß nicht, wie ich ihr dies erklären würde.{/i}"
 
 # game/UpdateScript0.03.rpy:1448 #-#-# translate crowdin diaz_and_lauren_5ce904ae:
 msgid "[_RT_] {i}Oh, wow! I wish she'd wear her uniform like that to school.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Oh, wow! Ich wünsche, dass sie ihre Uniform wie die Schule trägt.{/i}"
 
 # game/UpdateScript0.03.rpy:1449 #-#-# translate crowdin diaz_and_lauren_f78df67d:
 msgid "[_RT_] {i}Hmmmmm.... I wonder if Mom could ever be convinced to allow that dress code in her class.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Hmmmmm.... Ich frage mich, ob Mama jemals überzeugt werden könnte, diesen Kleidercode in ihrer Klasse zuzulassen.{/i}"
 
 # game/UpdateScript0.03.rpy:1450 #-#-# translate crowdin diaz_and_lauren_ccf0294d:
 msgid "[_RT_] {i}I know school board member Will Tylor would gladly agree to that kind of dress code.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ich kenne das Vorstandsmitglied der Schule will Tylor dieser Art von Kleidungscode gerne zustimmen.{/i}"
 
 # game/UpdateScript0.03.rpy:1453 #-#-# translate crowdin diaz_and_lauren_3db1fe88:
 msgid "[_AD_] If we're going to count this favor against your debt, you have to at least pretend that you're enjoying this."
-msgstr ""
+msgstr "[_AD_] Wenn wir diese Gunst für Ihre Schulden zählen wollen, müssen Sie zumindest so tun, als würden Sie das genießen."
 
 # game/UpdateScript0.03.rpy:1454 #-#-# translate crowdin diaz_and_lauren_0c74489d:
 msgid "[_AD_] Why don't you start out with some sexy dancing. I'll turn on some music on my phone for you."
-msgstr ""
+msgstr "[_AD_] Warum fängst du nicht mit einem sexy Tanz an. Ich werde etwas Musik auf meinem Telefon für dich einschalten."
 
 # game/UpdateScript0.03.rpy:1456 #-#-# translate crowdin diaz_and_lauren_0fb487f2:
 msgid "[_AD_] All right Lauren, let's see you move that body!"
-msgstr ""
+msgstr "[_AD_] Rechts Lauren, lass uns sehen, dass du diesen Körper bewegst!"
 
 # game/UpdateScript0.03.rpy:1457 #-#-# translate crowdin diaz_and_lauren_ebf09af2:
 msgid "[_AD_] Lauren..."
-msgstr ""
+msgstr "[_AD_] Lauren..."
 
 # game/UpdateScript0.03.rpy:1458 #-#-# translate crowdin diaz_and_lauren_31a80777:
 msgid "[_L_] Fine!"
-msgstr ""
+msgstr "[_L_] gut!"
 
 # game/UpdateScript0.03.rpy:1461 #-#-# translate crowdin diaz_and_lauren_906c60ce:
 msgid "[_AD_] That's right!"
-msgstr ""
+msgstr "[_AD_] Das ist richtig!"
 
 # game/UpdateScript0.03.rpy:1462 #-#-# translate crowdin diaz_and_lauren_88ddc845:
 msgid "[_AD_] Yeah.... move those hips..."
-msgstr ""
+msgstr "[_AD_] Ja.... bewegen Sie die Hüfte..."
 
 # game/UpdateScript0.03.rpy:1463 #-#-# translate crowdin diaz_and_lauren_7172c8a1:
 msgid "[_LT_] {i}This is kind of like dancing for my old boyfriend, I'll try to just go there mentally.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Das ist eine Art Tanz für meinen alten Freund, ich versuche einfach geistig dorthin zu gehen.{/i}"
 
 # game/UpdateScript0.03.rpy:1464 #-#-# translate crowdin diaz_and_lauren_0a81a5f1:
 msgid "[_LT_] {i}Shit, I hate him almost as much as Agent Diaz though.{/i}"
@@ -2082,23 +2082,23 @@ msgstr "[_LT_] {i}Scheiße, ich hasse ihn jedoch fast so sehr wie Agent Diaz. {/
 
 # game/UpdateScript0.03.rpy:1465 #-#-# translate crowdin diaz_and_lauren_eb1995a7:
 msgid "[_AD_] Let's see you shake that booty!"
-msgstr ""
+msgstr "[_AD_] Lass uns sehen, wie du diese Beute schüttelst!"
 
 # game/UpdateScript0.03.rpy:1469 #-#-# translate crowdin diaz_and_lauren_dc293136:
 msgid "[_AD_] Yeah, wow Lauren.... what an ass you've got!"
-msgstr ""
+msgstr "[_AD_] Ja, wow Lauren.... was für ein Arsch du bekommst!"
 
 # game/UpdateScript0.03.rpy:1470 #-#-# translate crowdin diaz_and_lauren_b304ca52:
 msgid "[_L_] Please don't objectify me like that. You're making me really uncomfortable."
-msgstr ""
+msgstr "[_L_] Bitte objektiviere mich nicht so. Du machst mich wirklich unangenehm."
 
 # game/UpdateScript0.03.rpy:1471 #-#-# translate crowdin diaz_and_lauren_bd0e5c69:
 msgid "[_AD_] What do you think you are?"
-msgstr ""
+msgstr "[_AD_] Was denkst du?"
 
 # game/UpdateScript0.03.rpy:1472 #-#-# translate crowdin diaz_and_lauren_3e190ae9:
 msgid "[_AD_] You \"are\" just an object for my enjoyment."
-msgstr ""
+msgstr "[_AD_] Du bist nur ein Objekt für meine Freude."
 
 # game/UpdateScript0.03.rpy:1477 #-#-# translate crowdin diaz_and_lauren_374606b5:
 msgid "[_AD_] I came in here and just took you like that, without having to hardly try."
@@ -2106,79 +2106,79 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1478 #-#-# translate crowdin diaz_and_lauren_302a670c:
 msgid "[_AD_] You put on a sexy outfit for me just because I asked."
-msgstr ""
+msgstr "[_AD_] Du hast ein sexy Outfit für mich gestellt, nur weil ich gefragt habe."
 
 # game/UpdateScript0.03.rpy:1479 #-#-# translate crowdin diaz_and_lauren_d4a322ce:
 msgid "[_L_] No.... because you're blackmailing us."
-msgstr ""
+msgstr "[_L_] Nein.... weil du uns erpresst."
 
 # game/UpdateScript0.03.rpy:1480 #-#-# translate crowdin diaz_and_lauren_a5f703b1:
 msgid "[_AD_] That's right! My leverage over you makes you and your brother mine."
-msgstr ""
+msgstr "[_AD_] Das ist richtig! Mein Hebel über dich macht dich und deinen Bruder."
 
 # game/UpdateScript0.03.rpy:1481 #-#-# translate crowdin diaz_and_lauren_d9d50ebd:
 msgid "[_AD_] Now come climb over my knee, so I can show you that you're mine."
-msgstr ""
+msgstr "[_AD_] Jetzt klettere über mein Knie, so dass ich dir zeigen kann, dass du meinen bist."
 
 # game/UpdateScript0.03.rpy:1482 #-#-# translate crowdin diaz_and_lauren_ae316ad3:
 msgid "[_L_] No!"
-msgstr ""
+msgstr "[_L_] Nein!"
 
 # game/UpdateScript0.03.rpy:1483 #-#-# translate crowdin diaz_and_lauren_ae8d17a2:
 msgid "[_AD_] Do it, or I arrest you and [ryan] for hiding your income from the IRS, and tell your mom all about your sexy picture shoots."
-msgstr ""
+msgstr "[_AD_] Tun Sie es, oder ich verhafte Sie und [ryan] für das Verstecken Ihrer Einnahmen vor dem IRS, und erzählen Sie Ihrer Mama alles über Ihre sexy Foto-Shoots."
 
 # game/UpdateScript0.03.rpy:1484 #-#-# translate crowdin diaz_and_lauren_31a80777_1:
 msgid "[_L_] Fine!"
-msgstr ""
+msgstr "[_L_] gut!"
 
 # game/UpdateScript0.03.rpy:1487 #-#-# translate crowdin diaz_and_lauren_e323603c:
 msgid "[_AD_] There, now that's a much more obedient girl!"
-msgstr ""
+msgstr "[_AD_] da, jetzt ist das ein viel gehorsameres Mädchen!"
 
 # game/UpdateScript0.03.rpy:1488 #-#-# translate crowdin diaz_and_lauren_84a51c72:
 msgid "[_AD_] Now let's uncover that beautiful little ass of yours."
-msgstr ""
+msgstr "[_AD_] Lass uns jetzt den schönen kleinen Arsch von dir entdecken."
 
 # game/UpdateScript0.03.rpy:1491 #-#-# translate crowdin diaz_and_lauren_c4d8043a:
 msgid "[_AD_] Yes, that's very fine!"
-msgstr ""
+msgstr "[_AD_] Ja, das ist sehr gut!"
 
 # game/UpdateScript0.03.rpy:1492 #-#-# translate crowdin diaz_and_lauren_7a7c8f01:
 msgid "[_AD_] And now it's time to teach you what you are."
-msgstr ""
+msgstr "[_AD_] Und jetzt ist es an der Zeit, dir zu lehren, was du bist."
 
 # game/UpdateScript0.03.rpy:1495 #-#-# translate crowdin diaz_and_lauren_f39e067a:
 msgid "[_AD_] Tell me that \"you\" are my toy."
-msgstr ""
+msgstr "[_AD_] Sag mir, dass \"du\" mein Spielzeug ist."
 
 # game/UpdateScript0.03.rpy:1496 #-#-# translate crowdin diaz_and_lauren_09db23e9:
 msgid "[_L_] What the hell?.... I'm not saying that!"
-msgstr ""
+msgstr "[_L_] Was zur Hölle?.... Ich sage das nicht!"
 
 # game/UpdateScript0.03.rpy:1503 #-#-# translate crowdin diaz_and_lauren_4069a046:
 msgid "[_L_] Ouch! You bitch!"
-msgstr ""
+msgstr "[_L_] Ausch! Du Hünde!"
 
 # game/UpdateScript0.03.rpy:1504 #-#-# translate crowdin diaz_and_lauren_6a591ee0:
 msgid "[_AD_] Say it!"
-msgstr ""
+msgstr "[_AD_] Sag es!"
 
 # game/UpdateScript0.03.rpy:1505 #-#-# translate crowdin diaz_and_lauren_ae316ad3_1:
 msgid "[_L_] No!"
-msgstr ""
+msgstr "[_L_] Nein!"
 
 # game/UpdateScript0.03.rpy:1512 #-#-# translate crowdin diaz_and_lauren_476b32ff:
 msgid "[_AD_] I'm just going to keep spanking you until you admit that you're my toy."
-msgstr ""
+msgstr "[_AD_] Ich werde dich nur so lange spalten, bis du zugegeben hast, dass du mein Spielzeug bist."
 
 # game/UpdateScript0.03.rpy:1513 #-#-# translate crowdin diaz_and_lauren_a30b1d0b:
 msgid "[_AD_] So, say it."
-msgstr ""
+msgstr "[_AD_] Also, sagen Sie es."
 
 # game/UpdateScript0.03.rpy:1514 #-#-# translate crowdin diaz_and_lauren_4e843881:
 msgid "[_L_] Never!"
-msgstr ""
+msgstr "[_L_] Nein!"
 
 # game/UpdateScript0.03.rpy:1521 #-#-# translate crowdin diaz_and_lauren_4ac15ba2:
 msgid "[_RT_] {i}Oh my God! She's spanking Lauren!{/i}"
@@ -2186,63 +2186,63 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1525 #-#-# translate crowdin diaz_and_lauren_937147bc:
 msgid "[_RT_] {i}Why do I find that so hot?.... {/i}"
-msgstr ""
+msgstr "[_RT_] {i}Warum finde ich das so heiß?.... {/i}"
 
 # game/UpdateScript0.03.rpy:1526 #-#-# translate crowdin diaz_and_lauren_0fe8dd12:
 msgid "[_RT_] {i}I've got the biggest boner right now!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ich habe gerade den größten Bonier!{/i}"
 
 # game/UpdateScript0.03.rpy:1528 #-#-# translate crowdin diaz_and_lauren_ce040eee:
 msgid "[_RT_] {i}I hope that slapping doesn't wake up Sidney.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ich hoffe, dass Sidney nicht weckt.{/i}"
 
 # game/UpdateScript0.03.rpy:1531 #-#-# translate crowdin diaz_and_lauren_005117f0:
 msgid "[_AD_] Well, are you going to say it?"
-msgstr ""
+msgstr "[_AD_] Nun, werden Sie es sagen?"
 
 # game/UpdateScript0.03.rpy:1532 #-#-# translate crowdin diaz_and_lauren_382984e7:
 msgid "[_L_] Yes! I'll say it.... I'm.... your.... toy..."
-msgstr ""
+msgstr "[_L_] Ja! Ich sage es .... Ich.... Dein.... Spielzeug..."
 
 # game/UpdateScript0.03.rpy:1539 #-#-# translate crowdin diaz_and_lauren_685a509d:
 msgid "[_L_] Ouch!.... I said it!.... Why did you spank me again?"
-msgstr ""
+msgstr "[_L_] Ausch!.... Ich habe es gesagt!.... Warum hast du mich wieder gesprengt?"
 
 # game/UpdateScript0.03.rpy:1540 #-#-# translate crowdin diaz_and_lauren_db5b2433:
 msgid "[_AD_] Say it louder like you mean it!"
-msgstr ""
+msgstr "[_AD_] Sagen Sie es lauter, wie Sie es meinen!"
 
 # game/UpdateScript0.03.rpy:1541 #-#-# translate crowdin diaz_and_lauren_83062da7:
 msgid "[_L_] I'm your toy!!.... I'm your fucking toy!!..."
-msgstr ""
+msgstr "[_L_] Ich bin dein Spielzeug!!.... Ich bin dein fucking Spielzeug!!..."
 
 # game/UpdateScript0.03.rpy:1542 #-#-# translate crowdin diaz_and_lauren_ee7506b1:
 msgid "[_AD_] That's right, and here's a few more to seal that in your thick skull."
-msgstr ""
+msgstr "[_AD_] Das ist richtig, und hier sind ein paar mehr, um das in deinem dicken Schädel zu versiegeln."
 
 # game/UpdateScript0.03.rpy:1556 #-#-# translate crowdin diaz_and_lauren_df3cc7b9:
 msgid "[_AD_] There now remember what you are on my next visit!"
-msgstr ""
+msgstr "[_AD_] Ich erinnere mich jetzt daran, was du auf meinem nächsten Besuch bist!"
 
 # game/UpdateScript0.03.rpy:1557 #-#-# translate crowdin diaz_and_lauren_a6e76ee1:
 msgid "[_L_] Yes, Agent Diaz, your toy will remember."
-msgstr ""
+msgstr "[_L_] Ja, Agent Diaz, dein Spielzeug wird sich erinnern."
 
 # game/UpdateScript0.03.rpy:1558 #-#-# translate crowdin diaz_and_lauren_906c60ce_1:
 msgid "[_AD_] That's right!"
-msgstr ""
+msgstr "[_AD_] Das ist richtig!"
 
 # game/UpdateScript0.03.rpy:1559 #-#-# translate crowdin diaz_and_lauren_697e6994:
 msgid "[_AD_] Maybe I'll see you next week. We'll see how your brother does."
-msgstr ""
+msgstr "[_AD_] Vielleicht werde ich dich nächste Woche sehen. Wir werden sehen, wie dein Bruder macht."
 
 # game/UpdateScript0.03.rpy:1565 #-#-# translate crowdin diaz_and_lauren_15a42fa6:
 msgid "[_AD_] Well, I hope you enjoyed the show."
-msgstr ""
+msgstr "[_AD_] Nun, ich hoffe, dass dir die Show gefallen hat."
 
 # game/UpdateScript0.03.rpy:1566 #-#-# translate crowdin diaz_and_lauren_b2e492dd:
 msgid "[_R_] .... I.... how did?..."
-msgstr ""
+msgstr "[_R_] .... Ich.... wie geschah das?..."
 
 # game/UpdateScript0.03.rpy:1567 #-#-# translate crowdin diaz_and_lauren_5b0fae7a:
 msgid "[_AD_] Remember! I already know you're recording your family."
@@ -2250,19 +2250,19 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1568 #-#-# translate crowdin diaz_and_lauren_c043cbe4:
 msgid "[_AD_] I can only assume you were watching that too."
-msgstr ""
+msgstr "[_AD_] Ich kann nur annehmen, dass du das auch beobachtest."
 
 # game/UpdateScript0.03.rpy:1569 #-#-# translate crowdin diaz_and_lauren_f65e6d78:
 msgid "[_AD_] And just to give you a little incentive, if your relationship with your sister gets a little more advanced,"
-msgstr ""
+msgstr "[_AD_] und nur um dir einen kleinen Anreiz zu geben, wenn deine Beziehung zu deiner Schwester ein wenig weiter entwickelt wird,"
 
 # game/UpdateScript0.03.rpy:1570 #-#-# translate crowdin diaz_and_lauren_75d6c08b:
 msgid "[_AD_] I just might start to include you in these little games of ours."
-msgstr ""
+msgstr "[_AD_] Ich könnte einfach anfangen, dich in unsere kleinen Spiele einzubinden."
 
 # game/UpdateScript0.03.rpy:1571 #-#-# translate crowdin diaz_and_lauren_532e1b73:
 msgid "[_R_] Whaa.... what are you implying.... the very idea.... goodbye!"
-msgstr ""
+msgstr "[_R_] Whaa.... was willst du sagen.... die Idee!"
 
 # game/UpdateScript0.03.rpy:1575 #-#-# translate crowdin diaz_and_lauren_a583aa71:
 msgid "[_RT_] {i}Holy shit! I'm going to cum right here in my pants! The thought of Lauren and myself with Diaz!.... Shit, that's hot!{/i}"
@@ -2270,63 +2270,63 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1576 #-#-# translate crowdin diaz_and_lauren_2d5a20bc:
 msgid "[_RT_] {i}Shit!.... I'd better go check on Lauren.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Shit!.... Ich sollte lieber Lauren prüfen.{/i}"
 
 # game/UpdateScript0.03.rpy:1581 #-#-# translate crowdin diaz_and_lauren_d06ce517:
 msgid "[_LT_] {i}Damn my ass is really sore.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Verdammte mein Arsch ist wirklich wahr. {/i}"
 
 # game/UpdateScript0.03.rpy:1582 #-#-# translate crowdin diaz_and_lauren_f40b3287:
 msgid "[_LT_] {i}I can't believe that bitch made me call myself her toy.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Ich kann nicht glauben, dass mich die Hündin als ihr Spielzeug bezeichnet hat.{/i}"
 
 # game/UpdateScript0.03.rpy:1583 #-#-# translate crowdin diaz_and_lauren_fe72c889:
 msgid "[_LT_] {i}How did she get that kind of power over me?{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Wie hat sie diese Art von Macht über mich bekommen?{/i}"
 
 # game/UpdateScript0.03.rpy:1584 #-#-# translate crowdin diaz_and_lauren_cc10ded1:
 msgid "[_LT_] {i}I couldn't do anything to stop her from doing that to me.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Ich konnte nichts tun, um sie daran zu hindern, mir das zu tun.{/i}"
 
 # game/UpdateScript0.03.rpy:1585 #-#-# translate crowdin diaz_and_lauren_4b0901c2:
 msgid "[_LT_] {i}Like I really was her toy.... {/i}"
-msgstr ""
+msgstr "[_LT_] {i}Ich war wirklich ihr Spielzeug.... {/i}"
 
 # game/UpdateScript0.03.rpy:1586 #-#-# translate crowdin diaz_and_lauren_ba4ea9c8:
 msgid "[_LT_] {i}Fuck!.... {/i}"
-msgstr ""
+msgstr "[_LT_] {i}Fuck!.... {/i}"
 
 # game/UpdateScript0.03.rpy:1589 #-#-# translate crowdin diaz_and_lauren_7ee53747:
 msgid "[_R_] Lauren?.... Are you ok?..."
-msgstr ""
+msgstr "[_R_] Lauren?.... Sind Sie in Ordnung?..."
 
 # game/UpdateScript0.03.rpy:1590 #-#-# translate crowdin diaz_and_lauren_4c11d5bc:
 msgid "[_L_] I don't know.... what do you think?..."
-msgstr ""
+msgstr "[_L_] Ich weiß nicht .... was meinst du?..."
 
 # game/UpdateScript0.03.rpy:1591 #-#-# translate crowdin diaz_and_lauren_0ec34f5c:
 msgid "[_L_] She made me call myself her toy..."
-msgstr ""
+msgstr "[_L_] Sie hat mich zu ihrem Spielzeug gerufen..."
 
 # game/UpdateScript0.03.rpy:1592 #-#-# translate crowdin diaz_and_lauren_cc9fb271:
 msgid "[_L_] She wouldn't stop spanking me until I did..."
-msgstr ""
+msgstr "[_L_] Sie würde nicht aufhören, mich zu spalten, bis ich es getan habe..."
 
 # game/UpdateScript0.03.rpy:1593 #-#-# translate crowdin diaz_and_lauren_3e00feca:
 msgid "[_R_] You just said it to make it stop!"
-msgstr ""
+msgstr "[_R_] Du hast gerade gesagt, dass es aufhört!"
 
 # game/UpdateScript0.03.rpy:1594 #-#-# translate crowdin diaz_and_lauren_cef88364:
 msgid "[_R_] That doesn't mean you're really her toy!"
-msgstr ""
+msgstr "[_R_] Das bedeutet nicht, du bist wirklich ihr Spielzeug!"
 
 # game/UpdateScript0.03.rpy:1597 #-#-# translate crowdin diaz_and_lauren_d61d2c44:
 msgid "[_L_] Please, [ryan]! Do everything you can to make sure we can pay her next week!"
-msgstr ""
+msgstr "[_L_] Bitte, [ryan]! Tun Sie alles, um sicherzustellen, dass wir ihr nächste Woche zahlen können!"
 
 # game/UpdateScript0.03.rpy:1598 #-#-# translate crowdin diaz_and_lauren_82c76d74:
 msgid "[_L_] I don't want to do anything for that bitch ever again."
-msgstr ""
+msgstr "[_L_] Ich möchte für diese Hündin nie wieder etwas tun."
 
 # game/UpdateScript0.03.rpy:1599 #-#-# translate crowdin diaz_and_lauren_5e392b39:
 msgid "[_R_] Yeah.... well, it's not all on me.... I've got two ransoms to pay now, don't I?"
@@ -2334,19 +2334,19 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1600 #-#-# translate crowdin diaz_and_lauren_4c5c8593:
 msgid "[_R_] The best thing we can do is make sure the Cosplay business takes off."
-msgstr ""
+msgstr "[_R_] Das Beste, was wir tun können, ist, das Cosplay-Geschäft zu starten."
 
 # game/UpdateScript0.03.rpy:1601 #-#-# translate crowdin diaz_and_lauren_29bf7301:
 msgid "[_R_] Are you willing to do your part to make that happen?"
-msgstr ""
+msgstr "[_R_] Bist du bereit, deinen Teil dazu beizutragen, dass das passiert?"
 
 # game/UpdateScript0.03.rpy:1602 #-#-# translate crowdin diaz_and_lauren_e452ed50:
 msgid "[_L_] Yes! Please!.... I'll take more clothes off during picture shoots. Anything so I don't have to do that again!"
-msgstr ""
+msgstr "[_L_] Ja! Bitte!.... Ich nehme mehr Kleidung beim Fotoshooting. Alles so muss ich das nicht mehr tun!"
 
 # game/UpdateScript0.03.rpy:1603 #-#-# translate crowdin diaz_and_lauren_96d5b12b:
 msgid "[_R_] Well, let's try to make some money then."
-msgstr ""
+msgstr "[_R_] Nun, lassen Sie uns versuchen, etwas Geld zu verdienen."
 
 # game/UpdateScript0.03.rpy:1604 #-#-# translate crowdin diaz_and_lauren_17758133:
 msgid "[_L_] Thank you!!"
@@ -2358,127 +2358,127 @@ msgstr "{i}{b}\"Laurens Unterwerfung + 1\" {/b} {/i}"
 
 # game/UpdateScript0.03.rpy:1607 #-#-# translate crowdin diaz_and_lauren_d63f0ce0:
 msgid "[_R_] We'd better get ready for school. We're going to be late."
-msgstr ""
+msgstr "[_R_] Wir sollten uns besser auf die Schule vorbereiten. Wir werden spät sein."
 
 # game/UpdateScript0.03.rpy:1622 #-#-# translate crowdin diaz_and_lauren_dc293136_1:
 msgid "[_AD_] Yeah, wow Lauren.... what an ass you've got!"
-msgstr ""
+msgstr "[_AD_] Ja, wow Lauren.... was für ein Arsch du bekommst!"
 
 # game/UpdateScript0.03.rpy:1623 #-#-# translate crowdin diaz_and_lauren_b10659f4:
 msgid "[_AD_] Does my toy like shaking it for me?"
-msgstr ""
+msgstr "[_AD_] Gefällt mir mein Spielzeug gerne?"
 
 # game/UpdateScript0.03.rpy:1624 #-#-# translate crowdin diaz_and_lauren_63032211:
 msgid "[_L_] Yes, your toy loves shaking her ass for you."
-msgstr ""
+msgstr "[_L_] Ja, dein Spielzeug liebt es, den Arsch für dich zu schütteln."
 
 # game/UpdateScript0.03.rpy:1625 #-#-# translate crowdin diaz_and_lauren_79ee4d13:
 msgid "[_AD_] And you're one sexy toy!"
-msgstr ""
+msgstr "[_AD_] Und du bist ein sexy Spielzeug!"
 
 # game/UpdateScript0.03.rpy:1629 #-#-# translate crowdin diaz_and_lauren_7fd557f4:
 msgid "[_L_] You stopped the music!"
-msgstr ""
+msgstr "[_L_] Du hast die Musik gestoppt!"
 
 # game/UpdateScript0.03.rpy:1630 #-#-# translate crowdin diaz_and_lauren_44fe2eca:
 msgid "[_L_] Does that mean you want your toy to do something else?"
-msgstr ""
+msgstr "[_L_] Soll dein Spielzeug etwas anderes machen?"
 
 # game/UpdateScript0.03.rpy:1631 #-#-# translate crowdin diaz_and_lauren_e981fe61:
 msgid "[_AD_] Your teacher called me."
-msgstr ""
+msgstr "[_AD_] Dein Lehrer rief mich an."
 
 # game/UpdateScript0.03.rpy:1632 #-#-# translate crowdin diaz_and_lauren_825d10ef:
 msgid "[_AD_] She said you've been so naughty that she can't handle you."
-msgstr ""
+msgstr "[_AD_] Sie sagte, du warst so unartig, dass sie dich nicht behandeln kann."
 
 # game/UpdateScript0.03.rpy:1633 #-#-# translate crowdin diaz_and_lauren_a4033489:
 msgid "[_AD_] She needed a real disciplinarian to take care of you!"
-msgstr ""
+msgstr "[_AD_] Sie brauchte einen echten Disziplin, um dich zu kümmern!"
 
 # game/UpdateScript0.03.rpy:1634 #-#-# translate crowdin diaz_and_lauren_003eabea:
 msgid "[_AD_] Is my toy a naughty girl?"
-msgstr ""
+msgstr "[_AD_] Ist mein Spielzeug ein versautes Mädchen?"
 
 # game/UpdateScript0.03.rpy:1635 #-#-# translate crowdin diaz_and_lauren_6328f73b:
 msgid "[_L_] Yes, Agent Diaz!"
-msgstr ""
+msgstr "[_L_] Ja, Agent Diaz!"
 
 # game/UpdateScript0.03.rpy:1636 #-#-# translate crowdin diaz_and_lauren_5f3c14b3:
 msgid "[_L_] I'm a very naughty girl."
-msgstr ""
+msgstr "[_L_] Ich bin ein sehr unartiges Mädchen."
 
 # game/UpdateScript0.03.rpy:1637 #-#-# translate crowdin diaz_and_lauren_8b6156c1:
 msgid "[_AD_] You'd better get your ass over my knee again then!"
-msgstr ""
+msgstr "[_AD_] Du solltest deinen Arsch dann wieder über das Knie bringen!"
 
 # game/UpdateScript0.03.rpy:1640 #-#-# translate crowdin diaz_and_lauren_1e843051:
 msgid "[_L_] What? But I called myself your toy!"
-msgstr ""
+msgstr "[_L_] Was? Aber ich nannte mich dein Spielzeug!"
 
 # game/UpdateScript0.03.rpy:1641 #-#-# translate crowdin diaz_and_lauren_829c4d93:
 msgid "[_L_] Why are you punishing me again?"
-msgstr ""
+msgstr "[_L_] Warum bestrafst du mich nochmal?"
 
 # game/UpdateScript0.03.rpy:1642 #-#-# translate crowdin diaz_and_lauren_da3bd527:
 msgid "[_AD_] If you were my toy, you wouldn't argue."
-msgstr ""
+msgstr "[_AD_] Wenn du mein Spielzeug bist, würdest du nicht argumentieren."
 
 # game/UpdateScript0.03.rpy:1643 #-#-# translate crowdin diaz_and_lauren_f550dd53:
 msgid "[_AD_] Now get your ass over my knees!"
-msgstr ""
+msgstr "[_AD_] Jetzt den Arsch über meine Knie!"
 
 # game/UpdateScript0.03.rpy:1644 #-#-# translate crowdin diaz_and_lauren_531a6d41:
 msgid "[_L_] Yes, Agent Diaz."
-msgstr ""
+msgstr "[_L_] Ja, Agent Diaz."
 
 # game/UpdateScript0.03.rpy:1647 #-#-# translate crowdin diaz_and_lauren_e323603c_1:
 msgid "[_AD_] There, now that's a much more obedient girl!"
-msgstr ""
+msgstr "[_AD_] da, jetzt ist das ein viel gehorsameres Mädchen!"
 
 # game/UpdateScript0.03.rpy:1648 #-#-# translate crowdin diaz_and_lauren_84a51c72_1:
 msgid "[_AD_] Now let's uncover that beautiful little ass of yours."
-msgstr ""
+msgstr "[_AD_] Lass uns jetzt den schönen kleinen Arsch von dir entdecken."
 
 # game/UpdateScript0.03.rpy:1651 #-#-# translate crowdin diaz_and_lauren_c4d8043a_1:
 msgid "[_AD_] Yes, that's very fine!"
-msgstr ""
+msgstr "[_AD_] Ja, das ist sehr gut!"
 
 # game/UpdateScript0.03.rpy:1652 #-#-# translate crowdin diaz_and_lauren_eb6c3d46:
 msgid "[_AD_] And now it's time to remind you what you are."
-msgstr ""
+msgstr "[_AD_] Und jetzt ist es an der Zeit, dich daran zu erinnern, was du bist."
 
 # game/UpdateScript0.03.rpy:1655 #-#-# translate crowdin diaz_and_lauren_f39e067a_1:
 msgid "[_AD_] Tell me that \"you\" are my toy."
-msgstr ""
+msgstr "[_AD_] Sag mir, dass \"du\" mein Spielzeug ist."
 
 # game/UpdateScript0.03.rpy:1662 #-#-# translate crowdin diaz_and_lauren_4069a046_1:
 msgid "[_L_] Ouch! You bitch!"
-msgstr ""
+msgstr "[_L_] Ausch! Du Hünde!"
 
 # game/UpdateScript0.03.rpy:1663 #-#-# translate crowdin diaz_and_lauren_6a591ee0_1:
 msgid "[_AD_] Say it!"
-msgstr ""
+msgstr "[_AD_] Sag es!"
 
 # game/UpdateScript0.03.rpy:1664 #-#-# translate crowdin diaz_and_lauren_6b472d47:
 msgid "[_L_] I'm your toy!"
-msgstr ""
+msgstr "[_L_] Ich bin dein Spielzeug!"
 
 # game/UpdateScript0.03.rpy:1671 #-#-# translate crowdin diaz_and_lauren_685a509d_1:
 msgid "[_L_] Ouch!.... I said it!.... Why did you spank me again?"
-msgstr ""
+msgstr "[_L_] Ausch!.... Ich habe es gesagt!.... Warum hast du mich wieder gesprengt?"
 
 # game/UpdateScript0.03.rpy:1672 #-#-# translate crowdin diaz_and_lauren_db5b2433_1:
 msgid "[_AD_] Say it louder like you mean it!"
-msgstr ""
+msgstr "[_AD_] Sagen Sie es lauter, wie Sie es meinen!"
 
 # game/UpdateScript0.03.rpy:1673 #-#-# translate crowdin diaz_and_lauren_83062da7_1:
 msgid "[_L_] I'm your toy!!.... I'm your fucking toy!!..."
-msgstr ""
+msgstr "[_L_] Ich bin dein Spielzeug!!.... Ich bin dein fucking Spielzeug!!..."
 
 # game/UpdateScript0.03.rpy:1674 #-#-# translate crowdin diaz_and_lauren_937f6880:
 msgid "[_AD_] That's right, and here's a few more to solidify that in your thick skull."
-msgstr ""
+msgstr "[_AD_] Das ist richtig, und hier sind ein paar mehr, um das in deinem dicken Schädel zu festigen."
 
 # game/UpdateScript0.03.rpy:1688 #-#-# translate crowdin diaz_and_lauren_f9ee413b:
 msgid "[_AD_] There, now remember what you are on my next visit!"
@@ -2486,43 +2486,43 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1689 #-#-# translate crowdin diaz_and_lauren_a6e76ee1_1:
 msgid "[_L_] Yes, Agent Diaz, your toy will remember."
-msgstr ""
+msgstr "[_L_] Ja, Agent Diaz, dein Spielzeug wird sich erinnern."
 
 # game/UpdateScript0.03.rpy:1690 #-#-# translate crowdin diaz_and_lauren_906c60ce_2:
 msgid "[_AD_] That's right!"
-msgstr ""
+msgstr "[_AD_] Das ist richtig!"
 
 # game/UpdateScript0.03.rpy:1691 #-#-# translate crowdin diaz_and_lauren_88aba877:
 msgid "[_AD_] Maybe I'll see you again next week. We'll see how your brother does."
-msgstr ""
+msgstr "[_AD_] Vielleicht werde ich dich nächste Woche wieder sehen. Wir werden sehen, wie dein Bruder macht."
 
 # game/UpdateScript0.03.rpy:1697 #-#-# translate crowdin diaz_and_lauren_7dd1adc5:
 msgid "[_AD_] Well, I hope you enjoyed the show again."
-msgstr ""
+msgstr "[_AD_] Nun, ich hoffe, dass dir die Show wieder gefallen hat."
 
 # game/UpdateScript0.03.rpy:1698 #-#-# translate crowdin diaz_and_lauren_f8304ffb:
 msgid "[_R_] Yeah.... it's actually pretty hot."
-msgstr ""
+msgstr "[_R_] Ja. Es ist eigentlich ziemlich heiß."
 
 # game/UpdateScript0.03.rpy:1699 #-#-# translate crowdin diaz_and_lauren_89ad44e3:
 msgid "[_AD_] And just to remind you. If your relationship with your sister gets a little more advanced,"
-msgstr ""
+msgstr "[_AD_] und nur um dich daran zu erinnern. Wenn deine Beziehung zu deiner Schwester ein wenig weiter entwickelt wird,"
 
 # game/UpdateScript0.03.rpy:1700 #-#-# translate crowdin diaz_and_lauren_75d6c08b_1:
 msgid "[_AD_] I just might start to include you in these little games of ours."
-msgstr ""
+msgstr "[_AD_] Ich könnte einfach anfangen, dich in unsere kleinen Spiele einzubinden."
 
 # game/UpdateScript0.03.rpy:1701 #-#-# translate crowdin diaz_and_lauren_84761987:
 msgid "[_R_] I'll see what I can do!"
-msgstr ""
+msgstr "[_R_] Ich werde sehen, was ich tun kann!"
 
 # game/UpdateScript0.03.rpy:1702 #-#-# translate crowdin diaz_and_lauren_6ec8b828:
 msgid "[_AD_] Hahah.... you're my toy now too!..."
-msgstr ""
+msgstr "[_AD_] Hahah.... Du bist jetzt auch mein Spielzeug!..."
 
 # game/UpdateScript0.03.rpy:1703 #-#-# translate crowdin diaz_and_lauren_d5bbc346:
 msgid "[_AD_] I'll see you next week."
-msgstr ""
+msgstr "[_AD_] Ich sehe dich nächste Woche."
 
 # game/UpdateScript0.03.rpy:1707 #-#-# translate crowdin diaz_and_lauren_a583aa71_1:
 msgid "[_RT_] {i}Holy shit! I'm going to cum right here in my pants! The thought of Lauren and myself with Diaz!.... Shit, that's hot!{/i}"
@@ -2530,47 +2530,47 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1708 #-#-# translate crowdin diaz_and_lauren_2d5a20bc_1:
 msgid "[_RT_] {i}Shit!.... I'd better go check on Lauren.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Shit!.... Ich sollte lieber Lauren prüfen.{/i}"
 
 # game/UpdateScript0.03.rpy:1713 #-#-# translate crowdin diaz_and_lauren_d06ce517_1:
 msgid "[_LT_] {i}Damn my ass is really sore.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Verdammte mein Arsch ist wirklich wahr. {/i}"
 
 # game/UpdateScript0.03.rpy:1714 #-#-# translate crowdin diaz_and_lauren_68bd88e9:
 msgid "[_LT_] {i}It wasn't nearly as bad this time though.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Es war diesmal aber nicht annähernd so schlecht.{/i}"
 
 # game/UpdateScript0.03.rpy:1715 #-#-# translate crowdin diaz_and_lauren_52b2a33c:
 msgid "[_LT_] {i}Was it because I knew what to expect?{/i}"
-msgstr ""
+msgstr "[_LT_] {i}War es, weil ich wusste, was ich erwartete? {/i}"
 
 # game/UpdateScript0.03.rpy:1716 #-#-# translate crowdin diaz_and_lauren_d7bc41a5:
 msgid "[_LT_] {i}I felt so dirty to willingly call myself her toy.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Ich fühlte mich so schmutzig als ihr Spielzeug bezeichnet.{/i}"
 
 # game/UpdateScript0.03.rpy:1717 #-#-# translate crowdin diaz_and_lauren_ff754753:
 msgid "[_LT_] {i}My job is just to bring her pleasure.... {/i}"
-msgstr ""
+msgstr "[_LT_] {i}Mein Job ist nur, um ihr Vergnügen zu bringen.... {/i}"
 
 # game/UpdateScript0.03.rpy:1718 #-#-# translate crowdin diaz_and_lauren_9d6eda52:
 msgid "[_LT_] {i}Fuck!.... Get out of my head.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Fuck!.... Gehe aus meinem Kopf.{/i}"
 
 # game/UpdateScript0.03.rpy:1721 #-#-# translate crowdin diaz_and_lauren_7ee53747_1:
 msgid "[_R_] Lauren?.... Are you ok?..."
-msgstr ""
+msgstr "[_R_] Lauren?.... Sind Sie in Ordnung?..."
 
 # game/UpdateScript0.03.rpy:1722 #-#-# translate crowdin diaz_and_lauren_1541e707:
 msgid "[_L_] I don't know.... It wasn't nearly as bad this time..."
-msgstr ""
+msgstr "[_L_] Ich weiß nicht .... Diesmal war es nicht fast so schlecht..."
 
 # game/UpdateScript0.03.rpy:1723 #-#-# translate crowdin diaz_and_lauren_9d241814:
 msgid "[_L_] I called myself her toy.... and she still spanked me."
-msgstr ""
+msgstr "[_L_] Ich habe mich selbst als ihr Spielzeug bezeichnet.... und sie hat mich immer noch gespannt."
 
 # game/UpdateScript0.03.rpy:1724 #-#-# translate crowdin diaz_and_lauren_c8e2ae38:
 msgid "[_R_] Did it hurt really bad?"
-msgstr ""
+msgstr "[_R_] Hat es wirklich Schaden angerichtet?"
 
 # game/UpdateScript0.03.rpy:1725 #-#-# translate crowdin diaz_and_lauren_0fce2766:
 msgid "[_L_] Not as bad.... but in a strange way.... it felt kind of good..."
@@ -2578,31 +2578,31 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1728 #-#-# translate crowdin diaz_and_lauren_d61d2c44_1:
 msgid "[_L_] Please, [ryan]! Do everything you can to make sure we can pay her next week!"
-msgstr ""
+msgstr "[_L_] Bitte, [ryan]! Tun Sie alles, um sicherzustellen, dass wir ihr nächste Woche zahlen können!"
 
 # game/UpdateScript0.03.rpy:1729 #-#-# translate crowdin diaz_and_lauren_89a1624d:
 msgid "[_L_] I'm worried about what this is doing to me psychologically."
-msgstr ""
+msgstr "[_L_] Ich mache mir Sorgen über das, was das psychologisch tut."
 
 # game/UpdateScript0.03.rpy:1730 #-#-# translate crowdin diaz_and_lauren_adb5f058:
 msgid "[_R_] You know I'm doing my best to cover for you and Mom!"
-msgstr ""
+msgstr "[_R_] Du weißt, ich tue mein Bestes für dich und Mama!"
 
 # game/UpdateScript0.03.rpy:1731 #-#-# translate crowdin diaz_and_lauren_4c5c8593_1:
 msgid "[_R_] The best thing we can do is make sure the Cosplay business takes off."
-msgstr ""
+msgstr "[_R_] Das Beste, was wir tun können, ist, das Cosplay-Geschäft zu starten."
 
 # game/UpdateScript0.03.rpy:1732 #-#-# translate crowdin diaz_and_lauren_29bf7301_1:
 msgid "[_R_] Are you willing to do your part to make that happen?"
-msgstr ""
+msgstr "[_R_] Bist du bereit, deinen Teil dazu beizutragen, dass das passiert?"
 
 # game/UpdateScript0.03.rpy:1733 #-#-# translate crowdin diaz_and_lauren_e452ed50_1:
 msgid "[_L_] Yes! Please!.... I'll take more clothes off during picture shoots. Anything so I don't have to do that again!"
-msgstr ""
+msgstr "[_L_] Ja! Bitte!.... Ich nehme mehr Kleidung beim Fotoshooting. Alles so muss ich das nicht mehr tun!"
 
 # game/UpdateScript0.03.rpy:1734 #-#-# translate crowdin diaz_and_lauren_96d5b12b_1:
 msgid "[_R_] Well, let's try to make some money then."
-msgstr ""
+msgstr "[_R_] Nun, lassen Sie uns versuchen, etwas Geld zu verdienen."
 
 # game/UpdateScript0.03.rpy:1735 #-#-# translate crowdin diaz_and_lauren_17758133_1:
 msgid "[_L_] Thank you!!"
@@ -2614,15 +2614,15 @@ msgstr "{i}{b}\"Laurens Unterwerfung + 1\" {/b} {/i}"
 
 # game/UpdateScript0.03.rpy:1738 #-#-# translate crowdin diaz_and_lauren_d63f0ce0_1:
 msgid "[_R_] We'd better get ready for school. We're going to be late."
-msgstr ""
+msgstr "[_R_] Wir sollten uns besser auf die Schule vorbereiten. Wir werden spät sein."
 
 # game/UpdateScript0.03.rpy:1749 #-#-# translate crowdin ryan_and_lauren_3c77415b:
 msgid "[_L_] I know we need to get ready for school, but I really wanted to thank you for protecting me from Agent Diaz."
-msgstr ""
+msgstr "[_L_] Ich weiß, dass wir uns auf die Schule vorbereiten müssen, aber ich wollte dir wirklich dafür danken, dass du mich vor Agent Diaz schützst."
 
 # game/UpdateScript0.03.rpy:1750 #-#-# translate crowdin ryan_and_lauren_fe9908d0:
 msgid "[_R_] That's what big brothers are for, Lauren."
-msgstr ""
+msgstr "[_R_] Das sind die großen Brüder, Lauren."
 
 # game/UpdateScript0.03.rpy:1751 #-#-# translate crowdin ryan_and_lauren_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
@@ -2630,27 +2630,27 @@ msgstr "{i}{b}\"Laurens Zuneigung + 1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:1753 #-#-# translate crowdin ryan_and_lauren_821cedf8:
 msgid "[_L_] Well, lately you've been much more to me than a big brother."
-msgstr ""
+msgstr "[_L_] Nun, in letzter Zeit bist du viel mehr zu mir als ein großer Bruder."
 
 # game/UpdateScript0.03.rpy:1755 #-#-# translate crowdin ryan_and_lauren_3647cc79:
 msgid "[_R_] How do you mean?"
-msgstr ""
+msgstr "[_R_] Wie meinen Sie?"
 
 # game/UpdateScript0.03.rpy:1756 #-#-# translate crowdin ryan_and_lauren_c236991b:
 msgid "[_L_] I don't know, it's like you've changed since Dad went to prison. You've stepped up, but you've also been treating me differently."
-msgstr ""
+msgstr "[_L_] Ich weiß nicht, es ist so, als hättest du dich gewechselt, seit Papst ins Gefängnis gegangen ist. Du hast dich erhöht, aber du hast mich auch anders behandelt."
 
 # game/UpdateScript0.03.rpy:1757 #-#-# translate crowdin ryan_and_lauren_79de3dda:
 msgid "[_L_] I don't know what changed you.... but I like it."
-msgstr ""
+msgstr "[_L_] Ich weiß nicht, was dich verändert hat.... aber ich mag es."
 
 # game/UpdateScript0.03.rpy:1758 #-#-# translate crowdin ryan_and_lauren_5059f34e:
 msgid "[_RT_] {i}I'm pretty sure jacking off to Mom while she was stripping changed me more than Dad going to prison.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ich bin ziemlich sicher, dass das Abziehen zu Mama während sie entfesselt wurde, mich mehr verändert hat als der Papier, der ins Gefängnis geht.{/i}"
 
 # game/UpdateScript0.03.rpy:1759 #-#-# translate crowdin ryan_and_lauren_548c9123:
 msgid "[_RT_] {i}In hindsight, I probably shouldn't have done that.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Im Nachhinein hätte ich das wahrscheinlich nicht tun sollen.{/i}"
 
 # game/UpdateScript0.03.rpy:1760 #-#-# translate crowdin ryan_and_lauren_137c3d57:
 msgid "[_L_] I've noticed you staring at my ass a lot lately, but you act like a professional during our photoshoots,"
@@ -2658,43 +2658,43 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1761 #-#-# translate crowdin ryan_and_lauren_bd1efd1e:
 msgid "[_L_] But I can't help but notice you're always pitching a tent once I start taking off my clothes."
-msgstr ""
+msgstr "[_L_] Aber ich kann nicht umhin festzustellen, dass du immer ein Zelt baust, sobald ich meine Kleidung abziehe."
 
 # game/UpdateScript0.03.rpy:1762 #-#-# translate crowdin ryan_and_lauren_8247adf8:
 msgid "[_R_] Just because I'm your brother doesn't mean I won't get turned on looking at your tits and ass."
-msgstr ""
+msgstr "[_R_] Nur weil ich dein Bruder bin bedeutet nicht, dass ich nicht auf deine Titten und den Arsch schauen werde."
 
 # game/UpdateScript0.03.rpy:1763 #-#-# translate crowdin ryan_and_lauren_a30e330a:
 msgid "[_R_] I've tried to tactfully conceal my hard-on."
-msgstr ""
+msgstr "[_R_] Ich habe versucht mich taktvoll zu verschleiern."
 
 # game/UpdateScript0.03.rpy:1764 #-#-# translate crowdin ryan_and_lauren_4bcaa833:
 msgid "[_LT_] {i}Yeah right, like you could do anything to hide that monster.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Ja, wie du alles tun könntest, um dieses Monster zu verstecken.{/i}"
 
 # game/UpdateScript0.03.rpy:1765 #-#-# translate crowdin ryan_and_lauren_cc3e9685:
 msgid "[_L_] Well, no judgements, and anyways, this gives me an idea of how I can return the favor."
-msgstr ""
+msgstr "[_L_] Nun, keine Urteile, und trotzdem gibt mir dies eine Vorstellung davon, wie ich die Gunst zurückgeben kann."
 
 # game/UpdateScript0.03.rpy:1766 #-#-# translate crowdin ryan_and_lauren_dcf1e81e:
 msgid "[_L_] Just sit there, close your eyes, and don't say anything."
-msgstr ""
+msgstr "[_L_] sitzt einfach dort, schließt die Augen, und sagt nichts."
 
 # game/UpdateScript0.03.rpy:1767 #-#-# translate crowdin ryan_and_lauren_dfe61d0a:
 msgid "[_R_] Ok..."
-msgstr ""
+msgstr "[_R_] Ok..."
 
 # game/UpdateScript0.03.rpy:1773 #-#-# translate crowdin ryan_and_lauren_bad53b13:
 msgid "[_R_] Holy shit Lauren, do you want me to leave?..."
-msgstr ""
+msgstr "[_R_] Heiliger Scheiß Lauren, willst du dass ich verlassen?..."
 
 # game/UpdateScript0.03.rpy:1774 #-#-# translate crowdin ryan_and_lauren_a671293e:
 msgid "[_L_] What?.... No.... you're not supposed to say anything yet.... and you're supposed to keep your eyes closed!..."
-msgstr ""
+msgstr "[_L_] Was?.... Nein... Du solltest noch nichts sagen.... und du solltest deine Augen verschlossen!..."
 
 # game/UpdateScript0.03.rpy:1775 #-#-# translate crowdin ryan_and_lauren_caac91b0:
 msgid "[_R_] {i}(whispering){/i} sorry..."
-msgstr ""
+msgstr "[_R_] {i}(flüstern){/i} sorry..."
 
 # game/UpdateScript0.03.rpy:1781 #-#-# translate crowdin ryan_and_lauren_a9d8f990:
 msgid "[_RT_] {i}Oh my.... how am I supposed to keep my eyes shut for this.... {/i}"
@@ -2702,51 +2702,51 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1782 #-#-# translate crowdin ryan_and_lauren_8331f458:
 msgid "[_L_] Ok, I'm serious, keep your eyes closed."
-msgstr ""
+msgstr "[_L_] Ok, ich bin ernst, halte deine Augen geschlossen."
 
 # game/UpdateScript0.03.rpy:1786 #-#-# translate crowdin ryan_and_lauren_f2b151bf:
 msgid "[_L_] Ok, you can open your eyes now."
-msgstr ""
+msgstr "[_L_] Ok, du kannst jetzt deine Augen öffnen."
 
 # game/UpdateScript0.03.rpy:1789 #-#-# translate crowdin ryan_and_lauren_edaef99e:
 msgid "[_R_] Holy fuck, Lauren!.... Are you going to school like that?"
-msgstr ""
+msgstr "[_R_] Heiliger Fick, Lauren!.... Bist du so zur Schule?"
 
 # game/UpdateScript0.03.rpy:1790 #-#-# translate crowdin ryan_and_lauren_3c8bef17:
 msgid "[_L_] No, you idiot!"
-msgstr ""
+msgstr "[_L_] Nein, du idiot!"
 
 # game/UpdateScript0.03.rpy:1791 #-#-# translate crowdin ryan_and_lauren_208a2eb5:
 msgid "[_L_] This is for you."
-msgstr ""
+msgstr "[_L_] Das ist für dich."
 
 # game/UpdateScript0.03.rpy:1792 #-#-# translate crowdin ryan_and_lauren_0bcaef2c:
 msgid "[_R_] What?!!"
-msgstr ""
+msgstr "[_R_] Was?!!"
 
 # game/UpdateScript0.03.rpy:1793 #-#-# translate crowdin ryan_and_lauren_28e107b3:
 msgid "[_L_] Oh, God.... please tell me I didn't mis-read the situation?"
-msgstr ""
+msgstr "[_L_] Oh, Gott.... Bitte sag mir, dass ich die Situation nicht falsch gelesen habe?"
 
 # game/UpdateScript0.03.rpy:1794 #-#-# translate crowdin ryan_and_lauren_5dd4c64a:
 msgid "[_L_] I thought you might enjoy a little eye candy before school."
-msgstr ""
+msgstr "[_L_] Ich dachte, du würdest etwas Süßigkeiten vor der Schule geniessen."
 
 # game/UpdateScript0.03.rpy:1795 #-#-# translate crowdin ryan_and_lauren_6a423368:
 msgid "[_L_] Give you something to think about all day."
-msgstr ""
+msgstr "[_L_] Gib dir etwas zum Nachdenken über den ganzen Tag."
 
 # game/UpdateScript0.03.rpy:1796 #-#-# translate crowdin ryan_and_lauren_a38fae56:
 msgid "[_R_] Wow, Lauren! You look incredible!"
-msgstr ""
+msgstr "[_R_] Wow, Lauren! Du siehst unglaublich aus!"
 
 # game/UpdateScript0.03.rpy:1797 #-#-# translate crowdin ryan_and_lauren_e9c5aa55:
 msgid "[_L_] Now that's the reaction I was hoping for."
-msgstr ""
+msgstr "[_L_] Das ist die Reaktion, auf die ich gehofft habe."
 
 # game/UpdateScript0.03.rpy:1798 #-#-# translate crowdin ryan_and_lauren_51802272:
 msgid "[_L_] Now let me just turn on some music."
-msgstr ""
+msgstr "[_L_] Lassen Sie mich jetzt nur Musik einschalten."
 
 # game/UpdateScript0.03.rpy:1802 #-#-# translate crowdin ryan_and_lauren_01cf0930:
 msgid "[_R_] Wow! I've seen a lot of your body on the photo shoots,"
@@ -2754,59 +2754,59 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1803 #-#-# translate crowdin ryan_and_lauren_a86b6321:
 msgid "[_R_] But I've never seen you move like this before."
-msgstr ""
+msgstr "[_R_] Aber ich habe noch nie gesehen, dass du dich so bewegst."
 
 # game/UpdateScript0.03.rpy:1804 #-#-# translate crowdin ryan_and_lauren_646bcdca:
 msgid "[_LT_] {i}Oh, the look on his face!.... I think he's really enjoying this!{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Oh, der Blick auf sein Gesicht!.... Ich denke, er genießt das wirklich!{/i}"
 
 # game/UpdateScript0.03.rpy:1805 #-#-# translate crowdin ryan_and_lauren_bfb69e24:
 msgid "[_L_] If you like that, I think you'll really like this."
-msgstr ""
+msgstr "[_L_] Wenn dir das gefällt, denke ich, dass dir das wirklich gefällt."
 
 # game/UpdateScript0.03.rpy:1808 #-#-# translate crowdin ryan_and_lauren_a6241ddc:
 msgid "[_R_] Oh fuck, Lauren.... your ass is beautiful!"
-msgstr ""
+msgstr "[_R_] Oh fick, Lauren.... dein Arsch ist schön!"
 
 # game/UpdateScript0.03.rpy:1809 #-#-# translate crowdin ryan_and_lauren_38bde658:
 msgid "[_L_] Heheh.... I was always pretty sure you liked it."
-msgstr ""
+msgstr "[_L_] Heheh.... Ich war mir immer ziemlich sicher, dass dir das gefallen hat."
 
 # game/UpdateScript0.03.rpy:1813 #-#-# translate crowdin ryan_and_lauren_ce49ee01:
 msgid "[_L_] So, Mr. [ryan]."
-msgstr ""
+msgstr "[_L_] Also, Herr [ryan]."
 
 # game/UpdateScript0.03.rpy:1814 #-#-# translate crowdin ryan_and_lauren_0f2786ba:
 msgid "[_R_] Huh?.... Why did you stop the dancing?"
-msgstr ""
+msgstr "[_R_] Huh?.... Warum hast du den Tanz gestoppt?"
 
 # game/UpdateScript0.03.rpy:1815 #-#-# translate crowdin ryan_and_lauren_7adf46d2:
 msgid "[_L_] I know I'm getting an \"F\" in Anatomy, so I was hoping there was something I could do to bring up my grade."
-msgstr ""
+msgstr "[_L_] Ich weiß, ich bekomme einen \"F\" in Anatomie, so dass ich hoffte, ich könnte etwas tun, um meine Note."
 
 # game/UpdateScript0.03.rpy:1816 #-#-# translate crowdin ryan_and_lauren_49fbc840:
 msgid "[_RT_] {i}Oh, nice! Lauren wants to do some role-play.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Oh, nett! Lauren möchte etwas Rollenspiel machen.{/i}"
 
 # game/UpdateScript0.03.rpy:1817 #-#-# translate crowdin ryan_and_lauren_f24beb43:
 msgid "[_RT_] {i}Maybe it's easier for her if she pretends I'm not her brother?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Vielleicht ist es für sie einfacher, wenn sie vorgibt, ich bin nicht ihr Bruder?{/i}"
 
 # game/UpdateScript0.03.rpy:1818 #-#-# translate crowdin ryan_and_lauren_2ef08669:
 msgid "[_R_] I don't know, young lady. You've skipped my class almost every day to make out with the head cheerleader, Megan."
-msgstr ""
+msgstr "[_R_] Ich weiß es nicht, junge Frau. Du hast meine Klasse fast jeden Tag übersprungen, um mit dem Cheerleader Megan herauszukommen."
 
 # game/UpdateScript0.03.rpy:1819 #-#-# translate crowdin ryan_and_lauren_9b97ff62:
 msgid "[_L_] Megan!?.... Really?"
-msgstr ""
+msgstr "[_L_] Megan!?.... Wirklich?"
 
 # game/UpdateScript0.03.rpy:1820 #-#-# translate crowdin ryan_and_lauren_085a1081:
 msgid "[_R_] Shhhh.... don't break out of character, it ruins the illusion."
-msgstr ""
+msgstr "[_R_] Schhhh.... brechen Sie nicht aus dem Charakter aus, es ruiniert die Illusion."
 
 # game/UpdateScript0.03.rpy:1821 #-#-# translate crowdin ryan_and_lauren_e43fa46b:
 msgid "[_LT_] {i}You asshole!{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Du asshole!{/i}"
 
 # game/UpdateScript0.03.rpy:1822 #-#-# translate crowdin ryan_and_lauren_81b4ba91:
 msgid "[_R_] I can hardly allow you to pass on to the next grade after displaying that incredibly lewd, but sexy behavior."
@@ -2814,19 +2814,19 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1825 #-#-# translate crowdin ryan_and_lauren_24d19202:
 msgid "[_L_] There must be something I can do to change your mind."
-msgstr ""
+msgstr "[_L_] Es muss etwas geben, was ich tun kann, um deine Meinung zu ändern."
 
 # game/UpdateScript0.03.rpy:1826 #-#-# translate crowdin ryan_and_lauren_2d861881:
 msgid "[_R_] Nope! There's nothing I can think of that would keep me from failing you."
-msgstr ""
+msgstr "[_R_] Nein! Es gibt nichts, was ich mir vorstellen könnte, würde mich davon abhalten, dich zu versagen."
 
 # game/UpdateScript0.03.rpy:1827 #-#-# translate crowdin ryan_and_lauren_d440d646:
 msgid "[_L_] What if I show you..."
-msgstr ""
+msgstr "[_L_] Was, wenn ich dir zeige..."
 
 # game/UpdateScript0.03.rpy:1830 #-#-# translate crowdin ryan_and_lauren_41270812:
 msgid "[_L_] These!..."
-msgstr ""
+msgstr "[_L_] These!..."
 
 # game/UpdateScript0.03.rpy:1831 #-#-# translate crowdin ryan_and_lauren_c6841c25:
 msgid "[_R_] ..."
@@ -2834,111 +2834,111 @@ msgstr "[_R_] ..."
 
 # game/UpdateScript0.03.rpy:1832 #-#-# translate crowdin ryan_and_lauren_4b7ef1d4:
 msgid "[_R_] I.... I.... I..."
-msgstr ""
+msgstr "[_R_] Ich.... Ich.... Ich..."
 
 # game/UpdateScript0.03.rpy:1833 #-#-# translate crowdin ryan_and_lauren_2ba5b772:
 msgid "[_L_] Hahaha.... what's under your pants is saying everything."
-msgstr ""
+msgstr "[_L_] Hahahaha.... Was unter deinen Hosen steht, sagt alles."
 
 # game/UpdateScript0.03.rpy:1834 #-#-# translate crowdin ryan_and_lauren_4003919a:
 msgid "[_R_] Oh my God, Lauren.... I love those perky little titties!"
-msgstr ""
+msgstr "[_R_] Oh mein Gott, Lauren.... Ich liebe diese perversen kleinen Titten!"
 
 # game/UpdateScript0.03.rpy:1837 #-#-# translate crowdin ryan_and_lauren_5afb6546:
 msgid "[_L_] I'm so sorry [ryan], but I need you to hold me like this!..."
-msgstr ""
+msgstr "[_L_] Es tut mir so leid, [ryan], aber ich muss mich so halten!..."
 
 # game/UpdateScript0.03.rpy:1838 #-#-# translate crowdin ryan_and_lauren_90a38bfa:
 msgid "[_R_] I had no idea you felt like this for me."
-msgstr ""
+msgstr "[_R_] Ich hatte keine Ahnung, dass du dich so fühlst für mich."
 
 # game/UpdateScript0.03.rpy:1839 #-#-# translate crowdin ryan_and_lauren_758998e9:
 msgid "[_R_] I mean I hoped you did."
-msgstr ""
+msgstr "[_R_] Ich meine, ich habe gehofft."
 
 # game/UpdateScript0.03.rpy:1840 #-#-# translate crowdin ryan_and_lauren_71a9211a:
 msgid "[_L_] [ryan], just shut up.... I know this is so wrong.... and we can't ever do more than this..."
-msgstr ""
+msgstr "[_L_] [ryan], einfach herunterfahren... Ich weiß, dass das so falsch ist.... und wir können nicht mehr tun als das..."
 
 # game/UpdateScript0.03.rpy:1841 #-#-# translate crowdin ryan_and_lauren_8008ee0a:
 msgid "[_L_] But I need to have at least this..."
-msgstr ""
+msgstr "[_L_] Aber ich muss zumindest das..."
 
 # game/UpdateScript0.03.rpy:1842 #-#-# translate crowdin ryan_and_lauren_437dbdfb:
 msgid "[_R_] It's the fact that it is so forbidden that makes this so hard to resist."
-msgstr ""
+msgstr "[_R_] Es ist die Tatsache, dass es so verboten ist, dass dies so schwer zu widerstehen ist."
 
 # game/UpdateScript0.03.rpy:1843 #-#-# translate crowdin ryan_and_lauren_adcb9c56:
 msgid "[_L_] Oh, God.... I know..."
-msgstr ""
+msgstr "[_L_] Oh, Gott.... Ich weiß..."
 
 # game/UpdateScript0.03.rpy:1855 #-#-# translate crowdin ryan_and_lauren_33d28635:
 msgid "[_LT_] {i}[ryan]'s cock is so big! He is just throbbing and twitching all the way through all of our clothes.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}[ryan]Schwanz ist so groß! Er wirft und zittert durch alle unsere Kleider hindurch.{/i}"
 
 # game/UpdateScript0.03.rpy:1856 #-#-# translate crowdin ryan_and_lauren_5889f8d3:
 msgid "[_LT_] {i}It's a good thing we'll never go further than this. I think I'd be fully impaled by his enormous shaft.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Es ist gut, dass wir nie weiter gehen als das. Ich denke, ich würde von seinem riesigen Schacht völlig durchdrungen sein.{/i}"
 
 # game/UpdateScript0.03.rpy:1873 #-#-# translate crowdin ryan_and_lauren_327a297d:
 msgid "[_ADT_] {i}Ugghh.... back to my boring surveillance job for another week.{/i}"
-msgstr ""
+msgstr "[_ADT_] {i}Ugghh.... zurück zu meinem langweiligen Überwachungsjob für eine Woche.{/i}"
 
 # game/UpdateScript0.03.rpy:1874 #-#-# translate crowdin ryan_and_lauren_dcacf2ba:
 msgid "[_ADT_] {i}At least I've got an extra $500 to enjoy.{/i}"
-msgstr ""
+msgstr "[_ADT_] {i}Zumindest habe ich zusätzlich $500 zu genießen.{/i}"
 
 # game/UpdateScript0.03.rpy:1877 #-#-# translate crowdin ryan_and_lauren_acc394b2:
 msgid "[_ADT_] {i}Time to watch my favorite family on the TV again.{/i}"
-msgstr ""
+msgstr "[_ADT_] {i}Zeit, meine Lieblingsfamilie erneut auf dem Fernseher anzuschauen.{/i}"
 
 # game/UpdateScript0.03.rpy:1878 #-#-# translate crowdin ryan_and_lauren_9f513ffc:
 msgid "[_ADT_] {i}So much drama.... will they?.... Won't they?.... {/i}"
-msgstr ""
+msgstr "[_ADT_] {i}So viel Drama.... werden sie?.... Wäre es nicht?.... {/i}"
 
 # game/UpdateScript0.03.rpy:1879 #-#-# translate crowdin ryan_and_lauren_b955da6b:
 msgid "[_ADT_] {i}(sarcastically) I can't wait to watch the next episode.{/i}"
-msgstr ""
+msgstr "[_ADT_] {i}(sarkastisch) Ich kann nicht warten, um die nächste Episode anzusehen.{/i}"
 
 # game/UpdateScript0.03.rpy:1880 #-#-# translate crowdin ryan_and_lauren_86891b5e:
 msgid "[_ADT_] {i}Pretty handy that [ryan] installed those spy cameras and saved me the hassle.{/i}"
-msgstr ""
+msgstr "[_ADT_] {i}Ziemlich praktisch, dass [ryan] diese Spionkameras installiert hat und mir die Mühe erspart hat.{/i}"
 
 # game/UpdateScript0.03.rpy:1881 #-#-# translate crowdin ryan_and_lauren_ee9467db:
 msgid "[_ADT_] {i}They were so easy to hack into.{/i}"
-msgstr ""
+msgstr "[_ADT_] {i}Sie waren so einfach zu hacken.{/i}"
 
 # game/UpdateScript0.03.rpy:1882 #-#-# translate crowdin ryan_and_lauren_9fb77b3e:
 msgid "[_ADT_] {i}I should check Lauren's room, she might be getting dressed for school.{/i}"
-msgstr ""
+msgstr "[_ADT_] {i}Ich sollte Laurens Raum überprüfen, sie könnte für die Schule gekleidet werden.{/i}"
 
 # game/UpdateScript0.03.rpy:1885 #-#-# translate crowdin ryan_and_lauren_e8bf8080:
 msgid "[_ADT_] {i}Oh my God.... this is interesting!{/i}"
-msgstr ""
+msgstr "[_ADT_] {i}Oh mein Gott.... Das ist interessant!{/i}"
 
 # game/UpdateScript0.03.rpy:1886 #-#-# translate crowdin ryan_and_lauren_2ce65086:
 msgid "[_ADT_] {i}Haha.... I'm not surprised!{/i}"
-msgstr ""
+msgstr "[_ADT_] {i}Haha.... Ich bin nicht überrascht!{/i}"
 
 # game/UpdateScript0.03.rpy:1889 #-#-# translate crowdin ryan_and_lauren_bae084fe:
 msgid "[_ADT_] {i}Just give them a little more time, and they'll be fucking like rabbits.{/i}"
-msgstr ""
+msgstr "[_ADT_] {i}Gib ihnen einfach ein wenig mehr Zeit und sie werden wie Kaninchen ficken.{/i}"
 
 # game/UpdateScript0.03.rpy:1944 #-#-# translate crowdin ryan_and_lauren_1ebb5fe1:
 msgid "[_L_] Well, big brother?"
-msgstr ""
+msgstr "[_L_] Nun, großer Bruder?"
 
 # game/UpdateScript0.03.rpy:1945 #-#-# translate crowdin ryan_and_lauren_d1410548:
 msgid "[_L_] How was that?"
-msgstr ""
+msgstr "[_L_] Wie war das?"
 
 # game/UpdateScript0.03.rpy:1946 #-#-# translate crowdin ryan_and_lauren_be3ef749:
 msgid "[_R_] Uuuuhhh..."
-msgstr ""
+msgstr "[_R_] Uuuhhhh..."
 
 # game/UpdateScript0.03.rpy:1947 #-#-# translate crowdin ryan_and_lauren_089f03a7:
 msgid "[_L_] Hahah.... that's what I thought."
-msgstr ""
+msgstr "[_L_] Hahah.... das dachte ich."
 
 # game/UpdateScript0.03.rpy:1948 #-#-# translate crowdin ryan_and_lauren_b8d7c08c:
 msgid "[_L_] I think you came bucketloads."
@@ -2946,15 +2946,15 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:1949 #-#-# translate crowdin ryan_and_lauren_c765dd3c:
 msgid "[_L_] Your shorts are soaking wet."
-msgstr ""
+msgstr "[_L_] Deine Shorts saugen nass ein."
 
 # game/UpdateScript0.03.rpy:1950 #-#-# translate crowdin ryan_and_lauren_45c69eb5:
 msgid "[_R_] Uuuhhhhhh..."
-msgstr ""
+msgstr "[_R_] Uuhhhhhhh..."
 
 # game/UpdateScript0.03.rpy:1951 #-#-# translate crowdin ryan_and_lauren_fcaf8732:
 msgid "[_L_] Hahah.... you'd better run and get ready for school. I'm already halfway dressed."
-msgstr ""
+msgstr "[_L_] Hahah.... Du solltest besser laufen und dich auf die Schule vorbereiten. Ich bin schon auf halbem Weg gekleidet."
 
 # game/UpdateScript0.03.rpy:1968 #-#-# translate crowdin ryan_and_lauren_56145a8e:
 msgid "[_RT_] {b}(HINT){/b} {i}I can't believe Lauren's okay with grinding her pussy on my junk! I should keep visiting her in the lounge in the evening. I'll bet I can get her to take it further.{/i}"
@@ -2962,11 +2962,11 @@ msgstr "[_RT_] {i}{b}(Hinweis){/b} Ich kann nicht glauben, dass Lauren damit ein
 
 # game/UpdateScript0.03.rpy:1980 #-#-# translate crowdin ryan_and_lauren_b7459628:
 msgid "[_L_] I know we need to get ready for school, but I really wanted to thank you again for protecting me from Agent Diaz."
-msgstr ""
+msgstr "[_L_] Ich weiß, dass wir uns auf die Schule vorbereiten müssen, aber ich wollte dir wirklich noch einmal dafür danken, dass du mich vor Agent Diaz schützst."
 
 # game/UpdateScript0.03.rpy:1981 #-#-# translate crowdin ryan_and_lauren_fe9908d0_1:
 msgid "[_R_] That's what big brothers are for, Lauren."
-msgstr ""
+msgstr "[_R_] Das sind die großen Brüder, Lauren."
 
 # game/UpdateScript0.03.rpy:1982 #-#-# translate crowdin ryan_and_lauren_32f0afae_1:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
@@ -2974,31 +2974,31 @@ msgstr "{i}{b}\"Laurens Zuneigung + 1\"{/b}{/i}"
 
 # game/UpdateScript0.03.rpy:1984 #-#-# translate crowdin ryan_and_lauren_e98acf51:
 msgid "[_L_] Well, I wanted to take this opportunity again to return the favor."
-msgstr ""
+msgstr "[_L_] Nun, ich wollte diese Gelegenheit wieder nutzen, um die Gunst zurückzukehren."
 
 # game/UpdateScript0.03.rpy:1985 #-#-# translate crowdin ryan_and_lauren_b1e1675f:
 msgid "[_R_] Well, I'll never say no to that."
-msgstr ""
+msgstr "[_R_] Nun, ich werde nie nein sagen."
 
 # game/UpdateScript0.03.rpy:1986 #-#-# translate crowdin ryan_and_lauren_dcf1e81e_1:
 msgid "[_L_] Just sit there, close your eyes, and don't say anything."
-msgstr ""
+msgstr "[_L_] sitzt einfach dort, schließt die Augen, und sagt nichts."
 
 # game/UpdateScript0.03.rpy:1987 #-#-# translate crowdin ryan_and_lauren_dfe61d0a_1:
 msgid "[_R_] Ok..."
-msgstr ""
+msgstr "[_R_] Ok..."
 
 # game/UpdateScript0.03.rpy:1993 #-#-# translate crowdin ryan_and_lauren_a7c4642c:
 msgid "[_RT_] {i}How am I supposed to resist a few peeks?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Wie soll ich ein paar Peaks widerstehen?{/i}"
 
 # game/UpdateScript0.03.rpy:1999 #-#-# translate crowdin ryan_and_lauren_d4352eb0:
 msgid "[_L_] [ryan]? Are you peeking?"
-msgstr ""
+msgstr "[_L_] [ryan]? Bist du dabei?"
 
 # game/UpdateScript0.03.rpy:2003 #-#-# translate crowdin ryan_and_lauren_f2b151bf_1:
 msgid "[_L_] Ok, you can open your eyes now."
-msgstr ""
+msgstr "[_L_] Ok, du kannst jetzt deine Augen öffnen."
 
 # game/UpdateScript0.03.rpy:2006 #-#-# translate crowdin ryan_and_lauren_09f58a39:
 msgid "[_R_] Wow, Lauren! I'll never get tired of seeing you in that outfit."
@@ -3006,75 +3006,75 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:2007 #-#-# translate crowdin ryan_and_lauren_823c6a03:
 msgid "[_L_] Just talk Mom into changing the dresscode for her class and you won't have to."
-msgstr ""
+msgstr "[_L_] Spreche einfach Mama um den Dresscode für ihre Klasse zu ändern und du wirst das nicht tun müssen."
 
 # game/UpdateScript0.03.rpy:2008 #-#-# translate crowdin ryan_and_lauren_41b844fd:
 msgid "[_R_] Haha.... I know school board member Will Tylor would approve the changes."
-msgstr ""
+msgstr "[_R_] Haha.... Ich kenne das Vorstandsmitglied der Schule will Tylor die Änderungen genehmigen."
 
 # game/UpdateScript0.03.rpy:2009 #-#-# translate crowdin ryan_and_lauren_bf0cf24f:
 msgid "[_L_] So, I thought you might enjoy a little eye candy before school again?"
-msgstr ""
+msgstr "[_L_] Also, ich dachte, du könntest wieder ein wenig Süßigkeiten vor der Schule genießen?"
 
 # game/UpdateScript0.03.rpy:2010 #-#-# translate crowdin ryan_and_lauren_6a423368_1:
 msgid "[_L_] Give you something to think about all day."
-msgstr ""
+msgstr "[_L_] Gib dir etwas zum Nachdenken über den ganzen Tag."
 
 # game/UpdateScript0.03.rpy:2011 #-#-# translate crowdin ryan_and_lauren_fb859625:
 msgid "[_R_] Well, you thought right!"
-msgstr ""
+msgstr "[_R_] Nun, du dachtest richtig!"
 
 # game/UpdateScript0.03.rpy:2012 #-#-# translate crowdin ryan_and_lauren_51802272_1:
 msgid "[_L_] Now let me just turn on some music."
-msgstr ""
+msgstr "[_L_] Lassen Sie mich jetzt nur Musik einschalten."
 
 # game/UpdateScript0.03.rpy:2016 #-#-# translate crowdin ryan_and_lauren_b2f3f08e:
 msgid "[_R_] I love the way you move those hips."
-msgstr ""
+msgstr "[_R_] Ich liebe die Art und Weise, wie du diese Hüfte bewegst."
 
 # game/UpdateScript0.03.rpy:2017 #-#-# translate crowdin ryan_and_lauren_646bcdca_1:
 msgid "[_LT_] {i}Oh, the look on his face!.... I think he's really enjoying this!{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Oh, der Blick auf sein Gesicht!.... Ich denke, er genießt das wirklich!{/i}"
 
 # game/UpdateScript0.03.rpy:2018 #-#-# translate crowdin ryan_and_lauren_bfb69e24_1:
 msgid "[_L_] If you like that, I think you'll really like this."
-msgstr ""
+msgstr "[_L_] Wenn dir das gefällt, denke ich, dass dir das wirklich gefällt."
 
 # game/UpdateScript0.03.rpy:2021 #-#-# translate crowdin ryan_and_lauren_a6241ddc_1:
 msgid "[_R_] Oh fuck, Lauren.... your ass is beautiful!"
-msgstr ""
+msgstr "[_R_] Oh fick, Lauren.... dein Arsch ist schön!"
 
 # game/UpdateScript0.03.rpy:2022 #-#-# translate crowdin ryan_and_lauren_d75ce270:
 msgid "[_L_] Heheh.... I know you love it."
-msgstr ""
+msgstr "[_L_] Heheh.... Ich weiß, du liebst es."
 
 # game/UpdateScript0.03.rpy:2026 #-#-# translate crowdin ryan_and_lauren_ce49ee01_1:
 msgid "[_L_] So, Mr. [ryan]."
-msgstr ""
+msgstr "[_L_] Also, Herr [ryan]."
 
 # game/UpdateScript0.03.rpy:2027 #-#-# translate crowdin ryan_and_lauren_7adf46d2_1:
 msgid "[_L_] I know I'm getting an \"F\" in Anatomy, so I was hoping there was something I could do to bring up my grade."
-msgstr ""
+msgstr "[_L_] Ich weiß, ich bekomme einen \"F\" in Anatomie, so dass ich hoffte, ich könnte etwas tun, um meine Note."
 
 # game/UpdateScript0.03.rpy:2028 #-#-# translate crowdin ryan_and_lauren_49fbc840_1:
 msgid "[_RT_] {i}Oh, nice! Lauren wants to do some role-play.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Oh, nett! Lauren möchte etwas Rollenspiel machen.{/i}"
 
 # game/UpdateScript0.03.rpy:2029 #-#-# translate crowdin ryan_and_lauren_2ef08669_1:
 msgid "[_R_] I don't know, young lady. You've skipped my class almost every day to make out with the head cheerleader, Megan."
-msgstr ""
+msgstr "[_R_] Ich weiß es nicht, junge Frau. Du hast meine Klasse fast jeden Tag übersprungen, um mit dem Cheerleader Megan herauszukommen."
 
 # game/UpdateScript0.03.rpy:2030 #-#-# translate crowdin ryan_and_lauren_03bb2ae9:
 msgid "[_L_] That's because she tastes like cherries.... I love cherries."
-msgstr ""
+msgstr "[_L_] Das liegt daran, dass sie wie Kirschen schmeckt... Ich liebe Kirschen."
 
 # game/UpdateScript0.03.rpy:2031 #-#-# translate crowdin ryan_and_lauren_96fbf116:
 msgid "[_R_] Maybe you could give me your cherry!"
-msgstr ""
+msgstr "[_R_] Vielleicht kannst du mir deine Kirsche geben!"
 
 # game/UpdateScript0.03.rpy:2032 #-#-# translate crowdin ryan_and_lauren_665c43b1:
 msgid "[_L_] You might have to take it."
-msgstr ""
+msgstr "[_L_] Du musst es mitnehmen."
 
 # game/UpdateScript0.03.rpy:2033 #-#-# translate crowdin ryan_and_lauren_c6d04e42:
 msgid "[_R_] But young woman, I can hardly allow you to pass on to the next grade after displaying that incredibly lewd, but sexy behavior."
@@ -3082,107 +3082,107 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:2036 #-#-# translate crowdin ryan_and_lauren_24d19202_1:
 msgid "[_L_] There must be something I can do to change your mind."
-msgstr ""
+msgstr "[_L_] Es muss etwas geben, was ich tun kann, um deine Meinung zu ändern."
 
 # game/UpdateScript0.03.rpy:2037 #-#-# translate crowdin ryan_and_lauren_2d861881_1:
 msgid "[_R_] Nope! There's nothing I can think of that would keep me from failing you."
-msgstr ""
+msgstr "[_R_] Nein! Es gibt nichts, was ich mir vorstellen könnte, würde mich davon abhalten, dich zu versagen."
 
 # game/UpdateScript0.03.rpy:2038 #-#-# translate crowdin ryan_and_lauren_d440d646_1:
 msgid "[_L_] What if I show you..."
-msgstr ""
+msgstr "[_L_] Was, wenn ich dir zeige..."
 
 # game/UpdateScript0.03.rpy:2041 #-#-# translate crowdin ryan_and_lauren_41270812_1:
 msgid "[_L_] These!..."
-msgstr ""
+msgstr "[_L_] These!..."
 
 # game/UpdateScript0.03.rpy:2042 #-#-# translate crowdin ryan_and_lauren_f2398df3:
 msgid "[_R_] Hmmmm.... well for those I might reconsider."
-msgstr ""
+msgstr "[_R_] Hmmmm.... gut für diejenigen, die ich noch einmal überlegen könnte."
 
 # game/UpdateScript0.03.rpy:2043 #-#-# translate crowdin ryan_and_lauren_7426e49a:
 msgid "[_L_] Hahaha.... what's under your pants tells me that you will."
-msgstr ""
+msgstr "[_L_] Hahahaha.... Was unter deinen Hosen steht, sagt mir, dass du das tun wirst."
 
 # game/UpdateScript0.03.rpy:2044 #-#-# translate crowdin ryan_and_lauren_4003919a_1:
 msgid "[_R_] Oh my God, Lauren.... I love those perky little titties!"
-msgstr ""
+msgstr "[_R_] Oh mein Gott, Lauren.... Ich liebe diese perversen kleinen Titten!"
 
 # game/UpdateScript0.03.rpy:2047 #-#-# translate crowdin ryan_and_lauren_5afb6546_1:
 msgid "[_L_] I'm so sorry [ryan], but I need you to hold me like this!..."
-msgstr ""
+msgstr "[_L_] Es tut mir so leid, [ryan], aber ich muss mich so halten!..."
 
 # game/UpdateScript0.03.rpy:2048 #-#-# translate crowdin ryan_and_lauren_bd3a650b:
 msgid "[_R_] I thought you said we couldn't do this again."
-msgstr ""
+msgstr "[_R_] Ich dachte, du hast gesagt, dass wir das nicht mehr tun können."
 
 # game/UpdateScript0.03.rpy:2049 #-#-# translate crowdin ryan_and_lauren_25efb8e3:
 msgid "[_L_] [ryan], just shut up.... I know this is so wrong.... and this has to be the last time..."
-msgstr ""
+msgstr "[_L_] [ryan], einfach herunterfahren... Ich weiß, das ist so falsch... und das muss das letzte Mal sein..."
 
 # game/UpdateScript0.03.rpy:2050 #-#-# translate crowdin ryan_and_lauren_ff9266d6:
 msgid "[_L_] But I need this today so badly!..."
-msgstr ""
+msgstr "[_L_] Aber ich brauche das heute so schlecht!..."
 
 # game/UpdateScript0.03.rpy:2051 #-#-# translate crowdin ryan_and_lauren_5f7aede7:
 msgid "[_R_] A little more forbidden fruit huh?"
-msgstr ""
+msgstr "[_R_] Ein bisschen mehr verbotene Frucht huh?"
 
 # game/UpdateScript0.03.rpy:2052 #-#-# translate crowdin ryan_and_lauren_7c2a751b:
 msgid "[_L_] Oh, God.... yes..."
-msgstr ""
+msgstr "[_L_] Oh, Gott.... Ja..."
 
 # game/UpdateScript0.03.rpy:2064 #-#-# translate crowdin ryan_and_lauren_33d28635_1:
 msgid "[_LT_] {i}[ryan]'s cock is so big! He is just throbbing and twitching all the way through all of our clothes.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}[ryan]Schwanz ist so groß! Er wirft und zittert durch alle unsere Kleider hindurch.{/i}"
 
 # game/UpdateScript0.03.rpy:2065 #-#-# translate crowdin ryan_and_lauren_5889f8d3_1:
 msgid "[_LT_] {i}It's a good thing we'll never go further than this. I think I'd be fully impaled by his enormous shaft.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Es ist gut, dass wir nie weiter gehen als das. Ich denke, ich würde von seinem riesigen Schacht völlig durchdrungen sein.{/i}"
 
 # game/UpdateScript0.03.rpy:2082 #-#-# translate crowdin ryan_and_lauren_327a297d_1:
 msgid "[_ADT_] {i}Ugghh.... back to my boring surveillance job for another week.{/i}"
-msgstr ""
+msgstr "[_ADT_] {i}Ugghh.... zurück zu meinem langweiligen Überwachungsjob für eine Woche.{/i}"
 
 # game/UpdateScript0.03.rpy:2083 #-#-# translate crowdin ryan_and_lauren_dcacf2ba_1:
 msgid "[_ADT_] {i}At least I've got an extra $500 to enjoy.{/i}"
-msgstr ""
+msgstr "[_ADT_] {i}Zumindest habe ich zusätzlich $500 zu genießen.{/i}"
 
 # game/UpdateScript0.03.rpy:2086 #-#-# translate crowdin ryan_and_lauren_acc394b2_1:
 msgid "[_ADT_] {i}Time to watch my favorite family on the TV again.{/i}"
-msgstr ""
+msgstr "[_ADT_] {i}Zeit, meine Lieblingsfamilie erneut auf dem Fernseher anzuschauen.{/i}"
 
 # game/UpdateScript0.03.rpy:2087 #-#-# translate crowdin ryan_and_lauren_ced64c4a:
 msgid "[_ADT_] {i}I wonder if [ryan] and Lauren are going at it again.{/i}"
-msgstr ""
+msgstr "[_ADT_] {i}Ich frage mich, ob [ryan] und Lauren es wieder angehen.{/i}"
 
 # game/UpdateScript0.03.rpy:2090 #-#-# translate crowdin ryan_and_lauren_335fd228:
 msgid "[_ADT_] {i}Haha.... looks like I'm an aphrodisiac!{/i}"
-msgstr ""
+msgstr "[_ADT_] {i}Haha.... sieht aus wie ein Aphrodisiak!{/i}"
 
 # game/UpdateScript0.03.rpy:2091 #-#-# translate crowdin ryan_and_lauren_971430d5:
 msgid "[_ADT_] {i}I wonder when they'll take it further.{/i}"
-msgstr ""
+msgstr "[_ADT_] {i}Ich frage mich, wann sie es weiter nehmen.{/i}"
 
 # game/UpdateScript0.03.rpy:2094 #-#-# translate crowdin ryan_and_lauren_bae084fe_1:
 msgid "[_ADT_] {i}Just give them a little more time, and they'll be fucking like rabbits.{/i}"
-msgstr ""
+msgstr "[_ADT_] {i}Gib ihnen einfach ein wenig mehr Zeit und sie werden wie Kaninchen ficken.{/i}"
 
 # game/UpdateScript0.03.rpy:2149 #-#-# translate crowdin ryan_and_lauren_1ebb5fe1_1:
 msgid "[_L_] Well, big brother?"
-msgstr ""
+msgstr "[_L_] Nun, großer Bruder?"
 
 # game/UpdateScript0.03.rpy:2150 #-#-# translate crowdin ryan_and_lauren_d1410548_1:
 msgid "[_L_] How was that?"
-msgstr ""
+msgstr "[_L_] Wie war das?"
 
 # game/UpdateScript0.03.rpy:2151 #-#-# translate crowdin ryan_and_lauren_be3ef749_1:
 msgid "[_R_] Uuuuhhh..."
-msgstr ""
+msgstr "[_R_] Uuuhhhh..."
 
 # game/UpdateScript0.03.rpy:2152 #-#-# translate crowdin ryan_and_lauren_089f03a7_1:
 msgid "[_L_] Hahah.... that's what I thought."
-msgstr ""
+msgstr "[_L_] Hahah.... das dachte ich."
 
 # game/UpdateScript0.03.rpy:2153 #-#-# translate crowdin ryan_and_lauren_9cfcf0aa:
 msgid "[_L_] I think you came bucketloads again."
@@ -3190,15 +3190,15 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:2154 #-#-# translate crowdin ryan_and_lauren_c765dd3c_1:
 msgid "[_L_] Your shorts are soaking wet."
-msgstr ""
+msgstr "[_L_] Deine Shorts saugen nass ein."
 
 # game/UpdateScript0.03.rpy:2155 #-#-# translate crowdin ryan_and_lauren_45c69eb5_1:
 msgid "[_R_] Uuuhhhhhh..."
-msgstr ""
+msgstr "[_R_] Uuhhhhhhh..."
 
 # game/UpdateScript0.03.rpy:2156 #-#-# translate crowdin ryan_and_lauren_fcaf8732_1:
 msgid "[_L_] Hahah.... you'd better run and get ready for school. I'm already halfway dressed."
-msgstr ""
+msgstr "[_L_] Hahah.... Du solltest besser laufen und dich auf die Schule vorbereiten. Ich bin schon auf halbem Weg gekleidet."
 
 # game/UpdateScript0.03.rpy:2167 #-#-# translate crowdin meganloyaltyblowjob_7da2c237:
 msgid "[_RT_] {i}Shit.... I'm late again.... oh look there's Megan.... {/i}"
@@ -9254,7 +9254,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:5735 #-#-# translate crowdin htbyd_closeups_ca7e84a9:
 msgid "[_R_] Why not?"
-msgstr ""
+msgstr "[_R_] Warum nicht?"
 
 # game/UpdateScript0.03.rpy:5736 #-#-# translate crowdin htbyd_closeups_28c85b00:
 msgid "[_L_] Because this isn't just some episode of \"Game of Thots\", this is real life."
@@ -9506,7 +9506,7 @@ msgstr ""
 
 # game/UpdateScript0.03.rpy:5954 #-#-# translate crowdin emailalert_2056fd1c:
 msgid "[_RT_] {i}Uuuuugghhh, who's texting me this early in the morning?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Uuuuugghhh, wer schreibt mich heute früh am Morgen?{/i}"
 
 # game/UpdateScript0.03.rpy:5957 #-#-# translate crowdin emailalert_65801c46:
 msgid "[_RT_] {i}Oh man, it's just an email alert. You buy one thing at Hardnlong, and the emails never stop.{/i}"
