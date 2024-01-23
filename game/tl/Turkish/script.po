@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-11-26 17:06\n"
+"PO-Revision-Date: 2024-01-23 15:00\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -406,15 +406,15 @@ msgstr "[_R_] Oh evet.... tabii ki."
 
 # game/script.rpy:1309 #-#-# translate crowdin myroom_1dee0a5b:
 msgid "[_L_] Well, that was a little awkward!"
-msgstr ""
+msgstr "Bu biraz garipti!"
 
 # game/script.rpy:1310 #-#-# translate crowdin myroom_32411e06:
 msgid "[_R_] Only if you make it. It was just an accident."
-msgstr ""
+msgstr "[ _R_] Yalnızca siz yaparsanız. Sadece bir kazaydı."
 
 # game/script.rpy:1311 #-#-# translate crowdin myroom_33c44104:
 msgid "[_L_] I guess."
-msgstr ""
+msgstr "Sanırım."
 
 # game/script.rpy:1312 #-#-# translate crowdin myroom_b9a06102:
 msgid "[_R_] So do you want to watch some TV?"
@@ -1114,15 +1114,15 @@ msgstr "[_R_] Oh evet.... tabii ki."
 
 # game/script.rpy:3258 #-#-# translate crowdin loungeevening_1dee0a5b:
 msgid "[_L_] Well, that was a little awkward!"
-msgstr ""
+msgstr "Bu biraz garipti!"
 
 # game/script.rpy:3259 #-#-# translate crowdin loungeevening_32411e06:
 msgid "[_R_] Only if you make it. It was just an accident."
-msgstr ""
+msgstr "[ _R_] Yalnızca siz yaparsanız. Sadece bir kazaydı."
 
 # game/script.rpy:3260 #-#-# translate crowdin loungeevening_33c44104:
 msgid "[_L_] I guess."
-msgstr ""
+msgstr "Sanırım."
 
 # game/script.rpy:3261 #-#-# translate crowdin loungeevening_b9a06102:
 msgid "[_R_] So do you want to watch some TV?"
@@ -1478,15 +1478,15 @@ msgstr "[_R_] Oh evet.... tabii ki."
 
 # game/script.rpy:3509 #-#-# translate crowdin loungeeveningweekend_1dee0a5b:
 msgid "[_L_] Well, that was a little awkward!"
-msgstr ""
+msgstr "Bu biraz garipti!"
 
 # game/script.rpy:3510 #-#-# translate crowdin loungeeveningweekend_32411e06:
 msgid "[_R_] Only if you make it. It was just an accident."
-msgstr ""
+msgstr "[ _R_] Yalnızca siz yaparsanız. Sadece bir kazaydı."
 
 # game/script.rpy:3511 #-#-# translate crowdin loungeeveningweekend_33c44104:
 msgid "[_L_] I guess."
-msgstr ""
+msgstr "Sanırım."
 
 # game/script.rpy:3512 #-#-# translate crowdin loungeeveningweekend_b9a06102:
 msgid "[_R_] So do you want to watch some TV?"
@@ -2526,15 +2526,15 @@ msgstr "[_R_] Oh evet.... tabii ki."
 
 # game/script.rpy:4811 #-#-# translate crowdin dishes_1dee0a5b:
 msgid "[_L_] Well, that was a little awkward!"
-msgstr ""
+msgstr "Bu biraz garipti!"
 
 # game/script.rpy:4812 #-#-# translate crowdin dishes_32411e06:
 msgid "[_R_] Only if you make it. It was just an accident."
-msgstr ""
+msgstr "[ _R_] Yalnızca siz yaparsanız. Sadece bir kazaydı."
 
 # game/script.rpy:4813 #-#-# translate crowdin dishes_33c44104:
 msgid "[_L_] I guess."
-msgstr ""
+msgstr "Sanırım."
 
 # game/script.rpy:4814 #-#-# translate crowdin dishes_b9a06102:
 msgid "[_R_] So do you want to watch some TV?"
@@ -4822,7 +4822,7 @@ msgstr "[_RT_] {i}Tamam.... şimdi onu kazanmaya nasıl başlayacağım?{/i}"
 
 # game/script.rpy:7057 #-#-# translate crowdin laurensneakingnight_609ec708:
 msgid "[_RT_] {i}Hmmmm.... {/i}"
-msgstr ""
+msgstr "[ _RT_] {i}Hmmmm .... { /i }"
 
 # game/script.rpy:7058 #-#-# translate crowdin laurensneakingnight_e950dbf4:
 msgid "[_RT_] {i}I've heard subliminal messages while sleeping can be very effective.{/i}"
@@ -7990,7 +7990,7 @@ msgstr "[_RT_] {i}Görünüşe göre Lauren yine ponies'leri izliyor.{/i}"
 
 # game/script.rpy:9938 #-#-# translate crowdin collectingpayment_e81a1dd4:
 msgid "DING DONG"
-msgstr ""
+msgstr "BINA DONG"
 
 # game/script.rpy:9939 #-#-# translate crowdin collectingpayment_47a6f8a0:
 msgid "[_RT_] {i}That's the doorbell. I'm pretty sure I know who that is.{/i}"
