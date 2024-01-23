@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-01-23 16:58\n"
+"PO-Revision-Date: 2024-01-23 19:32\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # §translate crowdin strings: #|#|# # game/Phone_stats_screen.rpy:70
 msgid "Girls stats"
@@ -158,7 +158,7 @@ msgstr "{image=iconR} {├#0000CC} Por [ryan]:{/color}"
 
 # game/Phone_stats_screen.rpy:200
 msgid "{image=iconM}{color=#42f456} in Mom..............[mom_cum_loads_counter]{/color}"
-msgstr ""
+msgstr "{image=iconM}{├#42f456} na mãe..............[mom_cum_loads_counter]{/color}"
 
 # game/Phone_stats_screen.rpy:201
 msgid "{image=iconL}{color=#f442d9} in Lauren............[lauren_cum_loads_counter]{/color}"
