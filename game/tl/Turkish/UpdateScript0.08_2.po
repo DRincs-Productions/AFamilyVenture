@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-12-08 22:52\n"
+"PO-Revision-Date: 2024-01-23 15:01\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/UpdateScript0.08_2.rpy:9 #-#-# translate crowdin mom_bumps_sidney_bc054bd6:
 msgid "[_G_] Well, if it isn't the lovely Miss [mom_name]."
@@ -790,7 +790,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:420 #-#-# translate crowdin mom_bumps_sidney_continued_c7941187:
 msgid "[_C_] ...."
-msgstr ""
+msgstr "[ _C_] ...."
 
 # game/UpdateScript0.08_2.rpy:421 #-#-# translate crowdin mom_bumps_sidney_continued_efb6b77c:
 msgid "[_C_] I'm going to be sleeping on the couch. Please don't come bother me tonight!"
@@ -2310,7 +2310,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:1157 #-#-# translate crowdin vip_access_91355cdd:
 msgid "[_RT_] {i}Oh, my God!{/i}"
-msgstr ""
+msgstr "[ _RT_] {i}Oh, Tanrım!"
 
 # game/UpdateScript0.08_2.rpy:1158 #-#-# translate crowdin vip_access_fd6c751e:
 msgid "[_R_] Uhhh... ummm... yeah. Ravyn... good."
@@ -4690,7 +4690,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:3275 #-#-# translate crowdin last_time_on_afv_c7941187:
 msgid "[_C_] ...."
-msgstr ""
+msgstr "[ _C_] ...."
 
 # game/UpdateScript0.08_2.rpy:3276 #-#-# translate crowdin last_time_on_afv_efb6b77c:
 msgid "[_C_] I'm going to be sleeping on the couch. Please don't come bother me tonight!"
@@ -5858,7 +5858,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:3778 #-#-# translate crowdin girl_time_club_c5c47366:
 msgid "[_R_] So?"
-msgstr ""
+msgstr "Öyle mi?"
 
 # game/UpdateScript0.08_2.rpy:3779 #-#-# translate crowdin girl_time_club_6565410e:
 msgid "[_AD_] So he didn't order a drink for her to give him, Einstein."
@@ -8282,7 +8282,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:4744 #-#-# translate crowdin girl_time_club_c20775b5:
 msgid "[_S_] What's going on?"
-msgstr ""
+msgstr "Neler oluyor?"
 
 # game/UpdateScript0.08_2.rpy:4745 #-#-# translate crowdin girl_time_club_1adf7562:
 msgid "[_M_] Probably some loser who tried to follow one of the dancers back here."
@@ -10842,7 +10842,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:6033 #-#-# translate crowdin prison_visit_17e3aae0:
 msgid "[_RT_] ...."
-msgstr ""
+msgstr "[ _RT_] ...."
 
 # game/UpdateScript0.08_2.rpy:6034 #-#-# translate crowdin prison_visit_c85391dd:
 msgid "[_RT_] Now, I know Mom got rid of her underwear somewhere at the prison."
@@ -11938,7 +11938,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:6636 #-#-# translate crowdin weekend_date_shopping_79676139:
 msgid "[_M_] Are you kidding me?"
-msgstr ""
+msgstr "Benimle dalga mı geçiyorsun?"
 
 # game/UpdateScript0.08_2.rpy:6637 #-#-# translate crowdin weekend_date_shopping_593ea2ac:
 msgid "[_R_] And I'll buy it."
@@ -14390,7 +14390,7 @@ msgstr "[_R_] Anne?"
 
 # game/UpdateScript0.08_2.rpy:8274 #-#-# translate crowdin pizza_date_63c62402:
 msgid "[_R_] Should we find a seat?"
-msgstr ""
+msgstr "-Bir yer bulalım mı?"
 
 # game/UpdateScript0.08_2.rpy:8277 #-#-# translate crowdin pizza_date_500bb1fa:
 msgid "[_M_] Okay, lets go sit in the booth in that dark corner again."
@@ -14654,11 +14654,11 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:8379 #-#-# translate crowdin pizza_date_c2bdcf76:
 msgid "[_R_] NO!"
-msgstr ""
+msgstr "HAYıR!"
 
 # game/UpdateScript0.08_2.rpy:8380 #-#-# translate crowdin pizza_date_0cc65a0a:
 msgid "[_R_] I mean, sure I'd love to be as popular and... tall as he is, but I don't ever want to be as full of myself as he is."
-msgstr ""
+msgstr "Yani, emin olduğum kadar popüler ve ... uzun olmak isterdim, ama o kadar da kendimle dolu olmak istemiyorum."
 
 # game/UpdateScript0.08_2.rpy:8381 #-#-# translate crowdin pizza_date_7419db6d:
 msgid "[_M_] Like I said last time, it's confidence, women are drawn to confidence."
@@ -14670,7 +14670,7 @@ msgstr "[_M_] Son zamanlarda kendine olan güveninin arttığını fark ettim ve
 
 # game/UpdateScript0.08_2.rpy:8385 #-#-# translate crowdin pizza_date_5345bc32:
 msgid "[_R_] Shit!... They've seen us."
-msgstr ""
+msgstr "Lanet olsun! Bizi görmüşler."
 
 # game/UpdateScript0.08_2.rpy:8386 #-#-# translate crowdin pizza_date_4594ec70:
 msgid "[_R_] Dammit, they're going to come over again."
@@ -14678,11 +14678,11 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:8387 #-#-# translate crowdin pizza_date_f28601cc:
 msgid "[_M_] Hey, I know you don't like Matt, but that doesn't give you an excuse to use bad language."
-msgstr ""
+msgstr "Hey, Matt 'i sevmediğini biliyorum, ama bu sana kötü bir dil kullanman için bir bahane değil."
 
 # game/UpdateScript0.08_2.rpy:8388 #-#-# translate crowdin pizza_date_c56484b5:
 msgid "[_R_] Mom, could you drop it with the language thing? I'm a grown ass adult!"
-msgstr ""
+msgstr "Anne, dil meselesiyle uğrayabilir misin? Ben yetişkin bir yetişkinim!"
 
 # game/UpdateScript0.08_2.rpy:8391 #-#-# translate crowdin pizza_date_973eef32:
 msgid "[_MB_] Miss [mom_name], [ryan]... It's good to see you here again!"
@@ -14690,15 +14690,15 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:8392 #-#-# translate crowdin pizza_date_a979b639:
 msgid "[_M_] Hey Matt, Darnell, Trent, How are you boys doing?"
-msgstr ""
+msgstr "Hey Matt, Darnell, Trent, nasıl gidiyor çocuklar?"
 
 # game/UpdateScript0.08_2.rpy:8393 #-#-# translate crowdin pizza_date_3edc7518:
 msgid "[_DR_] We're good, thanks, Miss [mom_name]."
-msgstr ""
+msgstr "[ _DR_] Biz iyiyiz, teşekkürler, Bayan [ mom_name]."
 
 # game/UpdateScript0.08_2.rpy:8394 #-#-# translate crowdin pizza_date_06828591:
 msgid "[_M_] Did you get your make up math work finished, Trent?"
-msgstr ""
+msgstr "Matematik işini bitirdin mi, Trent?"
 
 # game/UpdateScript0.08_2.rpy:8395 #-#-# translate crowdin pizza_date_acdf17ef:
 msgid "[_T_] It's still not quite done."
@@ -15042,7 +15042,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:8541 #-#-# translate crowdin pizza_date_82f30cfd:
 msgid "[_R_] Hmmm..."
-msgstr ""
+msgstr "[ _R_] Hmmm ..."
 
 # game/UpdateScript0.08_2.rpy:8544 #-#-# translate crowdin pizza_date_8cf89629:
 msgid "[_R_] Why isn't there any water on the table?... Why are all the napkins dry?... The only place I see water is over here on the floor."
@@ -15210,31 +15210,31 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:8616 #-#-# translate crowdin pizza_date_a52cbe36:
 msgid "[_R_] So, you ready for some more fun?"
-msgstr ""
+msgstr "-Biraz daha eğlenmeye hazır mısın?"
 
 # game/UpdateScript0.08_2.rpy:8619 #-#-# translate crowdin pizza_date_c5a107e6:
 msgid "[_M_] Really?... I kind of thought our date was over."
-msgstr ""
+msgstr "Gerçekten mi? Randevumuzun bittiğini düşünmüştüm."
 
 # game/UpdateScript0.08_2.rpy:8620 #-#-# translate crowdin pizza_date_bede9e5d:
 msgid "[_R_] I had one more little adventure in mind."
-msgstr ""
+msgstr "Aklımda bir küçük macera daha vardı."
 
 # game/UpdateScript0.08_2.rpy:8621 #-#-# translate crowdin pizza_date_0eea338b:
 msgid "[_R_] That is, if you're still up for some fun."
-msgstr ""
+msgstr "Eğer hala biraz eğlenmeye devam etseniz."
 
 # game/UpdateScript0.08_2.rpy:8622 #-#-# translate crowdin pizza_date_21d94d7f:
 msgid "[_M_] Hmmm... More fun than we've already had?"
-msgstr ""
+msgstr "[ _M_] Hmmm ... Daha önce sahip olmamızdan daha mı eğlenceli?"
 
 # game/UpdateScript0.08_2.rpy:8625 #-#-# translate crowdin pizza_date_2a065f78:
 msgid "[_M_] Yes, please!"
-msgstr ""
+msgstr "[ _M_] Evet, lütfen!"
 
 # game/UpdateScript0.08_2.rpy:8626 #-#-# translate crowdin pizza_date_22715e52:
 msgid "[_R_] Awesome! Now, when you get to our road, don't turn down it... Just keep going straight towards the ocean."
-msgstr ""
+msgstr "Harika! Şimdi, bizim yolumuza vardığınızda, onu geri çevirmeyin ... Okyanusa doğru düz gitmeye devam et."
 
 # game/UpdateScript0.08_2.rpy:8635 #-#-# translate crowdin pizza_date_426e5fb8:
 msgid "[_M_] So... It's getting pretty late."
@@ -15774,19 +15774,19 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:8887 #-#-# translate crowdin pizza_date_b4d1bf22:
 msgid "[_R_] See?... What did I tell you?"
-msgstr ""
+msgstr "[ _R_] Bak? Sana ne söyledim?"
 
 # game/UpdateScript0.08_2.rpy:8888 #-#-# translate crowdin pizza_date_69eb8bf9:
 msgid "[_MT_] {i}That woman looks like me ten years ago.{/i}"
-msgstr ""
+msgstr "[ _MT_] {i}O kadın 10 yıl önce bana benziyor. { /i }"
 
 # game/UpdateScript0.08_2.rpy:8889 #-#-# translate crowdin pizza_date_015b8f8c:
 msgid "[_MT_] {i}I need to warn her!{/i}"
-msgstr ""
+msgstr "[ _MT_] {i}Onu uyarmalıyım!"
 
 # game/UpdateScript0.08_2.rpy:8890 #-#-# translate crowdin pizza_date_692b3472:
 msgid "[_MT_] {i}Keep that son of yours away from incest games!{/i}"
-msgstr ""
+msgstr "[ _MT_] {i}Oğlunuzun ensest oyunlardan uzak durun! { /i }"
 
 # game/UpdateScript0.08_2.rpy:8891 #-#-# translate crowdin pizza_date_9eaf5062_1:
 msgid "[_R_] Mom?"
@@ -15794,35 +15794,35 @@ msgstr "[_R_] Anne?"
 
 # game/UpdateScript0.08_2.rpy:8894 #-#-# translate crowdin pizza_date_836ca93d:
 msgid "[_M_] Didn't this used to be Paul's Pizza?"
-msgstr ""
+msgstr "Bu Paul 'un Pizza 'sını kullanmadı mı?"
 
 # game/UpdateScript0.08_2.rpy:8895 #-#-# translate crowdin pizza_date_fa3b5526:
 msgid "[_R_] Maybe, it just re-opened last year. Now it's called \"The La Trattoria\"."
-msgstr ""
+msgstr "Belki de geçen yıl yeniden açıldı. Şimdi de adı \"The La Trattoria\"."
 
 # game/UpdateScript0.08_2.rpy:8896 #-#-# translate crowdin pizza_date_a5b744f5:
 msgid "[_M_] You mean La Trattoria."
-msgstr ""
+msgstr "-La Trattoria 'yı kastediyorsun."
 
 # game/UpdateScript0.08_2.rpy:8897 #-#-# translate crowdin pizza_date_29aad80e:
 msgid "[_R_] No, I'm pretty sure it's The La Trattoria"
-msgstr ""
+msgstr "Hayır, La Trattoria olduğundan oldukça eminim."
 
 # game/UpdateScript0.08_2.rpy:8898 #-#-# translate crowdin pizza_date_92d77159:
 msgid "[_M_] But that means it's called The The Tratt... Never mind."
-msgstr ""
+msgstr "Ama bunun anlamı \"The Tratt\" olarak adlandırılıyor. Önemli değil."
 
 # game/UpdateScript0.08_2.rpy:8899 #-#-# translate crowdin pizza_date_63c62402_1:
 msgid "[_R_] Should we find a seat?"
-msgstr ""
+msgstr "-Bir yer bulalım mı?"
 
 # game/UpdateScript0.08_2.rpy:8902 #-#-# translate crowdin pizza_date_31331a46:
 msgid "[_M_] Okay, lets go sit in a booth in that dark corner over there."
-msgstr ""
+msgstr "Tamam, hadi gidip şuradaki koyu köşede otuzbir çekelim."
 
 # game/UpdateScript0.08_2.rpy:8903 #-#-# translate crowdin pizza_date_27a190cb:
 msgid "[_R_] Okay, but the waitress might not see us over..."
-msgstr ""
+msgstr "Tamam, ama garson bizi görmeyebilir ..."
 
 # game/UpdateScript0.08_2.rpy:8904 #-#-# translate crowdin pizza_date_0911d791:
 msgid "[_R_] Oh... Never mind."
@@ -16050,19 +16050,19 @@ msgstr "[_R_] O kadar yumuşak olduğunu düşünüyor ve istediği kızı elde 
 
 # game/UpdateScript0.08_2.rpy:8993 #-#-# translate crowdin pizza_date_980dbf8a:
 msgid "[_M_] So, he's everything you want to be?"
-msgstr ""
+msgstr "Yani, olmak istediğin her şey o mu?"
 
 # game/UpdateScript0.08_2.rpy:8994 #-#-# translate crowdin pizza_date_c2bdcf76_1:
 msgid "[_R_] NO!"
-msgstr ""
+msgstr "HAYıR!"
 
 # game/UpdateScript0.08_2.rpy:8995 #-#-# translate crowdin pizza_date_0cc65a0a_1:
 msgid "[_R_] I mean, sure I'd love to be as popular and... tall as he is, but I don't ever want to be as full of myself as he is."
-msgstr ""
+msgstr "Yani, emin olduğum kadar popüler ve ... uzun olmak isterdim, ama o kadar da kendimle dolu olmak istemiyorum."
 
 # game/UpdateScript0.08_2.rpy:8996 #-#-# translate crowdin pizza_date_879b289a:
 msgid "[_M_] I think that's just confidence, women are drawn to confidence."
-msgstr ""
+msgstr "[ _M_] Bence bu sadece güven, kadınlar kendine güvene kapılıyor."
 
 # game/UpdateScript0.08_2.rpy:8998 #-#-# translate crowdin pizza_date_df1d5773_1:
 msgid "[_M_] I've noticed your confidence has been growing a lot lately, and I've got to say, it looks really good on you."
@@ -16078,39 +16078,39 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:9004 #-#-# translate crowdin pizza_date_5345bc32_1:
 msgid "[_R_] Shit!... They've seen us."
-msgstr ""
+msgstr "Lanet olsun! Bizi görmüşler."
 
 # game/UpdateScript0.08_2.rpy:9005 #-#-# translate crowdin pizza_date_2c64c70f:
 msgid "[_R_] Dammit, they're going to come over."
-msgstr ""
+msgstr "Lanet olsun, onlar buraya gelecek."
 
 # game/UpdateScript0.08_2.rpy:9006 #-#-# translate crowdin pizza_date_f28601cc_1:
 msgid "[_M_] Hey, I know you don't like Matt, but that doesn't give you an excuse to use bad language."
-msgstr ""
+msgstr "Hey, Matt 'i sevmediğini biliyorum, ama bu sana kötü bir dil kullanman için bir bahane değil."
 
 # game/UpdateScript0.08_2.rpy:9007 #-#-# translate crowdin pizza_date_c56484b5_1:
 msgid "[_R_] Mom, could you drop it with the language thing? I'm a grown ass adult!"
-msgstr ""
+msgstr "Anne, dil meselesiyle uğrayabilir misin? Ben yetişkin bir yetişkinim!"
 
 # game/UpdateScript0.08_2.rpy:9013 #-#-# translate crowdin pizza_date_6fdd9bf7:
 msgid "[_MB_] Miss [mom_name], [ryan]... imagine seeing you here!"
-msgstr ""
+msgstr "[ _MB_] Miss [ mom_name], [ ryan] ... sizi burada görmeyi hayal edin!"
 
 # game/UpdateScript0.08_2.rpy:9014 #-#-# translate crowdin pizza_date_a979b639_1:
 msgid "[_M_] Hey Matt, Darnell, Trent, How are you boys doing?"
-msgstr ""
+msgstr "Hey Matt, Darnell, Trent, nasıl gidiyor çocuklar?"
 
 # game/UpdateScript0.08_2.rpy:9015 #-#-# translate crowdin pizza_date_3edc7518_1:
 msgid "[_DR_] We're good, thanks, Miss [mom_name]."
-msgstr ""
+msgstr "[ _DR_] Biz iyiyiz, teşekkürler, Bayan [ mom_name]."
 
 # game/UpdateScript0.08_2.rpy:9016 #-#-# translate crowdin pizza_date_06828591_1:
 msgid "[_M_] Did you get your make up math work finished, Trent?"
-msgstr ""
+msgstr "Matematik işini bitirdin mi, Trent?"
 
 # game/UpdateScript0.08_2.rpy:9017 #-#-# translate crowdin pizza_date_6db6e9f1:
 msgid "[_T_] Almost."
-msgstr ""
+msgstr "[ _T_] Neredeyse."
 
 # game/UpdateScript0.08_2.rpy:9019 #-#-# translate crowdin pizza_date_771fea4c:
 msgid "[_DR_] Miss [mom_name]? You don't happen to have a blue SUV parked around the corner, do you?"
@@ -16502,7 +16502,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:9181 #-#-# translate crowdin pizza_date_82f30cfd_1:
 msgid "[_R_] Hmmm..."
-msgstr ""
+msgstr "[ _R_] Hmmm ..."
 
 # game/UpdateScript0.08_2.rpy:9184 #-#-# translate crowdin pizza_date_8cf89629_1:
 msgid "[_R_] Why isn't there any water on the table?... Why are all the napkins dry?... The only place I see water is over here on the floor."
@@ -16682,31 +16682,31 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:9259 #-#-# translate crowdin pizza_date_a52cbe36_1:
 msgid "[_R_] So, you ready for some more fun?"
-msgstr ""
+msgstr "-Biraz daha eğlenmeye hazır mısın?"
 
 # game/UpdateScript0.08_2.rpy:9262 #-#-# translate crowdin pizza_date_c5a107e6_1:
 msgid "[_M_] Really?... I kind of thought our date was over."
-msgstr ""
+msgstr "Gerçekten mi? Randevumuzun bittiğini düşünmüştüm."
 
 # game/UpdateScript0.08_2.rpy:9263 #-#-# translate crowdin pizza_date_bede9e5d_1:
 msgid "[_R_] I had one more little adventure in mind."
-msgstr ""
+msgstr "Aklımda bir küçük macera daha vardı."
 
 # game/UpdateScript0.08_2.rpy:9264 #-#-# translate crowdin pizza_date_0eea338b_1:
 msgid "[_R_] That is, if you're still up for some fun."
-msgstr ""
+msgstr "Eğer hala biraz eğlenmeye devam etseniz."
 
 # game/UpdateScript0.08_2.rpy:9265 #-#-# translate crowdin pizza_date_21d94d7f_1:
 msgid "[_M_] Hmmm... More fun than we've already had?"
-msgstr ""
+msgstr "[ _M_] Hmmm ... Daha önce sahip olmamızdan daha mı eğlenceli?"
 
 # game/UpdateScript0.08_2.rpy:9268 #-#-# translate crowdin pizza_date_2a065f78_1:
 msgid "[_M_] Yes, please!"
-msgstr ""
+msgstr "[ _M_] Evet, lütfen!"
 
 # game/UpdateScript0.08_2.rpy:9269 #-#-# translate crowdin pizza_date_22715e52_1:
 msgid "[_R_] Awesome! Now, when you get to our road, don't turn down it... Just keep going straight towards the ocean."
-msgstr ""
+msgstr "Harika! Şimdi, bizim yolumuza vardığınızda, onu geri çevirmeyin ... Okyanusa doğru düz gitmeye devam et."
 
 # game/UpdateScript0.08_2.rpy:9278 #-#-# translate crowdin pizza_date_426e5fb8_1:
 msgid "[_M_] So... It's getting pretty late."
@@ -18694,7 +18694,7 @@ msgstr "{i}{b}\"Annemin azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.08_2.rpy:10227 #-#-# translate crowdin sushi_date_joey_6bbcd792:
 msgid "{i}{b}\"Mom's Sexual Frustration =0\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin Cinsel Hüsranı = 0\" { /b } { /i }"
 
 # game/UpdateScript0.08_2.rpy:10235 #-#-# translate crowdin sushi_date_joey_7bb82505:
 msgid "[_G_] It doesn't matter how many times you ask, the answer is going to be the same."
@@ -18962,31 +18962,31 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:10350 #-#-# translate crowdin sushi_date_joey_a52cbe36:
 msgid "[_R_] So, you ready for some more fun?"
-msgstr ""
+msgstr "-Biraz daha eğlenmeye hazır mısın?"
 
 # game/UpdateScript0.08_2.rpy:10353 #-#-# translate crowdin sushi_date_joey_c5a107e6:
 msgid "[_M_] Really?... I kind of thought our date was over."
-msgstr ""
+msgstr "Gerçekten mi? Randevumuzun bittiğini düşünmüştüm."
 
 # game/UpdateScript0.08_2.rpy:10354 #-#-# translate crowdin sushi_date_joey_bede9e5d:
 msgid "[_R_] I had one more little adventure in mind."
-msgstr ""
+msgstr "Aklımda bir küçük macera daha vardı."
 
 # game/UpdateScript0.08_2.rpy:10355 #-#-# translate crowdin sushi_date_joey_0eea338b:
 msgid "[_R_] That is, if you're still up for some fun."
-msgstr ""
+msgstr "Eğer hala biraz eğlenmeye devam etseniz."
 
 # game/UpdateScript0.08_2.rpy:10356 #-#-# translate crowdin sushi_date_joey_21d94d7f:
 msgid "[_M_] Hmmm... More fun than we've already had?"
-msgstr ""
+msgstr "[ _M_] Hmmm ... Daha önce sahip olmamızdan daha mı eğlenceli?"
 
 # game/UpdateScript0.08_2.rpy:10359 #-#-# translate crowdin sushi_date_joey_2a065f78:
 msgid "[_M_] Yes, please!"
-msgstr ""
+msgstr "[ _M_] Evet, lütfen!"
 
 # game/UpdateScript0.08_2.rpy:10360 #-#-# translate crowdin sushi_date_joey_22715e52:
 msgid "[_R_] Awesome! Now, when you get to our road, don't turn down it... Just keep going straight towards the ocean."
-msgstr ""
+msgstr "Harika! Şimdi, bizim yolumuza vardığınızda, onu geri çevirmeyin ... Okyanusa doğru düz gitmeye devam et."
 
 # game/UpdateScript0.08_2.rpy:10369 #-#-# translate crowdin sushi_date_joey_426e5fb8:
 msgid "[_M_] So... It's getting pretty late."
@@ -19934,7 +19934,7 @@ msgstr "{i}{b}\"Annemin azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.08_2.rpy:10801 #-#-# translate crowdin sushi_date_joey_6bbcd792_1:
 msgid "{i}{b}\"Mom's Sexual Frustration =0\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin Cinsel Hüsranı = 0\" { /b } { /i }"
 
 # game/UpdateScript0.08_2.rpy:10809 #-#-# translate crowdin sushi_date_joey_7bb82505_1:
 msgid "[_G_] It doesn't matter how many times you ask, the answer is going to be the same."
@@ -20210,31 +20210,31 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:10926 #-#-# translate crowdin sushi_date_joey_a52cbe36_1:
 msgid "[_R_] So, you ready for some more fun?"
-msgstr ""
+msgstr "-Biraz daha eğlenmeye hazır mısın?"
 
 # game/UpdateScript0.08_2.rpy:10929 #-#-# translate crowdin sushi_date_joey_c5a107e6_1:
 msgid "[_M_] Really?... I kind of thought our date was over."
-msgstr ""
+msgstr "Gerçekten mi? Randevumuzun bittiğini düşünmüştüm."
 
 # game/UpdateScript0.08_2.rpy:10930 #-#-# translate crowdin sushi_date_joey_bede9e5d_1:
 msgid "[_R_] I had one more little adventure in mind."
-msgstr ""
+msgstr "Aklımda bir küçük macera daha vardı."
 
 # game/UpdateScript0.08_2.rpy:10931 #-#-# translate crowdin sushi_date_joey_0eea338b_1:
 msgid "[_R_] That is, if you're still up for some fun."
-msgstr ""
+msgstr "Eğer hala biraz eğlenmeye devam etseniz."
 
 # game/UpdateScript0.08_2.rpy:10932 #-#-# translate crowdin sushi_date_joey_21d94d7f_1:
 msgid "[_M_] Hmmm... More fun than we've already had?"
-msgstr ""
+msgstr "[ _M_] Hmmm ... Daha önce sahip olmamızdan daha mı eğlenceli?"
 
 # game/UpdateScript0.08_2.rpy:10935 #-#-# translate crowdin sushi_date_joey_2a065f78_1:
 msgid "[_M_] Yes, please!"
-msgstr ""
+msgstr "[ _M_] Evet, lütfen!"
 
 # game/UpdateScript0.08_2.rpy:10936 #-#-# translate crowdin sushi_date_joey_22715e52_1:
 msgid "[_R_] Awesome! Now, when you get to our road, don't turn down it... Just keep going straight towards the ocean."
-msgstr ""
+msgstr "Harika! Şimdi, bizim yolumuza vardığınızda, onu geri çevirmeyin ... Okyanusa doğru düz gitmeye devam et."
 
 # game/UpdateScript0.08_2.rpy:10945 #-#-# translate crowdin sushi_date_joey_426e5fb8_1:
 msgid "[_M_] So... It's getting pretty late."
@@ -21090,7 +21090,7 @@ msgstr "[_MT_] {i}İşte o inanılmaz duygu geliyor!{/i}"
 
 # game/UpdateScript0.08_2.rpy:11398 #-#-# translate crowdin sushi_date_ryan_54ab8d02:
 msgid "[_M_] [ryan], I'm about to..."
-msgstr ""
+msgstr "[ _M_] [ Ryan], ben de ..."
 
 # game/UpdateScript0.08_2.rpy:11405 #-#-# translate crowdin sushi_date_ryan_e5376c70:
 msgid "[_MT_] {i}God, yes!... Fucking incredible!{/i}"
@@ -21102,7 +21102,7 @@ msgstr "{i}{b}\"Annemin azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.08_2.rpy:11408 #-#-# translate crowdin sushi_date_ryan_6bbcd792:
 msgid "{i}{b}\"Mom's Sexual Frustration =0\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin Cinsel Hüsranı = 0\" { /b } { /i }"
 
 # game/UpdateScript0.08_2.rpy:11416 #-#-# translate crowdin sushi_date_ryan_544712ea:
 msgid "[_M_] Wow!... Thank you. [ryan]!"
@@ -21178,15 +21178,15 @@ msgstr "[_R_] Rica ederim."
 
 # game/UpdateScript0.08_2.rpy:11443 #-#-# translate crowdin sushi_date_ryan_a52cbe36:
 msgid "[_R_] So, you ready for some more fun?"
-msgstr ""
+msgstr "-Biraz daha eğlenmeye hazır mısın?"
 
 # game/UpdateScript0.08_2.rpy:11446 #-#-# translate crowdin sushi_date_ryan_c5a107e6:
 msgid "[_M_] Really?... I kind of thought our date was over."
-msgstr ""
+msgstr "Gerçekten mi? Randevumuzun bittiğini düşünmüştüm."
 
 # game/UpdateScript0.08_2.rpy:11447 #-#-# translate crowdin sushi_date_ryan_bede9e5d:
 msgid "[_R_] I had one more little adventure in mind."
-msgstr ""
+msgstr "Aklımda bir küçük macera daha vardı."
 
 # game/UpdateScript0.08_2.rpy:11449 #-#-# translate crowdin sushi_date_ryan_b37696f9:
 msgid "[_M_] You mean... back to the beach?"
@@ -21198,11 +21198,11 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:11452 #-#-# translate crowdin sushi_date_ryan_0eea338b:
 msgid "[_R_] That is, if you're still up for some fun."
-msgstr ""
+msgstr "Eğer hala biraz eğlenmeye devam etseniz."
 
 # game/UpdateScript0.08_2.rpy:11453 #-#-# translate crowdin sushi_date_ryan_21d94d7f:
 msgid "[_M_] Hmmm... More fun than we've already had?"
-msgstr ""
+msgstr "[ _M_] Hmmm ... Daha önce sahip olmamızdan daha mı eğlenceli?"
 
 # game/UpdateScript0.08_2.rpy:11457 #-#-# translate crowdin sushi_date_ryan_65495beb:
 msgid "[_M_] I should say no... We shouldn't ever do that again... Let's go, but try to control our sexual urges better this time."
@@ -21218,11 +21218,11 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:11462 #-#-# translate crowdin sushi_date_ryan_2a065f78:
 msgid "[_M_] Yes, please!"
-msgstr ""
+msgstr "[ _M_] Evet, lütfen!"
 
 # game/UpdateScript0.08_2.rpy:11463 #-#-# translate crowdin sushi_date_ryan_22715e52:
 msgid "[_R_] Awesome! Now, when you get to our road, don't turn down it... Just keep going straight towards the ocean."
-msgstr ""
+msgstr "Harika! Şimdi, bizim yolumuza vardığınızda, onu geri çevirmeyin ... Okyanusa doğru düz gitmeye devam et."
 
 # game/UpdateScript0.08_2.rpy:11472 #-#-# translate crowdin sushi_date_ryan_426e5fb8:
 msgid "[_M_] So... It's getting pretty late."
@@ -21670,7 +21670,7 @@ msgstr "[_A_] Yani, görüyorsun. Benim için o kadar da garip değil."
 
 # game/UpdateScript0.08_2.rpy:11669 #-#-# translate crowdin sushi_date_ryan_82f30cfd:
 msgid "[_R_] Hmmm..."
-msgstr ""
+msgstr "[ _R_] Hmmm ..."
 
 # game/UpdateScript0.08_2.rpy:11673 #-#-# translate crowdin sushi_date_ryan_39d18a67:
 msgid "[_A_] Maybe these can help you decide?"
@@ -22230,7 +22230,7 @@ msgstr "[_MT_] {i}İşte o inanılmaz duygu geliyor!{/i}"
 
 # game/UpdateScript0.08_2.rpy:11938 #-#-# translate crowdin sushi_date_ryan_54ab8d02_1:
 msgid "[_M_] [ryan], I'm about to..."
-msgstr ""
+msgstr "[ _M_] [ Ryan], ben de ..."
 
 # game/UpdateScript0.08_2.rpy:11945 #-#-# translate crowdin sushi_date_ryan_e5376c70_1:
 msgid "[_MT_] {i}God, yes!... Fucking incredible!{/i}"
@@ -22242,7 +22242,7 @@ msgstr "{i}{b}\"Annemin azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.08_2.rpy:11948 #-#-# translate crowdin sushi_date_ryan_6bbcd792_1:
 msgid "{i}{b}\"Mom's Sexual Frustration =0\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Annemin Cinsel Hüsranı = 0\" { /b } { /i }"
 
 # game/UpdateScript0.08_2.rpy:11956 #-#-# translate crowdin sushi_date_ryan_544712ea_1:
 msgid "[_M_] Wow!... Thank you. [ryan]!"
@@ -22322,31 +22322,31 @@ msgstr "[_R_] Rica ederim."
 
 # game/UpdateScript0.08_2.rpy:11984 #-#-# translate crowdin sushi_date_ryan_a52cbe36_1:
 msgid "[_R_] So, you ready for some more fun?"
-msgstr ""
+msgstr "-Biraz daha eğlenmeye hazır mısın?"
 
 # game/UpdateScript0.08_2.rpy:11987 #-#-# translate crowdin sushi_date_ryan_c5a107e6_1:
 msgid "[_M_] Really?... I kind of thought our date was over."
-msgstr ""
+msgstr "Gerçekten mi? Randevumuzun bittiğini düşünmüştüm."
 
 # game/UpdateScript0.08_2.rpy:11988 #-#-# translate crowdin sushi_date_ryan_bede9e5d_1:
 msgid "[_R_] I had one more little adventure in mind."
-msgstr ""
+msgstr "Aklımda bir küçük macera daha vardı."
 
 # game/UpdateScript0.08_2.rpy:11989 #-#-# translate crowdin sushi_date_ryan_0eea338b_1:
 msgid "[_R_] That is, if you're still up for some fun."
-msgstr ""
+msgstr "Eğer hala biraz eğlenmeye devam etseniz."
 
 # game/UpdateScript0.08_2.rpy:11990 #-#-# translate crowdin sushi_date_ryan_21d94d7f_1:
 msgid "[_M_] Hmmm... More fun than we've already had?"
-msgstr ""
+msgstr "[ _M_] Hmmm ... Daha önce sahip olmamızdan daha mı eğlenceli?"
 
 # game/UpdateScript0.08_2.rpy:11993 #-#-# translate crowdin sushi_date_ryan_2a065f78_1:
 msgid "[_M_] Yes, please!"
-msgstr ""
+msgstr "[ _M_] Evet, lütfen!"
 
 # game/UpdateScript0.08_2.rpy:11994 #-#-# translate crowdin sushi_date_ryan_22715e52_1:
 msgid "[_R_] Awesome! Now, when you get to our road, don't turn down it... Just keep going straight towards the ocean."
-msgstr ""
+msgstr "Harika! Şimdi, bizim yolumuza vardığınızda, onu geri çevirmeyin ... Okyanusa doğru düz gitmeye devam et."
 
 # game/UpdateScript0.08_2.rpy:12003 #-#-# translate crowdin sushi_date_ryan_426e5fb8_1:
 msgid "[_M_] So... It's getting pretty late."
@@ -24978,7 +24978,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:13251 #-#-# translate crowdin beach_date_1038422b:
 msgid "[_RT_] {i}Wow!{/i}"
-msgstr ""
+msgstr "[ _RT_] {i}Wow! { /i }"
 
 # game/UpdateScript0.08_2.rpy:13252 #-#-# translate crowdin beach_date_d6f5b161:
 msgid "[_MT_] {i}What is happening?{/i}"
@@ -25610,7 +25610,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:13630 #-#-# translate crowdin beach_date_1038422b_1:
 msgid "[_RT_] {i}Wow!{/i}"
-msgstr ""
+msgstr "[ _RT_] {i}Wow! { /i }"
 
 # game/UpdateScript0.08_2.rpy:13631 #-#-# translate crowdin beach_date_c1d08c8a:
 msgid "[_MT_] {i}Oh, my God! I think he really loves me!{/i}"
@@ -25798,7 +25798,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:13767 #-#-# translate crowdin beach_date_9bae8c84:
 msgid "[_RT_] {i}Oh, fuck!{/i}"
-msgstr ""
+msgstr "[ _RT_] {i}Oh, siktir! { /i }"
 
 # game/UpdateScript0.08_2.rpy:13768 #-#-# translate crowdin beach_date_64fb4ad0:
 msgid "[_RT_] {i}Mom's pushing her ass right into my cock!{/i}"
@@ -26450,7 +26450,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:14084 #-#-# translate crowdin beach_date_54ab8d02:
 msgid "[_M_] [ryan], I'm about to..."
-msgstr ""
+msgstr "[ _M_] [ Ryan], ben de ..."
 
 # game/UpdateScript0.08_2.rpy:14096 #-#-# translate crowdin beach_date_5597ed21:
 msgid "[_M_] Thank you, [ryan]!"
