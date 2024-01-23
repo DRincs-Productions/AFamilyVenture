@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-01-23 16:59\n"
+"PO-Revision-Date: 2024-01-23 19:33\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/Phone_event_screen.rpy:1132 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -850,35 +850,35 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1882 #-#-# translate crowdin event_info_100_adfe49b3:
 msgid "[_RT_] {i}Mom's getting even more busy now that she'll be gardening with Sidney. I need quality time with her too! Sunday's probably the only time we could spend time together.{/i}"
-msgstr ""
+msgstr "[_RT_] Мама {i}стала еще более занятой, теперь она будет сажать Сиднее. Мне тоже нужно качественное время! Вероятно, воскресенье единственное время, которое мы могли бы провести вместе.{/i}"
 
 # game/Phone_event_screen.rpy:1885 #-#-# translate crowdin event_info_100_947c1047:
 msgid "[_RT_] {i}Mom's getting to be so much less prudish. Maybe it's time to see what she'll do with me if I invite her on a date. Sunday's probably the only time we could both do it.{/i}"
-msgstr ""
+msgstr "[_RT_] Плюс {i}становится гораздо меньше пьесы. Может быть, пришло время посмотреть, что она будет делать со мной, если я приглашаю ее на свидание. Вероятно, воскресенье единственное время, которое мы оба могли бы сделать это.{/i}"
 
 # game/Phone_event_screen.rpy:1888 #-#-# translate crowdin event_info_100_0e1ef52b:
 msgid "[_RT_] {i}I need to make the date so perfect that Mom won't be able to resist me any longer.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Мне нужно сделать свидание таким идеальным, что Мама больше не сможет противостоять мне.{/i}"
 
 # game/Phone_event_screen.rpy:1893 #-#-# translate crowdin event_info_101_bec3d440:
 msgid "[_RT_] {i}I need to check out what Mandy and Lauren are doing in the yard each Sunday morning.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Мне нужно проверить что Манди и Лорен делают во дворе каждое воскресенье утро.{/i}"
 
 # game/Phone_event_screen.rpy:1896 #-#-# translate crowdin event_info_101_8ce103bc:
 msgid "[_RT_] {i}I need to buy the girls some bikinis on the Hard'n Long website, pick them up from the warehouse, and give them to the girls on Sunday morning.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Мне нужно купить девушек бикинис на жестком длинном веб-сайте. возьмите их с склада, и отдайте их девушкам в воскресенье утром. /i}"
 
 # game/Phone_event_screen.rpy:1899 #-#-# translate crowdin event_info_101_78644780:
 msgid "[_RT_] {i}Corrupting the girls enough to get the type of shots that will bring them real fame is taking longer than I thought. Maybe I should start focusing more on the campaign until it's over so I can give this my full attention.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}разжигает девочек, чтобы получить тот вид выстрелов, который принесет им настоящую славу, занимает больше времени, чем я думал. Может быть, мне следует сосредоточиться больше на кампании, пока она не закончится, чтобы я мог уделить этому внимание.{/i}"
 
 # game/Phone_event_screen.rpy:1902 #-#-# translate crowdin event_info_101_7640b858:
 msgid "[_RT_] {i}Corrupting the girls enough to get the type of shots that will bring them real fame is taking longer than I thought. Maybe I should focus more on only corrupting Mandy on the days we clean the yard.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}разжигает девочек, чтобы получить тот вид выстрелов, который принесет им настоящую славу, занимает больше времени, чем я думал. Может быть, я должен больше сосредоточиться на только на коррумпировании Манди в те дни, когда мы очищаем дворе.{/i}"
 
 # game/Phone_event_screen.rpy:1905 #-#-# translate crowdin event_info_101_63e6c99b:
 msgid "[_RT_] {i}I just need to keep taking pictures of the girls Sunday morning until they get those one hundred thousand followers they're after.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Мне просто нужно продолжать фотографировать девушек в воскресенье утром, пока они не получат сто тысяч последователей.{/i}"
 
 # game/Phone_event_screen.rpy:1920 #-#-# translate crowdin again_tutorial_50b4b06e:
 msgid "[_R_] Testing.... Testing.... Ok.... It looks like it's recording."
