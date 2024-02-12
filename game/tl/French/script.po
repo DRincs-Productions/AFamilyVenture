@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-01-23 14:54\n"
+"PO-Revision-Date: 2024-02-12 17:32\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -286,7 +286,7 @@ msgstr "'{b}CLIQUE{/b}'"
 
 # game/script.rpy:1006 #-#-# translate crowdin main_322f7fd4:
 msgid "{b}{i}{b}(HINT){/b} Open your phone and click on the \"Progress button\" to see hints to your active events.{/i}{/b}"
-msgstr "{b}{i}{b}(Indice){/b} Ouvrez votre téléphone et cliquez sur le bouton \"Progrès\" pour voir les indices de vos événements actifs.{/i}{/b}"
+msgstr "{b}{i}{b}(Indice){/b} Ouvrez votre téléphone et cliquez sur le bouton «Progrès« pour voir les indices de vos événements actifs.{/i}{/b}"
 
 # game/script.rpy:1007 #-#-# translate crowdin main_f24e9dae:
 msgid "[_RT_] {i}{b}(HINT){/b} I should go to the family portrait first to reminisce.{/i}"
@@ -6518,7 +6518,7 @@ msgstr "[_MG_] Hrahrahra.... Che biienc que Mratt tech doiche une faveuche et ch
 
 # game/script.rpy:8542 #-#-# translate crowdin megan_cum_ntr_41f3cfec:
 msgid "[_MG_] {i}\"Glurp.... glurp.... \"{/i}"
-msgstr "[_MG_] {i}\"Glurp.... glurp.... \"{/i}"
+msgstr "[_MG_] {i}«Glurp.... glurp.... «{/i}"
 
 # game/script.rpy:8561 #-#-# translate crowdin megan_cum_ntr_1207d4fe_1:
 msgid "[_R_] Aaahhhh!!!..."
@@ -7102,7 +7102,7 @@ msgstr "'Vous avez reçu trois bouteilles de vin.'"
 
 # game/script.rpy:9272 #-#-# translate crowdin warehouse_d87d2efa:
 msgid "\"You received a lovely set of bikinis.\""
-msgstr "\"Vous avez reçu un beau bikinis.\""
+msgstr "«Vous avez reçu un beau bikinis.«"
 
 # game/script.rpy:9275 #-#-# translate crowdin warehouse_b27ef456:
 msgid "\"There's nothing else to do here.\""
@@ -7270,7 +7270,7 @@ msgstr "'Vous avez reçu trois bouteilles de vin.'"
 
 # game/script.rpy:9552 #-#-# translate crowdin warehousealso_d87d2efa:
 msgid "\"You received a lovely set of bikinis.\""
-msgstr "\"Vous avez reçu un beau bikinis.\""
+msgstr "«Vous avez reçu un beau bikinis.«"
 
 # game/script.rpy:9555 #-#-# translate crowdin warehousealso_dc658733:
 msgid "\"There's nothing left to do here.\""
