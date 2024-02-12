@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-01-13 05:55\n"
+"PO-Revision-Date: 2024-02-12 17:31\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/Phone_event_screen.rpy:1132 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -854,7 +854,7 @@ msgstr "[_RT_]{i}Maman est encore plus occupée maintenant qu'elle va jardiner a
 
 # game/Phone_event_screen.rpy:1885 #-#-# translate crowdin event_info_100_947c1047:
 msgid "[_RT_] {i}Mom's getting to be so much less prudish. Maybe it's time to see what she'll do with me if I invite her on a date. Sunday's probably the only time we could both do it.{/i}"
-msgstr "{i}(HINT){/b}Maman est de moins en moins pudique. Il est peut-être temps de voir ce qu'elle fera de moi si je l'invite à un rendez-vous. Dimanche est probablement le seul moment où nous pourrions le faire tous les deux."
+msgstr "{i}(INDICE){/b}Maman est de moins en moins pudique. Il est peut-être temps de voir ce qu'elle fera de moi si je l'invite à un rendez-vous. Dimanche est probablement le seul moment où nous pourrions le faire tous les deux."
 
 # game/Phone_event_screen.rpy:1888 #-#-# translate crowdin event_info_100_0e1ef52b:
 msgid "[_RT_] {i}I need to make the date so perfect that Mom won't be able to resist me any longer.{/i}"
@@ -1227,7 +1227,7 @@ msgstr "???"
 # game/Phone_event_screen.rpy:1073
 msgid "Press the \"{color=#E60000}???{/color}\" to see \n"
 "             hints!"
-msgstr "Appuyer sur \"{color=#E60000}???{/color}\" pour voir \n"
+msgstr "Appuyer sur «{color=#E60000}???{/color}« pour voir \n"
 "             indices!"
 
 # game/Phone_event_screen.rpy:1076
