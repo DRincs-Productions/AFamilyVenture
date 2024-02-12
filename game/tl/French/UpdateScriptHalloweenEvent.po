@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-10-09 19:29\n"
+"PO-Revision-Date: 2024-02-12 17:32\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScriptHalloweenEvent.rpy:256 #-#-# translate crowdin halloween_event_start_36b1bdbb:
 msgid "{i}{b}(HINT){/b} Happy Halloween!{/i}"
@@ -22,19 +22,19 @@ msgstr "{b}{i}'Joyeux Halloween, et bienvenue à 'Stranger Ventures' !'{/i}{/b}"
 
 # game/UpdateScriptHalloweenEvent.rpy:267 #-#-# translate crowdin halloween_event_start_bea662cf:
 msgid "{b}{i}\"If you would like to skip this event, you can do so now.\"{/i}{/b}"
-msgstr "{b}{i}\"Si vous voulez éviter cet événement, vous pouvez le faire maintenant.\"{/i}{/b}"
+msgstr "{b}{i}«Si vous voulez éviter cet événement, vous pouvez le faire maintenant.«{/i}{/b}"
 
 # game/UpdateScriptHalloweenEvent.rpy:270 #-#-# translate crowdin halloween_event_start_1e33d05a:
 msgid "{b}{i}\"The Halloween special will be available in the main menu gallery to play later if you would like.\"{/i}{/b}"
-msgstr "{b}{i}\"Le spécial Halloween sera disponible dans la galerie du menu principal pour une lecture ultérieure si vous le souhaitez.\" {/i}{/b}"
+msgstr "{b}{i}«Le spécial Halloween sera disponible dans la galerie du menu principal pour une lecture ultérieure si vous le souhaitez.« {/i}{/b}"
 
 # game/UpdateScriptHalloweenEvent.rpy:278 #-#-# translate crowdin halloween_event_start_c43cc938:
 msgid "{b}{i}\"The choices you make in this event will have no consequences in the main story line of the game.\"{/i}{/b}"
-msgstr "{b}{i}\"Les choix que vous ferez au cours de cet événement n'auront aucune conséquence sur l'histoire principale du jeu.{/i}{/b}"
+msgstr "{b}{i}«Les choix que vous ferez au cours de cet événement n'auront aucune conséquence sur l'histoire principale du jeu.{/i}{/b}"
 
 # game/UpdateScriptHalloweenEvent.rpy:279 #-#-# translate crowdin halloween_event_start_97cbda75:
 msgid "{b}{i}\"They will however make a difference in future chapters of our Halloween event.\"{/i}{/b}"
-msgstr "{b}{i}\"Ils feront cependant la différence dans les futurs chapitres de notre événement Halloween.\"{/i}{/b}"
+msgstr "{b}{i}«Ils feront cependant la différence dans les futurs chapitres de notre événement Halloween.«{/i}{/b}"
 
 # game/UpdateScriptHalloweenEvent.rpy:280 #-#-# translate crowdin halloween_event_start_62c4ee5d:
 msgid "{b}{i}\"We hope you enjoy!\"{/i}{/b}"
@@ -106,7 +106,7 @@ msgstr "[_RT_] {i}C'est l'heure de commencer ma journée.{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:340 #-#-# translate crowdin scary_wakeup_ad04d2c0:
 msgid "[_RT_] {i}Maybe I should call the gang and see if they want to play \"Monsters and Mountains\" sometime soon.{/i}"
-msgstr "[_RT_] {i}Peut-être que je devrais appeler le gang et voir s'ils veulent jouer à \"Monstres et Montagnes\" un de ces jours. {/i}"
+msgstr "[_RT_] {i}Peut-être que je devrais appeler le gang et voir s'ils veulent jouer à «Monstres et Montagnes« un de ces jours. {/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:357 #-#-# translate crowdin scary_wakeup_14f69d06:
 msgid "{b}{i}\"Due to your outstanding achievements in the field of fuckery, you have won the \"Ten of Clubs\" Card!{/i}{/b}"
@@ -1754,7 +1754,7 @@ msgstr "[_RT_] {i}Bon sang ! J'espère que Sidney va bien... Quelqu'un d'autre q
 
 # game/UpdateScriptHalloweenEvent.rpy:1478 #-#-# translate crowdin dice_decision_6a854948:
 msgid "{b}{i}\"Are you sure you're okay with monster sex? If not, you should roll back and choose the other one.\"{/i}{/b}"
-msgstr "{b}{i}\"Êtes-vous sûr d'être d'accord avec le sexe des monstres ? Si ce n'est pas le cas, vous devriez revenir en arrière et choisir l'autre.\"{/i}{/b}"
+msgstr "{b}{i}«Êtes-vous sûr d'être d'accord avec le sexe des monstres ? Si ce n'est pas le cas, vous devriez revenir en arrière et choisir l'autre.«{/i}{/b}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1479 #-#-# translate crowdin dice_decision_fb92f28c:
 msgid "{b}{i}\"You have been warned! Please don't complain about being offended later!\"{/i}{/b}"
