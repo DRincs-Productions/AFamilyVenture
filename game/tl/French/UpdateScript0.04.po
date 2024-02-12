@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-10-09 19:27\n"
+"PO-Revision-Date: 2024-02-12 17:31\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/UpdateScript0.04.rpy:320 #-#-# translate crowdin get_sidney_modeling_68a39f05:
 msgid "[_RT_] {i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
@@ -8298,7 +8298,7 @@ msgstr "[_B_] Grâce au service d'abonnement Cosplay Heaven, je peux devenir l'u
 
 # game/UpdateScript0.04.rpy:4602 #-#-# translate crowdin bye_bobby_dcd6b298:
 msgid "[_B_] I've already signed up for it.... my user name is \"BigDickBobby\"!"
-msgstr "[_B_] Je m'y suis déjà inscrit.... mon nom d'utilisateur est \"BigDickBobby\"!"
+msgstr "[_B_] Je m'y suis déjà inscrit.... mon nom d'utilisateur est «BigDickBobby«!"
 
 # game/UpdateScript0.04.rpy:4603 #-#-# translate crowdin bye_bobby_45c0f793:
 msgid "[_RT_] {i}Of course it is.{/i}"
