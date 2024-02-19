@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-01-23 18:03\n"
+"PO-Revision-Date: 2024-02-19 15:13\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -6102,7 +6102,7 @@ msgstr "[_M_] Unsere Geschichte beginnt in Thebes, im königlichen Palast, in de
 
 # game/script.rpy:8108 #-#-# translate crowdin firstdayofschool_c0bcf9b0:
 msgid "[_M_] .... Plague{p}.... creon{p}.... apollo{p}.... thebes..."
-msgstr ""
+msgstr "[_M_] .... Plague{p}.... creon{p}.... apollo{p}.... thebes..."
 
 # game/script.rpy:8111 #-#-# translate crowdin firstdayofschool_5e5e9891:
 msgid "[_RT_] {i}Oh my gosh this is so boring! Greek plays are the worst, how am I supposed to pay attention to this. I've never heard of Oedipus before, why should I care about him now?{/i}"
