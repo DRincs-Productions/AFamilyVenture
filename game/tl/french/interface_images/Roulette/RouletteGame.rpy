@@ -1,0 +1,276 @@
+# TODO: Translation updated at 2023-06-26 18:52
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:607
+translate french test_feb4bc5b:
+
+    # "[betPickVar]"
+    "[betPickVar]"
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:617
+translate french gameTypeErrorCheck_be76e8b9:
+
+    # RLT_dealer "Error: You haven't bet any amount of money.{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Erreur: Vous n'avez misé aucune somme d'argent.{w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:624
+translate french gameTypeErrorCheck_76d464ef:
+
+    # RLT_dealer "Error: With the Straight betting game you can pick any roulette number. Please supply a list of one number.{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Erreur : Avec le jeu de paris directs, vous pouvez choisir n’importe quel numéro de la roulette. Veuillez fournir un numéro. {w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:633
+translate french gameTypeErrorCheck_fbac9fac:
+
+    # RLT_dealer "Error: With the Split betting game you can pick any 2 (two) roulette numbers. Please supply a list of two different numbers.{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Erreur: Avec le jeu de paris fractionné, vous pouvez choisir 2 (deux) numéros de la roulette. Veuillez fournir une liste de deux numéros différents.{w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:642
+translate french gameTypeErrorCheck_a87619d6:
+
+    # RLT_dealer "Error: With the Street betting game you can pick any 3 (three) roulette numbers. Please supply a list of three different numbers.{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Erreur: Avec le jeu de paris de rue, vous pouvez choisir 3 (trois) numéros de la roulette. Veuillez fournir une liste de trois numéros différents.{w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:651
+translate french gameTypeErrorCheck_896b51f0:
+
+    # RLT_dealer "Error: With the Corner betting game you can pick any 4 (four) roulette numbers. Please supply a list of four different numbers.{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Erreur: Avec le jeu de paris au coin, vous pouvez choisir 4 (quatre) numéros de la roulette. Veuillez fournir une liste de quatre numéros différents.{w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:660
+translate french gameTypeErrorCheck_7f667963:
+
+    # RLT_dealer "Error: With the Penta betting game you can pick any 5 (five) roulette numbers. Please supply a list of 5 different numbers.{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Erreur: Avec le jeu de mise Penta, vous pouvez choisir 5 (cinq) numéros de la roulette. Veuillez fournir une liste de 5 nombres différents.{w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:669
+translate french gameTypeErrorCheck_30b475c4:
+
+    # RLT_dealer "Error: With the Line betting game you can pick any 6 (six) roulette numbers. Please supply a list of six different numbers.{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Erreur: Avec le jeu de ligne, vous pouvez choisir 6 (six) numéros de la roulette. Veuillez fournir une liste de six numéros différents.{w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:678
+translate french gameTypeErrorCheck_e69becfe:
+
+    # RLT_dealer "Error: With the Dozen betting game you can pick any 12 (twelve) roulette numbers. Please supply a list of 12 different numbers.{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Erreur: Avec le paris de la douzaine, vous pouvez choisir 12 (douze) numéros de la roulette. Veuillez fournir une liste de 12 numéros différents.{w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:688
+translate french gameTypeErrorCheck_3fde7c69:
+
+    # RLT_dealer "Error: You have picked an incorrect color. Acceptable colors are {outlinecolor=#ffffff}{color=#FF0000}Red{/color}{/outlinecolor} and {outlinecolor=#ffffff}{color=#000000}Black{/color}{/outlinecolor}.{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Erreur : Vous avez choisi une couleur incorrecte. Les couleurs acceptables sont {outlinecolor=#ffffff}{color=#FF0000}Red{/color}{/outlinecolor} et {outlinecolor=#ffffff}{color=#000000}Black{/outlinecolor}.{w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:696
+translate french gameTypeErrorCheck_3fde7c69_1:
+
+    # RLT_dealer "Error: You have picked an incorrect color. Acceptable colors are {outlinecolor=#ffffff}{color=#FF0000}Red{/color}{/outlinecolor} and {outlinecolor=#ffffff}{color=#000000}Black{/color}{/outlinecolor}.{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Erreur : Vous avez choisi une couleur incorrecte. Les couleurs acceptables sont {outlinecolor=#ffffff}{color=#FF0000}Red{/color}{/outlinecolor} et {outlinecolor=#ffffff}{color=#000000}Black{/outlinecolor}.{w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:704
+translate french gameTypeErrorCheck_e10368bb:
+
+    # RLT_dealer "Error: You have picked an incorrect bet. Acceptable bets are {outlinecolor=#ffffff}{color=#00008B}Odd{/color}{/outlinecolor} or {outlinecolor=#ffffff}{color=#00008B}Even{/color}{/outlinecolor}.{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Erreur : Vous avez choisi un pari incorrect. Les paris acceptables sont {outlinecolor=#ffffff}{color=#00008B}Odd{/color}{/outlinecolor} ou {outlinecolor=#ffffff}{color=#00008B}Even{/outlinecolor}.{w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:712
+translate french gameTypeErrorCheck_e10368bb_1:
+
+    # RLT_dealer "Error: You have picked an incorrect bet. Acceptable bets are {outlinecolor=#ffffff}{color=#00008B}Odd{/color}{/outlinecolor} or {outlinecolor=#ffffff}{color=#00008B}Even{/color}{/outlinecolor}.{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Erreur : Vous avez choisi un pari incorrect. Les paris acceptables sont {outlinecolor=#ffffff}{color=#00008B}Odd{/color}{/outlinecolor} ou {outlinecolor=#ffffff}{color=#00008B}Even{/outlinecolor}.{w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:720
+translate french call_rotate_1bc2ab16:
+
+    # RLT_dealer "Let's roll the ball!{w=2.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Faisons rouler la bille! {w=2.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:741
+translate french lblCheckRoll_4da8e105:
+
+    # RLT_dealer "You bet the ball would land on [playerPiked]{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Vous avez parié que la bille atterrirait sur [playerPiked]{w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:748
+translate french lblCheckRoll_38a91ca2:
+
+    # RLT_dealer "You win! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Vous gagnez! Le numéro sélectionné est [theRoll] et c’est [theRollOddOrEven_text], la couleur est [theRollColor_text]! {w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:749
+translate french lblCheckRoll_fb67b1be:
+
+    # RLT_dealer "The payout is 35 to 1, so you won $[payout]!{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Le gain est de 35 contre 1, vous avez donc gagné [payout]$ ! {w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:753
+translate french lblCheckRoll_bf9f0393:
+
+    # RLT_dealer "You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Vous perdez! Le chiffre sélectionné est [theRoll] et c'est [theRollOddOrEven_text], la couleur est [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:762
+translate french lblCheckRoll_38a91ca2_1:
+
+    # RLT_dealer "You win! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Vous gagnez! Le numéro sélectionné est [theRoll] et c’est [theRollOddOrEven_text], la couleur est [theRollColor_text]! {w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:763
+translate french lblCheckRoll_a5eb7354:
+
+    # RLT_dealer "The payout is 17 to 1, so you won $[payout]!{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Le gain est de 17 contre 1, vous avez donc gagné [payout]$ ! {w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:767
+translate french lblCheckRoll_bf9f0393_1:
+
+    # RLT_dealer "You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Vous perdez! Le chiffre sélectionné est [theRoll] et c'est [theRollOddOrEven_text], la couleur est [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:776
+translate french lblCheckRoll_38a91ca2_2:
+
+    # RLT_dealer "You win! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Vous gagnez! Le numéro sélectionné est [theRoll] et c’est [theRollOddOrEven_text], la couleur est [theRollColor_text]! {w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:777
+translate french lblCheckRoll_700ff3e1:
+
+    # RLT_dealer "The payout is 11 to 1, so you won $[payout]!{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Le gain est de 11 contre 1, vous avez donc gagné [payout]$ ! {w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:781
+translate french lblCheckRoll_bf9f0393_2:
+
+    # RLT_dealer "You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Vous perdez! Le chiffre sélectionné est [theRoll] et c'est [theRollOddOrEven_text], la couleur est [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:790
+translate french lblCheckRoll_38a91ca2_3:
+
+    # RLT_dealer "You win! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Vous gagnez! Le numéro sélectionné est [theRoll] et c’est [theRollOddOrEven_text], la couleur est [theRollColor_text]! {w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:791
+translate french lblCheckRoll_0f532220:
+
+    # RLT_dealer "The payout is 8 to 1, so you won $[payout]!{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Le gain est de 8 contre 1, vous avez donc gagné [payout]$ ! {w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:795
+translate french lblCheckRoll_bf9f0393_3:
+
+    # RLT_dealer "You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Vous perdez! Le chiffre sélectionné est [theRoll] et c'est [theRollOddOrEven_text], la couleur est [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:804
+translate french lblCheckRoll_38a91ca2_4:
+
+    # RLT_dealer "You win! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Vous gagnez! Le numéro sélectionné est [theRoll] et c’est [theRollOddOrEven_text], la couleur est [theRollColor_text]! {w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:805
+translate french lblCheckRoll_f11f7ab8:
+
+    # RLT_dealer "The payout is 6 to 1, so you won $[payout]!{w=3.0}{nw}"
+    RLT_dealer "Le gain est de 6 contre 1, vous avez donc gagné [payout]$ ! {w=3.0}{nw}"
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:809
+translate french lblCheckRoll_bf9f0393_4:
+
+    # RLT_dealer "You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Vous perdez! Le chiffre sélectionné est [theRoll] et c'est [theRollOddOrEven_text], la couleur est [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:818
+translate french lblCheckRoll_38a91ca2_5:
+
+    # RLT_dealer "You win! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Vous gagnez! Le numéro sélectionné est [theRoll] et c’est [theRollOddOrEven_text], la couleur est [theRollColor_text]! {w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:819
+translate french lblCheckRoll_bf6213fd:
+
+    # RLT_dealer "The payout is 5 to 1, so you won $[payout]!{w=3.0}{nw}"
+    RLT_dealer "Le gain est de 5 contre 1, vous avez donc gagné [payout]$ ! {w=3.0}{nw}"
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:823
+translate french lblCheckRoll_bf9f0393_5:
+
+    # RLT_dealer "You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Vous perdez! Le chiffre sélectionné est [theRoll] et c'est [theRollOddOrEven_text], la couleur est [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:832
+translate french lblCheckRoll_38a91ca2_6:
+
+    # RLT_dealer "You win! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Vous gagnez! Le numéro sélectionné est [theRoll] et c’est [theRollOddOrEven_text], la couleur est [theRollColor_text]! {w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:833
+translate french lblCheckRoll_b19b6772:
+
+    # RLT_dealer "The payout is 2 to 1, so you won $[payout]!{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Le gain est de 2 contre 1, vous avez donc gagné [payout]$ ! {w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:837
+translate french lblCheckRoll_bf9f0393_6:
+
+    # RLT_dealer "You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Vous perdez! Le chiffre sélectionné est [theRoll] et c'est [theRollOddOrEven_text], la couleur est [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:846
+translate french lblCheckRoll_38a91ca2_7:
+
+    # RLT_dealer "You win! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Vous gagnez! Le numéro sélectionné est [theRoll] et c’est [theRollOddOrEven_text], la couleur est [theRollColor_text]! {w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:847
+translate french lblCheckRoll_93d132d6:
+
+    # RLT_dealer "The payout is 1 to 1, so you won $[payout]!{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Le gain est de 1 contre 1, vous avez donc gagné [payout]$ ! {w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:851
+translate french lblCheckRoll_bf9f0393_7:
+
+    # RLT_dealer "You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Vous perdez! Le chiffre sélectionné est [theRoll] et c'est [theRollOddOrEven_text], la couleur est [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:860
+translate french lblCheckRoll_38a91ca2_8:
+
+    # RLT_dealer "You win! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Vous gagnez! Le numéro sélectionné est [theRoll] et c’est [theRollOddOrEven_text], la couleur est [theRollColor_text]! {w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:861
+translate french lblCheckRoll_93d132d6_1:
+
+    # RLT_dealer "The payout is 1 to 1, so you won $[payout]!{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Le gain est de 1 contre 1, vous avez donc gagné [payout]$ ! {w=3.0}{nw}" with Dissolve(2.0)
+
+# game/images/interface_images/Roulette/RouletteGame.rpy:865
+translate french lblCheckRoll_bf9f0393_8:
+
+    # RLT_dealer "You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+    RLT_dealer "Vous perdez! Le chiffre sélectionné est [theRoll] et c'est [theRollOddOrEven_text], la couleur est [theRollColor_text]!{w=3.0}{nw}" with Dissolve(2.0)
+
+translate french strings:
+
+    # game/images/interface_images/Roulette/RouletteGame.rpy:236
+    old "Croupier"
+    new "Croupier"
+
+    # game/images/interface_images/Roulette/RouletteGame.rpy:338
+    old "Do you want to play the Roulette?"
+    new "Voulez-vous jouer à la roulette?"
+
+    # game/images/interface_images/Roulette/RouletteGame.rpy:356
+    old "What type of game do you want to play?"
+    new "À quel type de jeu voulez-vous jouer ?"
+
+    # game/images/interface_images/Roulette/RouletteGame.rpy:571
+    old "Game type: [betType]\nYou bet on: [playerPiked]"
+    new "Type de jeu : [betType]\nVous avez misé sur: [playerPiked]"
+
+    # game/images/interface_images/Roulette/RouletteGame.rpy:603
+    old "Do you want to leave the Roulette game?"
+    new "Voulez-vous quitter la partie de Roulette?"
+
