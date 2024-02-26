@@ -84,9 +84,9 @@ translate spanish strings:
     old "Enable"
     new "Activar"
 
-    # renpy/common/00accessibility.rpy:186
-    old "Disable"
-    new "Desactivar"
+    # # renpy/common/00accessibility.rpy:186
+    # old "Disable"
+    # new "Desactivar"
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing"
@@ -116,9 +116,9 @@ translate spanish strings:
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
     new "Las opciones en este menú están destinadas a mejorar la accesibilidad. Es posible que no funcionen con todos los juegos, y algunas combinaciones de opciones pueden hacer que el juego no se pueda jugar. Esto no es un problema con el juego o el motor. Para obtener los mejores resultados al cambiar las fuentes, intenta mantener el tamaño del texto igual al original."
 
-    # renpy/common/00accessibility.rpy:229
-    old "Return"
-    new "Volver"
+    # # renpy/common/00accessibility.rpy:229
+    # old "return"
+    # new "Volver"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
@@ -300,17 +300,17 @@ translate spanish strings:
     old "File page [text]"
     new "Página de archivos [text]"
 
-    # renpy/common/00action_file.rpy:639
-    old "Page {}"
-    new "Página {}"
+    # # renpy/common/00action_file.rpy:639
+    # old "Page {}"
+    # new "Página {}"
 
-    # renpy/common/00action_file.rpy:639
-    old "Automatic saves"
-    new "Grabación automática"
+    # # renpy/common/00action_file.rpy:639
+    # old "Automatic saves"
+    # new "Grabación automática"
 
-    # renpy/common/00action_file.rpy:639
-    old "Quick saves"
-    new "Grabación rápida"
+    # # renpy/common/00action_file.rpy:639
+    # old "Quick saves"
+    # new "Grabación rápida"
 
     # renpy/common/00action_file.rpy:780
     old "Next file page."
@@ -780,9 +780,9 @@ translate spanish strings:
     old "Proceed"
     new "Continuar"
 
-    # renpy/common/00compat.rpy:371
-    old "Fullscreen"
-    new "Pantalla completa"
+    # # renpy/common/00compat.rpy:371
+    # old "Fullscreen"
+    # new "Pantalla completa"
 
     # renpy/common/00gallery.rpy:627
     old "Image [index] of [count] locked."
@@ -800,9 +800,9 @@ translate spanish strings:
     old "slideshow"
     new "presentación"
 
-    # renpy/common/00gallery.rpy:650
-    old "return"
-    new "volver"
+    # # renpy/common/00gallery.rpy:650
+    # old "return"
+    # new "volver"
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
@@ -836,9 +836,9 @@ translate spanish strings:
     old "Force GLES2 Renderer"
     new "Forzar renderizador GLES2"
 
-    # renpy/common/00gltest.rpy:132
-    old "Gamepad"
-    new "Mando"
+    # # renpy/common/00gltest.rpy:132
+    # old "Gamepad"
+    # new "Mando"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
@@ -876,9 +876,9 @@ translate spanish strings:
     old "Changes will take effect the next time this program is run."
     new "Los cambios se aplicarán la próxima vez que el programa se ejecute."
 
-    # renpy/common/00gltest.rpy:214
-    old "Quit"
-    new "Salir"
+    # # renpy/common/00gltest.rpy:214
+    # old "Quit"
+    # new "Salir"
 
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"
@@ -1000,9 +1000,9 @@ translate spanish strings:
     old "Reloads the game from disk, saving and restoring game state if possible."
     new "Recarga el juego desde el disco, guardando y restaurando la partida si es posible."
 
-    # renpy/common/_errorhandling.rpym:637
-    old "Console"
-    new "Consola"
+    # # renpy/common/_errorhandling.rpym:637
+    # old "Console"
+    # new "Consola"
 
     # renpy/common/_errorhandling.rpym:639
     old "Opens a console to allow debugging the problem."

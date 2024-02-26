@@ -84,9 +84,9 @@ translate german strings:
     old "Enable"
     new "Enable"
 
-    # renpy/common/00accessibility.rpy:186
-    old "Disable"
-    new "Disable"
+    # # renpy/common/00accessibility.rpy:186
+    # old "Disable"
+    # new "Disable"
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing"
@@ -116,9 +116,9 @@ translate german strings:
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
     new "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
 
-    # renpy/common/00accessibility.rpy:229
-    old "Return"
-    new "Zurück"
+    # # renpy/common/00accessibility.rpy:229
+    # old "return"
+    # new "Zurück"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
@@ -300,17 +300,17 @@ translate german strings:
     old "File page [text]"
     new "File page [text]"
 
-    # renpy/common/00action_file.rpy:639
-    old "Page {}"
-    new "Page {}"
+    # # renpy/common/00action_file.rpy:639
+    # old "Page {}"
+    # new "Page {}"
 
-    # renpy/common/00action_file.rpy:639
-    old "Automatic saves"
-    new "Automatic saves"
+    # # renpy/common/00action_file.rpy:639
+    # old "Automatic saves"
+    # new "Automatic saves"
 
-    # renpy/common/00action_file.rpy:639
-    old "Quick saves"
-    new "Quick saves"
+    # # renpy/common/00action_file.rpy:639
+    # old "Quick saves"
+    # new "Quick saves"
 
     # renpy/common/00action_file.rpy:780
     old "Next file page."
@@ -780,9 +780,9 @@ translate german strings:
     old "Proceed"
     new "Fortsetzen"
 
-    # renpy/common/00compat.rpy:371
-    old "Fullscreen"
-    new "Vollbild"
+    # # renpy/common/00compat.rpy:371
+    # old "Fullscreen"
+    # new "Vollbild"
 
     # renpy/common/00gallery.rpy:627
     old "Image [index] of [count] locked."
@@ -800,9 +800,9 @@ translate german strings:
     old "slideshow"
     new "slideshow"
 
-    # renpy/common/00gallery.rpy:650
-    old "return"
-    new "zurück"
+    # # renpy/common/00gallery.rpy:650
+    # old "return"
+    # new "zurück"
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
@@ -836,9 +836,9 @@ translate german strings:
     old "Force GLES2 Renderer"
     new "Force GLES2 Renderer"
 
-    # renpy/common/00gltest.rpy:132
-    old "Gamepad"
-    new "Gamepad"
+    # # renpy/common/00gltest.rpy:132
+    # old "Gamepad"
+    # new "Gamepad"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
@@ -876,9 +876,9 @@ translate german strings:
     old "Changes will take effect the next time this program is run."
     new "Die Änderungen werden beim nächsten Neustart des Programms übernommen."
 
-    # renpy/common/00gltest.rpy:214
-    old "Quit"
-    new "Beenden"
+    # # renpy/common/00gltest.rpy:214
+    # old "Quit"
+    # new "Beenden"
 
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"
@@ -1000,9 +1000,9 @@ translate german strings:
     old "Reloads the game from disk, saving and restoring game state if possible."
     new "Startet das Spiel neu, rettet und stellt den Spielstand wieder her, wenn möglich."
 
-    # renpy/common/_errorhandling.rpym:637
-    old "Console"
-    new "Console"
+    # # renpy/common/_errorhandling.rpym:637
+    # old "Console"
+    # new "Console"
 
     # renpy/common/_errorhandling.rpym:639
     old "Opens a console to allow debugging the problem."
