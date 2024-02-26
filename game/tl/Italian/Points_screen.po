@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Mom's stats:\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: a-family-venture\n"
+"X-Crowdin-Project-ID: 492487\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /main/game/tl/crowdin/Points_screen.po\n"
+"X-Crowdin-File-ID: 7629\n"
+"Project-Id-Version: a-family-venture\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2024-02-26 17:34\n"
+
+# TODO: Translation updated at 2023-06-26 18:52 #|#|# # §translate crowdin strings: #|#|# # game/Points_screen.rpy:117
+msgid "Mom's stats:"
+msgstr "Statistiche della mamma:"
+
+# game/Points_screen.rpy:127
+msgid "[momaffection]"
+msgstr "[momaffection]"
+
+# game/Points_screen.rpy:128
+msgid "[momrespect]"
+msgstr "[momrespect]"
+
+# game/Points_screen.rpy:129
+msgid "[momlibido]"
+msgstr "[momlibido]"
+
+# game/Points_screen.rpy:130
+msgid "[momsubmission]"
+msgstr "[momsubmission]"
+
+# game/Points_screen.rpy:131
+msgid "[momanger]"
+msgstr "[momanger]"
+
+# game/Points_screen.rpy:138
+msgid "Lauren's stats:"
+msgstr "Le statistiche di Lauren:"
+
+# game/Points_screen.rpy:147
+msgid "[laurenaffection]"
+msgstr "[laurenaffection]"
+
+# game/Points_screen.rpy:148
+msgid "[laurenrespect]"
+msgstr "[laurenrespect]"
+
+# game/Points_screen.rpy:149
+msgid "[laurenlibido]"
+msgstr "[laurenlibido]"
+
+# game/Points_screen.rpy:150
+msgid "[laurensubmission]"
+msgstr "[laurensubmission]"
+
+# game/Points_screen.rpy:151
+msgid "[laurenanger]"
+msgstr "[laurenanger]"
+
+# game/Points_screen.rpy:158
+msgid "Sidney's stats:"
+msgstr "Le statistiche di Sidney:"
+
+# game/Points_screen.rpy:167
+msgid "[sidneyaffection]"
+msgstr "[sidneyaffection]"
+
+# game/Points_screen.rpy:168
+msgid "[sidneyrespect]"
+msgstr "[sidneyrespect]"
+
+# game/Points_screen.rpy:169
+msgid "[sidneylibido]"
+msgstr "[sidneylibido]"
+
+# game/Points_screen.rpy:170
+msgid "[sidneysubmission]"
+msgstr "[sidneysubmission]"
+
+# game/Points_screen.rpy:171
+msgid "[sidneyanger]"
+msgstr "[sidneyanger]"
+
+# game/Points_screen.rpy:190
+msgid "[auntaffection]"
+msgstr "[auntaffection]"
+
+# game/Points_screen.rpy:191
+msgid "[auntrespect]"
+msgstr "[auntrespect]"
+
+# game/Points_screen.rpy:192
+msgid "[auntlibido]"
+msgstr "[auntlibido]"
+
+# game/Points_screen.rpy:193
+msgid "[auntsubmission]"
+msgstr "[auntsubmission]"
+
+# game/Points_screen.rpy:194
+msgid "[auntanger]"
+msgstr "[auntanger]"
+
+# game/Points_screen.rpy:204
+msgid "Mandy's stats:"
+msgstr "Le statistiche di Mandy:"
+
+# game/Points_screen.rpy:213
+msgid "[cousinaffection]"
+msgstr "[cousinaffection]"
+
+# game/Points_screen.rpy:214
+msgid "[cousinrespect]"
+msgstr "[cousinrespect]"
+
+# game/Points_screen.rpy:215
+msgid "[cousinlibido]"
+msgstr "[cousinlibido]"
+
+# game/Points_screen.rpy:216
+msgid "[cousinsubmission]"
+msgstr "[cousinsubmission]"
+
+# game/Points_screen.rpy:217
+msgid "[cousinanger]"
+msgstr "[cousinanger]"
+
+# game/Points_screen.rpy:219
+msgid "<<"
+msgstr "<<"
+
+# game/Points_screen.rpy:230
+msgid ">>"
+msgstr ">>"
+
