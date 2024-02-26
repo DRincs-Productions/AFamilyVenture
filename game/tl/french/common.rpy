@@ -844,9 +844,9 @@ translate french strings:
     old "Enable (No Blocklist)"
     new "Activer (Sans Blocklist)"
 
-    # renpy/common/00gltest.rpy:150
-    old "Calibrate"
-    new "Calibrage"
+    # # renpy/common/00gltest.rpy:150
+    # old "Calibrate"
+    # new "Calibrage"
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"
