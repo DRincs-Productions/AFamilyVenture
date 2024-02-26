@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: a-family-venture\n"
+"X-Crowdin-Project-ID: 492487\n"
+"X-Crowdin-Language: sk\n"
+"X-Crowdin-File: /main/game/tl/crowdin/Cosplay_gallery.po\n"
+"X-Crowdin-File-ID: 7601\n"
+"Project-Id-Version: a-family-venture\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Slovak\n"
+"Language: sk_SK\n"
+"PO-Revision-Date: 2024-02-26 17:32\n"
+
+# TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/Cosplay_gallery.rpy:1213 #-#-# translate crowdin cosplay_label_c1f386dd:
+msgid "[_RT_] {i}Yes... I have sold another pair of oufits for $[sold] more.{/i}"
+msgstr "[_RT_] {i}Áno... Predal som ďalší pár oblekov za $[sold].{/i}"
+
+# game/Cosplay_gallery.rpy:1218 #-#-# translate crowdin cosplay_label_16130f80:
+msgid "[_RT_] {i}I should check if I got any likes and if I can transfer the money to my account.{/i}"
+msgstr "[_RT_] {i}Mal by som skontrolovať, či mám nejaké lajky a či môžem previesť peniaze na svoj účet.{/i}"
+
+# game/Cosplay_gallery.rpy:1793 #-#-# translate crowdin supporters_income_photoshoot_26a16025:
+msgid "You were sponsored by a total of [var_total_supporters] supporters and earned $[var_earnings_from_supporters]!"
+msgstr "Sponzorovalo vás celkom [var_total_supporters] podporovateľov a zarobili ste $[var_earnings_from_supporters]!"
+
+# game/Cosplay_gallery.rpy:1798 #-#-# translate crowdin supporters_income_photoshoot_aa36c7f3:
+msgid "You have already withdrawn the money that you have earned this month!"
+msgstr "Peniaze, ktoré ste tento mesiac zarobili, ste si už vybrali!"
+
+# game/Cosplay_gallery.rpy:1803 #-#-# translate crowdin supporters_income_photoshoot_ed87ddab:
+msgid "[_RT_] {i}I must wait until the end of the month to withdraw my funds.{/i}"
+msgstr "[_RT_] {i}S výberom svojich prostriedkov musím počkať do konca mesiaca.{/i}"
+
+# game/Cosplay_gallery.rpy:1822 #-#-# translate crowdin income_photoshoot_9eef3851:
+msgid "You have received [new_likes] new likes and earned $[income]!"
+msgstr "Získali ste [new_likes] nových lajkov a zarobili ste $[income]!"
+
+# game/Cosplay_gallery.rpy:1827 #-#-# translate crowdin income_photoshoot_e4c275b3:
+msgid "You have already withdrawn the money that you have earned!"
+msgstr "Peniaze, ktoré ste zarobili, ste si už vybrali!"
+
+# game/Cosplay_gallery.rpy:1832 #-#-# translate crowdin income_photoshoot_35500616:
+msgid "[_RT_] {i}I must wait until the end of the week to withdraw my funds.{/i}"
+msgstr "[_RT_] {i}S výberom svojich prostriedkov musím počkať do konca mesiaca.{/i}"
+
+# game/Cosplay_gallery.rpy:1846 #-#-# translate crowdin advertising_label_4491e190:
+msgid "[_RT_] {i}For only 5 bucks I'll get more likes. I should remember to do this daily.{/i}"
+msgstr "[_RT_] {i}Len za 5 dolárov dostanem viac lajkov. Mal by som na to pamätať každý deň.{/i}"
+
+# game/Cosplay_gallery.rpy:1849 #-#-# translate crowdin advertising_label_15ea30e2:
+msgid "[_RT_] {i}I already advertised today.{/i}"
+msgstr "[_RT_] {i}Dnes som už inzeroval.{/i}"
+
+# game/Cosplay_gallery.rpy:1864 #-#-# translate crowdin outfits_sell_label_606ee1bf:
+msgid "[_RT_] {i}Yes... The outfits were sold and now I have $[sold] more in my account.{/i}"
+msgstr "[_RT_] {i}Áno... Oblečenie bolo predané a teraz mám na účte o $[sold] viac.{/i}"
+
+# game/Cosplay_gallery.rpy:1871 #-#-# translate crowdin outfits_sell_label_68310073:
+msgid "[_RT_] {i}I should sell the cosplay outfits.{/i}"
+msgstr "[_RT_] {i}Mal by som predávať cosplay oblečenie.{/i}"
+
+# game/Cosplay_gallery.rpy:1873 #-#-# translate crowdin outfits_sell_label_5cd5db5b:
+msgid "[_RT_] {i}There... all outfits have been put up for sale, now I'll just have to wait and see if they'll sell.{/i}"
+msgstr "[_RT_] {i}Tak... všetky outfity boli ponúknuté na predaj, teraz musím len čakať, či sa predajú.{/i}"
+
+# game/Cosplay_gallery.rpy:1879 #-#-# translate crowdin outfits_sell_label_b7c5d749:
+msgid "[_RT_] {i}I don't have anything to sell.{/i}"
+msgstr "[_RT_] {i}Nemám nič na predaj.{/i}"
+
+# game/Cosplay_gallery.rpy:1888 #-#-# translate crowdin outfit_info_488a37ce:
+msgid "[_RT_] {i} The first cosplay outfit that [outfit_nfo_name] wore on our first photoshoot.{/i}"
+msgstr "[_RT_] {i} Prvý cosplay outfit, ktorý mala [outfit_nfo_name] na sebe na našom prvom fotení.{/i}"
+
+# game/Cosplay_gallery.rpy:1889 #-#-# translate crowdin outfit_info_d4afad73:
+msgid "[_RT_] {i}I hope we can sell more of them.{/i}"
+msgstr "[_RT_] {i}Dúfam, že sa nám ich podarí predať viac.{/i}"
+
+# §translate crowdin strings: #|#|# # game/Cosplay_gallery.rpy:562
+msgid "{color=#ffffff}{b}Supporters{/b}{/color}"
+msgstr "{color=#ffffff}{b}Podporovatelia{/b}{/color}"
+
+# game/Cosplay_gallery.rpy:566
+msgid "{color=#ffffff}{b}Advertising{/b}{/color}"
+msgstr "{color=#ffffff}{b}Reklama{/b}{/color}"
+
+# game/Cosplay_gallery.rpy:570
+msgid "{color=#ffffff}{b}Images\n"
+"Videos{/b}{/color}"
+msgstr "{color=#ffffff}{b}Obrázky\n"
+"Videá{/b}{/color}"
+
+# game/Cosplay_gallery.rpy:575
+msgid "{color=#ffffff}{b}Outfits{/b}{/color}"
+msgstr "{color=#ffffff}{b}Oblečky{/b}{/color}"
+
+# game/Cosplay_gallery.rpy:581
+msgid "{color=#000000}{b}Likes: [total_likes]{/b}{/color}"
+msgstr "{color=#000000}{b}Lajky: [total_likes]{/b} {/color}"
+
+# game/Cosplay_gallery.rpy:582
+msgid "{color=#ffffff}{b}Press to change \n"
+" likes to money{/b}{/color}"
+msgstr "{color=#ffffff}{b}Stlačte na zmenu \n"
+"lajkov na peniaze {/b} {/color}"
+
+# game/Cosplay_gallery.rpy:709
+msgid "{color=#000000}{b}Sell{/b}{/color}"
+msgstr "{color=#000000}{b}Predaj{/b}{/color}"
+
+# game/Cosplay_gallery.rpy:710
+msgid "{color=#000000}{b}outfits{/b}{/color}"
+msgstr "{color=#000000}{b}oblečky{/b}{/color}"
+
+# game/Cosplay_gallery.rpy:1077
+msgid "{color=#ff0000}{b}Supporters: [var_total_supporters]{/b}{/color}"
+msgstr "{color=#ff0000}{b}Podporovatelia: [var_total_supporters]{/b}{/color}"
+
+# game/Cosplay_gallery.rpy:1084
+msgid " {b}{color=#ffffff}Press to receive\n"
+"{size=18} monthly earnings:{/size}\n"
+"{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
+msgstr " {b}{color=#ffffff}Stlačte pre príjem\n"
+"{size=18} mesačných ziskov:{/size}\n"
+"{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
+
