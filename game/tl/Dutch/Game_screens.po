@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: a-family-venture\n"
+"X-Crowdin-Project-ID: 492487\n"
+"X-Crowdin-Language: nl\n"
+"X-Crowdin-File: /main/game/tl/crowdin/Game_screens.po\n"
+"X-Crowdin-File-ID: 7611\n"
+"Project-Id-Version: a-family-venture\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"PO-Revision-Date: 2024-02-26 17:33\n"
+
+# TODO: Translation updated at 2023-06-26 18:52 #|#|# # §translate crowdin strings: #|#|# # game/Game_screens.rpy:77
+msgid " My\n"
+"Room"
+msgstr " Mijn\n"
+"kamer"
+
+# game/Game_screens.rpy:115
+msgid "Bath"
+msgstr "Pad"
+
+# game/Game_screens.rpy:191
+msgid "Yard"
+msgstr "Yard"
+
+# game/Game_screens.rpy:200
+msgid "City"
+msgstr "Woonplaats"
+
+# game/Game_screens.rpy:220
+msgid "Hallway"
+msgstr "Hallway"
+
+# game/Game_screens.rpy:229
+msgid "Class"
+msgstr "Les"
+
+# game/Game_screens.rpy:247
+msgid "{size=29} {/size}Girls\n"
+"Locker\n"
+"{size=25} {/size}Room"
+msgstr "{size=29} {/size}Meisjes\n"
+"Locker\n"
+"{size=25} {/size}Room"
+
+# game/Game_screens.rpy:303
+msgid "Campaign\n"
+"   HQ"
+msgstr "Campagne\n"
+"   HQ"
+
