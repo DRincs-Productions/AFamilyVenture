@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: a-family-venture\n"
+"X-Crowdin-Project-ID: 492487\n"
+"X-Crowdin-Language: sk\n"
+"X-Crowdin-File: /main/game/tl/crowdin/Booble_screen.po\n"
+"X-Crowdin-File-ID: 7597\n"
+"Project-Id-Version: a-family-venture\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Slovak\n"
+"Language: sk_SK\n"
+"PO-Revision-Date: 2024-02-26 17:32\n"
+
+# TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/Booble_screen.rpy:51 #-#-# translate crowdin booble_search_f6ce98ce:
+msgid "[_RT_] {i}I should do a search on booble.com to find a way to buy the stuff I need so that the FBI won't ask me from where I got the money.{/i}"
+msgstr "[_RT_] {i}Mal by som si na stránke booble.com nájsť spôsob, ako si kúpiť veci, ktoré potrebujem, aby sa ma FBI nepýtala, odkiaľ mám peniaze.{/i}"
+
+# game/Booble_screen.rpy:67 #-#-# translate crowdin booble_search_ce876757:
+msgid "[_RT_] {i}What should I do today on the internet?{/i}"
+msgstr "[_RT_] {i}Čo budem dnes robiť na internete?{/i}"
+
+# §translate crowdin strings: #|#|# # game/Booble_screen.rpy:33
+msgid "{color=#ffffff}{b}hardnLong.dong online shopping{/b}{/color}"
+msgstr "{color=#ffffff}{b}hardnLong.dong online nakupovanie {/b} {/color}"
+
+# game/Booble_screen.rpy:39
+msgid "{color=#ffffff}{b}cosplayheaven.cos cosplay site{/b}{/color}"
+msgstr "{color=#ffffff}{b}cosplayheaven.cos cosplay stránky {/b} {/color}"
+
