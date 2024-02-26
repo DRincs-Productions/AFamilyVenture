@@ -1,0 +1,362 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: a-family-venture\n"
+"X-Crowdin-Project-ID: 492487\n"
+"X-Crowdin-Language: sk\n"
+"X-Crowdin-File: /main/game/tl/crowdin/screens.po\n"
+"X-Crowdin-File-ID: 7655\n"
+"Project-Id-Version: a-family-venture\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Slovak\n"
+"Language: sk_SK\n"
+"PO-Revision-Date: 2024-02-26 17:36\n"
+
+# TODO: Translation updated at 2023-10-28 15:07 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:247
+msgid "History"
+msgstr "História"
+
+# game/screens.rpy:248
+msgid "Skip"
+msgstr "Preskočiť"
+
+# game/screens.rpy:249
+msgid "Auto"
+msgstr "Auto"
+
+# game/screens.rpy:250
+msgid "Save"
+msgstr "Uložiť"
+
+# game/screens.rpy:251
+msgid "Load"
+msgstr "Načítať"
+
+# game/screens.rpy:252
+msgid "Q.Save"
+msgstr "Q.Uložiť"
+
+# game/screens.rpy:253
+msgid "Q.Load"
+msgstr "Q.Načítať"
+
+# game/screens.rpy:254
+msgid "Prefs"
+msgstr "Nastavenia"
+
+# game/screens.rpy:299
+msgid "Start"
+msgstr "Štart"
+
+# game/screens.rpy:310
+msgid "Gallery"
+msgstr "Galéria"
+
+# game/screens.rpy:312
+msgid "Preferences"
+msgstr "Nastavenia"
+
+# game/screens.rpy:316
+msgid "End Replay"
+msgstr "Koniec prehrávania"
+
+# game/screens.rpy:320
+msgid "Main Menu"
+msgstr "Hlavné menu"
+
+# game/screens.rpy:322
+msgid "About"
+msgstr "O aplikácii"
+
+# game/screens.rpy:325
+msgid "Credits"
+msgstr "Poďakovania"
+
+# game/screens.rpy:330
+msgid "Help"
+msgstr "Nápoveda"
+
+# game/screens.rpy:333
+msgid "Quit"
+msgstr "Skončiť"
+
+# game/screens.rpy:487
+msgid "Return"
+msgstr "Návrat"
+
+# game/screens.rpy:571
+msgid "Version [config.version!t]\n"
+msgstr "Verzia [config.version!t]\n"
+
+# game/screens.rpy:577
+msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
+msgstr "Vyrobené s {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
+
+# game/screens.rpy:617
+msgid "Page {}"
+msgstr "Strana {}"
+
+# game/screens.rpy:617
+msgid "Automatic saves"
+msgstr "Automatické ukladanie"
+
+# game/screens.rpy:617
+msgid "Quick saves"
+msgstr "Rýchle Uloženie"
+
+# game/screens.rpy:659
+msgid "{#file_time}%A, %B %d %Y, %H:%M"
+msgstr "{#file_time}%A, %B %d %Y, %H:%M"
+
+# game/screens.rpy:659
+msgid "empty slot"
+msgstr "Prázdny slot"
+
+# game/screens.rpy:685
+msgid "<"
+msgstr ""
+
+# game/screens.rpy:688
+msgid "{#auto_page}A"
+msgstr "{#auto_page}A"
+
+# game/screens.rpy:691
+msgid "{#quick_page}Q"
+msgstr "{#quick_page}Q"
+
+# game/screens.rpy:697
+msgid ">"
+msgstr ""
+
+# game/screens.rpy:754
+msgid "Display"
+msgstr "Obrazovka"
+
+# game/screens.rpy:755
+msgid "Window"
+msgstr "Okno"
+
+# game/screens.rpy:756
+msgid "Fullscreen"
+msgstr "Celá obrazovka"
+
+# game/screens.rpy:760
+msgid "Rollback Side"
+msgstr "Vrátiť sa"
+
+# game/screens.rpy:761
+msgid "Disable"
+msgstr "Zakázať"
+
+# game/screens.rpy:762
+msgid "Left"
+msgstr "Vľavo"
+
+# game/screens.rpy:763
+msgid "Right"
+msgstr "Vpravo"
+
+# game/screens.rpy:768
+msgid "Unseen Text"
+msgstr "Nevidený text"
+
+# game/screens.rpy:769
+msgid "After Choices"
+msgstr "Po voľbách"
+
+# game/screens.rpy:770
+msgid "Transitions"
+msgstr "Prechod"
+
+# game/screens.rpy:774
+msgid "Navigation settings"
+msgstr "Nastavenia navigácie"
+
+# game/screens.rpy:781
+msgid "Language"
+msgstr "Jazyk"
+
+# game/screens.rpy:838
+msgid "Text Speed"
+msgstr "Rýchlosť textu"
+
+# game/screens.rpy:842
+msgid "Auto-Forward Time"
+msgstr "Čas automatického posunu vpred"
+
+# game/screens.rpy:845
+msgid "Dialogue Box Opacity"
+msgstr ""
+
+# game/screens.rpy:851
+msgid "Music Volume"
+msgstr "Hlasitosť hudby"
+
+# game/screens.rpy:858
+msgid "Sound Volume"
+msgstr "Hlasitosť zvuku"
+
+# game/screens.rpy:864
+msgid "Test"
+msgstr "Test"
+
+# game/screens.rpy:868
+msgid "Voice Volume"
+msgstr "Hlasitosť reči"
+
+# game/screens.rpy:879
+msgid "Mute All"
+msgstr "Stlmiť všetko"
+
+# game/screens.rpy:1007
+msgid "The dialogue history is empty."
+msgstr "História dialógov je prázdna."
+
+# game/screens.rpy:1077
+msgid "Keyboard"
+msgstr "Klávesnica"
+
+# game/screens.rpy:1078
+msgid "Mouse"
+msgstr "Myš"
+
+# game/screens.rpy:1081
+msgid "Gamepad"
+msgstr "Herný ovládač"
+
+# game/screens.rpy:1094
+msgid "Enter"
+msgstr "Vstúpiť"
+
+# game/screens.rpy:1095
+msgid "Advances dialogue and activates the interface."
+msgstr "Posunie dialóg a aktivuje rozhranie."
+
+# game/screens.rpy:1098
+msgid "Space"
+msgstr "Medzera"
+
+# game/screens.rpy:1099
+msgid "Advances dialogue without selecting choices."
+msgstr "Pokračuje v dialógu bez výberu možností."
+
+# game/screens.rpy:1102
+msgid "Arrow Keys"
+msgstr "Šípky"
+
+# game/screens.rpy:1103
+msgid "Navigate the interface."
+msgstr "Navigujte v rozhraní."
+
+# game/screens.rpy:1106
+msgid "Escape"
+msgstr "Tlačidlo Esc"
+
+# game/screens.rpy:1107
+msgid "Accesses the game menu."
+msgstr "Prístup do ponuky hry."
+
+# game/screens.rpy:1110
+msgid "Ctrl"
+msgstr "Ctrl"
+
+# game/screens.rpy:1111
+msgid "Skips dialogue while held down."
+msgstr "Pri podržaní tlačidla preskočí dialóg."
+
+# game/screens.rpy:1114
+msgid "Tab"
+msgstr "Tab"
+
+# game/screens.rpy:1115
+msgid "Toggles dialogue skipping."
+msgstr "Prepína preskočenie dialógu."
+
+# game/screens.rpy:1118
+msgid "Page Up"
+msgstr "Strana nahor"
+
+# game/screens.rpy:1119
+msgid "Rolls back to earlier dialogue."
+msgstr "Vráti sa k predchádzajúcemu dialógu."
+
+# game/screens.rpy:1122
+msgid "Page Down"
+msgstr "O stranu nižšie"
+
+# game/screens.rpy:1123
+msgid "Rolls forward to later dialogue."
+msgstr "Posúvajte sa vpred na neskorší dialóg."
+
+# game/screens.rpy:1127
+msgid "Hides the user interface."
+msgstr "Skryje používateľské rozhranie."
+
+# game/screens.rpy:1131
+msgid "Takes a screenshot."
+msgstr "Vytvoriť snímku obrazovky"
+
+# game/screens.rpy:1135
+msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+msgstr "Prepína asistenčné {a=https://www.renpy.org/l/voicing}samozvuky{/a}."
+
+# game/screens.rpy:1141
+msgid "Left Click"
+msgstr "Ľavé kliknutie"
+
+# game/screens.rpy:1145
+msgid "Middle Click"
+msgstr "Stredné tlačítko myši"
+
+# game/screens.rpy:1149
+msgid "Right Click"
+msgstr "Pravý klik"
+
+# game/screens.rpy:1153
+msgid "Mouse Wheel Up\n"
+"Click Rollback Side"
+msgstr "Mouse Wheel Up\n"
+"Click Rollback Side"
+
+# game/screens.rpy:1157
+msgid "Mouse Wheel Down"
+msgstr "Koliesko myši nadol"
+
+# game/screens.rpy:1164
+msgid "Right Trigger\n"
+"A/Bottom Button"
+msgstr "Right Trigger\n"
+"A/Bottom Button"
+
+# game/screens.rpy:1168
+msgid "Left Trigger\n"
+"Left Shoulder"
+msgstr "Left Trigger\n"
+"Left Shoulder"
+
+# game/screens.rpy:1172
+msgid "Right Shoulder"
+msgstr "Right Shoulder"
+
+# game/screens.rpy:1177
+msgid "D-Pad, Sticks"
+msgstr "D-Pad, Sticks"
+
+# game/screens.rpy:1181
+msgid "Start, Guide"
+msgstr "Začiatok, Sprievodca"
+
+# game/screens.rpy:1185
+msgid "Y/Top Button"
+msgstr "Y/Top Button"
+
+# game/screens.rpy:1188
+msgid "Calibrate"
+msgstr "Kalibrovať"
+
+# game/screens.rpy:1300
+msgid "Skipping"
+msgstr "Preskočenie"
+
