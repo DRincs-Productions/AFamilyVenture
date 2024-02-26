@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-06-26 18:52
+﻿# TODO: Translation updated at 2023-10-28 15:07
 
 translate crowdin strings:
 
@@ -77,6 +77,10 @@ translate crowdin strings:
     # game/New_inventory.rpy:254
     old "I've got to keep replacing Mom's wine."
     new "I've got to keep replacing Mom's wine."
+
+    # game/New_inventory.rpy:255
+    old "I should give these to Lauren and Mandy in the backyard on Sunday morning."
+    new "I should give these to Lauren and Mandy in the backyard on Sunday morning."
 
     # game/New_inventory.rpy:267
     old "Money:$[money]"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-06-26 18:52
+﻿# TODO: Translation updated at 2023-10-28 15:07
 
 translate crowdin strings:
 
@@ -145,6 +145,10 @@ translate crowdin strings:
     # game/Phone_stats_screen.rpy:198
     old "{image=iconR} {color=#0000CC} By [ryan]:{/color}"
     new "{image=iconR} {color=#0000CC} By [ryan]:{/color}"
+
+    # game/Phone_stats_screen.rpy:200
+    old "{image=iconM}{color=#42f456} in Mom..............[mom_cum_loads_counter]{/color}"
+    new "{image=iconM}{color=#42f456} in Mom..............[mom_cum_loads_counter]{/color}"
 
     # game/Phone_stats_screen.rpy:201
     old "{image=iconL}{color=#f442d9} in Lauren............[lauren_cum_loads_counter]{/color}"

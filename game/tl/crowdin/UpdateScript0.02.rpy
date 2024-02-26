@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-06-26 18:52
+﻿# TODO: Translation updated at 2023-10-28 15:07
 
 # game/UpdateScript0.02.rpy:10
 translate crowdin cosplaywakeme_8a3aa425:
@@ -1999,10 +1999,10 @@ translate crowdin sidneysleepswithryan_ebdd0137:
     S "Whatever!"
 
 # game/UpdateScript0.02.rpy:759
-translate crowdin sidneysleepswithryan_ba9243ea:
+translate crowdin sidneysleepswithryan_55aee143:
 
-    # S "Oh, and honey?"
-    S "Oh, and honey?"
+    # S "Oh, and [ryan]?"
+    S "Oh, and [ryan]?"
 
 # game/UpdateScript0.02.rpy:760
 translate crowdin sidneysleepswithryan_95428694:
@@ -3541,10 +3541,10 @@ translate crowdin momfingerselfbathcontinued_48af735f:
     RT "{i}Oh!.... I think she's about there!{/i}"
 
 # game/UpdateScript0.02.rpy:1479
-translate crowdin momfingerselfbathcontinued_caf9963f:
+translate crowdin momfingerselfbathcontinued_276197ea:
 
-    # RT "{i}Holy shit!.... If her spray range gets much bigger, she's going to ruin my camara!{/i}"
-    RT "{i}Holy shit!.... If her spray range gets much bigger, she's going to ruin my camara!{/i}"
+    # RT "{i}Holy shit!.... If her spray range gets much bigger, she's going to ruin my camera!{/i}"
+    RT "{i}Holy shit!.... If her spray range gets much bigger, she's going to ruin my camera!{/i}"
 
 # game/UpdateScript0.02.rpy:1480
 translate crowdin momfingerselfbathcontinued_69e5f1f9:
