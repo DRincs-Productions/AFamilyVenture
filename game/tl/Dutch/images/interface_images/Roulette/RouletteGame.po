@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2024-02-26 17:36\n"
+"PO-Revision-Date: 2024-03-06 18:45\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/images/interface_images/Roulette/RouletteGame.rpy:607 #-#-# translate crowdin test_feb4bc5b:
 msgid "[betPickVar]"
@@ -50,19 +50,19 @@ msgstr "[_RLT_dealer_] Fout: Met het Dozen weddenschap spel kun je elk roulette 
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:688 #-#-# translate crowdin gameTypeErrorCheck_3fde7c69:
 msgid "[_RLT_dealer_] Error: You have picked an incorrect color. Acceptable colors are {outlinecolor=#ffffff}{color=#FF0000}Red{/color}{/outlinecolor} and {outlinecolor=#ffffff}{color=#000000}Black{/color}{/outlinecolor}.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[ _RLT_dealer_] Fout: U hebt een onjuiste kleur gekozen. Toegestane kleuren zijn { outlinecolor=#ffffff} { color=#FF0000} Red { /color } { /outlinecolor } en { outlinecolor=#ffffff} { color=#000000} Black { /color } { /outlinecolor }. { w=3.0 }{nw} [ withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:696 #-#-# translate crowdin gameTypeErrorCheck_3fde7c69_1:
 msgid "[_RLT_dealer_] Error: You have picked an incorrect color. Acceptable colors are {outlinecolor=#ffffff}{color=#FF0000}Red{/color}{/outlinecolor} and {outlinecolor=#ffffff}{color=#000000}Black{/color}{/outlinecolor}.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[ _RLT_dealer_] Fout: U hebt een onjuiste kleur gekozen. Toegestane kleuren zijn { outlinecolor=#ffffff} { color=#FF0000} Red { /color } { /outlinecolor } en { outlinecolor=#ffffff} { color=#000000} Black { /color } { /outlinecolor }. { w=3.0 }{nw} [ withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:704 #-#-# translate crowdin gameTypeErrorCheck_e10368bb:
 msgid "[_RLT_dealer_] Error: You have picked an incorrect bet. Acceptable bets are {outlinecolor=#ffffff}{color=#00008B}Odd{/color}{/outlinecolor} or {outlinecolor=#ffffff}{color=#00008B}Even{/color}{/outlinecolor}.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[ _RLT_dealer_] Fout: U hebt een onjuiste inzet gekozen. Aanvaardbare weddenschappen zijn { outlinecolor=#ffffff} { color=#00008B} Odd { /color } { /outlinecolor } of { outlinecolor=#ffffff} { color=#00008B} Zelfs { /color } { /outlinecolor }. { w=3.0 }{nw} [ withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:712 #-#-# translate crowdin gameTypeErrorCheck_e10368bb_1:
 msgid "[_RLT_dealer_] Error: You have picked an incorrect bet. Acceptable bets are {outlinecolor=#ffffff}{color=#00008B}Odd{/color}{/outlinecolor} or {outlinecolor=#ffffff}{color=#00008B}Even{/color}{/outlinecolor}.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[ _RLT_dealer_] Fout: U hebt een onjuiste inzet gekozen. Aanvaardbare weddenschappen zijn { outlinecolor=#ffffff} { color=#00008B} Odd { /color } { /outlinecolor } of { outlinecolor=#ffffff} { color=#00008B} Zelfs { /color } { /outlinecolor }. { w=3.0 }{nw} [ withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:720 #-#-# translate crowdin call_rotate_1bc2ab16:
 msgid "[_RLT_dealer_] Let's roll the ball!{w=2.0}{nw} [withDissolve20]"
