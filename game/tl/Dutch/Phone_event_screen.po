@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2024-02-26 17:33\n"
+"PO-Revision-Date: 2024-03-06 14:55\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/Phone_event_screen.rpy:1132 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -546,11 +546,11 @@ msgstr "[_RT_] {i}Mandy's altijd alleen in Lauren's kamer 's avonds. Ik vraag me
 
 # game/Phone_event_screen.rpy:1618 #-#-# translate crowdin event_info_65_1a28dd4a:
 msgid "[_RT_] {i}Aunt Cami always showers in the afternoon, I wonder what I'll see if I spy on her when her libido is full.{/i}"
-msgstr ""
+msgstr "[ _RT_] {i}Tante Cami douches altijd in de middag, Ik vraag me af wat ik zal zien als ik haar bespioneer wanneer haar libido vol is. { /i }"
 
 # game/Phone_event_screen.rpy:1622 #-#-# translate crowdin event_info_66_87fe1c2d:
 msgid "[_RT_] {i}Aunt Cami's always alone in Mom's room in the evening. I wonder what I'll see if her libido is full.{/i}"
-msgstr ""
+msgstr "[ _RT_] {i}Tante Cami is altijd alleen in mama's kamer in de avond. Ik vraag me af wat ik zal zien als haar libido vol is."
 
 # game/Phone_event_screen.rpy:1626 #-#-# translate crowdin event_info_67_01033ce4:
 msgid "[_RT_] {i}I should just keep visiting Lauren's room at night. I want to see where it will lead.{/i}"
@@ -1227,7 +1227,8 @@ msgstr "???"
 # game/Phone_event_screen.rpy:1073
 msgid "Press the \"{color=#E60000}???{/color}\" to see \n"
 "             hints!"
-msgstr ""
+msgstr "Druk op de \"{ color=#E60000} ??? { /color }\" om \n"
+"             hints te bekijken!"
 
 # game/Phone_event_screen.rpy:1076
 msgid "{font=DejaVuSans.ttf}Watch the tutorial again!{/font}"
