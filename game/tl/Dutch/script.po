@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2024-02-26 17:36\n"
+"PO-Revision-Date: 2024-03-06 14:55\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -114,7 +114,7 @@ msgstr "[_R_] WAT?!"
 
 # game/script.rpy:913 #-#-# translate crowdin gamestart_ccab4082:
 msgid "[_M_] Oh, and honey?"
-msgstr ""
+msgstr "Oh, en schat?"
 
 # game/script.rpy:914 #-#-# translate crowdin gamestart_1e2aa3d3:
 msgid "[_R_] .... Yeah?..."
@@ -2194,7 +2194,7 @@ msgstr "[_M_] Als ik me geen zorgen hoeft te maken over het opruimen van de eett
 
 # game/script.rpy:4638 #-#-# translate crowdin kitcheneveningweekend_1d039d69:
 msgid "[_R_] Sure, I can do that."
-msgstr ""
+msgstr "Dat kan ik zeker doen."
 
 # game/script.rpy:4639 #-#-# translate crowdin kitcheneveningweekend_591993a9:
 msgid "[_M_] That would be so great!"
@@ -2214,7 +2214,7 @@ msgstr "[_M_] Kun je vanavond iets vinden om te eten? Ik heb het gewoon niet in 
 
 # game/script.rpy:4645 #-#-# translate crowdin kitcheneveningweekend_4e5a4cd5:
 msgid "[_R_] Sure, Mom."
-msgstr ""
+msgstr "Natuurlijk, Mams."
 
 # game/script.rpy:4646 #-#-# translate crowdin kitcheneveningweekend_c4043b20:
 msgid "[_M_] Thanks, honey. I'm going to go to bed early tonight."
@@ -2266,7 +2266,7 @@ msgstr "{i}{b}\"Momenten Affection -1\"{/b}{/i}"
 
 # game/script.rpy:4665 #-#-# translate crowdin kitcheneveningweekend_ba875325:
 msgid "[_M_] Yeah.... well.... my husband is in jail, we're being investigated by the FBI, I have no money to go shopping, I have to pay the Mafia off every week,"
-msgstr ""
+msgstr "Mijn man zit in de gevangenis, we worden onderzocht door de FBI, ik heb geen geld om te gaan winkelen, ik moet elke week de maffia afbetalen,"
 
 # game/script.rpy:4666 #-#-# translate crowdin kitcheneveningweekend_92624ecd:
 msgid "[_M_] I have to go back to stripping to make enough money to pay them off, oh, and on top of all that, my son attended my grand return strip show!"
@@ -2350,7 +2350,7 @@ msgstr "[_M_] Als ik me geen zorgen hoeft te maken over het opruimen van de eett
 
 # game/script.rpy:4691 #-#-# translate crowdin kitcheneveningweekend_1d039d69_1:
 msgid "[_R_] Sure, I can do that."
-msgstr ""
+msgstr "Dat kan ik zeker doen."
 
 # game/script.rpy:4692 #-#-# translate crowdin kitcheneveningweekend_591993a9_1:
 msgid "[_M_] That would be so great!"
@@ -2370,7 +2370,7 @@ msgstr "[_M_] Kun je vanavond iets vinden om te eten? Ik heb het gewoon niet in 
 
 # game/script.rpy:4698 #-#-# translate crowdin kitcheneveningweekend_4e5a4cd5_1:
 msgid "[_R_] Sure, Mom."
-msgstr ""
+msgstr "Natuurlijk, Mams."
 
 # game/script.rpy:4699 #-#-# translate crowdin kitcheneveningweekend_c4043b20_1:
 msgid "[_M_] Thanks, honey. I'm going to go to bed early tonight."
@@ -2818,7 +2818,7 @@ msgstr "[_M_] Oh ja!"
 
 # game/script.rpy:4995 #-#-# translate crowdin sidneyenters_c58c6abc:
 msgid "[_L_] Absolutely!"
-msgstr ""
+msgstr "[ _L_] Absoluut!"
 
 # game/script.rpy:4996 #-#-# translate crowdin sidneyenters_f90cfd1d:
 msgid "[_R_] The worst!"
@@ -3162,7 +3162,7 @@ msgstr "[_R_] goed.... om haar gelukkig te maken."
 
 # game/script.rpy:5226 #-#-# translate crowdin sidneyinthekitchencontinued_647dc8ef:
 msgid "[_S_] Yeah.... I don't buy it. That can't be your only motivation."
-msgstr ""
+msgstr "[ _S_] Ja... Ik geloof het niet. Dat kan niet je enige motivatie zijn."
 
 # game/script.rpy:5227 #-#-# translate crowdin sidneyinthekitchencontinued_a1f999f1:
 msgid "[_S_] What else is in it for you?"
@@ -6822,7 +6822,7 @@ msgstr "[_B_] Geweldig!.... Oh, en hier is het kleine beetje contant geld dat ik
 
 # game/script.rpy:8831 #-#-# translate crowdin warehouse_4b92a463:
 msgid "{i}Received $300 dollars.{/i}"
-msgstr ""
+msgstr "{i}$300 dollar ontvangen.{ /i }"
 
 # game/script.rpy:8833 #-#-# translate crowdin warehouse_d1956e4e:
 msgid "[_B_] Hopefully It can help you make this week's payment."
@@ -6830,7 +6830,7 @@ msgstr "[_B_] Hopelijk kan het je helpen met de betaling deze week."
 
 # game/script.rpy:8834 #-#-# translate crowdin warehouse_e1f2b25b:
 msgid "[_R_] .... Thanks.... oh, and how do I make the payments?"
-msgstr ""
+msgstr "[ _R_] .... Bedankt .... oh, en hoe maak ik de betalingen?"
 
 # game/script.rpy:8835 #-#-# translate crowdin warehouse_3321e8aa:
 msgid "[_B_] Every Saturday evening, the DeCapos will send a couple guys to your front door to pick up the money."
@@ -6870,11 +6870,11 @@ msgstr "[_B_] Je bent welkom! Wees veilig op je leveringen. Probeer ervoor te zo
 
 # game/script.rpy:8850 #-#-# translate crowdin warehouse_26b21b96:
 msgid "[_R_] Alright, I'll keep an eye out,{p}and thanks again."
-msgstr ""
+msgstr "Goed, ik zal een oogje in het oog houden, {p}, en nogmaals bedankt."
 
 # game/script.rpy:8851 #-#-# translate crowdin warehouse_bea28f61:
 msgid "[_B_] Oh Right.... one more thing I almost forgot! If your mom asks what you're doing to make this extra money, just tell her you're doing some janitorial work for us."
-msgstr ""
+msgstr "Juist... nog iets dat ik bijna vergeten ben! Als je moeder vraagt wat je doet om extra geld te verdienen, vertel haar dan dat je wat schoonmaakwerk voor ons doet."
 
 # game/script.rpy:8852 #-#-# translate crowdin warehouse_667ccf63:
 msgid "[_B_] I don't thinks she'd be too thrilled if she suspected you were making deliveries for your old man."
@@ -8494,7 +8494,7 @@ msgstr "[_M_] [ryan]! Daarom hebben ze premie!"
 
 # game/script.rpy:10201 #-#-# translate crowdin nightclubbing_eb2d78e3:
 msgid "[_M_] Joey gives me an escort both here and back home again."
-msgstr ""
+msgstr "Joey geeft me een escorte van en terug naar huis."
 
 # game/script.rpy:10202 #-#-# translate crowdin nightclubbing_a81ef688:
 msgid "[_M_] I'm perfectly safe here without you!"
