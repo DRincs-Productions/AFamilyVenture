@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-03-18 19:45\n"
+"PO-Revision-Date: 2024-03-18 21:06\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/Phone_event_screen.rpy:1132 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -38,11 +38,11 @@ msgstr "[_RT_] {i}Eu deveria ir para a cozinha de noite para um jantar em famíl
 
 # game/Phone_event_screen.rpy:1155 #-#-# translate crowdin event_info_07_5fd67134:
 msgid "[_RT_] {i}I need to visit the first stall in the school bathroom in the afternoon.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Eu preciso ir na primeira porta do banheiro da escola de tarde.{/i}"
 
 # game/Phone_event_screen.rpy:1158 #-#-# translate crowdin event_info_07_03a348f0:
 msgid "[_RT_] {i}I know I missed out on something amazing by not accepting Matt's help to seduce my Mom... I feel pretty good about my choice though.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Eu sei que eu perdi algo incrível por não aceitar a ajuda de Matt para seduzir a minha Mãe... apesar de tudo eu me sinto muito bem com a minha escolha.{/i}"
 
 # game/Phone_event_screen.rpy:1159 #-#-# translate crowdin event_info_07_41732efc:
 msgid "[_RT_] {i}I really believe that I'll get something just as good, if not better. I'll just have to be very patient until then.{/i}"
