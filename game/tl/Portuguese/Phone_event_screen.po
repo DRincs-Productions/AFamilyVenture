@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-03-21 19:39\n"
+"PO-Revision-Date: 2024-03-21 20:56\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/Phone_event_screen.rpy:1132 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -154,11 +154,11 @@ msgstr "[_RT_] {i}Eu tenho a câmera de espionagem... agora eu preciso instalar 
 
 # game/Phone_event_screen.rpy:1252 #-#-# translate crowdin event_info_18_f693ae09:
 msgid "[_RT_] {i}I need to buy a spy-cam and place it in Mom's bedroom when no one is around.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Eu preciso comprar uma câmera de espionagem e instalar no quarto da Mãe quando ninguém esta por perto.{/i}"
 
 # game/Phone_event_screen.rpy:1255 #-#-# translate crowdin event_info_18_2cff7759:
 msgid "[_RT_] {i}I've placed the spycam in Mom's bedroom. Now I just need to catch Mom in there when her libido is at it's highest (10 pts).{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Eu coloquei a câmera de espionagem no quarto da Mãe. Agora eu só preciso pegar a Mãe lá dentro quando a libido dela estiver no seu máximo (10 pts).{/i}"
 
 # game/Phone_event_screen.rpy:1260 #-#-# translate crowdin event_info_19_18b1dcc5:
 msgid "[_RT_] {i}I've got the spy-cam... now I need to install it in the bathroom.{/i}"
