@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-03-21 22:03\n"
+"PO-Revision-Date: 2024-03-22 16:47\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/Phone_event_screen.rpy:1132 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -218,7 +218,7 @@ msgstr "[_RT_] {i}Eu tenho o biquíni agora. Eu seria inteligente em certificar 
 
 # game/Phone_event_screen.rpy:1312 #-#-# translate crowdin event_info_25_f6ed3265:
 msgid "[_RT_] {i}I need to keep Mom out of the club by paying the Mafia debt for more than three weeks in a row. Maybe she'll reward me with some one-on-one time.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Eu preciso continuar a pagar a Máfia por mais de três semanas consecutivas para que a Mãe fique fora do clube. Talvez ela me recompense com um tempo a sós.{/i}"
 
 # game/Phone_event_screen.rpy:1317 #-#-# translate crowdin event_info_26_e7bc06e0:
 msgid "[_RT_] {i}I should keep checking the kitchen to see when Sidney will be done with Lauren's cosplay outfit.{/i}"
