@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-03-23 15:37\n"
+"PO-Revision-Date: 2024-03-25 01:08\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/Phone_event_screen.rpy:1132 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -262,7 +262,7 @@ msgstr "[_RT_] {i}Eu ouvi dizer que a escola vai começar a dar comunicados toda
 
 # game/Phone_event_screen.rpy:1353 #-#-# translate crowdin event_info_31_2863d310:
 msgid "[_RT_] {i}I've heard they have an exciting announcement to start it off. I'd better make sure I'm in {b}Mom's class every Monday morning{/b} so I don't miss the announcements.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Eu ouvi dizer que para começar tudo eles têm um comunicado empolgante. É bom eu me certificar que eu estou na {b}aula da Mãe toda segunda de manhã{/b} para não perder os comunicados.{/i}"
 
 # game/Phone_event_screen.rpy:1357 #-#-# translate crowdin event_info_32_cc9d6575:
 msgid "[_RT_] {i}Lauren's popularity would go through the roof if we hung sexy posters of her... I need to keep trying to convince her at her campaign meetings until she agrees.{/i}"
