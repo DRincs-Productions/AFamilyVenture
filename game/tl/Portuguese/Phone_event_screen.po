@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-03-25 23:20\n"
+"PO-Revision-Date: 2024-03-26 16:50\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/Phone_event_screen.rpy:1132 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -498,7 +498,7 @@ msgstr "[_RT_] {i}Eu preciso que Sidney seja mais submisso. Tenho certeza que al
 
 # game/Phone_event_screen.rpy:1574 #-#-# translate crowdin event_info_59_59bdc941:
 msgid "[_RT_] {i}I need to visit Sidney at the club and find out everything I can. I should ask her every question that comes to mind.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Eu preciso visitar Sidney no clube e descobrir tudo o que eu posso. Eu devo perguntar tudo que vem à mente.{/i}"
 
 # game/Phone_event_screen.rpy:1577 #-#-# translate crowdin event_info_59_80fabc3c:
 msgid "[_RT_] {i}I need to visit Sidney at the club on Monday night.{/i}"
