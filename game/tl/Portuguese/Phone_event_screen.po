@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-03-27 21:52\n"
+"PO-Revision-Date: 2024-03-30 00:47\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/Phone_event_screen.rpy:1132 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -682,7 +682,7 @@ msgstr "[_RT_] {i}Droga! São muitos passos para conseguir a tia Cami dormir no 
 
 # game/Phone_event_screen.rpy:1735 #-#-# translate crowdin event_info_85_c1c13846:
 msgid "[_RT_] {i}I'm sure Aunt Camille's going to notice that Sidney's not sleeping on the couch anymore. Hopefully she doesn't suspect that she's been sleeping in my room.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Eu tenho certeza a Tia Camille vai perceber que Sidney não está mais dormindo no sofá. Tomara que ela não suspeite que ela esteja dormindo no meu quarto.{/i}"
 
 # game/Phone_event_screen.rpy:1736 #-#-# translate crowdin event_info_85_f926600a:
 msgid "[_RT_] {i}I guess I'll just have to wait and hope nothing bad comes of this.{/i}"
