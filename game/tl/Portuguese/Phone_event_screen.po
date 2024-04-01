@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-04-01 15:57\n"
+"PO-Revision-Date: 2024-04-01 16:56\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/Phone_event_screen.rpy:1132 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -910,7 +910,7 @@ msgstr "[_WT_] Ummm.... Hi!"
 
 # game/Phone_event_screen.rpy:1936 #-#-# translate crowdin again_tutorial_327b2971:
 msgid "[_WT_] Sorry to interrupt."
-msgstr ""
+msgstr "[_WT_] Desculpe interromper."
 
 # game/Phone_event_screen.rpy:1937 #-#-# translate crowdin again_tutorial_3f364fff:
 msgid "[_WT_] My name is Will Tylor and I just wanted to take this opportunity to welcome you to our \"awesome\" H-game, \"A Family Venture!\""
