@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-04-02 20:42\n"
+"PO-Revision-Date: 2024-04-02 22:49\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/Phone_event_screen.rpy:1132 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -930,11 +930,11 @@ msgstr "[_R_] Se eu não me explicasse eu sei que muitos não entenderiam o por 
 
 # game/Phone_event_screen.rpy:1945 #-#-# translate crowdin again_tutorial_15e2c4a9:
 msgid "[_R_] I've been acquiring many items to help me achieve my goals, of saving those I love, and helping that love to become even more realized."
-msgstr ""
+msgstr "[_R_] Eu estive a ter muitos itens para me ajudar a atingir os meus objetivos, de salvar aqueles que eu amo e ajudar aquele amor a se tornar ainda mais compreendido."
 
 # game/Phone_event_screen.rpy:1948 #-#-# translate crowdin again_tutorial_7be5f7b4:
 msgid "[_WT_] Thanks [ryan]. Let me do a little explaining from here."
-msgstr ""
+msgstr "[_WT_] Obrigado [ryan]. Me deixe explicar um pouco a partir daqui."
 
 # game/Phone_event_screen.rpy:1951 #-#-# translate crowdin again_tutorial_cf17643b:
 msgid "[_WT_] This is a typical in game screen. As [ryan] mentioned, you will acquire many items in the game."
@@ -1218,7 +1218,7 @@ msgstr "Complete"
 
 # game/Phone_event_screen.rpy:40
 msgid "[event_num]"
-msgstr ""
+msgstr "[event_num]"
 
 # game/Phone_event_screen.rpy:41
 msgid "???"
