@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-04-02 16:52\n"
+"PO-Revision-Date: 2024-04-02 18:03\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/Phone_event_screen.rpy:1132 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -890,11 +890,11 @@ msgstr "[_R_] Meu nome é [ryan].... E se você está assistindo esta gravação
 
 # game/Phone_event_screen.rpy:1924 #-#-# translate crowdin again_tutorial_0d8199d8:
 msgid "[_R_] Or I guess it could mean the extremely unlikely scenario, that my computer was hacked, and now some schmuck is using my story for financial gain."
-msgstr ""
+msgstr "[_R_] Ou eu penso que pode ser o cenário extremamente improvável que o meu computador tenha sido hackeado e agora um otário esta usando a minha história por benefício financeiro próprio."
 
 # game/Phone_event_screen.rpy:1927 #-#-# translate crowdin again_tutorial_a7a71d55:
 msgid "[_R_] Because the series of events I'm going to tell you about, is so unbelievable, it would make a great movie, or tv series."
-msgstr ""
+msgstr "[_R_] Porque a série de eventos que eu vou te contar é tão inacreditável que poderia ser feito em um grande filme ou série de tv."
 
 # game/Phone_event_screen.rpy:1928 #-#-# translate crowdin again_tutorial_4941a26d:
 msgid "[_R_] But probably the kind of tv series you could only see on HBO."
@@ -966,7 +966,7 @@ msgstr "[_WT_] Este símbolo mostra o que é o dia da semana,"
 
 # game/Phone_event_screen.rpy:1972 #-#-# translate crowdin again_tutorial_0665f6d0:
 msgid "[_WT_] while this symbol show you the time of day."
-msgstr ""
+msgstr "[_WT_] enquanto este símbolo te mostra a hora do dia."
 
 # game/Phone_event_screen.rpy:1975 #-#-# translate crowdin again_tutorial_2c6857c0:
 msgid "[_WT_] I'll let you get back to [ryan] again."
@@ -1026,7 +1026,7 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:2006 #-#-# translate crowdin again_tutorial_033e4640:
 msgid "{i}\"(knock knock knock....)\"{/i}"
-msgstr ""
+msgstr "{i}\"(toc toc toc....)\"{/i}"
 
 # game/Phone_event_screen.rpy:2007 #-#-# translate crowdin again_tutorial_c1bfb181:
 msgid "[_M_] {i}(muffled voice){/i} [ryan]? Why is the door locked? You're not looking at porn and masturbating again are you?"
