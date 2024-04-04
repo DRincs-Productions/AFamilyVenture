@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-04-03 00:33\n"
+"PO-Revision-Date: 2024-04-04 16:19\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/Phone_event_screen.rpy:1132 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -994,7 +994,7 @@ msgstr "[_WT_] No mapa do jogo, você pode se deslocar para vários lugares usan
 
 # game/Phone_event_screen.rpy:1991 #-#-# translate crowdin again_tutorial_6bfbd2da:
 msgid "[_WT_] This button right here will open up a map of the house, where you can pick any room you would like to go to."
-msgstr ""
+msgstr "[_WT_] Esse botão aqui vai abrir o mapa da casa, onde você pode escolher qualquer quarto que gostaria de ir."
 
 # game/Phone_event_screen.rpy:1994 #-#-# translate crowdin again_tutorial_1e2916f7:
 msgid "[_WT_] You can also hover your cursor over this button, to open up the quick travel options."
