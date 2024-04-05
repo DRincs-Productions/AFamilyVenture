@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-02-26 17:34\n"
+"PO-Revision-Date: 2024-04-05 21:44\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/Phone_interface.rpy:276 #-#-# translate crowdin mafia_warning_f561667c:
 msgid "[_RT_] {i}I can't waste time right now, the DeCapos will be here any minute.{/i}"
@@ -26,7 +26,7 @@ msgstr "[_RT_] {i}Agora estou na escola, tenho de ir para casa para adiantar o t
 
 # game/Phone_interface.rpy:291 #-#-# translate crowdin campaign_warning_88e99dc5:
 msgid "[_RT_] {i}I can't waist time. I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Eu não posso perder tempo. Eu preciso ir para escola e ver como a Lauren esta se saindo na eleição do Grêmio Estudantil.{/i}"
 
 # game/Phone_interface.rpy:296 #-#-# translate crowdin prison_warning_5ae78a21:
 msgid "[_RT_] {i}I can't waist time. I need to get ready to visit Dad in prison.{/i}"
