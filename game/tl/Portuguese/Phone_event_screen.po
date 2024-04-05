@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-04-05 00:46\n"
+"PO-Revision-Date: 2024-04-05 19:12\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # game/Phone_event_screen.rpy:1132 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -1078,11 +1078,11 @@ msgstr "[_WT_] O gerenciamento de relacionamento é a parte mais importante dest
 
 # game/Phone_event_screen.rpy:2029 #-#-# translate crowdin again_tutorial_6141dd6f:
 msgid "[_WT_] You will need to make choices throughout the game that will influence the way the girls in your life feel about you."
-msgstr ""
+msgstr "[_WT_] Você vai precisar fazer escolhas ao longo do jogo que vão influenciar o jeito que as garotas na sua vida se sentem sobre você."
 
 # game/Phone_event_screen.rpy:2030 #-#-# translate crowdin again_tutorial_11cac143:
 msgid "[_WT_] So it's pretty important that you keep track of those stats."
-msgstr ""
+msgstr "[_WT_] Então é bem importante você manter o controle desses status."
 
 # game/Phone_event_screen.rpy:2031 #-#-# translate crowdin again_tutorial_6f912c38:
 msgid "[_WT_] You can access a girls stats,"
@@ -1118,7 +1118,7 @@ msgstr "[_WT_] Este ícone do chicote representa uma submissão das meninas a vo
 
 # game/Phone_event_screen.rpy:2055 #-#-# translate crowdin again_tutorial_2bd860cf:
 msgid "[_WT_] And these lips represent a girls libido."
-msgstr ""
+msgstr "[_WT_] E esses lábios representam a libido de uma garota."
 
 # game/Phone_event_screen.rpy:2058 #-#-# translate crowdin again_tutorial_d4d20a80:
 msgid "[_WT_] To close the stats window, just press the \"P\" on your keyboard again."
@@ -1227,7 +1227,8 @@ msgstr "???"
 # game/Phone_event_screen.rpy:1073
 msgid "Press the \"{color=#E60000}???{/color}\" to see \n"
 "             hints!"
-msgstr ""
+msgstr "Pressione o \"{color=#E60000}???{/color}\" para ver \n"
+"             dicas!"
 
 # game/Phone_event_screen.rpy:1076
 msgid "{font=DejaVuSans.ttf}Watch the tutorial again!{/font}"
