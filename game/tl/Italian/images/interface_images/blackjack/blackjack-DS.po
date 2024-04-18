@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-02-26 17:37\n"
+"PO-Revision-Date: 2024-04-18 23:31\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/images/interface_images/blackjack/blackjack-DS.rpy:503 #-#-# translate crowdin startGameBJ_ddfcd22e:
 msgid "[_BJ_dealer_] I'll start dealing the cards!{w=2.0}{nw}"
@@ -18,11 +18,11 @@ msgstr "[_BJ_dealer_] Inizierò a distribuire le carte!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:573 #-#-# translate crowdin handCheckLabel_8e5fda21:
 msgid "[_BJ_dealer_] Dealer Bust, you won $[betSum]!{w=2.0}{nw}"
-msgstr "[_BJ_dealer_] Dealer Bust, hai vinto $[betSum]!{w=2.0}{nw}"
+msgstr "[_BJ_dealer_] Il banco sballa, hai vinto $[betSum]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:585 #-#-# translate crowdin handCheckLabel_1a74bd53:
 msgid "[_BJ_dealer_] You bust! You lost $[betSum]!{w=2.0}{nw}"
-msgstr "[_BJ_dealer_] Hai busto! Hai perso $[betSum]!{w=2.0}{nw}"
+msgstr "[_BJ_dealer_] Hai sballato! Hai perso $[betSum]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:597 #-#-# translate crowdin handCheckLabel_d1330db7:
 msgid "[_BJ_dealer_] Blackjack! The dealer also has blackjack, but you have insurance! You win $[betSum]!{w=2.0}{nw}"
