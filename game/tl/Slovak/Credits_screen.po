@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2024-02-26 17:32\n"
+"PO-Revision-Date: 2024-05-06 20:48\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # §translate crowdin strings: #|#|# # game/Credits_screen.rpy:57
 msgid "                               Credits"
@@ -51,7 +51,8 @@ msgstr "Cybeon"
 # game/Credits_screen.rpy:165
 msgid "\n"
 "{b}{i}Game Script Writer, Image Creator, Face Card Designer:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Autor herného scenára, tvorca obrázkov, renderovacia farma, návrhár kariet tvárí:{/i}{/b} \n"
 
 # game/Credits_screen.rpy:167
 msgid "Strenif"
