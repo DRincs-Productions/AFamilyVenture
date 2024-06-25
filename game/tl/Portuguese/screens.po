@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-02-26 17:36\n"
+"PO-Revision-Date: 2024-06-25 09:13\n"
 
 # TODO: Translation updated at 2023-10-28 15:07 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:247
 msgid "History"
@@ -26,7 +26,7 @@ msgstr "Automático"
 
 # game/screens.rpy:250
 msgid "Save"
-msgstr "Guardar"
+msgstr "Salvar"
 
 # game/screens.rpy:251
 msgid "Load"
@@ -74,15 +74,15 @@ msgstr "créditos"
 
 # game/screens.rpy:330
 msgid "Help"
-msgstr "Socorro"
+msgstr "Ajuda"
 
 # game/screens.rpy:333
 msgid "Quit"
-msgstr "Encerrar"
+msgstr "Sair"
 
 # game/screens.rpy:487
 msgid "Return"
-msgstr "Retornar"
+msgstr "Voltar"
 
 # game/screens.rpy:571
 msgid "Version [config.version!t]\n"
@@ -100,11 +100,11 @@ msgstr "Página {}"
 
 # game/screens.rpy:617
 msgid "Automatic saves"
-msgstr "Economias automáticas"
+msgstr "Gravações automáticas"
 
 # game/screens.rpy:617
 msgid "Quick saves"
-msgstr "Economias rápidas"
+msgstr "Gravações rápidas"
 
 # game/screens.rpy:659
 msgid "{#file_time}%A, %B %d %Y, %H:%M"
@@ -144,7 +144,7 @@ msgstr "Tela cheia"
 
 # game/screens.rpy:760
 msgid "Rollback Side"
-msgstr "Reverter Lado"
+msgstr "Retroceder"
 
 # game/screens.rpy:761
 msgid "Disable"
@@ -160,7 +160,7 @@ msgstr "Direita"
 
 # game/screens.rpy:768
 msgid "Unseen Text"
-msgstr "Unseen Text"
+msgstr "Texto não visto"
 
 # game/screens.rpy:769
 msgid "After Choices"
@@ -184,7 +184,7 @@ msgstr "Velocidade do texto"
 
 # game/screens.rpy:842
 msgid "Auto-Forward Time"
-msgstr "Tempo de auto-encaminhamento"
+msgstr "Tempo do Avanço Automática"
 
 # game/screens.rpy:845
 msgid "Dialogue Box Opacity"
@@ -244,7 +244,7 @@ msgstr "Avança o diálogo sem selecionar escolhas."
 
 # game/screens.rpy:1102
 msgid "Arrow Keys"
-msgstr "Teclas de Flecha"
+msgstr "Seleção de Teclas"
 
 # game/screens.rpy:1103
 msgid "Navigate the interface."
@@ -333,7 +333,8 @@ msgstr "Botão Direito Gatilho\n"
 # game/screens.rpy:1168
 msgid "Left Trigger\n"
 "Left Shoulder"
-msgstr ""
+msgstr "Gatilho esquerdo\n"
+"Ombro esquerdo"
 
 # game/screens.rpy:1172
 msgid "Right Shoulder"
