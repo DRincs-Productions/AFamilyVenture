@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-18 23:31\n"
+"PO-Revision-Date: 2024-07-10 17:31\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/images/interface_images/blackjack/blackjack-DS.rpy:503 #-#-# translate crowdin startGameBJ_ddfcd22e:
 msgid "[_BJ_dealer_] I'll start dealing the cards!{w=2.0}{nw}"
@@ -30,7 +30,7 @@ msgstr "[_BJ_dealer_] Blackjack! Il concessionario ha anche il blackjack, ma hai
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:600 #-#-# translate crowdin handCheckLabel_f74531ea:
 msgid "[_BJ_dealer_] Blackjack! The dealer also has blackjack, so it's a push! You get your $[betSum] back!{w=2.0}{nw}"
-msgstr "[_BJ_dealer_] Blackjack! Il dealer ha anche il blackjack, quindi è una spinta! Riceverai i tuoi $[betSum]!{w=2.0}{nw}"
+msgstr "[Blackjack! Anche il banco ha un blackjack, quindi è un push! Riavrai i tuoi $[betSum]! {w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:612 #-#-# translate crowdin handCheckLabel_3b883a25:
 msgid "[_BJ_dealer_] Blackjack! You won the game and $[betSum]!{w=2.0}{nw}"
@@ -38,11 +38,11 @@ msgstr "[_BJ_dealer_] Blackjack! Hai vinto la partita e $[betSum]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:623 #-#-# translate crowdin handCheckLabel_4b09cedb:
 msgid "[_BJ_dealer_] Dealer has blackjack, but you have insurance! You make your bets back, $[betSum]!{w=2.0}{nw}"
-msgstr "[_BJ_dealer_] Dealer has blackjack, but you have insurance! You make your bets back, $[betSum]!{w=2.0}{nw}"
+msgstr "[ _BJ_dealer_] Dealer ha blackjack, ma hai l'assicurazione! Fai tornare le tue scommesse, $[betSum]! {w = 2,0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:626 #-#-# translate crowdin handCheckLabel_1d95a20c:
 msgid "[_BJ_dealer_] Dealer has blackjack! You lose the game and $[betSum]!{w=2.0}{nw}"
-msgstr "[_BJ_dealer_] Dealer has blackjack! You lose the game and $[betSum]!{w=2.0}{nw}"
+msgstr "[Il mazziere ha Blackjack! Tu perdi la partita e $[betSum]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:637 #-#-# translate crowdin handCheckLabel_b384deae:
 msgid "[_BJ_dealer_] You won the game and $[betSum]!{w=2.0}{nw}"
@@ -54,7 +54,7 @@ msgstr "[_BJ_dealer_] Hai perso il gioco e $[betSum]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:661 #-#-# translate crowdin handCheckLabel_901a9a2d:
 msgid "[_BJ_dealer_] The dealer also has [computerScore], so it's a push! You get your $[betSum] back minus $[betIns] for insurance.{w=2.0}{nw}"
-msgstr "[_BJ_dealer_] Il concessionario ha anche [computerScore], quindi è una spinta! Ricevi il tuo $[betSum] indietro meno $[betIns] per l'assicurazione.{w=2.0}{nw}"
+msgstr "[_BJ_dealer_] Il concessionario ha anche [computerScore], quindi è una Push! Ricevi il tuo $[betSum] indietro meno $[betIns] per l'assicurazione.{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:663 #-#-# translate crowdin handCheckLabel_3615550f:
 msgid "[_BJ_dealer_] The dealer also has [computerScore], so it's a push! You get your $[betSum] back!{w=2.0}{nw}"
@@ -66,7 +66,7 @@ msgstr "[_BJ_dealer_] Spiacenti! Non hai abbastanza soldi!{w=2.0}{nw}"
 
 # §translate crowdin strings: #|#|# # game/images/interface_images/blackjack/blackjack-DS.rpy:257
 msgid "Dealer"
-msgstr "Mazziere"
+msgstr "Distributore"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:367
 msgid "Place your bets!"
