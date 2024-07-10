@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-02-26 17:32\n"
+"PO-Revision-Date: 2024-07-10 07:22\n"
 
 # TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/Cosplay_gallery.rpy:1213 #-#-# translate crowdin cosplay_label_c1f386dd:
 msgid "[_RT_] {i}Yes... I have sold another pair of oufits for $[sold] more.{/i}"
@@ -18,7 +18,7 @@ msgstr "[_RT_] {i}Sì... Ho venduto un altro paio di oufit per $[sold] in più.{
 
 # game/Cosplay_gallery.rpy:1218 #-#-# translate crowdin cosplay_label_16130f80:
 msgid "[_RT_] {i}I should check if I got any likes and if I can transfer the money to my account.{/i}"
-msgstr "[_RT_] {i}Dovrei controllare se mi è piaciuto e se posso trasferire il denaro sul mio conto.{/i}"
+msgstr "[_RT_] {i}Dovrei controllare se ho ricevuto dei like e se posso trasferire i soldi sul mio conto.{/i}"
 
 # game/Cosplay_gallery.rpy:1793 #-#-# translate crowdin supporters_income_photoshoot_26a16025:
 msgid "You were sponsored by a total of [var_total_supporters] supporters and earned $[var_earnings_from_supporters]!"
