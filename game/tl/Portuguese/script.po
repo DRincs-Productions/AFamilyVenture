@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-07-23 07:43\n"
+"PO-Revision-Date: 2024-07-23 20:30\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -202,7 +202,7 @@ msgstr "[_M_] Uhh... Eu vou indo agora. Traga o meu telefone para a cozinha quan
 
 # game/script.rpy:957 #-#-# translate crowdin peek_1d3e080d:
 msgid "[_RT_] {i}SHIT! She saw me staring!{p} That was stupid.... {p} I need to go to church!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}SHIT! Ela viu eu encarando-a!{p} Isso foi estúpido.... {p} Eu preciso ir para a igreja! {/i}"
 
 # game/script.rpy:958 #-#-# translate crowdin peek_3265e8ee:
 msgid "{i}{b}\"Mom's Libido +1\"{/b}{/i}"
@@ -214,7 +214,7 @@ msgstr "{i}{b}\"Afeição da Mãe -1\"{/b}{/i}"
 
 # game/script.rpy:968 #-#-# translate crowdin gross_2702cdee:
 msgid "[_M_] Ok, well I'm going to go.{p} Bring my phone to the kitchen when you're done."
-msgstr ""
+msgstr "[_M_] Uhh... Eu vou indo agora. {p}. Traga o meu telefone para a cozinha quando terminar."
 
 # game/script.rpy:974 #-#-# translate crowdin main_48550dd5:
 msgid "[_R_] Dad! Are you ok? Why are you in jail?!"
@@ -226,7 +226,7 @@ msgstr "[_D_] Escute-me cuidadosamente filho, eu não tenho muito tempo e essa �
 
 # game/script.rpy:976 #-#-# translate crowdin main_7d94ec04:
 msgid "[_R_] Shouldn't you have called your lawyer?"
-msgstr ""
+msgstr "[_R_] Não devias ter chamado teu advogado?"
 
 # game/script.rpy:977 #-#-# translate crowdin main_8c30da8a:
 msgid "[_D_] JUST SHUT UP AND LISTEN!..."
@@ -234,11 +234,11 @@ msgstr "U[_D_] DEVE MUITO MUITO E LISTEN!..."
 
 # game/script.rpy:978 #-#-# translate crowdin main_99bf2a41:
 msgid "[_D_] I need you to go to my warehouse this morning. Uncle Bobby is going to be there, and he's going to tell you everything you need to know..."
-msgstr ""
+msgstr "[_D_] Preciso que vá ao meu armazém esta manhã. O tio Bobby vai lá estar e vai contar tudo o que precisas de saber..."
 
 # game/script.rpy:979 #-#-# translate crowdin main_8d239059:
 msgid "[_D_] Now I can't stress to you how important it is that you go and see him, and do exactly what he tells you to do..."
-msgstr ""
+msgstr "[_D_] Não posso deixar de salientar a importância de ir ver ele, e de fazer exatamente o que ele  disser para fazer..."
 
 # game/script.rpy:980 #-#-# translate crowdin main_ca6de268:
 msgid "[_D_] Our family could be in some really bad trouble if you don't take care of this for me."
