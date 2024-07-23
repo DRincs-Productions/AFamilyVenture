@@ -11,53 +11,53 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2024-02-26 17:36\n"
+"PO-Revision-Date: 2024-07-23 07:50\n"
 
-# TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/Patreon_$5_Gallery/D.S.Mod.rpy:2269 #-#-# translate crowdin input_money_9c2e4d68:
+# TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/Patreon_$5_Gallery/D.S.Mod.rpy:2252 #-#-# translate crowdin input_money_9c2e4d68:
 msgid "[_DS_] You added $[addmoney] and now have: $[money]."
 msgstr "[_DS_] Pridali ste $[addmoney] a teraz máte: $[money]."
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2307 #-#-# translate crowdin change_names_34819df8:
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2290 #-#-# translate crowdin change_names_34819df8:
 msgid "Okay, your new name is: ({color=#0000CC}[ryan]{/color})."
 msgstr "Dobre, vaše nové meno je: ({color=#0000CC}[ryan]{/color})."
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2332 #-#-# translate crowdin ds_change_name_mom_2e923a8a:
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2315 #-#-# translate crowdin ds_change_name_mom_2e923a8a:
 msgid "[_DS_] Okay, her new name is: ({color=#0000CC}[mom_name]{/color})."
 msgstr "[_DS_] Dobre, jej nové meno je: ({color=#0000CC}[mom_name]{/color})."
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2348 #-#-# translate crowdin ds_change_name_Ryan_602ad794:
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2331 #-#-# translate crowdin ds_change_name_Ryan_602ad794:
 msgid "[_DS_] Okay, your new name is: ({color=#0000CC}[ryan]{/color})."
 msgstr "Dobre, vaše nové meno je: ({color=#0000CC}[ryan]{/color})."
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2353 #-#-# translate crowdin ds_mod_info_3abf1dee:
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2336 #-#-# translate crowdin ds_mod_info_3abf1dee:
 msgid "[_DS_] This mod(v[mod_version]) was made by {color=#00589E}D.S.-sama{/color} for {color=#E60000}WillTylor{/color} and his game, {color=#34f500}AFamilyVenture_v[game_version]{/color}. Have fun playing the game and let us know if you find any bugs."
 msgstr "[_DS_] Tento mód(v[mod_version]) vytvoril {color=#00589E}D.S.-sama{/color} pre {color=#E60000}WillTylor{/color} a hru, {color=#34f500}AFamilyVenture_v[game_version]{/color}. Prajeme vám príjemnú zábavu pri hraní hry a dajte nám vedieť, ak nájdete nejaké chyby."
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2358 #-#-# translate crowdin ds_anger_reset_nfo_47ed8249:
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2341 #-#-# translate crowdin ds_anger_reset_nfo_47ed8249:
 msgid "[_DS_] You have reset the anger lvl for all girls!"
 msgstr "[_DS_] Zresetovali ste úroveň hnevu pre všetky dievčatá!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2363 #-#-# translate crowdin ds_libido_2max_nfo_04ab0d4c:
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2346 #-#-# translate crowdin ds_libido_2max_nfo_04ab0d4c:
 msgid "[_DS_] You have set the libido lvl to max for all girls!"
 msgstr "[_DS_] Nastavili ste level libida na maximum pre všetky dievčatá!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2368 #-#-# translate crowdin info_spy_cams_4be81734:
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2351 #-#-# translate crowdin info_spy_cams_4be81734:
 msgid "[_DS_] To set up the spy cams in the rooms you must first have the 'progress >= 6' (after the event when Sidney comes home) and as an extra condition to set the camera in Lauren's room you must have 'sidneyfingerlaurenprogress > 4' (Sidney must move out of her room)."
 msgstr "[_DS_] Ak chcete nastaviť špionážne kamery v izbách, musíte mať najprv \"progress >= 6\" (po udalosti, keď Sidney príde domov) a ako ďalšiu podmienku na nastavenie kamery v Laureninej izbe musíte mať \"sidneyfingerlaurenprogress > 4\" (Sidney sa musí pohnúť zo svojej izby)."
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2443 #-#-# translate crowdin adv_rest_jump_24ddb230:
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2426 #-#-# translate crowdin adv_rest_jump_24ddb230:
 msgid "[_RT_] {i}School has ended, I must return home{/i}"
 msgstr "[_RT_] {i}Škola sa skončila, musím sa vrátiť domov{/i}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2451 #-#-# translate crowdin adv_rest_jump_24ddb230_1:
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2434 #-#-# translate crowdin adv_rest_jump_24ddb230_1:
 msgid "[_RT_] {i}School has ended, I must return home{/i}"
 msgstr "[_RT_] {i}Škola sa skončila, musím sa vrátiť domov{/i}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2457 #-#-# translate crowdin adv_rest_jump_24ddb230_2:
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2440 #-#-# translate crowdin adv_rest_jump_24ddb230_2:
 msgid "[_RT_] {i}School has ended, I must return home{/i}"
 msgstr "[_RT_] {i}Škola sa skončila, musím sa vrátiť domov{/i}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2463 #-#-# translate crowdin adv_rest_jump_24ddb230_3:
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2446 #-#-# translate crowdin adv_rest_jump_24ddb230_3:
 msgid "[_RT_] {i}School has ended, I must return home{/i}"
 msgstr "[_RT_] {i}Škola sa skončila, musím sa vrátiť domov{/i}"
 
@@ -69,335 +69,335 @@ msgstr "názov označenia: [store.current_label]"
 msgid "iPatch: [persistent.patreonsafe]"
 msgstr "iPatch: [persistent.patreonsafe]"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:361
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:344
 msgid "[screen_on]"
 msgstr "[screen_on]"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:464
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:447
 msgid "Mod Info!"
 msgstr "Informácie o móde!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:513
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:496
 msgid "{color=#00589E}Name_changes------------------{/color}"
 msgstr "{color=#00589E}Name_changes------------------{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:515
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:498
 msgid "Change your name. \n"
 "{color=#1DDB16}(Current name is: [ryan]){/color}"
 msgstr "Zmeňte si meno. \n"
 "{color=#1DDB16}(Aktuálne meno je: [ryan]){/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:528
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:511
 msgid "{color=#00589E}Points_and_items--------------{/color}"
 msgstr "{color=#00589E}Points_and_items--------------{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:530
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:513
 msgid "{color=#1DDB16}Add{/color}/{color=#E60000}Remove{/color} items"
 msgstr "{color=#1DDB16} Pridať {/color}/{color=#E60000} Odstrániť {/color} položky"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:560
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:543
 msgid "Change girls stats"
 msgstr "Zmena dievčenských štatistík"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:626
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:609
 msgid "{color=#00589E}Time:[timeofdaycounter]-----------------------------{/color}"
 msgstr "{color=#00589E} Čas:[timeofdaycounter]----------------------------- {/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:628
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:611
 msgid " Press to jump to the right\n"
 "                   time!"
 msgstr " Stlačením tlačidla skočíte na správny čas\n"
 "                   !"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:634
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:617
 msgid "Advance Time"
 msgstr "Posunúť čas"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:649
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:632
 msgid "Regress Time"
 msgstr "Vrátiť čas"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:663
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:646
 msgid "Set week day"
 msgstr "Nastaviť deň v týždni"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:689
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:672
 msgid "{color=#00589E}Money:[money]----------------------{/color}"
 msgstr "{color=#00589E} Peniaze:[money]---------------------- {/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:691
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:674
 msgid "Add $1000"
 msgstr "Pridať $1000"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:695
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:678
 msgid "Remove $1000"
 msgstr "Odstrániť $1000"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:704
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:687
 msgid "Input money"
 msgstr "Vložiť peniaze"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:708
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:691
 msgid "{color=#00589E}Gallery unlocker-----------------{/color}"
 msgstr "{color=#00589E} Galéria unlocker ----------------- {/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:755
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:738
 msgid "{color=#E60000}Add/Remove items{/color}"
 msgstr "{color=#E60000} Pridať/Odstrániť položky {/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:787
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:770
 msgid "{color=#000000}-------------------------------------{/color}"
 msgstr "{color=#000000}-------------------------------------{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:797
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:780
 msgid "Add!"
 msgstr "Pridať!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:804
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:787
 msgid "Remove!"
 msgstr "Odstrániť"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1068
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1051
 msgid "{color=#E60000}Day of the week:{/color}"
 msgstr "{color=#E60000}Deň v týždni:{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1069
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1052
 msgid "{color=#E60000}[day]{/color}"
 msgstr "{color=#E60000}[day]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1072
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1055
 msgid "{color=#000000}------------------------------------------{/color}"
 msgstr "{color=#000000}------------------------------------------{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1074
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1057
 msgid "Monday!"
 msgstr "Pondelok!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1083
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1066
 msgid "Tuesday!"
 msgstr "Utorok!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1092
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1075
 msgid "Wednesday!"
 msgstr "Streda!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1101
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1084
 msgid "Thursday!"
 msgstr "Štvrtok!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1110
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1093
 msgid "Friday!"
 msgstr "Piatok!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1120
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1103
 msgid "Saturday!"
 msgstr "Sobota!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1129
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1112
 msgid "Sunday!"
 msgstr "Nedeľa!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1202
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1185
 msgid "{color=#E60000}Change girls stats{/color}"
 msgstr "{color=#E60000} Zmeniť štatistiky dievčat {/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1206
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1189
 msgid "Reset all girls anger lvl!"
 msgstr "Resetovať hnev u všetkých dievčat!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1216
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1199
 msgid "Set all girls libido lvl to max!"
 msgstr "Nastaviť všetkým dievčatám libido level na maximum!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1235
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1218
 msgid "{image=iconM} [Mom]"
 msgstr "{image=iconM} [Mom]"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1251
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1234
 msgid "{image=iconL} Lauren"
 msgstr "{image=iconL} Lauren"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1267
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1250
 msgid "{image=iconS} Sidney"
 msgstr "{image=iconS} Sidney"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1283
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1266
 msgid "{image=iconA} [Auntie]"
 msgstr "{image=iconA} [Auntie]"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1377
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1360
 msgid "{image=iconM} {color=#E60000}[Mom]{/color}"
 msgstr "{image=iconM} {color=#E60000}[Mom]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1386
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1369
 msgid "{color=#00589E}Respect:{/color} {color=#1DDB16}[momrespect]{/color}"
 msgstr "{color=#00589E} Rešpekt: {/color} {color=#1DDB16}[momrespect]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1390
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1373
 msgid "Increase respect!"
 msgstr "Zvýšte rešpekt!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1399
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1382
 msgid "Decrease respect!"
 msgstr "Znížte rešpekt!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1410
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1393
 msgid "{color=#00589E}Affection:{/color} {color=#1DDB16}[momaffection]{/color}"
 msgstr "{color=#00589E} Náklonnosť: {/color} {color=#1DDB16}[momaffection]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1414
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1397
 msgid "Increase affection!"
 msgstr "Zvýšte náklonnosť!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1423
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1406
 msgid "Decrease affection!"
 msgstr "Znížte náklonnosť!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1434
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1417
 msgid "{color=#00589E}Libido:{/color} {color=#1DDB16}[momlibido]{/color}"
 msgstr "{color=#00589E}Libido:{/color} {color=#1DDB16}[momlibido]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1438
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1421
 msgid "Increase libido!"
 msgstr "Zvýšiť libido!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1447
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1430
 msgid "Decrease libido!"
 msgstr "Znížiť libido!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1458
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1441
 msgid "{color=#00589E}Submission:{/color} {color=#1DDB16}[momsubmission]{/color}"
 msgstr "{color=#00589E} Podvolenie: {/color} {color=#1DDB16}[momsubmission]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1462
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1445
 msgid "Increase submission!"
 msgstr "Zvýšiť podvolenie!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1471
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1454
 msgid "Decrease submission!"
 msgstr "Znížiť podvolenie!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1482
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1465
 msgid "{color=#00589E}Anger:{/color} {color=#1DDB16}[momanger]{/color}"
 msgstr "{color=#00589E}Hnev:{/color} {color=#1DDB16}[momanger]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1486
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1469
 msgid "Reset anger!"
 msgstr "Resetovať hnev!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1492
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1475
 msgid "Increase anger!"
 msgstr "Zvýšiť hnev!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1501
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1484
 msgid "Decrease anger!"
 msgstr "Znížiť hnev!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1547
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1530
 msgid "{image=iconL} {color=#E60000}Lauren{/color}"
 msgstr "{image=iconL} {color=#E60000}Lauren{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1556
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1539
 msgid "{color=#00589E}Respect:{/color} {color=#1DDB16}[laurenrespect]{/color}"
 msgstr "{color=#00589E} Rešpekt: {/color} {color=#1DDB16}[laurenrespect]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1580
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1563
 msgid "{color=#00589E}Affection:{/color} {color=#1DDB16}[laurenaffection]{/color}"
 msgstr "{color=#00589E} Náklonnosť: {/color} {color=#1DDB16}[laurenaffection]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1604
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1587
 msgid "{color=#00589E}Libido:{/color} {color=#1DDB16}[laurenlibido]{/color}"
 msgstr "{color=#00589E}Libido:{/color} {color=#1DDB16}[laurenlibido]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1628
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1611
 msgid "{color=#00589E}Submission:{/color} {color=#1DDB16}[laurensubmission]{/color}"
 msgstr "{color=#00589E} Podvolenie: {/color} {color=#1DDB16}[laurensubmission]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1652
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1635
 msgid "{color=#00589E}Anger:{/color} {color=#1DDB16}[laurenanger]{/color}"
 msgstr "{color=#00589E}Hnev:{/color} {color=#1DDB16}[laurenanger]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1683
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1666
 msgid "{color=#00589E}School influence:{/color} {color=#1DDB16}[school_influence]{/color}"
 msgstr "{color=#00589E}Školský vplyv:{/color} {color=#1DDB16}[school_influence]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1687
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1670
 msgid "Increase influence!"
 msgstr "Zvýšiť vplyv!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1696
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1679
 msgid "Decrease influence!"
 msgstr "Znížiť vplyv!"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1742
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1725
 msgid "{image=iconS} {color=#E60000}Sidney{/color}"
 msgstr "{image=iconL} {color=#E60000}Lauren{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1751
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1734
 msgid "{color=#00589E}Respect:{/color} {color=#1DDB16}[sidneyrespect]{/color}"
 msgstr "{color=#00589E} Rešpekt: {/color} {color=#1DDB16}[sidneyrespect]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1775
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1758
 msgid "{color=#00589E}Affection:{/color} {color=#1DDB16}[sidneyaffection]{/color}"
 msgstr "{color=#00589E} Náklonnosť: {/color} {color=#1DDB16}[sidneyaffection]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1799
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1782
 msgid "{color=#00589E}Libido:{/color} {color=#1DDB16}[sidneylibido]{/color}"
 msgstr "{color=#00589E}Libido:{/color} {color=#1DDB16}[sidneylibido]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1823
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1806
 msgid "{color=#00589E}Submission:{/color} {color=#1DDB16}[sidneysubmission]{/color}"
 msgstr "{color=#00589E} Podvolenie: {/color} {color=#1DDB16}[sidneysubmission]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1847
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1830
 msgid "{color=#00589E}Anger:{/color} {color=#1DDB16}[sidneyanger]{/color}"
 msgstr "{color=#00589E}Hnev:{/color} {color=#1DDB16}[sidneyanger]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1935
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1918
 msgid "{image=iconA} {color=#E60000}[Auntie]{/color}"
 msgstr "{image=iconM} {color=#E60000}[Auntie]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1944
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1927
 msgid "{color=#00589E}Respect:{/color} {color=#1DDB16}[auntrespect]{/color}"
 msgstr "{color=#00589E} Rešpekt: {/color} {color=#1DDB16}[auntrespect]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1968
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1951
 msgid "{color=#00589E}Affection:{/color} {color=#1DDB16}[auntaffection]{/color}"
 msgstr "{color=#00589E} Náklonnosť: {/color} {color=#1DDB16}[auntaffection]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:1992
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1975
 msgid "{color=#00589E}Libido:{/color} {color=#1DDB16}[auntlibido]{/color}"
 msgstr "{color=#00589E}Libido:{/color} {color=#1DDB16}[auntlibido]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2016
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:1999
 msgid "{color=#00589E}Submission:{/color} {color=#1DDB16}[auntsubmission]{/color}"
 msgstr "{color=#00589E} Podvolenie: {/color} {color=#1DDB16}[auntsubmission]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2040
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2023
 msgid "{color=#00589E}Anger:{/color} {color=#1DDB16}[auntanger]{/color}"
 msgstr "{color=#00589E}Hnev:{/color} {color=#1DDB16}[auntanger]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2116
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2099
 msgid "{color=#00589E}Respect:{/color} {color=#1DDB16}[cousinrespect]{/color}"
 msgstr "{color=#00589E} Rešpekt: {/color} {color=#1DDB16}[cousinrespect]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2140
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2123
 msgid "{color=#00589E}Affection:{/color} {color=#1DDB16}[cousinaffection]{/color}"
 msgstr "{color=#00589E} Náklonnosť: {/color} {color=#1DDB16}[cousinaffection]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2164
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2147
 msgid "{color=#00589E}Libido:{/color} {color=#1DDB16}[cousinlibido]{/color}"
 msgstr "{color=#00589E}Libido:{/color} {color=#1DDB16}[cousinlibido]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2188
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2171
 msgid "{color=#00589E}Submission:{/color} {color=#1DDB16}[cousinsubmission]{/color}"
 msgstr "{color=#00589E} Podvolenie: {/color} {color=#1DDB16}[cousinsubmission]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2212
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2195
 msgid "{color=#00589E}Anger:{/color} {color=#1DDB16}[cousinanger]{/color}"
 msgstr "{color=#00589E}Hnev:{/color} {color=#1DDB16}[cousinanger]{/color}"
 
-# game/Patreon_$5_Gallery/D.S.Mod.rpy:2294
+# game/Patreon_$5_Gallery/D.S.Mod.rpy:2277
 msgid "Do you want to change your name? Default name is: {color=#0000CC}Ryan{/color}"
 msgstr "Chcete si zmeniť meno? Predvolené meno je: {color=#0000CC}Ryan{/color}"
 
