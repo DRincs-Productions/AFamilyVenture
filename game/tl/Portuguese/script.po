@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-07-23 20:30\n"
+"PO-Revision-Date: 2024-07-23 21:38\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -242,7 +242,7 @@ msgstr "[_D_] Não posso deixar de salientar a importância de ir ver ele, e de 
 
 # game/script.rpy:980 #-#-# translate crowdin main_ca6de268:
 msgid "[_D_] Our family could be in some really bad trouble if you don't take care of this for me."
-msgstr ""
+msgstr "[_D_] A nossa família poderia estar com alguns problemas muito graves se você não cuidar disso para mim."
 
 # game/script.rpy:983 #-#-# translate crowdin main_dd502651:
 msgid "[_R_] Don't worry Dad, I'll go over there as soon as I can."
@@ -262,7 +262,7 @@ msgstr "[_D_] .... Eu posso ter que passar um bom tempo na prisão..."
 
 # game/script.rpy:987 #-#-# translate crowdin main_00c45d2d:
 msgid "[_D_] I need you to take care of this for me..."
-msgstr ""
+msgstr "[_D_] Preciso que cuide disso por mim..."
 
 # game/script.rpy:988 #-#-# translate crowdin main_2a4dfaa8:
 msgid "[_D_] You're the man of the house now..."
@@ -270,7 +270,7 @@ msgstr "[_D_] Você é o homem da casa agora..."
 
 # game/script.rpy:989 #-#-# translate crowdin main_ae51af36:
 msgid "[_D_] I know this is a lot to take in, but you've got to step up..."
-msgstr ""
+msgstr "[_D_] Eu sei que isto é muito para absorver, mas tens seguir em frente..."
 
 # game/script.rpy:990 #-#-# translate crowdin main_c6972989:
 msgid "[_D_] Our family's safety and success are now in your hands..."
@@ -278,7 +278,7 @@ msgstr "[_D_] A segurança e sucesso de nossa família estão agora nas suas mã
 
 # game/script.rpy:991 #-#-# translate crowdin main_0847adbe:
 msgid "[_D_] So don't fuck it up!"
-msgstr ""
+msgstr "[_D_] Não estragues tudo!"
 
 # game/script.rpy:992 #-#-# translate crowdin main_5983890b:
 msgid "\"{b}CLICK{/b}\""
@@ -302,7 +302,7 @@ msgstr "[_RT_] {i}No que eu acabei de andar? É como se a Mãe e a Lauren estive
 
 # game/script.rpy:1275 #-#-# translate crowdin myroom_3219b135:
 msgid "[_RT_] {i}Has it always been like this, and now I'm just starting to notice? I'm sure I'm reading way more into this than I should.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Foi sempre assim, e só agora estou percebendo? Tenho a certeza que mergulhando nisso muito mais do que devia.{/i}"
 
 # game/script.rpy:1281 #-#-# translate crowdin myroom_af1bc791:
 msgid "[_L_] I'm looking for the TV remote."
@@ -418,7 +418,7 @@ msgstr "[_L_] eu adivinho."
 
 # game/script.rpy:1331 #-#-# translate crowdin myroom_b9a06102:
 msgid "[_R_] So do you want to watch some TV?"
-msgstr ""
+msgstr "[_R_] Então, quer ver televisão?"
 
 # game/script.rpy:1333 #-#-# translate crowdin myroom_c2bbc9a3:
 msgid "[_L_] I'm still pissed off at you remember."
@@ -526,15 +526,15 @@ msgstr "[_RT_] {i}Minha cama parece solitária sem Sidney nela.{/i}"
 
 # game/script.rpy:1467 #-#-# translate crowdin myroomnight_6e41530c:
 msgid "[_RT_] {i}I hope she's okay at the club tonight.{/i}"
-msgstr ""
+msgstr "[_RT_] {i} Espero que ela esteja bem no clube esta noite.{/i}"
 
 # game/script.rpy:1512 #-#-# translate crowdin computer_306f7f3e:
 msgid "[_RT_] {i}WOW! We reached 1000 likes.... {p}And CosplayHeaven just gave us access to a new feature.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}WOW! Atingimos 1000 likes.... {p}E o CosplayHeaven acabou de nos dar acesso a uma nova funcionalidade.{/i}"
 
 # game/script.rpy:1513 #-#-# translate crowdin computer_408fc709:
 msgid "[_RT_] {i}It seems that we can increase our revenues if people decide to become our supporters and we'll get $[var_earnings_per_supporters] for each one.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Parece que podemos aumentar as nossas receitas se as pessoas decidirem tornar-se os nossos apoiadores e recebermos $[var_earnings_per_supporters] por cada um.{/i}"
 
 # game/script.rpy:1514 #-#-# translate crowdin computer_487f4ba7:
 msgid "[_RT_] {i}Now it's the perfect time to use those lewd pictures I took of Lauren.{/i}"
@@ -1010,7 +1010,7 @@ msgstr "[_RT_] {i}No que eu acabei de andar? É como se a Mãe e a Lauren estive
 
 # game/script.rpy:3250 #-#-# translate crowdin loungeevening_3219b135:
 msgid "[_RT_] {i}Has it always been like this, and now I'm just starting to notice? I'm sure I'm reading way more into this than I should.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Foi sempre assim, e só agora estou percebendo? Tenho a certeza que mergulhando nisso muito mais do que devia.{/i}"
 
 # game/script.rpy:3256 #-#-# translate crowdin loungeevening_af1bc791:
 msgid "[_L_] I'm looking for the TV remote."
@@ -1126,7 +1126,7 @@ msgstr "[_L_] eu adivinho."
 
 # game/script.rpy:3306 #-#-# translate crowdin loungeevening_b9a06102:
 msgid "[_R_] So do you want to watch some TV?"
-msgstr ""
+msgstr "[_R_] Então, quer ver televisão?"
 
 # game/script.rpy:3308 #-#-# translate crowdin loungeevening_c2bbc9a3:
 msgid "[_L_] I'm still pissed off at you remember."
@@ -1374,7 +1374,7 @@ msgstr "[_RT_] {i}No que eu acabei de andar? É como se a Mãe e a Lauren estive
 
 # game/script.rpy:3501 #-#-# translate crowdin loungeeveningweekend_3219b135:
 msgid "[_RT_] {i}Has it always been like this, and now I'm just starting to notice? I'm sure I'm reading way more into this than I should.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Foi sempre assim, e só agora estou percebendo? Tenho a certeza que mergulhando nisso muito mais do que devia.{/i}"
 
 # game/script.rpy:3507 #-#-# translate crowdin loungeeveningweekend_af1bc791:
 msgid "[_L_] I'm looking for the TV remote."
@@ -1490,7 +1490,7 @@ msgstr "[_L_] eu adivinho."
 
 # game/script.rpy:3557 #-#-# translate crowdin loungeeveningweekend_b9a06102:
 msgid "[_R_] So do you want to watch some TV?"
-msgstr ""
+msgstr "[_R_] Então, quer ver televisão?"
 
 # game/script.rpy:3559 #-#-# translate crowdin loungeeveningweekend_c2bbc9a3:
 msgid "[_L_] I'm still pissed off at you remember."
@@ -2422,7 +2422,7 @@ msgstr "[_RT_] {i}No que eu acabei de andar? É como se a Mãe e a Lauren estive
 
 # game/script.rpy:4814 #-#-# translate crowdin dishes_3219b135:
 msgid "[_RT_] {i}Has it always been like this, and now I'm just starting to notice? I'm sure I'm reading way more into this than I should.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Foi sempre assim, e só agora estou percebendo? Tenho a certeza que mergulhando nisso muito mais do que devia.{/i}"
 
 # game/script.rpy:4820 #-#-# translate crowdin dishes_af1bc791:
 msgid "[_L_] I'm looking for the TV remote."
@@ -2538,7 +2538,7 @@ msgstr "[_L_] eu adivinho."
 
 # game/script.rpy:4870 #-#-# translate crowdin dishes_b9a06102:
 msgid "[_R_] So do you want to watch some TV?"
-msgstr ""
+msgstr "[_R_] Então, quer ver televisão?"
 
 # game/script.rpy:4872 #-#-# translate crowdin dishes_c2bbc9a3:
 msgid "[_L_] I'm still pissed off at you remember."
