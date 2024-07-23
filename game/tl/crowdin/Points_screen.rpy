@@ -1,128 +1,128 @@
-﻿# TODO: Translation updated at 2023-06-26 18:52
+﻿# TODO: Translation updated at 2024-07-23 08:27
 
 translate crowdin strings:
 
-    # game/Points_screen.rpy:117
+    # game/Points_screen.rpy:119
     old "Mom's stats:"
     new "Mom's stats:"
 
-    # game/Points_screen.rpy:127
+    # game/Points_screen.rpy:129
     old "[momaffection]"
     new "[momaffection]"
 
-    # game/Points_screen.rpy:128
+    # game/Points_screen.rpy:130
     old "[momrespect]"
     new "[momrespect]"
 
-    # game/Points_screen.rpy:129
+    # game/Points_screen.rpy:131
     old "[momlibido]"
     new "[momlibido]"
 
-    # game/Points_screen.rpy:130
+    # game/Points_screen.rpy:132
     old "[momsubmission]"
     new "[momsubmission]"
 
-    # game/Points_screen.rpy:131
+    # game/Points_screen.rpy:133
     old "[momanger]"
     new "[momanger]"
 
-    # game/Points_screen.rpy:138
+    # game/Points_screen.rpy:140
     old "Lauren's stats:"
     new "Lauren's stats:"
 
-    # game/Points_screen.rpy:147
+    # game/Points_screen.rpy:149
     old "[laurenaffection]"
     new "[laurenaffection]"
 
-    # game/Points_screen.rpy:148
+    # game/Points_screen.rpy:150
     old "[laurenrespect]"
     new "[laurenrespect]"
 
-    # game/Points_screen.rpy:149
+    # game/Points_screen.rpy:151
     old "[laurenlibido]"
     new "[laurenlibido]"
 
-    # game/Points_screen.rpy:150
+    # game/Points_screen.rpy:152
     old "[laurensubmission]"
     new "[laurensubmission]"
 
-    # game/Points_screen.rpy:151
+    # game/Points_screen.rpy:153
     old "[laurenanger]"
     new "[laurenanger]"
 
-    # game/Points_screen.rpy:158
+    # game/Points_screen.rpy:160
     old "Sidney's stats:"
     new "Sidney's stats:"
 
-    # game/Points_screen.rpy:167
+    # game/Points_screen.rpy:169
     old "[sidneyaffection]"
     new "[sidneyaffection]"
 
-    # game/Points_screen.rpy:168
+    # game/Points_screen.rpy:170
     old "[sidneyrespect]"
     new "[sidneyrespect]"
 
-    # game/Points_screen.rpy:169
+    # game/Points_screen.rpy:171
     old "[sidneylibido]"
     new "[sidneylibido]"
 
-    # game/Points_screen.rpy:170
+    # game/Points_screen.rpy:172
     old "[sidneysubmission]"
     new "[sidneysubmission]"
 
-    # game/Points_screen.rpy:171
+    # game/Points_screen.rpy:173
     old "[sidneyanger]"
     new "[sidneyanger]"
 
-    # game/Points_screen.rpy:190
+    # game/Points_screen.rpy:192
     old "[auntaffection]"
     new "[auntaffection]"
 
-    # game/Points_screen.rpy:191
+    # game/Points_screen.rpy:193
     old "[auntrespect]"
     new "[auntrespect]"
 
-    # game/Points_screen.rpy:192
+    # game/Points_screen.rpy:194
     old "[auntlibido]"
     new "[auntlibido]"
 
-    # game/Points_screen.rpy:193
+    # game/Points_screen.rpy:195
     old "[auntsubmission]"
     new "[auntsubmission]"
 
-    # game/Points_screen.rpy:194
+    # game/Points_screen.rpy:196
     old "[auntanger]"
     new "[auntanger]"
 
-    # game/Points_screen.rpy:204
+    # game/Points_screen.rpy:206
     old "Mandy's stats:"
     new "Mandy's stats:"
 
-    # game/Points_screen.rpy:213
+    # game/Points_screen.rpy:215
     old "[cousinaffection]"
     new "[cousinaffection]"
 
-    # game/Points_screen.rpy:214
+    # game/Points_screen.rpy:216
     old "[cousinrespect]"
     new "[cousinrespect]"
 
-    # game/Points_screen.rpy:215
+    # game/Points_screen.rpy:217
     old "[cousinlibido]"
     new "[cousinlibido]"
 
-    # game/Points_screen.rpy:216
+    # game/Points_screen.rpy:218
     old "[cousinsubmission]"
     new "[cousinsubmission]"
 
-    # game/Points_screen.rpy:217
+    # game/Points_screen.rpy:219
     old "[cousinanger]"
     new "[cousinanger]"
 
-    # game/Points_screen.rpy:219
+    # game/Points_screen.rpy:221
     old "<<"
     new "<<"
 
-    # game/Points_screen.rpy:230
+    # game/Points_screen.rpy:232
     old ">>"
     new ">>"
 

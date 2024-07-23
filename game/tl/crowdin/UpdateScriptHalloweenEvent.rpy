@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-06-26 18:52
+﻿# TODO: Translation updated at 2024-07-23 08:27
 
 # game/UpdateScriptHalloweenEvent.rpy:256
 translate crowdin halloween_event_start_36b1bdbb:

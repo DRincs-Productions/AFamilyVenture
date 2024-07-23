@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-10-28 15:07
+﻿# TODO: Translation updated at 2024-07-23 08:27
 
 translate crowdin strings:
 
@@ -151,22 +151,30 @@ translate crowdin strings:
     new "{image=iconM}{color=#42f456} in Mom..............[mom_cum_loads_counter]{/color}"
 
     # game/Phone_stats_screen.rpy:201
-    old "{image=iconL}{color=#f442d9} in Lauren............[lauren_cum_loads_counter]{/color}"
-    new "{image=iconL}{color=#f442d9} in Lauren............[lauren_cum_loads_counter]{/color}"
+    old "{image=iconL}{color=#f442d9} in Lauren...........[lauren_cum_loads_counter]{/color}"
+    new "{image=iconL}{color=#f442d9} in Lauren...........[lauren_cum_loads_counter]{/color}"
 
     # game/Phone_stats_screen.rpy:202
-    old "{image=iconS}{color=#006600} in Sidney.............[sidney_cum_loads_counter]{/color}"
-    new "{image=iconS}{color=#006600} in Sidney.............[sidney_cum_loads_counter]{/color}"
+    old "{image=iconS}{color=#006600} in Sidney...........[sidney_cum_loads_counter]{/color}"
+    new "{image=iconS}{color=#006600} in Sidney...........[sidney_cum_loads_counter]{/color}"
 
     # game/Phone_stats_screen.rpy:205
-    old "{image=iconMG}{color=#99FF99} in Megan.............[megan_cum_loads_counter]{/color}"
-    new "{image=iconMG}{color=#99FF99} in Megan.............[megan_cum_loads_counter]{/color}"
+    old "{image=iconMG}{color=#99FF99} in Megan...........[megan_cum_loads_counter]{/color}"
+    new "{image=iconMG}{color=#99FF99} in Megan...........[megan_cum_loads_counter]{/color}"
 
     # game/Phone_stats_screen.rpy:210
     old "{image=iconMT} {color=#993300} By Matt:{/color}"
     new "{image=iconMT} {color=#993300} By Matt:{/color}"
 
     # game/Phone_stats_screen.rpy:213
-    old "{image=iconL}{color=#f442d9} in Lauren............[lauren_matt_cum_loads_counter]{/color}"
-    new "{image=iconL}{color=#f442d9} in Lauren............[lauren_matt_cum_loads_counter]{/color}"
+    old "{image=iconL}{color=#f442d9} in Lauren..........[lauren_matt_cum_loads_counter]{/color}"
+    new "{image=iconL}{color=#f442d9} in Lauren..........[lauren_matt_cum_loads_counter]{/color}"
+
+    # game/Phone_stats_screen.rpy:222
+    old "{image=iconJ} {color=#993300} By Joey:{/color}"
+    new "{image=iconJ} {color=#993300} By Joey:{/color}"
+
+    # game/Phone_stats_screen.rpy:224
+    old "{image=iconM}{color=#42f456} in Mom..............[mom_joey_cum_loads_counter]{/color}"
+    new "{image=iconM}{color=#42f456} in Mom..............[mom_joey_cum_loads_counter]{/color}"
 

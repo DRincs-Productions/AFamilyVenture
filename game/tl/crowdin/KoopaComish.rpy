@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-06-26 18:52
+﻿# TODO: Translation updated at 2024-07-23 08:27
 
 # game/KoopaComish.rpy:85
 translate crowdin koopa_scene_29ee671b:

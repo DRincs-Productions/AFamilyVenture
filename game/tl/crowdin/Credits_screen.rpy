@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-10-28 15:07
+﻿# TODO: Translation updated at 2024-07-23 08:27
 
 translate crowdin strings:
 
@@ -71,754 +71,902 @@ translate crowdin strings:
     new "Charley"
 
     # game/Credits_screen.rpy:180
+    old "Chris H****"
+    new "Chris H****"
+
+    # game/Credits_screen.rpy:181
+    old "Chranth"
+    new "Chranth"
+
+    # game/Credits_screen.rpy:182
     old "DD0"
     new "DD0"
 
-    # game/Credits_screen.rpy:181
+    # game/Credits_screen.rpy:183
     old "delta6198"
     new "delta6198"
 
-    # game/Credits_screen.rpy:182
+    # game/Credits_screen.rpy:184
     old "Drew G"
     new "Drew G"
 
-    # game/Credits_screen.rpy:183
+    # game/Credits_screen.rpy:185
     old "Eddie"
     new "Eddie"
 
-    # game/Credits_screen.rpy:184
+    # game/Credits_screen.rpy:186
     old "fanfan"
     new "fanfan"
 
-    # game/Credits_screen.rpy:185
+    # game/Credits_screen.rpy:187
     old "fatfrogs"
     new "fatfrogs"
 
-    # game/Credits_screen.rpy:186
+    # game/Credits_screen.rpy:188
     old "Frayed80"
     new "Frayed80"
 
-    # game/Credits_screen.rpy:187
+    # game/Credits_screen.rpy:189
     old "Grub"
     new "Grub"
 
-    # game/Credits_screen.rpy:188
-    old "hyperion72"
-    new "hyperion72"
-
-    # game/Credits_screen.rpy:189
-    old "Janusz"
-    new "Janusz"
-
     # game/Credits_screen.rpy:190
-    old "Jtf1357"
-    new "Jtf1357"
-
-    # game/Credits_screen.rpy:191
-    old "Kenny89"
-    new "Kenny89"
-
-    # game/Credits_screen.rpy:192
-    old "Kire4th"
-    new "Kire4th"
-
-    # game/Credits_screen.rpy:193
-    old "kingkoopa"
-    new "kingkoopa"
-
-    # game/Credits_screen.rpy:194
-    old "Martin K"
-    new "Martin K"
-
-    # game/Credits_screen.rpy:195
-    old "Mc Byte"
-    new "Mc Byte"
-
-    # game/Credits_screen.rpy:196
-    old "Tarakis"
-    new "Tarakis"
-
-    # game/Credits_screen.rpy:197
-    old "Urqy"
-    new "Urqy"
-
-    # game/Credits_screen.rpy:198
-    old "User#326F358E"
-    new "User#326F358E"
-
-    # game/Credits_screen.rpy:200
-    old "\n{b}{i}$20 tier (My Family {i}SubscribeStar{/i}) (My BFF's {i}Patreon{/i}):{/i}{/b} \n"
-    new "\n{b}{i}$20 tier (My Family {i}SubscribeStar{/i}) (My BFF's {i}Patreon{/i}):{/i}{/b} \n"
-
-    # game/Credits_screen.rpy:202
-    old "."
-    new "."
-
-    # game/Credits_screen.rpy:203
-    old "af"
-    new "af"
-
-    # game/Credits_screen.rpy:204
-    old "Aj W********"
-    new "Aj W********"
-
-    # game/Credits_screen.rpy:205
-    old "Alec C****"
-    new "Alec C****"
-
-    # game/Credits_screen.rpy:206
-    old "Alex421"
-    new "Alex421"
-
-    # game/Credits_screen.rpy:207
-    old "Alex"
-    new "Alex"
-
-    # game/Credits_screen.rpy:208
-    old "Allen Ho"
-    new "Allen Ho"
-
-    # game/Credits_screen.rpy:209
-    old "Alshe"
-    new "Alshe"
-
-    # game/Credits_screen.rpy:210
-    old "AN SOS"
-    new "AN SOS"
-
-    # game/Credits_screen.rpy:211
-    old "Andre"
-    new "Andre"
-
-    # game/Credits_screen.rpy:213
-    old "arshhh111"
-    new "arshhh111"
-
-    # game/Credits_screen.rpy:214
-    old "ashton5531"
-    new "ashton5531"
-
-    # game/Credits_screen.rpy:215
-    old "AtlasRise"
-    new "AtlasRise"
-
-    # game/Credits_screen.rpy:216
-    old "BadassLobster"
-    new "BadassLobster"
-
-    # game/Credits_screen.rpy:217
-    old "Baily C****"
-    new "Baily C****"
-
-    # game/Credits_screen.rpy:218
-    old "Balkanac7"
-    new "Balkanac7"
-
-    # game/Credits_screen.rpy:219
-    old "Benja Talos"
-    new "Benja Talos"
-
-    # game/Credits_screen.rpy:220
-    old "Big Daddi"
-    new "Big Daddi"
-
-    # game/Credits_screen.rpy:221
-    old "blee lee"
-    new "blee lee"
-
-    # game/Credits_screen.rpy:222
-    old "Blue_Raptor"
-    new "Blue_Raptor"
-
-    # game/Credits_screen.rpy:223
-    old "bobojajo"
-    new "bobojajo"
-
-    # game/Credits_screen.rpy:224
-    old "Bolt368"
-    new "Bolt368"
-
-    # game/Credits_screen.rpy:225
-    old "Brady W****"
-    new "Brady W****"
-
-    # game/Credits_screen.rpy:226
-    old "Brian0001"
-    new "Brian0001"
-
-    # game/Credits_screen.rpy:227
-    old "Broken Totoro"
-    new "Broken Totoro"
-
-    # game/Credits_screen.rpy:228
-    old "Caitlin"
-    new "Caitlin"
-
-    # game/Credits_screen.rpy:229
-    old "Callista Gossip"
-    new "Callista Gossip"
-
-    # game/Credits_screen.rpy:230
-    old "Carmen Sandiego"
-    new "Carmen Sandiego"
-
-    # game/Credits_screen.rpy:231
-    old "cheffymac"
-    new "cheffymac"
-
-    # game/Credits_screen.rpy:232
-    old "Christian *** *****"
-    new "Christian *** *****"
-
-    # game/Credits_screen.rpy:233
-    old "Clare"
-    new "Clare"
-
-    # game/Credits_screen.rpy:234
-    old "Cs in SC"
-    new "Cs in SC"
-
-    # game/Credits_screen.rpy:235
-    old "Coscara88"
-    new "Coscara88"
-
-    # game/Credits_screen.rpy:236
-    old "David"
-    new "David"
-
-    # game/Credits_screen.rpy:237
-    old "deadpool25"
-    new "deadpool25"
-
-    # game/Credits_screen.rpy:238
-    old "Deangelo"
-    new "Deangelo"
-
-    # game/Credits_screen.rpy:239
-    old "deeznutsgotem20012031203"
-    new "deeznutsgotem20012031203"
-
-    # game/Credits_screen.rpy:240
-    old "Devin"
-    new "Devin"
-
-    # game/Credits_screen.rpy:241
-    old "Devon Br*********"
-    new "Devon Br*********"
-
-    # game/Credits_screen.rpy:242
-    old "Discoklaus"
-    new "Discoklaus"
-
-    # game/Credits_screen.rpy:243
-    old "Dom"
-    new "Dom"
-
-    # game/Credits_screen.rpy:244
-    old "DramaCoach69"
-    new "DramaCoach69"
-
-    # game/Credits_screen.rpy:245
-    old "Durzo"
-    new "Durzo"
-
-    # game/Credits_screen.rpy:246
-    old "ejc"
-    new "ejc"
-
-    # game/Credits_screen.rpy:247
-    old "Eru Ilúvatar"
-    new "Eru Ilúvatar"
-
-    # game/Credits_screen.rpy:248
-    old "eward"
-    new "eward"
-
-    # game/Credits_screen.rpy:249
-    old "Fangin"
-    new "Fangin"
-
-    # game/Credits_screen.rpy:250
-    old "Fantastic Georgette"
-    new "Fantastic Georgette"
-
-    # game/Credits_screen.rpy:251
-    old "Ferryman"
-    new "Ferryman"
-
-    # game/Credits_screen.rpy:252
-    old "Fireman3431"
-    new "Fireman3431"
-
-    # game/Credits_screen.rpy:253
-    old "Fischi"
-    new "Fischi"
-
-    # game/Credits_screen.rpy:254
-    old "Fred G****"
-    new "Fred G****"
-
-    # game/Credits_screen.rpy:255
-    old "Fuchi Zhong"
-    new "Fuchi Zhong"
-
-    # game/Credits_screen.rpy:256
-    old "George Q******"
-    new "George Q******"
-
-    # game/Credits_screen.rpy:257
-    old "georgez28"
-    new "georgez28"
-
-    # game/Credits_screen.rpy:258
-    old "Giggly Smoker"
-    new "Giggly Smoker"
-
-    # game/Credits_screen.rpy:259
-    old "Glen N****"
-    new "Glen N****"
-
-    # game/Credits_screen.rpy:260
-    old "Glenn S*******"
-    new "Glenn S*******"
-
-    # game/Credits_screen.rpy:261
-    old "grilled"
-    new "grilled"
-
-    # game/Credits_screen.rpy:262
-    old "grimjah"
-    new "grimjah"
-
-    # game/Credits_screen.rpy:263
-    old "GUNSFM"
-    new "GUNSFM"
-
-    # game/Credits_screen.rpy:264
-    old "Happy89"
-    new "Happy89"
-
-    # game/Credits_screen.rpy:265
     old "Helirindir"
     new "Helirindir"
 
-    # game/Credits_screen.rpy:266
-    old "hironmon"
-    new "hironmon"
+    # game/Credits_screen.rpy:191
+    old "hyperion72"
+    new "hyperion72"
 
-    # game/Credits_screen.rpy:267
-    old "Hotbox"
-    new "Hotbox"
-
-    # game/Credits_screen.rpy:268
-    old "Imjust Q"
-    new "Imjust Q"
-
-    # game/Credits_screen.rpy:269
-    old "Imyourbuddy"
-    new "Imyourbuddy"
-
-    # game/Credits_screen.rpy:270
-    old "inzane"
-    new "inzane"
-
-    # game/Credits_screen.rpy:271
+    # game/Credits_screen.rpy:192
     old "ItsMrGru"
     new "ItsMrGru"
 
-    # game/Credits_screen.rpy:272
-    old "Iwa"
-    new "Iwa"
+    # game/Credits_screen.rpy:193
+    old "Janusz"
+    new "Janusz"
 
-    # game/Credits_screen.rpy:273
-    old "J L"
-    new "J L"
+    # game/Credits_screen.rpy:194
+    old "Jogz"
+    new "Jogz"
 
-    # game/Credits_screen.rpy:274
-    old "James"
-    new "James"
+    # game/Credits_screen.rpy:195
+    old "Jtf1357"
+    new "Jtf1357"
 
-    # game/Credits_screen.rpy:275
-    old "James Smith"
-    new "James Smith"
+    # game/Credits_screen.rpy:196
+    old "Kenny89"
+    new "Kenny89"
 
-    # game/Credits_screen.rpy:276
-    old "jaydawg"
-    new "jaydawg"
+    # game/Credits_screen.rpy:197
+    old "Kire4th"
+    new "Kire4th"
 
-    # game/Credits_screen.rpy:277
-    old "jeffy meffy"
-    new "jeffy meffy"
+    # game/Credits_screen.rpy:198
+    old "kingkoopa"
+    new "kingkoopa"
 
-    # game/Credits_screen.rpy:278
-    old "jiffylubey"
-    new "jiffylubey"
+    # game/Credits_screen.rpy:199
+    old "Martin K"
+    new "Martin K"
 
-    # game/Credits_screen.rpy:279
-    old "JoelMartinez86"
-    new "JoelMartinez86"
-
-    # game/Credits_screen.rpy:280
-    old "John"
-    new "John"
-
-    # game/Credits_screen.rpy:281
-    old "john35"
-    new "john35"
-
-    # game/Credits_screen.rpy:282
-    old "John S***"
-    new "John S***"
-
-    # game/Credits_screen.rpy:283
-    old "Joseph Ma*****"
-    new "Joseph Ma*****"
-
-    # game/Credits_screen.rpy:284
-    old "Justin Co******"
-    new "Justin Co******"
-
-    # game/Credits_screen.rpy:285
-    old "Levi Cr*****"
-    new "Levi Cr*****"
-
-    # game/Credits_screen.rpy:286
-    old "Lokki87"
-    new "Lokki87"
-
-    # game/Credits_screen.rpy:287
-    old "Luca La*****"
-    new "Luca La*****"
-
-    # game/Credits_screen.rpy:288
-    old "LustFang"
-    new "LustFang"
-
-    # game/Credits_screen.rpy:289
-    old "Kal The Fairy"
-    new "Kal The Fairy"
-
-    # game/Credits_screen.rpy:290
-    old "Keeta Sh****"
-    new "Keeta Sh****"
-
-    # game/Credits_screen.rpy:291
-    old "KILLSWITCH14FP 69"
-    new "KILLSWITCH14FP 69"
-
-    # game/Credits_screen.rpy:292
-    old "King Hugi"
-    new "King Hugi"
-
-    # game/Credits_screen.rpy:293
-    old "Kitten"
-    new "Kitten"
-
-    # game/Credits_screen.rpy:294
-    old "kp helman"
-    new "kp helman"
-
-    # game/Credits_screen.rpy:295
-    old "Kristian No******"
-    new "Kristian No******"
-
-    # game/Credits_screen.rpy:296
-    old "Kyle"
-    new "Kyle"
-
-    # game/Credits_screen.rpy:297
-    old "kyle la*****"
-    new "kyle la*****"
-
-    # game/Credits_screen.rpy:298
-    old "Malidread"
-    new "Malidread"
-
-    # game/Credits_screen.rpy:299
-    old "Many827"
-    new "Many827"
-
-    # game/Credits_screen.rpy:300
-    old "manny s***"
-    new "manny s***"
-
-    # game/Credits_screen.rpy:301
+    # game/Credits_screen.rpy:200
     old "maverick 123"
     new "maverick 123"
 
+    # game/Credits_screen.rpy:201
+    old "Mc Byte"
+    new "Mc Byte"
+
+    # game/Credits_screen.rpy:202
+    old "Tarakis"
+    new "Tarakis"
+
+    # game/Credits_screen.rpy:203
+    old "Urqy"
+    new "Urqy"
+
+    # game/Credits_screen.rpy:204
+    old "User#326F358E"
+    new "User#326F358E"
+
+    # game/Credits_screen.rpy:206
+    old "\n{b}{i}$20 tier (My Family {i}SubscribeStar{/i}) (My BFF's {i}Patreon{/i}):{/i}{/b} \n"
+    new "\n{b}{i}$20 tier (My Family {i}SubscribeStar{/i}) (My BFF's {i}Patreon{/i}):{/i}{/b} \n"
+
+    # game/Credits_screen.rpy:208
+    old "."
+    new "."
+
+    # game/Credits_screen.rpy:209
+    old ".rikkitikkitavi"
+    new ".rikkitikkitavi"
+
+    # game/Credits_screen.rpy:210
+    old "_hotbox"
+    new "_hotbox"
+
+    # game/Credits_screen.rpy:211
+    old "af"
+    new "af"
+
+    # game/Credits_screen.rpy:212
+    old "Aj W********"
+    new "Aj W********"
+
+    # game/Credits_screen.rpy:213
+    old "Alec C****"
+    new "Alec C****"
+
+    # game/Credits_screen.rpy:214
+    old "Alex421"
+    new "Alex421"
+
+    # game/Credits_screen.rpy:215
+    old "Alex"
+    new "Alex"
+
+    # game/Credits_screen.rpy:216
+    old "Allen Ho"
+    new "Allen Ho"
+
+    # game/Credits_screen.rpy:217
+    old "Alshe"
+    new "Alshe"
+
+    # game/Credits_screen.rpy:218
+    old "Alucard3091 Gaming"
+    new "Alucard3091 Gaming"
+
+    # game/Credits_screen.rpy:219
+    old "AN SOS"
+    new "AN SOS"
+
+    # game/Credits_screen.rpy:220
+    old "Andre"
+    new "Andre"
+
+    # game/Credits_screen.rpy:222
+    old "arshhh111"
+    new "arshhh111"
+
+    # game/Credits_screen.rpy:223
+    old "ashton5531"
+    new "ashton5531"
+
+    # game/Credits_screen.rpy:224
+    old "AtlasRise"
+    new "AtlasRise"
+
+    # game/Credits_screen.rpy:225
+    old "Ayrton J******"
+    new "Ayrton J******"
+
+    # game/Credits_screen.rpy:226
+    old "BadassLobster"
+    new "BadassLobster"
+
+    # game/Credits_screen.rpy:227
+    old "Baily C****"
+    new "Baily C****"
+
+    # game/Credits_screen.rpy:228
+    old "Balkanac7"
+    new "Balkanac7"
+
+    # game/Credits_screen.rpy:229
+    old "Benja Talos"
+    new "Benja Talos"
+
+    # game/Credits_screen.rpy:230
+    old "Big Daddi"
+    new "Big Daddi"
+
+    # game/Credits_screen.rpy:231
+    old "blee lee"
+    new "blee lee"
+
+    # game/Credits_screen.rpy:232
+    old "Blue_Raptor"
+    new "Blue_Raptor"
+
+    # game/Credits_screen.rpy:233
+    old "bobojajo"
+    new "bobojajo"
+
+    # game/Credits_screen.rpy:234
+    old "Bolt368"
+    new "Bolt368"
+
+    # game/Credits_screen.rpy:235
+    old "Brady W****"
+    new "Brady W****"
+
+    # game/Credits_screen.rpy:236
+    old "Brian0001"
+    new "Brian0001"
+
+    # game/Credits_screen.rpy:237
+    old "Brian F******"
+    new "Brian F******"
+
+    # game/Credits_screen.rpy:238
+    old "Broken Totoro"
+    new "Broken Totoro"
+
+    # game/Credits_screen.rpy:239
+    old "Caitlin"
+    new "Caitlin"
+
+    # game/Credits_screen.rpy:240
+    old "Callista Gossip"
+    new "Callista Gossip"
+
+    # game/Credits_screen.rpy:241
+    old "Carmen Sandiego"
+    new "Carmen Sandiego"
+
+    # game/Credits_screen.rpy:242
+    old "Ceadd"
+    new "Ceadd"
+
+    # game/Credits_screen.rpy:243
+    old "cheffymac69"
+    new "cheffymac69"
+
+    # game/Credits_screen.rpy:244
+    old "Chris2550"
+    new "Chris2550"
+
+    # game/Credits_screen.rpy:245
+    old "Christian *** *****"
+    new "Christian *** *****"
+
+    # game/Credits_screen.rpy:246
+    old "Clare"
+    new "Clare"
+
+    # game/Credits_screen.rpy:247
+    old "Cs in SC"
+    new "Cs in SC"
+
+    # game/Credits_screen.rpy:248
+    old "Coscara88"
+    new "Coscara88"
+
+    # game/Credits_screen.rpy:249
+    old "dad0515"
+    new "dad0515"
+
+    # game/Credits_screen.rpy:250
+    old "David"
+    new "David"
+
+    # game/Credits_screen.rpy:251
+    old "deadpool25"
+    new "deadpool25"
+
+    # game/Credits_screen.rpy:252
+    old "Deangelo"
+    new "Deangelo"
+
+    # game/Credits_screen.rpy:253
+    old "deeznutsgotem20012031203"
+    new "deeznutsgotem20012031203"
+
+    # game/Credits_screen.rpy:254
+    old "demigoth"
+    new "demigoth"
+
+    # game/Credits_screen.rpy:255
+    old "Devin"
+    new "Devin"
+
+    # game/Credits_screen.rpy:256
+    old "Devon Br*********"
+    new "Devon Br*********"
+
+    # game/Credits_screen.rpy:257
+    old "Dicky5553"
+    new "Dicky5553"
+
+    # game/Credits_screen.rpy:258
+    old "Discoklaus"
+    new "Discoklaus"
+
+    # game/Credits_screen.rpy:259
+    old "Dom"
+    new "Dom"
+
+    # game/Credits_screen.rpy:260
+    old "DramaCoach69"
+    new "DramaCoach69"
+
+    # game/Credits_screen.rpy:261
+    old "Durzo"
+    new "Durzo"
+
+    # game/Credits_screen.rpy:262
+    old "ejc"
+    new "ejc"
+
+    # game/Credits_screen.rpy:263
+    old "Eru Ilúvatar"
+    new "Eru Ilúvatar"
+
+    # game/Credits_screen.rpy:264
+    old "eward"
+    new "eward"
+
+    # game/Credits_screen.rpy:265
+    old "Fangin"
+    new "Fangin"
+
+    # game/Credits_screen.rpy:266
+    old "Fantastic Georgette"
+    new "Fantastic Georgette"
+
+    # game/Credits_screen.rpy:267
+    old "Ferryman"
+    new "Ferryman"
+
+    # game/Credits_screen.rpy:268
+    old "Fireman3431"
+    new "Fireman3431"
+
+    # game/Credits_screen.rpy:269
+    old "Fischi"
+    new "Fischi"
+
+    # game/Credits_screen.rpy:270
+    old "Fred G****"
+    new "Fred G****"
+
+    # game/Credits_screen.rpy:271
+    old "Fuchi Zhong"
+    new "Fuchi Zhong"
+
+    # game/Credits_screen.rpy:272
+    old "Gazzzzzzzo"
+    new "Gazzzzzzzo"
+
+    # game/Credits_screen.rpy:273
+    old "George Q******"
+    new "George Q******"
+
+    # game/Credits_screen.rpy:274
+    old "georgez28"
+    new "georgez28"
+
+    # game/Credits_screen.rpy:275
+    old "GER__Nero85"
+    new "GER__Nero85"
+
+    # game/Credits_screen.rpy:276
+    old "Giggly Smoker"
+    new "Giggly Smoker"
+
+    # game/Credits_screen.rpy:277
+    old "Glen N****"
+    new "Glen N****"
+
+    # game/Credits_screen.rpy:278
+    old "Glenn S*******"
+    new "Glenn S*******"
+
+    # game/Credits_screen.rpy:279
+    old "grilled"
+    new "grilled"
+
+    # game/Credits_screen.rpy:280
+    old "grimjah"
+    new "grimjah"
+
+    # game/Credits_screen.rpy:281
+    old "GUNSFM"
+    new "GUNSFM"
+
+    # game/Credits_screen.rpy:282
+    old "Happy89"
+    new "Happy89"
+
+    # game/Credits_screen.rpy:283
+    old "HeWhoKnows"
+    new "HeWhoKnows"
+
+    # game/Credits_screen.rpy:284
+    old "hironmon"
+    new "hironmon"
+
+    # game/Credits_screen.rpy:285
+    old "Hotbox"
+    new "Hotbox"
+
+    # game/Credits_screen.rpy:286
+    old "ilike2take"
+    new "ilike2take"
+
+    # game/Credits_screen.rpy:287
+    old "Imjust Q"
+    new "Imjust Q"
+
+    # game/Credits_screen.rpy:288
+    old "Imyourbuddy"
+    new "Imyourbuddy"
+
+    # game/Credits_screen.rpy:289
+    old "inzane"
+    new "inzane"
+
+    # game/Credits_screen.rpy:290
+    old "Iwa"
+    new "Iwa"
+
+    # game/Credits_screen.rpy:291
+    old "J L"
+    new "J L"
+
+    # game/Credits_screen.rpy:292
+    old "James"
+    new "James"
+
+    # game/Credits_screen.rpy:293
+    old "James Smith"
+    new "James Smith"
+
+    # game/Credits_screen.rpy:294
+    old "james t*******"
+    new "james t*******"
+
+    # game/Credits_screen.rpy:295
+    old "jaydawg"
+    new "jaydawg"
+
+    # game/Credits_screen.rpy:296
+    old "jdogg96"
+    new "jdogg96"
+
+    # game/Credits_screen.rpy:297
+    old "jeffy meffy"
+    new "jeffy meffy"
+
+    # game/Credits_screen.rpy:298
+    old "jiffylubey"
+    new "jiffylubey"
+
+    # game/Credits_screen.rpy:299
+    old "JoelMartinez86"
+    new "JoelMartinez86"
+
+    # game/Credits_screen.rpy:300
+    old "John"
+    new "John"
+
+    # game/Credits_screen.rpy:301
+    old "john35"
+    new "john35"
+
     # game/Credits_screen.rpy:302
+    old "John S***"
+    new "John S***"
+
+    # game/Credits_screen.rpy:303
+    old "Josa"
+    new "Josa"
+
+    # game/Credits_screen.rpy:304
+    old "Joseph Ma*****"
+    new "Joseph Ma*****"
+
+    # game/Credits_screen.rpy:305
+    old "Justin Co******"
+    new "Justin Co******"
+
+    # game/Credits_screen.rpy:306
+    old "le_ptit_motard_06"
+    new "le_ptit_motard_06"
+
+    # game/Credits_screen.rpy:307
+    old "Levi Cr*****"
+    new "Levi Cr*****"
+
+    # game/Credits_screen.rpy:308
+    old "Lokki87"
+    new "Lokki87"
+
+    # game/Credits_screen.rpy:309
+    old "Luca La*****"
+    new "Luca La*****"
+
+    # game/Credits_screen.rpy:310
+    old "LustFang"
+    new "LustFang"
+
+    # game/Credits_screen.rpy:311
+    old "Kal The Fairy"
+    new "Kal The Fairy"
+
+    # game/Credits_screen.rpy:312
+    old "Keeta Sh****"
+    new "Keeta Sh****"
+
+    # game/Credits_screen.rpy:313
+    old "KILLSWITCH14FP 69"
+    new "KILLSWITCH14FP 69"
+
+    # game/Credits_screen.rpy:314
+    old "King Hugi"
+    new "King Hugi"
+
+    # game/Credits_screen.rpy:315
+    old "king wing"
+    new "king wing"
+
+    # game/Credits_screen.rpy:316
+    old "Kitten"
+    new "Kitten"
+
+    # game/Credits_screen.rpy:317
+    old "kp helman"
+    new "kp helman"
+
+    # game/Credits_screen.rpy:318
+    old "Krimo"
+    new "Krimo"
+
+    # game/Credits_screen.rpy:319
+    old "Kristian No******"
+    new "Kristian No******"
+
+    # game/Credits_screen.rpy:320
+    old "Kyle"
+    new "Kyle"
+
+    # game/Credits_screen.rpy:321
+    old "kyle la*****"
+    new "kyle la*****"
+
+    # game/Credits_screen.rpy:322
+    old "lion6ss6"
+    new "lion6ss6"
+
+    # game/Credits_screen.rpy:323
+    old "lithys"
+    new "lithys"
+
+    # game/Credits_screen.rpy:324
+    old "Malidread"
+    new "Malidread"
+
+    # game/Credits_screen.rpy:325
+    old "Many827"
+    new "Many827"
+
+    # game/Credits_screen.rpy:326
+    old "manny s***"
+    new "manny s***"
+
+    # game/Credits_screen.rpy:327
     old "Mello"
     new "Mello"
 
-    # game/Credits_screen.rpy:303
+    # game/Credits_screen.rpy:328
     old "Meradrin"
     new "Meradrin"
 
-    # game/Credits_screen.rpy:304
+    # game/Credits_screen.rpy:329
     old "MidnightDancer"
     new "MidnightDancer"
 
-    # game/Credits_screen.rpy:305
+    # game/Credits_screen.rpy:330
+    old "Michael"
+    new "Michael"
+
+    # game/Credits_screen.rpy:331
+    old "mike1245"
+    new "mike1245"
+
+    # game/Credits_screen.rpy:332
     old "MikeSands"
     new "MikeSands"
 
-    # game/Credits_screen.rpy:306
+    # game/Credits_screen.rpy:333
     old "Mikestav86"
     new "Mikestav86"
 
-    # game/Credits_screen.rpy:307
+    # game/Credits_screen.rpy:334
     old "mikey"
     new "mikey"
 
-    # game/Credits_screen.rpy:308
+    # game/Credits_screen.rpy:335
+    old "N3zyke"
+    new "N3zyke"
+
+    # game/Credits_screen.rpy:336
     old "N G"
     new "N G"
 
-    # game/Credits_screen.rpy:309
+    # game/Credits_screen.rpy:337
     old "nekoman2"
     new "nekoman2"
 
-    # game/Credits_screen.rpy:310
+    # game/Credits_screen.rpy:338
     old "Noah E M****"
     new "Noah E M****"
 
-    # game/Credits_screen.rpy:311
+    # game/Credits_screen.rpy:339
     old "Nuclear Abyss"
     new "Nuclear Abyss"
 
-    # game/Credits_screen.rpy:312
+    # game/Credits_screen.rpy:340
     old "Official Trentled"
     new "Official Trentled"
 
-    # game/Credits_screen.rpy:313
+    # game/Credits_screen.rpy:341
+    old "OI"
+    new "OI"
+
+    # game/Credits_screen.rpy:342
     old "Orhan Pi***"
     new "Orhan Pi***"
 
-    # game/Credits_screen.rpy:314
+    # game/Credits_screen.rpy:343
     old "pa bu"
     new "pa bu"
 
-    # game/Credits_screen.rpy:315
+    # game/Credits_screen.rpy:344
+    old "peruano_ario"
+    new "peruano_ario"
+
+    # game/Credits_screen.rpy:345
     old "Quinn"
     new "Quinn"
 
-    # game/Credits_screen.rpy:316
+    # game/Credits_screen.rpy:346
     old "Rasgris"
     new "Rasgris"
 
-    # game/Credits_screen.rpy:317
+    # game/Credits_screen.rpy:347
     old "Raul"
     new "Raul"
 
-    # game/Credits_screen.rpy:318
+    # game/Credits_screen.rpy:348
     old "Razzmatazz"
     new "Razzmatazz"
 
-    # game/Credits_screen.rpy:319
+    # game/Credits_screen.rpy:349
     old "Repulgis"
     new "Repulgis"
 
-    # game/Credits_screen.rpy:320
+    # game/Credits_screen.rpy:350
     old "Rhylar"
     new "Rhylar"
 
-    # game/Credits_screen.rpy:321
+    # game/Credits_screen.rpy:351
     old "Roger J****"
     new "Roger J****"
 
-    # game/Credits_screen.rpy:322
+    # game/Credits_screen.rpy:352
     old "Sahiden"
     new "Sahiden"
 
-    # game/Credits_screen.rpy:323
+    # game/Credits_screen.rpy:353
     old "servion"
     new "servion"
 
-    # game/Credits_screen.rpy:324
+    # game/Credits_screen.rpy:354
     old "sfnc45"
     new "sfnc45"
 
-    # game/Credits_screen.rpy:325
+    # game/Credits_screen.rpy:355
     old "Silvio l***"
     new "Silvio l***"
 
-    # game/Credits_screen.rpy:326
+    # game/Credits_screen.rpy:356
+    old "smitty878"
+    new "smitty878"
+
+    # game/Credits_screen.rpy:357
     old "Stefan"
     new "Stefan"
 
-    # game/Credits_screen.rpy:327
+    # game/Credits_screen.rpy:358
     old "Steve"
     new "Steve"
 
-    # game/Credits_screen.rpy:328
+    # game/Credits_screen.rpy:359
     old "StranniK"
     new "StranniK"
 
-    # game/Credits_screen.rpy:329
+    # game/Credits_screen.rpy:360
+    old "Terry"
+    new "Terry"
+
+    # game/Credits_screen.rpy:361
     old "the yak"
     new "the yak"
 
-    # game/Credits_screen.rpy:330
+    # game/Credits_screen.rpy:362
     old "TheHunterwolf097"
     new "TheHunterwolf097"
 
-    # game/Credits_screen.rpy:331
+    # game/Credits_screen.rpy:363
     old "TheHorror"
     new "TheHorror"
 
-    # game/Credits_screen.rpy:332
+    # game/Credits_screen.rpy:364
     old "Thomas"
     new "Thomas"
 
-    # game/Credits_screen.rpy:333
-    old "Thudd"
-    new "Thudd"
+    # game/Credits_screen.rpy:365
+    old "Thormaker"
+    new "Thormaker"
 
-    # game/Credits_screen.rpy:334
+    # game/Credits_screen.rpy:366
+    old "Thudd2484"
+    new "Thudd2484"
+
+    # game/Credits_screen.rpy:367
+    old "timk381"
+    new "timk381"
+
+    # game/Credits_screen.rpy:368
     old "Tj0890"
     new "Tj0890"
 
-    # game/Credits_screen.rpy:335
+    # game/Credits_screen.rpy:369
     old "Trold6665027"
     new "Trold6665027"
 
-    # game/Credits_screen.rpy:336
+    # game/Credits_screen.rpy:370
     old "troy sale"
     new "troy sale"
 
-    # game/Credits_screen.rpy:337
+    # game/Credits_screen.rpy:371
     old "Trumpdog"
     new "Trumpdog"
 
-    # game/Credits_screen.rpy:338
+    # game/Credits_screen.rpy:372
     old "TuuGaa_xD_"
     new "TuuGaa_xD_"
 
-    # game/Credits_screen.rpy:339
+    # game/Credits_screen.rpy:373
     old "Tyler"
     new "Tyler"
 
-    # game/Credits_screen.rpy:340
+    # game/Credits_screen.rpy:374
     old "Umorrian"
     new "Umorrian"
 
-    # game/Credits_screen.rpy:341
+    # game/Credits_screen.rpy:375
+    old "Uncle Redneck"
+    new "Uncle Redneck"
+
+    # game/Credits_screen.rpy:376
     old "Varzii"
     new "Varzii"
 
-    # game/Credits_screen.rpy:342
+    # game/Credits_screen.rpy:377
     old "Vash"
     new "Vash"
 
-    # game/Credits_screen.rpy:343
+    # game/Credits_screen.rpy:378
     old "Verosia"
     new "Verosia"
 
-    # game/Credits_screen.rpy:344
+    # game/Credits_screen.rpy:379
     old "Vivigatsu"
     new "Vivigatsu"
 
-    # game/Credits_screen.rpy:345
+    # game/Credits_screen.rpy:380
     old "Vizko"
     new "Vizko"
 
-    # game/Credits_screen.rpy:346
+    # game/Credits_screen.rpy:381
     old "VOLTAGE 722"
     new "VOLTAGE 722"
 
-    # game/Credits_screen.rpy:347
+    # game/Credits_screen.rpy:382
     old "vorlon92"
     new "vorlon92"
 
-    # game/Credits_screen.rpy:348
+    # game/Credits_screen.rpy:383
     old "William"
     new "William"
 
-    # game/Credits_screen.rpy:349
+    # game/Credits_screen.rpy:384
+    old "William M*****"
+    new "William M*****"
+
+    # game/Credits_screen.rpy:385
     old "Wolfo50"
     new "Wolfo50"
 
-    # game/Credits_screen.rpy:350
+    # game/Credits_screen.rpy:386
     old "xirbeus"
     new "xirbeus"
 
-    # game/Credits_screen.rpy:351
+    # game/Credits_screen.rpy:387
     old "zach"
     new "zach"
 
-    # game/Credits_screen.rpy:352
+    # game/Credits_screen.rpy:388
+    old "Zach B******"
+    new "Zach B******"
+
+    # game/Credits_screen.rpy:389
     old "zapper6718"
     new "zapper6718"
 
-    # game/Credits_screen.rpy:353
+    # game/Credits_screen.rpy:390
     old "ㅁㄴㅇㄹ"
     new "ㅁㄴㅇㄹ"
 
-    # game/Credits_screen.rpy:355
+    # game/Credits_screen.rpy:392
     old "\n{b}Music Attributions:{/b} \n"
     new "\n{b}Music Attributions:{/b} \n"
 
-    # game/Credits_screen.rpy:357
+    # game/Credits_screen.rpy:394
     old "Waiting for the Moment that Never Comes"
     new "Waiting for the Moment that Never Comes"
 
-    # game/Credits_screen.rpy:358
+    # game/Credits_screen.rpy:395
     old "by Lee Rosevere from The Free Music Archive"
     new "by Lee Rosevere from The Free Music Archive"
 
-    # game/Credits_screen.rpy:359
+    # game/Credits_screen.rpy:396
     old "CC by 4.0"
     new "CC by 4.0"
 
-    # game/Credits_screen.rpy:361
+    # game/Credits_screen.rpy:398
     old "I Will (Instrumental)"
     new "I Will (Instrumental)"
 
-    # game/Credits_screen.rpy:362
+    # game/Credits_screen.rpy:399
     old "by Yswha from The Free Music Archive"
     new "by Yswha from The Free Music Archive"
 
-    # game/Credits_screen.rpy:363
+    # game/Credits_screen.rpy:400
     old "CC by SA 4.0"
     new "CC by SA 4.0"
 
-    # game/Credits_screen.rpy:365
+    # game/Credits_screen.rpy:402
     old "Brotherhood"
     new "Brotherhood"
 
-    # game/Credits_screen.rpy:366
+    # game/Credits_screen.rpy:403
     old "by Monplaisir from The Free Music Archive"
     new "by Monplaisir from The Free Music Archive"
 
-    # game/Credits_screen.rpy:367
+    # game/Credits_screen.rpy:404
     old "CC0 1.0 Universal"
     new "CC0 1.0 Universal"
 
-    # game/Credits_screen.rpy:369
+    # game/Credits_screen.rpy:406
     old "Rose Baba"
     new "Rose Baba"
 
-    # game/Credits_screen.rpy:370
+    # game/Credits_screen.rpy:407
     old "by Yan Terrien from The Free Music Archive"
     new "by Yan Terrien from The Free Music Archive"
 
-    # game/Credits_screen.rpy:373
+    # game/Credits_screen.rpy:410
     old "Whirlwind Love"
     new "Whirlwind Love"
 
-    # game/Credits_screen.rpy:374
+    # game/Credits_screen.rpy:411
     old "by Unicorn Heads"
     new "by Unicorn Heads"
 
-    # game/Credits_screen.rpy:375
+    # game/Credits_screen.rpy:412
     old "https://creativecommons.org/licenses/by/3.0/"
     new "https://creativecommons.org/licenses/by/3.0/"
 
-    # game/Credits_screen.rpy:377
+    # game/Credits_screen.rpy:414
     old "Idaho"
     new "Idaho"
 
-    # game/Credits_screen.rpy:378
+    # game/Credits_screen.rpy:415
     old "by Leap of Azzam"
     new "by Leap of Azzam"
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-06-26 18:52
+﻿# TODO: Translation updated at 2024-07-23 08:27
 
 # game/UpdateScript0.07.rpy:1024
 translate crowdin send_will_email_910761e6:
@@ -48485,10 +48485,6 @@ translate crowdin strings:
     # game/UpdateScript0.07.rpy:10551
     old "Yes ($300)"
     new "Yes ($300)"
-
-    # game/UpdateScript0.07.rpy:10600
-    old "Cum inside"
-    new "Cum inside"
 
     # game/UpdateScript0.07.rpy:10600
     old "Cum on her ass"
