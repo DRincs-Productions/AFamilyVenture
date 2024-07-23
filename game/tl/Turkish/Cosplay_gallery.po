@@ -10,69 +10,69 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-02-26 17:32\n"
+"PO-Revision-Date: 2024-07-23 07:44\n"
 
-# TODO: Translation updated at 2023-06-26 18:52 #|#|# # game/Cosplay_gallery.rpy:1213 #-#-# translate crowdin cosplay_label_c1f386dd:
+# TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/Cosplay_gallery.rpy:1214 #-#-# translate crowdin cosplay_label_c1f386dd:
 msgid "[_RT_] {i}Yes... I have sold another pair of oufits for $[sold] more.{/i}"
 msgstr "[_RT_] {i}Evet... Bir çift kıyafet daha sattım.[sold] daha fazla.{/i}"
 
-# game/Cosplay_gallery.rpy:1218 #-#-# translate crowdin cosplay_label_16130f80:
+# game/Cosplay_gallery.rpy:1219 #-#-# translate crowdin cosplay_label_16130f80:
 msgid "[_RT_] {i}I should check if I got any likes and if I can transfer the money to my account.{/i}"
 msgstr "[_RT_] {i}Herhangi bir beğeni alıp almadığımı ve parayı hesabıma transfer edip edemeyeceğimi kontrol etmeliyim.{/i}"
 
-# game/Cosplay_gallery.rpy:1793 #-#-# translate crowdin supporters_income_photoshoot_26a16025:
+# game/Cosplay_gallery.rpy:1794 #-#-# translate crowdin supporters_income_photoshoot_26a16025:
 msgid "You were sponsored by a total of [var_total_supporters] supporters and earned $[var_earnings_from_supporters]!"
 msgstr "Toplam [var_total_supporters] destekçisi tarafından desteklendiniz ve[var_earnings_from_supporters]$ kazandınız!"
 
-# game/Cosplay_gallery.rpy:1798 #-#-# translate crowdin supporters_income_photoshoot_aa36c7f3:
+# game/Cosplay_gallery.rpy:1799 #-#-# translate crowdin supporters_income_photoshoot_aa36c7f3:
 msgid "You have already withdrawn the money that you have earned this month!"
 msgstr "Bu ay kazandığınız parayı çoktan çektiniz!"
 
-# game/Cosplay_gallery.rpy:1803 #-#-# translate crowdin supporters_income_photoshoot_ed87ddab:
+# game/Cosplay_gallery.rpy:1804 #-#-# translate crowdin supporters_income_photoshoot_ed87ddab:
 msgid "[_RT_] {i}I must wait until the end of the month to withdraw my funds.{/i}"
 msgstr "[_RT_] {i}Paramı çekmek için ay sonuna kadar beklemeliyim.{/i}"
 
-# game/Cosplay_gallery.rpy:1822 #-#-# translate crowdin income_photoshoot_9eef3851:
+# game/Cosplay_gallery.rpy:1823 #-#-# translate crowdin income_photoshoot_9eef3851:
 msgid "You have received [new_likes] new likes and earned $[income]!"
 msgstr "[new_likes] yeni beğeni aldınız ve [income]$ kazandınız!"
 
-# game/Cosplay_gallery.rpy:1827 #-#-# translate crowdin income_photoshoot_e4c275b3:
+# game/Cosplay_gallery.rpy:1828 #-#-# translate crowdin income_photoshoot_e4c275b3:
 msgid "You have already withdrawn the money that you have earned!"
 msgstr "Bu ay kazandığınız parayı çoktan çektiniz!"
 
-# game/Cosplay_gallery.rpy:1832 #-#-# translate crowdin income_photoshoot_35500616:
+# game/Cosplay_gallery.rpy:1833 #-#-# translate crowdin income_photoshoot_35500616:
 msgid "[_RT_] {i}I must wait until the end of the week to withdraw my funds.{/i}"
 msgstr "[_RT_] {i}Paramı çekmek için ay sonuna kadar beklemeliyim.{/i}"
 
-# game/Cosplay_gallery.rpy:1846 #-#-# translate crowdin advertising_label_4491e190:
+# game/Cosplay_gallery.rpy:1847 #-#-# translate crowdin advertising_label_4491e190:
 msgid "[_RT_] {i}For only 5 bucks I'll get more likes. I should remember to do this daily.{/i}"
 msgstr "[_RT_] {i}Yalnızca 5 dolara daha çok beğeni alacağım. Bunu her gün yapmayı unutmamalıyım.{/i}"
 
-# game/Cosplay_gallery.rpy:1849 #-#-# translate crowdin advertising_label_15ea30e2:
+# game/Cosplay_gallery.rpy:1850 #-#-# translate crowdin advertising_label_15ea30e2:
 msgid "[_RT_] {i}I already advertised today.{/i}"
 msgstr "[_RT_] {i}Bugün zaten reklam verdim.{/i}"
 
-# game/Cosplay_gallery.rpy:1864 #-#-# translate crowdin outfits_sell_label_606ee1bf:
+# game/Cosplay_gallery.rpy:1865 #-#-# translate crowdin outfits_sell_label_606ee1bf:
 msgid "[_RT_] {i}Yes... The outfits were sold and now I have $[sold] more in my account.{/i}"
 msgstr "[_RT_] {i}Evet... Kıyafetler satıldı ve şimdi hesabımda[sold] $ daha var.{/i}"
 
-# game/Cosplay_gallery.rpy:1871 #-#-# translate crowdin outfits_sell_label_68310073:
+# game/Cosplay_gallery.rpy:1872 #-#-# translate crowdin outfits_sell_label_68310073:
 msgid "[_RT_] {i}I should sell the cosplay outfits.{/i}"
 msgstr "[_RT_] {i}Kostüm kıyafetlerini satmalıyım.{/i}"
 
-# game/Cosplay_gallery.rpy:1873 #-#-# translate crowdin outfits_sell_label_5cd5db5b:
+# game/Cosplay_gallery.rpy:1874 #-#-# translate crowdin outfits_sell_label_5cd5db5b:
 msgid "[_RT_] {i}There... all outfits have been put up for sale, now I'll just have to wait and see if they'll sell.{/i}"
 msgstr "[_RT_] {i}İşte... tüm kıyafetler satışa çıkarıldı, şimdi sadece bekleyip satılıp satılmayacaklarını görmem gerekecek.{/i}"
 
-# game/Cosplay_gallery.rpy:1879 #-#-# translate crowdin outfits_sell_label_b7c5d749:
+# game/Cosplay_gallery.rpy:1880 #-#-# translate crowdin outfits_sell_label_b7c5d749:
 msgid "[_RT_] {i}I don't have anything to sell.{/i}"
 msgstr "[_RT_] {i}Satacak bir şeyim yok.{/i}"
 
-# game/Cosplay_gallery.rpy:1888 #-#-# translate crowdin outfit_info_488a37ce:
+# game/Cosplay_gallery.rpy:1889 #-#-# translate crowdin outfit_info_488a37ce:
 msgid "[_RT_] {i} The first cosplay outfit that [outfit_nfo_name] wore on our first photoshoot.{/i}"
 msgstr "[_RT_] {i} [outfit_nfo_name] ile ilk fotoğraf çekimimizde giydiği ilk cosplay kıyafeti.{/i}"
 
-# game/Cosplay_gallery.rpy:1889 #-#-# translate crowdin outfit_info_d4afad73:
+# game/Cosplay_gallery.rpy:1890 #-#-# translate crowdin outfit_info_d4afad73:
 msgid "[_RT_] {i}I hope we can sell more of them.{/i}"
 msgstr "[_RT_] {i}Umarım daha fazla satabiliriz. {/i}"
 
