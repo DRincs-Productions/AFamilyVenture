@@ -1,0 +1,362 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: a-family-venture\n"
+"X-Crowdin-Project-ID: 492487\n"
+"X-Crowdin-Language: nl\n"
+"X-Crowdin-File: /main/game/tl/crowdin/screens.po\n"
+"X-Crowdin-File-ID: 7655\n"
+"Project-Id-Version: a-family-venture\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"PO-Revision-Date: 2024-07-23 07:50\n"
+
+# TODO: Translation updated at 2024-07-23 08:27 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:247
+msgid "History"
+msgstr "Geschiedenis"
+
+# game/screens.rpy:248
+msgid "Skip"
+msgstr "Overslaan"
+
+# game/screens.rpy:249
+msgid "Auto"
+msgstr "Automatisch"
+
+# game/screens.rpy:250
+msgid "Save"
+msgstr "Opslaan"
+
+# game/screens.rpy:251
+msgid "Load"
+msgstr "Belasting"
+
+# game/screens.rpy:252
+msgid "Q.Save"
+msgstr "Opslaan"
+
+# game/screens.rpy:253
+msgid "Q.Load"
+msgstr "Q.Load"
+
+# game/screens.rpy:254
+msgid "Prefs"
+msgstr "Voorkeuren"
+
+# game/screens.rpy:299
+msgid "Start"
+msgstr "Beginnen"
+
+# game/screens.rpy:310
+msgid "Gallery"
+msgstr "Galerij"
+
+# game/screens.rpy:312
+msgid "Preferences"
+msgstr "named@@0"
+
+# game/screens.rpy:316
+msgid "End Replay"
+msgstr "Einde herhaling"
+
+# game/screens.rpy:320
+msgid "Main Menu"
+msgstr "Hoofd Menu"
+
+# game/screens.rpy:322
+msgid "About"
+msgstr "Informatie"
+
+# game/screens.rpy:325
+msgid "Credits"
+msgstr "Kredieten"
+
+# game/screens.rpy:330
+msgid "Help"
+msgstr "Hulp"
+
+# game/screens.rpy:333
+msgid "Quit"
+msgstr "Afsluiten"
+
+# game/screens.rpy:487
+msgid "Return"
+msgstr "Retourneren"
+
+# game/screens.rpy:571
+msgid "Version [config.version!t]\n"
+msgstr "Versie [config.version!t]\n"
+
+# game/screens.rpy:577
+msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
+msgstr "Gemaakt met {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
+
+# game/screens.rpy:617
+msgid "Page {}"
+msgstr "Pagina {}"
+
+# game/screens.rpy:617
+msgid "Automatic saves"
+msgstr "Automatisch opslaan"
+
+# game/screens.rpy:617
+msgid "Quick saves"
+msgstr "Snelle saves"
+
+# game/screens.rpy:659
+msgid "{#file_time}%A, %B %d %Y, %H:%M"
+msgstr "{#file_time}%A, %B %d %Y, %H:%M"
+
+# game/screens.rpy:659
+msgid "empty slot"
+msgstr "lege slot"
+
+# game/screens.rpy:685
+msgid "<"
+msgstr "<"
+
+# game/screens.rpy:688
+msgid "{#auto_page}A"
+msgstr "{#auto_page}A"
+
+# game/screens.rpy:691
+msgid "{#quick_page}Q"
+msgstr "{#quick_page}Q"
+
+# game/screens.rpy:697
+msgid ">"
+msgstr ">"
+
+# game/screens.rpy:754
+msgid "Display"
+msgstr "Weergeven"
+
+# game/screens.rpy:755
+msgid "Window"
+msgstr "Venster"
+
+# game/screens.rpy:756
+msgid "Fullscreen"
+msgstr "Volledig scherm"
+
+# game/screens.rpy:760
+msgid "Rollback Side"
+msgstr "Rollback kant"
+
+# game/screens.rpy:761
+msgid "Disable"
+msgstr "Uitschakelen"
+
+# game/screens.rpy:762
+msgid "Left"
+msgstr "Linkerkant"
+
+# game/screens.rpy:763
+msgid "Right"
+msgstr "Rechterkant"
+
+# game/screens.rpy:768
+msgid "Unseen Text"
+msgstr "Unseen Text"
+
+# game/screens.rpy:769
+msgid "After Choices"
+msgstr "Na Keuzes"
+
+# game/screens.rpy:770
+msgid "Transitions"
+msgstr "Overgangen"
+
+# game/screens.rpy:774
+msgid "Navigation settings"
+msgstr "Navigatie instellingen"
+
+# game/screens.rpy:781
+msgid "Language"
+msgstr "Taal"
+
+# game/screens.rpy:838
+msgid "Text Speed"
+msgstr "Snelheid van tekst"
+
+# game/screens.rpy:842
+msgid "Auto-Forward Time"
+msgstr "Tijd automatisch doorsturen"
+
+# game/screens.rpy:845
+msgid "Dialogue Box Opacity"
+msgstr "Dialoog Box Zichtbaarheid"
+
+# game/screens.rpy:851
+msgid "Music Volume"
+msgstr "Muziek Volume"
+
+# game/screens.rpy:858
+msgid "Sound Volume"
+msgstr "Geluid Volume"
+
+# game/screens.rpy:864
+msgid "Test"
+msgstr "Test"
+
+# game/screens.rpy:868
+msgid "Voice Volume"
+msgstr "Stem volume"
+
+# game/screens.rpy:879
+msgid "Mute All"
+msgstr "Alles uitschakelen"
+
+# game/screens.rpy:1007
+msgid "The dialogue history is empty."
+msgstr "De dialooggeschiedenis is leeg."
+
+# game/screens.rpy:1077
+msgid "Keyboard"
+msgstr "Keyboard"
+
+# game/screens.rpy:1078
+msgid "Mouse"
+msgstr "Muis"
+
+# game/screens.rpy:1081
+msgid "Gamepad"
+msgstr "Gamepad"
+
+# game/screens.rpy:1094
+msgid "Enter"
+msgstr "Invoeren"
+
+# game/screens.rpy:1095
+msgid "Advances dialogue and activates the interface."
+msgstr "Zet de dialoog voort en activeert de interface."
+
+# game/screens.rpy:1098
+msgid "Space"
+msgstr "Spatiebalk"
+
+# game/screens.rpy:1099
+msgid "Advances dialogue without selecting choices."
+msgstr "Voortgang dialoog zonder keuzes te selecteren."
+
+# game/screens.rpy:1102
+msgid "Arrow Keys"
+msgstr "Pijl toetsen"
+
+# game/screens.rpy:1103
+msgid "Navigate the interface."
+msgstr "Navigeer de interface."
+
+# game/screens.rpy:1106
+msgid "Escape"
+msgstr "Ontsnap"
+
+# game/screens.rpy:1107
+msgid "Accesses the game menu."
+msgstr "Toegang tot het spelmenu."
+
+# game/screens.rpy:1110
+msgid "Ctrl"
+msgstr "Ctrl"
+
+# game/screens.rpy:1111
+msgid "Skips dialogue while held down."
+msgstr "Overslaan dialoog terwijl het vastzit."
+
+# game/screens.rpy:1114
+msgid "Tab"
+msgstr "Tab"
+
+# game/screens.rpy:1115
+msgid "Toggles dialogue skipping."
+msgstr "Schakelt dialoog overslaan."
+
+# game/screens.rpy:1118
+msgid "Page Up"
+msgstr "Pagina omhoog"
+
+# game/screens.rpy:1119
+msgid "Rolls back to earlier dialogue."
+msgstr "Gaat u terug naar de eerdere dialoog."
+
+# game/screens.rpy:1122
+msgid "Page Down"
+msgstr "Pagina omlaag"
+
+# game/screens.rpy:1123
+msgid "Rolls forward to later dialogue."
+msgstr "Gaat u vooruit naar een latere dialoog."
+
+# game/screens.rpy:1127
+msgid "Hides the user interface."
+msgstr "Verbergt de gebruikersinterface."
+
+# game/screens.rpy:1131
+msgid "Takes a screenshot."
+msgstr "Neemt een schermafbeelding."
+
+# game/screens.rpy:1135
+msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+msgstr "Schakelt assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a} in."
+
+# game/screens.rpy:1141
+msgid "Left Click"
+msgstr "Klik links"
+
+# game/screens.rpy:1145
+msgid "Middle Click"
+msgstr "Middelste klik"
+
+# game/screens.rpy:1149
+msgid "Right Click"
+msgstr "Klik met rechts"
+
+# game/screens.rpy:1153
+msgid "Mouse Wheel Up\n"
+"Click Rollback Side"
+msgstr "Muiswiel omhoog\n"
+"Klik op Rollback Side"
+
+# game/screens.rpy:1157
+msgid "Mouse Wheel Down"
+msgstr "Muiswiel omlaag"
+
+# game/screens.rpy:1164
+msgid "Right Trigger\n"
+"A/Bottom Button"
+msgstr "Rechter Trigger\n"
+"A/Onderste Knop"
+
+# game/screens.rpy:1168
+msgid "Left Trigger\n"
+"Left Shoulder"
+msgstr "Linker Trigger\n"
+"Linker Schouder"
+
+# game/screens.rpy:1172
+msgid "Right Shoulder"
+msgstr "Rechts schouder"
+
+# game/screens.rpy:1177
+msgid "D-Pad, Sticks"
+msgstr "Navigatiepad, Stokjes"
+
+# game/screens.rpy:1181
+msgid "Start, Guide"
+msgstr "Start, Gids"
+
+# game/screens.rpy:1185
+msgid "Y/Top Button"
+msgstr "Y/Top knop"
+
+# game/screens.rpy:1188
+msgid "Calibrate"
+msgstr "Kalibreren"
+
+# game/screens.rpy:1300
+msgid "Skipping"
+msgstr "Overslaan"
+
