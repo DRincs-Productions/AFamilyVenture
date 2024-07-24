@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-07-24 18:32\n"
+"PO-Revision-Date: 2024-07-24 19:43\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -558,7 +558,7 @@ msgstr "[_RT_] {i}Click.... {p}click.... {p}click.... {/i}"
 
 # game/script.rpy:1531 #-#-# translate crowdin computer_71767b4b:
 msgid "[_RT_] {i}I must enter my password to Login!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Tenho de introduzir a minha senha para logar!{/i}"
 
 # game/script.rpy:1532 #-#-# translate crowdin computer_14341bf8:
 msgid "[_RT_] {i}Ha ha its \"B00Bies123.\"{/i}"
@@ -570,11 +570,11 @@ msgstr "[_RT_] {i}Não posso perder tempo agora, os Decados chegam a qualquer mo
 
 # game/script.rpy:1574 #-#-# translate crowdin bed_0ba776cf:
 msgid "[_RT_] {i}I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Eu não posso perder tempo. Eu preciso ir para escola e ver como a Lauren esta se saindo na eleição do Grêmio Estudantil.{/i}"
 
 # game/script.rpy:1839 #-#-# translate crowdin bed_0ba776cf_1:
 msgid "[_RT_] {i}I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Eu não posso perder tempo. Eu preciso ir para escola e ver como a Lauren esta se saindo na eleição do Grêmio Estudantil.{/i}"
 
 # game/script.rpy:1847 #-#-# translate crowdin bed_2b7c40ab:
 msgid "[_RT_] {i}I don't have time for this. I've got to get ready to go visit Dad in prison.{/i}"
@@ -582,11 +582,11 @@ msgstr "[_RT_] {i}Eu não tenho tempo para isso. Tenho que me preparar para visi
 
 # game/script.rpy:1850 #-#-# translate crowdin bed_0ba776cf_2:
 msgid "[_RT_] {i}I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Eu não posso perder tempo. Eu preciso ir para escola e ver como a Lauren esta se saindo na eleição do Grêmio Estudantil.{/i}"
 
 # game/script.rpy:2116 #-#-# translate crowdin bed_5422a297:
 msgid "[_RT_] {i}Uggghh... I can't seem to fall asleep... Maybe something important is supposed to happen.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Uggghh... parece que não consigo adormecer... Talvez alguma coisa importante esteja para acontecer.{/i}"
 
 # game/script.rpy:2119 #-#-# translate crowdin bed_982b29bb:
 msgid "[_RT_] {i}I don't have time to sleep right now. I've got to get ready to go visit Dad in prison.{/i}"
@@ -594,7 +594,7 @@ msgstr "[_RT_] {i}Eu não tenho tempo para dormir agora. Eu tenho que me prepara
 
 # game/script.rpy:2122 #-#-# translate crowdin bed_0ba776cf_3:
 msgid "[_RT_] {i}I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Eu não posso perder tempo. Eu preciso ir para escola e ver como a Lauren esta se saindo na eleição do Grêmio Estudantil.{/i}"
 
 # game/script.rpy:2147 #-#-# translate crowdin sleep_18955b89:
 msgid "[_RT_] {i}Shit, I have a ton of homework Mom gave me because of all the school I've been missing to work. I better get up.{/i}"
