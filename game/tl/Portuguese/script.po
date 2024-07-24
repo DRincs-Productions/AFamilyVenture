@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-07-23 21:38\n"
+"PO-Revision-Date: 2024-07-24 18:32\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -542,11 +542,11 @@ msgstr "[_RT_] {i}Agora é o momento perfeito para usar as fotos que tirei de La
 
 # game/script.rpy:1515 #-#-# translate crowdin computer_8d472543:
 msgid "[_RT_] {i}To bad that this is a monthly income, but still we can get more money and maybe I can use this to corrupt Lauren more.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}É pena que isto seja um rendimento mensal, mas mesmo assim podemos arranjar mais dinheiro e talvez eu possa usá-lo para corromper mais a Lauren.{/i}"
 
 # game/script.rpy:1516 #-#-# translate crowdin computer_45e1eea6:
 msgid "[_RT_] {i}Let's start uploading those pictures now.... {p}and click submit.... {p}and now we just wait to see if anyone likes them so much that they'll become our supporter.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Vamos começar a carregar essas fotos agora… {p}e clicar em submeter… {p}e agora é só esperar para ver se alguém gosta tanto delas que se torne o nosso apoiador.{/i}"
 
 # game/script.rpy:1517 #-#-# translate crowdin computer_39027316:
 msgid "[_RT_] {i}Hmmm.... let me see how the page turned out before I go.{/i}"
