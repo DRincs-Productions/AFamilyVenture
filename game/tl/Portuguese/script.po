@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-07-30 12:54\n"
+"PO-Revision-Date: 2024-07-30 14:30\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -642,7 +642,7 @@ msgstr "[_M_] Mel, venha se sentar. Hoje teremos pizza para jantar."
 
 # game/script.rpy:2176 #-#-# translate crowdin sleep_9e491a79:
 msgid "[_M_] I hope you guys are hungry."
-msgstr ""
+msgstr "[_M_] Espero que estejam com fome."
 
 # game/script.rpy:2180 #-#-# translate crowdin sleep_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
@@ -650,7 +650,7 @@ msgstr "{i}{b}\"A Afeição da Mãe +1\"{/b}{/i}"
 
 # game/script.rpy:2182 #-#-# translate crowdin sleep_aaa3e661:
 msgid "[_M_] Oh, my day was fine. Did you finish the extra homework on Oedipus I gave you___"
-msgstr ""
+msgstr "[_M_] Oh, o meu dia foi ótimo.Terminou o dever de casa extra sobre Édipo que te dei___"
 
 # game/script.rpy:2183 #-#-# translate crowdin sleep_287d118c:
 msgid "[_S_] AAHHAAHHAHHHEMMMMM..."
@@ -670,7 +670,7 @@ msgstr "[_S_] AAHHAAHHAHHHEMMMMM..."
 
 # game/script.rpy:2208 #-#-# translate crowdin sleep_d16b4e81:
 msgid "[_RT_] {i}I hope Lauren was okay on her own, I should just go check on her before I go to bed.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Espero que a Lauren tenha ficado bem sozinha, é melhor ir vê-la antes de ir para a cama.{/i}"
 
 # game/script.rpy:2501 #-#-# translate crowdin sleep_ac0c56b3:
 msgid "Are you sure you want to sleep until tomorrow?"
@@ -2674,7 +2674,7 @@ msgstr "[_M_] Ei mel, venha se sentar. Estamos comendo pizza para jantar."
 
 # game/script.rpy:4994 #-#-# translate crowdin sidneycomeshome_9e491a79:
 msgid "[_M_] I hope you guys are hungry."
-msgstr ""
+msgstr "[_M_] Espero que estejam com fome."
 
 # game/script.rpy:4998 #-#-# translate crowdin sidneycomeshome_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
