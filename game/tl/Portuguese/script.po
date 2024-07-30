@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-07-24 19:43\n"
+"PO-Revision-Date: 2024-07-30 04:15\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -598,7 +598,7 @@ msgstr "[_RT_] {i}Eu não posso perder tempo. Eu preciso ir para escola e ver co
 
 # game/script.rpy:2147 #-#-# translate crowdin sleep_18955b89:
 msgid "[_RT_] {i}Shit, I have a ton of homework Mom gave me because of all the school I've been missing to work. I better get up.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Merda, tenho uma tonelada de lição de casa que a mãe me deu por causa de todas as aulas a que tenho faltado para trabalhar. É melhor eu levantar"
 
 # game/script.rpy:2150 #-#-# translate crowdin sleep_7bb40fd2:
 msgid "[_RT_] {i}Oh man, I'm so tired, I am not looking forward to this.{/i}"
@@ -614,7 +614,7 @@ msgstr "[_RT_] {i}Ok, então a tarefa é escrever um artigo sobre como o jogador
 
 # game/script.rpy:2155 #-#-# translate crowdin sleep_ec9d2129:
 msgid "[_RT_] {i}What the hell is an Oedipal complex? Guess I better get reading.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Que porra é complexo de Édipo? Acho que é melhor começar a ler."
 
 # game/script.rpy:2156 #-#-# translate crowdin sleep_99a9cce0:
 msgid "[_RT_] {i}Ok, here's the cliffnotes version.... so the premise of the Greek play Oedipus Rex is that .... {/i}"
@@ -630,7 +630,7 @@ msgstr "[_M_] [ryan]!.... Ei, [ryan].... você está em você no seu quarto?"
 
 # game/script.rpy:2165 #-#-# translate crowdin sleep_143af89a:
 msgid "[_M_] Honey, come down and eat with us."
-msgstr ""
+msgstr "[Querido, desce aqui e venha comer com a gente."
 
 # game/script.rpy:2168 #-#-# translate crowdin sleep_0cd4adc5:
 msgid "[_R_] Ok Mom, I'll be right there."
