@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-07-30 04:15\n"
+"PO-Revision-Date: 2024-07-30 12:54\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -638,7 +638,7 @@ msgstr "[_R_] Ok Mom, eu estarei bem aí."
 
 # game/script.rpy:2171 #-#-# translate crowdin sleep_4511b51d:
 msgid "[_M_] Honey, come sit down. We're having pizza for dinner."
-msgstr ""
+msgstr "[_M_] Mel, venha se sentar. Hoje teremos pizza para jantar."
 
 # game/script.rpy:2176 #-#-# translate crowdin sleep_9e491a79:
 msgid "[_M_] I hope you guys are hungry."
