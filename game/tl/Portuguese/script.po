@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-07-30 14:30\n"
+"PO-Revision-Date: 2024-07-30 16:25\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -714,7 +714,7 @@ msgstr "{i}{b}\"Mamãe Lida +1\"{/b}{/i}"
 
 # game/script.rpy:2671 #-#-# translate crowdin sleep_c893dd6c:
 msgid "[_RT_] {i}Looks like it's up to Mom to use her \"ass\"ets to pay the debt this week.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Parece que cabe à mãe usar os seus atri\"bundas\" para pagar a dívida esta semana."
 
 # game/script.rpy:2672 #-#-# translate crowdin sleep_24b07823:
 msgid "{i}{b}\"Mom's Affection -5\"{/b}{/i}"
