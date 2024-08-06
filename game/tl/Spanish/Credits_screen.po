@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-08-06 11:30\n"
+"PO-Revision-Date: 2024-08-06 13:18\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # §translate crowdin strings: #|#|# # game/Credits_screen.rpy:57
 msgid "                               Credits"
@@ -96,31 +96,31 @@ msgstr ""
 
 # game/Credits_screen.rpy:182
 msgid "DD0"
-msgstr ""
+msgstr "DD0"
 
 # game/Credits_screen.rpy:183
 msgid "delta6198"
-msgstr ""
+msgstr "delta6198"
 
 # game/Credits_screen.rpy:184
 msgid "Drew G"
-msgstr ""
+msgstr "Drew G"
 
 # game/Credits_screen.rpy:185
 msgid "Eddie"
-msgstr ""
+msgstr "Eduardo"
 
 # game/Credits_screen.rpy:186
 msgid "fanfan"
-msgstr ""
+msgstr "fanfan"
 
 # game/Credits_screen.rpy:187
 msgid "fatfrogs"
-msgstr ""
+msgstr "ranas gordas"
 
 # game/Credits_screen.rpy:188
 msgid "Frayed80"
-msgstr ""
+msgstr "Deshilachado80"
 
 # game/Credits_screen.rpy:189
 msgid "Grub"
@@ -189,7 +189,8 @@ msgstr ""
 # game/Credits_screen.rpy:206
 msgid "\n"
 "{b}{i}$20 tier (My Family {i}SubscribeStar{/i}) (My BFF's {i}Patreon{/i}):{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Nivel 20 $ (Mi familia {i}SubscribeStar{/i}) (Mis mejores amigas {i}Patreon{/i}):{/i}{/b} \n"
 
 # game/Credits_screen.rpy:208
 msgid "."
