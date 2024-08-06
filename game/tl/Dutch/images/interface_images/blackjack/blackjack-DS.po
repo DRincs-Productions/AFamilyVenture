@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: a-family-venture\n"
+"X-Crowdin-Project-ID: 492487\n"
+"X-Crowdin-Language: nl\n"
+"X-Crowdin-File: /main/game/tl/crowdin/images/interface_images/blackjack/blackjack-DS.po\n"
+"X-Crowdin-File-ID: 7679\n"
+"Project-Id-Version: a-family-venture\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"PO-Revision-Date: 2024-07-23 07:51\n"
+
+# TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/images/interface_images/blackjack/blackjack-DS.rpy:511 #-#-# translate crowdin startGameBJ_ddfcd22e:
+msgid "[_BJ_dealer_] I'll start dealing the cards!{w=2.0}{nw}"
+msgstr "[_BJ_dealer_] Ik zal beginnen de kaarten uit te geven!{w=2.0}{nw}"
+
+# game/images/interface_images/blackjack/blackjack-DS.rpy:581 #-#-# translate crowdin handCheckLabel_8e5fda21:
+msgid "[_BJ_dealer_] Dealer Bust, you won $[betSum]!{w=2.0}{nw}"
+msgstr "[_BJ_dealer_] Dealer Bust, je won $[betSum]!{w=2.0}{nw}"
+
+# game/images/interface_images/blackjack/blackjack-DS.rpy:593 #-#-# translate crowdin handCheckLabel_1a74bd53:
+msgid "[_BJ_dealer_] You bust! You lost $[betSum]!{w=2.0}{nw}"
+msgstr "[_BJ_dealer_] Je hebt bust! Je hebt $[betSum]verloren! {w=2.0}{nw}"
+
+# game/images/interface_images/blackjack/blackjack-DS.rpy:605 #-#-# translate crowdin handCheckLabel_d1330db7:
+msgid "[_BJ_dealer_] Blackjack! The dealer also has blackjack, but you have insurance! You win $[betSum]!{w=2.0}{nw}"
+msgstr "[_BJ_dealer_] Blackjack! De dealer heeft ook een blackjack, maar u heeft verzekering! U wint $[betSum]!{w=2{,}0}{nw}"
+
+# game/images/interface_images/blackjack/blackjack-DS.rpy:608 #-#-# translate crowdin handCheckLabel_f74531ea:
+msgid "[_BJ_dealer_] Blackjack! The dealer also has blackjack, so it's a push! You get your $[betSum] back!{w=2.0}{nw}"
+msgstr "[_BJ_dealer_] Blackjack! De dealer heeft ook een blackjack, dus het is een duwtje! U krijgt uw $[betSum] terug!{w=2.0}{nw}"
+
+# game/images/interface_images/blackjack/blackjack-DS.rpy:620 #-#-# translate crowdin handCheckLabel_3b883a25:
+msgid "[_BJ_dealer_] Blackjack! You won the game and $[betSum]!{w=2.0}{nw}"
+msgstr "[_BJ_dealer_] Blackjack! Je hebt het spel gewonnen en $[betSum]!{w=2{,}0}{nw}"
+
+# game/images/interface_images/blackjack/blackjack-DS.rpy:631 #-#-# translate crowdin handCheckLabel_4b09cedb:
+msgid "[_BJ_dealer_] Dealer has blackjack, but you have insurance! You make your bets back, $[betSum]!{w=2.0}{nw}"
+msgstr "[_BJ_dealer_] Dealer heeft blackjack, maar je hebt verzekering! Je maakt je gokken terug, $[betSum]!{w=2.0}{nw}"
+
+# game/images/interface_images/blackjack/blackjack-DS.rpy:634 #-#-# translate crowdin handCheckLabel_1d95a20c:
+msgid "[_BJ_dealer_] Dealer has blackjack! You lose the game and $[betSum]!{w=2.0}{nw}"
+msgstr "[_BJ_dealer_] Dealer heeft blackjack! Je verliest het spel en $[betSum]!{w=2.0}{nw}"
+
+# game/images/interface_images/blackjack/blackjack-DS.rpy:645 #-#-# translate crowdin handCheckLabel_b384deae:
+msgid "[_BJ_dealer_] You won the game and $[betSum]!{w=2.0}{nw}"
+msgstr "[_BJ_dealer_] Je hebt het spel gewonnen en $[betSum]!{w=2.0}{nw}"
+
+# game/images/interface_images/blackjack/blackjack-DS.rpy:657 #-#-# translate crowdin handCheckLabel_e4d35a85:
+msgid "[_BJ_dealer_] You lost the game and $[betSum]!{w=2.0}{nw}"
+msgstr "[_BJ_dealer_] Je hebt het spel verloren en $[betSum]!{w=2.0}{nw}"
+
+# game/images/interface_images/blackjack/blackjack-DS.rpy:669 #-#-# translate crowdin handCheckLabel_901a9a2d:
+msgid "[_BJ_dealer_] The dealer also has [computerScore], so it's a push! You get your $[betSum] back minus $[betIns] for insurance.{w=2.0}{nw}"
+msgstr "[_BJ_dealer_] De dealer heeft ook [computerScore], dus het is een duw! U krijgt uw $[betSum] terug min $[betIns] voor verzekering.{w=2.0}{nw}"
+
+# game/images/interface_images/blackjack/blackjack-DS.rpy:671 #-#-# translate crowdin handCheckLabel_3615550f:
+msgid "[_BJ_dealer_] The dealer also has [computerScore], so it's a push! You get your $[betSum] back!{w=2.0}{nw}"
+msgstr "[_BJ_dealer_] De dealer heeft ook [computerScore], dus het is een push! U krijgt uw $[betSum] terug!{w=2.0}{nw}"
+
+# game/images/interface_images/blackjack/blackjack-DS.rpy:689 #-#-# translate crowdin noMoney_9706b720:
+msgid "[_BJ_dealer_] Sorry! You don't have enough money!{w=2.0}{nw}"
+msgstr "[_BJ_dealer_] Sorry! Je hebt niet genoeg geld! {w=2.0}{nw}"
+
+# §translate crowdin strings: #|#|# # game/images/interface_images/blackjack/blackjack-DS.rpy:257
+msgid "Dealer"
+msgstr "Handelaar"
+
+# game/images/interface_images/blackjack/blackjack-DS.rpy:375
+msgid "Place your bets!"
+msgstr "Doe je gokken!"
+
+# game/images/interface_images/blackjack/blackjack-DS.rpy:382
+msgid "Do you want to bet $100 and start the game?"
+msgstr "Wil je op $100 wedden en het spel starten?"
+
+# game/images/interface_images/blackjack/blackjack-DS.rpy:389
+msgid "Do you want to bet $500 and start the game?"
+msgstr "Wil je op $500 wedden en het spel starten?"
+
+# game/images/interface_images/blackjack/blackjack-DS.rpy:396
+msgid "Do you want to bet $1000 and start the game?"
+msgstr "Wil je op $1000 wedden en het spel starten?"
+
+# game/images/interface_images/blackjack/blackjack-DS.rpy:404
+msgid "Do you want to leave the BlackJack game?"
+msgstr "Wil je het BlackJack spel verlaten?"
+
+# game/images/interface_images/blackjack/blackjack-DS.rpy:412
+msgid "Games won: [persistent.playerWin] / lost: [persistent.computerWin]"
+msgstr "Spellen gewonnen: [persistent.playerWin] / verloren: [persistent.computerWin]"
+
+# game/images/interface_images/blackjack/blackjack-DS.rpy:478
+msgid "Player cards: [playerScore]"
+msgstr "Speler kaarten: [playerScore]"
+
+# game/images/interface_images/blackjack/blackjack-DS.rpy:681
+msgid "Do you want to play again?"
+msgstr "Wil je opnieuw spelen?"
+

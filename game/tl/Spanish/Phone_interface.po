@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: a-family-venture\n"
+"X-Crowdin-Project-ID: 492487\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /main/game/tl/crowdin/Phone_interface.po\n"
+"X-Crowdin-File-ID: 7625\n"
+"Project-Id-Version: a-family-venture\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2024-08-06 13:18\n"
+
+# TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/Phone_interface.rpy:251 #-#-# translate crowdin mafia_warning_f561667c:
+msgid "[_RT_] {i}I can't waste time right now, the DeCapos will be here any minute.{/i}"
+msgstr ""
+
+# game/Phone_interface.rpy:256 #-#-# translate crowdin night_warning_48ae09e0:
+msgid "[_RT_] {i}It's night, I should go to sleep.{/i}"
+msgstr ""
+
+# game/Phone_interface.rpy:261 #-#-# translate crowdin school_warning_1afbbf5b:
+msgid "[_RT_] {i}Right now I'm at School, I must first go home to advance time.{/i}"
+msgstr ""
+
+# game/Phone_interface.rpy:266 #-#-# translate crowdin campaign_warning_88e99dc5:
+msgid "[_RT_] {i}I can't waist time. I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
+msgstr ""
+
+# game/Phone_interface.rpy:271 #-#-# translate crowdin prison_warning_5ae78a21:
+msgid "[_RT_] {i}I can't waist time. I need to get ready to visit Dad in prison.{/i}"
+msgstr ""
+
+# game/Phone_interface.rpy:494 #-#-# translate crowdin memes_time_skip_e011db0e:
+msgid "[_RT_] {i}School has ended, I must return home.{/i}"
+msgstr "[_RT_] {i}La escuela ha terminado, debo volver a casa. {/i}"
+
+# game/Phone_interface.rpy:502 #-#-# translate crowdin memes_time_skip_e011db0e_1:
+msgid "[_RT_] {i}School has ended, I must return home.{/i}"
+msgstr "[_RT_] {i}La escuela ha terminado, debo volver a casa. {/i}"
+
+# game/Phone_interface.rpy:508 #-#-# translate crowdin memes_time_skip_e011db0e_2:
+msgid "[_RT_] {i}School has ended, I must return home.{/i}"
+msgstr "[_RT_] {i}La escuela ha terminado, debo volver a casa. {/i}"
+
+# game/Phone_interface.rpy:514 #-#-# translate crowdin memes_time_skip_e011db0e_3:
+msgid "[_RT_] {i}School has ended, I must return home.{/i}"
+msgstr "[_RT_] {i}La escuela ha terminado, debo volver a casa. {/i}"
+
+# game/Phone_interface.rpy:527 #-#-# translate crowdin memes_time_skip_e011db0e_4:
+msgid "[_RT_] {i}School has ended, I must return home.{/i}"
+msgstr "[_RT_] {i}La escuela ha terminado, debo volver a casa. {/i}"
+
