@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-07-23 07:52\n"
+"PO-Revision-Date: 2024-08-19 07:32\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.09.rpy:564 #-#-# translate crowdin myroom_post_cami_fight_8a5367c3:
 msgid "[_R_] I'm not ready to sleep yet... I should go talk to Mom and Lauren before I come back to bed."
-msgstr "[_R_] Je ne suis pas encore prêt à dormir... Je devrais aller parler à Maman et Lauren avant de revenir au lit."
+msgstr "[_R_] Je ne suis pas prêt à dormir... Je devrais aller parler à Maman et Lauren avant de retourner au lit."
 
 # game/UpdateScript0.09.rpy:572 #-#-# translate crowdin myroom_post_cami_fight_93409041:
 msgid "[_R_] I'm not ready to sleep yet... I should go talk to Mom before I come back to bed."
@@ -26,7 +26,7 @@ msgstr "[_R_] Je ne suis pas encore prêt à dormir... Je devrais aller parler �
 
 # game/UpdateScript0.09.rpy:588 #-#-# translate crowdin myroom_post_cami_fight_2c140ae1:
 msgid "[_RT_] {i}Fuck... I haven't resolved anything!... Maybe I should just get some sleep and attack the problem with a rested brain tomorrow.{/i}"
-msgstr "[_RT_] {i}Fuck... Je n'ai rien résolu !... Peut-être que je devrais juste me endormir et attaquer le problème avec un cerveau reposé demain.{/i}"
+msgstr "[_RT_] {i}Putain... Je n'ai rien résolu !... Je devrais peut-être dormir un peu et m'attaquer au problème, demain, à tête reposée.{/i}"
 
 # game/UpdateScript0.09.rpy:589 #-#-# translate crowdin myroom_post_cami_fight_72e7dbfe:
 msgid "[_RT_] {i}It has been a long night... It's going to feel good to just cuddle up to Sidney and sleep like a log.{/i}"
