@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-07-23 08:11\n"
+"PO-Revision-Date: 2024-09-01 08:05\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.08_1.rpy:2250 #-#-# translate crowdin mom_ramp_up_c71fc1d6:
 msgid "[_RT_] {i}Oh wow!... I can't believe I've had sex with both of my sisters!{/i}"
@@ -1150,7 +1150,8 @@ msgstr ""
 
 # game/UpdateScript0.08_1.rpy:2904 #-#-# translate crowdin jacky_morning_hj_92a4a7bf:
 msgid "[_MT_] {i}Just remembering it... So much cum...{/i}"
-msgstr ""
+msgstr "Identifier (Key): [_MT_] {i}Çok fazla Döl hatırlıyorum...{/i}\n"
+"Context: # game/Gallery_labels_AFV-0.06_v0.2.rpy:5005 #-#-# translate crowdin label_gal_jacky_morning_hj_92a4a7bf:"
 
 # game/UpdateScript0.08_1.rpy:2905 #-#-# translate crowdin jacky_morning_hj_08df4621:
 msgid "{b}{i}\"Mom's Libido +1\"{/i}{/b}"
@@ -1166,7 +1167,7 @@ msgstr ""
 
 # game/UpdateScript0.08_1.rpy:2914 #-#-# translate crowdin jacky_morning_hj_dd01715a:
 msgid "[_M_] Stop shouting, she’s in the shower."
-msgstr ""
+msgstr "Bağırmayı kes, duşta."
 
 # game/UpdateScript0.08_1.rpy:2915 #-#-# translate crowdin jacky_morning_hj_5bb5502e:
 msgid "[_L_] Arrg... I can't find them anywhere!"
@@ -1182,7 +1183,7 @@ msgstr ""
 
 # game/UpdateScript0.08_1.rpy:2918 #-#-# translate crowdin jacky_morning_hj_1a8b11ee:
 msgid "[_R_] Mmm!"
-msgstr ""
+msgstr "Mmm!"
 
 # game/UpdateScript0.08_1.rpy:2924 #-#-# translate crowdin jacky_morning_hj_551d6346:
 msgid "[_M_] Oh, no!"
@@ -1214,15 +1215,17 @@ msgstr ""
 
 # game/UpdateScript0.08_1.rpy:2941 #-#-# translate crowdin jacky_morning_hj_696aade3:
 msgid "[_L_] Oh, thank God! I thought I'd lost them."
-msgstr ""
+msgstr "Identifier (Key): [_L_] Oh, Tanrı'ya şükür! Onları kaybettiğimi sanmıştım.\n"
+"Context: # game/Gallery_labels_AFV-0.06_v0.2.rpy:5041 #-#-# translate crowdin label_gal_jacky_morning_hj_696aade3:"
 
 # game/UpdateScript0.08_1.rpy:2942 #-#-# translate crowdin jacky_morning_hj_d8b8d53e:
 msgid "[_M_] Just!... Just wait a few minutes and I'll bring them to you!"
-msgstr ""
+msgstr "dentifier (Key): [_M_] Just!... Just wait a few minutes and I'll bring them to you!\n"
+"Context: # game/Gallery_labels_AFV-0.06_v0.2.rpy:5042 #-#-# translate crowdin label_gal_jacky_morning_hj_d8b8d53e:"
 
 # game/UpdateScript0.08_1.rpy:2943 #-#-# translate crowdin jacky_morning_hj_77d51b95:
 msgid "[_L_] It's fine, I'll come get them. I'm just glad you have them."
-msgstr ""
+msgstr "."
 
 # game/UpdateScript0.08_1.rpy:2946 #-#-# translate crowdin jacky_morning_hj_2e3de9c8:
 msgid "[_MT_] {i}No, no, no...{/i}"
