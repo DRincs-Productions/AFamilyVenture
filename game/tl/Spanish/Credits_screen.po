@@ -10,77 +10,83 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-08-06 13:18\n"
+"PO-Revision-Date: 2024-09-22 21:21\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # §translate crowdin strings: #|#|# # game/Credits_screen.rpy:57
 msgid "                               Credits"
-msgstr ""
+msgstr "                               Créditos"
 
 # game/Credits_screen.rpy:62
 msgid " We would like to thank all the game developers that have accepted to let us use some of their creations in our game, also we'd like to thank our subscribestar/patreon supporters that make this game posible."
-msgstr ""
+msgstr " Nos gustaría dar las gracias a todos los desarrolladores de juegos que han aceptado que utilicemos algunas de sus creaciones en nuestro juego, así como a nuestros seguidores de subscribestar/patreon que hacen posible este juego."
 
 # game/Credits_screen.rpy:69
 msgid "Game developers"
-msgstr ""
+msgstr "Desarrolladores de juegos"
 
 # game/Credits_screen.rpy:147
 msgid "Subscribers/Patrons"
-msgstr ""
+msgstr "Suscriptores/Patrones"
 
 # game/Credits_screen.rpy:157
 msgid "\n"
 "{b}{i}Game Designer, Master Coder, Patch Creator, Gallery Guru:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Diseñador de Juegos, Maestro Coder, Creador de Parches, Galería Guru:{/i}{/b} \n"
 
 # game/Credits_screen.rpy:159
 msgid "{a=https://www.patreon.com/DS_sama}{image=icon_patreon} D.S.-Sama{/a}"
-msgstr ""
+msgstr "{a=https://www.patreon.com/DS_sama}{image=icon_patreon} D.S.-Sama{/a}"
 
 # game/Credits_screen.rpy:161
 msgid "\n"
 "{b}{i}Game Coding, Android Specialist:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Codificación de juegos, especialista en Android:{/i}{/b} \n"
 
 # game/Credits_screen.rpy:163
 msgid "Cybeon"
-msgstr ""
+msgstr "Cybeon"
 
 # game/Credits_screen.rpy:165
 msgid "\n"
 "{b}{i}Game Script Writer, Image Creator, Face Card Designer:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Guionista de juegos, creador de imágenes, diseñador de cartas \n"
 
 # game/Credits_screen.rpy:167
 msgid "Strenif"
-msgstr ""
+msgstr "Strenif"
 
 # game/Credits_screen.rpy:169
 msgid "\n"
 "{b}{i}Game Writer, Coder, Images, Animations:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Escritor de juegos, codificador, imágenes, animaciones:{/i}{/b} \n"
 
 # game/Credits_screen.rpy:171
 msgid "Will Tylor"
-msgstr ""
+msgstr "Will Tylor"
 
 # game/Credits_screen.rpy:173
 msgid "\n"
 "{i}I avoided using supporters full names where possible, and used Discord handles instead wherever I had access to those.{/i}\n"
-msgstr ""
+msgstr "\n"
+"{i}En la medida de lo posible, he evitado utilizar los nombres completos de los seguidores y, en su lugar, he utilizado los alias de Discord siempre que he tenido acceso a ellos.{/i}\n"
 
 # game/Credits_screen.rpy:174
 msgid "{i}Please contact me if you believe your name isn't here and it should be, or would like to have it listed differently.{/i}"
-msgstr ""
+msgstr "{i}Póngase en contacto conmigo si cree que su nombre no está aquí y debería estarlo, o si le gustaría que figurara de otra manera"
 
 # game/Credits_screen.rpy:176
 msgid "\n"
 "{b}{i}$35 tier (My Family with Benefits {i}SubscribeStar{/i}) (My Family {i}Patreon{/i}):{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Nivel 35 $ (Mi familia {i}SubscribeStar{/i}) (Mis mejores amigas {i}Patreon{/i}):{/i}{/b} \n"
 
 # game/Credits_screen.rpy:178
 msgid "Anthony"
-msgstr ""
+msgstr "Marco Antonio"
 
 # game/Credits_screen.rpy:179
 msgid "Charley"
@@ -88,7 +94,7 @@ msgstr "Charli"
 
 # game/Credits_screen.rpy:180
 msgid "Chris H****"
-msgstr ""
+msgstr "Chris H* ***"
 
 # game/Credits_screen.rpy:181
 msgid "Chranth"
