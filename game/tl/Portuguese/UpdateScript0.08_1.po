@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-09-16 22:27\n"
+"PO-Revision-Date: 2024-09-28 20:47\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.08_1.rpy:2250 #-#-# translate crowdin mom_ramp_up_c71fc1d6:
 msgid "[_RT_] {i}Oh wow!... I can't believe I've had sex with both of my sisters!{/i}"
@@ -1026,7 +1026,7 @@ msgstr "[_S_] {b}Que desgraça, Lauren!?{/b}"
 
 # game/UpdateScript0.08_1.rpy:2846 #-#-# translate crowdin jacky_morning_hj_6d7ac1a5:
 msgid "[_L_] I needed it! I have to look good for my InstaSlam pictures."
-msgstr "[L] Eu precisava disso! Tenho que estar bem para as minhas fotos no InstaSlam."
+msgstr "[_L_] Eu precisava disso! Tenho que estar bem para as minhas fotos no InstaSlam."
 
 # game/UpdateScript0.08_1.rpy:2849 #-#-# translate crowdin jacky_morning_hj_2ec78f6c:
 msgid "[_R_] Mmmm...!"
@@ -1034,7 +1034,7 @@ msgstr "[_R_] Mmmm...!"
 
 # game/UpdateScript0.08_1.rpy:2850 #-#-# translate crowdin jacky_morning_hj_77c14a38:
 msgid "[_M_] Keep it down out there. [ryan]'s trying to sleep."
-msgstr "[M] Fiquem quietos aí fora. [ryan] está tentando dormir."
+msgstr "[_M_]  Fiquem quietos aí fora. [ryan] está tentando dormir."
 
 # game/UpdateScript0.08_1.rpy:2851 #-#-# translate crowdin jacky_morning_hj_5c220758:
 msgid "[_L_] Why does he get to sleep in? You made me get up early even though it's Sunday."
@@ -1046,7 +1046,7 @@ msgstr "[_M_] Porque seu irmão tem trabalhado duro para pagar ao Sr. Decapo nas
 
 # game/UpdateScript0.08_1.rpy:2853 #-#-# translate crowdin jacky_morning_hj_3dc3cd73:
 msgid "[_M_] Now, keep it down you two! [ryan] deserves some peace and quiet."
-msgstr "[M] Agora, façam menos barulho, vocês dois! [ryan] merece um pouco de paz e tranquilidade."
+msgstr "[_M_]  Agora, façam menos barulho, vocês dois! [ryan] merece um pouco de paz e tranquilidade."
 
 # game/UpdateScript0.08_1.rpy:2854 #-#-# translate crowdin jacky_morning_hj_6529f483:
 msgid "[_L_] Whatever! I'll be in my room."
@@ -1062,7 +1062,7 @@ msgstr "[_M_] Shhh."
 
 # game/UpdateScript0.08_1.rpy:2859 #-#-# translate crowdin jacky_morning_hj_b2c344e3:
 msgid "[_M_] Go back to sleep, Sweety."
-msgstr "[M] Volte a dormir, querido."
+msgstr "[_M_]  Volte a dormir, querido."
 
 # game/UpdateScript0.08_1.rpy:2860 #-#-# translate crowdin jacky_morning_hj_07fac577:
 msgid "[_R_] Mmmhmm..."
@@ -1102,11 +1102,11 @@ msgstr "[_R_] Mmhehehe. Marco... ZzzZzz..."
 
 # game/UpdateScript0.08_1.rpy:2871 #-#-# translate crowdin jacky_morning_hj_75f0666d:
 msgid "[_MT_] {i}How am I ever going to get him past this Oedipal phase of his. I thought it was just morning wood when I walked in, but he must be dreaming about that game of \"Marco Polo\" we played at the pool.{/i}"
-msgstr "[Mt] {i}Como vou conseguir fazer com que ele supere essa fase édipa dele? Achei que era apenas ereção matinal quando entrei, mas ele deve estar sonhando com aquele jogo de 'Marco Polo' que jogamos na piscina.{/i}"
+msgstr "[_MT_] {i}Como vou conseguir fazer com que ele supere essa fase édipa dele? Achei que era apenas ereção matinal quando entrei, mas ele deve estar sonhando com aquele jogo de 'Marco Polo' que jogamos na piscina.{/i}"
 
 # game/UpdateScript0.08_1.rpy:2874 #-#-# translate crowdin jacky_morning_hj_0c95caf0:
 msgid "[_MT_] {i}He's so big!... Morning wood? Morning oak, is more like it!{/i}"
-msgstr "[Mt] {i}Ele é tão grande!... Ereção matinal? Mais como um carvalho matinal!{/i}"
+msgstr "[_MT_] {i}Ele é tão grande!... Ereção matinal? Mais como um carvalho matinal!{/i}"
 
 # game/UpdateScript0.08_1.rpy:2875 #-#-# translate crowdin jacky_morning_hj_ee6664db:
 msgid "[_MT_] {i}His sisters would tease him mercilessly if they walked in on him like this. I'll just tuck it away under his boxers so they won't embarrass him over it.{/i}"
