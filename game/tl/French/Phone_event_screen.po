@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-07-23 07:46\n"
+"PO-Revision-Date: 2024-10-01 09:29\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/Phone_event_screen.rpy:1207 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -882,7 +882,7 @@ msgstr "[_RT_] {i}Je dois juste continuer à prendre des photos des filles le di
 
 # game/Phone_event_screen.rpy:1985 #-#-# translate crowdin event_info_102_33e7816d:
 msgid "[_RT_] {i}I need to achieve the impossible on my next date with Mom.{/i}"
-msgstr "[_RT_] {i}J'ai besoin de réaliser l'impossible à ma prochaine rencontre avec Maman.{/i}"
+msgstr "[_RT_] {i}J'ai besoin de réaliser l'impossible lors de mon prochain rendez-vous avec Maman.{/i}"
 
 # game/Phone_event_screen.rpy:1988 #-#-# translate crowdin event_info_102_d7a69bea:
 msgid "[_RT_] {i}Things are weird with Mom, I need to keep visiting her wherever I can find her until I figure out why.{/i}"
