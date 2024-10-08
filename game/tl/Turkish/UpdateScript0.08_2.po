@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-07-23 08:11\n"
+"PO-Revision-Date: 2024-10-08 15:50\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.08_2.rpy:9 #-#-# translate crowdin mom_bumps_sidney_bc054bd6:
 msgid "[_G_] Well, if it isn't the lovely Miss [mom_name]."
@@ -606,7 +606,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:339 #-#-# translate crowdin mom_bumps_sidney_continued_3e7e33a7:
 msgid "[_M_] For God's sake... How long have you been working here?"
-msgstr ""
+msgstr "[Tanrı aşkına... Ne zamandır burada çalışıyorsun?"
 
 # game/UpdateScript0.08_2.rpy:340 #-#-# translate crowdin mom_bumps_sidney_continued_f94451b0:
 msgid "[_S_] {i}(meekly){/i} I don't know... A little while now."
@@ -4506,7 +4506,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:3194 #-#-# translate crowdin last_time_on_afv_3e7e33a7:
 msgid "[_M_] For God's sake... How long have you been working here?"
-msgstr ""
+msgstr "[Tanrı aşkına... Ne zamandır burada çalışıyorsun?"
 
 # game/UpdateScript0.08_2.rpy:3195 #-#-# translate crowdin last_time_on_afv_f94451b0:
 msgid "[_S_] {i}(meekly){/i} I don't know... A little while now."
