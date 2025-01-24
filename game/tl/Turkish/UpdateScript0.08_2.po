@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-10-08 15:50\n"
+"PO-Revision-Date: 2025-01-24 11:28\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.08_2.rpy:9 #-#-# translate crowdin mom_bumps_sidney_bc054bd6:
 msgid "[_G_] Well, if it isn't the lovely Miss [mom_name]."
@@ -1530,7 +1530,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:767 #-#-# translate crowdin vip_access_1c24cc4b:
 msgid "[_CD_] I'm not allowed to kick him out for a \"King\"."
-msgstr ""
+msgstr "."
 
 # game/UpdateScript0.08_2.rpy:768 #-#-# translate crowdin vip_access_05c4a636:
 msgid "[_CD_] I won't be needed in there for a little while though, would you be interested in a lap dance before I have to go?"
