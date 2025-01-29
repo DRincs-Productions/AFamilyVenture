@@ -10,41 +10,45 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-07-23 09:41\n"
+"PO-Revision-Date: 2025-01-29 17:20\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # §translate crowdin strings: #|#|# # game/Game_screens.rpy:77
 msgid " My\n"
 "Room"
-msgstr ""
+msgstr " Mi\n"
+"Habitación"
 
 # game/Game_screens.rpy:115
 msgid "Bath"
-msgstr ""
+msgstr "Baño"
 
 # game/Game_screens.rpy:191
 msgid "Yard"
-msgstr ""
+msgstr "Patio"
 
 # game/Game_screens.rpy:200
 msgid "City"
-msgstr ""
+msgstr "Ciudad"
 
 # game/Game_screens.rpy:220
 msgid "Hallway"
-msgstr ""
+msgstr "Vestíbulo"
 
 # game/Game_screens.rpy:229
 msgid "Class"
-msgstr ""
+msgstr "Clase"
 
 # game/Game_screens.rpy:247
 msgid "{size=29} {/size}Girls\n"
 "Locker\n"
 "{size=25} {/size}Room"
-msgstr ""
+msgstr "{tamaño=29} {/size}Chicas\n"
+"Taquilla\n"
+"{size=25} {tamaño}Sala"
 
 # game/Game_screens.rpy:303
 msgid "Campaign\n"
 "   HQ"
-msgstr ""
+msgstr "Campaña\n"
+"   Cuartel General"
 
