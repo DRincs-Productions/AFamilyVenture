@@ -10,23 +10,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-07-23 09:41\n"
+"PO-Revision-Date: 2025-01-29 19:42\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # §translate crowdin strings: #|#|# # game/Phone_stats_screen.rpy:70
 msgid "Girls stats"
-msgstr ""
+msgstr "Estadísticas de las chicas"
 
 # game/Phone_stats_screen.rpy:73
 msgid "{color=#E60000}---------------------------------------{/color}"
-msgstr ""
+msgstr "{color=#E60000}---------------------------------------{/color}"
 
 # game/Phone_stats_screen.rpy:83
 msgid "{image=iconM} {color=#42f456}Mom's:{/color}"
-msgstr ""
+msgstr "{image=iconM} {color=#42f456}Mom':{/color}"
 
 # game/Phone_stats_screen.rpy:85
 msgid "{image=respect}{color=#000000} Respect..............[momrespect]{/color}"
-msgstr ""
+msgstr "{image=respect}{color=#000000} Respeto............[momrespect]{/color}"
 
 # game/Phone_stats_screen.rpy:86
 msgid "{image=affection}{color=#000000} Affection............[momaffection]{/color}"
