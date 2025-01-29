@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-09-22 21:21\n"
+"PO-Revision-Date: 2025-01-29 08:31\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/images/interface_images/Roulette/RouletteGame.rpy:607 #-#-# translate crowdin test_feb4bc5b:
 msgid "[betPickVar]"
@@ -34,39 +34,39 @@ msgstr "[_RLT_dealer_] Error: Con la quiniela Straight puede elegir cualquier n�
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:651 #-#-# translate crowdin gameTypeErrorCheck_896b51f0:
 msgid "[_RLT_dealer_] Error: With the Corner betting game you can pick any 4 (four) roulette numbers. Please supply a list of four different numbers.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Error: Con la quiniela Corner puede elegir 4 (cuatro) números de ruleta cualesquiera. Por favor, proporcione una lista de cuatro números diferentes.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:660 #-#-# translate crowdin gameTypeErrorCheck_7f667963:
 msgid "[_RLT_dealer_] Error: With the Penta betting game you can pick any 5 (five) roulette numbers. Please supply a list of 5 different numbers.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Error: Con la quiniela Penta puede elegir 5 (cinco) números cualesquiera de la ruleta. Por favor, proporcione una lista de 5 números diferentes.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:669 #-#-# translate crowdin gameTypeErrorCheck_30b475c4:
 msgid "[_RLT_dealer_] Error: With the Line betting game you can pick any 6 (six) roulette numbers. Please supply a list of six different numbers.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Error: Con el juego de apuestas Línea puede elegir cualquier 6 (seis) números de la ruleta. Por favor, proporcione una lista de seis números diferentes.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:678 #-#-# translate crowdin gameTypeErrorCheck_e69becfe:
 msgid "[_RLT_dealer_] Error: With the Dozen betting game you can pick any 12 (twelve) roulette numbers. Please supply a list of 12 different numbers.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Error: Con la quiniela Docena puede elegir 12 (doce) números de ruleta cualesquiera. Por favor, proporcione una lista de 12 números diferentes.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:688 #-#-# translate crowdin gameTypeErrorCheck_3fde7c69:
 msgid "[_RLT_dealer_] Error: You have picked an incorrect color. Acceptable colors are {outlinecolor=#ffffff}{color=#FF0000}Red{/color}{/outlinecolor} and {outlinecolor=#ffffff}{color=#000000}Black{/color}{/outlinecolor}.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Error: Has escogido un color incorrecto. Los colores aceptables son {outlinecolor=#ffffff}{color=#FF0000}Red{/color}{/outlinecolor} y {outlinecolor=#ffffff}{color=#0000}Black{/color}{/outlinecolor}.{w=3.0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:696 #-#-# translate crowdin gameTypeErrorCheck_3fde7c69_1:
 msgid "[_RLT_dealer_] Error: You have picked an incorrect color. Acceptable colors are {outlinecolor=#ffffff}{color=#FF0000}Red{/color}{/outlinecolor} and {outlinecolor=#ffffff}{color=#000000}Black{/color}{/outlinecolor}.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Error: Has escogido un color incorrecto. Los colores aceptables son {outlinecolor=#ffffff}{color=#FF0000}Red{/color}{/outlinecolor} y {outlinecolor=#ffffff}{color=#0000}Black{/color}{/outlinecolor}.{w=3.0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:704 #-#-# translate crowdin gameTypeErrorCheck_e10368bb:
 msgid "[_RLT_dealer_] Error: You have picked an incorrect bet. Acceptable bets are {outlinecolor=#ffffff}{color=#00008B}Odd{/color}{/outlinecolor} or {outlinecolor=#ffffff}{color=#00008B}Even{/color}{/outlinecolor}.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Error: Has seleccionado una apuesta incorrecta. Las apuestas aceptables son {outlinecolor=#ffffff}{color=#00008B}Odd{/color}{/outlinecolor} o {outlinecolor=#ffffff}{color=#00008B}Even{/color}{/outlinecolor}.{w=3.0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:712 #-#-# translate crowdin gameTypeErrorCheck_e10368bb_1:
 msgid "[_RLT_dealer_] Error: You have picked an incorrect bet. Acceptable bets are {outlinecolor=#ffffff}{color=#00008B}Odd{/color}{/outlinecolor} or {outlinecolor=#ffffff}{color=#00008B}Even{/color}{/outlinecolor}.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Error: Has seleccionado una apuesta incorrecta. Las apuestas aceptables son {outlinecolor=#ffffff}{color=#00008B}Odd{/color}{/outlinecolor} o {outlinecolor=#ffffff}{color=#00008B}Even{/color}{/outlinecolor}.{w=3.0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:720 #-#-# translate crowdin call_rotate_1bc2ab16:
 msgid "[_RLT_dealer_] Let's roll the ball!{w=2.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] ¡Vamos a rodar la bola!{w=2.0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:741 #-#-# translate crowdin lblCheckRoll_4da8e105:
 msgid "[_RLT_dealer_] You bet the ball would land on [playerPiked]{w=3.0}{nw} [withDissolve20]"
