@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-01-29 08:31\n"
+"PO-Revision-Date: 2025-01-29 10:27\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScriptHalloweenEvent.rpy:256 #-#-# translate crowdin halloween_event_start_36b1bdbb:
 msgid "{i}{b}(HINT){/b} Happy Halloween!{/i}"
@@ -202,7 +202,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:441 #-#-# translate crowdin sidney_grabbed_1ec4bff4:
 msgid "[_S_] Why is it growing?"
-msgstr ""
+msgstr "[_S_] ¿Por qué crece?"
 
 # game/UpdateScriptHalloweenEvent.rpy:442 #-#-# translate crowdin sidney_grabbed_c20775b5:
 msgid "[_S_] What's going on?"
@@ -346,7 +346,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:566 #-#-# translate crowdin found_sidney_inside_out_b078476e:
 msgid "[_R_] Did you cheat?... Wait! Never mind! I don't have time for this!"
-msgstr ""
+msgstr "[_R_] ¿Hiciste trampa?... ¡Espera! ¡No importa! ¡No tengo tiempo para esto!"
 
 # game/UpdateScriptHalloweenEvent.rpy:568 #-#-# translate crowdin found_sidney_inside_out_4ccf3a2c_1:
 msgid "[_MD_] {i}(muffled voice){/i} Whoa, [ryan]! What's the hurry?"
@@ -498,35 +498,35 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:645 #-#-# translate crowdin found_sidney_inside_out_7a622410:
 msgid "[_M_] Is that what you and Sidney are doing at night?! Getting high in your room?"
-msgstr ""
+msgstr "[_M_] ¿Eso es lo que hacen Sídney y tú por la noche? ¿Colocarse en tu habitación?"
 
 # game/UpdateScriptHalloweenEvent.rpy:646 #-#-# translate crowdin found_sidney_inside_out_4592a1ee:
 msgid "[_R_] What? No! Mom, listen to me. She's in the mirror!"
-msgstr ""
+msgstr "[_R_] ¿Qué? ¡No! Mamá, escucharme. ¡Está en el espejo!"
 
 # game/UpdateScriptHalloweenEvent.rpy:647 #-#-# translate crowdin found_sidney_inside_out_b13bbb08:
 msgid "[_M_] Stay put young man, I'm going to find Sidney and we're going to all have a long talk about this!"
-msgstr ""
+msgstr "[_M_] ¡Quédate quieto jovencito, voy a buscar a Sídney y todos vamos a tener una larga conversación sobre esto!"
 
 # game/UpdateScriptHalloweenEvent.rpy:650 #-#-# translate crowdin found_sidney_inside_out_6c65eb59:
 msgid "[_M_] I know you're high right now, but don't go breaking my mirror while I'm gone!"
-msgstr ""
+msgstr "[_M_] Sé que estás delirando ahora mismo, ¡pero no rompas mi espejo mientras no estoy!"
 
 # game/UpdateScriptHalloweenEvent.rpy:651 #-#-# translate crowdin found_sidney_inside_out_39bdb59a:
 msgid "[_M_] You wouldn't want to kill the mirror version of your sister while I'm finding the real one, would you?"
-msgstr ""
+msgstr "[_M_] No querrás matar la versión espejo de tu hermana mientras encuentro la verdadera, ¿verdad?"
 
 # game/UpdateScriptHalloweenEvent.rpy:652 #-#-# translate crowdin found_sidney_inside_out_23e5d6c8:
 msgid "[_MT_] {i}God, I hate reasoning with my students when they're high!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}¡Dios, odio razonar con mis estudiantes cuando están! drogados!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:653 #-#-# translate crowdin found_sidney_inside_out_df475f70:
 msgid "[_R_] Shit, if I break the mirror, would that break the connection to that... other place? Fuck, I didn't think of that."
-msgstr ""
+msgstr "[_R_] Mierda, si rompo el espejo, ¿se rompería la conexión con ese... otro lugar? Joder, no había pensado en eso."
 
 # game/UpdateScriptHalloweenEvent.rpy:654 #-#-# translate crowdin found_sidney_inside_out_6e06bd88:
 msgid "[_M_] Obviously not! So, don't break my mirror while I'm gone!"
-msgstr ""
+msgstr "¡[_M_] Obviamente no! ¡Así que no rompas mi espejo mientras me vaya!"
 
 # game/UpdateScriptHalloweenEvent.rpy:665 #-#-# translate crowdin found_sidney_inside_out_fd98aa1c:
 msgid "[_R_] How... do... I... get... in?!"
@@ -686,7 +686,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:780 #-#-# translate crowdin sidney_loyalty_path_fb0ab9c7:
 msgid "[_R_] Uhhh... Never mind!"
-msgstr ""
+msgstr "[_R_] Uh... ¡No importa!"
 
 # game/UpdateScriptHalloweenEvent.rpy:781 #-#-# translate crowdin sidney_loyalty_path_acfa61c2:
 msgid "[_R_] Maybe... If we collect all the leftover slime in the bathroom, and rub it on the mirror..."
@@ -1014,7 +1014,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:1051 #-#-# translate crowdin sidney_monster_path_f6834670:
 msgid "[_ST_] {i}Nobody, Sidney... These are your own thoughts... So you know they're true!{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Nadie, Sidney... Estos son tus propios pensamientos... ¡Así que sabes que son ciertos!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1052 #-#-# translate crowdin sidney_monster_path_bbe61c3c:
 msgid "[_ST_] {i}No... Can't be...{/i}"
