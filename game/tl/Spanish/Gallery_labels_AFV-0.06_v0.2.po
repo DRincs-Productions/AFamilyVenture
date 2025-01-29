@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-01-29 12:32\n"
+"PO-Revision-Date: 2025-01-29 14:36\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/Gallery_labels_AFV-0.06_v0.2.rpy:15 #-#-# translate crowdin label_gal_mom_drunk_e1aba2f6:
 msgid "[_RT_] {i}Hmmm.... no answer. I don't have a key, but I'm started to get a little worried about her.{/i}"
-msgstr "[_RT_] {i}Hmmm.... no responde. No tengo una llave, pero estoy empezando a preocuparme un poco por ella{/i}"
+msgstr "[_RT_] {i}Mm... no responde. No tengo una llave, pero estoy empezando a preocuparme un poco por ella{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16 #-#-# translate crowdin label_gal_mom_drunk_e517f87b:
 msgid "[_RT_] {i}There's a sliding door outside on the patio into her room. Hopefully it's unlocked.{/i}"
@@ -30,7 +30,7 @@ msgstr "[_RT_] {i}Parece que se ha desmayado. {/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:22 #-#-# translate crowdin label_gal_mom_drunk_c5d45a3e:
 msgid "[_RT_] {i}Is that one of [dad_name]'s empty whiskey bottles she's cuddling?{/i}"
-msgstr "[_RT_] {i}¿Es una de las botellas de whisky vacías de [nombre_de_papá] la que está abrazando? {/i}"
+msgstr "[_RT_] {i}¿Es una de las botellas de whisky vacías de [dad_name] la que está abrazando? {/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:23 #-#-# translate crowdin label_gal_mom_drunk_f6b7fd29:
 msgid "[_RT_] {i}I wonder how much of it she drank. I don't think I've actually ever seen her dead drunk before.{/i}"
@@ -62,15 +62,15 @@ msgstr "[_R_] Estaba preocupado por ti, así que llegué por la puerta del patio
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:34 #-#-# translate crowdin label_gal_mom_drunk_00eadc61:
 msgid "[_M_] You were worried about me?..."
-msgstr "[_M_] ¿Usted estaba preocupado por mí? ..."
+msgstr "[_M_] ¿Estabas preocupado por mí?..."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:35 #-#-# translate crowdin label_gal_mom_drunk_cc4aeec0:
 msgid "[_M_] Really?.... I thought you hated me after last night."
-msgstr "[_M_] ¿Realmente? .... Pensé que me odiaste después de anoche."
+msgstr "[_M_] ¿De verdad?... Pensé que me odiabas después de anoche."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:36 #-#-# translate crowdin label_gal_mom_drunk_d87d739d:
 msgid "[_R_] Hated you.... Mom.... I could never hate you!.... I love you!"
-msgstr "[_R_] Odiarte?.... Mamá.... ¡Nunca podría odiarte! .... ¡Te amo!"
+msgstr "[_R_] Odiarte?... Mamá... ¡Nunca podría odiarte!... ¡Te amo!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:37 #-#-# translate crowdin label_gal_mom_drunk_4f67cde2:
 msgid "[_M_] Really?.... But the way you were looking at me last night when you walked in on my dance..."
@@ -94,15 +94,15 @@ msgstr "[_R_] Oh, Dios no mamá, para ser completamente honesto yo miraba de esa
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:42 #-#-# translate crowdin label_gal_mom_drunk_268ee363:
 msgid "[_M_] Oh, honey.... why would you be ashamed of yourself?"
-msgstr "[_M_] Oh, miel... ¿Por qué te avergonzarías?"
+msgstr "[_M_] Oh, Dulzura... ¿Por qué te avergonzarías?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:43 #-#-# translate crowdin label_gal_mom_drunk_d12044ff:
 msgid "[_R_] Because I thought you looked amazing.... , and I know that sons shouldn't think that way about their moms."
-msgstr "[Porque pensé que te veías increíble.... y sé que los hijos no deberían pensar así de sus madres."
+msgstr "[_R_] Porque pensé que te veías increíble... y sé que los hijos no deberían pensar así de sus madres."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:46 #-#-# translate crowdin label_gal_mom_drunk_66c8cd26:
 msgid "[_M_] Oh, honey.... that's one of the cutest things I've ever heard you say."
-msgstr "[_M_] Oh, cariño.... esa es una de las cosas más bonitas que te he oído decir."
+msgstr "[_M_] Oh, cariño... esa es una de las cosas más bonitas que te he oído decir."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:47 #-#-# translate crowdin label_gal_mom_drunk_734a07c0:
 msgid "[_R_] Cute?..."
@@ -130,7 +130,7 @@ msgstr "[_M_] El hecho de que fuera tu madre la que estaba en el poste fue una s
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:55 #-#-# translate crowdin label_gal_mom_drunk_48e363d8:
 msgid "[_M_] But just so we're clear, I want you to try and get those images of me stripping out of your head. Continuing to think about that wouldn't be normal. Just kind of creepy."
-msgstr "[_M_] Pero justo así que estamos claros, quiero que intentes sacar de tu cabeza esas imágenes de mi. Seguir pensando en eso no sería normal."
+msgstr "[_M_] Pero justo así que estamos claros, quiero que intentes sacar de tu cabeza esas imágenes de mí. Seguir pensando en eso no sería normal."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:56 #-#-# translate crowdin label_gal_mom_drunk_8c4a8881:
 msgid "[_R_] Oh.... I know that."
@@ -166,7 +166,7 @@ msgstr "[_M_] ¡Eso es tan caballeroso de tu parte!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:66 #-#-# translate crowdin label_gal_mom_drunk_02555554:
 msgid "[_M_] What a perfect little gentleman I raised."
-msgstr "[_M_] Qué caballerito más perfecto he criado."
+msgstr "[_M_] Qué señorito más perfecto he criado."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:67 #-#-# translate crowdin label_gal_mom_drunk_77dfbcbd:
 msgid "[_R_] Yeah, well Dad said I'm the man of the house now."
@@ -350,7 +350,7 @@ msgstr "[_RT_] {i}¡Oh, Dios mío, esto es tan aburrido! Las obras griegas son l
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:129 #-#-# translate crowdin label_gal_mom_school_strip_32902a27:
 msgid "[_RT_] {i}Oh, yeah! I just remembered that Mom is wearing the same outfit that she wore on the stage at the strip club!{/i}"
-msgstr "[_RT_] {i}¡Oh, sí! ¡Acabo de recordar, que mamá lleva el mismo traje que llevaba en el escenario del club de stripters!{/i}"
+msgstr "[_RT_] {i}¡Oh, sí! ¡Acabo de  recordar, que mamá lleva el mismo traje que llevaba en el escenario del club de! stripters!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:130 #-#-# translate crowdin label_gal_mom_school_strip_d5bd3f9e:
 msgid "[_RT_] {i}Those are some good memories.... {/i}"
@@ -362,7 +362,7 @@ msgstr "[_RT_] {i}¿Por qué mamá tiene que estar tan buena?{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:160 #-#-# translate crowdin label_gal_mom_school_strip_876b5a4a:
 msgid "[_RT_] {i}Why did I have to see her humping that pole?{/i}"
-msgstr "[_RT_] {i}¿Por qué tuve que verla follando ese poste? {/i}"
+msgstr "[_RT_] {i}¿Por qué tuve que verla meneando ese poste? {/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:163 #-#-# translate crowdin label_gal_mom_school_strip_fab0b5de:
 msgid "[_RT_] {i}I'll never be able to look at her the same again.{/i}"
@@ -430,7 +430,7 @@ msgstr "[_RT_] ¡Y ese es todo el recuerdo que tengo de ese evento!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:226 #-#-# translate crowdin label_gal_mom_nightclubbing_09a446a5:
 msgid "[_RT_] {i}I think I remember my way to the strip pole.... {/i}"
-msgstr "[_RT_] {i} Creo recordar el camino hacia el poste de estriptís... {/i}"
+msgstr "[_RT_] {i} Creo recordar el camino hacia el escenario de estriptís... {/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:229 #-#-# translate crowdin label_gal_mom_nightclubbing_bbbc8890:
 msgid "[_RT_] {i}Past the bar, through the casino, and Bingo!{/i}"
@@ -494,27 +494,27 @@ msgstr "[_RT_] {i}¡Tengo que aliviarme! {/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:258 #-#-# translate crowdin label_gal_mom_nightclubbing_50324767:
 msgid "[_RT_] {i}Oh, this is sooo wrong. But I think that's why it's sooo hot!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Oh, esto está taaaan mal. ¡Pero creo que por eso es tan caliente!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:259 #-#-# translate crowdin label_gal_mom_nightclubbing_76b97bbb:
 msgid "[_RT_] {i}I feel bad for whoever has to clean up after me.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Me siento mal por quien tenga que limpiar después de mí.{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:268 #-#-# translate crowdin label_gal_mom_nightclubbing_e698a925:
 msgid "[_MT_] {i}I shouldn't be thinking about my own son so much while I'm up here shaking my ass!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}¡No debería pensar tanto en mi propio hijo mientras estoy aquí arriba moviendo el culo!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:269 #-#-# translate crowdin label_gal_mom_nightclubbing_c2730186:
 msgid "[_MT_] {i}Yet for some reason thinking of him watching me strip in public excites me just a bit.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Sin embargo, por alguna razón pensar en él viéndome desnudarme en público me excita un poco.{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:270 #-#-# translate crowdin label_gal_mom_nightclubbing_1b471d1e:
 msgid "[_MT_] {i}I've got to be careful, or this pole will get to wet and slippery for the next girl.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Tengo que tener cuidado, o este poste se pondrá muy mojado y resbaladizo para la próxima chica. {/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:280 #-#-# translate crowdin label_gal_mom_nightclubbing_7be50221:
 msgid "[_MT_] {i}This is actually pretty exhilarating!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}¡Esto es realmente muy estimulante!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:281 #-#-# translate crowdin label_gal_mom_nightclubbing_acd7dd15:
 msgid "[_MT_] {i}Nobody but my husband has seen my tits since we were married. Well, now just my own son and a bunch of random men.{/i}"
@@ -16062,47 +16062,47 @@ msgstr "[_M_] Lo que hemos estado haciendo últimamente es mucho más perverso d
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8264 #-#-# translate crowdin label_pay_or_dont_5c51ac81:
 msgid "[_M_] She would lose her freaking mind!"
-msgstr ""
+msgstr "[_M_] ¡Se volvería loca!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8265 #-#-# translate crowdin label_pay_or_dont_a2f76221:
 msgid "[_M_] And after what that bitch pulled, she would deserve it!"
-msgstr ""
+msgstr "[_M_] Y después de lo que esa perra, ¡se lo merecería!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8266 #-#-# translate crowdin label_pay_or_dont_1dcc28e2:
 msgid "[_M_] Can you imagine the look that would be on her face if she were here watching us make love?"
-msgstr ""
+msgstr "[_M_] ¿Te imaginas la cara que pondría si estuviera aquí viéndonos hacer el amor?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8269 #-#-# translate crowdin label_pay_or_dont_1b5cdaa1:
 msgid "[_MT_] {i}Why does my imagined dissaproval of my sister make me want to fuck my son even more?!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}¡¿Por qué imaginar  la desaprobación de mi hermana me hace querer follarme a mi hijo aún más?!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8270 #-#-# translate crowdin label_pay_or_dont_af6a982b:
 msgid "[_M_] Well, let's get things started."
-msgstr ""
+msgstr "[_M_] Bueno, empecemos."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8274 #-#-# translate crowdin label_pay_or_dont_5182f79d:
 msgid "[_M_] Don't stroke yourself too vigorously."
-msgstr ""
+msgstr "[_M_] No te acaricies demasiado vigorosamente."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8275 #-#-# translate crowdin label_pay_or_dont_1b684435:
 msgid "[_M_] I know this is your reward, but I'm hoping to take care of some of my sexual tension while we're at it."
-msgstr ""
+msgstr "[_M_] Sé que esta es tu recompensa, pero espero deshacerme de mi tensión sexual mientras estamos en ello."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8276 #-#-# translate crowdin label_pay_or_dont_ef04ba96:
 msgid "[_R_] Don't worry, Mom... I'll take care of you."
-msgstr ""
+msgstr "[_u_] No te preocupes, me ocuparé de eso."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8279 #-#-# translate crowdin label_pay_or_dont_ac0e250f:
 msgid "[_M_] Mmm... You always do!"
-msgstr ""
+msgstr "[_M_] Mmm... ¡Siempre lo haces!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8280 #-#-# translate crowdin label_pay_or_dont_73d972ea:
 msgid "[_M_] How did I get so lucky?"
-msgstr ""
+msgstr "[_M_] ¿Cómo he tenido tanta suerte?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8283 #-#-# translate crowdin label_pay_or_dont_7e94fb74:
 msgid "[_R_] I'm the lucky one!"
-msgstr ""
+msgstr "¡[_R_] soy afortunado!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8284 #-#-# translate crowdin label_pay_or_dont_08ae1d15:
 msgid "[_R_] I don't know any guys with a mom as hot as mine."
@@ -16146,15 +16146,15 @@ msgstr "[_R_] ¡Joder, esto es una tortura!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8300 #-#-# translate crowdin label_pay_or_dont_cab2ec1e:
 msgid "[_M_] [ryan], language!"
-msgstr ""
+msgstr "[_M_] [ryan], el lenguaje!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8301 #-#-# translate crowdin label_pay_or_dont_ad3841f4:
 msgid "[_R_] You're about to let your son fuck you silly, and you're getting after me for saying \"fuck\"?"
-msgstr ""
+msgstr "[_R_] ¿Estás a punto de dejar que tu hijo te folle alegremente  y me regañas por \"follar\"?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8302 #-#-# translate crowdin label_pay_or_dont_901774b1:
 msgid "[_M_] Oh, you're going to fuck your mom silly?"
-msgstr ""
+msgstr "[_M_] Oh, ¿vas a follar a tu mamá de forma alegre?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8303 #-#-# translate crowdin label_pay_or_dont_2d12af8e:
 msgid "[_M_] You naughty boy!"
@@ -16162,63 +16162,63 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8306 #-#-# translate crowdin label_pay_or_dont_5136e4ba:
 msgid "[_M_] And what am I supposed to do with such a naughty boy?"
-msgstr ""
+msgstr "[_R_] ¿Y qué se supone que debo hacer con un niño tan travieso?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8307 #-#-# translate crowdin label_pay_or_dont_84e3b7b7:
 msgid "[_M_] You were saying something about torture?"
-msgstr ""
+msgstr "[_M_] ¿Estabas diciendo algo sobre la tortura?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8308 #-#-# translate crowdin label_pay_or_dont_f8510e24:
 msgid "[_M_] Fine, your punishment is that if you cum before I do, We won't do anything sexual for a month."
-msgstr ""
+msgstr "[_M_] Bien, tu castigo es que si te acabas antes de que lo haga, no haremos nada sexual durante un mes."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8309 #-#-# translate crowdin label_pay_or_dont_a12b9df5:
 msgid "[_M_] And to help you out, I'll stop dressing skimpy around the house and only wear my most modest clothing."
-msgstr ""
+msgstr "[_M_] Y para ayudarte, dejaré de vestirme con poca ropa en casa y solo llevaré mi ropa más modesta."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8310 #-#-# translate crowdin label_pay_or_dont_74db5c3e:
 msgid "[_R_] No!... We can't go back to how things were, now that we've..."
-msgstr ""
+msgstr "¡[_R_] No!... No podemos volver a cómo estaban las cosas, ahora que..."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8311 #-#-# translate crowdin label_pay_or_dont_58654a33:
 msgid "[_M_] Well, than you'd better be a good boy!"
-msgstr ""
+msgstr "[_M_] Bueno, ¡mejor que seas un buen niño!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8312 #-#-# translate crowdin label_pay_or_dont_517e9800:
 msgid "[_R_] I'll be good, I promise."
-msgstr ""
+msgstr "[_R_] Seré bueno, lo prometo."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8313 #-#-# translate crowdin label_pay_or_dont_1d758410:
 msgid "[_M_] We'll see."
-msgstr ""
+msgstr "[_M_] Veremos."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8317 #-#-# translate crowdin label_pay_or_dont_2c3f0876:
 msgid "[_MT_] {i}Who am I kidding?{/i}"
-msgstr ""
+msgstr "[_MT_] {i}¿A quién engaño?{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8318 #-#-# translate crowdin label_pay_or_dont_c8a2f1f6:
 msgid "[_MT_] {i}Nothing sexual for a month?{/i}"
-msgstr ""
+msgstr "[_MT_] {i}¿Nada sexual por un mes?{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8319 #-#-# translate crowdin label_pay_or_dont_2d63992e:
 msgid "[_MT_] {i}That's probably more of a punishment for me then it is for him.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Probablemente sea más un castigo para mí que para él.{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8320 #-#-# translate crowdin label_pay_or_dont_48f11d8c:
 msgid "[_MT_] {i}I'd never be able to enforce that one.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Yo nunca sería capaz de hacer cumplir esa. {/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8323 #-#-# translate crowdin label_pay_or_dont_79601d4c:
 msgid "[_R_] God!... You're not going to make this easy, are you?"
-msgstr ""
+msgstr "[_R_] ¡Dios!... No vas a hacer esto fácil, ¿verdad?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8324 #-#-# translate crowdin label_pay_or_dont_a043c1eb:
 msgid "[_M_] Mmm, mmm..."
-msgstr ""
+msgstr "[_M_] Mmm, mm..."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8329 #-#-# translate crowdin label_pay_or_dont_63d21787:
 msgid "[_M_] I'd better give you a break!"
-msgstr ""
+msgstr "[_M_] ¡Mejor te daría una pausa!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8330 #-#-# translate crowdin label_pay_or_dont_16da2b5e:
 msgid "[_R_] Thank you!"
@@ -16226,7 +16226,7 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8333 #-#-# translate crowdin label_pay_or_dont_84f34efe:
 msgid "[_M_] Now, I want you to go look in my bottom drawer under my jeans."
-msgstr ""
+msgstr "[_M_] Ahora, quiero que mires en mi cajón inferior debajo de mis jeans."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8334 #-#-# translate crowdin label_pay_or_dont_29c6f165:
 msgid "[_R_] For what?"
@@ -16234,39 +16234,39 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8335 #-#-# translate crowdin label_pay_or_dont_451218df:
 msgid "[_M_] Just be obedient and don't ask questions. I think you'll know what it is as soon as you see it."
-msgstr ""
+msgstr "[_M_] Solo sé obediente y no hagas preguntas. Creo que sabrás lo que es tan pronto como lo veas."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8338 #-#-# translate crowdin label_pay_or_dont_e4f5c175:
 msgid "[_MT_] {i}Holy fuck!... What is with me?{/i}"
-msgstr ""
+msgstr "[_MT_] {i}¡Joder!... ¿Qué pasa conmigo?{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8339 #-#-# translate crowdin label_pay_or_dont_b36dc78e:
 msgid "[_MT_] {i}I'm not even trying to imagine [ryan] as some other guy!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}¡Ni siquiera estoy tratando de imaginar a [Ryan] como otro tipo! {/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8340 #-#-# translate crowdin label_pay_or_dont_2be4e177:
 msgid "[_MT_] {i}I've just embraced the whole mother/son dynamic!{/i}"
-msgstr ""
+msgstr "[_MT_] {i} ¡Acabo de abrazar toda la dinámica madre/hijo! {/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8341 #-#-# translate crowdin label_pay_or_dont_d522b744:
 msgid "[_MT_] {i}At least [ryan] seems to be into it."
-msgstr ""
+msgstr "[_MT_] {i}Al menos [ryan] parece estar en ello."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8342 #-#-# translate crowdin label_pay_or_dont_aa95cff9:
 msgid "[_MT_] {i}Look at that cute little butt!{/i}"
-msgstr ""
+msgstr "[_MT_]{i}¡Mira ese lindo! culito!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8345 #-#-# translate crowdin label_pay_or_dont_9ecfc536:
 msgid "[_R_] Is this what you wanted me to find?"
-msgstr ""
+msgstr "[_R_] ¿Es esto lo que querías que encontrara?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8346 #-#-# translate crowdin label_pay_or_dont_627fa5ef:
 msgid "[_R_] Fuck, it's way bigger than your other one!"
-msgstr ""
+msgstr "[_R_] ¡Joder, es mucho más grande que el otro!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8349 #-#-# translate crowdin label_pay_or_dont_53eb7e4f:
 msgid "[_M_] Well, how else do you expect me to get used to your size?"
-msgstr ""
+msgstr "[_M_] Bueno, ¿de qué otra forma esperas que me acostumbre a tu tamaño?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8350 #-#-# translate crowdin label_pay_or_dont_400d8708:
 msgid "[_R_] And?"
@@ -16274,35 +16274,35 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8351 #-#-# translate crowdin label_pay_or_dont_568f5a22:
 msgid "[_M_] And what?"
-msgstr ""
+msgstr "[_M_] ¿Y qué?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8352 #-#-# translate crowdin label_pay_or_dont_4d844fdc:
 msgid "[_R_] Have you been practicing?"
-msgstr ""
+msgstr "[_R_] ¿Has estado practicando?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8353 #-#-# translate crowdin label_pay_or_dont_99580d31:
 msgid "[_M_] As often as I can. Which isn't a lot, but I have worn it to bed a few times."
-msgstr ""
+msgstr "[_M_] Tan a menudo como puedo. Lo que no es mucho, pero lo he usado para dormir unas cuantas veces."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8354 #-#-# translate crowdin label_pay_or_dont_3aafc1ce:
 msgid "[_M_] I know what you're thinking, but no, your aunt didn't notice. I didn't put it in until the lights were off."
-msgstr ""
+msgstr "[_M_] Sé lo que estás pensando, pero no, tu tía no se dio cuenta. No lo puse hasta que se apagaron las luces."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8355 #-#-# translate crowdin label_pay_or_dont_341ad80f:
 msgid "[_R_] How did you buy it without the FBI noticing?"
-msgstr ""
+msgstr "[_R_] ¿Cómo lo compraste sin que el FBI se percatara?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8356 #-#-# translate crowdin label_pay_or_dont_ee11ed66:
 msgid "[_M_] Who says they didn't notice? But I figured that none of them would have the balls to argue with me that this isn't a necessity."
-msgstr ""
+msgstr "[_M_] ¿Quién dice que no notaron? Pero me di cuenta de que ninguno de ellos tendría las pelotas para discutir conmigo que esto no es una necesidad."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8357 #-#-# translate crowdin label_pay_or_dont_45d98784:
 msgid "[_RT_] {i}Holy, shit!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Santa, mierda!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8360 #-#-# translate crowdin label_pay_or_dont_4c2e146e:
 msgid "[_M_] Now, lube that up and bring it over here."
-msgstr ""
+msgstr "[_M_] Ahora, lubrica eso y tráelo aquí."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8361 #-#-# translate crowdin label_pay_or_dont_741260b8:
 msgid "[_M_] I can't wait for what's coming next!"
@@ -16310,39 +16310,39 @@ msgstr "[_M_] ¡No puedo esperar a lo que viene a continuación!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8364 #-#-# translate crowdin label_pay_or_dont_14f18bd8:
 msgid "[_R_] Wow! Are you sure you can take this?"
-msgstr ""
+msgstr "[_R_] ¡Vaya! ¿Seguro que puedes con esto?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8365 #-#-# translate crowdin label_pay_or_dont_b6a8f470:
 msgid "[_M_] I've done it before. Just go slow."
-msgstr ""
+msgstr "[_M_] Lo he hecho antes. Solo ve lento."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8366 #-#-# translate crowdin label_pay_or_dont_8e60efcf:
 msgid "[_M_] It'll make it much easier for me to take you later."
-msgstr ""
+msgstr "[_M_] Me hará mucho más fácil tomarte más tarde."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8369 #-#-# translate crowdin label_pay_or_dont_08422f23:
 msgid "[_R_] Here goes!"
-msgstr ""
+msgstr "[_R_] ¡Aquí va!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8376 #-#-# translate crowdin label_pay_or_dont_cd41f52e:
 msgid "[_R_] Holy shit!... You're ass just started sucking it in!"
-msgstr ""
+msgstr "[_R_] ¡Mierda!... ¡Tu culo acaba de empezar a chuparlo!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8377 #-#-# translate crowdin label_pay_or_dont_8f69ea32:
 msgid "[_M_] Mmmm..."
-msgstr ""
+msgstr "[Mmmm..."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8378 #-#-# translate crowdin label_pay_or_dont_9657b14a:
 msgid "[_R_] Does it hurt?"
-msgstr ""
+msgstr "[_R_] ¿Te duele?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8379 #-#-# translate crowdin label_pay_or_dont_f94397da:
 msgid "[_M_] Yes, but in a good way."
-msgstr ""
+msgstr "[_M_] Sí, pero de una buena manera."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8382 #-#-# translate crowdin label_pay_or_dont_08f95eac:
 msgid "[_M_] Now, be a good boy and come fuck your mom."
-msgstr ""
+msgstr "[_M_] Ahora, sé un buen chico y ven a follarte a tu madre."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8383 #-#-# translate crowdin label_pay_or_dont_3d99fcef:
 msgid "[_R_] Language, Mom!"
@@ -16350,163 +16350,163 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8384 #-#-# translate crowdin label_pay_or_dont_db0c9eb0:
 msgid "[_M_] Don't you sass talk your mother!"
-msgstr ""
+msgstr "[_M_] ¡No le hables así a tu madre!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8385 #-#-# translate crowdin label_pay_or_dont_21351112:
 msgid "[_M_] Now, stick that monster in my pussy!"
-msgstr ""
+msgstr "[_M_] ¡Méteme ese monstruo en el coño!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8393 #-#-# translate crowdin label_pay_or_dont_d5e1d936:
 msgid "[_M_] Oh, God... [ryan]!"
-msgstr ""
+msgstr "[_M_] Oh, Dios... ¡[ryan]!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8394 #-#-# translate crowdin label_pay_or_dont_669231a3:
 msgid "[_M_] I just can't get over how full your dick makes me feel!"
-msgstr ""
+msgstr "[_M_] ¡No puedo creer lo llena que me hace sentir tu polla!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8395 #-#-# translate crowdin label_pay_or_dont_bb78429e:
 msgid "[_M_] I'm so glad you got the big penis genes from my side of the family!"
-msgstr ""
+msgstr "[_M_] ¡Estoy tan contenta de que obtuviste los genes grandes del pene de mi lado de la familia!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8396 #-#-# translate crowdin label_pay_or_dont_7e756ace:
 msgid "[_M_] I mean... How can I ever go back to your dad's tiny dick now that I've had yours?"
-msgstr ""
+msgstr "[_M_] Quiero decir... ¿Cómo puedo volver a la pequeña polla de tu padre ahora que he tenido la tuya?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8397 #-#-# translate crowdin label_pay_or_dont_c6c75fb5:
 msgid "[_R_] Mom... You never have to."
-msgstr ""
+msgstr "[_R_] Mamá... Nunca tienes que hacerlo."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8398 #-#-# translate crowdin label_pay_or_dont_a28ee837:
 msgid "[_M_] No... I guess I don't!"
-msgstr ""
+msgstr "[_M_] No... ¡Supongo que no!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8404 #-#-# translate crowdin label_pay_or_dont_7f83aaf4:
 msgid "[_R_] Wow, Mom!... I can't believe... Nnn... You can take me... so deep!"
-msgstr ""
+msgstr "[_R_] Wow, ¡mamá!... No puedo creer... Nn... ¡Puedes tomarme... ¡tan profundo!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8405 #-#-# translate crowdin label_pay_or_dont_6dff4651:
 msgid "[_M_] You're definitely... breaking me in!"
-msgstr ""
+msgstr "[_M_] Definitivamente... ¡Me estás partiendo!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8408 #-#-# translate crowdin label_pay_or_dont_e87ff94c:
 msgid "[_M_] Oh, [ryan]!... This is feeling so good!"
-msgstr ""
+msgstr "[_M_] ¡Oh, [ryan]!... ¡Esto se siente tan bien!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8409 #-#-# translate crowdin label_pay_or_dont_ebf2a22e:
 msgid "[_M_] Mmm... But I want to be... on top for a bit... and take control!"
-msgstr ""
+msgstr "[_M_] Mm... ¡Pero quiero estar... arriba por un rato... y tomar el control!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8422 #-#-# translate crowdin label_pay_or_dont_2fd7cb14:
 msgid "[_MT_] {i}Oh, God... yes!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}¡Oh, Dios!!! sí!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8423 #-#-# translate crowdin label_pay_or_dont_1d14b2d2:
 msgid "[_MT_] {i}His cock is like a battering ram{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Su polla es como un ariete{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8424 #-#-# translate crowdin label_pay_or_dont_20c7fd58:
 msgid "[_MT_] {i}Trying to break it's way back into my womb!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}¡Tratando de abrirse camino de regreso a mi vientre! {/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8425 #-#-# translate crowdin label_pay_or_dont_9d84f4d6:
 msgid "[_MT_] {i}The same womb it was made in!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}¡El mismo vientre en que fue hecho! {/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8431 #-#-# translate crowdin label_pay_or_dont_a31f2a12:
 msgid "[_M_] Oh, fuck me!"
-msgstr ""
+msgstr "[_M_]¡Oh, Follaamee!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8432 #-#-# translate crowdin label_pay_or_dont_36428728:
 msgid "[_R_] With pleasure!"
-msgstr ""
+msgstr "¡[_R_] con gusto!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8438 #-#-# translate crowdin label_pay_or_dont_4468390a:
 msgid "[_RT_] {i}I still can't believe Mom and I are fucking now!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}¡Todavía no puedo creer que  mamá y yo! Estemos  follando!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8439 #-#-# translate crowdin label_pay_or_dont_839b3b10:
 msgid "[_RT_] {i}This is literally heaven on earth!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}¡Esto es literalmente el cielo en la tierra! {/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8442 #-#-# translate crowdin label_pay_or_dont_e8cc4300:
 msgid "[_RT_] {i}Those bouncy tits!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}¡Esas tetas! saltarinas!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8443 #-#-# translate crowdin label_pay_or_dont_ed8a1958:
 msgid "[_RT_] {i}That trim waist!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}¡Esa cintura recortada! {/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8444 #-#-# translate crowdin label_pay_or_dont_34ee3bd9:
 msgid "[_RT_] {i}The look of desire on her face!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}¡La mirada de deseo en su cara! {/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8445 #-#-# translate crowdin label_pay_or_dont_66b3e189:
 msgid "[_RT_] {i}I'm the luckiest son a mother ever had!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}¡Soy el hijo más afortunado que una madre haya tenido! {/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8450 #-#-# translate crowdin label_pay_or_dont_84df9341:
 msgid "[_M_] I'm sorry I'm struggling to cum!"
-msgstr ""
+msgstr "[_M_]¡Lo siento, me cuesta correrme!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8451 #-#-# translate crowdin label_pay_or_dont_2b63aafc:
 msgid "[_M_] You're so sweet to try not to cum before me!"
-msgstr ""
+msgstr "[_M_]  ¡Eres tan dulce al intentar no correrte antes que yo!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8452 #-#-# translate crowdin label_pay_or_dont_2d89e8df:
 msgid "[_M_] I think the plug isn't quite enough... I need some... movement."
-msgstr ""
+msgstr "[_M_] Creo que el tapón no es suficiente... Necesito algo de... movimiento."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8453 #-#-# translate crowdin label_pay_or_dont_b1d98364:
 msgid "[_M_] I think it's opened me up enough to be able to take your huge rod though."
-msgstr ""
+msgstr "[_M_] Creo que me ha abierto lo suficiente como para poder aguantar tu enorme caña."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8454 #-#-# translate crowdin label_pay_or_dont_fa93ffdc:
 msgid "[_M_] That is... If you're willing."
-msgstr ""
+msgstr "[_M_] Eso sí... Si estás dispuesto."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8457 #-#-# translate crowdin label_pay_or_dont_93a65ef4:
 msgid "[_R_] Is that really a question?"
-msgstr ""
+msgstr "[_R_] ¿Realmente es eso una pregunta?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8458 #-#-# translate crowdin label_pay_or_dont_ed0cb2ea:
 msgid "[_M_] It's just... I feel so self-conscious about having such a taboo kink."
-msgstr ""
+msgstr "[_M_] Es que... Me siento tan cohibida por tener una manía tan tabú."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8459 #-#-# translate crowdin label_pay_or_dont_f1604b26:
 msgid "[_R_] Maybe it was taboo in your day, but remember, my generation was practically raised on the internet."
-msgstr ""
+msgstr "[_R_] Tal vez fuera tabú en tu día, pero recuerda, mi generación fue prácticamente criada en Internet."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8460 #-#-# translate crowdin label_pay_or_dont_945b2fd0:
 msgid "[_M_] Okay, Yay!... Let's do it then."
-msgstr ""
+msgstr "[_M_] Vale, ¡Ya!... Hagámoslo entonces."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8461 #-#-# translate crowdin label_pay_or_dont_628dc8d2:
 msgid "{i}{b}\"Mom's affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Afecto de mamá +1\"{/b}{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8462 #-#-# translate crowdin label_pay_or_dont_26f5223c:
 msgid "[_M_] Oh, would you mind taking my plug out?"
-msgstr ""
+msgstr "[_M_] ¿Te importaría quitarme el tapón?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8463 #-#-# translate crowdin label_pay_or_dont_88aea56f:
 msgid "[_R_] Of course I wouldn't mind."
-msgstr ""
+msgstr "[_R_] Por supuesto que no me importaría."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8469 #-#-# translate crowdin label_pay_or_dont_8dceac32:
 msgid "[_R_] Oh... my... God!"
-msgstr ""
+msgstr "[_R_] Oh... mi... ¡Dios!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8470 #-#-# translate crowdin label_pay_or_dont_da7080fb:
 msgid "[_M_] Don't stare at my gaping anus!"
-msgstr ""
+msgstr "[_M_] ¡No me mires mi ano abierto!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8471 #-#-# translate crowdin label_pay_or_dont_bdf0e54d:
 msgid "[_M_] You're making me feel embarassed!"
-msgstr ""
+msgstr "[_M_] ¡Me estás haciendo sentir avergonzada!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8472 #-#-# translate crowdin label_pay_or_dont_9de4eb60:
 msgid "[_R_] Please don't move! I want to see it!"
-msgstr ""
+msgstr "[_R_] ¡Por favor, no te muevas! ¡Quiero verlo!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8473 #-#-# translate crowdin label_pay_or_dont_19e64904:
 msgid "[_M_] Why?"
@@ -16514,11 +16514,11 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8474 #-#-# translate crowdin label_pay_or_dont_d48e55d7:
 msgid "[_R_] I don't know why... but it fucking turns me on."
-msgstr ""
+msgstr "[_R_] No sé por qué... pero me excita."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8475 #-#-# translate crowdin label_pay_or_dont_2a4a60dc:
 msgid "[_M_] You're making me blush."
-msgstr ""
+msgstr "[_M_]  Me estás haciendo sonrojar."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8476 #-#-# translate crowdin label_pay_or_dont_9040f0a8:
 msgid "[_M_] ...."
@@ -16526,75 +16526,75 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8477 #-#-# translate crowdin label_pay_or_dont_4d9bcc15:
 msgid "[_M_] Okay, enough staring into my asshole! Come stick your dick in it already!"
-msgstr ""
+msgstr "[_M_] ¡Basta de mirarme el culo! ¡Ven a meterme la polla ya!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8478 #-#-# translate crowdin label_pay_or_dont_2188e4f9:
 msgid "[_RT_] {i}Fuuuck... I never thought I'd hear Mom say those words!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Joooder... ¡Nunca pensé que iba a escuchar a Mamá decir esas! palabras!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8485 #-#-# translate crowdin label_pay_or_dont_b8a2f1ab:
 msgid "[_M_] Oh... God!... I... feel... so... full!"
-msgstr ""
+msgstr "[_M_] Oh... ¡Dios!... yo... siento... ¡bien!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8486 #-#-# translate crowdin label_pay_or_dont_3d031da6:
 msgid "[_M_] You're bigger... than the plug!"
-msgstr ""
+msgstr "[_M_] ¡Eres más grande... que el plug!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8487 #-#-# translate crowdin label_pay_or_dont_bb7ae18b:
 msgid "[_M_] I'm so glad... I loosened myself... up with it!"
-msgstr ""
+msgstr "[_M_] Estoy tan contenta... Me aflojé... ¡Con él!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8493 #-#-# translate crowdin label_pay_or_dont_2f257c14:
 msgid "[_R_] Yeah... I can actually... slide in and out... of there now."
-msgstr ""
+msgstr "[_R_] Sí... en realidad puedo deslizarme... ahora mismo."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8494 #-#-# translate crowdin label_pay_or_dont_d5368135:
 msgid "[_R_] And with time... I'm sure I'll be able... to get deeper and deeper."
-msgstr ""
+msgstr "[_R_] Y con el tiempo... Estoy seguro de que podré... profundizar más y más."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8497 #-#-# translate crowdin label_pay_or_dont_d7330873:
 msgid "[_MT_] {i}How is it possible that my son's cock in my ass makes my pussy feel so good?{/i}"
-msgstr ""
+msgstr "[_MT_] {i}¿Cómo es posible que la polla de mi hijo en mi culo haga que mi coño se sienta tan bien?{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8498 #-#-# translate crowdin label_pay_or_dont_dd98dd1a:
 msgid "[_MT_] {i}I know there's some kind of mental aspect to it... Eating the forbidden fruit, maybe?{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Sé que hay algún tipo de aspecto mental en ello... ¿Comer la fruta prohibida, tal vez?{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8499 #-#-# translate crowdin label_pay_or_dont_41705477:
 msgid "[_MT_] {i}God... I'm getting close!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Dios... Me acerco!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8502 #-#-# translate crowdin label_pay_or_dont_2e6343f0:
 msgid "[_M_] [ryan]!... I'm going to..."
-msgstr ""
+msgstr "[_M_] [ryan]!... Voy a..."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8511 #-#-# translate crowdin label_pay_or_dont_59043139:
 msgid "[_M_] Fffuuuck!"
-msgstr ""
+msgstr "[_M_] Fffuuuck!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8516 #-#-# translate crowdin label_pay_or_dont_a807b7c1:
 msgid "[_M_] Mmm... Wow!"
-msgstr ""
+msgstr "[_M_] Mmm... ¡Wow!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8517 #-#-# translate crowdin label_pay_or_dont_6ee8a5a8:
 msgid "[_M_] Your father could never make me cum like that!"
-msgstr ""
+msgstr "[_M_] ¡Tu padre nunca podría hacerme acabar así!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8518 #-#-# translate crowdin label_pay_or_dont_4b0bb0c9:
 msgid "[_M_] Before you came along, I only ever squirted when I took care of myself."
-msgstr ""
+msgstr "[_M_] Antes de que llegaras, solo me corría cuando me cuidaba."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8519 #-#-# translate crowdin label_pay_or_dont_8fb4fb4b:
 msgid "[_M_] I can't believe the best sex of my life is with my son!"
-msgstr ""
+msgstr "[_M_] No puedo creer que el mejor sexo de mi vida sea con mi hijo!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8520 #-#-# translate crowdin label_pay_or_dont_712f7a03:
 msgid "[_R_] Doesn't the forbidden just make it so much hotter?"
-msgstr ""
+msgstr "[_R_] ¿No es lo prohibido lo que hace mucho más caliente?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8521 #-#-# translate crowdin label_pay_or_dont_822766f3:
 msgid "[_M_] God... it really fucking does!"
-msgstr ""
+msgstr "[_M_] Dios... ¡realmente la mierda hace!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8522 #-#-# translate crowdin label_pay_or_dont_7a379bd5:
 msgid "{i}{b}\"Mom's Libido -5\"{/b}{/i}"
@@ -16602,11 +16602,11 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8523 #-#-# translate crowdin label_pay_or_dont_632c7887:
 msgid "[_M_] I'm impressed you were able to keep yourself from cumming before I did."
-msgstr ""
+msgstr "[_M_] Me impresiona que hayas podido evitar correrte antes que yo."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8524 #-#-# translate crowdin label_pay_or_dont_976522e0:
 msgid "[_M_] Now, you can fuck me however you would like."
-msgstr ""
+msgstr "[_M_] Ahora, puedes follarme como quieras."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8538 #-#-# translate crowdin label_reward_pussy_198ec814:
 msgid "[_M_] Oh, grab that plug and put it back in, would you?"
@@ -44486,7 +44486,7 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:21883 #-#-# translate crowdin label_gal_aunt_06_59043139:
 msgid "[_M_] Fffuuuck!"
-msgstr ""
+msgstr "[_M_] Fffuuuck!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:21884 #-#-# translate crowdin label_gal_aunt_06_bd26ac83:
 msgid "[_M_] How did I get there so quickly?!"
@@ -62418,7 +62418,7 @@ msgstr "[_RT_] ¡Y ese es todo el recuerdo que tengo de ese evento!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:29511 #-#-# translate crowdin label_gal_ntr_club_09a446a5:
 msgid "[_RT_] {i}I think I remember my way to the strip pole.... {/i}"
-msgstr "[_RT_] {i} Creo recordar el camino hacia el poste de estriptís... {/i}"
+msgstr "[_RT_] {i} Creo recordar el camino hacia el escenario de estriptís... {/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:29514 #-#-# translate crowdin label_gal_ntr_club_bbbc8890:
 msgid "[_RT_] {i}Past the bar, through the casino, and Bingo!{/i}"
