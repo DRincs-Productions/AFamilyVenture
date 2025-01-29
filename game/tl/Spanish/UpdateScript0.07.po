@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-01-29 10:27\n"
+"PO-Revision-Date: 2025-01-29 12:32\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.07.rpy:1024 #-#-# translate crowdin send_will_email_910761e6:
 msgid "[_RT_] {i}Ok, I've let Will Tylor know that Mom will be willing to meet him for dinner, now I just need to wait and see if he'll come through with the dress code changes.{/i}"
@@ -5682,7 +5682,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:4299 #-#-# translate crowdin meeting_miss_jessica_7bd0559b:
 msgid "[_R_] Huh?..."
-msgstr ""
+msgstr "[_R_] Eh?..."
 
 # game/UpdateScript0.07.rpy:4300 #-#-# translate crowdin meeting_miss_jessica_f5877e62:
 msgid "[_MJ_] You do know that Matt is running for student body president, right?"
@@ -15250,7 +15250,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:9752 #-#-# translate crowdin newclasslecture_f8055650:
 msgid "[_M_] [ryan]?"
-msgstr ""
+msgstr "¿[_M_] [ryan]?"
 
 # game/UpdateScript0.07.rpy:9753 #-#-# translate crowdin newclasslecture_9040f0a8:
 msgid "[_M_] ...."
@@ -15594,7 +15594,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:9899 #-#-# translate crowdin newclasslecture_f8055650_1:
 msgid "[_M_] [ryan]?"
-msgstr ""
+msgstr "¿[_M_] [ryan]?"
 
 # game/UpdateScript0.07.rpy:9900 #-#-# translate crowdin newclasslecture_9040f0a8_1:
 msgid "[_M_] ...."
@@ -15834,7 +15834,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:10009 #-#-# translate crowdin newclasslecture_f8055650_2:
 msgid "[_M_] [ryan]?"
-msgstr ""
+msgstr "¿[_M_] [ryan]?"
 
 # game/UpdateScript0.07.rpy:10010 #-#-# translate crowdin newclasslecture_9040f0a8_2:
 msgid "[_M_] ...."
@@ -15878,7 +15878,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:10032 #-#-# translate crowdin newclasslecture_404e4655:
 msgid "[_M_] Just come and take it."
-msgstr ""
+msgstr "[_M_] Ven a tomarlo."
 
 # game/UpdateScript0.07.rpy:10044 #-#-# translate crowdin newclasslecture_909470b3:
 msgid "[_RT_] {i}God, that's hot!{/i}"
