@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-07-23 07:49\n"
+"PO-Revision-Date: 2025-02-17 12:28\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScriptHalloweenEvent.rpy:256 #-#-# translate crowdin halloween_event_start_36b1bdbb:
 msgid "{i}{b}(HINT){/b} Happy Halloween!{/i}"
@@ -474,7 +474,7 @@ msgstr "[ _MB_] {i}(Kapının arkasından fırfırlar) uyuşturucu mu var? Neden
 
 # game/UpdateScriptHalloweenEvent.rpy:639 #-#-# translate crowdin found_sidney_inside_out_993f8d56:
 msgid "[_M_] {i}(Shouting){/i}Matt, and everybody else! Party's over, go home!"
-msgstr ""
+msgstr "[_M_] {i}(Bağırarak){/i}Matt ve diğer herkes! Parti bitti, evinize gidin!"
 
 # game/UpdateScriptHalloweenEvent.rpy:640 #-#-# translate crowdin found_sidney_inside_out_2a4054dc:
 msgid "[_MG_] {i}(Muffled from behind the door){/i} We're on our way out the door Miss [mom_name]! Thanks for having us!"
