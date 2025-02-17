@@ -10,31 +10,31 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-02-03 16:17\n"
+"PO-Revision-Date: 2025-02-17 12:28\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.09.rpy:564 #-#-# translate crowdin myroom_post_cami_fight_8a5367c3:
 msgid "[_R_] I'm not ready to sleep yet... I should go talk to Mom and Lauren before I come back to bed."
-msgstr "Henüz uyumaya hazır değilim. Yatağa dönmeden önce annemle ve Lauren ile konuşmalıyım."
+msgstr "Henüz uyumaya hazır değilim... Yatmadan önce annemle ve Lau konuşmalıyım."
 
 # game/UpdateScript0.09.rpy:572 #-#-# translate crowdin myroom_post_cami_fight_93409041:
 msgid "[_R_] I'm not ready to sleep yet... I should go talk to Mom before I come back to bed."
-msgstr "Henüz uyumaya hazır değilim. Yatağa dönmeden önce annemle konuşmam lazım."
+msgstr "Henüz uyumaya hazır değilim... Yatmadan önce annemle ve Lauren'le konuşmalıyım"
 
 # game/UpdateScript0.09.rpy:580 #-#-# translate crowdin myroom_post_cami_fight_9c164ab1:
 msgid "[_R_] I'm not reay to sleep yet... I should go talk to Lauren before I come back to bed."
-msgstr "Henüz uyuyamıyorum. Yatağa dönmeden önce Lauren ile konuşmalıyım."
+msgstr "Henüz uyumaya hazır değilim... Yatmadan önce annemle ve Lauren'le konuşmalıyım"
 
 # game/UpdateScript0.09.rpy:588 #-#-# translate crowdin myroom_post_cami_fight_2c140ae1:
 msgid "[_RT_] {i}Fuck... I haven't resolved anything!... Maybe I should just get some sleep and attack the problem with a rested brain tomorrow.{/i}"
-msgstr "[ _RT_] {i}S* ... Hiçbir şeyi çözmedim! Belki de biraz uyumalıyım ve yarın dinlenmiş bir beyinle ilgili soruna saldırmalıyım. { /i }"
+msgstr "[_RT_] {i}Kahretsin... Hiçbir şeyi çözemedim! Belki de biraz uyumalı ve yarın dinlenmiş bir beyinle soruna saldırmalıyım.{/i}"
 
 # game/UpdateScript0.09.rpy:589 #-#-# translate crowdin myroom_post_cami_fight_72e7dbfe:
 msgid "[_RT_] {i}It has been a long night... It's going to feel good to just cuddle up to Sidney and sleep like a log.{/i}"
-msgstr "[ _RT_] {i}Uzun bir gece oldu ... Sidney 'e sarılıp, bir kütük gibi uyumak iyi hissettirecek. { /i }"
+msgstr "[_RT_] {i}Uzun bir gece oldu.Sidney'e sarılıp kütük gibi uyumak iyi hissettirecek.{/i}"
 
 # game/UpdateScript0.09.rpy:597 #-#-# translate crowdin myroom_post_cami_fight_1057db12:
 msgid "[_R_] Hey, Sis... I wanted to..."
-msgstr "Hey, Sis ... İstedim ki ..."
+msgstr "[_R_] Hey, abla... Ben istedim ki..."
 
 # game/UpdateScript0.09.rpy:598 #-#-# translate crowdin myroom_post_cami_fight_70cf7f50:
 msgid "[_R_] What are you doing?"
@@ -66,7 +66,7 @@ msgstr "Keşke tasarım derecemi alsaydım. Joey 'nin kulübü muhtemelen ihtiya
 
 # game/UpdateScript0.09.rpy:609 #-#-# translate crowdin myroom_post_cami_fight_f0ad4e2c:
 msgid "[_R_] But, Mom said..."
-msgstr "[ _R_] Ama, annem dedi ki ..."
+msgstr "[_R_] Ama, annem dedi ki..."
 
 # game/UpdateScript0.09.rpy:610 #-#-# translate crowdin myroom_post_cami_fight_8a15ff1d:
 msgid "[_S_] I know what mom said."
@@ -78,11 +78,11 @@ msgstr "[ _R_] Ama kalabalık tehlikeli ..."
 
 # game/UpdateScript0.09.rpy:614 #-#-# translate crowdin myroom_post_cami_fight_8590b9fd:
 msgid "[_S_] Hey, don't worry, Half-Pint."
-msgstr "Hey, merak etme, yarım Pint."
+msgstr "[ _R_] Ama kalabalık tehlikeli"
 
 # game/UpdateScript0.09.rpy:615 #-#-# translate crowdin myroom_post_cami_fight_6898a2a8:
 msgid "[_S_] Your big sis won't let anything happen to you or Lauren."
-msgstr "Senin büyük kardeşin, sana ya da Lauren 'a bir şey olmasına izin vermez."
+msgstr "Senin büyük kardeşin, sana ya da Lauren  bir şey olmasına izin vermez"
 
 # game/UpdateScript0.09.rpy:616 #-#-# translate crowdin myroom_post_cami_fight_20e43209:
 msgid "[_R_] But!..."
@@ -98,7 +98,7 @@ msgstr "[_R_] ..."
 
 # game/UpdateScript0.09.rpy:623 #-#-# translate crowdin myroom_post_cami_fight_6e2d7b93:
 msgid "[_RT_] {i}She hasn't called me Half-Pint since before she left for college.{/i}"
-msgstr "[ _RT_] {i}üniversiteden ayrılmadan önce bana yarım Pint dememiş."
+msgstr "[_RT_] {i}Üniversiteye gitmeden önce bana demiyordu.{/i}"
 
 # game/UpdateScript0.09.rpy:624 #-#-# translate crowdin myroom_post_cami_fight_6b525a20:
 msgid "[_RT_] {i}I hate that dammed nickname!{/i}"
@@ -106,7 +106,7 @@ msgstr "[ _RT_] {i}Bu lanet lakabından nefret ediyorum!"
 
 # game/UpdateScript0.09.rpy:625 #-#-# translate crowdin myroom_post_cami_fight_c2cccf2a:
 msgid "[_RT_] {i}She didn't even ask about working with me at my studio to make more money.{/i}"
-msgstr "[ _RT_] {i}Daha fazla para kazanmak için stüdyomda benimle çalışmayı bile sormadı. { /i }"
+msgstr "[_RT_] {i}Daha fazla para kazanmak için stüdyomda benimle çalışmayı bile istemedi.{/i}"
 
 # game/UpdateScript0.09.rpy:626 #-#-# translate crowdin myroom_post_cami_fight_9d48c052:
 msgid "[_RT_] {i}I guess she's never been involved on the business side of it. She wouldn't know how much money I've been able to make.{/i}"
@@ -114,7 +114,7 @@ msgstr "{i}sanırım hiçbir zaman iş için bu işe karışmamış. Ne kadar pa
 
 # game/UpdateScript0.09.rpy:627 #-#-# translate crowdin myroom_post_cami_fight_681ac809:
 msgid "[_RT_] {i}Asking her to share her tips from the club probably didn't give her a good impression of my earning potential.{/i}"
-msgstr "[ _RT_] {i}Onu kulüpten gelen ipuçlarını paylaşmak için asmak muhtemelen benim kazanç potansiyelimle ilgili iyi bir izlenim vermemiştir. { /i }"
+msgstr "[_RT_] {i}Ondan kulüpteki tüyolarını paylaşmasını istemek muhtemelen benim kazanç potansiyelim hakkında iyi bir izlenim bırakmamıştır.{/i}"
 
 # game/UpdateScript0.09.rpy:628 #-#-# translate crowdin myroom_post_cami_fight_d371f129:
 msgid "[_RT_] {i}If I want her to respect my business prowess, I should include her in more than just making costumes. That way she'd see how good I am at this.{/i}"
@@ -122,7 +122,7 @@ msgstr "[ _RT_] {i}Eğer onun iş hünerime saygı göstermesini istiyorsam, onu
 
 # game/UpdateScript0.09.rpy:629 #-#-# translate crowdin myroom_post_cami_fight_95eb3868:
 msgid "[_RT_] {i}Maybe she'd have some good ideas too. I certainly could use help if I want my business to keep growing.{/i}"
-msgstr "[ _RT_] {i}Belki onun da iyi fikirleri vardır. İşimin büyümesini sürdürmesini istiyorsam, kesinlikle yardım edebilirim. { /i }"
+msgstr "[_RT_] {i}Eğer iş becerilerime saygı duymasını istiyorsam, onu sadece kostüm yapmaktan daha fazlasına dahil etmeliyim. Böylece bu işte ne kadar iyi olduğumu görecektir."
 
 # game/UpdateScript0.09.rpy:639 #-#-# translate crowdin pay_or_dont_794eda07:
 msgid "[_RT_] {i}I can't believe it's becoming so normal for us to have frequent conversations with a mafia boss!{/i}"
@@ -138,15 +138,15 @@ msgstr ""
 
 # game/UpdateScript0.09.rpy:645 #-#-# translate crowdin pay_or_dont_19aabf6b:
 msgid "[_J_] It took you long enough... I don't like to be kept waiting. I've got loads to do."
-msgstr "[ _J_] Yeterince uzun sürdü ... Bekletilmekten hoşlanmam. Yapmam gereken bir sürü iş var."
+msgstr "[_J_] Yeterince uzun sürdü... Bekletilmekten hoşlanmıyorum. Yapacak bir sürü işim var."
 
 # game/UpdateScript0.09.rpy:646 #-#-# translate crowdin pay_or_dont_a5200cea:
 msgid "[_R_] You should just send your driver to collect, then. You shouldn't have to come personally."
-msgstr "O zaman sadece şoförünüzü göndermelisiniz. Kişisel olarak gelmene gerek yok."
+msgstr "[O zaman şoförünüzü gönderip aldırmalısınız. Şahsen gelmenize gerek yok."
 
 # game/UpdateScript0.09.rpy:647 #-#-# translate crowdin pay_or_dont_b348e8af:
 msgid "[_J_] Yeah, right? Except, if you're able to make the payment, this could be the only time I get to see [mom_name] this week."
-msgstr "-Evet, değil mi? Eğer ödemeyi yapabildiyseniz, bu hafta [ mom_name] görmenin tek yolu bu olabilir."
+msgstr "[Evet, değil mi? Bunun dışında, eğer ödemeyi yapabilirseniz, bu hafta [mom_name] görebileceğim tek zaman bu olabilir."
 
 # game/UpdateScript0.09.rpy:648 #-#-# translate crowdin pay_or_dont_ad3e1ae0:
 msgid "[_J_] Is she almost ready?"
@@ -162,7 +162,7 @@ msgstr "Bir kapı sesi duyduğumu sandım."
 
 # game/UpdateScript0.09.rpy:653 #-#-# translate crowdin pay_or_dont_3ad25990:
 msgid "[_M_] Hi, Joey."
-msgstr "Merhaba, Joey."
+msgstr "[Merhaba Joey."
 
 # game/UpdateScript0.09.rpy:654 #-#-# translate crowdin pay_or_dont_e21a0423:
 msgid "[_J_] You look fucking beautiful, as always!"
@@ -170,7 +170,7 @@ msgstr "Her zamanki gibi çok güzel görünüyorsun!"
 
 # game/UpdateScript0.09.rpy:655 #-#-# translate crowdin pay_or_dont_3c191332:
 msgid "[_RT_] {i}Goddam! She really does!{/i}"
-msgstr "[ _RT_] {i}Goddam! Gerçekten de öyle!"
+msgstr "[_RT_] {i}Lanet olsun! Gerçekten öyle!{/i}"
 
 # game/UpdateScript0.09.rpy:658 #-#-# translate crowdin pay_or_dont_9a9dabcf:
 msgid "[_M_] Well, [ryan]?"
@@ -206,23 +206,23 @@ msgstr "[ _J_] Ailenizin borçlarını ödediğiniz için son derece onurlu bir 
 
 # game/UpdateScript0.09.rpy:674 #-#-# translate crowdin pay_or_dont_ddd7875c:
 msgid "[_J_] I think in time, you could become a much greater asset to us than your father..."
-msgstr "Bence zamanında, bize babasından daha büyük bir varlık haline gelebilirdin."
+msgstr "Zamanla bizim için babandan çok daha büyük bir değer haline gelebilirsin..."
 
 # game/UpdateScript0.09.rpy:675 #-#-# translate crowdin pay_or_dont_80ed5abb:
 msgid "[_M_] Don't encourage him, Joey!"
-msgstr "Onu cesaretlendirmeyin, Joey!"
+msgstr " Onu cesaretlendirme"
 
 # game/UpdateScript0.09.rpy:676 #-#-# translate crowdin pay_or_dont_dd70229f:
 msgid "[_M_] I don't want [ryan] to have any part in your... business."
-msgstr "[ Ryan] [ Ryan] ' ın sizin ... işinizde bir parçası olmasını istemiyorum."
+msgstr " [ryan] senin işine karışmasını istemiyorum."
 
 # game/UpdateScript0.09.rpy:678 #-#-# translate crowdin pay_or_dont_9bb547eb:
 msgid "[_J_] I'm sorry, [mom_name]... I shouldn't have brought that up again."
-msgstr "[ _J_] Özür dilerim, [ momen_name] ... Bunu tekrar gündeme getirmemeliydim."
+msgstr "Özür dilerim, [mom_name]... Hiçbir şey söylememeliydim."
 
 # game/UpdateScript0.09.rpy:680 #-#-# translate crowdin pay_or_dont_8e24acb7:
 msgid "[_J_] I'm sorry, [mom_name]... I shouldn't have said anything."
-msgstr "[ _J_] Özür dilerim, [ momen_name] ... Hiçbir şey söylememeliydim."
+msgstr "Özür dilerim, [mom_nameı]... Hiçbir şey söylememeliydim."
 
 # game/UpdateScript0.09.rpy:683 #-#-# translate crowdin pay_or_dont_5597ed21:
 msgid "[_M_] Thank you, [ryan]!"
