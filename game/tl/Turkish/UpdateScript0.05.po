@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-02-03 17:25\n"
+"PO-Revision-Date: 2025-02-17 10:24\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.05.rpy:476 #-#-# translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -2130,7 +2130,7 @@ msgstr "[ _R_] Ama ben üzgün değilim! Eğer böyle bir şey yaşanmasaydı, b
 
 # game/UpdateScript0.05.rpy:1490 #-#-# translate crowdin sidney_search_b4caa6c2:
 msgid "[_RT_] {i}If there's a hell, I'm sure I'm going there for that stunt.{/i}"
-msgstr ""
+msgstr "{i}Eğer bir cehennem varsa, bu gösteri için oraya gideceğimden eminim.{/i}"
 
 # game/UpdateScript0.05.rpy:1491 #-#-# translate crowdin sidney_search_ace36b10:
 msgid "[_R_] I would have freaked out and kicked you out, told Mom, and you probably would have been kicked out of the house. Then we wouldn't have gotten as close as we have this past little while."
