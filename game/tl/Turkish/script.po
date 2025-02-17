@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-07-23 07:50\n"
+"PO-Revision-Date: 2025-02-17 18:02\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -546,7 +546,7 @@ msgstr "[_RT_] {i}Bunun aylık bir gelir olduğu için kötü bir şey ama yine 
 
 # game/script.rpy:1516 #-#-# translate crowdin computer_45e1eea6:
 msgid "[_RT_] {i}Let's start uploading those pictures now.... {p}and click submit.... {p}and now we just wait to see if anyone likes them so much that they'll become our supporter.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Şimdi bu resimleri yüklemeye başlayalım.... {p}ve gönder'e tıklayalım.... {p}ve şimdi sadece onları destekçimiz olacak kadar çok beğenen olup olmadığını görmeyi bekleyelim.{/i}"
 
 # game/script.rpy:1517 #-#-# translate crowdin computer_39027316:
 msgid "[_RT_] {i}Hmmm.... let me see how the page turned out before I go.{/i}"
@@ -670,7 +670,7 @@ msgstr "[_S_] EHHHHEEEEEMMMM..."
 
 # game/script.rpy:2208 #-#-# translate crowdin sleep_d16b4e81:
 msgid "[_RT_] {i}I hope Lauren was okay on her own, I should just go check on her before I go to bed.{/i}"
-msgstr ""
+msgstr "Umarım Lauren tek başına iyiydi, yatmadan önce gidip onu kontrol etmeliyim."
 
 # game/script.rpy:2501 #-#-# translate crowdin sleep_ac0c56b3:
 msgid "Are you sure you want to sleep until tomorrow?"
@@ -2130,7 +2130,7 @@ msgstr ""
 
 # game/script.rpy:4674 #-#-# translate crowdin kitcheneveningweekend_87d7d54e:
 msgid "[_M_] Oh, hi honey, yes, I'm doing much better now."
-msgstr ""
+msgstr "Merhaba tatlım, evet, şimdi çok daha iyiyim."
 
 # game/script.rpy:4675 #-#-# translate crowdin kitcheneveningweekend_4ad8ebb3:
 msgid "[_R_] What are you drinking?"
@@ -2298,7 +2298,7 @@ msgstr ""
 
 # game/script.rpy:4731 #-#-# translate crowdin kitcheneveningweekend_2bbbbd28:
 msgid "[_R_] Hmmm.... well do you promise me you won't drink anymore today?"
-msgstr ""
+msgstr "[_R_] Hmmm.... peki bugün daha fazla içmeyeceğine söz veriyor musun?"
 
 # game/script.rpy:4732 #-#-# translate crowdin kitcheneveningweekend_dc7637dc:
 msgid "[_M_] I don't have to promise you anything!"
