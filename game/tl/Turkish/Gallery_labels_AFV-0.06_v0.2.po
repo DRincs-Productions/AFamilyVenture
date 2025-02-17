@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-02-17 10:24\n"
+"PO-Revision-Date: 2025-02-17 12:28\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/Gallery_labels_AFV-0.06_v0.2.rpy:15 #-#-# translate crowdin label_gal_mom_drunk_e1aba2f6:
 msgid "[_RT_] {i}Hmmm.... no answer. I don't have a key, but I'm started to get a little worried about her.{/i}"
@@ -10013,7 +10013,7 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:5053 #-#-# translate crowdin label_gal_jacky_morning_hj_90f5cbab:
 msgid "[_M_] Umm... Are you sure they weren't dirty? Why don't you just put on another pair?"
-msgstr ""
+msgstr "[_M_] Umm... Kirli olmadıklarına emin misin? Neden başka bir çift giymiyorsun?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:5054 #-#-# translate crowdin label_gal_jacky_morning_hj_2a125140:
 msgid "[_L_] No, they're clean. Can I..."
@@ -15813,15 +15813,15 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8167 #-#-# translate crowdin label_pay_or_dont_19aabf6b:
 msgid "[_J_] It took you long enough... I don't like to be kept waiting. I've got loads to do."
-msgstr "[ _J_] Yeterince uzun sürdü ... Bekletilmekten hoşlanmam. Yapmam gereken bir sürü iş var."
+msgstr "[_J_] Yeterince uzun sürdü... Bekletilmekten hoşlanmıyorum. Yapacak bir sürü işim var."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8168 #-#-# translate crowdin label_pay_or_dont_a5200cea:
 msgid "[_R_] You should just send your driver to collect, then. You shouldn't have to come personally."
-msgstr "O zaman sadece şoförünüzü göndermelisiniz. Kişisel olarak gelmene gerek yok."
+msgstr "[O zaman şoförünüzü gönderip aldırmalısınız. Şahsen gelmenize gerek yok."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8169 #-#-# translate crowdin label_pay_or_dont_b348e8af:
 msgid "[_J_] Yeah, right? Except, if you're able to make the payment, this could be the only time I get to see [mom_name] this week."
-msgstr "-Evet, değil mi? Eğer ödemeyi yapabildiyseniz, bu hafta [ mom_name] görmenin tek yolu bu olabilir."
+msgstr "[Evet, değil mi? Bunun dışında, eğer ödemeyi yapabilirseniz, bu hafta [mom_name] görebileceğim tek zaman bu olabilir."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8170 #-#-# translate crowdin label_pay_or_dont_ad3e1ae0:
 msgid "[_J_] Is she almost ready?"
@@ -15837,7 +15837,7 @@ msgstr "Bir kapı sesi duyduğumu sandım."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8175 #-#-# translate crowdin label_pay_or_dont_3ad25990:
 msgid "[_M_] Hi, Joey."
-msgstr "Merhaba, Joey."
+msgstr "[Merhaba Joey."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8176 #-#-# translate crowdin label_pay_or_dont_e21a0423:
 msgid "[_J_] You look fucking beautiful, as always!"
@@ -15845,7 +15845,7 @@ msgstr "Her zamanki gibi çok güzel görünüyorsun!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8177 #-#-# translate crowdin label_pay_or_dont_3c191332:
 msgid "[_RT_] {i}Goddam! She really does!{/i}"
-msgstr "[ _RT_] {i}Goddam! Gerçekten de öyle!"
+msgstr "[_RT_] {i}Lanet olsun! Gerçekten öyle!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8180 #-#-# translate crowdin label_pay_or_dont_9a9dabcf:
 msgid "[_M_] Well, [ryan]?"
@@ -15881,19 +15881,19 @@ msgstr "[ _J_] Ailenizin borçlarını ödediğiniz için son derece onurlu bir 
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8193 #-#-# translate crowdin label_pay_or_dont_ddd7875c:
 msgid "[_J_] I think in time, you could become a much greater asset to us than your father..."
-msgstr "Bence zamanında, bize babasından daha büyük bir varlık haline gelebilirdin."
+msgstr "Zamanla bizim için babandan çok daha büyük bir değer haline gelebilirsin..."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8194 #-#-# translate crowdin label_pay_or_dont_80ed5abb:
 msgid "[_M_] Don't encourage him, Joey!"
-msgstr "Onu cesaretlendirmeyin, Joey!"
+msgstr " Onu cesaretlendirme"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8195 #-#-# translate crowdin label_pay_or_dont_dd70229f:
 msgid "[_M_] I don't want [ryan] to have any part in your... business."
-msgstr "[ Ryan] [ Ryan] ' ın sizin ... işinizde bir parçası olmasını istemiyorum."
+msgstr " [ryan] senin işine karışmasını istemiyorum."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8196 #-#-# translate crowdin label_pay_or_dont_8e24acb7:
 msgid "[_J_] I'm sorry, [mom_name]... I shouldn't have said anything."
-msgstr "[ _J_] Özür dilerim, [ momen_name] ... Hiçbir şey söylememeliydim."
+msgstr "Özür dilerim, [mom_nameı]... Hiçbir şey söylememeliydim."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8199 #-#-# translate crowdin label_pay_or_dont_5597ed21:
 msgid "[_M_] Thank you, [ryan]!"
@@ -28158,11 +28158,11 @@ msgstr "Biraz sapıkça görünüyor."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:14429 #-#-# translate crowdin label_gal_Sidney_sex_76cb55f3:
 msgid "[_A_] {i}(whispering){/i}Yeah, I think it's some kind of kinky sex furniture, but I guess someone figured out it's pretty good for torture and interrogation and stuff like that."
-msgstr ""
+msgstr "[_A_] {i}(fısıldayarak){/i}Evet, sanırım bir tür sapıkça seks mobilyası, ama sanırım birileri işkence, sorgulama ve bunun gibi şeyler için oldukça iyi olduğunu fark etti."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:14430 #-#-# translate crowdin label_gal_Sidney_sex_0f4ac74b:
 msgid "[_S_] {i}(whispering){/i}What is he going to do to us?"
-msgstr ""
+msgstr "[_S_] {i}(fısıldayarak){/i}Bize ne yapacak?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:14431 #-#-# translate crowdin label_gal_Sidney_sex_f2f2e1df:
 msgid "[_A_] {i}(whispering){/i}He won't do anything to us if he has half a brain."
@@ -32106,7 +32106,7 @@ msgstr "[ _MB_] {i}(Kapının arkasından fırfırlar) uyuşturucu mu var? Neden
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16499 #-#-# translate crowdin label_gal_sidney_loyalty_path_993f8d56:
 msgid "[_M_] {i}(Shouting){/i}Matt, and everybody else! Party's over, go home!"
-msgstr ""
+msgstr "[_M_] {i}(Bağırarak){/i}Matt ve diğer herkes! Parti bitti, evinize gidin!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16500 #-#-# translate crowdin label_gal_sidney_loyalty_path_2a4054dc:
 msgid "[_MG_] {i}(Muffled from behind the door){/i} We're on our way out the door Miss [mom_name]! Thanks for having us!"
@@ -32810,7 +32810,7 @@ msgstr "[ _MB_] {i}(Kapının arkasından fırfırlar) uyuşturucu mu var? Neden
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16998 #-#-# translate crowdin label_gal_sidney_monster_path_993f8d56:
 msgid "[_M_] {i}(Shouting){/i}Matt, and everybody else! Party's over, go home!"
-msgstr ""
+msgstr "[_M_] {i}(Bağırarak){/i}Matt ve diğer herkes! Parti bitti, evinize gidin!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16999 #-#-# translate crowdin label_gal_sidney_monster_path_2a4054dc:
 msgid "[_MG_] {i}(Muffled from behind the door){/i} We're on our way out the door Miss [mom_name]! Thanks for having us!"
