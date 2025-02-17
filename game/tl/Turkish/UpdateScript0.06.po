@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-02-03 16:17\n"
+"PO-Revision-Date: 2025-02-17 12:28\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.06.rpy:715 #-#-# translate crowdin move_in_day_31871088:
 msgid "[_RT_] {i}I... think I slept in... What time is it?{/i}"
@@ -15958,11 +15958,11 @@ msgstr "Biraz sapıkça görünüyor."
 
 # game/UpdateScript0.06.rpy:9501 #-#-# translate crowdin sid_sex_event_76cb55f3:
 msgid "[_A_] {i}(whispering){/i}Yeah, I think it's some kind of kinky sex furniture, but I guess someone figured out it's pretty good for torture and interrogation and stuff like that."
-msgstr ""
+msgstr "[_A_] {i}(fısıldayarak){/i}Evet, sanırım bir tür sapıkça seks mobilyası, ama sanırım birileri işkence, sorgulama ve bunun gibi şeyler için oldukça iyi olduğunu fark etti."
 
 # game/UpdateScript0.06.rpy:9502 #-#-# translate crowdin sid_sex_event_0f4ac74b:
 msgid "[_S_] {i}(whispering){/i}What is he going to do to us?"
-msgstr ""
+msgstr "[_S_] {i}(fısıldayarak){/i}Bize ne yapacak?"
 
 # game/UpdateScript0.06.rpy:9503 #-#-# translate crowdin sid_sex_event_f2f2e1df:
 msgid "[_A_] {i}(whispering){/i}He won't do anything to us if he has half a brain."
