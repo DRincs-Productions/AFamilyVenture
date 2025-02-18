@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-01-03 09:08\n"
+"PO-Revision-Date: 2025-02-18 10:36\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # §translate crowdin strings: #|#|# # game/Phone_gallery.rpy:54
 msgid "{image=images/interface_images/phone_screen_images/images_phone.webp} Photo Gallery"
@@ -146,7 +146,7 @@ msgstr ""
 
 # game/Phone_gallery.rpy:505
 msgid "{image=images/interface_images/phone_screen_images/images_phone.webp} Creepshot pic 07"
-msgstr ""
+msgstr "{image=images/interface_images/phone_screen_images/images_phone.webp} Zdjęcie Creepshot 07"
 
 # game/Phone_gallery.rpy:511
 msgid "{image=images/interface_images/phone_screen_images/images_phone.webp} Creepshot pic 08"
@@ -154,5 +154,5 @@ msgstr ""
 
 # game/Phone_gallery.rpy:517
 msgid "{image=images/interface_images/phone_screen_images/images_phone.webp} Creepshot pic 09"
-msgstr ""
+msgstr "{image=images/interface_images/phone_screen_images/images_phone.webp} Zdjęcie strzał 09"
 
