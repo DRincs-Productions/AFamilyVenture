@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-02-18 09:41\n"
+"PO-Revision-Date: 2025-02-18 10:36\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/Phone_event_screen.rpy:1207 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -598,7 +598,7 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1740 #-#-# translate crowdin event_info_73_349607b2:
 msgid "[_RT_] {i}After what Sidney and I did in the club, I wonder if she'll be willing to go further in the bedroom.{/i}"
-msgstr "[_RT_] {i}Po tym, co Sidney i ja zrobiliśmy w klubie, zastanawiam się, czy będzie chętnie pójść dalej w sypialnii.{/i}"
+msgstr "[_RT_] {i}Po tym, co Sydney i ja zrobiliśmy w klubie, zastanawiam się, czy będzie chętnie pójść dalej w sypialnii.{/i}"
 
 # game/Phone_event_screen.rpy:1744 #-#-# translate crowdin event_info_74_3525a635:
 msgid "[_RT_] {i}After what Sidney and I did in the club, I wonder if she'll be willing to go further after a photoshoot.{/i}"
@@ -882,7 +882,7 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:1985 #-#-# translate crowdin event_info_102_33e7816d:
 msgid "[_RT_] {i}I need to achieve the impossible on my next date with Mom.{/i}"
-msgstr "[_RT_] {i}Muszę dokonać niemożliwego na następnej randce z mamą {/i}."
+msgstr "[_RT_] {i}Muszę dokonać niemożliwego na następnej randce z mamą.{/i}"
 
 # game/Phone_event_screen.rpy:1988 #-#-# translate crowdin event_info_102_d7a69bea:
 msgid "[_RT_] {i}Things are weird with Mom, I need to keep visiting her wherever I can find her until I figure out why.{/i}"
@@ -1086,7 +1086,7 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:2131 #-#-# translate crowdin again_tutorial_ecfc0255:
 msgid "[_M_] With what?"
-msgstr ""
+msgstr "[_M_] Czym?"
 
 # game/Phone_event_screen.rpy:2132 #-#-# translate crowdin again_tutorial_2f540835:
 msgid "[_R_] Ummm.... Homework.... of course!"
