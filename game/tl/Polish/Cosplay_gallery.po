@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-01-03 09:08\n"
+"PO-Revision-Date: 2025-02-18 04:33\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/Cosplay_gallery.rpy:1214 #-#-# translate crowdin cosplay_label_c1f386dd:
 msgid "[_RT_] {i}Yes... I have sold another pair of oufits for $[sold] more.{/i}"
@@ -118,5 +118,7 @@ msgstr ""
 msgid " {b}{color=#ffffff}Press to receive\n"
 "{size=18} monthly earnings:{/size}\n"
 "{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
-msgstr ""
+msgstr " {b}{color=#ffffff}Naciśnij, aby otrzymać\n"
+"{size=18}miesięczne zarobki:{/size}\n"
+"{color=#00ff00}{outlinecolor=#000000}{size=16}          $[var_earnings_from_supporters]{/size}{/outlinecolor}{/color}{/b}"
 
