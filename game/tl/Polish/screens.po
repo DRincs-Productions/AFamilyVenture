@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-01-03 09:08\n"
+"PO-Revision-Date: 2025-02-18 12:18\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:247
 msgid "History"
-msgstr ""
+msgstr "Historia"
 
 # game/screens.rpy:248
 msgid "Skip"
@@ -211,11 +211,11 @@ msgstr ""
 
 # game/screens.rpy:1007
 msgid "The dialogue history is empty."
-msgstr ""
+msgstr "Historia dialogów jest pusta."
 
 # game/screens.rpy:1077
 msgid "Keyboard"
-msgstr ""
+msgstr "Klawiatura"
 
 # game/screens.rpy:1078
 msgid "Mouse"
@@ -320,12 +320,13 @@ msgstr ""
 
 # game/screens.rpy:1157
 msgid "Mouse Wheel Down"
-msgstr ""
+msgstr "Kółko myszy w dół"
 
 # game/screens.rpy:1164
 msgid "Right Trigger\n"
 "A/Bottom Button"
-msgstr ""
+msgstr "Prawy spust\n"
+"A/przycisk dolny"
 
 # game/screens.rpy:1168
 msgid "Left Trigger\n"
@@ -354,5 +355,5 @@ msgstr ""
 
 # game/screens.rpy:1300
 msgid "Skipping"
-msgstr ""
+msgstr "Pomijanie"
 
