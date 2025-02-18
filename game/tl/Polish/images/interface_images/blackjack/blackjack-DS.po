@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-02-18 01:56\n"
+"PO-Revision-Date: 2025-02-18 03:24\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/images/interface_images/blackjack/blackjack-DS.rpy:511 #-#-# translate crowdin startGameBJ_ddfcd22e:
 msgid "[_BJ_dealer_] I'll start dealing the cards!{w=2.0}{nw}"
@@ -58,7 +58,7 @@ msgstr ""
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:671 #-#-# translate crowdin handCheckLabel_3615550f:
 msgid "[_BJ_dealer_] The dealer also has [computerScore], so it's a push! You get your $[betSum] back!{w=2.0}{nw}"
-msgstr ""
+msgstr "[_BJ_dealer_] Krupier również ma [computerScore], więc jest to remis! Otrzymujesz $[betSum] z powrotem! {w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:689 #-#-# translate crowdin noMoney_9706b720:
 msgid "[_BJ_dealer_] Sorry! You don't have enough money!{w=2.0}{nw}"
