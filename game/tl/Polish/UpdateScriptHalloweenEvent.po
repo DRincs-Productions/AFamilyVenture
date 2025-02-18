@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-01-03 09:08\n"
+"PO-Revision-Date: 2025-02-18 12:18\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScriptHalloweenEvent.rpy:256 #-#-# translate crowdin halloween_event_start_36b1bdbb:
 msgid "{i}{b}(HINT){/b} Happy Halloween!{/i}"
-msgstr ""
+msgstr "{i}{b}(HINT){/b} Wesołego Halloween! {/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:266 #-#-# translate crowdin halloween_event_start_5c240a68:
 msgid "{b}{i}\"Happy Halloween, and welcome to \"Stranger Ventures\"!\"{/i}{/b}"
@@ -22,19 +22,19 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:267 #-#-# translate crowdin halloween_event_start_bea662cf:
 msgid "{b}{i}\"If you would like to skip this event, you can do so now.\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Jeśli chcesz pominąć to wydarzenie, możesz to zrobić teraz\" {/i}{/b}."
 
 # game/UpdateScriptHalloweenEvent.rpy:270 #-#-# translate crowdin halloween_event_start_1e33d05a:
 msgid "{b}{i}\"The Halloween special will be available in the main menu gallery to play later if you would like.\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Halloween owa gra specjalna będzie dostępna w galerii w menu głównym, aby zagrać w nią później, jeśli chcesz.\" {/i}{/b}"
 
 # game/UpdateScriptHalloweenEvent.rpy:278 #-#-# translate crowdin halloween_event_start_c43cc938:
 msgid "{b}{i}\"The choices you make in this event will have no consequences in the main story line of the game.\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Wybory dokonane w tym wydarzeniu nie będą miały konsekwencji w głównej linii fabularnej gry\" {/i}{/b}."
 
 # game/UpdateScriptHalloweenEvent.rpy:279 #-#-# translate crowdin halloween_event_start_97cbda75:
 msgid "{b}{i}\"They will however make a difference in future chapters of our Halloween event.\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Zrobią one jednak różnicę w przyszłych rozdziałach naszego Halloween owego wydarzenia\" {/i}{/b}."
 
 # game/UpdateScriptHalloweenEvent.rpy:280 #-#-# translate crowdin halloween_event_start_62c4ee5d:
 msgid "{b}{i}\"We hope you enjoy!\"{/i}{/b}"
@@ -86,7 +86,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:331 #-#-# translate crowdin scary_wakeup_a18b2d73:
 msgid "[_RT_] {i}I can't believe it's morning already!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nie mogę uwierzyć, że jest już ranek!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:332 #-#-# translate crowdin scary_wakeup_9036761d:
 msgid "[_RT_] {i}Fuck... What was I even dreaming about?{/i}"
@@ -110,7 +110,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:357 #-#-# translate crowdin scary_wakeup_14f69d06:
 msgid "{b}{i}\"Due to your outstanding achievements in the field of fuckery, you have won the \"Ten of Clubs\" Card!{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Ze względu na twoje wybitne osiągnięcia w dziedzinie pieprzenia, wygrałeś kartę \"Dziesiątka trefl\"!{/i}{/b}."
 
 # game/UpdateScriptHalloweenEvent.rpy:358 #-#-# translate crowdin scary_wakeup_aff0e59d:
 msgid "{b}{i}\"View this card in the gallery and casino\"{/i}{/b}"
@@ -202,7 +202,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:441 #-#-# translate crowdin sidney_grabbed_1ec4bff4:
 msgid "[_S_] Why is it growing?"
-msgstr ""
+msgstr "[_S_] Dlaczego rośnie?"
 
 # game/UpdateScriptHalloweenEvent.rpy:442 #-#-# translate crowdin sidney_grabbed_c20775b5:
 msgid "[_S_] What's going on?"
@@ -346,7 +346,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:566 #-#-# translate crowdin found_sidney_inside_out_b078476e:
 msgid "[_R_] Did you cheat?... Wait! Never mind! I don't have time for this!"
-msgstr ""
+msgstr "[_R_] Oszukiwałeś?... Czekaj! Nieważne! Nie mam na to czasu!"
 
 # game/UpdateScriptHalloweenEvent.rpy:568 #-#-# translate crowdin found_sidney_inside_out_4ccf3a2c_1:
 msgid "[_MD_] {i}(muffled voice){/i} Whoa, [ryan]! What's the hurry?"
@@ -498,35 +498,35 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:645 #-#-# translate crowdin found_sidney_inside_out_7a622410:
 msgid "[_M_] Is that what you and Sidney are doing at night?! Getting high in your room?"
-msgstr ""
+msgstr "[_M_] To robicie z Sydney w nocy?! Ćpacie w swoim pokoju?"
 
 # game/UpdateScriptHalloweenEvent.rpy:646 #-#-# translate crowdin found_sidney_inside_out_4592a1ee:
 msgid "[_R_] What? No! Mom, listen to me. She's in the mirror!"
-msgstr ""
+msgstr "[_R_] Co? Nie! Mamo, posłuchaj mnie. Ona jest w lustrze!"
 
 # game/UpdateScriptHalloweenEvent.rpy:647 #-#-# translate crowdin found_sidney_inside_out_b13bbb08:
 msgid "[_M_] Stay put young man, I'm going to find Sidney and we're going to all have a long talk about this!"
-msgstr ""
+msgstr "[_M_] Nie ruszaj się, młody człowieku, idę znaleźć Sydney i wszyscy odbędziemy długą rozmowę na ten temat!"
 
 # game/UpdateScriptHalloweenEvent.rpy:650 #-#-# translate crowdin found_sidney_inside_out_6c65eb59:
 msgid "[_M_] I know you're high right now, but don't go breaking my mirror while I'm gone!"
-msgstr ""
+msgstr "[_M_] Wiem, że jesteś teraz na haju, ale nie tłucz mojego lustra, kiedy mnie nie ma!"
 
 # game/UpdateScriptHalloweenEvent.rpy:651 #-#-# translate crowdin found_sidney_inside_out_39bdb59a:
 msgid "[_M_] You wouldn't want to kill the mirror version of your sister while I'm finding the real one, would you?"
-msgstr ""
+msgstr "[_M_] Nie chciałbyś chyba zabić lustrzanej wersji swojej siostry, podczas gdy ja szukam tej prawdziwej, prawda?"
 
 # game/UpdateScriptHalloweenEvent.rpy:652 #-#-# translate crowdin found_sidney_inside_out_23e5d6c8:
 msgid "[_MT_] {i}God, I hate reasoning with my students when they're high!{/i}"
-msgstr ""
+msgstr "[_MT_] Bóg {i}Boże, nienawidzę dyskutować z moimi uczniami, kiedy są na haju!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:653 #-#-# translate crowdin found_sidney_inside_out_df475f70:
 msgid "[_R_] Shit, if I break the mirror, would that break the connection to that... other place? Fuck, I didn't think of that."
-msgstr ""
+msgstr "[_R_] Cholera, jeśli rozbiję lustro, czy to przerwie połączenie z tym... innym miejscem? Kurwa, nie pomyślałem o tym."
 
 # game/UpdateScriptHalloweenEvent.rpy:654 #-#-# translate crowdin found_sidney_inside_out_6e06bd88:
 msgid "[_M_] Obviously not! So, don't break my mirror while I'm gone!"
-msgstr ""
+msgstr "[_M_] Oczywiście, że nie! Więc nie tłucz mojego lustra, kiedy mnie nie ma!"
 
 # game/UpdateScriptHalloweenEvent.rpy:665 #-#-# translate crowdin found_sidney_inside_out_fd98aa1c:
 msgid "[_R_] How... do... I... get... in?!"
@@ -686,7 +686,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:780 #-#-# translate crowdin sidney_loyalty_path_fb0ab9c7:
 msgid "[_R_] Uhhh... Never mind!"
-msgstr ""
+msgstr "[_R_] Oj... Nieważne!"
 
 # game/UpdateScriptHalloweenEvent.rpy:781 #-#-# translate crowdin sidney_loyalty_path_acfa61c2:
 msgid "[_R_] Maybe... If we collect all the leftover slime in the bathroom, and rub it on the mirror..."
@@ -1014,7 +1014,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:1051 #-#-# translate crowdin sidney_monster_path_f6834670:
 msgid "[_ST_] {i}Nobody, Sidney... These are your own thoughts... So you know they're true!{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Nikt, Sydney... To są twoje własne myśli... Więc wiesz, że są prawdziwe!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1052 #-#-# translate crowdin sidney_monster_path_bbe61c3c:
 msgid "[_ST_] {i}No... Can't be...{/i}"
@@ -1314,7 +1314,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:1231 #-#-# translate crowdin monsters_and_mountains_fd124381:
 msgid "[_R_] A creature so powerful, that it will take all of your strength, skills, and powers, not to mention, a lot of luck, to defeat."
-msgstr ""
+msgstr "[_R_] Stworzenie tak potężne, że pokonanie go będzie wymagało całej twojej siły, umiejętności i mocy, nie wspominając o dużej dozie szczęścia."
 
 # game/UpdateScriptHalloweenEvent.rpy:1232 #-#-# translate crowdin monsters_and_mountains_f8055650:
 msgid "[_M_] [ryan]?"
@@ -1358,11 +1358,11 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:1247 #-#-# translate crowdin monsters_and_mountains_3f13f12b:
 msgid "[_M_] Oooo... Did you guys order pizza?"
-msgstr ""
+msgstr "[_M_] Oo... Zamówiliście pizzę?"
 
 # game/UpdateScriptHalloweenEvent.rpy:1248 #-#-# translate crowdin monsters_and_mountains_23649a83:
 msgid "[_MB_] Yeah, Megan and I brought it with us. Come grab a slice!"
-msgstr ""
+msgstr "[_MB_] Tak, Megan i ja przyniosłyśmy go ze sobą. Choć na kawałek!"
 
 # game/UpdateScriptHalloweenEvent.rpy:1251 #-#-# translate crowdin monsters_and_mountains_ef71173e:
 msgid "[_MB_] Can I just tell you how fine you are looking Miss [mom_name]?"
