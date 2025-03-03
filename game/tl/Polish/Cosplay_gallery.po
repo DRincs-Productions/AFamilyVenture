@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-02-18 04:33\n"
+"PO-Revision-Date: 2025-03-03 05:36\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/Cosplay_gallery.rpy:1214 #-#-# translate crowdin cosplay_label_c1f386dd:
 msgid "[_RT_] {i}Yes... I have sold another pair of oufits for $[sold] more.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Tak... Sprzedałem kolejną parę strojów za $[sold] więcej.{/i}"
 
 # game/Cosplay_gallery.rpy:1219 #-#-# translate crowdin cosplay_label_16130f80:
 msgid "[_RT_] {i}I should check if I got any likes and if I can transfer the money to my account.{/i}"
