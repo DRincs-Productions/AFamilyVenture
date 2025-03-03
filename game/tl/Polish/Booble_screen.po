@@ -10,19 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-02-18 04:33\n"
+"PO-Revision-Date: 2025-03-03 05:36\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/Booble_screen.rpy:51 #-#-# translate crowdin booble_search_f6ce98ce:
 msgid "[_RT_] {i}I should do a search on booble.com to find a way to buy the stuff I need so that the FBI won't ask me from where I got the money.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Powinienem przeszukać booble.com, aby znaleźć sposób na zakup potrzebnych mi rzeczy, tak aby FBI nie pytało mnie, skąd mam pieniądze.{/i}"
 
 # game/Booble_screen.rpy:67 #-#-# translate crowdin booble_search_ce876757:
 msgid "[_RT_] {i}What should I do today on the internet?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Co powinienem dzisiaj robić w internecie?{/i}"
 
 # §translate crowdin strings: #|#|# # game/Booble_screen.rpy:33
 msgid "{color=#ffffff}{b}hardnLong.dong online shopping{/b}{/color}"
-msgstr ""
+msgstr "{color=#ffffff}{b}hardnLong.dong online shopping{/b}{/color}"
 
 # game/Booble_screen.rpy:39
 msgid "{color=#ffffff}{b}cosplayheaven.cos cosplay site{/b}{/color}"
