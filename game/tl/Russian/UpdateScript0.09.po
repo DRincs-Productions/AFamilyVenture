@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-02-17 07:04\n"
+"PO-Revision-Date: 2025-03-05 06:31\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.09.rpy:564 #-#-# translate crowdin myroom_post_cami_fight_8a5367c3:
 msgid "[_R_] I'm not ready to sleep yet... I should go talk to Mom and Lauren before I come back to bed."
@@ -4502,7 +4502,7 @@ msgstr "[_S_] Это означает, что она не привязана к 
 
 # game/UpdateScript0.09.rpy:2700 #-#-# translate crowdin NTRLounge2repeat_2ce04a4f:
 msgid "[_R_] Huh?"
-msgstr ""
+msgstr "[_e_] А?"
 
 # game/UpdateScript0.09.rpy:2703 #-#-# translate crowdin NTRLounge2repeat_629d1c74:
 msgid "[_S_] Uhg. You're so dense."
@@ -8430,7 +8430,7 @@ msgstr "[ _MD_] Я знал это! Вы двое {b}, блядь!"
 
 # game/UpdateScript0.09.rpy:4846 #-#-# translate crowdin cami_events_intro_2ce04a4f:
 msgid "[_R_] Huh?"
-msgstr ""
+msgstr "[_e_] А?"
 
 # game/UpdateScript0.09.rpy:4847 #-#-# translate crowdin cami_events_intro_922d36f8:
 msgid "[_MD_] Lauren's been so cagey about how far you two have gone. Whenever I bring it up, she always changes the subject."
