@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-02-17 18:02\n"
+"PO-Revision-Date: 2025-03-05 09:57\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -2386,7 +2386,7 @@ msgstr ""
 
 # game/script.rpy:4758 #-#-# translate crowdin kitcheneveningweekend_f790ffb9:
 msgid "[_RT_] {i}If I can replace all the things my dad did for her, I think she would be relaxed and happy again.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Babamın onun için yaptığı her şeyi yerine koyabilirsem, sanırım tekrar rahatlar ve mutlu olur.{/i}"
 
 # game/script.rpy:4759 #-#-# translate crowdin kitcheneveningweekend_b197fc26:
 msgid "[_RT_] {i}All I have to do is get the cash flowing into our household. Which will be no easy thing.{/i}"
@@ -6998,11 +6998,11 @@ msgstr ""
 
 # game/script.rpy:9192 #-#-# translate crowdin warehouse_52b9cc6b:
 msgid "\"You received two bouquet of flowers.\""
-msgstr ""
+msgstr "\"İki buket çiçek aldınız.\""
 
 # game/script.rpy:9199 #-#-# translate crowdin warehouse_ce858452:
 msgid "\"You received three bouquet of flowers.\""
-msgstr ""
+msgstr "."
 
 # game/script.rpy:9203 #-#-# translate crowdin warehouse_fd5c6cd5:
 msgid "\"You received one bottle of Melatonin\""
@@ -7166,11 +7166,11 @@ msgstr ""
 
 # game/script.rpy:9473 #-#-# translate crowdin warehousealso_52b9cc6b:
 msgid "\"You received two bouquet of flowers.\""
-msgstr ""
+msgstr "\"İki buket çiçek aldınız.\""
 
 # game/script.rpy:9480 #-#-# translate crowdin warehousealso_ce858452:
 msgid "\"You received three bouquet of flowers.\""
-msgstr ""
+msgstr "."
 
 # game/script.rpy:9484 #-#-# translate crowdin warehousealso_fd5c6cd5:
 msgid "\"You received one bottle of Melatonin\""
@@ -7238,7 +7238,7 @@ msgstr ""
 
 # game/script.rpy:9576 #-#-# translate crowdin warehousealso_81b71fec:
 msgid "[_RT_] {i}{b}(HINT){/b} I've got the bikini now. I would be smart to make sure Mom's libido and submission are as high as possible before next weekend, then maybe I can ask her to try on the swimsuit for me.{/i}"
-msgstr ""
+msgstr "[_RT_] {i} Artık bikinim var. Önümüzdeki hafta sonundan önce annemin libidosunun ve teslimiyetinin mümkün olduğunca yüksek olduğundan emin olmak akıllıca olur, o zaman belki ondan benim için mayoyu denemesini isteyebilirim.{/i}"
 
 # game/script.rpy:9585 #-#-# translate crowdin warehousealso_034b06fd:
 msgid "\"You received a ball gag.\""
