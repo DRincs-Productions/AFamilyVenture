@@ -11,11 +11,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-07-23 07:50\n"
+"PO-Revision-Date: 2025-03-05 09:57\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # §translate crowdin strings: #|#|# # game/stats_screen.rpy:28
 msgid "{color=#42f456}Mom's:{/color}"
-msgstr "{ color=#42f456} Anne: { /color }"
+msgstr "{color=#42f456}Anne:{/color}"
 
 # game/stats_screen.rpy:29
 msgid "{color=#000000}Respect..............[momrespect]{/color}"
@@ -35,7 +35,7 @@ msgstr ""
 
 # game/stats_screen.rpy:33
 msgid "{color=#000000}Anger..................[momanger]{/color}"
-msgstr ""
+msgstr "{color=#000000}Anger..................[momanger]{/color}"
 
 # game/stats_screen.rpy:35
 msgid "{color=#f442d9}Lauren's:{/color}"
@@ -43,7 +43,7 @@ msgstr ""
 
 # game/stats_screen.rpy:36
 msgid "{color=#000000}Respect............[laurenrespect]{/color}"
-msgstr "{ color=#000000}Saygı ............[laurenrespect]{ /color }"
+msgstr "{color=#000000}Saygı............[laurenrespect]{/color}"
 
 # game/stats_screen.rpy:37
 msgid "{color=#000000}Affection.........[laurenaffection]{/color}"
@@ -59,7 +59,7 @@ msgstr ""
 
 # game/stats_screen.rpy:40
 msgid "{color=#000000}Anger..............[laurenanger]{/color}"
-msgstr ""
+msgstr "{color=#000000}Öfke..............[laurenanger]{/color}"
 
 # game/stats_screen.rpy:42
 msgid "{color=#006600}Sidney's:{/color}"
@@ -67,7 +67,7 @@ msgstr ""
 
 # game/stats_screen.rpy:43
 msgid "{color=#000000}Respect............[sidneyrespect]{/color}"
-msgstr "{ color=#000000}Saygı ............[sidneyrespect]{ /color }"
+msgstr "{color=#000000}Saygı............[sidneyrespect]{/color}"
 
 # game/stats_screen.rpy:44
 msgid "{color=#000000}Affection.........[sidneyaffection]{/color}"
@@ -79,7 +79,7 @@ msgstr "{color=#000000}Azgınlık.............[sidneylibido]{/color}"
 
 # game/stats_screen.rpy:46
 msgid "{color=#000000}Submission.....[sidneysubmission]{/color}"
-msgstr "{color=#000000}Boyun Eğme.....[sidneysubmission]{/color}"
+msgstr "{color=#000000}}BoyunEğme.....[sidneysubmission]{/color}"
 
 # game/stats_screen.rpy:47
 msgid "{color=#000000}Anger...............[sidneyanger]{/color}"
@@ -87,7 +87,7 @@ msgstr "{color=#000000}Öfke...............[sidneyanger]{/color}"
 
 # game/stats_screen.rpy:49
 msgid "{color=#9966FF}Aunt Camille's:{/color}"
-msgstr ""
+msgstr "{color=#9966FF}Teyze Camille's:{/color}"
 
 # game/stats_screen.rpy:50
 msgid "{color=#000000}Respect............[auntrespect]{/color}"
@@ -115,7 +115,7 @@ msgstr ""
 
 # game/stats_screen.rpy:57
 msgid "{color=#000000}Respect............[cousinrespect]{/color}"
-msgstr "{ color=#000000}Saygı ............[cousinrespect]{ /color }"
+msgstr "{color=#000000}Saygı............[cousinrespect]{/color}"
 
 # game/stats_screen.rpy:58
 msgid "{color=#000000}Affection.........[cousinaffection]{/color}"
@@ -127,7 +127,7 @@ msgstr "{color=#000000}Azgınlık.............[cousinlibido]{/color}"
 
 # game/stats_screen.rpy:60
 msgid "{color=#000000}Submission.....[cousinsubmission]{/color}"
-msgstr "{color=#000000}Boyun Eğme.....[cousinsubmission]{/color}"
+msgstr "{color=#000000}BoyunEğme.....[cousinsubmission]{/color}"
 
 # game/stats_screen.rpy:61
 msgid "{color=#000000}Anger...............[cousinanger]{/color}"
