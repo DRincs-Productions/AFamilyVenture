@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-03-05 09:57\n"
+"PO-Revision-Date: 2025-03-05 11:41\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.08_1.rpy:2250 #-#-# translate crowdin mom_ramp_up_c71fc1d6:
 msgid "[_RT_] {i}Oh wow!... I can't believe I've had sex with both of my sisters!{/i}"
@@ -1110,7 +1110,7 @@ msgstr "[_MT_] {i}O çok büyük!... Sabah odunu mu? Sabah meşesi desek daha do
 
 # game/UpdateScript0.08_1.rpy:2875 #-#-# translate crowdin jacky_morning_hj_ee6664db:
 msgid "[_MT_] {i}His sisters would tease him mercilessly if they walked in on him like this. I'll just tuck it away under his boxers so they won't embarrass him over it.{/i}"
-msgstr ""
+msgstr " {i}Kız kardeşleri onu bu halde görseler acımasızca dalga geçerlerdi. Onu utandırmasınlar diye boxer'ının altına sıkıştıracağım.{/i}"
 
 # game/UpdateScript0.08_1.rpy:2878 #-#-# translate crowdin jacky_morning_hj_4746d4d1:
 msgid "[_MT_] {i}How does he...{/i}"
