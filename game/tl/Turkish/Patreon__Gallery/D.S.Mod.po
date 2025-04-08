@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-07-23 07:50\n"
+"PO-Revision-Date: 2025-04-08 12:14\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/Patreon_$5_Gallery/D.S.Mod.rpy:2252 #-#-# translate crowdin input_money_9c2e4d68:
 msgid "[_DS_] You added $[addmoney] and now have: $[money]."
@@ -79,7 +79,7 @@ msgstr "Mod Bilgisi!"
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:496
 msgid "{color=#00589E}Name_changes------------------{/color}"
-msgstr "{color=#00589E}Name_changes------------------{/color}"
+msgstr ""
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:498
 msgid "Change your name. \n"
