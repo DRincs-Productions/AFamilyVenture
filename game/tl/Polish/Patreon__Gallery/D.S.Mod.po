@@ -11,27 +11,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-02-18 04:33\n"
+"PO-Revision-Date: 2025-05-07 18:11\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/Patreon_$5_Gallery/D.S.Mod.rpy:2252 #-#-# translate crowdin input_money_9c2e4d68:
 msgid "[_DS_] You added $[addmoney] and now have: $[money]."
-msgstr ""
+msgstr "[_DS_] Dodałeś $[addmoney] i masz teraz: $[money]."
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2290 #-#-# translate crowdin change_names_34819df8:
 msgid "Okay, your new name is: ({color=#0000CC}[ryan]{/color})."
-msgstr ""
+msgstr "Ok, twoje nowe imię to: ({color=#0000CC}[ryan]{/color})."
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2315 #-#-# translate crowdin ds_change_name_mom_2e923a8a:
 msgid "[_DS_] Okay, her new name is: ({color=#0000CC}[mom_name]{/color})."
-msgstr ""
+msgstr "[_Ok, twoje nowe imię to: ({color=#0000CC}[ryan]{/color})."
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2331 #-#-# translate crowdin ds_change_name_Ryan_602ad794:
 msgid "[_DS_] Okay, your new name is: ({color=#0000CC}[ryan]{/color})."
-msgstr ""
+msgstr "[_Ok, twoje nowe imię to: ({color=#0000CC}[ryan]{/color})."
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2336 #-#-# translate crowdin ds_mod_info_3abf1dee:
 msgid "[_DS_] This mod(v[mod_version]) was made by {color=#00589E}D.S.-sama{/color} for {color=#E60000}WillTylor{/color} and his game, {color=#34f500}AFamilyVenture_v[game_version]{/color}. Have fun playing the game and let us know if you find any bugs."
-msgstr ""
+msgstr "[_DS_] Ten mod(v[mod_version]) został wykonany przez {color=#00589E}D.S. sama{/color} dla {color=#E60000}WillTylor{/color} i jego gry, {color=#34f500}AFamilyVenture_v[game_version]{/color}. Miłej zabawy grając w grę i daj nam znać, jeśli znajdziesz jakieś błędy."
 
 # game/Patreon_$5_Gallery/D.S.Mod.rpy:2341 #-#-# translate crowdin ds_anger_reset_nfo_47ed8249:
 msgid "[_DS_] You have reset the anger lvl for all girls!"
