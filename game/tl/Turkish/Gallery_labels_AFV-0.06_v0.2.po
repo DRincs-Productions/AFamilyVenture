@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-05-09 15:53\n"
+"PO-Revision-Date: 2025-05-21 16:01\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/Gallery_labels_AFV-0.06_v0.2.rpy:15 #-#-# translate crowdin label_gal_mom_drunk_e1aba2f6:
 msgid "[_RT_] {i}Hmmm.... no answer. I don't have a key, but I'm started to get a little worried about her.{/i}"
@@ -31270,7 +31270,7 @@ msgstr "İkimizi de öldürtecez!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:15998 #-#-# translate crowdin label_gal_halloween_event_start_c60945d4:
 msgid "[_SF_] {i}(Whispering){/i} Dr. Branson? Where did you go?"
-msgstr ""
+msgstr "{i} Dr. Branson? Nereye gittiniz?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:15999 #-#-# translate crowdin label_gal_halloween_event_start_06c92f66_1:
 msgid "[_SF_] Dr. Branson?"
