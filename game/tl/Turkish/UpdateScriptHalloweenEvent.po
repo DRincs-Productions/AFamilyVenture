@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-02-17 12:28\n"
+"PO-Revision-Date: 2025-05-21 16:01\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScriptHalloweenEvent.rpy:256 #-#-# translate crowdin halloween_event_start_36b1bdbb:
 msgid "{i}{b}(HINT){/b} Happy Halloween!{/i}"
@@ -1862,7 +1862,7 @@ msgstr "İkimizi de öldürtecez!"
 
 # game/UpdateScriptHalloweenEvent.rpy:1553 #-#-# translate crowdin shagtown_lab_c60945d4:
 msgid "[_SF_] {i}(Whispering){/i} Dr. Branson? Where did you go?"
-msgstr ""
+msgstr "{i} Dr. Branson? Nereye gittiniz?"
 
 # game/UpdateScriptHalloweenEvent.rpy:1554 #-#-# translate crowdin shagtown_lab_06c92f66_1:
 msgid "[_SF_] Dr. Branson?"
