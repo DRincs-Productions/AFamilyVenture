@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-02-18 04:33\n"
+"PO-Revision-Date: 2025-08-01 12:24\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # §translate crowdin strings: #|#|# # game/Credits_screen.rpy:57
 msgid "                               Credits"
@@ -18,20 +18,21 @@ msgstr ""
 
 # game/Credits_screen.rpy:62
 msgid " We would like to thank all the game developers that have accepted to let us use some of their creations in our game, also we'd like to thank our subscribestar/patreon supporters that make this game posible."
-msgstr ""
+msgstr " Chcielibyśmy podziękować wszystkim twórcom gier, którzy zgodzili się na wykorzystanie niektórych swoich dzieł w naszej grze, a także chcielibyśmy podziękować naszym subskrybentom, dzięki którym ta gra jest możliwa."
 
 # game/Credits_screen.rpy:69
 msgid "Game developers"
-msgstr ""
+msgstr "Twórcy gier"
 
 # game/Credits_screen.rpy:147
 msgid "Subscribers/Patrons"
-msgstr ""
+msgstr "Subskrybenci/Patroni"
 
 # game/Credits_screen.rpy:157
 msgid "\n"
 "{b}{i}Game Designer, Master Coder, Patch Creator, Gallery Guru:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Projektant gier, Master Koder, Patch Creator, Guru Galerii:{/i}{/b} \n"
 
 # game/Credits_screen.rpy:159
 msgid "{a=https://www.patreon.com/DS_sama}{image=icon_patreon} D.S.-Sama{/a}"
@@ -40,11 +41,12 @@ msgstr ""
 # game/Credits_screen.rpy:161
 msgid "\n"
 "{b}{i}Game Coding, Android Specialist:{/i}{/b} \n"
-msgstr ""
+msgstr "\n"
+"{b}{i}Kodowanie gier, specjalista Android: {/i}{/b} \n"
 
 # game/Credits_screen.rpy:163
 msgid "Cybeon"
-msgstr ""
+msgstr "Cybeon"
 
 # game/Credits_screen.rpy:165
 msgid "\n"
@@ -53,7 +55,7 @@ msgstr ""
 
 # game/Credits_screen.rpy:167
 msgid "Strenif"
-msgstr ""
+msgstr "Strenif"
 
 # game/Credits_screen.rpy:169
 msgid "\n"
@@ -62,7 +64,7 @@ msgstr ""
 
 # game/Credits_screen.rpy:171
 msgid "Will Tylor"
-msgstr ""
+msgstr "Will Tylor"
 
 # game/Credits_screen.rpy:173
 msgid "\n"
