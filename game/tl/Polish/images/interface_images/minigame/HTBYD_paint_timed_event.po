@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-05-07 20:41\n"
+"PO-Revision-Date: 2025-08-01 12:24\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:126 #-#-# translate crowdin HTBYD_game_start_lbl_2bc58679:
 msgid "[_MS_] That's the picture of Lauren you're going to use?"
-msgstr "[_MS_] \"To jest zdjęcie Lauren, którego zamierzasz użyć?"
+msgstr "[_MS_]To jest zdjęcie Lauren, którego zamierzasz użyć?"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:127 #-#-# translate crowdin HTBYD_game_start_lbl_09808be8:
 msgid "[_R_] Yeah, do you like it?"
@@ -38,7 +38,7 @@ msgstr "[_RT_] {i}Z dużą dozą perswazji.{/i}"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:132 #-#-# translate crowdin HTBYD_game_start_lbl_2dc7ff8f:
 msgid "[_MST_] {i}Oh my God!... That will get the attention of all the students for sure. These kids are bringing their \"A game\"{/i}"
-msgstr "[_MST_] {i}O mój Boże!... To na pewno przyciągnie uwagę wszystkich uczniów. Te dzieciaki dają z siebie wszystko.{i}"
+msgstr "[_MST_] {i}O mój Boże!... To na pewno przyciągnie uwagę wszystkich uczniów. Te dzieciaki dają z siebie wszystko.{/i}"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:133 #-#-# translate crowdin HTBYD_game_start_lbl_2fb4108b:
 msgid "[_MST_] {i}It's also useful to know that [ryan] and Lauren are anything but prudes.{/i}"
@@ -46,7 +46,7 @@ msgstr "[_MST_] {i}Warto również wiedzieć, że [ryan] i Lauren nie są pruder
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:134 #-#-# translate crowdin HTBYD_game_start_lbl_6a9bbe49:
 msgid "[_MS_] Lauren looks a lot like the girl in that movie \"How to Breed your Dragon.\", only with much fewer... clothes on... What's her name?... Assturd?"
-msgstr "[_MS_] Lauren wygląda bardzo jak dziewczyna w tym filmie: \"Jak hodować smoka., tylko z dużo mniej... ubraniami... Jaka jest jej imię?... Assturd?"
+msgstr "[_MS_] Lauren jest bardzo podobna do dziewczyny z filmu „Jak wyhodować smoka”, tylko ma na sobie o wiele mniej... ubrań... Jak ona się nazywa?... Assturd?"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:135 #-#-# translate crowdin HTBYD_game_start_lbl_1ab2361d:
 msgid "[_R_] Yeah, that's exactly right."
@@ -54,7 +54,7 @@ msgstr "[_R_] Tak, to prawda."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:136 #-#-# translate crowdin HTBYD_game_start_lbl_aab0d72b:
 msgid "[_MS_] Ok, good. So you want the poster to reflect that with a proper background, and a proper slogan... So take a second to think about it."
-msgstr ""
+msgstr "[_MS_] Ok, dobrze. Więc chcesz, aby plakat odzwierciedlał to z odpowiednim tłem i odpowiednim sloganem... Poświęć chwilę na zastanowienie się."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:137 #-#-# translate crowdin HTBYD_game_start_lbl_dc7a84b6:
 msgid "[_R_] ...."
@@ -62,15 +62,15 @@ msgstr ""
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:138 #-#-# translate crowdin HTBYD_game_start_lbl_9126eb03:
 msgid "[_R_] Ok... I think I've got an idea."
-msgstr ""
+msgstr "[_R_] Ok... Myślę, że mam pomysł."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:139 #-#-# translate crowdin HTBYD_game_start_lbl_75b88557:
 msgid "[_MS_] Ok... Just let your creativity flow."
-msgstr ""
+msgstr "[_MS_] Ok... Po prostu pozwól swojej kreatywności płynąć."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:141 #-#-# translate crowdin HTBYD_game_start_lbl_d89be794:
 msgid "[_MS_] You still want to use that particular picture?"
-msgstr ""
+msgstr "[_MS_] Nadal chcesz użyć tego konkretnego zdjęcia?"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:142 #-#-# translate crowdin HTBYD_game_start_lbl_d6db9db2:
 msgid "[_R_] Yeah, why not?"
@@ -78,15 +78,15 @@ msgstr ""
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:143 #-#-# translate crowdin HTBYD_game_start_lbl_d30bcd4d:
 msgid "[_MS_] No reason."
-msgstr ""
+msgstr "[_MS_] Bez powodu."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:144 #-#-# translate crowdin HTBYD_game_start_lbl_0d5e265d:
 msgid "[_MST_] {i}Unless you've got something even sexier.{/i}"
-msgstr ""
+msgstr "[_MST_] {i}Chyba że masz coś jeszcze bardziej seksownego.{/i}"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:145 #-#-# translate crowdin HTBYD_game_start_lbl_e0d14e45:
 msgid "[_MST_] {i}I'm not even into women, but I can appreciate a beautiful young ass.{/i}"
-msgstr ""
+msgstr "[_MST_] {i}Nawet nie kręcą mnie kobiety, ale potrafię docenić piękny, młody tyłek..{/i}"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:146 #-#-# translate crowdin HTBYD_game_start_lbl_89598738:
 msgid "[_MS_] Now, remember your theme."
@@ -106,27 +106,27 @@ msgstr "[_MS_] Ok... Myślę, że jestem gotowy."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:161 #-#-# translate crowdin HTBYD_game_end_lbl_fccd1316:
 msgid "[_MS_] Wow... That's really good."
-msgstr ""
+msgstr "[_MS_] Wow... To jest naprawdę dobre."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:162 #-#-# translate crowdin HTBYD_game_end_lbl_9284b59b:
 msgid "[_MST_] {i}The slogan is a bit provocative, but it definitely goes with the flavor of the picture.{/i}"
-msgstr ""
+msgstr "[_MST_] {i}Slogan jest nieco prowokacyjny, ale zdecydowanie pasuje do smaku zdjęcia.{/i}"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:163 #-#-# translate crowdin HTBYD_game_end_lbl_618f050e:
 msgid "[_R_] Yeah... I just did exactly what you said..."
-msgstr ""
+msgstr "[_R_] Tak, właśnie zrobiłem dokładnie to, co powiedziałeś..."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:164 #-#-# translate crowdin HTBYD_game_end_lbl_768d340b:
 msgid "[_R_] You're such a good art teacher!"
-msgstr ""
+msgstr "[_R_] Jesteś taką dobrą nauczycielką sztuki!"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:165 #-#-# translate crowdin HTBYD_game_end_lbl_6a29bd12:
 msgid "[_MS_] Ohhh... That's so sweet!"
-msgstr ""
+msgstr "[_MS_] Och... To takie słodkie!"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:166 #-#-# translate crowdin HTBYD_game_end_lbl_685dbb3b:
 msgid "[_MS_] Now, is that it, or did you say you need to design another poster?"
-msgstr ""
+msgstr "[_MS_] Czy to już wszystko, czy powiedziałeś, że musisz zaprojektować kolejny plakat?"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:167 #-#-# translate crowdin HTBYD_game_end_lbl_955333a5:
 msgid "[_R_] I've got one more."
@@ -134,7 +134,7 @@ msgstr "[_R_] Mam jeszcze jedną."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:168 #-#-# translate crowdin HTBYD_game_end_lbl_9de72fec:
 msgid "[_MS_] Ok, let's set it up."
-msgstr ""
+msgstr "[_MS_] Ok, skonfigurujmy to."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:176 #-#-# translate crowdin HTBYD_game_end_lbl_acb68e2b:
 msgid "[_MS_] The background is looking nice, now bring it home with a creative slogan."
@@ -162,7 +162,7 @@ msgstr "[_MS_] Hmmm... Cóż, możesz mieć rację. "
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:188 #-#-# translate crowdin HTBYD_game_end_lbl_685dbb3b_1:
 msgid "[_MS_] Now, is that it, or did you say you need to design another poster?"
-msgstr ""
+msgstr "[_MS_] Czy to już wszystko, czy powiedziałeś, że musisz zaprojektować kolejny plakat?"
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:189 #-#-# translate crowdin HTBYD_game_end_lbl_955333a5_1:
 msgid "[_R_] I've got one more."
@@ -170,5 +170,5 @@ msgstr "[_R_] Mam jeszcze jedną."
 
 # game/images/interface_images/minigame/HTBYD_paint_timed_event.rpy:190 #-#-# translate crowdin HTBYD_game_end_lbl_9de72fec_1:
 msgid "[_MS_] Ok, let's set it up."
-msgstr ""
+msgstr "[_MS_] Ok, skonfigurujmy to."
 
