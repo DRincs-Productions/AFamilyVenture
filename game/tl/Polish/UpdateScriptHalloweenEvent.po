@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-08-14 19:00\n"
+"PO-Revision-Date: 2025-08-15 23:53\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScriptHalloweenEvent.rpy:256 #-#-# translate crowdin halloween_event_start_36b1bdbb:
 msgid "{i}{b}(HINT){/b} Happy Halloween!{/i}"
@@ -398,7 +398,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:603 #-#-# translate crowdin found_sidney_inside_out_d8bf5ca9:
 msgid "[_M_] What?"
-msgstr ""
+msgstr "[_M_] Co?"
 
 # game/UpdateScriptHalloweenEvent.rpy:604 #-#-# translate crowdin found_sidney_inside_out_13d0d53d:
 msgid "[_R_] I said, Sidney's stuck..."
