@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-02-18 10:36\n"
+"PO-Revision-Date: 2025-08-17 14:43\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/Phone_event_screen.rpy:1207 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -1254,7 +1254,7 @@ msgstr ""
 
 # game/Phone_event_screen.rpy:2229 #-#-# translate crowdin again_tutorial_dc7a84b6:
 msgid "[_R_] ...."
-msgstr ""
+msgstr "[_R_] ...."
 
 # game/Phone_event_screen.rpy:2232 #-#-# translate crowdin again_tutorial_076a53a8:
 msgid "End of tutorial."
