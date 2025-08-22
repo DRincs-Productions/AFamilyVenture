@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-08-20 21:15\n"
+"PO-Revision-Date: 2025-08-22 17:32\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/images/interface_images/Roulette/RouletteGame.rpy:607 #-#-# translate crowdin test_feb4bc5b:
 msgid "[betPickVar]"
@@ -22,23 +22,23 @@ msgstr "[_RLT_dealer_] Błąd: Nie postawiłeś żadnej kwoty {w=3.0}.{nw} [with
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:624 #-#-# translate crowdin gameTypeErrorCheck_76d464ef:
 msgid "[_RLT_dealer_] Error: With the Straight betting game you can pick any roulette number. Please supply a list of one number.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Error: W grze Straight betting możesz wybrać dowolny numer ruletki. Podaj jeden numer.{w=3.0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:633 #-#-# translate crowdin gameTypeErrorCheck_fbac9fac:
 msgid "[_RLT_dealer_] Error: With the Split betting game you can pick any 2 (two) roulette numbers. Please supply a list of two different numbers.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Błąd: W grze Split betting można wybrać 2 (dwa) dowolne numery ruletki. Podaj listę dwóch różnych numerów.{w=3.0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:642 #-#-# translate crowdin gameTypeErrorCheck_a87619d6:
 msgid "[_RLT_dealer_] Error: With the Street betting game you can pick any 3 (three) roulette numbers. Please supply a list of three different numbers.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Błąd: W zakładach Street można wybrać 3 (trzy) dowolne numery ruletki. Podaj listę trzech różnych numerów.{w=3.0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:651 #-#-# translate crowdin gameTypeErrorCheck_896b51f0:
 msgid "[_RLT_dealer_] Error: With the Corner betting game you can pick any 4 (four) roulette numbers. Please supply a list of four different numbers.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Błąd: W zakładzie Corner można wybrać 4 (cztery) dowolne numery ruletki. Podaj listę czterech różnych numerów.{w=3.0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:660 #-#-# translate crowdin gameTypeErrorCheck_7f667963:
 msgid "[_RLT_dealer_] Error: With the Penta betting game you can pick any 5 (five) roulette numbers. Please supply a list of 5 different numbers.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Błąd: W grze Penta betting można wybrać 5 (pięć) dowolnych numerów ruletki. Prosimy wskazanie listy 5 różnych numerów.{w=3.0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:669 #-#-# translate crowdin gameTypeErrorCheck_30b475c4:
 msgid "[_RLT_dealer_] Error: With the Line betting game you can pick any 6 (six) roulette numbers. Please supply a list of six different numbers.{w=3.0}{nw} [withDissolve20]"
