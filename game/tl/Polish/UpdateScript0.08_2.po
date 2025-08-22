@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-08-20 21:15\n"
+"PO-Revision-Date: 2025-08-22 18:31\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.08_2.rpy:9 #-#-# translate crowdin mom_bumps_sidney_bc054bd6:
 msgid "[_G_] Well, if it isn't the lovely Miss [mom_name]."
@@ -2470,7 +2470,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:1293 #-#-# translate crowdin candy_handy_25879369:
 msgid "[_R_] Yes, please!"
-msgstr ""
+msgstr "[_R_] Tak, proszę!"
 
 # game/UpdateScript0.08_2.rpy:1297 #-#-# translate crowdin candy_handy_d8196176:
 msgid "[_R_] Mmmm... That's feeling really good!"
@@ -2522,7 +2522,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:1338 #-#-# translate crowdin candy_handy_25879369_1:
 msgid "[_R_] Yes, please!"
-msgstr ""
+msgstr "[_R_] Tak, proszę!"
 
 # game/UpdateScript0.08_2.rpy:1342 #-#-# translate crowdin candy_handy_d8196176_1:
 msgid "[_R_] Mmmm... That's feeling really good!"
@@ -15718,7 +15718,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:8878 #-#-# translate crowdin pizza_date_a0525bab:
 msgid "{i}{b}\"Mom's Respect -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek mamy -1\" {/b}{/i}"
 
 # game/UpdateScript0.08_2.rpy:8880 #-#-# translate crowdin pizza_date_577e1099:
 msgid "[_M_] And I've got some papers to grade tonight..."
@@ -17330,7 +17330,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:9569 #-#-# translate crowdin pizza_date_a0525bab_1:
 msgid "{i}{b}\"Mom's Respect -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek mamy -1\" {/b}{/i}"
 
 # game/UpdateScript0.08_2.rpy:9571 #-#-# translate crowdin pizza_date_d4b80dc3:
 msgid "[_M_] I've got papers to grade, emails that need sent."
@@ -17342,7 +17342,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:9574 #-#-# translate crowdin pizza_date_a0525bab_2:
 msgid "{i}{b}\"Mom's Respect -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek mamy -1\" {/b}{/i}"
 
 # game/UpdateScript0.08_2.rpy:9576 #-#-# translate crowdin pizza_date_577e1099_1:
 msgid "[_M_] And I've got some papers to grade tonight..."
@@ -17430,19 +17430,19 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:9621 #-#-# translate crowdin sushi_date_b9b073a0:
 msgid "[_W_] Hi, welcome in!"
-msgstr ""
+msgstr "[_W_] Witamy!"
 
 # game/UpdateScript0.08_2.rpy:9622 #-#-# translate crowdin sushi_date_7d1c183e:
 msgid "[_W_] May I ask the name your reservation is under?"
-msgstr ""
+msgstr "[_W_] Mogę zapytać, na jakie nazwisko jest rezerwacja?"
 
 # game/UpdateScript0.08_2.rpy:9623 #-#-# translate crowdin sushi_date_58e39953:
 msgid "[_M_] Uhh... We didn't make a reservation, but we were hoping you might have an extra table available?"
-msgstr ""
+msgstr "[_M_] Uhh... Nie zrobiliśmy rezerwacji, ale mieliśmy nadzieję, że będziecie mieli wolny stolik?"
 
 # game/UpdateScript0.08_2.rpy:9626 #-#-# translate crowdin sushi_date_d4a67f0d:
 msgid "[_W_] Oh, I'm so sorry!... We're really busy and we won't have any spare tables at all tonight."
-msgstr ""
+msgstr "[_W_] Och, tak mi przykro!... Jest duży ruch i nie będziemy mieli dziś wolnych stolików."
 
 # game/UpdateScript0.08_2.rpy:9627 #-#-# translate crowdin sushi_date_b0ee7c3e:
 msgid "[_MT_] {i}Darn... Where's Joey when you need...{/i}"
@@ -17626,11 +17626,11 @@ msgstr "[_M_] Dziękuję bardzo Joey. Mam nadzieję, że wasze spotkanie przebie
 
 # game/UpdateScript0.08_2.rpy:9706 #-#-# translate crowdin sushi_date_c65abfa1:
 msgid "[_R_] Yeah, thanks."
-msgstr ""
+msgstr "[_R_] Tak, dzięki."
 
 # game/UpdateScript0.08_2.rpy:9707 #-#-# translate crowdin sushi_date_60180ac6:
 msgid "[_RT_] {i}Thank God he's leaving!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Dzięki Bogu, idzie sobiei!{/i}"
 
 # game/UpdateScript0.08_2.rpy:9714 #-#-# translate crowdin sushi_date_4caacbea:
 msgid "[_R_] No, no... not a problem at all. I just had it in my mind that it was just going to be Mom and me this time."
@@ -17654,11 +17654,11 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:9725 #-#-# translate crowdin sushi_date_22e608b3:
 msgid "[_R_] No, no... not a problem at all. I just had it in my mind that it was just going to be Mom and me."
-msgstr ""
+msgstr "[_R_] Nie, nie... to żaden problem. Po prostu myślałem, że będziemy tylko ja i mama."
 
 # game/UpdateScript0.08_2.rpy:9726 #-#-# translate crowdin sushi_date_901dce26:
 msgid "[_R_] But we're happy to have you join us, and very grateful that you got us a table."
-msgstr ""
+msgstr "[_R_] Ale cieszymy się, że do nas dołączysz i jesteśmy bardzo wdzięczni, że załatwiłeś nam stolik."
 
 # game/UpdateScript0.08_2.rpy:9727 #-#-# translate crowdin sushi_date_494a979b:
 msgid "[_J_] More than a table, our own private room. Didn't you love it last time?"
@@ -17686,23 +17686,23 @@ msgstr "[_M_] Dziękuję bardzo Joey. Mam nadzieję, że wasze spotkanie przebie
 
 # game/UpdateScript0.08_2.rpy:9737 #-#-# translate crowdin sushi_date_c65abfa1_1:
 msgid "[_R_] Yeah, thanks."
-msgstr ""
+msgstr "[_R_] Tak, dzięki."
 
 # game/UpdateScript0.08_2.rpy:9738 #-#-# translate crowdin sushi_date_60180ac6_1:
 msgid "[_RT_] {i}Thank God he's leaving!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Dzięki Bogu, idzie sobiei!{/i}"
 
 # game/UpdateScript0.08_2.rpy:9739 #-#-# translate crowdin sushi_date_486f971b:
 msgid "[_MT_] {i}I thought [ryan] was going to stand up to Joey for a second. Maybe not the smartest thing, but that sure would have been brave.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Przez chwilę myślałem, że [ryan] postawi się Joey'owi. Może nie byłoby to najmądrzejsze, ale na pewno odważne.{/i}"
 
 # game/UpdateScript0.08_2.rpy:9740 #-#-# translate crowdin sushi_date_7b2a197a:
 msgid "[_MT_] {i}Instead he backed off like a beta male that's just been challenged by an alpha.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Zamiast tego wycofał się jak samiec beta, który właśnie został wyzwany przez samca alfa.{/i}"
 
 # game/UpdateScript0.08_2.rpy:9741 #-#-# translate crowdin sushi_date_a0525bab:
 msgid "{i}{b}\"Mom's Respect -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek mamy -1\" {/b}{/i}"
 
 # game/UpdateScript0.08_2.rpy:9750 #-#-# translate crowdin sushi_date_c3eaf709_1:
 msgid "[_R_] Alright, after all that shopping, I'm pretty hungry. What about you?"
@@ -17734,31 +17734,31 @@ msgstr "[_M_] Tak... Myślę, że jesteś wystarczająco ładnie ubrany, żeby n
 
 # game/UpdateScript0.08_2.rpy:9761 #-#-# translate crowdin sushi_date_b6a07c66:
 msgid "[_M_] Alright, I'm going to take us to my favorite restaurant... A place I've never taken any of you kids."
-msgstr ""
+msgstr "[_M_] W porządku, zabiorę nas do mojej ulubionej restauracji... Miejsca, do którego nigdy nie zabrałam żadnego z was dzieciaki."
 
 # game/UpdateScript0.08_2.rpy:9762 #-#-# translate crowdin sushi_date_7afa05ea:
 msgid "[_R_] Ooo... I can't wait to see where we're going."
-msgstr ""
+msgstr "[_R_] Ooo... Nie mogę się doczekać, żeby zobaczyć, dokąd pójdziemy."
 
 # game/UpdateScript0.08_2.rpy:9765 #-#-# translate crowdin sushi_date_4c8a7d09:
 msgid "[_M_] I think you'll be impressed."
-msgstr ""
+msgstr "[_M_] Myślę, że będziesz pod wrażeniem."
 
 # game/UpdateScript0.08_2.rpy:9771 #-#-# translate crowdin sushi_date_b9b073a0_1:
 msgid "[_W_] Hi, welcome in!"
-msgstr ""
+msgstr "[_W_] Witamy!"
 
 # game/UpdateScript0.08_2.rpy:9772 #-#-# translate crowdin sushi_date_7d1c183e_1:
 msgid "[_W_] May I ask the name your reservation is under?"
-msgstr ""
+msgstr "[_W_] Mogę zapytać, na jakie nazwisko jest rezerwacja?"
 
 # game/UpdateScript0.08_2.rpy:9773 #-#-# translate crowdin sushi_date_58e39953_1:
 msgid "[_M_] Uhh... We didn't make a reservation, but we were hoping you might have an extra table available?"
-msgstr ""
+msgstr "[_M_] Uhh... Nie zrobiliśmy rezerwacji, ale mieliśmy nadzieję, że będziecie mieli wolny stolik?"
 
 # game/UpdateScript0.08_2.rpy:9776 #-#-# translate crowdin sushi_date_d4a67f0d_1:
 msgid "[_W_] Oh, I'm so sorry!... We're really busy and we won't have any spare tables at all tonight."
-msgstr ""
+msgstr "[_W_] Och, tak mi przykro!... Jest duży ruch i nie będziemy mieli dziś wolnych stolików."
 
 # game/UpdateScript0.08_2.rpy:9777 #-#-# translate crowdin sushi_date_6113e72b:
 msgid "[_R_] What if I told you my friend Ben Franklin made a reservation for us?"
@@ -17994,23 +17994,23 @@ msgstr "[_M_] Dziękuję bardzo Joey. Mam nadzieję, że wasze spotkanie przebie
 
 # game/UpdateScript0.08_2.rpy:9869 #-#-# translate crowdin sushi_date_c65abfa1_2:
 msgid "[_R_] Yeah, thanks."
-msgstr ""
+msgstr "[_R_] Tak, dzięki."
 
 # game/UpdateScript0.08_2.rpy:9870 #-#-# translate crowdin sushi_date_60180ac6_2:
 msgid "[_RT_] {i}Thank God he's leaving!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Dzięki Bogu, idzie sobiei!{/i}"
 
 # game/UpdateScript0.08_2.rpy:9876 #-#-# translate crowdin sushi_date_22e608b3_1:
 msgid "[_R_] No, no... not a problem at all. I just had it in my mind that it was just going to be Mom and me."
-msgstr ""
+msgstr "[_R_] Nie, nie... to żaden problem. Po prostu myślałem, że będziemy tylko ja i mama."
 
 # game/UpdateScript0.08_2.rpy:9877 #-#-# translate crowdin sushi_date_901dce26_1:
 msgid "[_R_] But we're happy to have you join us, and very grateful that you got us a table."
-msgstr ""
+msgstr "[_R_] Ale cieszymy się, że do nas dołączysz i jesteśmy bardzo wdzięczni, że załatwiłeś nam stolik."
 
 # game/UpdateScript0.08_2.rpy:9878 #-#-# translate crowdin sushi_date_676ebde2:
 msgid "[_J_] More than a table, our own private room. You're gonna to love it!"
-msgstr ""
+msgstr "[_J_] Więcej niż stolik, nasz własny prywatny pokój. Spodoba ci się!"
 
 # game/UpdateScript0.08_2.rpy:9880 #-#-# translate crowdin sushi_date_290b7655:
 msgid "[_M_] We'll just follow you then?"
@@ -18042,23 +18042,23 @@ msgstr "[_M_] Dziękuję bardzo Joey. Mam nadzieję, że wasze spotkanie przebie
 
 # game/UpdateScript0.08_2.rpy:9897 #-#-# translate crowdin sushi_date_c65abfa1_3:
 msgid "[_R_] Yeah, thanks."
-msgstr ""
+msgstr "[_R_] Tak, dzięki."
 
 # game/UpdateScript0.08_2.rpy:9898 #-#-# translate crowdin sushi_date_60180ac6_3:
 msgid "[_RT_] {i}Thank God he's leaving!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Dzięki Bogu, idzie sobiei!{/i}"
 
 # game/UpdateScript0.08_2.rpy:9899 #-#-# translate crowdin sushi_date_486f971b_1:
 msgid "[_MT_] {i}I thought [ryan] was going to stand up to Joey for a second. Maybe not the smartest thing, but that sure would have been brave.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Przez chwilę myślałem, że [ryan] postawi się Joey'owi. Może nie byłoby to najmądrzejsze, ale na pewno odważne.{/i}"
 
 # game/UpdateScript0.08_2.rpy:9900 #-#-# translate crowdin sushi_date_7b2a197a_1:
 msgid "[_MT_] {i}Instead he backed off like a beta male that's just been challenged by an alpha.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Zamiast tego wycofał się jak samiec beta, który właśnie został wyzwany przez samca alfa.{/i}"
 
 # game/UpdateScript0.08_2.rpy:9901 #-#-# translate crowdin sushi_date_a0525bab_1:
 msgid "{i}{b}\"Mom's Respect -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek mamy -1\" {/b}{/i}"
 
 # game/UpdateScript0.08_2.rpy:9912 #-#-# translate crowdin sushi_date_joey_c8c2bf1c:
 msgid "[_J_] Bring us a bottle of your Niigata red wine and four plates of the Nihon Tsua sushi sampler to get us started, thank you."
@@ -20326,11 +20326,11 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:11008 #-#-# translate crowdin sushi_date_ryan_009ee57a:
 msgid "[_M_] We'll both have the Itamae's special."
-msgstr ""
+msgstr "[_M_] Oboje dostaniemy specjalność Itamae."
 
 # game/UpdateScript0.08_2.rpy:11009 #-#-# translate crowdin sushi_date_ryan_53748b51:
 msgid "[_R_] Oh, and some wine."
-msgstr ""
+msgstr "[_R_] Och, i trochę wina."
 
 # game/UpdateScript0.08_2.rpy:11010 #-#-# translate crowdin sushi_date_ryan_f3f3d6fb:
 msgid "[_W_] Do you want the Nigaata red again?"
@@ -20338,7 +20338,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:11011 #-#-# translate crowdin sushi_date_ryan_25879369:
 msgid "[_R_] Yes, please!"
-msgstr ""
+msgstr "[_R_] Tak, proszę!"
 
 # game/UpdateScript0.08_2.rpy:11014 #-#-# translate crowdin sushi_date_ryan_b6285efc:
 msgid "[_M_] Thank you for bringing me here again."
@@ -21278,55 +21278,55 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:11524 #-#-# translate crowdin sushi_date_ryan_009ee57a_1:
 msgid "[_M_] We'll both have the Itamae's special."
-msgstr ""
+msgstr "[_M_] Oboje dostaniemy specjalność Itamae."
 
 # game/UpdateScript0.08_2.rpy:11525 #-#-# translate crowdin sushi_date_ryan_53748b51_1:
 msgid "[_R_] Oh, and some wine."
-msgstr ""
+msgstr "[_R_] Och, i trochę wina."
 
 # game/UpdateScript0.08_2.rpy:11526 #-#-# translate crowdin sushi_date_ryan_0c00e90b:
 msgid "[_W_] We've got a nice Nigaata red, but we don't serve alcohol to minors."
-msgstr ""
+msgstr "[_W_] Mamy niezłe czerwone Nigaata, ale nie podajemy alkoholu nieletnim."
 
 # game/UpdateScript0.08_2.rpy:11527 #-#-# translate crowdin sushi_date_ryan_c7fd6244:
 msgid "[_R_] Ha... I thought you might say that."
-msgstr ""
+msgstr "[_R_] Ha... Myślałem, że to pani powie."
 
 # game/UpdateScript0.08_2.rpy:11530 #-#-# translate crowdin sushi_date_ryan_1a08df58:
 msgid "[_R_] It's alright, most people think I look eighteen, so I'm always getting carded. It's mostly because I'm short."
-msgstr ""
+msgstr "[_R_] W porządku, większość ludzi myśli, że wyglądam na osiemnaście lat, więc zawsze jestem proszony o dowód. Głównie dlatego, że jestem niski."
 
 # game/UpdateScript0.08_2.rpy:11531 #-#-# translate crowdin sushi_date_ryan_de84a066:
 msgid "[_W_] I would have guessed sixteen. But... that looks legitimate."
-msgstr ""
+msgstr "[_W_] Zgadywałabym, że szesnaście. Ale... tak to wygląda."
 
 # game/UpdateScript0.08_2.rpy:11532 #-#-# translate crowdin sushi_date_ryan_1c9bd533:
 msgid "[_W_] Would you like the Nigaata, then?"
-msgstr ""
+msgstr "[_W_] Czy więc chciałbyś Nigaatę?"
 
 # game/UpdateScript0.08_2.rpy:11533 #-#-# translate crowdin sushi_date_ryan_25879369_1:
 msgid "[_R_] Yes, please!"
-msgstr ""
+msgstr "[_R_] Tak, proszę!"
 
 # game/UpdateScript0.08_2.rpy:11536 #-#-# translate crowdin sushi_date_ryan_0573f4ca:
 msgid "[_W_] Oh, and one thing you should be aware of, in a private dinning room like this, we respect the privacy of our dinners. so after we bring you your food, we won't come back unless you summon us."
-msgstr ""
+msgstr "[_W_] Aha, i jedna rzecz, o której powinniście wiedzieć, w prywatnej jadalni, takiej jak ta, szanujemy prywatność naszych kolacji. więc po tym, jak przyniesiemy jedzenie, nie wrócimy, chyba że ktoś nas wezwie."
 
 # game/UpdateScript0.08_2.rpy:11537 #-#-# translate crowdin sushi_date_ryan_accb9c5f:
 msgid "[_W_] You can summon us by texting the number on that card we left on the table, and we'll send someone in immediately."
-msgstr ""
+msgstr "[_W_] Możesz nas wezwać, wysyłając SMS-a na numer podany na kartce, którą zostawiliśmy na stole, a my natychmiast kogoś wyślemy."
 
 # game/UpdateScript0.08_2.rpy:11538 #-#-# translate crowdin sushi_date_ryan_e70ac03f:
 msgid "[_M_] Oh... That's really nice."
-msgstr ""
+msgstr "[_M_] O... To naprawdę miłe."
 
 # game/UpdateScript0.08_2.rpy:11541 #-#-# translate crowdin sushi_date_ryan_8cd338aa:
 msgid "[_M_] I'm worried you're going to get us in trouble with that fake ID."
-msgstr ""
+msgstr "[_M_] Martwię się, że wpakujesz nas w kłopoty z tym fałszywym dowodem osobistym."
 
 # game/UpdateScript0.08_2.rpy:11542 #-#-# translate crowdin sushi_date_ryan_0610d205:
 msgid "[_M_] It would be one things if you looked older than your actual age."
-msgstr ""
+msgstr "[_M_] Co innego, gdybyś wyglądał na starszego niż w rzeczywistości."
 
 # game/UpdateScript0.08_2.rpy:11543 #-#-# translate crowdin sushi_date_ryan_26c2871d:
 msgid "[_M_] And I know you don't like to hear this, but if anything, you look younger."
