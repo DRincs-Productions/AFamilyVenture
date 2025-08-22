@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-08-22 17:32\n"
+"PO-Revision-Date: 2025-08-22 18:31\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/images/interface_images/Roulette/RouletteGame.rpy:607 #-#-# translate crowdin test_feb4bc5b:
 msgid "[betPickVar]"
@@ -42,160 +42,161 @@ msgstr "[_RLT_dealer_] Błąd: W grze Penta betting można wybrać 5 (pięć) do
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:669 #-#-# translate crowdin gameTypeErrorCheck_30b475c4:
 msgid "[_RLT_dealer_] Error: With the Line betting game you can pick any 6 (six) roulette numbers. Please supply a list of six different numbers.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Błąd: W zakładzie Line można wybrać 6 (sześć) dowolnych numerów ruletki. Podaj listę sześciu różnych numerów.{w=3.0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:678 #-#-# translate crowdin gameTypeErrorCheck_e69becfe:
 msgid "[_RLT_dealer_] Error: With the Dozen betting game you can pick any 12 (twelve) roulette numbers. Please supply a list of 12 different numbers.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Błąd: W grze Dozen możesz wybrać 12 (dwanaście) dowolnych numerów ruletki. Prosimy o dostarczenie listy 12 różnych numerów.{w=3.0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:688 #-#-# translate crowdin gameTypeErrorCheck_3fde7c69:
 msgid "[_RLT_dealer_] Error: You have picked an incorrect color. Acceptable colors are {outlinecolor=#ffffff}{color=#FF0000}Red{/color}{/outlinecolor} and {outlinecolor=#ffffff}{color=#000000}Black{/color}{/outlinecolor}.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Błąd: Wybrano nieprawidłowy kolor. Akceptowane kolory to {outlinecolor=#ffffff}{color=#FF0000}Czerwony{/color}{/outlinecolor} i {outlinecolor=#ffffff}{color=#000000}Czarny{/color}{/outlinecolor}.{w=3.0}.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:696 #-#-# translate crowdin gameTypeErrorCheck_3fde7c69_1:
 msgid "[_RLT_dealer_] Error: You have picked an incorrect color. Acceptable colors are {outlinecolor=#ffffff}{color=#FF0000}Red{/color}{/outlinecolor} and {outlinecolor=#ffffff}{color=#000000}Black{/color}{/outlinecolor}.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Błąd: Wybrano nieprawidłowy kolor. Akceptowane kolory to {outlinecolor=#ffffff}{color=#FF0000}Czerwony{/color}{/outlinecolor} i {outlinecolor=#ffffff}{color=#000000}Czarny{/color}{/outlinecolor}.{w=3.0}.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:704 #-#-# translate crowdin gameTypeErrorCheck_e10368bb:
 msgid "[_RLT_dealer_] Error: You have picked an incorrect bet. Acceptable bets are {outlinecolor=#ffffff}{color=#00008B}Odd{/color}{/outlinecolor} or {outlinecolor=#ffffff}{color=#00008B}Even{/color}{/outlinecolor}.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Błąd: Wybrano nieprawidłowy zakład. Akceptowane zakłady to {outlinecolor=#ffff}{color=#00008B}Nieparzyste{/color}{/outlinecolor} lub {outlinecolor=#ffff}{color=#00008B}Parzyste{/color}{/outlinecolor}.{w=3.0}.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:712 #-#-# translate crowdin gameTypeErrorCheck_e10368bb_1:
 msgid "[_RLT_dealer_] Error: You have picked an incorrect bet. Acceptable bets are {outlinecolor=#ffffff}{color=#00008B}Odd{/color}{/outlinecolor} or {outlinecolor=#ffffff}{color=#00008B}Even{/color}{/outlinecolor}.{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Błąd: Wybrano nieprawidłowy zakład. Akceptowane zakłady to {outlinecolor=#ffff}{color=#00008B}Nieparzyste{/color}{/outlinecolor} lub {outlinecolor=#ffff}{color=#00008B}Parzyste{/color}{/outlinecolor}.{w=3.0}.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:720 #-#-# translate crowdin call_rotate_1bc2ab16:
 msgid "[_RLT_dealer_] Let's roll the ball!{w=2.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Rzućmy kulką! {w=2.0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:741 #-#-# translate crowdin lblCheckRoll_4da8e105:
 msgid "[_RLT_dealer_] You bet the ball would land on [playerPiked]{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Obstawiłeś, że kulka wyląduje na [playerPiked]{w=3.0}.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:748 #-#-# translate crowdin lblCheckRoll_38a91ca2:
 msgid "[_RLT_dealer_] You win! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Wygrałeś! Wylosowana liczba to [theRoll] i jest to [theRollOddOrEven_text], kolor to [theRollColor_text]!{w=3.0}.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:749 #-#-# translate crowdin lblCheckRoll_fb67b1be:
 msgid "[_RLT_dealer_] The payout is 35 to 1, so you won $[payout]!{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Wypłata wynosi 35 do 1, więc wygrałeś $[payout]!{w=3,0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:753 #-#-# translate crowdin lblCheckRoll_bf9f0393:
 msgid "[_RLT_dealer_] You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Przegrałeś! Wyrzucona liczba to [theRoll] i [theRollOddOrEven_text], kolor to [theRollColor_text]!{w=3.0}.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:762 #-#-# translate crowdin lblCheckRoll_38a91ca2_1:
 msgid "[_RLT_dealer_] You win! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Wygrałeś! Wylosowana liczba to [theRoll] i jest to [theRollOddOrEven_text], kolor to [theRollColor_text]!{w=3.0}.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:763 #-#-# translate crowdin lblCheckRoll_a5eb7354:
 msgid "[_RLT_dealer_] The payout is 17 to 1, so you won $[payout]!{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Wypłata wynosi 17 do 1, więc wygrałeś $[payout]!{w=3,0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:767 #-#-# translate crowdin lblCheckRoll_bf9f0393_1:
 msgid "[_RLT_dealer_] You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Przegrałeś! Wyrzucona liczba to [theRoll] i [theRollOddOrEven_text], kolor to [theRollColor_text]!{w=3.0}.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:776 #-#-# translate crowdin lblCheckRoll_38a91ca2_2:
 msgid "[_RLT_dealer_] You win! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Wygrałeś! Wylosowana liczba to [theRoll] i jest to [theRollOddOrEven_text], kolor to [theRollColor_text]!{w=3.0}.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:777 #-#-# translate crowdin lblCheckRoll_700ff3e1:
 msgid "[_RLT_dealer_] The payout is 11 to 1, so you won $[payout]!{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Wypłata wynosi 11 do 1, więc wygrałeś $[payout]!{w=3,0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:781 #-#-# translate crowdin lblCheckRoll_bf9f0393_2:
 msgid "[_RLT_dealer_] You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Przegrałeś! Wyrzucona liczba to [theRoll] i [theRollOddOrEven_text], kolor to [theRollColor_text]!{w=3.0}.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:790 #-#-# translate crowdin lblCheckRoll_38a91ca2_3:
 msgid "[_RLT_dealer_] You win! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Wygrałeś! Wylosowana liczba to [theRoll] i jest to [theRollOddOrEven_text], kolor to [theRollColor_text]!{w=3.0}.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:791 #-#-# translate crowdin lblCheckRoll_0f532220:
 msgid "[_RLT_dealer_] The payout is 8 to 1, so you won $[payout]!{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Wypłata wynosi 8 do 1, więc wygrałeś $[payout]!{w=3,0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:795 #-#-# translate crowdin lblCheckRoll_bf9f0393_3:
 msgid "[_RLT_dealer_] You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Przegrałeś! Wyrzucona liczba to [theRoll] i [theRollOddOrEven_text], kolor to [theRollColor_text]!{w=3.0}.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:804 #-#-# translate crowdin lblCheckRoll_38a91ca2_4:
 msgid "[_RLT_dealer_] You win! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Wygrałeś! Wylosowana liczba to [theRoll] i jest to [theRollOddOrEven_text], kolor to [theRollColor_text]!{w=3.0}.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:805 #-#-# translate crowdin lblCheckRoll_f11f7ab8:
 msgid "[_RLT_dealer_] The payout is 6 to 1, so you won $[payout]!{w=3.0}{nw}"
-msgstr ""
+msgstr "[_RLT_dealer_] Wypłata wynosi 6 do 1, więc wygrałeś $[wypłata]!{w=3.0}{nw}"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:809 #-#-# translate crowdin lblCheckRoll_bf9f0393_4:
 msgid "[_RLT_dealer_] You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Przegrałeś! Wyrzucona liczba to [theRoll] i [theRollOddOrEven_text], kolor to [theRollColor_text]!{w=3.0}.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:818 #-#-# translate crowdin lblCheckRoll_38a91ca2_5:
 msgid "[_RLT_dealer_] You win! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Wygrałeś! Wylosowana liczba to [theRoll] i jest to [theRollOddOrEven_text], kolor to [theRollColor_text]!{w=3.0}.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:819 #-#-# translate crowdin lblCheckRoll_bf6213fd:
 msgid "[_RLT_dealer_] The payout is 5 to 1, so you won $[payout]!{w=3.0}{nw}"
-msgstr ""
+msgstr "[_RLT_dealer_] Wypłata wynosi 5 do 1, więc wygrałeś $[wypłata]!{w=3.0}{nw}"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:823 #-#-# translate crowdin lblCheckRoll_bf9f0393_5:
 msgid "[_RLT_dealer_] You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Przegrałeś! Wyrzucona liczba to [theRoll] i [theRollOddOrEven_text], kolor to [theRollColor_text]!{w=3.0}.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:832 #-#-# translate crowdin lblCheckRoll_38a91ca2_6:
 msgid "[_RLT_dealer_] You win! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Wygrałeś! Wylosowana liczba to [theRoll] i jest to [theRollOddOrEven_text], kolor to [theRollColor_text]!{w=3.0}.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:833 #-#-# translate crowdin lblCheckRoll_b19b6772:
 msgid "[_RLT_dealer_] The payout is 2 to 1, so you won $[payout]!{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Wypłata wynosi 2 do 1, więc wygrałeś $[payout]!{w=3,0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:837 #-#-# translate crowdin lblCheckRoll_bf9f0393_6:
 msgid "[_RLT_dealer_] You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Przegrałeś! Wyrzucona liczba to [theRoll] i [theRollOddOrEven_text], kolor to [theRollColor_text]!{w=3.0}.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:846 #-#-# translate crowdin lblCheckRoll_38a91ca2_7:
 msgid "[_RLT_dealer_] You win! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Wygrałeś! Wylosowana liczba to [theRoll] i jest to [theRollOddOrEven_text], kolor to [theRollColor_text]!{w=3.0}.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:847 #-#-# translate crowdin lblCheckRoll_93d132d6:
 msgid "[_RLT_dealer_] The payout is 1 to 1, so you won $[payout]!{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Wypłata wynosi 1 do 1, więc wygrałeś $[payout]!{w=3,0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:851 #-#-# translate crowdin lblCheckRoll_bf9f0393_7:
 msgid "[_RLT_dealer_] You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Przegrałeś! Wyrzucona liczba to [theRoll] i [theRollOddOrEven_text], kolor to [theRollColor_text]!{w=3.0}.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:860 #-#-# translate crowdin lblCheckRoll_38a91ca2_8:
 msgid "[_RLT_dealer_] You win! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Wygrałeś! Wylosowana liczba to [theRoll] i jest to [theRollOddOrEven_text], kolor to [theRollColor_text]!{w=3.0}.{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:861 #-#-# translate crowdin lblCheckRoll_93d132d6_1:
 msgid "[_RLT_dealer_] The payout is 1 to 1, so you won $[payout]!{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Wypłata wynosi 1 do 1, więc wygrałeś $[payout]!{w=3,0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:865 #-#-# translate crowdin lblCheckRoll_bf9f0393_8:
 msgid "[_RLT_dealer_] You lose! The number that rolled is [theRoll] and it's [theRollOddOrEven_text], the color is [theRollColor_text]!{w=3.0}{nw} [withDissolve20]"
-msgstr ""
+msgstr "[_RLT_dealer_] Przegrałeś! Wyrzucona liczba to [theRoll] i [theRollOddOrEven_text], kolor to [theRollColor_text]!{w=3.0}.{nw} [withDissolve20]"
 
 # §translate crowdin strings: #|#|# # game/images/interface_images/Roulette/RouletteGame.rpy:236
 msgid "Croupier"
-msgstr ""
+msgstr "Krupier"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:338
 msgid "Do you want to play the Roulette?"
-msgstr ""
+msgstr "Chcesz zagrać w ruletkę?"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:356
 msgid "What type of game do you want to play?"
-msgstr ""
+msgstr "W jaki rodzaj gry chcesz zagrać?"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:571
 msgid "Game type: [betType]\n"
 "You bet on: [playerPiked]"
-msgstr ""
+msgstr "Typ gry: [betType]\n"
+"Postawiłeś na: [playerPiked]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:603
 msgid "Do you want to leave the Roulette game?"
