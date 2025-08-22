@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-08-20 21:15\n"
+"PO-Revision-Date: 2025-08-22 18:31\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.06.rpy:715 #-#-# translate crowdin move_in_day_31871088:
 msgid "[_RT_] {i}I... think I slept in... What time is it?{/i}"
@@ -734,7 +734,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:998 #-#-# translate crowdin move_in_day_a0525bab:
 msgid "{i}{b}\"Mom's Respect -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek mamy -1\" {/b}{/i}"
 
 # game/UpdateScript0.06.rpy:1000 #-#-# translate crowdin move_in_day_c7941187:
 msgid "[_C_] ...."
@@ -2198,7 +2198,7 @@ msgstr "[_MT_] {i}Wygląda na to, że mamy jeszcze sporo do zrobienia!{/i}"
 
 # game/UpdateScript0.06.rpy:1925 #-#-# translate crowdin ph_reading_time_a0525bab:
 msgid "{i}{b}\"Mom's Respect -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek mamy -1\" {/b}{/i}"
 
 # game/UpdateScript0.06.rpy:1927 #-#-# translate crowdin ph_reading_time_70da4510:
 msgid "[_MT_] {i}Look at him!... He's practically drooling?{/i}"
@@ -2470,7 +2470,7 @@ msgstr "[_MT_] {i}Wygląda na to, że mamy jeszcze sporo do zrobienia!{/i}"
 
 # game/UpdateScript0.06.rpy:2045 #-#-# translate crowdin ph_reading_time_a0525bab_1:
 msgid "{i}{b}\"Mom's Respect -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek mamy -1\" {/b}{/i}"
 
 # game/UpdateScript0.06.rpy:2047 #-#-# translate crowdin ph_reading_time_70da4510_1:
 msgid "[_MT_] {i}Look at him!... He's practically drooling?{/i}"
@@ -2750,7 +2750,7 @@ msgstr "[_MT_] {i}Wygląda na to, że mamy jeszcze sporo do zrobienia!{/i}"
 
 # game/UpdateScript0.06.rpy:2178 #-#-# translate crowdin ph_reading_time_a0525bab_2:
 msgid "{i}{b}\"Mom's Respect -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek mamy -1\" {/b}{/i}"
 
 # game/UpdateScript0.06.rpy:2180 #-#-# translate crowdin ph_reading_time_70da4510_2:
 msgid "[_MT_] {i}Look at him!... He's practically drooling?{/i}"
