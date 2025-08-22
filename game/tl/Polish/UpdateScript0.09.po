@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-08-20 21:15\n"
+"PO-Revision-Date: 2025-08-22 18:31\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.09.rpy:564 #-#-# translate crowdin myroom_post_cami_fight_8a5367c3:
 msgid "[_R_] I'm not ready to sleep yet... I should go talk to Mom and Lauren before I come back to bed."
@@ -3426,7 +3426,7 @@ msgstr ""
 
 # game/UpdateScript0.09.rpy:2211 #-#-# translate crowdin NTRLounge2repeat_a0525bab:
 msgid "{i}{b}\"Mom's Respect -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek mamy -1\" {/b}{/i}"
 
 # game/UpdateScript0.09.rpy:2213 #-#-# translate crowdin NTRLounge2repeat_fb72fc6a:
 msgid "[_M_] Don't call your sister a slut!"
