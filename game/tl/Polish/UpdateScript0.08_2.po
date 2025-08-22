@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-08-22 20:09\n"
+"PO-Revision-Date: 2025-08-22 21:23\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.08_2.rpy:9 #-#-# translate crowdin mom_bumps_sidney_bc054bd6:
 msgid "[_G_] Well, if it isn't the lovely Miss [mom_name]."
@@ -14702,11 +14702,11 @@ msgstr "[_M_] Hej Matt, Darnell, Trent, jak się macie chłopcy?"
 
 # game/UpdateScript0.08_2.rpy:8421 #-#-# translate crowdin pizza_date_3edc7518:
 msgid "[_DR_] We're good, thanks, Miss [mom_name]."
-msgstr ""
+msgstr "[_DR_] Wszystko dobrze, dzięki, pani [mom_name]."
 
 # game/UpdateScript0.08_2.rpy:8422 #-#-# translate crowdin pizza_date_06828591:
 msgid "[_M_] Did you get your make up math work finished, Trent?"
-msgstr ""
+msgstr "[_M_] Skończyłeś nadrabiać zaległości z matematyki, Trent?"
 
 # game/UpdateScript0.08_2.rpy:8423 #-#-# translate crowdin pizza_date_acdf17ef:
 msgid "[_T_] It's still not quite done."
@@ -16110,15 +16110,15 @@ msgstr "[_M_] Hej Matt, Darnell, Trent, jak się macie chłopcy?"
 
 # game/UpdateScript0.08_2.rpy:9043 #-#-# translate crowdin pizza_date_3edc7518_1:
 msgid "[_DR_] We're good, thanks, Miss [mom_name]."
-msgstr ""
+msgstr "[_DR_] Wszystko dobrze, dzięki, pani [mom_name]."
 
 # game/UpdateScript0.08_2.rpy:9044 #-#-# translate crowdin pizza_date_06828591_1:
 msgid "[_M_] Did you get your make up math work finished, Trent?"
-msgstr ""
+msgstr "[_M_] Skończyłeś nadrabiać zaległości z matematyki, Trent?"
 
 # game/UpdateScript0.08_2.rpy:9045 #-#-# translate crowdin pizza_date_6db6e9f1:
 msgid "[_T_] Almost."
-msgstr ""
+msgstr "[_T_] Prawie."
 
 # game/UpdateScript0.08_2.rpy:9047 #-#-# translate crowdin pizza_date_771fea4c:
 msgid "[_DR_] Miss [mom_name]? You don't happen to have a blue SUV parked around the corner, do you?"
@@ -16798,39 +16798,39 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:9337 #-#-# translate crowdin pizza_date_7c2a48d3:
 msgid "[_MB_] It's so crazy we just ran into you right now, Miss [mom_name]... We were just talking about you."
-msgstr ""
+msgstr "[_MB_] To takie niezwykłe, że właśnie na ciebie wpadliśmy, pani [mom_name]... Właśnie o pani rozmawialiśmy."
 
 # game/UpdateScript0.08_2.rpy:9338 #-#-# translate crowdin pizza_date_1a9ee574:
 msgid "[_M_] Oh?... Good things, I hope?"
-msgstr ""
+msgstr "[_M_] Ojej?... Dobre rzeczy, mam nadzieję?"
 
 # game/UpdateScript0.08_2.rpy:9339 #-#-# translate crowdin pizza_date_d26e188d:
 msgid "[_MB_] Yeah, only the best!"
-msgstr ""
+msgstr "[_MB_] Tak, tylko najlepsze!"
 
 # game/UpdateScript0.08_2.rpy:9340 #-#-# translate crowdin pizza_date_3dd9ea08:
 msgid "[_MB_] In the locker room after basketball practice, we had an informal poll on which teacher we think is the prettiest."
-msgstr ""
+msgstr "[_MB_] W szatni po treningu koszykówki przeprowadziliśmy nieformalną ankietę na temat tego, która nauczycielka jest naszym zdaniem najładniejsza."
 
 # game/UpdateScript0.08_2.rpy:9341 #-#-# translate crowdin pizza_date_6744066e:
 msgid "[_DR_] Yeah, it came down to you and Miss Stone."
-msgstr ""
+msgstr "[_DR_] Tak, wszystko sprowadzało się do pani i pani Stone."
 
 # game/UpdateScript0.08_2.rpy:9342 #-#-# translate crowdin pizza_date_fcbd8a02:
 msgid "[_MB_] And you ended up the overwhelming favorite."
-msgstr ""
+msgstr "[_MB_] I skończyła pani jako przytłaczający faworyt."
 
 # game/UpdateScript0.08_2.rpy:9345 #-#-# translate crowdin pizza_date_5e495512:
 msgid "[_M_] Oh, yeah?"
-msgstr ""
+msgstr "[_M_] Och, naprawdę?"
 
 # game/UpdateScript0.08_2.rpy:9346 #-#-# translate crowdin pizza_date_e6ba5c97:
 msgid "[_M_] I'm flattered."
-msgstr ""
+msgstr "[_M_] Pochlebia mi to."
 
 # game/UpdateScript0.08_2.rpy:9347 #-#-# translate crowdin pizza_date_80e19bd4:
 msgid "[_RT_] {i}Shit! I'm sure she is flattered... After feeling like Dad doesn't think she's beautiful anymore, I'm sure she'll soak up any compliments on her looks she can get.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Kurwa! Jestem pewien, że jej to schlebia... Po poczuciu, że tata nie uważa jej już za piękną, jestem pewien, że będzie chłonąć każdy komplement na temat jej wyglądu, jaki tylko może dostać.{/i}"
 
 # game/UpdateScript0.08_2.rpy:9348 #-#-# translate crowdin pizza_date_52ff1b42:
 msgid "[_RT_] {i}After our little conversation in class, I know Matt is hoping to hook up with mom.{/i}"
