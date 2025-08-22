@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-08-19 18:53\n"
+"PO-Revision-Date: 2025-08-22 18:31\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.05.rpy:476 #-#-# translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -1534,7 +1534,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1237 #-#-# translate crowdin sidney_search_a0525bab:
 msgid "{i}{b}\"Mom's Respect -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek mamy -1\" {/b}{/i}"
 
 # game/UpdateScript0.05.rpy:1241 #-#-# translate crowdin sidney_search_65b14a51:
 msgid "[_R_] Sorry, Mom! I wasn't able to get enough money together this week."
@@ -1554,7 +1554,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:1245 #-#-# translate crowdin sidney_search_a0525bab_1:
 msgid "{i}{b}\"Mom's Respect -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek mamy -1\" {/b}{/i}"
 
 # game/UpdateScript0.05.rpy:1248 #-#-# translate crowdin sidney_search_5291e93d:
 msgid "[_J_] Ok, Let's get on our way."
