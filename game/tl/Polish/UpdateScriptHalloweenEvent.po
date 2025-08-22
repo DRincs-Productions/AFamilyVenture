@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-08-20 21:15\n"
+"PO-Revision-Date: 2025-08-22 20:09\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScriptHalloweenEvent.rpy:256 #-#-# translate crowdin halloween_event_start_36b1bdbb:
 msgid "{i}{b}(HINT){/b} Happy Halloween!{/i}"
@@ -1246,7 +1246,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:1184 #-#-# translate crowdin sidney_monster_path_c2bdcf76:
 msgid "[_R_] NO!"
-msgstr ""
+msgstr "[_R_] NIE!"
 
 # game/UpdateScriptHalloweenEvent.rpy:1203 #-#-# translate crowdin monsters_and_mountains_989a8cfd:
 msgid "[_MD_] Good God, [ryan]! Tell us!"
