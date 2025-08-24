@@ -11,11 +11,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-01-03 09:08\n"
+"PO-Revision-Date: 2025-08-24 19:11\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # §translate crowdin strings: #|#|# # game/stats_screen.rpy:28
 msgid "{color=#42f456}Mom's:{/color}"
-msgstr ""
+msgstr "{color=#42f456}Mamy:{/color}"
 
 # game/stats_screen.rpy:29
 msgid "{color=#000000}Respect..............[momrespect]{/color}"
