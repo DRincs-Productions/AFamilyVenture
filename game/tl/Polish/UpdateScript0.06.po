@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-08-22 20:09\n"
+"PO-Revision-Date: 2025-08-26 21:09\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.06.rpy:715 #-#-# translate crowdin move_in_day_31871088:
 msgid "[_RT_] {i}I... think I slept in... What time is it?{/i}"
@@ -11442,7 +11442,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7322 #-#-# translate crowdin diaz_is_back_b13f5117:
 msgid "It's time for the weekly Agent Diaz event, would you like to skip it this week?"
-msgstr ""
+msgstr "Nadszedł czas na cotygodniowe wydarzenie z Agentką Diaz, czy chciałbyś je pominąć w tym tygodniu?"
 
 # game/UpdateScript0.06.rpy:7325 #-#-# translate crowdin diaz_is_back_89b54335:
 msgid "Ok... I get it... you've got other events to complete."
@@ -11486,7 +11486,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7351 #-#-# translate crowdin diaz_is_back_c335f1dc:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość Lauren +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:7356 #-#-# translate crowdin diaz_is_back_2faf6c00:
 msgid "{i}{b}\"Mandy's Affection -1\"{/b}{/i}"
@@ -11494,7 +11494,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7358 #-#-# translate crowdin diaz_is_back_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek Lauren +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:7360 #-#-# translate crowdin diaz_is_back_4b04ae8e_1:
 msgid "{i}\"Lauren and Mandy's Libido +1\"{/i}"
@@ -11514,7 +11514,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7370 #-#-# translate crowdin diaz_is_back_c335f1dc_1:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość Lauren +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:7373 #-#-# translate crowdin diaz_is_back_d49f35e4_1:
 msgid "{i}{b}\"Lauren's Affection -1\"{/b}{/i}"
@@ -11530,7 +11530,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7380 #-#-# translate crowdin diaz_is_back_c335f1dc_2:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość Lauren +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:7385 #-#-# translate crowdin diaz_is_back_2faf6c00_1:
 msgid "{i}{b}\"Mandy's Affection -1\"{/b}{/i}"
@@ -11538,7 +11538,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7387 #-#-# translate crowdin diaz_is_back_32f0afae_1:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek Lauren +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:7389 #-#-# translate crowdin diaz_is_back_4b04ae8e_3:
 msgid "{i}\"Lauren and Mandy's Libido +1\"{/i}"
@@ -12702,7 +12702,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7936 #-#-# translate crowdin diaz_is_back_c335f1dc_3:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość Lauren +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:7940 #-#-# translate crowdin diaz_is_back_d695f904:
 msgid "[_R_] Sorry Mandy, but Lauren's already been terrorized by Agent Diaz too much."
@@ -12718,7 +12718,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:7943 #-#-# translate crowdin diaz_is_back_32f0afae_2:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek Lauren +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:7944 #-#-# translate crowdin diaz_is_back_2faf6c00_2:
 msgid "{i}{b}\"Mandy's Affection -1\"{/b}{/i}"
@@ -13998,7 +13998,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:8600 #-#-# translate crowdin diaz_lauren_and_mandy_c335f1dc:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość Lauren +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:8604 #-#-# translate crowdin diaz_lauren_and_mandy_a0d191df:
 msgid "[_R_] Sorry, Mandy."
@@ -14018,7 +14018,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:8608 #-#-# translate crowdin diaz_lauren_and_mandy_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek Lauren +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:8611 #-#-# translate crowdin diaz_lauren_and_mandy_676d5451:
 msgid "[_AD_] Alright! [ryan], why don't you step out while we get changed and get Mandy all tied up."
@@ -16482,7 +16482,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:9748 #-#-# translate crowdin candy_strip_show_617c9bdb:
 msgid "{i}\"Money -$20\"{/i}"
-msgstr ""
+msgstr "{i}\"Pieniądze - $20\"{/i}"
 
 # game/UpdateScript0.06.rpy:9752 #-#-# translate crowdin candy_strip_show_bec5e192:
 msgid "[_CD_] Twenty dollars! Now that's a great tip!"
@@ -16562,7 +16562,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:9792 #-#-# translate crowdin candy_strip_show_617c9bdb_1:
 msgid "{i}\"Money -$20\"{/i}"
-msgstr ""
+msgstr "{i}\"Pieniądze - $20\"{/i}"
 
 # game/UpdateScript0.06.rpy:9796 #-#-# translate crowdin candy_strip_show_8135deca:
 msgid "[_CD_] Oh, my God! Another twenty dollars? Thank you so much!"
@@ -18618,7 +18618,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:10991 #-#-# translate crowdin candy_danced_again_617c9bdb:
 msgid "{i}\"Money -$20\"{/i}"
-msgstr ""
+msgstr "{i}\"Pieniądze - $20\"{/i}"
 
 # game/UpdateScript0.06.rpy:10995 #-#-# translate crowdin candy_danced_again_bec5e192:
 msgid "[_CD_] Twenty dollars! Now that's a great tip!"
@@ -18710,7 +18710,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:11047 #-#-# translate crowdin candy_danced_again_617c9bdb_1:
 msgid "{i}\"Money -$20\"{/i}"
-msgstr ""
+msgstr "{i}\"Pieniądze - $20\"{/i}"
 
 # game/UpdateScript0.06.rpy:11051 #-#-# translate crowdin candy_danced_again_8135deca:
 msgid "[_CD_] Oh, my God! Another twenty dollars? Thank you so much!"
@@ -21234,7 +21234,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:12445 #-#-# translate crowdin advanced_ph_shoot_continued_b47c24a5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:12449 #-#-# translate crowdin advanced_ph_shoot_continued_38ca63d0:
 msgid "[_R_] Great, let's just have Megan standing right here, when you just come over and rip her shirt open."
@@ -21586,7 +21586,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:12588 #-#-# translate crowdin advanced_ph_shoot_continued_b47c24a5_1:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:12592 #-#-# translate crowdin advanced_ph_shoot_continued_83f77df9:
 msgid "[_R_] Great, let's have Megan pull out her breasts, I'll tie her hands, and then Mom will point her wand at the knots to look like she tied the knot with magic."
@@ -21962,7 +21962,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:12737 #-#-# translate crowdin advanced_ph_shoot_continued_b47c24a5_2:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:12741 #-#-# translate crowdin advanced_ph_shoot_continued_2c81def1:
 msgid "[_R_] Great, let's just have Megan look like she's yelling at you, challenging your authority... That's when you'll need to use the ball gag."
@@ -22326,7 +22326,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:12881 #-#-# translate crowdin advanced_ph_shoot_continued_b47c24a5_3:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:12885 #-#-# translate crowdin advanced_ph_shoot_continued_c95c6eb9:
 msgid "[_R_] Great, you two just let the girls breathe, and let's have Megan bend over that table, I mean \"desk\", to get ready for her spanking."
@@ -22694,7 +22694,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:13026 #-#-# translate crowdin advanced_ph_shoot_continued_b47c24a5_4:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:13030 #-#-# translate crowdin advanced_ph_shoot_continued_ecb1291a:
 msgid "[_R_] How about a pose where Megan is on all fours with her skirt up so we can see that she's not wearing any panties, and Mom will be dominating her by sitting on her."
@@ -22918,7 +22918,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:13119 #-#-# translate crowdin advanced_ph_shoot_continued_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uczucia mamy +1\" {/b}{/i}"
 
 # game/UpdateScript0.06.rpy:13120 #-#-# translate crowdin advanced_ph_shoot_continued_d16bc7fd:
 msgid "{i}{b}\"Mom's Libido +5\"{/b}{/i}"
@@ -22966,7 +22966,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:13139 #-#-# translate crowdin advanced_ph_shoot_continued_f4c5fa30_1:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uczucia mamy +1\" {/b}{/i}"
 
 # game/UpdateScript0.06.rpy:13140 #-#-# translate crowdin advanced_ph_shoot_continued_d16bc7fd_1:
 msgid "{i}{b}\"Mom's Libido +5\"{/b}{/i}"
@@ -23026,7 +23026,7 @@ msgstr "[_M_] O Boże!"
 
 # game/UpdateScript0.06.rpy:13164 #-#-# translate crowdin lick_boots_b47c24a5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:13168 #-#-# translate crowdin lick_boots_18875b47:
 msgid "[_MB_] Ok... let's set the scene..."
@@ -23142,7 +23142,7 @@ msgstr "[_M_] O Boże!"
 
 # game/UpdateScript0.06.rpy:13212 #-#-# translate crowdin lick_boots_b47c24a5_1:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:13216 #-#-# translate crowdin lick_boots_f1024296:
 msgid "[_R_] Ok... let's set the scene..."
@@ -23370,7 +23370,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:13310 #-#-# translate crowdin lick_boots_b47c24a5_2:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:13314 #-#-# translate crowdin lick_boots_38ca63d0:
 msgid "[_R_] Great, let's just have Megan standing right here, when you just come over and rip her shirt open."
@@ -23722,7 +23722,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:13455 #-#-# translate crowdin lick_boots_b47c24a5_3:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:13459 #-#-# translate crowdin lick_boots_83f77df9:
 msgid "[_R_] Great, let's have Megan pull out her breasts, I'll tie her hands, and then Mom will point her wand at the knots to look like she tied the knot with magic."
@@ -24098,7 +24098,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:13604 #-#-# translate crowdin lick_boots_b47c24a5_4:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:13608 #-#-# translate crowdin lick_boots_2c81def1:
 msgid "[_R_] Great, let's just have Megan look like she's yelling at you, challenging your authority... That's when you'll need to use the ball gag."
@@ -24462,7 +24462,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:13750 #-#-# translate crowdin lick_boots_b47c24a5_5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:13754 #-#-# translate crowdin lick_boots_c95c6eb9:
 msgid "[_R_] Great, you two just let the girls breathe, and let's have Megan bend over that table, I mean \"desk\", to get ready for her spanking."
@@ -24830,7 +24830,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:13897 #-#-# translate crowdin lick_boots_b47c24a5_6:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:13901 #-#-# translate crowdin lick_boots_ecb1291a:
 msgid "[_R_] How about a pose where Megan is on all fours with her skirt up so we can see that she's not wearing any panties, and Mom will be dominating her by sitting on her."
@@ -25054,7 +25054,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:13990 #-#-# translate crowdin lick_boots_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uczucia mamy +1\" {/b}{/i}"
 
 # game/UpdateScript0.06.rpy:13991 #-#-# translate crowdin lick_boots_d16bc7fd:
 msgid "{i}{b}\"Mom's Libido +5\"{/b}{/i}"
@@ -25102,7 +25102,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:14010 #-#-# translate crowdin lick_boots_f4c5fa30_1:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uczucia mamy +1\" {/b}{/i}"
 
 # game/UpdateScript0.06.rpy:14011 #-#-# translate crowdin lick_boots_d16bc7fd_1:
 msgid "{i}{b}\"Mom's Libido +5\"{/b}{/i}"
@@ -25294,7 +25294,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:14090 #-#-# translate crowdin megans_shirt_b47c24a5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:14094 #-#-# translate crowdin megans_shirt_2abaaa70:
 msgid "[_MB_] Alright, let's set the scene."
@@ -25366,7 +25366,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:14115 #-#-# translate crowdin megans_shirt_b47c24a5_1:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:14119 #-#-# translate crowdin megans_shirt_8686bd2f:
 msgid "[_R_] Alright, let's set the scene."
@@ -25598,7 +25598,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:14205 #-#-# translate crowdin megans_shirt_b47c24a5_2:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:14209 #-#-# translate crowdin megans_shirt_a9cea9a4:
 msgid "[_MB_] Awesome! Let's set up the scene."
@@ -25698,7 +25698,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:14245 #-#-# translate crowdin megans_shirt_b47c24a5_3:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:14249 #-#-# translate crowdin megans_shirt_77131b20:
 msgid "[_MG_] Awesome! Let's set up the scene."
@@ -25930,7 +25930,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:14339 #-#-# translate crowdin megans_shirt_b47c24a5_4:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:14343 #-#-# translate crowdin megans_shirt_a9cea9a4_1:
 msgid "[_MB_] Awesome! Let's set up the scene."
@@ -26034,7 +26034,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:14382 #-#-# translate crowdin megans_shirt_b47c24a5_5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:14386 #-#-# translate crowdin megans_shirt_77131b20_1:
 msgid "[_MG_] Awesome! Let's set up the scene."
@@ -26346,7 +26346,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:14507 #-#-# translate crowdin megans_shirt_b47c24a5_6:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:14511 #-#-# translate crowdin megans_shirt_ecb1291a:
 msgid "[_R_] How about a pose where Megan is on all fours with her skirt up so we can see that she's not wearing any panties, and Mom will be dominating her by sitting on her."
@@ -26570,7 +26570,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:14600 #-#-# translate crowdin megans_shirt_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uczucia mamy +1\" {/b}{/i}"
 
 # game/UpdateScript0.06.rpy:14601 #-#-# translate crowdin megans_shirt_d16bc7fd:
 msgid "{i}{b}\"Mom's Libido +5\"{/b}{/i}"
@@ -26618,7 +26618,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:14620 #-#-# translate crowdin megans_shirt_f4c5fa30_1:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uczucia mamy +1\" {/b}{/i}"
 
 # game/UpdateScript0.06.rpy:14621 #-#-# translate crowdin megans_shirt_d16bc7fd_1:
 msgid "{i}{b}\"Mom's Libido +5\"{/b}{/i}"
@@ -26878,7 +26878,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:14756 #-#-# translate crowdin megan_tied_b47c24a5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:14760 #-#-# translate crowdin megan_tied_a9cea9a4:
 msgid "[_MB_] Awesome! Let's set up the scene."
@@ -26978,7 +26978,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:14796 #-#-# translate crowdin megan_tied_b47c24a5_1:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:14800 #-#-# translate crowdin megan_tied_77131b20:
 msgid "[_MG_] Awesome! Let's set up the scene."
@@ -27210,7 +27210,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:14890 #-#-# translate crowdin megan_tied_b47c24a5_2:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:14894 #-#-# translate crowdin megan_tied_a9cea9a4_1:
 msgid "[_MB_] Awesome! Let's set up the scene."
@@ -27314,7 +27314,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:14933 #-#-# translate crowdin megan_tied_b47c24a5_3:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:14937 #-#-# translate crowdin megan_tied_77131b20_1:
 msgid "[_MG_] Awesome! Let's set up the scene."
@@ -27626,7 +27626,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:15058 #-#-# translate crowdin megan_tied_b47c24a5_4:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:15062 #-#-# translate crowdin megan_tied_ecb1291a:
 msgid "[_R_] How about a pose where Megan is on all fours with her skirt up so we can see that she's not wearing any panties, and Mom will be dominating her by sitting on her."
@@ -27850,7 +27850,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:15151 #-#-# translate crowdin megan_tied_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uczucia mamy +1\" {/b}{/i}"
 
 # game/UpdateScript0.06.rpy:15152 #-#-# translate crowdin megan_tied_d16bc7fd:
 msgid "{i}{b}\"Mom's Libido +5\"{/b}{/i}"
@@ -27898,7 +27898,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:15171 #-#-# translate crowdin megan_tied_f4c5fa30_1:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uczucia mamy +1\" {/b}{/i}"
 
 # game/UpdateScript0.06.rpy:15172 #-#-# translate crowdin megan_tied_d16bc7fd_1:
 msgid "{i}{b}\"Mom's Libido +5\"{/b}{/i}"
@@ -28354,7 +28354,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:15384 #-#-# translate crowdin ball_gagged_b47c24a5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:15388 #-#-# translate crowdin ball_gagged_178186e4:
 msgid "[_MB_] Wow! Good speech, [ryan]!"
@@ -28522,7 +28522,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:15456 #-#-# translate crowdin ball_gagged_b47c24a5_1:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:15460 #-#-# translate crowdin ball_gagged_d4d29971:
 msgid "[_R_] Great!... Let's set up the scene."
@@ -28794,7 +28794,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:15585 #-#-# translate crowdin ball_gagged_b47c24a5_2:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:15589 #-#-# translate crowdin ball_gagged_178186e4_1:
 msgid "[_MB_] Wow! Good speech, [ryan]!"
@@ -28966,7 +28966,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:15658 #-#-# translate crowdin ball_gagged_b47c24a5_3:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:15662 #-#-# translate crowdin ball_gagged_3d38f8fc:
 msgid "[_MG_] Wow! Good speech, [ryan]!"
@@ -29126,7 +29126,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:15737 #-#-# translate crowdin ball_gagged_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uczucia mamy +1\" {/b}{/i}"
 
 # game/UpdateScript0.06.rpy:15738 #-#-# translate crowdin ball_gagged_d16bc7fd:
 msgid "{i}{b}\"Mom's Libido +5\"{/b}{/i}"
@@ -29174,7 +29174,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:15757 #-#-# translate crowdin ball_gagged_f4c5fa30_1:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uczucia mamy +1\" {/b}{/i}"
 
 # game/UpdateScript0.06.rpy:15758 #-#-# translate crowdin ball_gagged_d16bc7fd_1:
 msgid "{i}{b}\"Mom's Libido +5\"{/b}{/i}"
@@ -29586,7 +29586,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:15970 #-#-# translate crowdin megan_spanked_b47c24a5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:15974 #-#-# translate crowdin megan_spanked_02eb8d55:
 msgid "[_M_] Is this really our last pose?"
@@ -29634,7 +29634,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:15987 #-#-# translate crowdin megan_spanked_b47c24a5_1:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:15991 #-#-# translate crowdin megan_spanked_02eb8d55_1:
 msgid "[_M_] Is this really our last pose?"
@@ -29738,7 +29738,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:16030 #-#-# translate crowdin megan_spanked_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uczucia mamy +1\" {/b}{/i}"
 
 # game/UpdateScript0.06.rpy:16031 #-#-# translate crowdin megan_spanked_d16bc7fd:
 msgid "{i}{b}\"Mom's Libido +5\"{/b}{/i}"
@@ -29786,7 +29786,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:16050 #-#-# translate crowdin megan_spanked_f4c5fa30_1:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uczucia mamy +1\" {/b}{/i}"
 
 # game/UpdateScript0.06.rpy:16051 #-#-# translate crowdin megan_spanked_d16bc7fd_1:
 msgid "{i}{b}\"Mom's Libido +5\"{/b}{/i}"
@@ -32558,7 +32558,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:17298 #-#-# translate crowdin ph_recap_end_b47c24a5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:17302 #-#-# translate crowdin ph_recap_end_02eb8d55:
 msgid "[_M_] Is this really our last pose?"
@@ -32606,7 +32606,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:17315 #-#-# translate crowdin ph_recap_end_b47c24a5_1:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.06.rpy:17319 #-#-# translate crowdin ph_recap_end_02eb8d55_1:
 msgid "[_M_] Is this really our last pose?"
@@ -32710,7 +32710,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:17358 #-#-# translate crowdin ph_recap_end_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uczucia mamy +1\" {/b}{/i}"
 
 # game/UpdateScript0.06.rpy:17359 #-#-# translate crowdin ph_recap_end_d16bc7fd:
 msgid "{i}{b}\"Mom's Libido +5\"{/b}{/i}"
@@ -32758,7 +32758,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:17378 #-#-# translate crowdin ph_recap_end_f4c5fa30_1:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uczucia mamy +1\" {/b}{/i}"
 
 # game/UpdateScript0.06.rpy:17379 #-#-# translate crowdin ph_recap_end_d16bc7fd_1:
 msgid "{i}{b}\"Mom's Libido +5\"{/b}{/i}"
