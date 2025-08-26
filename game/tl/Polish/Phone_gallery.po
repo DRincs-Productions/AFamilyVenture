@@ -10,19 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-02-18 10:36\n"
+"PO-Revision-Date: 2025-08-26 15:33\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # §translate crowdin strings: #|#|# # game/Phone_gallery.rpy:54
 msgid "{image=images/interface_images/phone_screen_images/images_phone.webp} Photo Gallery"
-msgstr ""
+msgstr "{image=images/interface_images/phone_screen_images/images_phone.webp} Foto Galeria"
 
 # game/Phone_gallery.rpy:65
 msgid "{image=images/interface_images/phone_screen_images/folder_phone_small.webp} Mom's pictures"
-msgstr ""
+msgstr "{image=images/interface_images/phone_screen_images/folder_phone_small.webp} Zdjęcia mamy"
 
 # game/Phone_gallery.rpy:70
 msgid "{image=images/interface_images/phone_screen_images/folder_phone_small.webp} Lauren's pictures"
-msgstr ""
+msgstr "{image=images/interface_images/phone_screen_images/folder_phone_small.webp} Zdjęcia Lauren"
 
 # game/Phone_gallery.rpy:75
 msgid "{image=images/interface_images/phone_screen_images/folder_phone_small.webp} Sidney's pictures"
