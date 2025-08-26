@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-08-22 21:23\n"
+"PO-Revision-Date: 2025-08-26 21:09\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.08_2.rpy:9 #-#-# translate crowdin mom_bumps_sidney_bc054bd6:
 msgid "[_G_] Well, if it isn't the lovely Miss [mom_name]."
@@ -26442,7 +26442,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:14104 #-#-# translate crowdin beach_date_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uczucia mamy +1\" {/b}{/i}"
 
 # game/UpdateScript0.08_2.rpy:14105 #-#-# translate crowdin beach_date_67831cb2:
 msgid "{i}{b}\"Mom's Submission -1\"{/b}{/i}"
@@ -26542,7 +26542,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:14155 #-#-# translate crowdin beach_date_b47c24a5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/UpdateScript0.08_2.rpy:14156 #-#-# translate crowdin beach_date_3d3b9d3e:
 msgid "{i}{b}\"Mom's Affection -1\"{/b}{/i}"
