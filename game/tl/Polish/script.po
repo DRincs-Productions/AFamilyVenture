@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-08-22 21:23\n"
+"PO-Revision-Date: 2025-08-26 21:09\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -514,7 +514,7 @@ msgstr ""
 
 # game/script.rpy:1374 #-#-# translate crowdin myroom_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek Lauren +1\"{/b}{/i}"
 
 # game/script.rpy:1375 #-#-# translate crowdin myroom_64e7b164_1:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
@@ -646,7 +646,7 @@ msgstr ""
 
 # game/script.rpy:2180 #-#-# translate crowdin sleep_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uczucia mamy +1\" {/b}{/i}"
 
 # game/script.rpy:2182 #-#-# translate crowdin sleep_aaa3e661:
 msgid "[_M_] Oh, my day was fine. Did you finish the extra homework on Oedipus I gave you___"
@@ -658,7 +658,7 @@ msgstr ""
 
 # game/script.rpy:2186 #-#-# translate crowdin sleep_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek Lauren +1\"{/b}{/i}"
 
 # game/script.rpy:2188 #-#-# translate crowdin sleep_a3c2b612:
 msgid "[_L_] OMG [ryan].... so Kenzie was so funny today after PE she was all like___"
@@ -894,7 +894,7 @@ msgstr ""
 
 # game/script.rpy:2931 #-#-# translate crowdin wakeupryan_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek Lauren +1\"{/b}{/i}"
 
 # game/script.rpy:2932 #-#-# translate crowdin wakeupryan_fb7fef67:
 msgid "[_RT_] {i}So she did dream about me last night. I'll have to keep whispering suggestions at night.{/i}"
@@ -1226,7 +1226,7 @@ msgstr ""
 
 # game/script.rpy:3364 #-#-# translate crowdin loungeevening_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek Lauren +1\"{/b}{/i}"
 
 # game/script.rpy:3365 #-#-# translate crowdin loungeevening_64e7b164_1:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
@@ -1326,7 +1326,7 @@ msgstr ""
 
 # game/script.rpy:3436 #-#-# translate crowdin loungeevening_32f0afae_1:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek Lauren +1\"{/b}{/i}"
 
 # game/script.rpy:3437 #-#-# translate crowdin loungeevening_64e7b164_2:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
@@ -1590,7 +1590,7 @@ msgstr ""
 
 # game/script.rpy:3615 #-#-# translate crowdin loungeeveningweekend_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek Lauren +1\"{/b}{/i}"
 
 # game/script.rpy:3616 #-#-# translate crowdin loungeeveningweekend_64e7b164_1:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
@@ -1690,7 +1690,7 @@ msgstr ""
 
 # game/script.rpy:3687 #-#-# translate crowdin loungeeveningweekend_32f0afae_1:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek Lauren +1\"{/b}{/i}"
 
 # game/script.rpy:3688 #-#-# translate crowdin loungeeveningweekend_64e7b164_2:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
@@ -2226,7 +2226,7 @@ msgstr ""
 
 # game/script.rpy:4704 #-#-# translate crowdin kitcheneveningweekend_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uczucia mamy +1\" {/b}{/i}"
 
 # game/script.rpy:4706 #-#-# translate crowdin kitcheneveningweekend_95b548c7:
 msgid "[_RT_] {i}Oh Man! I don't think I've ever seen Mom this stressed out. She's trying to put on a strong face, but I can see the worry in her eyes.{/i}"
@@ -2638,7 +2638,7 @@ msgstr ""
 
 # game/script.rpy:4928 #-#-# translate crowdin dishes_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek Lauren +1\"{/b}{/i}"
 
 # game/script.rpy:4929 #-#-# translate crowdin dishes_64e7b164_1:
 msgid "{i}{b}\"Lauren's Libido +1\"{/b}{/i}"
@@ -2678,7 +2678,7 @@ msgstr ""
 
 # game/script.rpy:4998 #-#-# translate crowdin sidneycomeshome_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uczucia mamy +1\" {/b}{/i}"
 
 # game/script.rpy:5000 #-#-# translate crowdin sidneycomeshome_a9c697ba:
 msgid "[_M_] Oh, my day was fine. How did you think my lesson on Oedipu___"
@@ -2690,7 +2690,7 @@ msgstr ""
 
 # game/script.rpy:5004 #-#-# translate crowdin sidneycomeshome_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek Lauren +1\"{/b}{/i}"
 
 # game/script.rpy:5006 #-#-# translate crowdin sidneycomeshome_a3c2b612:
 msgid "[_L_] OMG [ryan].... so Kenzie was so funny today after PE she was all like___"
@@ -3922,7 +3922,7 @@ msgstr ""
 
 # game/script.rpy:5871 #-#-# translate crowdin momsneakingnight_b47c24a5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/script.rpy:5873 #-#-# translate crowdin momsneakingnight_3939be26:
 msgid "[_RT_] {i}Ok, I've got to call it a night, my legs are asleep.{/i}"
@@ -3950,7 +3950,7 @@ msgstr ""
 
 # game/script.rpy:5910 #-#-# translate crowdin momsneakingnight_b47c24a5_1:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/script.rpy:5913 #-#-# translate crowdin momsneakingnight_3939be26_1:
 msgid "[_RT_] {i}Ok, I've got to call it a night, my legs are asleep.{/i}"
@@ -4062,7 +4062,7 @@ msgstr ""
 
 # game/script.rpy:6030 #-#-# translate crowdin momangryroom_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uczucia mamy +1\" {/b}{/i}"
 
 # game/script.rpy:6032 #-#-# translate crowdin momangryroom_079c50f0:
 msgid "[_M_] Thank you so much!"
@@ -4446,7 +4446,7 @@ msgstr ""
 
 # game/script.rpy:6702 #-#-# translate crowdin laurenangryroom_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek Lauren +1\"{/b}{/i}"
 
 # game/script.rpy:6704 #-#-# translate crowdin laurenangryroom_6e20e2d8:
 msgid "[_L_] Thank you so much!"
@@ -4846,7 +4846,7 @@ msgstr ""
 
 # game/script.rpy:7147 #-#-# translate crowdin laurensneakingnight_c335f1dc:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość Lauren +1\"{/b}{/i}"
 
 # game/script.rpy:7149 #-#-# translate crowdin laurensneakingnight_e5956746:
 msgid "[_RT_] {i}That's all I can do tonight. My legs are tingling like crazy.{/i}"
@@ -4874,7 +4874,7 @@ msgstr ""
 
 # game/script.rpy:7181 #-#-# translate crowdin laurensneakingnight_c335f1dc_1:
 msgid "{i}{b}\"Lauren's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość Lauren +1\"{/b}{/i}"
 
 # game/script.rpy:7183 #-#-# translate crowdin laurensneakingnight_e5956746_1:
 msgid "[_RT_] {i}That's all I can do tonight. My legs are tingling like crazy.{/i}"
@@ -7282,7 +7282,7 @@ msgstr ""
 
 # game/script.rpy:9648 #-#-# translate crowdin dinnerfirst_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uczucia mamy +1\" {/b}{/i}"
 
 # game/script.rpy:9649 #-#-# translate crowdin dinnerfirst_44a3be13:
 msgid "[_M_] Oh, honey, it was just terrible.... men from the FBI were here all day, going through our things, digging through our garbage, making copies of all our computer drives."
@@ -7306,7 +7306,7 @@ msgstr ""
 
 # game/script.rpy:9663 #-#-# translate crowdin dinnerfirst_32f0afae:
 msgid "{i}{b}\"Lauren's Affection +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Szacunek Lauren +1\"{/b}{/i}"
 
 # game/script.rpy:9664 #-#-# translate crowdin dinnerfirst_23a6c031:
 msgid "[_L_] OMG [ryan], you missed everything! A bunch of hunky FBI guys were here digging through all our junk, combing through our trash. They even copied everything on my phone and our computers! I better not find any of my selfies on the internet!"
@@ -7886,7 +7886,7 @@ msgstr ""
 
 # game/script.rpy:9919 #-#-# translate crowdin dinnerfirst_b47c24a5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/script.rpy:9925 #-#-# translate crowdin dinnerfirst_b8e25b67:
 msgid "[_RT_] {i}OH shit!{/i}"
@@ -8302,7 +8302,7 @@ msgstr ""
 
 # game/script.rpy:10205 #-#-# translate crowdin nightclubbing_b47c24a5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/script.rpy:10211 #-#-# translate crowdin nightclubbing_b8e25b67:
 msgid "[_RT_] {i}OH shit!{/i}"
