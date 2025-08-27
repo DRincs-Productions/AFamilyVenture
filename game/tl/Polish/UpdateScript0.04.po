@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-08-26 21:09\n"
+"PO-Revision-Date: 2025-08-27 18:24\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.04.rpy:320 #-#-# translate crowdin get_sidney_modeling_68a39f05:
 msgid "[_RT_] {i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
@@ -7546,7 +7546,7 @@ msgstr "[_R_] Wystarczająco długo by wiedzieć, dlaczego chciałaś, aby drzwi
 
 # game/UpdateScript0.04.rpy:4274 #-#-# translate crowdin jacky_at_Laptop_dcdec28a:
 msgid "{i}{b}\"Mom's Anger +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Gniew mamy +1\" {/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4276 #-#-# translate crowdin jacky_at_Laptop_afe1f9c1:
 msgid "[_M_] [ryan]! I don't know what you think you saw, but I wasn't doing anything out of the ordinary."
