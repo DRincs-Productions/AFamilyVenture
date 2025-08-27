@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2025-08-27 16:25\n"
+"PO-Revision-Date: 2025-08-27 20:32\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.04.rpy:320 #-#-# translate crowdin get_sidney_modeling_68a39f05:
 msgid "[_RT_] {i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
@@ -1234,7 +1234,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:1008 #-#-# translate crowdin nightly_sixtynine_445042f6:
 msgid "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
-msgstr "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
+msgstr "{i}{b}\"Libido da Sidney -5\"{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:1010 #-#-# translate crowdin nightly_sixtynine_80ea4dad:
 msgid "[_R_] Yeah.... well hopefully that took care of it."
@@ -3826,7 +3826,7 @@ msgstr "[_R_] Ok.... Vou deixar o dinheiro para você no balcão da cozinha."
 
 # game/UpdateScript0.04.rpy:2317 #-#-# translate crowdin aunt_clean_bath_8f73246e:
 msgid "{i}\"Money -$100\"{/i}"
-msgstr ""
+msgstr "{i}\"Dinheiro -$100\"{/i}"
 
 # game/UpdateScript0.04.rpy:2319 #-#-# translate crowdin aunt_clean_bath_2af0e740:
 msgid "[_CT_] {i}You stupid little pervert.{/i}"
@@ -4078,7 +4078,7 @@ msgstr "[_R_] Ok.... Vou deixar o dinheiro para você no balcão da cozinha."
 
 # game/UpdateScript0.04.rpy:2440 #-#-# translate crowdin aunt_clean_bath_8f73246e_1:
 msgid "{i}\"Money -$100\"{/i}"
-msgstr ""
+msgstr "{i}\"Dinheiro -$100\"{/i}"
 
 # game/UpdateScript0.04.rpy:2442 #-#-# translate crowdin aunt_clean_bath_2af0e740_1:
 msgid "[_CT_] {i}You stupid little pervert.{/i}"
@@ -4294,7 +4294,7 @@ msgstr "[_R_] Ok..."
 
 # game/UpdateScript0.04.rpy:2564 #-#-# translate crowdin commission_wr_outfit_c6841c25:
 msgid "[_R_] ..."
-msgstr "U[_R_]..."
+msgstr "[_R_] ..."
 
 # game/UpdateScript0.04.rpy:2565 #-#-# translate crowdin commission_wr_outfit_3652ac89:
 msgid "[_R_] Can't wait to see you in it."
@@ -6730,7 +6730,7 @@ msgstr "[_RT_] {i}Ahhh.... se apenas Aunt Cami trocar de roupa com ela.{/i}"
 
 # game/UpdateScript0.04.rpy:3746 #-#-# translate crowdin yoga_with_aunt_590f6f50:
 msgid "[_RT_] {i}Just.... wow.... what a body!{/i}"
-msgstr "[_RT_] {i}Só.... wow.... que corpo!{/i}"
+msgstr "[_RT_] {i}Apenas.... uau.... que corpo!{/i}"
 
 # game/UpdateScript0.04.rpy:3749 #-#-# translate crowdin yoga_with_aunt_a26be530:
 msgid "{i}\"A little while later.\"{/i}"
@@ -6750,7 +6750,7 @@ msgstr "[_RT_] {i}Talvez eu devesse entrar e dizer \"bom dia\"?{/i}"
 
 # game/UpdateScript0.04.rpy:3777 #-#-# translate crowdin yoga_with_aunt_7ccb0083:
 msgid "[_M_] {i}(Yelling through the door){/i} Who is it?"
-msgstr "[_M_] {i}(gritando pela porta){/i} Quem é?"
+msgstr "[_M_] {i}(Gritando pela porta){/i} Quem é?"
 
 # game/UpdateScript0.04.rpy:3778 #-#-# translate crowdin yoga_with_aunt_d428c608:
 msgid "[_C_] {i}(Muffled voice){/i} You know exactly who it is."
@@ -6882,7 +6882,7 @@ msgstr "[_RT_] {i}Ahhh.... se apenas Aunt Cami trocar de roupa com ela.{/i}"
 
 # game/UpdateScript0.04.rpy:3839 #-#-# translate crowdin yoga_with_aunt_590f6f50_1:
 msgid "[_RT_] {i}Just.... wow.... what a body!{/i}"
-msgstr "[_RT_] {i}Só.... wow.... que corpo!{/i}"
+msgstr "[_RT_] {i}Apenas.... uau.... que corpo!{/i}"
 
 # game/UpdateScript0.04.rpy:3842 #-#-# translate crowdin yoga_with_aunt_a26be530_1:
 msgid "{i}\"A little while later.\"{/i}"
@@ -6950,7 +6950,7 @@ msgstr "[_RT_] {i}Ahhh.... se apenas Aunt Cami trocar de roupa com ela.{/i}"
 
 # game/UpdateScript0.04.rpy:3900 #-#-# translate crowdin yoga_with_aunt_590f6f50_2:
 msgid "[_RT_] {i}Just.... wow.... what a body!{/i}"
-msgstr "[_RT_] {i}Só.... wow.... que corpo!{/i}"
+msgstr "[_RT_] {i}Apenas.... uau.... que corpo!{/i}"
 
 # game/UpdateScript0.04.rpy:3903 #-#-# translate crowdin yoga_with_aunt_a26be530_2:
 msgid "{i}\"A little while later.\"{/i}"
@@ -7546,7 +7546,7 @@ msgstr "[__R_] Longo o suficiente para saber por que você queria sua porta de e
 
 # game/UpdateScript0.04.rpy:4274 #-#-# translate crowdin jacky_at_Laptop_dcdec28a:
 msgid "{i}{b}\"Mom's Anger +1\"{/b}{/i}"
-msgstr "{i}{b}\"Raiva da Mãe +1\"{/b}{/i}"
+msgstr "{i}{b}\"Raiva da Mamãe +1\"{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4276 #-#-# translate crowdin jacky_at_Laptop_afe1f9c1:
 msgid "[_M_] [ryan]! I don't know what you think you saw, but I wasn't doing anything out of the ordinary."
@@ -7578,7 +7578,7 @@ msgstr "[_M_] Não.... quero dizer... sim... meio de.... [ryan].... Eu era just.
 
 # game/UpdateScript0.04.rpy:4286 #-#-# translate crowdin jacky_at_Laptop_b47c24a5:
 msgid "{i}{b}\"Mom's Submission +1\"{/b}{/i}"
-msgstr "{i}{b}\"Envio da Mãe +1\"{/b}{/i}"
+msgstr "{i}{b}\"Submissão da Mamãe +1\"{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:4288 #-#-# translate crowdin jacky_at_Laptop_f9d2cad6:
 msgid "[_R_] Oh, well that's what I wanted to talk to you about. I'm having trouble finding more sources for the Oedipus assignment."
@@ -8510,7 +8510,7 @@ msgstr "Você ainda será capaz de aumentar as estatísticas e o progresso de Si
 
 # game/UpdateScript0.04.rpy:4696 #-#-# translate crowdin wrshoot_d2e00a31:
 msgid "But only the first playthrough of this event each week will generate likes for the Cosplay Heaven website."
-msgstr "Mas apenas a primeira execução deste evento a cada semana irá gerar curtidas para o site do Cosplay Céu."
+msgstr "Mas apenas a primeira vez que você jogar este evento a cada semana irá gerar likes para o site do Cosplay Heaven."
 
 # game/UpdateScript0.04.rpy:4703 #-#-# translate crowdin wrshoot_de38a39c:
 msgid "[_R_] Hey, Sidney.... I'm at the warehouse..."
@@ -10342,7 +10342,7 @@ msgstr "[_S_] Sobre que tipo de buraco você está falando? Como um pequeno bura
 
 # game/UpdateScript0.04.rpy:5520 #-#-# translate crowdin removeshirt_c6841c25:
 msgid "[_R_] ..."
-msgstr "U[_R_]..."
+msgstr "[_R_] ..."
 
 # game/UpdateScript0.04.rpy:5521 #-#-# translate crowdin removeshirt_ab3fd9da:
 msgid "[_S_] Why would I ask such a stupid question?.... I know what kind of hole you want."
@@ -10398,7 +10398,7 @@ msgstr "[_S_] Sobre que tipo de buraco você está falando? Como um pequeno bura
 
 # game/UpdateScript0.04.rpy:5542 #-#-# translate crowdin removeshirt_c6841c25_1:
 msgid "[_R_] ..."
-msgstr "U[_R_]..."
+msgstr "[_R_] ..."
 
 # game/UpdateScript0.04.rpy:5543 #-#-# translate crowdin removeshirt_ab3fd9da_1:
 msgid "[_S_] Why would I ask such a stupid question?.... I know what kind of hole you want."
@@ -10762,7 +10762,7 @@ msgstr "{i}{b}\"Sidney Affection +1\"{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5674 #-#-# translate crowdin removeshirt_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
+msgstr "{i}{b}\"Libido da Sidney +1\"{/b}{/i}"
 
 # game/UpdateScript0.04.rpy:5677 #-#-# translate crowdin removeshirt_f914686b:
 msgid "[_S_] I'm not nearly as nervous for the next photoshoot."
@@ -10930,7 +10930,7 @@ msgstr "[_S_] Sobre que tipo de buraco você está falando? Como um pequeno bura
 
 # game/UpdateScript0.04.rpy:5764 #-#-# translate crowdin showsidneytitties_c6841c25:
 msgid "[_R_] ..."
-msgstr "U[_R_]..."
+msgstr "[_R_] ..."
 
 # game/UpdateScript0.04.rpy:5765 #-#-# translate crowdin showsidneytitties_ab3fd9da:
 msgid "[_S_] Why would I ask such a stupid question?.... I know what kind of hole you want."
@@ -10982,7 +10982,7 @@ msgstr "[_S_] Sobre que tipo de buraco você está falando? Como um pequeno bura
 
 # game/UpdateScript0.04.rpy:5779 #-#-# translate crowdin showsidneytitties_c6841c25_1:
 msgid "[_R_] ..."
-msgstr "U[_R_]..."
+msgstr "[_R_] ..."
 
 # game/UpdateScript0.04.rpy:5780 #-#-# translate crowdin showsidneytitties_ab3fd9da_1:
 msgid "[_S_] Why would I ask such a stupid question?.... I know what kind of hole you want."
