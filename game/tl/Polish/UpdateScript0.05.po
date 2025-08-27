@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-08-26 21:09\n"
+"PO-Revision-Date: 2025-08-27 18:24\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.05.rpy:476 #-#-# translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -3374,7 +3374,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2089 #-#-# translate crowdin tv_together_bfe9b99f:
 msgid "{i}\"Mom's Libido +1\"{/i}"
-msgstr ""
+msgstr "{i}\"Libido mamy +1\"{/i}"
 
 # game/UpdateScript0.05.rpy:2092 #-#-# translate crowdin tv_together_9aa1866f:
 msgid "[_M_] [ryan].... That wasn't funny, and it was a very inappropriate thing to say to your own mother."
@@ -3382,7 +3382,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:2093 #-#-# translate crowdin tv_together_dcdec28a:
 msgid "{i}{b}\"Mom's Anger +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Gniew mamy +1\" {/b}{/i}"
 
 # game/UpdateScript0.05.rpy:2095 #-#-# translate crowdin tv_together_ba74cc91:
 msgid "[_R_] Ok.... sorry Mom, I'll just run grab a towel from the kitchen then."
@@ -8990,7 +8990,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:5304 #-#-# translate crowdin not_fit_enough_12f5d14a:
 msgid "[_R_] I'm coming!"
-msgstr ""
+msgstr "[_R_] Nadchodzę!"
 
 # game/UpdateScript0.05.rpy:5305 #-#-# translate crowdin not_fit_enough_2a5916b0:
 msgid "[_MP_] Shit!"
