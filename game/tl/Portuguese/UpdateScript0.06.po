@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2025-08-01 10:57\n"
+"PO-Revision-Date: 2025-08-27 16:25\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.06.rpy:715 #-#-# translate crowdin move_in_day_31871088:
 msgid "[_RT_] {i}I... think I slept in... What time is it?{/i}"
@@ -5474,7 +5474,7 @@ msgstr "[_L_] Oh Deus, não!"
 
 # game/UpdateScript0.06.rpy:4148 #-#-# translate crowdin lauren_night_6619de8e:
 msgid "[_LT_] {i}I don't need wet panties right now.{/i}"
-msgstr ""
+msgstr "Não preciso de calcinhas molhadas nesse momento."
 
 # game/UpdateScript0.06.rpy:4149 #-#-# translate crowdin lauren_night_11c95a2f:
 msgid "[_L_] Just come sit down."
@@ -5482,7 +5482,7 @@ msgstr "U[_L_] Apenas se sente."
 
 # game/UpdateScript0.06.rpy:4152 #-#-# translate crowdin lauren_night_d0ad5e2c:
 msgid "[_L_] I can't believe I slept through truth or dare again!"
-msgstr ""
+msgstr "Não acredito que voltei a dormir durante o Verdade ou Consequência!"
 
 # game/UpdateScript0.06.rpy:4153 #-#-# translate crowdin lauren_night_016d5d52:
 msgid "[_L_] I think you're right, [ryan]... I must be going through a growth spurt."
@@ -5502,7 +5502,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:4157 #-#-# translate crowdin lauren_night_a2a1b858:
 msgid "[_L_] So, let's play before I fall asleep again."
-msgstr ""
+msgstr "Então, vamos jogar antes que eu adormeça outra vez."
 
 # game/UpdateScript0.06.rpy:4158 #-#-# translate crowdin lauren_night_fdf2f538:
 msgid "[_L_] I'll go first."
@@ -5702,11 +5702,11 @@ msgstr "[_R_] Preciso piscar de novo para você?"
 
 # game/UpdateScript0.06.rpy:4241 #-#-# translate crowdin lauren_night_0ad4bcfa:
 msgid "[_L_] Oh, God no!"
-msgstr ""
+msgstr "Oh, Deus não!"
 
 # game/UpdateScript0.06.rpy:4242 #-#-# translate crowdin lauren_night_6619de8e_1:
 msgid "[_LT_] {i}I don't need wet panties right now.{/i}"
-msgstr ""
+msgstr "Não preciso de calcinhas molhadas nesse momento."
 
 # game/UpdateScript0.06.rpy:4243 #-#-# translate crowdin lauren_night_11c95a2f_1:
 msgid "[_L_] Just come sit down."
@@ -5714,15 +5714,15 @@ msgstr "U[_L_] Apenas se sente."
 
 # game/UpdateScript0.06.rpy:4246 #-#-# translate crowdin lauren_night_d0ad5e2c_1:
 msgid "[_L_] I can't believe I slept through truth or dare again!"
-msgstr ""
+msgstr "Não acredito que voltei a dormir durante o Verdade ou Consequência!"
 
 # game/UpdateScript0.06.rpy:4247 #-#-# translate crowdin lauren_night_2422d439:
 msgid "[_L_] I don't know why I can't stay up very late anymore."
-msgstr ""
+msgstr "Não sei porque é que já não consigo ficar acordado até muito tarde."
 
 # game/UpdateScript0.06.rpy:4248 #-#-# translate crowdin lauren_night_4533b53c:
 msgid "[_L_] I hope I'm not getting mono like you did, [ryan]."
-msgstr ""
+msgstr "Espero não estar ficando alto como você, Ryan."
 
 # game/UpdateScript0.06.rpy:4249 #-#-# translate crowdin lauren_night_43724844:
 msgid "[_R_] Nah... You'd be tired all the time, and have other symptoms too."
@@ -5734,11 +5734,11 @@ msgstr "[_R_] Você provavelmente está passando por um impulso de crescimento."
 
 # game/UpdateScript0.06.rpy:4251 #-#-# translate crowdin lauren_night_edf31f05:
 msgid "[_L_] Oh, I hope so. I'd love to get taller."
-msgstr ""
+msgstr "Oh, espero que sim. Eu adoraria ficar mais alto."
 
 # game/UpdateScript0.06.rpy:4252 #-#-# translate crowdin lauren_night_2c168b43:
 msgid "[_L_] It wouldn't take much for me to get taller than you, [ryan]."
-msgstr ""
+msgstr "Não seria preciso muito pra eu ficar mais alto do que você, Ryan."
 
 # game/UpdateScript0.06.rpy:4253 #-#-# translate crowdin lauren_night_f7e2dccb:
 msgid "[_R_] You'd better not! I don't want to be the shortest in the family."
@@ -5750,7 +5750,7 @@ msgstr "[_MD_] Bem, com todos os passeios de Lauren, acho que é melhor você co
 
 # game/UpdateScript0.06.rpy:4257 #-#-# translate crowdin lauren_night_a2a1b858_1:
 msgid "[_L_] So, let's play before I fall asleep again."
-msgstr ""
+msgstr "Então, vamos jogar antes que eu adormeça outra vez."
 
 # game/UpdateScript0.06.rpy:4258 #-#-# translate crowdin lauren_night_fdf2f538_1:
 msgid "[_L_] I'll go first."
@@ -5838,11 +5838,11 @@ msgstr "[_R_] Preciso piscar de novo para você?"
 
 # game/UpdateScript0.06.rpy:4295 #-#-# translate crowdin lauren_night_0ad4bcfa_1:
 msgid "[_L_] Oh, God no!"
-msgstr ""
+msgstr "Oh, Deus não!"
 
 # game/UpdateScript0.06.rpy:4296 #-#-# translate crowdin lauren_night_6619de8e_2:
 msgid "[_LT_] {i}I don't need wet panties right now.{/i}"
-msgstr ""
+msgstr "Não preciso de calcinhas molhadas nesse momento."
 
 # game/UpdateScript0.06.rpy:4297 #-#-# translate crowdin lauren_night_11c95a2f_2:
 msgid "[_L_] Just come sit down."
