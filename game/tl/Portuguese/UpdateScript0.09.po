@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2025-08-27 20:32\n"
+"PO-Revision-Date: 2025-08-27 22:07\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.09.rpy:564 #-#-# translate crowdin myroom_post_cami_fight_8a5367c3:
 msgid "[_R_] I'm not ready to sleep yet... I should go talk to Mom and Lauren before I come back to bed."
@@ -194,7 +194,7 @@ msgstr "[_R_] Aqui está o pagamento desta semana."
 
 # game/UpdateScript0.09.rpy:668 #-#-# translate crowdin pay_or_dont_136da53b:
 msgid "{i}\"Money -$1,000\"{/i}"
-msgstr ""
+msgstr "{i}\"Dinheiro -$1.000\"{/i}"
 
 # game/UpdateScript0.09.rpy:672 #-#-# translate crowdin pay_or_dont_18f307af:
 msgid "[_J_] Thank you."
@@ -1402,11 +1402,11 @@ msgstr "[_RT_] {i}Parece que Aunt Cami dormindo no sofá não vai mudar a rotina
 
 # game/UpdateScript0.09.rpy:1249 #-#-# translate crowdin sid_cami_morning_jog_66f4c51e:
 msgid "[_R_] Hey Sid."
-msgstr "[_R_] Olá Side."
+msgstr "[_R_] Ei, Sid."
 
 # game/UpdateScript0.09.rpy:1252 #-#-# translate crowdin sid_cami_morning_jog_a1d9a63c:
 msgid "[_S_] Hey, [ryan]. Are you ready to go running?"
-msgstr "[_S_] Ei, [ryan]. Você está pronto para correr?"
+msgstr "[_S_] Ei, [ryan]. Você está preparado para correr?"
 
 # game/UpdateScript0.09.rpy:1253 #-#-# translate crowdin sid_cami_morning_jog_4af0cb9d:
 msgid "[_C_] {i}(Sleepily){/i} Go run somewhere else..."
@@ -1426,23 +1426,23 @@ msgstr "[_S_] Então, você queria ir?"
 
 # game/UpdateScript0.09.rpy:1263 #-#-# translate crowdin sid_cami_morning_jog_5bf3f68a:
 msgid "[_R_] You bet I am. Let me run and change my clothes and I'll meet you outside."
-msgstr ""
+msgstr "[_R_] Com certeza que sim. Deixe-me correr e trocar de roupa e te encontro lá fora."
 
 # game/UpdateScript0.09.rpy:1266 #-#-# translate crowdin sid_cami_morning_jog_10bf2f50:
 msgid "[_R_] Sorry Sid, I'm just not feeling it today."
-msgstr ""
+msgstr "[_R_] Desculpe Sid, não estou a fim hoje."
 
 # game/UpdateScript0.09.rpy:1267 #-#-# translate crowdin sid_cami_morning_jog_cad1873f:
 msgid "[_S_] That's ok. Ever since Mr. Peterson got put back into his nursing home, I don't feel afraid to go running there all alone."
-msgstr ""
+msgstr "[_S_] Tudo bem. Desde que o Sr. Peterson foi colocado de volta no lar de idosos, não tenho medo de correr lá sozinha."
 
 # game/UpdateScript0.09.rpy:1268 #-#-# translate crowdin sid_cami_morning_jog_0c80c60a:
 msgid "[_S_] But hopefully you'll be up for it next time."
-msgstr "[_S_] Mas esperamos que você esteja pronto na próxima vez."
+msgstr "[_S_] Mas espero que você esteja animado para da próxima vez."
 
 # game/UpdateScript0.09.rpy:1269 #-#-# translate crowdin sid_cami_morning_jog_2314d5e2:
 msgid "[_S_] It's nice to not have to run alone."
-msgstr ""
+msgstr "[_S_] É bom não precisar correr sozinha."
 
 # game/UpdateScript0.09.rpy:1285 #-#-# translate crowdin l_in_bed_with_m_1e944cf5:
 msgid "[_RT_] {i}Oh, Lauren's not here. She's probably in her bedroom.{/i}"
@@ -2406,7 +2406,7 @@ msgstr "[_MT_] {i}Big… Carne…{/i}"
 
 # game/UpdateScript0.09.rpy:1701 #-#-# translate crowdin yard_show_0a6cebf4:
 msgid "{i}{b}\"Mom's Libido +3\"{/b}{/i}"
-msgstr "{i}{b}\"Mamãe Libido +3\"{/b}{/i}"
+msgstr "{i}{b}\"Libido da mamãe +3\"{/b}{/i}"
 
 # game/UpdateScript0.09.rpy:1705 #-#-# translate crowdin yard_show_21e6bcf1:
 msgid "[_MT_] {i}Cock!{/i}"
@@ -3594,7 +3594,7 @@ msgstr "[_MT_] {i}grande... carne...{/i}"
 
 # game/UpdateScript0.09.rpy:2284 #-#-# translate crowdin NTRLounge2repeat_0a6cebf4:
 msgid "{i}{b}\"Mom's Libido +3\"{/b}{/i}"
-msgstr "{i}{b}\"Mamãe Libido +3\"{/b}{/i}"
+msgstr "{i}{b}\"Libido da mamãe +3\"{/b}{/i}"
 
 # game/UpdateScript0.09.rpy:2288 #-#-# translate crowdin NTRLounge2repeat_21e6bcf1:
 msgid "[_MT_] {i}Cock!{/i}"
@@ -4898,7 +4898,7 @@ msgstr "[_MT_] {i}grande... carne...{/i}"
 
 # game/UpdateScript0.09.rpy:2851 #-#-# translate crowdin NTRLounge2repeat_0a6cebf4_1:
 msgid "{i}{b}\"Mom's Libido +3\"{/b}{/i}"
-msgstr "{i}{b}\"Mamãe Libido +3\"{/b}{/i}"
+msgstr "{i}{b}\"Libido da mamãe +3\"{/b}{/i}"
 
 # game/UpdateScript0.09.rpy:2855 #-#-# translate crowdin NTRLounge2repeat_21e6bcf1_1:
 msgid "[_MT_] {i}Cock!{/i}"
@@ -5010,11 +5010,11 @@ msgstr "[_RT_] {i}Hmmm.... Ela disse que ia tirar uma soneca. Por que trancou a 
 
 # game/UpdateScript0.09.rpy:2912 #-#-# translate crowdin NTRLounge2repeat_8c2ff22c:
 msgid "[_RT_] {i}Wait.... is that moaning?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Espera.... é gemido?{/i}"
 
 # game/UpdateScript0.09.rpy:2913 #-#-# translate crowdin NTRLounge2repeat_36ea6fd8:
 msgid "[_RT_] {i}I should check it out.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Eu devia dar uma olhada.{/i}"
 
 # game/UpdateScript0.09.rpy:2916 #-#-# translate crowdin NTRLounge2repeat_7093db0e:
 msgid "[_RT_] {i}She's masterbaiting?!{/i}"
@@ -5090,7 +5090,7 @@ msgstr "[_MT_] {i}Eu não posso fantasiar sobre o seu pau de monstro com algo t�
 
 # game/UpdateScript0.09.rpy:2955 #-#-# translate crowdin NTRLounge2repeat_76cdc78f:
 msgid "[_MT_] {i}I could buy a bigger dildo... No, those cost serious money. I don't have any spare cash to spend even if they didn't.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Eu poderia comprar um dildo maior... Não, esses custam muito dinheiro. Não tenho dinheiro sobrando para gastar, mesmo que não custassem.{/i}"
 
 # game/UpdateScript0.09.rpy:2956 #-#-# translate crowdin NTRLounge2repeat_2db34ff4:
 msgid "[_MT_] {i}More importantly. I don't think the FBI would consider a dildo, a necessary expense.{/i}"
@@ -5102,7 +5102,7 @@ msgstr "[_MT_] {i}Além disso. Não posso esperar. Preciso de um cozinheiro gran
 
 # game/UpdateScript0.09.rpy:2960 #-#-# translate crowdin NTRLounge2repeat_9b488dd7:
 msgid "[_RT_] {i}What's she doing?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}O que ela está fazendo?{/i}"
 
 # game/UpdateScript0.09.rpy:2961 #-#-# translate crowdin NTRLounge2repeat_6d241833:
 msgid "[_MT_] {i}Maybe a candle? No... Long, but too skinny.{/i}"
@@ -5114,7 +5114,7 @@ msgstr "[_MT_] {i}A lanterna? Não, o metal seria muito frio.{/i}"
 
 # game/UpdateScript0.09.rpy:2965 #-#-# translate crowdin NTRLounge2repeat_dc8544ac:
 msgid "[_MT_] {i}I need something... Anything!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Eu preciso de algo... Qualquer coisa!{/i}"
 
 # game/UpdateScript0.09.rpy:2968 #-#-# translate crowdin NTRLounge2repeat_eec2b4a1:
 msgid "[_MT_] {i}Maybe a cucumber from the kitchen?{/i}"
@@ -5134,7 +5134,7 @@ msgstr "[_MT_] {i}Não, acho que as meninas não gostaram de comer vegetais que 
 
 # game/UpdateScript0.09.rpy:2974 #-#-# translate crowdin NTRLounge2repeat_0a607289:
 msgid "[_MT_] {i}Wait... What's that pink box? That's not mine.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Espera... O que é aquela caixa rosa? Não é minha.{/i}"
 
 # game/UpdateScript0.09.rpy:2975 #-#-# translate crowdin NTRLounge2repeat_e74d1549:
 msgid "[_MT_] {i}Camille?{/i}"
@@ -5146,15 +5146,15 @@ msgstr "[_MT_] {i}está trancada? Aposto que ela esconde a chave de seus sapatos
 
 # game/UpdateScript0.09.rpy:2977 #-#-# translate crowdin NTRLounge2repeat_f9fa7c06:
 msgid "[_MT_] {i}What are you hiding under my bed, Sister?{/i}"
-msgstr ""
+msgstr "[_MT_] {i}O que você está escondendo debaixo da minha cama, Irmã?{/i}"
 
 # game/UpdateScript0.09.rpy:2980 #-#-# translate crowdin NTRLounge2repeat_8f49b0e7:
 msgid "[_MT_] {i}Oh, wow! Now that's what I'm talking about!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Oh, uau! Agora isso que estou falando!{/i}"
 
 # game/UpdateScript0.09.rpy:2981 #-#-# translate crowdin NTRLounge2repeat_1e8ac145:
 msgid "[_MT_] {i}It's engraved? \"An exact replica of my dick. Love Bobby\"?{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Está gravado? \"Uma réplica exata do meu membro. Com amor, Bobby\"?{/i}"
 
 # game/UpdateScript0.09.rpy:2982 #-#-# translate crowdin NTRLounge2repeat_780d7aa4:
 msgid "[_MT_] {i}What the fuck? Why did she win the big dick husband lottery?{/i}"
@@ -5162,11 +5162,11 @@ msgstr "[_MT_] {i}Que porcar? Por que ela ganhou a loteria do marido de grande p
 
 # game/UpdateScript0.09.rpy:2985 #-#-# translate crowdin NTRLounge2repeat_cd738849:
 msgid "[_MT_] {i}Fuck, this is so messed up! I'm about to use the same dildo my sister masturbates with...{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Droga, isso está tão errado! Estou prestes a usar o mesmo dildo que minha irmã se masturba...{/i}"
 
 # game/UpdateScript0.09.rpy:2988 #-#-# translate crowdin NTRLounge2repeat_5d903968:
 msgid "[_MT_] {i}That was cast with my brother-in-law's penis.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Aquilo foi moldado com o membro do meu cunhado.{/i}"
 
 # game/UpdateScript0.09.rpy:2991 #-#-# translate crowdin NTRLounge2repeat_10c9b290:
 msgid "[_MT_] {i}While I fantasize about my daughter's boyfriend!{/i}"
@@ -6766,7 +6766,7 @@ msgstr "[_RT_] {i}O que devo do? {/i}"
 
 # game/UpdateScript0.09.rpy:3900 #-#-# translate crowdin reward_cum_pussy_67233827:
 msgid "[_R_] Too late!"
-msgstr ""
+msgstr "[_R_] Tarde demais!"
 
 # game/UpdateScript0.09.rpy:3905 #-#-# translate crowdin reward_cum_pussy_c1ee70c5:
 msgid "[_M_] What the hell?"
@@ -6942,7 +6942,7 @@ msgstr "[_M_] Mmm... talvez."
 
 # game/UpdateScript0.09.rpy:3991 #-#-# translate crowdin reward_cum_pussy_0a6cebf4:
 msgid "{i}{b}\"Mom's Libido +3\"{/b}{/i}"
-msgstr "{i}{b}\"Mamãe Libido +3\"{/b}{/i}"
+msgstr "{i}{b}\"Libido da mamãe +3\"{/b}{/i}"
 
 # game/UpdateScript0.09.rpy:3993 #-#-# translate crowdin reward_cum_pussy_c6841c25:
 msgid "[_R_] ..."
@@ -11110,7 +11110,7 @@ msgstr "[_MD_] Seria ainda mais sexiro se tivéssemos fotos dele tirando a caram
 
 # game/UpdateScript0.09.rpy:5882 #-#-# translate crowdin friends_mast_together_25058566:
 msgid "[_L_] Mmmph!"
-msgstr ""
+msgstr "[_L_] Mmmph!"
 
 # game/UpdateScript0.09.rpy:5883 #-#-# translate crowdin friends_mast_together_8cfa05f1:
 msgid "[_MD_] Ooh! Did the little slut cum from the thought of her big brother fucking her with his big dick?"
@@ -11242,7 +11242,7 @@ msgstr "[_MD_] É melhor você não esquecer, ou você vai ser nocauteado."
 
 # game/UpdateScript0.09.rpy:5935 #-#-# translate crowdin friends_mast_together_25058566_1:
 msgid "[_L_] Mmmph!"
-msgstr ""
+msgstr "[_L_] Mmmph!"
 
 # game/UpdateScript0.09.rpy:5936 #-#-# translate crowdin friends_mast_together_28a0bbe0:
 msgid "[_MD_] Holy shit! Did you just cum thinking about Matt getting you pregnant?"
