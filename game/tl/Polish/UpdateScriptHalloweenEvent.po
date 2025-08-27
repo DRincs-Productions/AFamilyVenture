@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-08-22 20:09\n"
+"PO-Revision-Date: 2025-08-27 18:24\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScriptHalloweenEvent.rpy:256 #-#-# translate crowdin halloween_event_start_36b1bdbb:
 msgid "{i}{b}(HINT){/b} Happy Halloween!{/i}"
@@ -1746,7 +1746,7 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:1464 #-#-# translate crowdin dice_decision_3ad23a44:
 msgid "[_RT_] {i}What should I do?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Co powinienem zrobić?{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1470 #-#-# translate crowdin dice_decision_ee5067ab:
 msgid "[_RT_] {i}Goddammit! I hope Sidney's ok... Somebody else besides Lauren better find that die!{/i}"
