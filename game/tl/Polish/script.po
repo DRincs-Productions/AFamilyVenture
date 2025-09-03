@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-09-03 16:20\n"
+"PO-Revision-Date: 2025-09-03 18:57\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -7506,7 +7506,7 @@ msgstr ""
 
 # game/script.rpy:9748 #-#-# translate crowdin dinnerfirst_096e26d8:
 msgid "[_L_] What?"
-msgstr ""
+msgstr "[_L_] Co?"
 
 # game/script.rpy:9749 #-#-# translate crowdin dinnerfirst_51220d8d:
 msgid "[_R_] What do you mean \"What?\"."
