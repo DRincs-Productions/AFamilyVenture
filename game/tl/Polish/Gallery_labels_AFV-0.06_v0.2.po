@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-09-07 08:46\n"
+"PO-Revision-Date: 2025-09-07 09:58\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/Gallery_labels_AFV-0.06_v0.2.rpy:15 #-#-# translate crowdin label_gal_mom_drunk_e1aba2f6:
 msgid "[_RT_] {i}Hmmm.... no answer. I don't have a key, but I'm started to get a little worried about her.{/i}"
@@ -11210,7 +11210,7 @@ msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:5683 #-#-# translate crowdin label_gal_beach_date_3d3b9d3e:
 msgid "{i}{b}\"Mom's Affection -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uczucie mamy -1\" {/b}{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:5689 #-#-# translate crowdin label_gal_beach_date_e6a76daa:
 msgid "[_M_] I'm not sure how well this is going to work."
@@ -12486,7 +12486,7 @@ msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:6369 #-#-# translate crowdin label_gal_beach_date_3d3b9d3e_1:
 msgid "{i}{b}\"Mom's Affection -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uczucie mamy -1\" {/b}{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:6375 #-#-# translate crowdin label_gal_beach_date_e6a76daa_1:
 msgid "[_M_] I'm not sure how well this is going to work."
@@ -14242,7 +14242,7 @@ msgstr "{i}{b}\"Uległość mamy +1\"{/b}{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:7265 #-#-# translate crowdin label_gal_beach_date_3d3b9d3e_2:
 msgid "{i}{b}\"Mom's Affection -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uczucie mamy -1\" {/b}{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:7271 #-#-# translate crowdin label_gal_beach_date_e6a76daa_2:
 msgid "[_M_] I'm not sure how well this is going to work."
@@ -21554,55 +21554,55 @@ msgstr "[_M_] Co oglądacie?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11278 #-#-# translate crowdin label_gal_Lauren_GOT_c0e12677:
 msgid "[_R_] It's that HBO show everyone used to talk about, \"Game of Thots\"."
-msgstr ""
+msgstr "[_R_] To ten serial HBO, o którym wszyscy mówili, \"Gra o Berło\"."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11279 #-#-# translate crowdin label_gal_Lauren_GOT_49df301f:
 msgid "[_M_] Well, it looks scary! Lauren, I'm surprised you aren't cuddled up to [ryan] for protection."
-msgstr ""
+msgstr "[_M_] Wygląda przerażająco! Lauren, jestem zaskoczony, że nie jesteś przytulona do [ryan]a dla ochrony."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11280 #-#-# translate crowdin label_gal_Lauren_GOT_fdc33928:
 msgid "[_L_] What?.... No!.... Why would I do that?...."
-msgstr ""
+msgstr "[_L_] Co?.... Nie!.... Dlaczego miałabym to zrobić?...."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11281 #-#-# translate crowdin label_gal_Lauren_GOT_e57ac091:
 msgid "[_RT_] {i}Shit!.... Lauren, relax!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Cholera!.... Lauren, wyluzuj!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11282 #-#-# translate crowdin label_gal_Lauren_GOT_5a6000ff:
 msgid "[_M_] Well, you certainly are brave then! You two have fun! I'm going to run and get some clothes on."
-msgstr ""
+msgstr "[_M_] Cóż, z pewnością jesteś odważna! Bawcie się dobrze! Idę się ubrać."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11285 #-#-# translate crowdin label_gal_Lauren_GOT_b66f6f55:
 msgid "[_R_] Wow!.... You're a nervous wreck!"
-msgstr ""
+msgstr "[_R_] Wow!.... Ale z ciebie nerwus!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11286 #-#-# translate crowdin label_gal_Lauren_GOT_6436062a:
 msgid "[_R_] It's a good thing Mom wasn't looking at your face."
-msgstr ""
+msgstr "[_R_] Dobrze, że mama nie patrzyła na twoją twarz."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11287 #-#-# translate crowdin label_gal_Lauren_GOT_5acb2a7b:
 msgid "[_R_] You have guilty written all over."
-msgstr ""
+msgstr "[_R_] Miałaś winę wypisaną na twarzy."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11288 #-#-# translate crowdin label_gal_Lauren_GOT_44bd63cd:
 msgid "[_L_] Sorry!.... I don't have as much experience hiding my sexual deviance as you!"
-msgstr ""
+msgstr "[_L_] Przepraszam!.... Nie mam tak dużego doświadczenia w ukrywaniu mojego zboczenia seksualnego jak ty!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11289 #-#-# translate crowdin label_gal_Lauren_GOT_3fb428bd:
 msgid "[_R_] Don't worry! I'll help you get there."
-msgstr ""
+msgstr "[_R_] Nie martw się! Pomogę ci do tego dotrzeć."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11290 #-#-# translate crowdin label_gal_Lauren_GOT_9d2fffad:
 msgid "[_L_] Yeah, right.... We're not doing that again!"
-msgstr ""
+msgstr "[_L_] Tak, jasne.... Nie zrobimy tego ponownie!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11291 #-#-# translate crowdin label_gal_Lauren_GOT_10b3d90f:
 msgid "[_RT_] {i}Yeah, whatever.... we'll see....{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Tak, jasne.... zobaczymy....{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11294 #-#-# translate crowdin label_gal_Lauren_GOT_95e293ed:
 msgid "{i}(The next evening){/i}"
-msgstr ""
+msgstr "{i}(Następnego wieczoru){/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11298 #-#-# translate crowdin label_gal_Lauren_GOT_e85188a6_1:
 msgid "[_L_] Hey [ryan], do you want to watch something with me?"
@@ -21610,7 +21610,7 @@ msgstr "[_L_] Hej [ryan], chcesz coś ze mną obejrzeć?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11299 #-#-# translate crowdin label_gal_Lauren_GOT_7b2b4ab7:
 msgid "[_R_] Ok, let's watch the next episode of \"Game of Thots\"!"
-msgstr ""
+msgstr "[_R_] Ok, obejrzyjmy następny odcinek \"Gry o Berło\"!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11302 #-#-# translate crowdin label_gal_Lauren_GOT_0567f871_1:
 msgid "[_L_] I don't know, it's getting pretty scary!"
@@ -21626,7 +21626,7 @@ msgstr "[_R_] Nie chcesz przegapić reszty serialu tylko z powodu białych wędr
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11305 #-#-# translate crowdin label_gal_Lauren_GOT_aa6d799f:
 msgid "[_L_] Well.... No.... but can I at least sit really close to you again, in case I get too scared?"
-msgstr ""
+msgstr "[_L_] Cóż.... Nie.... ale czy mogę przynajmniej znów usiąść bardzo blisko ciebie, na wypadek gdybym się za bardzo przestraszyła?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11306 #-#-# translate crowdin label_gal_Lauren_GOT_a28c1504_1:
 msgid "[_R_] Of course!"
@@ -21654,19 +21654,19 @@ msgstr "[_R_] Uuuggghhh.... To jest po prostu.... nie w porządku!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11322 #-#-# translate crowdin label_gal_Lauren_GOT_5f42fa17:
 msgid "[_L_] Well.... There goes Cersei, sucking on her brother's dick again."
-msgstr ""
+msgstr "[_L_] Cóż.... Nadchodzi Cersei, znowu ssąc kutasa swojego brata."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11323 #-#-# translate crowdin label_gal_Lauren_GOT_fad9b860:
 msgid "[_L_] Do you think that actor got that part because his cock is so huge?"
-msgstr ""
+msgstr "[_L_] Myślisz, że ten aktor dostał tę rolę, bo jego kutas jest taki wielki?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11324 #-#-# translate crowdin label_gal_Lauren_GOT_747f5362:
 msgid "[_R_] Are you saying I should get into acting?"
-msgstr ""
+msgstr "[_R_] Mówisz, że powinienem zająć się aktorstwem?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11325 #-#-# translate crowdin label_gal_Lauren_GOT_23378f56:
 msgid "[_L_] Haha.... No! Your dick isn't that big!"
-msgstr ""
+msgstr "[_L_] Haha.... Nie! Twój kutas nie jest taki duży!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11326 #-#-# translate crowdin label_gal_Lauren_GOT_53e9213e:
 msgid "[_R_] What are you talking about?"
@@ -21674,23 +21674,23 @@ msgstr "[_R_] O czym ty mówisz?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11327 #-#-# translate crowdin label_gal_Lauren_GOT_7dda612b:
 msgid "[_R_] You've seen it! You know it's that big!"
-msgstr ""
+msgstr "[_R_] Widziałaś go! Wiesz, że jest taki duży!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11328 #-#-# translate crowdin label_gal_Lauren_GOT_43113e18:
 msgid "[_L_] Yeah.... well.... not the way I remember it."
-msgstr ""
+msgstr "[_L_] Tak.... cóż.... nie to, że to zapamiętałem."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11329 #-#-# translate crowdin label_gal_Lauren_GOT_62b100a1:
 msgid "[_R_] That's it! I'm proving it to you!"
-msgstr ""
+msgstr "[_R_] To jest to! Udowodnię ci to!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11330 #-#-# translate crowdin label_gal_Lauren_GOT_93f1e34f:
 msgid "[_L_] Wait!.... No!.... [ryan]!...."
-msgstr ""
+msgstr "[_L_] Czekaj!.... Nie!.... [ryan]!...."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11333 #-#-# translate crowdin label_gal_Lauren_GOT_054783c3:
 msgid "[_L_] Oh my God....[ryan]!.... I can't believe you just whipped him out like that!"
-msgstr ""
+msgstr "[_L_] O mój Boże....[ryan]!.... Nie mogę uwierzyć, że tak po prostu go wyjąłeś!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11334 #-#-# translate crowdin label_gal_Lauren_GOT_7a414a40:
 msgid "[_L_] Sidney can look over and see us anytime she feels like it."
@@ -21894,107 +21894,107 @@ msgstr "[_M_] I dlaczego się nie zakryjesz?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11420 #-#-# translate crowdin label_gal_Lauren_GOT_7481ccae:
 msgid "[_R_] Oh.... Well, you've already seen me.... What difference does it make?"
-msgstr ""
+msgstr "[_R_] Oh.... Cóż, już mnie widziałaś.... Co za różnica?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11423 #-#-# translate crowdin label_gal_Lauren_GOT_942dfc18:
 msgid "[_M_] Yeah, well I guess you're right...."
-msgstr ""
+msgstr "[_M_] Tak, cóż, chyba masz rację...."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11426 #-#-# translate crowdin label_gal_Lauren_GOT_a8a0a115:
 msgid "[_M_] Oh my God!.... Is that what I think it is all over my coffee table?"
-msgstr ""
+msgstr "[_M_] O mój Boże!.... Czy to jest to, co myślę, że jest na moim stoliku do kawy?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11427 #-#-# translate crowdin label_gal_Lauren_GOT_3f6070c3:
 msgid "[_M_] [ryan]!.... You've got to be fucking kidding me!"
-msgstr ""
+msgstr "[_M_] [ryan]!.... Chyba sobie kurwa żartujesz!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11428 #-#-# translate crowdin label_gal_Lauren_GOT_b069ad37:
 msgid "[_R_] Language, Mom."
-msgstr ""
+msgstr "[_R_] Język, mamo."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11431 #-#-# translate crowdin label_gal_Lauren_GOT_3d5eb0fc:
 msgid "[_M_] Don't be a smart-ass with me!"
-msgstr ""
+msgstr "[_M_] Nie cwaniakuj przy mnie!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11432 #-#-# translate crowdin label_gal_Lauren_GOT_594a9451:
 msgid "[_M_] Why in the hell did you blow your load all over my table?"
-msgstr ""
+msgstr "[_M_] Dlaczego, do cholery, spuściłeś mi się na całym stole?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11435 #-#-# translate crowdin label_gal_Lauren_GOT_fa569a6a:
 msgid "[_R_] Are you kidding me Mom? Do you really think I'd cum all over your table?"
-msgstr ""
+msgstr "[_R_] Żartujesz sobie, mamo? Naprawdę myślisz, że spuściłem się na twój stół?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11436 #-#-# translate crowdin label_gal_Lauren_GOT_88fdacc0:
 msgid "[_M_] Well?"
-msgstr ""
+msgstr "[_M_] Cóż?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11437 #-#-# translate crowdin label_gal_Lauren_GOT_40448a30:
 msgid "[_R_] It's just some sugar glaze from a box of donuts I was eating."
-msgstr ""
+msgstr "[_R_] To tylko polewa cukrowa z pudełka pączków, które jadłem."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11438 #-#-# translate crowdin label_gal_Lauren_GOT_421143f1:
 msgid "[_M_] Where's the box?"
-msgstr ""
+msgstr "[_M_] Gdzie jest pudełko?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11439 #-#-# translate crowdin label_gal_Lauren_GOT_482d5a48:
 msgid "[_R_] Outside in the trash?"
-msgstr ""
+msgstr "[_R_] Na zewnątrz w koszu?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11440 #-#-# translate crowdin label_gal_Lauren_GOT_a987e2fc:
 msgid "[_M_] I'm not that stupid!"
-msgstr ""
+msgstr "[_M_] Nie jestem aż tak głupia!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11441 #-#-# translate crowdin label_gal_Lauren_GOT_526518ed:
 msgid "[_M_] That story might be easier to believe if your pants weren't off."
-msgstr ""
+msgstr "[_M_] Łatwiej byłoby w to uwierzyć, gdybyś nie miał zdjętych spodni."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11442 #-#-# translate crowdin label_gal_Lauren_GOT_2634cd1a:
 msgid "[_M_] You were jacking off to that dragon show. Weren't you?"
-msgstr ""
+msgstr "[_M_] Waliłeś konia na tym filmie o smokach. Prawda?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11443 #-#-# translate crowdin label_gal_Lauren_GOT_41827af0:
 msgid "[_M_] I heard some of the other teachers talking about how sexual it can get."
-msgstr ""
+msgstr "[_M_] Słyszałam, jak inni nauczyciele mówili o tym, jaki to może mieć wpływ na seksualność."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11444 #-#-# translate crowdin label_gal_Lauren_GOT_c6b10553:
 msgid "[_M_] That's what happened.... isn't it?"
-msgstr ""
+msgstr "[_M_] To właśnie się stało.... prawda?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11445 #-#-# translate crowdin label_gal_Lauren_GOT_238af730:
 msgid "[_R_] Yes Mom!"
-msgstr ""
+msgstr "[_R_] Tak, mamo!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11447 #-#-# translate crowdin label_gal_Lauren_GOT_f5aed8bd:
 msgid "[_R_] Uhhh.... Well.... There was a scene on \"Game of Thots\"."
-msgstr ""
+msgstr "[_R_] Uhhh.... Cóż.... Była taka scena w \"Grze o Berło\"."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11448 #-#-# translate crowdin label_gal_Lauren_GOT_2938522c:
 msgid "[_R_] And it was a.... fairly kinky...."
-msgstr ""
+msgstr "[_R_] I to była.... dość perwersyjna...."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11449 #-#-# translate crowdin label_gal_Lauren_GOT_81df2fbb:
 msgid "[_R_] So, I decided to.... practice good sexual health?"
-msgstr ""
+msgstr "[_R_] Więc zdecydowałem się.... praktykować dobre zdrowie seksualne?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11452 #-#-# translate crowdin label_gal_Lauren_GOT_58ff3220:
 msgid "[_M_] Well.... [ryan]!"
-msgstr ""
+msgstr "[_M_] Cóż.... [ryan]!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11453 #-#-# translate crowdin label_gal_Lauren_GOT_4a3e7be4:
 msgid "[_M_] Practicing good sexual health is as important to me as it should be with anyone else."
-msgstr ""
+msgstr "[_M_] Praktykowanie dobrego zdrowia seksualnego jest dla mnie tak samo ważne, jak dla każdego innego."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11454 #-#-# translate crowdin label_gal_Lauren_GOT_cefb8bdd:
 msgid "[_M_] But you've got to realize there is a time and place for it."
-msgstr ""
+msgstr "[_M_] Ale musisz zdać sobie sprawę, że jest na to czas i miejsce."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11455 #-#-# translate crowdin label_gal_Lauren_GOT_54210be9:
 msgid "[_M_] Like in your your room! When nobody else is around!"
-msgstr ""
+msgstr "[_M_] Jak w swoim pokoju! Kiedy nikogo nie ma w pobliżu!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11456 #-#-# translate crowdin label_gal_Lauren_GOT_92e55b18:
 msgid "[_M_] Did you even notice that Sidney is working just over there in the kitchen?"
-msgstr ""
+msgstr "[_M_] Zauważyłeś, że Sidney pracuje w kuchni, zaraz tuż obok?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11457 #-#-# translate crowdin label_gal_Lauren_GOT_0cf0a5be:
 msgid "[_R_] Shit.... No!.... I didn't even notice!"
@@ -22034,7 +22034,7 @@ msgstr "[_L_] Hej [ryan], chcesz coś ze mną obejrzeć?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11475 #-#-# translate crowdin label_gal_Lauren_GOT_7b2b4ab7_1:
 msgid "[_R_] Ok, let's watch the next episode of \"Game of Thots\"!"
-msgstr ""
+msgstr "[_R_] Ok, obejrzyjmy następny odcinek \"Gry o Berło\"!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11478 #-#-# translate crowdin label_gal_Lauren_GOT_3eedcaee:
 msgid "[_L_] Well.... As long as I can sit close to you again, in case I get too scared?"
@@ -22518,7 +22518,7 @@ msgstr "[_L_] Hej [ryan], chcesz coś ze mną obejrzeć?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11675 #-#-# translate crowdin label_gal_Lauren_GOT_7b2b4ab7_2:
 msgid "[_R_] Ok, let's watch the next episode of \"Game of Thots\"!"
-msgstr ""
+msgstr "[_R_] Ok, obejrzyjmy następny odcinek \"Gry o Berło\"!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11678 #-#-# translate crowdin label_gal_Lauren_GOT_3eedcaee_1:
 msgid "[_L_] Well.... As long as I can sit close to you again, in case I get too scared?"
@@ -22882,103 +22882,103 @@ msgstr "[_L_] Haha... tak... Laska z Cosplaya."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11867 #-#-# translate crowdin label_election_win_f955f9c9:
 msgid "[_L_] But don't forget, you won't see Cosplay Girl on the ballot."
-msgstr ""
+msgstr "[_L_] Ale nie zapominajcie, że nie zobaczycie Laski z Cosplaya na karcie do głosowania."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11868 #-#-# translate crowdin label_election_win_4ae03915:
 msgid "[_L_] Make sure you vote for Lauren."
-msgstr ""
+msgstr "[_L_] Upewnij się, że głosujesz na Lauren."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11869 #-#-# translate crowdin label_election_win_792fa668:
 msgid "[_X_] Marry me, Lauren!"
-msgstr ""
+msgstr "[_X_] Wyjdź za mnie, Lauren!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11872 #-#-# translate crowdin label_election_win_403f4d23:
 msgid "[_L_] I just want to thank all of you for your recent support."
-msgstr ""
+msgstr "[_L_] Chcę tylko podziękować wszystkim za ostatnie wsparcie."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11873 #-#-# translate crowdin label_election_win_45cbec7c:
 msgid "[_L_] For the kind words, for the propositions. hehe..."
-msgstr ""
+msgstr "[_L_] Za miłe słowa, za propozycje. hehe..."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11874 #-#-# translate crowdin label_election_win_4a1d0644:
 msgid "[_L_] For the friendly butt squeezes in the hallway."
-msgstr ""
+msgstr "[_L_] Za przyjazne ściskanie tyłka na korytarzu."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11875 #-#-# translate crowdin label_election_win_50929103:
 msgid "[_L_] What better way to show me that you've got my back."
-msgstr ""
+msgstr "[_L_] Czy jest lepszy sposób na pokazanie mi, że mnie wspierasz?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11876 #-#-# translate crowdin label_election_win_8ab3280a:
 msgid "[_X_] We love you, Lauren!"
-msgstr ""
+msgstr "[_X_] Kochamy Cię, Lauren!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11879 #-#-# translate crowdin label_election_win_479f49e5:
 msgid "[_L_] I just want you all to know, that if you elect me student body president, I will give my all to be the best dang student body president this school has ever seen!"
-msgstr ""
+msgstr "[_L_] Chcę tylko, abyście wszyscy wiedzieli, że jeśli wybierzecie mnie na przewodniczącego samorządu uczniowskiego, dam z siebie wszystko, aby być najlepszym przewodniczącym samorządu uczniowskiego, jakiego ta szkoła kiedykolwiek widziała!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11880 #-#-# translate crowdin label_election_win_ede665a6:
 msgid "[_X_] Go, Lauren!"
-msgstr ""
+msgstr "[_X_] Dalej, Lauren!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11881 #-#-# translate crowdin label_election_win_4d36cdde:
 msgid "[_L_] And to show you how much I will honor that commitment, I want to let you all in on a little perk that I've worked hard to secure for you, if you elect me."
-msgstr ""
+msgstr "[_L_] Aby pokazać, jak bardzo honoruję to zobowiązanie, chcę poinformować was wszystkich o małym bonusie, na który ciężko pracowałam, aby wam zapewnić, jeśli mnie wybierzecie."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11884 #-#-# translate crowdin label_election_win_6834cad6:
 msgid "[_L_] I stand before you in the uniform that we students, and our forerunners have been wearing for the last thirty-five years."
-msgstr ""
+msgstr "[_L_] Stoję przed wami w uniformie, który my, studenci, i nasi poprzednicy nosiliśmy przez ostatnie trzydzieści pięć lat."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11885 #-#-# translate crowdin label_election_win_b19e6ae8:
 msgid "[_L_] And I'm happy to announce that the schoolboard has given me permission to modernize our dress code."
-msgstr ""
+msgstr "[_L_] I z radością ogłaszam, że rada szkoły dała mi pozwolenie na unowocześnienie naszego dress code'u."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11886 #-#-# translate crowdin label_election_win_66e35417:
 msgid "[_L_] None of us girls will have to buy new uniforms, in fact, you don't have to make any changes at all if you don't want to."
-msgstr ""
+msgstr "[_L_] Żadna z nas, dziewcząt, nie będzie musiała kupować nowych strojów, w rzeczywistości nie musicie dokonywać żadnych zmian, jeśli nie chcecie."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11887 #-#-# translate crowdin label_election_win_038e92f0:
 msgid "[_L_] Let me show you the first modification we are allowed to make."
-msgstr ""
+msgstr "[_L_] Pokażę wam pierwszą modyfikację, którą możemy wprowadzić."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11890 #-#-# translate crowdin label_election_win_78e4a8d3:
 msgid "[_L_] Think about those hot days when the air conditioner goes out. Well, class will no longer be such an awful hell with our wool sweater vests."
-msgstr ""
+msgstr "[_L_] Pomyśl o tych gorących dniach, kiedy klimatyzacja przestaje działać. Dzięki pozbyciu się naszych wełnianych kamizelek zajęcia nie będą już takim piekłem."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11891 #-#-# translate crowdin label_election_win_20e22aab:
 msgid "[_X_] Yeah!... Take it off!"
-msgstr ""
+msgstr "[_X_] Tak!... Zdejmij to!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11894 #-#-# translate crowdin label_election_win_cac55718:
 msgid "[_L_] And even better, we're allowed to open up our shirts a bit, to give our skin a chance to breathe."
-msgstr ""
+msgstr "[_L_] A nawet lepiej, możemy nieco rozpiąć nasze koszule, aby dać naszej skórze szansę na oddychanie."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11895 #-#-# translate crowdin label_election_win_d6ced806:
 msgid "[_L_] Just think about how much better we'll perform academically if we're not drowning in our own sweat, trying to keep our makeup from running into our eyes."
-msgstr ""
+msgstr "[_L_] Pomyślcie tylko o tym, o ile lepsze wyniki w nauce osiągniemy, jeśli nie będziemy tonąć we własnym pocie, starając się, by makijaż nie spływał nam do oczu."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11898 #-#-# translate crowdin label_election_win_c68889d2:
 msgid "[_L_] So?... Cute, right?"
-msgstr ""
+msgstr "[_L_] Więc?... Urocze, prawda?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11899 #-#-# translate crowdin label_election_win_43eae47c:
 msgid "[_L_] And it still gets better."
-msgstr ""
+msgstr "[_L_] I wciąż może być lepiej."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11900 #-#-# translate crowdin label_election_win_1316d70e:
 msgid "[_L_] We're also allowed to hem up our skirts. I've got another skirt on under this one to show just how much shorter we can wear our skirts."
-msgstr ""
+msgstr "[_L_] Dozwolone jest również podwijanie spódnic. Mam inną spódnicę pod tą, aby pokazać, o ile krótsze możemy nosić spódnice."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11903 #-#-# translate crowdin label_election_win_c14a54d4:
 msgid "[_X_] Go, Cosplay Girl!... Se-xy!"
-msgstr ""
+msgstr "[_X_] Dalej, Laska z Cosplaya!... Se-xy!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11906 #-#-# translate crowdin label_election_win_493b6611:
 msgid "[_L_] And that's it! What do you all think?"
-msgstr ""
+msgstr "[_L_] I to by było na tyle! Co o tym sądzicie?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11908 #-#-# translate crowdin label_election_win_7f0fa514:
 msgid "[_X_] Thank you, Lauren!"
-msgstr ""
+msgstr "[_X_] Dziękujemy, Lauren!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11909 #-#-# translate crowdin label_election_win_1cdba709_2:
 msgid "[_X_] {i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
@@ -22986,15 +22986,15 @@ msgstr "[_X_] {i}(Skandowanie){/i} Laska z cosplaya... Laska z cosplaya... Laska
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11912 #-#-# translate crowdin label_election_win_8ba62ea5:
 msgid "[_MT_] {i}Holy fuck!... My daughter is stripping on stage at school! This has Will Tylor's hands written all over it! I'm going to kill him the next time I see him! How the hell is he able to manipulate the school board so well?{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Ja pierdolę!... Moja córka robi striptiz na scenie w szkole! Will Tylor musiał maczać ręce w tym wszystkim! Zabiję go, gdy tylko go zobaczę! Jak on do cholery jest w stanie tak dobrze manipulować radą szkoły?{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11913 #-#-# translate crowdin label_election_win_a82d7b80:
 msgid "[_L_] Oh, and let me show you how it looks from behind."
-msgstr ""
+msgstr "[_L_] Och, i proszę pozwolić mi pokazać, jak to wygląda z tyłu."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11916 #-#-# translate crowdin label_election_win_63f60af4:
 msgid "[_X_] Yeah... Show dat ass!"
-msgstr ""
+msgstr "[_X_] Tak... Pokaż ten tyłek!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11917 #-#-# translate crowdin label_election_win_1cdba709_3:
 msgid "[_X_] {i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
@@ -23002,23 +23002,23 @@ msgstr "[_X_] {i}(Skandowanie){/i} Laska z cosplaya... Laska z cosplaya... Laska
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11920 #-#-# translate crowdin label_election_win_c3fcd60a:
 msgid "[_L_] And the boys will be able to wear shorts and more comfortable shoes!"
-msgstr ""
+msgstr "[_L_] A chłopcy będą mogli nosić szorty i wygodniejsze buty!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11921 #-#-# translate crowdin label_election_win_60296770:
 msgid "[_X_] You're the best, Lauren!"
-msgstr ""
+msgstr "[_X_] Jesteś najlepsza, Lauren!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11922 #-#-# translate crowdin label_election_win_de986f8e:
 msgid "[_L_] I love you guys!"
-msgstr ""
+msgstr "[_L_] Kocham was!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11923 #-#-# translate crowdin label_election_win_e4f670e5:
 msgid "[_L_] So, don't forget!"
-msgstr ""
+msgstr "[_L_] Więc nie zapomnijcie!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11924 #-#-# translate crowdin label_election_win_f5e43c09:
 msgid "[_L_] Vote for Lauren, the Cosplay Girl!"
-msgstr ""
+msgstr "[_L_] Głosuj na Lauren, Laskę z Cosplaya!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11931 #-#-# translate crowdin label_election_win_1cdba709_4:
 msgid "[_X_] {i}(Chanting){/i} Cosplay girl... cosplay girl... cosplay girl!!"
@@ -23026,71 +23026,71 @@ msgstr "[_X_] {i}(Skandowanie){/i} Laska z cosplaya... Laska z cosplaya... Laska
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11934 #-#-# translate crowdin label_election_win_55aebf1d:
 msgid "[_L_] Oh, that was so scary!"
-msgstr ""
+msgstr "[_L_] Oh, to było tak przerażające!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11935 #-#-# translate crowdin label_election_win_eca04081:
 msgid "[_R_] Wow, Lauren, you did so good!"
-msgstr ""
+msgstr "[_R_] Wow, Lauren, świetnie ci poszło!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11936 #-#-# translate crowdin label_election_win_13abe2da:
 msgid "[_R_] You had them eating out of the palm of your hand!"
-msgstr ""
+msgstr "[_R_] Jedli ci z ręki!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11939 #-#-# translate crowdin label_election_win_f4c4d706:
 msgid "[_MD_] Alright, [ryan]... We're just about set up."
-msgstr ""
+msgstr "[_MD_] W porządku, [ryan]... Jesteśmy prawie gotowi."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11942 #-#-# translate crowdin label_election_win_fb43b700:
 msgid "[_MD_] OMG, Lauren!... You did so awesome!"
-msgstr ""
+msgstr "[_MD_] O mój Boże, Lauren!... Świetnie ci poszło!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11945 #-#-# translate crowdin label_election_win_8aaf96e2:
 msgid "[_L_] Oh my God, Mandy... It's so weird to see you in a cheerleading uniform."
-msgstr ""
+msgstr "[_L_] O mój Boże, Mandy... To takie dziwne widzieć cię w stroju cheerleaderki."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11946 #-#-# translate crowdin label_election_win_a558fba0:
 msgid "[_L_] Sorry, it's just... Most of the campaign, the cheerleaders were working for my enemy."
-msgstr ""
+msgstr "[_L_] Przepraszam, ale... Przez większość kampanii cheerleaderki pracowały dla mojego wroga."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11949 #-#-# translate crowdin label_election_win_a766314a:
 msgid "[_MD_] Don't worry... They've all been quietly pushing for you ever since Megan told them to change sides."
-msgstr ""
+msgstr "[_MD_] Nie martw się... Wszyscy po cichu wspierają ciebie, odkąd Megan kazała im zmienić strony."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11952 #-#-# translate crowdin label_election_win_e2ba46d7:
 msgid "[_MD_] I don't think anyone's given anything away. Matt's going to be totally caught off guard."
-msgstr ""
+msgstr "[_MD_] Nie sądzę, żeby ktokolwiek coś zdradził. Matt będzie całkowicie zaskoczony."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11955 #-#-# translate crowdin label_election_win_cf55d8ff:
 msgid "[_R_] I guess we'll know if it all worked out in a few moments."
-msgstr ""
+msgstr "[_R_] Myślę, że za kilka chwil dowiemy się, czy wszystko się udało."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11956 #-#-# translate crowdin label_election_win_57e0edf1:
 msgid "[_MD_] Relax... What could go wrong now?"
-msgstr ""
+msgstr "[_MD_] Spokojnie... Co teraz może pójść nie tak?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11957 #-#-# translate crowdin label_election_win_09f2e9df:
 msgid "[_R_] Famous last words."
-msgstr ""
+msgstr "[_R_] Słynne ostatnie słowa."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11958 #-#-# translate crowdin label_election_win_2fb82b8b:
 msgid "[_L_] Shut up, [ryan]! You're making me worried."
-msgstr ""
+msgstr "[_L_] Zamknij się, [ryan]! Przez ciebie się martwię."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11959 #-#-# translate crowdin label_election_win_5c9a5b14:
 msgid "[_R_] Haha... Sorry."
-msgstr ""
+msgstr "[_R_] Haha... Przepraszam."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11962 #-#-# translate crowdin label_election_win_85fda4b6:
 msgid "[_PH_] Now for your enjoyment, we'll have a skit by Matt, immediately followed by Lauren's."
-msgstr ""
+msgstr "[_PH_] Teraz, dla waszej przyjemności, będziemy mieli wystąpienie Matta, a zaraz po nim wystąpienie Lauren."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11966 #-#-# translate crowdin label_election_win_2d02ffbd:
 msgid "[_X_] Woo..wooo! Go Megan!"
-msgstr ""
+msgstr "[_X_] Woo..wooo! Dalej Megan!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11969 #-#-# translate crowdin label_election_win_629ebcf2:
 msgid "[_MG_] Hello, Students of Shagtown High."
-msgstr ""
+msgstr "[_MG_] Witajcie, uczniowie Shagtown High."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:11970 #-#-# translate crowdin label_election_win_58ae076a:
 msgid "[_MG_] Hi Matt, you lying son of a bitch!"
@@ -46506,7 +46506,7 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:22844 #-#-# translate crowdin label_gal_Sidney_and_Lauren_Sleeping_events_88fdacc0:
 msgid "[_M_] Well?"
-msgstr ""
+msgstr "[_M_] Cóż?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:22845 #-#-# translate crowdin label_gal_Sidney_and_Lauren_Sleeping_events_123991d4:
 msgid "[_S_] Well.... ummmm..."
@@ -65022,7 +65022,7 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:30905 #-#-# translate crowdin label_election_lose_20e22aab:
 msgid "[_X_] Yeah!... Take it off!"
-msgstr ""
+msgstr "[_X_] Tak!... Zdejmij to!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:30908 #-#-# translate crowdin label_election_lose_a1ce20c2:
 msgid "[_MB_] And even better, you'll now be allowed to open up your shirts a bit, to give your skin a chance to breathe."
@@ -65066,7 +65066,7 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:30927 #-#-# translate crowdin label_election_lose_63f60af4:
 msgid "[_X_] Yeah... Show dat ass!"
-msgstr ""
+msgstr "[_X_] Tak... Pokaż ten tyłek!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:30928 #-#-# translate crowdin label_election_lose_a1f77a14_1:
 msgid "[_X_] {i}(Chanting){/i} Matt... Matt... Matt!!"
@@ -65186,7 +65186,7 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:30983 #-#-# translate crowdin label_election_lose_85fda4b6:
 msgid "[_PH_] Now for your enjoyment, we'll have a skit by Matt, immediately followed by Lauren's."
-msgstr ""
+msgstr "[_PH_] Teraz, dla waszej przyjemności, będziemy mieli wystąpienie Matta, a zaraz po nim wystąpienie Lauren."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:31033 #-#-# translate crowdin label_election_lose_a1f77a14_2:
 msgid "[_X_] {i}(Chanting){/i} Matt... Matt... Matt!!"
@@ -77186,7 +77186,7 @@ msgstr "{i}{b}\"Gniew mamy +1\" {/b}{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:36253 #-#-# translate crowdin label_yard_show_3d3b9d3e:
 msgid "{i}{b}\"Mom's Affection -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uczucie mamy -1\" {/b}{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:36254 #-#-# translate crowdin label_yard_show_0bb65ece:
 msgid "[_M_] {i}(Whispering){/i} Don't you say another word!"
