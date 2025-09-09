@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-07-23 07:47\n"
+"PO-Revision-Date: 2025-09-09 04:01\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.02.rpy:10 #-#-# translate crowdin cosplaywakeme_8a3aa425:
 msgid "[_L_] See, it's like this almost every morning."
@@ -278,7 +278,7 @@ msgstr "[_R_] Umarım bu fotoğrafları çekmek için okulu bir gün kaçırman�
 
 # game/UpdateScript0.02.rpy:113 #-#-# translate crowdin cosplaywakeme_d5f0c888:
 msgid "[_R_] I hope you don't mind spending your Saturday taking pictures."
-msgstr ""
+msgstr "[_R_] Umarım cumartesini gününü fotoğraf çekerek geçirmeyi dert etmezsin."
 
 # game/UpdateScript0.02.rpy:115 #-#-# translate crowdin cosplaywakeme_8ca7da98:
 msgid "[_R_] I hope you don't mind spending your Sunday taking pictures."
@@ -326,7 +326,7 @@ msgstr "{i}{b}\"Lauren'in azgınlığı +1\"{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:133 #-#-# translate crowdin cosplaywakeme_554188de:
 msgid "{i}{b}\"Mandy's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mandy'nin Libidosu +1{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:136 #-#-# translate crowdin cosplaywakeme_ec9555d8:
 msgid "[_MD_] Well, whatever, we'll see you over there. And feel free to bring little [ryan] along too."
@@ -1346,7 +1346,7 @@ msgstr "[_S_] Her neyse!"
 
 # game/UpdateScript0.02.rpy:759 #-#-# translate crowdin sidneysleepswithryan_55aee143:
 msgid "[_S_] Oh, and [ryan]?"
-msgstr ""
+msgstr "[_S_] Ah, ve [ryan]?"
 
 # game/UpdateScript0.02.rpy:760 #-#-# translate crowdin sidneysleepswithryan_95428694:
 msgid "[_R_] Yeah?"
@@ -1550,7 +1550,7 @@ msgstr "[_S_] Evet, sanırım bu senin paran. Bunu hak ettin. Anneni mafyadan ko
 
 # game/UpdateScript0.02.rpy:852 #-#-# translate crowdin givesidneymoneyforcosplay_13b30cdc:
 msgid "[_R_] Oh please, our mom isn't in any danger."
-msgstr ""
+msgstr "[_R_]  Hadi ama annemiz tehlikede değil."
 
 # game/UpdateScript0.02.rpy:853 #-#-# translate crowdin givesidneymoneyforcosplay_3e143f5a_1:
 msgid "{i}\"Money - $400\"{/i}"
@@ -1734,7 +1734,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:937 #-#-# translate crowdin kitchencosplayfitting_92e14a9f:
 msgid "[_L_] Come on, cuz. We need to go to the convention."
-msgstr ""
+msgstr "[_L_] Hadi ama Kuzen. Markete gitmemiz lazım."
 
 # game/UpdateScript0.02.rpy:941 #-#-# translate crowdin kitchencosplayfitting_9edba270:
 msgid "[_L_] Isn't it just a bit weird for a brother to ask his sister and cousin to see their asses?"
@@ -1762,7 +1762,7 @@ msgstr "{i}{b}\"Lauren'in azgınlığı +1\"{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:947 #-#-# translate crowdin kitchencosplayfitting_554188de:
 msgid "{i}{b}\"Mandy's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mandy'nin Libidosu +1{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:950 #-#-# translate crowdin kitchencosplayfitting_ec0c40c4:
 msgid "[_L_] Ok, let's just do it, after all he did pay for my costume."
@@ -1870,15 +1870,15 @@ msgstr "[_RT_] {i}Sabırsızlanıyorum! Kızların hepsinin öngörülebilir ban
 
 # game/UpdateScript0.02.rpy:1019 #-#-# translate crowdin spycambath_7e00f0c5:
 msgid "[_RT_] {i}{b}(HINT){/b} I've placed the spycam in the bathroom. Now I just need to catch Mom in there when her libido is at it's highest (10 pts).{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(HINT){/b} Casus Kamerayı banyoya yerleştirdim. Şimdi tek yapmam gereken annemi libidosunun en yüksek olduğu anda yakalamak (10 puan).{/i}"
 
 # game/UpdateScript0.02.rpy:1028 #-#-# translate crowdin spycambath_1133ecb0:
 msgid "[_RT_] {i}{b}(HINT){/b} I've placed the spycam in the bathroom. Now I just need to catch Lauren in there when her libido is at it's highest (10 pts).{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(HINT){/b} Casus Kamerayı banyoya yerleştirdim. Şimdi yalnızca Lauren'in libidosu en tepedeyken onu yakalamak kaldı. (10 pts).{/i}"
 
 # game/UpdateScript0.02.rpy:1037 #-#-# translate crowdin spycambath_d7ba672d:
 msgid "[_RT_] {i}{b}(HINT){/b} I've placed the spycam in the bathroom. Now I just need to catch Sidney in there when her libido is at it's highest (10 pts).{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(HINT){/b} Kamerayı banyoya yerleştirdim. Şimdi yalnızca Sidney'in libidosu tepedeyken onu yakalamak kaldı. (10 pts).{/i}"
 
 # game/UpdateScript0.02.rpy:1052 #-#-# translate crowdin laurenbathspycam_e0aac073:
 msgid "[_RT_] {i}Lauren's taking her early morning shower before school. Thanks to my new spy-cam, I can take a peek.{/i}"
@@ -1886,7 +1886,7 @@ msgstr "[_RT_] {i}Lauren okuldan önce sabah duşunu alıyor. Yeni casusluk kame
 
 # game/UpdateScript0.02.rpy:1057 #-#-# translate crowdin laurenbathspycam_a7d1c510:
 msgid "[_RT_] {i}She's already showered, she'll be coming out that door any second. I don't want to be creeping around when she does.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}[Duşunu aldı bile, her an çıkabilir. Çıktığında yakalanmak istemiyorum.{/i}"
 
 # game/UpdateScript0.02.rpy:1064 #-#-# translate crowdin laurenbathspycam_1c116a65:
 msgid "[_RT_] {i}These little cameras have pretty decent reception and video quality.{/i}"
@@ -1926,7 +1926,7 @@ msgstr "[_RT_] {i}Aaauhh.... Çok uzun zamandır buradayım, yakalanmadan gitsem
 
 # game/UpdateScript0.02.rpy:1098 #-#-# translate crowdin laurenfingerselfbath_a7d1c510:
 msgid "[_RT_] {i}She's already showered, she'll be coming out that door any second. I don't want to be creeping around when she does.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}[Duşunu aldı bile, her an çıkabilir. Çıktığında yakalanmak istemiyorum.{/i}"
 
 # game/UpdateScript0.02.rpy:1105 #-#-# translate crowdin laurenfingerselfbath_1c116a65:
 msgid "[_RT_] {i}These little cameras have pretty decent reception and video quality.{/i}"
@@ -2026,11 +2026,11 @@ msgstr "[_RT_] {i}Oh!.... Sanırım yaklaştı!{/i}"
 
 # game/UpdateScript0.02.rpy:1168 #-#-# translate crowdin laurenfingerselfbathcontinued_744c96ef:
 msgid "[_RT_] {i}Holy shit!.... She's trying to give the shower head some competition!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Vay anasını!.... Duş başlığına rakip olmaya çalışıyor!{/i}"
 
 # game/UpdateScript0.02.rpy:1169 #-#-# translate crowdin laurenfingerselfbathcontinued_aea8e9a9:
 msgid "[_RT_] {i}What an amazing talent! She'd be a natural porn star.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Harika bir yetenek! Harika bir porno yıldızı olurdu.{/i}"
 
 # game/UpdateScript0.02.rpy:1172 #-#-# translate crowdin laurenfingerselfbathcontinued_f6b44b98:
 msgid "[_RT_] {i}Maybe I should take off before someone sees me just staring at my phone in front of the bathroom door.{/i}"
@@ -2050,15 +2050,15 @@ msgstr "[_RT_] {i}Sidney duş alıyor olmalı. Annem ve Lauren ortalıkta görü
 
 # game/UpdateScript0.02.rpy:1209 #-#-# translate crowdin sidneybathspycam_3b6e563f:
 msgid "[_RT_] {i}Sidney must be taking a shower. Mom and Lauren are already at school.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Sidney duş alıyor olmalı. Annem ve Lauren çoktan okulda olmalılar.{/i}"
 
 # game/UpdateScript0.02.rpy:1210 #-#-# translate crowdin sidneybathspycam_ae8eb73c:
 msgid "[_RT_] {i}Thanks to my new spy-cam, I can take a peek and see.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Yeni casus kameram sayesinde artık gözetleyebilirim.{/i}"
 
 # game/UpdateScript0.02.rpy:1215 #-#-# translate crowdin sidneybathspycam_a7d1c510:
 msgid "[_RT_] {i}She's already showered, she'll be coming out that door any second. I don't want to be creeping around when she does.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}[Duşunu aldı bile, her an çıkabilir. Çıktığında yakalanmak istemiyorum.{/i}"
 
 # game/UpdateScript0.02.rpy:1222 #-#-# translate crowdin sidneybathspycam_1c116a65:
 msgid "[_RT_] {i}These little cameras have pretty decent reception and video quality.{/i}"
@@ -2098,7 +2098,7 @@ msgstr "[_RT_] {i}Aaauhh.... Çok uzun zamandır buradayım, yakalanmadan gitsem
 
 # game/UpdateScript0.02.rpy:1256 #-#-# translate crowdin sidneyfingerselfbath_a7d1c510:
 msgid "[_RT_] {i}She's already showered, she'll be coming out that door any second. I don't want to be creeping around when she does.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}[Duşunu aldı bile, her an çıkabilir. Çıktığında yakalanmak istemiyorum.{/i}"
 
 # game/UpdateScript0.02.rpy:1261 #-#-# translate crowdin sidneyfingerselfbath_33f039ca:
 msgid "[_RT_] {i}These little spy-cameras are awesome.{/i}"
@@ -2202,11 +2202,11 @@ msgstr "[_RT_] {i}Oh!.... Sanırım yaklaştı!{/i}"
 
 # game/UpdateScript0.02.rpy:1325 #-#-# translate crowdin sidneyfingerselfbathcontinued_4ab05f5b:
 msgid "[_RT_] {i}Holy shit!.... This is like shower-ception!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Vay canına!.... Bu duş içinde duş gibi bir şey!{/i}"
 
 # game/UpdateScript0.02.rpy:1326 #-#-# translate crowdin sidneyfingerselfbathcontinued_5d5037bb:
 msgid "[_RT_] {i}But if this is a dream, I don't want to wake up.... But....{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ama bu bir rüyaysa, uyanmak istemiyorum.... Ama....{/i}"
 
 # game/UpdateScript0.02.rpy:1329 #-#-# translate crowdin sidneyfingerselfbathcontinued_f6b44b98:
 msgid "[_RT_] {i}Maybe I should take off before someone sees me just staring at my phone in front of the bathroom door.{/i}"
@@ -2226,7 +2226,7 @@ msgstr "[_RT_] {i}Annem okuldan sonra duş alıyor. Yeni casusluk kameram sayesi
 
 # game/UpdateScript0.02.rpy:1368 #-#-# translate crowdin mombathspycam_a7d1c510:
 msgid "[_RT_] {i}She's already showered, she'll be coming out that door any second. I don't want to be creeping around when she does.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}[Duşunu aldı bile, her an çıkabilir. Çıktığında yakalanmak istemiyorum.{/i}"
 
 # game/UpdateScript0.02.rpy:1375 #-#-# translate crowdin mombathspycam_1c116a65:
 msgid "[_RT_] {i}These little cameras have pretty decent reception and video quality.{/i}"
@@ -2262,7 +2262,7 @@ msgstr "[_RT_] {i}Aaauhh.... Çok uzun zamandır buradayım, yakalanmadan gitsem
 
 # game/UpdateScript0.02.rpy:1408 #-#-# translate crowdin momfingerselfbath_a7d1c510:
 msgid "[_RT_] {i}She's already showered, she'll be coming out that door any second. I don't want to be creeping around when she does.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}[Duşunu aldı bile, her an çıkabilir. Çıktığında yakalanmak istemiyorum.{/i}"
 
 # game/UpdateScript0.02.rpy:1413 #-#-# translate crowdin momfingerselfbath_b205a100:
 msgid "[_RT_] {i}Alright, show me what I paid $1000 for.{/i}"
@@ -2374,7 +2374,7 @@ msgstr "[_RT_] {i}Oh!.... Sanırım yaklaştı!{/i}"
 
 # game/UpdateScript0.02.rpy:1479 #-#-# translate crowdin momfingerselfbathcontinued_276197ea:
 msgid "[_RT_] {i}Holy shit!.... If her spray range gets much bigger, she's going to ruin my camera!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Hay sikeyim!.... Eğer püskürtme menzili daha da genişlerse, kameramı mahvedecek!{/i}"
 
 # game/UpdateScript0.02.rpy:1480 #-#-# translate crowdin momfingerselfbathcontinued_69e5f1f9:
 msgid "[_RT_] {i}And I don't think I can send her the bill for a replacement.{/i}"
@@ -2450,7 +2450,7 @@ msgstr "[_RT_] {i}Sabırsızlanıyorum! Annemin öngörülebilir bir günlük pr
 
 # game/UpdateScript0.02.rpy:1554 #-#-# translate crowdin spycammomroom_bc42173c:
 msgid "[_RT_] {i}{b}(HINT){/b} I've placed the spycam in Mom's bedroom. Now I just need to catch Mom in there when her libido is at it's highest (10 pts).{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(HINT){/b} Casus kamerayı annemin yatak odasına yerleştirdim. Şimdi tek yapmam gereken annemi libidosunun en yüksek olduğu anda yakalamak (10 puan).{/i}"
 
 # game/UpdateScript0.02.rpy:1573 #-#-# translate crowdin momhornybedroom_56c769da:
 msgid "[_RT_] {i}Hmmm.... I wonder why the door is locked?{/i}"
@@ -2466,7 +2466,7 @@ msgstr "[_RT_] {i}Kontrol etmeliyim.{/i}"
 
 # game/UpdateScript0.02.rpy:1580 #-#-# translate crowdin momhornybedroom_ed954916:
 msgid "[_RT_] {i}Sounds like things are winding down. I'm probably too late to see anything good.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Görünüşe göre bitiyor. Muhtemelen güzel bir şeyler görmek için çok geç kaldım.{/i}"
 
 # game/UpdateScript0.02.rpy:1582 #-#-# translate crowdin momhornybedroom_7a379bd5:
 msgid "{i}{b}\"Mom's Libido -5\"{/b}{/i}"
@@ -2486,7 +2486,7 @@ msgstr "[_RT_] {i}Kontrol etmeliyim.{/i}"
 
 # game/UpdateScript0.02.rpy:1597 #-#-# translate crowdin momhornybedroom_ed954916_1:
 msgid "[_RT_] {i}Sounds like things are winding down. I'm probably too late to see anything good.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Görünüşe göre bitiyor. Muhtemelen güzel bir şeyler görmek için çok geç kaldım.{/i}"
 
 # game/UpdateScript0.02.rpy:1599 #-#-# translate crowdin momhornybedroom_7a379bd5_1:
 msgid "{i}{b}\"Mom's Libido -5\"{/b}{/i}"
@@ -2506,7 +2506,7 @@ msgstr "{i}{b}\"Annemin azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:1620 #-#-# translate crowdin momhornybedroom_6c649022:
 msgid "[_RT_] {i}{b}(HINT){/b} I need to buy a spy-cam and place it in Mom's bedroom when no one is around.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(HINT){/b} Bir casus kamera satın almam ve etrafta kimse yokken annemin yatak odasına yerleştirmem gerekiyor.{/i}"
 
 # game/UpdateScript0.02.rpy:1631 #-#-# translate crowdin momhornybedroom_3f915308:
 msgid "[_RT_] {i}The door's locked, she must be getting dressed. {p}Wait, is that moaning I hear?{p}I'm pretty sure that's moaning.{/i}"
@@ -2518,19 +2518,19 @@ msgstr "{i}{b}\"Annemin azgınlığı -5\"{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:1634 #-#-# translate crowdin momhornybedroom_3306ead2:
 msgid "[_RT_] {i}I've got to figure out a way to spy on her.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Onu gözetlemenin bir yolunu bulmalıyım.{/i}"
 
 # game/UpdateScript0.02.rpy:1644 #-#-# translate crowdin momhornybedroom_6c649022_1:
 msgid "[_RT_] {i}{b}(HINT){/b} I need to buy a spy-cam and place it in Mom's bedroom when no one is around.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(HINT){/b} Bir casus kamera satın almam ve etrafta kimse yokken annemin yatak odasına yerleştirmem gerekiyor.{/i}"
 
 # game/UpdateScript0.02.rpy:1659 #-#-# translate crowdin momspycamroom_b2786d90:
 msgid "[_RT_] {i}Mom already said she wasn't going to let me in.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Annem zaten beni içeri almayacağını söyledi.{/i}"
 
 # game/UpdateScript0.02.rpy:1660 #-#-# translate crowdin momspycamroom_dc61ea40:
 msgid "[_RT_] {i}I can always watch her on the spy-cam, though.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Yine de onu her zaman casus kameradan izleyebilirim.{/i}"
 
 # game/UpdateScript0.02.rpy:1666 #-#-# translate crowdin momspycamroom_ffe33709:
 msgid "[_RT_] {i}That's how she stays in such great shape.{/i}"
@@ -2710,19 +2710,19 @@ msgstr "[_RT_] {i}Umarım yakında bir gün onu bir vibratör ve anal tıkacınd
 
 # game/UpdateScript0.02.rpy:1856 #-#-# translate crowdin momspycamroomhorny_04877658:
 msgid "[_MT_] {i}Oh God!.... I crossed the touching line with [ryan]!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Aman Tanrım!.... [ryan] ile temas konusunu abarttım!{/i}"
 
 # game/UpdateScript0.02.rpy:1857 #-#-# translate crowdin momspycamroomhorny_7a9c461d:
 msgid "[_MT_] {i}I actually gave him a handjob!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Aslında ona 31 çektim!{/i}"
 
 # game/UpdateScript0.02.rpy:1863 #-#-# translate crowdin momspycamroomhorny_bb004318:
 msgid "[_MT_] {i}That cock is so huge, I could barely wrap my hand around it!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Devasa bir sik, elime bile zor sığıyor!{/i}"
 
 # game/UpdateScript0.02.rpy:1864 #-#-# translate crowdin momspycamroomhorny_9267f130:
 msgid "[_MT_] {i}I know it can't be good for him to have so much cum stored up, but God, seeing that big of a cumshot really turned me on!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Bu kadar çok döl biriktirmesinin onun için iyi olmadığını biliyorum, ancak Tanrım, bu kadar büyük bir boşalma görmek beni gerçekten azdırdı!{/i}"
 
 # game/UpdateScript0.02.rpy:1865 #-#-# translate crowdin momspycamroomhorny_f79e083d:
 msgid "[_MT_] {i}Oh, Fuuuuuuck!!!{/i}"
@@ -2742,7 +2742,7 @@ msgstr "[_MT_] {i}Biraz hayal kurmanın ne zararı var?{/i}"
 
 # game/UpdateScript0.02.rpy:1876 #-#-# translate crowdin momspycamroomhorny_1e794b98:
 msgid "[_MT_] {i}But that felt sooooo good!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Ama bu çoooook iyi hissettirdi!{/i}"
 
 # game/UpdateScript0.02.rpy:1877 #-#-# translate crowdin momspycamroomhorny_0a6bf903:
 msgid "[_MT_] {i}What's wrong with me.{/i}"
@@ -2806,15 +2806,15 @@ msgstr "[_RT_] {i}IYakalanmadan önce kaçmalıyım.{/i}"
 
 # game/UpdateScript0.02.rpy:1909 #-#-# translate crowdin momspycamroomhorny_98a8f81a:
 msgid "[_MT_] {i}Holy fuck.... It looked like Lauren was licking up cum in the lounge.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Lanet olsun.... Lauren salonda döl yalıyormuş gibi görünüyordu.{/i}"
 
 # game/UpdateScript0.02.rpy:1910 #-#-# translate crowdin momspycamroomhorny_71a38338:
 msgid "[_MT_] {i}She said it was frosting from a cinnamon roll, but what if it was [ryan]'s cum?{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Tarçınlı rulonun kreması olduğunu söyledi, ama ya [Ryan]'ın dölüyse?{/i}"
 
 # game/UpdateScript0.02.rpy:1911 #-#-# translate crowdin momspycamroomhorny_5e3682c6:
 msgid "[_MT_] {i}I know that's absolutely ridiculous.... and that thought shouldn't turn me on.... but.... fuck, that's hot to imagine!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Bunun kesinlikle saçma olduğunu.... ve bu düşüncenin beni azdırmaması gerektiğini biliyorum.... ama.... sikeyim, bunu hayal etmek çok ateşli!{/i}"
 
 # game/UpdateScript0.02.rpy:1915 #-#-# translate crowdin momspycamroomhorny_f79e083d_1:
 msgid "[_MT_] {i}Oh, Fuuuuuuck!!!{/i}"
@@ -2834,7 +2834,7 @@ msgstr "[_MT_] {i}Biraz hayal kurmanın ne zararı var?{/i}"
 
 # game/UpdateScript0.02.rpy:1926 #-#-# translate crowdin momspycamroomhorny_1e794b98_1:
 msgid "[_MT_] {i}But that felt sooooo good!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Ama bu çoooook iyi hissettirdi!{/i}"
 
 # game/UpdateScript0.02.rpy:1927 #-#-# translate crowdin momspycamroomhorny_0a6bf903_1:
 msgid "[_MT_] {i}What's wrong with me.{/i}"
@@ -2898,15 +2898,15 @@ msgstr "[_RT_] {i}IYakalanmadan önce kaçmalıyım.{/i}"
 
 # game/UpdateScript0.02.rpy:1959 #-#-# translate crowdin momspycamroomhorny_b7eb0efe:
 msgid "[_MT_] {i}I can't believe I made my sister get such a sexy uniform.... I mean it serves her right!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Kız kardeşime böyle seksi bir üniforma giydirdiğime inanamıyorum.... Yani hak ettiği bu!{/i}"
 
 # game/UpdateScript0.02.rpy:1960 #-#-# translate crowdin momspycamroomhorny_5e311e46:
 msgid "[_MT_] {i}But [ryan] and her are home all alone! Could [ryan] resist the temptation to take advantage of her?{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Ama [ryan] ve o evde yalnızlar! [ryan] ondan faydalanmanın cazibesine karşı koyabilecek mi?{/i}"
 
 # game/UpdateScript0.02.rpy:1961 #-#-# translate crowdin momspycamroomhorny_d0a451ac:
 msgid "[_MT_] {i}Haha.... I know Camille would never let him.... but its still pretty sexy to imagine!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Haha.... Camille'in ona asla izin vermeyeceğini biliyorum.... ama yine de hayal etmesi oldukça seksi!{/i}"
 
 # game/UpdateScript0.02.rpy:1965 #-#-# translate crowdin momspycamroomhorny_f79e083d_2:
 msgid "[_MT_] {i}Oh, Fuuuuuuck!!!{/i}"
@@ -2922,7 +2922,7 @@ msgstr "[_MT_] {i}Oh evet!! Yine boşaldım!{/i}"
 
 # game/UpdateScript0.02.rpy:1974 #-#-# translate crowdin momspycamroomhorny_6a887501:
 msgid "[_MT_] {i}And that time, I thought of [ryan] fucking Camille.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Ve o zaman, [ryan]'ın Camille'i becerdiğini düşündüm.{/i}"
 
 # game/UpdateScript0.02.rpy:1975 #-#-# translate crowdin momspycamroomhorny_8bebf33f:
 msgid "[_MT_] {i}What's the harm in a little imagination. He would never really do that.{/i}"
@@ -2930,7 +2930,7 @@ msgstr "[_MT_] {i}Biraz hayal kurmanın ne zararı var? O bunu asla yapmazdı.{/
 
 # game/UpdateScript0.02.rpy:1976 #-#-# translate crowdin momspycamroomhorny_1e794b98_2:
 msgid "[_MT_] {i}But that felt sooooo good!{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Ama bu çoooook iyi hissettirdi!{/i}"
 
 # game/UpdateScript0.02.rpy:1977 #-#-# translate crowdin momspycamroomhorny_0a6bf903_2:
 msgid "[_MT_] {i}What's wrong with me.{/i}"
@@ -3090,11 +3090,11 @@ msgstr "[_RT_] {i}IYakalanmadan önce kaçmalıyım.{/i}"
 
 # game/UpdateScript0.02.rpy:2059 #-#-# translate crowdin momspycamroomhorny_562419e3:
 msgid "[_MT_] {i}Was [ryan] really just trying to fix the washing machine, or was he dry humping my ass on purpose?{/i}"
-msgstr ""
+msgstr "[_MT_] {i}[Ryan] gerçekten sadece çamaşır makinesini tamir etmeye mi çalışıyordu, yoksa bilerek mi kıçıma sürtünüyordu?{/i}"
 
 # game/UpdateScript0.02.rpy:2060 #-#-# translate crowdin momspycamroomhorny_820d9859:
 msgid "[_MT_] {i}I swear I could feel his huge cock hot dogging my ass cheeks as he tried to fix those belts.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Yemin ederim, o kemerleri düzeltmeye çalışırken kocaman siki ile beni domalttığını hissedebiliyordum.{/i}"
 
 # game/UpdateScript0.02.rpy:2064 #-#-# translate crowdin momspycamroomhorny_f79e083d_4:
 msgid "[_MT_] {i}Oh, Fuuuuuuck!!!{/i}"
@@ -3182,11 +3182,11 @@ msgstr "[_RT_] {i}IYakalanmadan önce kaçmalıyım.{/i}"
 
 # game/UpdateScript0.02.rpy:2108 #-#-# translate crowdin momspycamroomhorny_89691c62:
 msgid "[_MT_] {i}I can't believe I let [ryan] show me those types of games in my office.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}[Ryan]'ın bana ofisimde bu tür oyunları göstermesine izin verdiğime inanamıyorum.{/i}"
 
 # game/UpdateScript0.02.rpy:2109 #-#-# translate crowdin momspycamroomhorny_8aa9b2eb:
 msgid "[_MT_] {i}I wonder if they make him imagine those same scenarios with me.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Acaba ona da benimle aynı senaryoları hayal ettiriyorlar mı?{/i}"
 
 # game/UpdateScript0.02.rpy:2113 #-#-# translate crowdin momspycamroomhorny_f79e083d_5:
 msgid "[_MT_] {i}Oh, Fuuuuuuck!!!{/i}"
@@ -3330,7 +3330,7 @@ msgstr "[_MT_] {i} [dad_name] bu kadar kıskançken hayatımda pek fazla erkek y
 
 # game/UpdateScript0.02.rpy:2180 #-#-# translate crowdin momspycamroomhorny_1c0e6f21:
 msgid "[_MT_] {i}All I can really think of is stupid Joey DeCapo.... that asshole who let's my son into his club whenever he wants.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Tek düşünebildiğim aptal Joey DeCapo.... oğlumun istediği zaman kulübüne girmesine izin veren o pislik.{/i}"
 
 # game/UpdateScript0.02.rpy:2181 #-#-# translate crowdin momspycamroomhorny_9d907808_1:
 msgid "[_MT_] {i}Now that boy has a big penis. I don't know if I'd be able to fit him in either of my holes.{/i}"
@@ -3454,7 +3454,7 @@ msgstr "[_RT_] {i}Şey.... burada pek bir hareketlilik yok. Muhtemelen gidip uyu
 
 # game/UpdateScript0.02.rpy:2281 #-#-# translate crowdin momspycamroommad_c98d52d6:
 msgid "[_RT_] {i}Looks like she's trying to blow off some steam with a little yoga.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Görünüşe göre biraz yoga yaparak stres atmaya çalışıyor.{/i}"
 
 # game/UpdateScript0.02.rpy:2287 #-#-# translate crowdin momspycamroommad_d2f53328:
 msgid "[_RT_] {i}Well.... she could be doing this for a while. I should go get ready for the day myself.{/i}"
@@ -5846,7 +5846,7 @@ msgstr ""
 
 # game/UpdateScript0.02.rpy:3858 #-#-# translate crowdin emptywarehouse_554188de:
 msgid "{i}{b}\"Mandy's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mandy'nin Libidosu +1{/b}{/i}"
 
 # game/UpdateScript0.02.rpy:3862 #-#-# translate crowdin emptywarehouse_67646609:
 msgid "[_MD_] Is this sexy enough for you?"
