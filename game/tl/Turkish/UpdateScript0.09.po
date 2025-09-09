@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-07-14 01:52\n"
+"PO-Revision-Date: 2025-09-09 04:01\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.09.rpy:564 #-#-# translate crowdin myroom_post_cami_fight_8a5367c3:
 msgid "[_R_] I'm not ready to sleep yet... I should go talk to Mom and Lauren before I come back to bed."
@@ -5506,7 +5506,7 @@ msgstr "[ _RT_] {i}Bu da onu izleyemeyeceğim anlamına gelmiyor."
 
 # game/UpdateScript0.09.rpy:3216 #-#-# translate crowdin moms_great_bath_a7d1c510:
 msgid "[_RT_] {i}She's already showered, she'll be coming out that door any second. I don't want to be creeping around when she does.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}[Duşunu aldı bile, her an çıkabilir. Çıktığında yakalanmak istemiyorum.{/i}"
 
 # game/UpdateScript0.09.rpy:3223 #-#-# translate crowdin moms_great_bath_1c116a65:
 msgid "[_RT_] {i}These little cameras have pretty decent reception and video quality.{/i}"
@@ -7883,7 +7883,7 @@ msgstr "[ _RT_] {i}Sanırım şimdilik ona biraz yalnız kalmak istiyorum. { /i 
 
 # game/UpdateScript0.09.rpy:4484 #-#-# translate crowdin great_morning_dc61ea40:
 msgid "[_RT_] {i}I can always watch her on the spy-cam, though.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Yine de onu her zaman casus kameradan izleyebilirim.{/i}"
 
 # game/UpdateScript0.09.rpy:4490 #-#-# translate crowdin great_morning_ffe33709:
 msgid "[_RT_] {i}That's how she stays in such great shape.{/i}"
