@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-07-23 07:48\n"
+"PO-Revision-Date: 2025-09-10 04:19\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.04.rpy:320 #-#-# translate crowdin get_sidney_modeling_68a39f05:
 msgid "[_RT_] {i}Ok, I think I've had enough handys, it's time to take things up a notch.{/i}"
@@ -2182,7 +2182,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:1559 #-#-# translate crowdin maid_outfit_fitting_a9526f71:
 msgid "[_R_] {i}Damn, it's no fun to call her Aunt Cami if she's gonna let me.... I'll just go back to calling her Camille now, a nice French name for a French maid.{/i}"
-msgstr ""
+msgstr "[_R_] {i}Lanet olsun, eğer izin verecekse.... ona Camy Teyze demek hiç eğlenceli değil. Artık ona Camille demeye devam edeceğim, Fransız bir hizmetçi için güzel bir Fransız ismi.{/i}"
 
 # game/UpdateScript0.04.rpy:1561 #-#-# translate crowdin maid_outfit_fitting_bc0fe233:
 msgid "[_R_] That looks really good on you Aunt Camille!"
@@ -3586,7 +3586,7 @@ msgstr ""
 
 # game/UpdateScript0.04.rpy:2218 #-#-# translate crowdin aunt_clean_bath_aed87abf:
 msgid "[_CT_] {i}Holy shit! There it is again!.... {/i}"
-msgstr ""
+msgstr "[_CT_] {i}Kahretsin! İşte yine oldu!.... {/i}"
 
 # game/UpdateScript0.04.rpy:2219 #-#-# translate crowdin aunt_clean_bath_90a403ff:
 msgid "[_CT_] {i}I can't look away!{/i}"
@@ -4710,7 +4710,7 @@ msgstr "Aslında çok yorucuydu. Annen oldukça iyi durumda. Beni gerçekten ço
 
 # game/UpdateScript0.04.rpy:2769 #-#-# translate crowdin assign_chores_0ccb4807:
 msgid "[_RT_] {i}I wish I'd spent the morning letting Mom wear me out.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Keşke sabahı annemin beni bitirmesine izin vererek geçirseydim.{/i}"
 
 # game/UpdateScript0.04.rpy:2770 #-#-# translate crowdin assign_chores_a82a9686:
 msgid "[_C_] So, first day on the job.... I guess you should let me know what I should be doing.... expectations and all that?"
@@ -5002,7 +5002,7 @@ msgstr "Aslında çok yorucuydu. Annen oldukça iyi durumda. Beni gerçekten ço
 
 # game/UpdateScript0.04.rpy:2889 #-#-# translate crowdin assign_chores_0ccb4807_1:
 msgid "[_RT_] {i}I wish I'd spent the morning letting Mom wear me out.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Keşke sabahı annemin beni bitirmesine izin vererek geçirseydim.{/i}"
 
 # game/UpdateScript0.04.rpy:2890 #-#-# translate crowdin assign_chores_a2a4fcea:
 msgid "[_C_] So, as you can see, I'm getting started with a few glasses of wine. You got a problem with that?"
