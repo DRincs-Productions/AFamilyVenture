@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-09-10 05:27\n"
+"PO-Revision-Date: 2025-09-10 06:22\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -30,7 +30,7 @@ msgstr "[_RT_] {i}Annem bütün hafta çok çalışıyor. Hafta sonu sabahları 
 
 # game/script.rpy:590 #-#-# translate crowdin skip_bb947539:
 msgid "[_RT_] {i}{b}(HINT){/b} So, if I get four hundred dollars to Sidney, she'll make Lauren a cosplay outfit. That would probably impress both Sidney and Lauren. I'll give the money to Sidney in the kitchen some evening.{/i}"
-msgstr "[_RT_] {i}Eğer Sidney'e 400 dolar verirsem, Lauren'a bir cosplay kıyafeti dikecek. Bu muhtemelen hem Sidney'i hem de Lauren'ı etkileyecektir. Parayı bir akşam mutfakta Sidney'e vereceğim.{/i}"
+msgstr "[_RT_] {i}{b}(HINT){/b} Eğer Sidney'e 400 dolar verirsem, Lauren'a bir cosplay kıyafeti dikecek. Bu muhtemelen hem Sidney'i hem de Lauren'ı etkileyecektir. Parayı bir akşam mutfakta Sidney'e vereceğim.{/i}"
 
 # game/script.rpy:597 #-#-# translate crowdin skip_bb3a2450:
 msgid "[_RT_] {i}{b}(HINT){/b} Shelling out one thousand dollars a week is not easy... I wonder how Mom would do if I just let her keep working off the debt at the strip club?{/i}"
@@ -50,7 +50,7 @@ msgstr "[_RT_] {i}Annem bütün hafta çok çalışıyor. Hafta sonu sabahları 
 
 # game/script.rpy:843 #-#-# translate crowdin skip_bb947539_1:
 msgid "[_RT_] {i}{b}(HINT){/b} So, if I get four hundred dollars to Sidney, she'll make Lauren a cosplay outfit. That would probably impress both Sidney and Lauren. I'll give the money to Sidney in the kitchen some evening.{/i}"
-msgstr "[_RT_] {i}Eğer Sidney'e 400 dolar verirsem, Lauren'a bir cosplay kıyafeti dikecek. Bu muhtemelen hem Sidney'i hem de Lauren'ı etkileyecektir. Parayı bir akşam mutfakta Sidney'e vereceğim.{/i}"
+msgstr "[_RT_] {i}{b}(HINT){/b} Eğer Sidney'e 400 dolar verirsem, Lauren'a bir cosplay kıyafeti dikecek. Bu muhtemelen hem Sidney'i hem de Lauren'ı etkileyecektir. Parayı bir akşam mutfakta Sidney'e vereceğim.{/i}"
 
 # game/script.rpy:850 #-#-# translate crowdin skip_bb3a2450_1:
 msgid "[_RT_] {i}{b}(HINT){/b} Shelling out one thousand dollars a week is not easy... I wonder how Mom would do if I just let her keep working off the debt at the strip club?{/i}"
@@ -3298,7 +3298,7 @@ msgstr "{i}{b}\"Sidney'in kızgınlığı +10\"{/b}{/i}"
 
 # game/script.rpy:5342 #-#-# translate crowdin sidneyinthekitchencontinued_bb947539:
 msgid "[_RT_] {i}{b}(HINT){/b} So, if I get four hundred dollars to Sidney, she'll make Lauren a cosplay outfit. That would probably impress both Sidney and Lauren. I'll give the money to Sidney in the kitchen some evening.{/i}"
-msgstr "[_RT_] {i}Eğer Sidney'e 400 dolar verirsem, Lauren'a bir cosplay kıyafeti dikecek. Bu muhtemelen hem Sidney'i hem de Lauren'ı etkileyecektir. Parayı bir akşam mutfakta Sidney'e vereceğim.{/i}"
+msgstr "[_RT_] {i}{b}(HINT){/b} Eğer Sidney'e 400 dolar verirsem, Lauren'a bir cosplay kıyafeti dikecek. Bu muhtemelen hem Sidney'i hem de Lauren'ı etkileyecektir. Parayı bir akşam mutfakta Sidney'e vereceğim.{/i}"
 
 # game/script.rpy:5350 #-#-# translate crowdin sidneyinthekitchencontinued_9dc4e7d3:
 msgid "[_R_] I'm sorry, I was just looking down because your laughing embarassed me."
@@ -3370,7 +3370,7 @@ msgstr "{i}{b}\"Sidney'in azgınlığı +3\"{/b}{/i}"
 
 # game/script.rpy:5377 #-#-# translate crowdin sidneyinthekitchencontinued_bb947539_1:
 msgid "[_RT_] {i}{b}(HINT){/b} So, if I get four hundred dollars to Sidney, she'll make Lauren a cosplay outfit. That would probably impress both Sidney and Lauren. I'll give the money to Sidney in the kitchen some evening.{/i}"
-msgstr "[_RT_] {i}Eğer Sidney'e 400 dolar verirsem, Lauren'a bir cosplay kıyafeti dikecek. Bu muhtemelen hem Sidney'i hem de Lauren'ı etkileyecektir. Parayı bir akşam mutfakta Sidney'e vereceğim.{/i}"
+msgstr "[_RT_] {i}{b}(HINT){/b} Eğer Sidney'e 400 dolar verirsem, Lauren'a bir cosplay kıyafeti dikecek. Bu muhtemelen hem Sidney'i hem de Lauren'ı etkileyecektir. Parayı bir akşam mutfakta Sidney'e vereceğim.{/i}"
 
 # game/script.rpy:5386 #-#-# translate crowdin sidneyinthekitchencontinued_943e498b:
 msgid "[_S_] Oh my.... I'm sorry.... I really am sorry for laughing."
@@ -3426,7 +3426,7 @@ msgstr "{i}{b}\"Sidney'in azgınlığı +1\"{/b}{/i}"
 
 # game/script.rpy:5409 #-#-# translate crowdin sidneyinthekitchencontinued_bb947539_2:
 msgid "[_RT_] {i}{b}(HINT){/b} So, if I get four hundred dollars to Sidney, she'll make Lauren a cosplay outfit. That would probably impress both Sidney and Lauren. I'll give the money to Sidney in the kitchen some evening.{/i}"
-msgstr "[_RT_] {i}Eğer Sidney'e 400 dolar verirsem, Lauren'a bir cosplay kıyafeti dikecek. Bu muhtemelen hem Sidney'i hem de Lauren'ı etkileyecektir. Parayı bir akşam mutfakta Sidney'e vereceğim.{/i}"
+msgstr "[_RT_] {i}{b}(HINT){/b} Eğer Sidney'e 400 dolar verirsem, Lauren'a bir cosplay kıyafeti dikecek. Bu muhtemelen hem Sidney'i hem de Lauren'ı etkileyecektir. Parayı bir akşam mutfakta Sidney'e vereceğim.{/i}"
 
 # game/script.rpy:5447 #-#-# translate crowdin momearlymorning_c85ca467:
 msgid "[_RT_] {i}Why am I standing by Mom's door again. She already said she wasn't going to let me in.{/i}"
