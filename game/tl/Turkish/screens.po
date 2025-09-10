@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-07-23 07:50\n"
+"PO-Revision-Date: 2025-09-10 04:19\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:247
 msgid "History"
@@ -116,7 +116,7 @@ msgstr "boş"
 
 # game/screens.rpy:685
 msgid "<"
-msgstr ""
+msgstr "<"
 
 # game/screens.rpy:688
 msgid "{#auto_page}A"
@@ -128,7 +128,7 @@ msgstr "{#quick_page}Q"
 
 # game/screens.rpy:697
 msgid ">"
-msgstr ""
+msgstr ">"
 
 # game/screens.rpy:754
 msgid "Display"
@@ -172,7 +172,7 @@ msgstr "Geçişler"
 
 # game/screens.rpy:774
 msgid "Navigation settings"
-msgstr ""
+msgstr "Navigasyon ayarları"
 
 # game/screens.rpy:781
 msgid "Language"
@@ -188,7 +188,7 @@ msgstr "Oto-ilerleme Süresi"
 
 # game/screens.rpy:845
 msgid "Dialogue Box Opacity"
-msgstr ""
+msgstr "Diyalog Kutusu Opaklığı"
 
 # game/screens.rpy:851
 msgid "Music Volume"
