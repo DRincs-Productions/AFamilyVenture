@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-09-09 04:01\n"
+"PO-Revision-Date: 2025-09-10 04:19\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -994,15 +994,15 @@ msgstr "[_RT_] {i}Neyim var benim?{/i}"
 
 # game/script.rpy:3178 #-#-# translate crowdin loungemorningweekend_eeb76109:
 msgid "[_RT_] {i}Why isn't Mom here doing her chores?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Annem neden burada ev işlerini yapmıyor? {/i}"
 
 # game/script.rpy:3179 #-#-# translate crowdin loungemorningweekend_617586d1:
 msgid "[_RT_] {i}Oh, right... She's avoiding me now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Tabii ya... Şimdi de beni görmezden geliyor.{/i}"
 
 # game/script.rpy:3180 #-#-# translate crowdin loungemorningweekend_a16e2949:
 msgid "[_RT_] {i}Where could she have gone?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nereye gitmiş olabilir? {/i}"
 
 # game/script.rpy:3249 #-#-# translate crowdin loungeevening_3959ba15:
 msgid "[_RT_] {i}What did I just walk in on? It's like Mom and Lauren are purposely trying to be cock-teases lately.{/i}"
@@ -2038,7 +2038,7 @@ msgstr "{i}{b}\"Sidney'in azgınlığı -5\"{/b}{/i}"
 
 # game/script.rpy:4297 #-#-# translate crowdin sidneyhornybathroom_5b757f72:
 msgid "[_RT_] {i}Sidney must be taking a shower. Wait.... did I just hear some moaning?, uggh I've got to find a way to see what's going on in there.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Sidney duş alıyor olmalı. Dur bir dakika.... az önce bir inilti mi duydum? Orada ne olduğunu görmenin bir yolunu bulmalıyım.{/i}"
 
 # game/script.rpy:4298 #-#-# translate crowdin sidneyhornybathroom_445042f6_1:
 msgid "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
@@ -2046,7 +2046,7 @@ msgstr "{i}{b}\"Sidney'in azgınlığı -5\"{/b}{/i}"
 
 # game/script.rpy:4330 #-#-# translate crowdin bathafternoonweekend_b4945548:
 msgid "[_RT_] {i}Mom's taking a long shower.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Annem uzun bir duş alıyor.{/i}"
 
 # game/script.rpy:4336 #-#-# translate crowdin bathafternoonweekend_46ef923c:
 msgid "[_RT_] {i}I think that's Mom. I'm so glad she finally came out of her room. Sounds like she's taking a shower.{/i}"
@@ -2062,11 +2062,11 @@ msgstr "[_RT_] {i}İnternetten bir casus kamera alıp etrafta kimse yokken banyo
 
 # game/script.rpy:4384 #-#-# translate crowdin bathevening_080a64d7:
 msgid "[_RT_] {i}Mom's in the shower again... Wish I could watch her shower.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Annem yine duşta... Keşke izleyebilseydim.{/i}"
 
 # game/script.rpy:4390 #-#-# translate crowdin bathevening_66c1b423:
 msgid "[_RT_] {i}That must be Mom in the shower.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Duşta olan Annem olmalı.{/i}"
 
 # game/script.rpy:4396 #-#-# translate crowdin bathevening_996e9c64:
 msgid "[_RT_] {i}{b}(HINT){/b} I should see if I can buy a spy-cam online and place it in the bathroom when no one is around.{/i}"
@@ -2074,7 +2074,7 @@ msgstr "[_RT_] {i}İnternetten bir casus kamera alıp etrafta kimse yokken banyo
 
 # game/script.rpy:4405 #-#-# translate crowdin bathevening_c0f221e9:
 msgid "[_RT_] {i}Mom must be getting ready for bed.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Annem yatmaya hazırlanıyor olmalı.{/i}"
 
 # game/script.rpy:4434 #-#-# translate crowdin momhornybathroom_189d137d:
 msgid "[_RT_] {i}Mom is taking her after school shower. Wait.... did I just hear some moaning? Let's just take a quick look.{/i}"
@@ -2086,7 +2086,7 @@ msgstr "{i}{b}\"Annemin azgınlığı -5\"{/b}{/i}"
 
 # game/script.rpy:4449 #-#-# translate crowdin momhornybathroom_32595272:
 msgid "[_RT_] {i}That must be Mom in the shower. Wait.... did I just hear some moaning?, uggh I've got to find a way to see what's going on in there.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Duştaki annem olmalı. Bir dakika....az önce bir inilti mi duydum? Orada ne olduğunu görmenin bir yolunu bulmalıyım{/i}"
 
 # game/script.rpy:4450 #-#-# translate crowdin momhornybathroom_7a379bd5_1:
 msgid "{i}{b}\"Mom's Libido -5\"{/b}{/i}"
@@ -2094,7 +2094,7 @@ msgstr "{i}{b}\"Annemin azgınlığı -5\"{/b}{/i}"
 
 # game/script.rpy:4496 #-#-# translate crowdin toilet_a40a1927:
 msgid "[_RT_] {i}I'm alright for now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Şimdilik iyiyim.{/i}"
 
 # game/script.rpy:4508 #-#-# translate crowdin shower_e48d4a85:
 msgid "[_RT_] {i}No time for a shower.{/i}"
@@ -2126,7 +2126,7 @@ msgstr "[_M_] Oh, işte buradasın tatlım. Lütfen gel otur ve biraz yemek ye."
 
 # game/script.rpy:4667 #-#-# translate crowdin kitcheneveningweekend_ca44a619:
 msgid "[_RT_] {i}Oh good, Mom is finally up and about, I wonder if she's doing any better.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Güzel, annem sonunda ayağa kalktı, daha iyi olup olmadığını merak ediyorum.{/i}"
 
 # game/script.rpy:4674 #-#-# translate crowdin kitcheneveningweekend_87d7d54e:
 msgid "[_M_] Oh, hi honey, yes, I'm doing much better now."
@@ -2134,7 +2134,7 @@ msgstr "Merhaba tatlım, evet, şimdi çok daha iyiyim."
 
 # game/script.rpy:4675 #-#-# translate crowdin kitcheneveningweekend_4ad8ebb3:
 msgid "[_R_] What are you drinking?"
-msgstr ""
+msgstr "[_R_] Ne içiyorsun?"
 
 # game/script.rpy:4676 #-#-# translate crowdin kitcheneveningweekend_26355657:
 msgid "[_M_] Oh, just a little wine to help me with my hangover."
