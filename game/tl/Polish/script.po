@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-09-07 09:59\n"
+"PO-Revision-Date: 2025-09-12 20:36\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -5130,43 +5130,43 @@ msgstr ""
 
 # game/script.rpy:7357 #-#-# translate crowdin caughtbysidney_bd6a162a:
 msgid "[_RT_] {i}I think I can hear her talking with someone on her phone. Could she be telling Mom on me?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Wydaje mi się, że słyszę, jak rozmawia z kimś przez telefon. Czy ona może donosić mamie na mnie?{/i}"
 
 # game/script.rpy:7358 #-#-# translate crowdin caughtbysidney_71c9e440:
 msgid "[_RT_] {i}I need to get closer to see if I can hear.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Muszę podejść bliżej, żeby sprawdzić, czy coś usłyszę.{/i}"
 
 # game/script.rpy:7359 #-#-# translate crowdin caughtbysidney_42ff5d83:
 msgid "[_RT_] {i}Maybe if I put my ear on the door I can.... {/i}"
-msgstr ""
+msgstr "[_RT_] {i}Może jeśli przyłożę ucho do drzwi, będę mógł.... {/i}"
 
 # game/script.rpy:7362 #-#-# translate crowdin caughtbysidney_f79717f2:
 msgid "[_S_] Haa.... I knew it was you!"
-msgstr ""
+msgstr "[_S_] Haa.... Wiedziałam, że to ty!"
 
 # game/script.rpy:7363 #-#-# translate crowdin caughtbysidney_67f4000f:
 msgid "[_S_] Why are you lurking at my door you little pervert!"
-msgstr ""
+msgstr "[_S_] Dlaczego czaisz się pod moimi drzwiami, mały zboczeńcu!"
 
 # game/script.rpy:7366 #-#-# translate crowdin caughtbysidney_dc427338:
 msgid "[_R_] I'm sorry, I just wasn't sure if you were home, and wanted to see if you were. I thought maybe we could hang out?"
-msgstr ""
+msgstr "[_R_] Przepraszam, po prostu nie byłem pewien, czy jesteś w domu i chciałem to sprawdzić. Pomyślałem, że może moglibyśmy się spotkać?"
 
 # game/script.rpy:7367 #-#-# translate crowdin caughtbysidney_e961d194:
 msgid "[_S_] Oh, and I'm supposed to believe that you weren't peeking in at me dressing just a few minutes ago?"
-msgstr ""
+msgstr "[_S_] I mam uwierzyć, że nie podglądałeś jak się ubierałam kilka minut temu?"
 
 # game/script.rpy:7368 #-#-# translate crowdin caughtbysidney_4a95b92b:
 msgid "[_S_] How much did you see?"
-msgstr ""
+msgstr "[_S_] Ile widziałeś?"
 
 # game/script.rpy:7371 #-#-# translate crowdin caughtbysidney_49a1d558:
 msgid "[_R_] Not much, you were mostly dressed when I saw you. I ran away as soon as I realized you were changing."
-msgstr ""
+msgstr "[_R_] Niewiele, byłaś w większości ubrana, kiedy cię zobaczyłem. Uciekłem, gdy tylko zdałem sobie sprawę, że się przebierasz."
 
 # game/script.rpy:7372 #-#-# translate crowdin caughtbysidney_540c716a:
 msgid "[_S_] You better not be lying!"
-msgstr ""
+msgstr "[_S_] Lepiej, żebyś nie kłamał!"
 
 # game/script.rpy:7373 #-#-# translate crowdin caughtbysidney_7984de58:
 msgid "{i}{b}\"Sidney's Anger +5\"{/b}{/i}"
@@ -5174,23 +5174,23 @@ msgstr ""
 
 # game/script.rpy:7375 #-#-# translate crowdin caughtbysidney_78115a4b:
 msgid "[_S_] You know you could have just knocked."
-msgstr ""
+msgstr "[_S_] Mogłeś po prostu zapukać."
 
 # game/script.rpy:7376 #-#-# translate crowdin caughtbysidney_1864a7a3:
 msgid "[_R_] Sorry, I'll try to do that next time."
-msgstr ""
+msgstr "[_R_] Przepraszam, spróbuję to zrobić następnym razem."
 
 # game/script.rpy:7377 #-#-# translate crowdin caughtbysidney_ebdd0137:
 msgid "[_S_] Whatever!"
-msgstr ""
+msgstr "[_S_] Nieważne!"
 
 # game/script.rpy:7383 #-#-# translate crowdin caughtbysidney_cca7ecd5:
 msgid "[_R_] I have no idea what you're talking about."
-msgstr ""
+msgstr "[_R_] Nie mam pojęcia, o czym mówisz."
 
 # game/script.rpy:7384 #-#-# translate crowdin caughtbysidney_38418e96:
 msgid "[_S_] Yeah right you little liar!"
-msgstr ""
+msgstr "[_S_] Jasne, ty mały kłamco!"
 
 # game/script.rpy:7385 #-#-# translate crowdin caughtbysidney_6c4d1572:
 msgid "{i}{b}\"Sidney's Anger +10\"{/b}{/i}"
@@ -5198,19 +5198,19 @@ msgstr ""
 
 # game/script.rpy:7387 #-#-# translate crowdin caughtbysidney_078fd5f6:
 msgid "[_S_] If you need to talk to me, just knock on the door,"
-msgstr ""
+msgstr "[_S_] Jeśli chcesz ze mną porozmawiać, po prostu zapukaj do drzwi,"
 
 # game/script.rpy:7388 #-#-# translate crowdin caughtbysidney_79367dd9:
 msgid "[_S_] Instead of creeping around like some depraved pervert."
-msgstr ""
+msgstr "[_S_] Zamiast skradać się jak jakiś zdeprawowany zboczeniec."
 
 # game/script.rpy:7389 #-#-# translate crowdin caughtbysidney_1864a7a3_1:
 msgid "[_R_] Sorry, I'll try to do that next time."
-msgstr ""
+msgstr "[_R_] Przepraszam, spróbuję to zrobić następnym razem."
 
 # game/script.rpy:7390 #-#-# translate crowdin caughtbysidney_ebdd0137_1:
 msgid "[_S_] Whatever!"
-msgstr ""
+msgstr "[_S_] Nieważne!"
 
 # game/script.rpy:7402 #-#-# translate crowdin sidneylaurensneakattempt_d9a5ac9c:
 msgid "[_RT_] {i}Ok.... so having Sidney in bed with Lauren might complicate things just a little bit.{/i}"
