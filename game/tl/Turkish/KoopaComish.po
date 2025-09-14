@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-09-10 04:19\n"
+"PO-Revision-Date: 2025-09-14 00:50\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/KoopaComish.rpy:85 #-#-# translate crowdin koopa_scene_29ee671b:
 msgid "{i}\"Congratulations, You have unlocked a special noncanonical NTR event scene!\"{/i}"
@@ -82,7 +82,7 @@ msgstr ""
 
 # game/KoopaComish.rpy:123 #-#-# translate crowdin koopa_scene_b480188d:
 msgid "[_X_] Ryan, Sidney... Welcome to the high roller's room!"
-msgstr ""
+msgstr "[_X_] Ryan ve Sidney... Yüksek bahis odasına hoşgeldiniz!"
 
 # game/KoopaComish.rpy:126 #-#-# translate crowdin koopa_scene_ffb249b9:
 msgid "[_R_] JJ?... From my art class?... Is that you?"
@@ -1606,7 +1606,7 @@ msgstr "{i}\"Ve şimdi, oyunumuza geri dönelim!\"{/i}"
 
 # §translate crowdin strings: #|#|# # game/KoopaComish.rpy:1
 msgid "JJ"
-msgstr "Sadece şakaydı."
+msgstr "JJ"
 
 # game/KoopaComish.rpy:92
 msgid "Play Scene"
