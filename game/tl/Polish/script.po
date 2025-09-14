@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-09-14 10:51\n"
+"PO-Revision-Date: 2025-09-14 12:12\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -8026,7 +8026,7 @@ msgstr "[_M_] Czy udało ci się zebrać wystarczająco dużo pieniędzy, aby sp
 
 # game/script.rpy:10032 #-#-# translate crowdin collectingpayment_74239e20:
 msgid "[_R_] Of course, Mom, did you really doubt me?"
-msgstr ""
+msgstr "[_R_] Oczywiście, mamo, naprawdę we mnie wątpiłaś?"
 
 # game/script.rpy:10033 #-#-# translate crowdin collectingpayment_136da53b:
 msgid "{i}\"Money -$1,000\"{/i}"
@@ -8170,7 +8170,7 @@ msgstr ""
 
 # game/script.rpy:10122 #-#-# translate crowdin momdissapointed_bb64a15e:
 msgid "[_RT_] {i}There she goes off to the club.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Pojechała do klubu.{/i}"
 
 # game/script.rpy:10123 #-#-# translate crowdin momdissapointed_68cce5bc:
 msgid "[_RT_] {i}I wonder if I should go make sure she is okay again.{/i}"
