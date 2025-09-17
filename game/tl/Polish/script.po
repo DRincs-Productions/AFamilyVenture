@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-09-14 12:12\n"
+"PO-Revision-Date: 2025-09-17 17:53\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -5502,7 +5502,7 @@ msgstr ""
 
 # game/script.rpy:7554 #-#-# translate crowdin sidneylaurensneakingnight_12862598:
 msgid "[_RT_] {i}Dammit!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Cholera!{/i}"
 
 # game/script.rpy:7555 #-#-# translate crowdin sidneylaurensneakingnight_e6e09dda:
 msgid "[_M_] If you can't keep your hands to yourself in your sleep, I don't want you corrupting my little boy!"
