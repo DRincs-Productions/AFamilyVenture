@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-09-17 17:53\n"
+"PO-Revision-Date: 2025-09-17 19:07\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -7986,15 +7986,15 @@ msgstr ""
 
 # game/script.rpy:10013 #-#-# translate crowdin collectingpayment_34a9d44a:
 msgid "[_RT_] {i}Looks like Lauren's watching her ponies show again.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Wygląda na to, że Lauren znów ogląda swój program o kucykach.{/i}"
 
 # game/script.rpy:10014 #-#-# translate crowdin collectingpayment_e81a1dd4:
 msgid "DING DONG"
-msgstr ""
+msgstr "DING DONG"
 
 # game/script.rpy:10015 #-#-# translate crowdin collectingpayment_47a6f8a0:
 msgid "[_RT_] {i}That's the doorbell. I'm pretty sure I know who that is.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}To dzwonek do drzwi. Jestem pewien, że wiem, kto to jest.{/i}"
 
 # game/script.rpy:10020 #-#-# translate crowdin collectingpayment_49b69b6c:
 msgid "[_J_] Hello little boy, is your mom at home?"
