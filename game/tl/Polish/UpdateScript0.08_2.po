@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-09-19 18:45\n"
+"PO-Revision-Date: 2025-09-19 20:12\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.08_2.rpy:9 #-#-# translate crowdin mom_bumps_sidney_bc054bd6:
 msgid "[_G_] Well, if it isn't the lovely Miss [mom_name]."
@@ -9126,7 +9126,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:5169 #-#-# translate crowdin prison_visit_ecc45e0b:
 msgid "[_R_] Sorry."
-msgstr ""
+msgstr "[_R_] Przepraszam."
 
 # game/UpdateScript0.08_2.rpy:5175 #-#-# translate crowdin prison_visit_80fc46e4:
 msgid "[_M_] Ok, I'm about to go in."
@@ -24858,7 +24858,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:13184 #-#-# translate crowdin beach_date_ecc45e0b:
 msgid "[_R_] Sorry."
-msgstr ""
+msgstr "[_R_] Przepraszam."
 
 # game/UpdateScript0.08_2.rpy:13187 #-#-# translate crowdin beach_date_704b659d:
 msgid "{i}\"A short time later.\"{/i}"
