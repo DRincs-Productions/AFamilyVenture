@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-09-19 21:31\n"
+"PO-Revision-Date: 2025-09-20 19:31\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScriptHalloweenEvent.rpy:256 #-#-# translate crowdin halloween_event_start_36b1bdbb:
 msgid "{i}{b}(HINT){/b} Happy Halloween!{/i}"
@@ -18,7 +18,7 @@ msgstr "{i}{b}(HINT){/b} Wesołego Halloween! {/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:266 #-#-# translate crowdin halloween_event_start_5c240a68:
 msgid "{b}{i}\"Happy Halloween, and welcome to \"Stranger Ventures\"!\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Szczęśliwego Halloween i witamy w \"Stranger Ventures\"!\"{/i}{/b}"
 
 # game/UpdateScriptHalloweenEvent.rpy:267 #-#-# translate crowdin halloween_event_start_bea662cf:
 msgid "{b}{i}\"If you would like to skip this event, you can do so now.\"{/i}{/b}"
@@ -38,7 +38,7 @@ msgstr "{b}{i}\"Zrobią one jednak różnicę w przyszłych rozdziałach naszego
 
 # game/UpdateScriptHalloweenEvent.rpy:280 #-#-# translate crowdin halloween_event_start_62c4ee5d:
 msgid "{b}{i}\"We hope you enjoy!\"{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}\"Mamy nadzieję, że ci się spodoba!\" {/i}{/b}"
 
 # game/UpdateScriptHalloweenEvent.rpy:299 #-#-# translate crowdin scary_wakeup_332593de:
 msgid "[_R_] Sidney!"
@@ -1774,19 +1774,19 @@ msgstr ""
 
 # game/UpdateScriptHalloweenEvent.rpy:1514 #-#-# translate crowdin shagtown_lab_e5884594:
 msgid "[_SM_] We've got to find a way out!"
-msgstr ""
+msgstr "[_SM_] Musimy znaleźć wyjście!"
 
 # game/UpdateScriptHalloweenEvent.rpy:1517 #-#-# translate crowdin shagtown_lab_a5c87e11:
 msgid "[_SM_] Martha! We can't stop running!"
-msgstr ""
+msgstr "[_SM_] Martha! Nie możemy przestać biec!"
 
 # game/UpdateScriptHalloweenEvent.rpy:1518 #-#-# translate crowdin shagtown_lab_1a58b5c5:
 msgid "[_SM_] That... Thing... is right behind us!"
-msgstr ""
+msgstr "[_SM_] To... coś... jest tuż za nami!"
 
 # game/UpdateScriptHalloweenEvent.rpy:1519 #-#-# translate crowdin shagtown_lab_81e91006:
 msgid "[_SF_] My lungs... are about... to explode!"
-msgstr ""
+msgstr "[_SF_] Moje płuca... zaraz... eksplodują!"
 
 # game/UpdateScriptHalloweenEvent.rpy:1520 #-#-# translate crowdin shagtown_lab_bd7f4e76:
 msgid "[_SM_] Can't we just... Hide for a minute?"
