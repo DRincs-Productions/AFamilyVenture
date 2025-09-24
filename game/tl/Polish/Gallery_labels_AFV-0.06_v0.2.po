@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-09-24 09:05\n"
+"PO-Revision-Date: 2025-09-24 11:03\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/Gallery_labels_AFV-0.06_v0.2.rpy:15 #-#-# translate crowdin label_gal_mom_drunk_e1aba2f6:
 msgid "[_RT_] {i}Hmmm.... no answer. I don't have a key, but I'm started to get a little worried about her.{/i}"
@@ -32106,7 +32106,7 @@ msgstr "[_M_] {i}(Krzyczy){/i}Matt, i wszyscy inni! Koniec imprezy, do domu!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16500 #-#-# translate crowdin label_gal_sidney_loyalty_path_2a4054dc:
 msgid "[_MG_] {i}(Muffled from behind the door){/i} We're on our way out the door Miss [mom_name]! Thanks for having us!"
-msgstr ""
+msgstr "[_MG_] {i}(stłumiony głos zza drzwi){/i} Już wychodzimy, pani [mom_name]! Dziękujemy za zaproszenie!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16501 #-#-# translate crowdin label_gal_sidney_loyalty_path_9040f0a8:
 msgid "[_M_] ...."
@@ -32534,75 +32534,75 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16838 #-#-# translate crowdin label_gal_scary_cum_saved_ff3c158a:
 msgid "[_R_] {i}That means it was just a dream{/i}"
-msgstr ""
+msgstr "[_R_] {i}To oznacza, że to był tylko sen{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16841 #-#-# translate crowdin label_gal_scary_cum_saved_2c9ebef5:
 msgid "[_R_] {i}And Sidney is safe in bed right next to...{/i}"
-msgstr ""
+msgstr "[_R_] {i}A Sidney jest bezpieczna w łóżku tuż obok...{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16844 #-#-# translate crowdin label_gal_scary_cum_saved_263a6df2:
 msgid "[_R_] No!"
-msgstr ""
+msgstr "[_R_] Nie!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16849 #-#-# translate crowdin label_gal_scary_cum_saved_e47031c5:
 msgid "[_R_] Fuck, no!!"
-msgstr ""
+msgstr "[_R_] Kurwa, nie!!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16857 #-#-# translate crowdin label_gal_scary_cum_saved_263a6df2_1:
 msgid "[_R_] No!"
-msgstr ""
+msgstr "[_R_] Nie!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16858 #-#-# translate crowdin label_gal_scary_cum_saved_872bfa52:
 msgid "[_S_] {i}(Sleepily){/i} [ryan], you were having a nightmare... Go back to sleep."
-msgstr ""
+msgstr "[_S_] {i}(sennie){/i} [ryan], miałeś koszmar... Wracaj spać."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16861 #-#-# translate crowdin label_gal_scary_cum_saved_2ca431f7:
 msgid "[_RT_] {i}Sidney!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Sidney!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16864 #-#-# translate crowdin label_gal_scary_cum_saved_4f3e9e23:
 msgid "[_RT_] {i}Oh, thank God!... It really was just a nightmare after all!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Dzięki Bogu!... To naprawdę był tylko koszmar!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16865 #-#-# translate crowdin label_gal_scary_cum_saved_05973042:
 msgid "[_RT_] {i}I guess I need to lay off the scary movies!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Chyba muszę dać sobie spokój ze strasznymi filmami!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16866 #-#-# translate crowdin label_gal_scary_cum_saved_9036761d:
 msgid "[_RT_] {i}Fuck... What was I even dreaming about?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Kurwa... O czym ja w ogóle śniłem?{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16867 #-#-# translate crowdin label_gal_scary_cum_saved_cbde7c34:
 msgid "[_RT_] {i}Oh, well... It seems all is right with the world.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}No cóż... Wygląda na to, że wszystko jest w porządku ze światem.{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16868 #-#-# translate crowdin label_gal_scary_cum_saved_7f0bb68b:
 msgid "[_RT_] {i}Well, almost, I guess.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}No, prawie, jak sądzę.{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16871 #-#-# translate crowdin label_gal_scary_cum_saved_562e60fe:
 msgid "[_RT_] {i}It's time to start my day.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Czas zacząć mój dzień.{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16874 #-#-# translate crowdin label_gal_scary_cum_saved_ad04d2c0:
 msgid "[_RT_] {i}Maybe I should call the gang and see if they want to play \"Monsters and Mountains\" sometime soon.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Może powinienem zadzwonić do ekipy i sprawdzić, czy nie chcą zagrać w \"Potwory i góry\" w najbliższym czasie.{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16893 #-#-# translate crowdin label_gal_sidney_monster_path_718ba640:
 msgid "[_RT_] {i}That's too bad they lost to the DemiGobbler, but it's lucky I stuck around to ensure the integrity of the game.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Szkoda, że przegrali z DemiGobblerem, ale to szczęście, że zostałem w pobliżu, aby zapewnić integralność gry.{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16894 #-#-# translate crowdin label_gal_sidney_monster_path_cd20784f:
 msgid "[_RT_] {i}If I hadn't, Lauren would have cheated for sure.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Gdybym tego nie zrobił, Lauren na pewno by oszukiwała.{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16895 #-#-# translate crowdin label_gal_sidney_monster_path_5101b9a9:
 msgid "[_RT_] {i}But I guess it's past time that I come check on Sidney.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ale chyba nadszedł już czas, żebym sprawdził, co u Sidney.{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16896 #-#-# translate crowdin label_gal_sidney_monster_path_4670e99f:
 msgid "[_RT_] {i}Speaking of...{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Mówiąc o...{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16897 #-#-# translate crowdin label_gal_sidney_monster_path_2163eb75:
 msgid "[_R_] Sidney?"
@@ -32614,19 +32614,19 @@ msgstr "[_R_] Sidney, gdzie poszłaś?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16901 #-#-# translate crowdin label_gal_sidney_monster_path_d455e0fc:
 msgid "[_RT_] {i}Huh... She must have left.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Huh... Musiała wyjść.{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16904 #-#-# translate crowdin label_gal_sidney_monster_path_377798f3:
 msgid "[_RT_] {i}At least I'm looking good! I wonder if the girls are attracted to my power as the \"Dungeon Master\"?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Przynajmniej dobrze wyglądam! Zastanawiam się, czy dziewczyny pociąga moja moc jako \"Mistrza Lochów\"?{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16905 #-#-# translate crowdin label_gal_sidney_monster_path_2e830a35:
 msgid "[_RT_] {i}Maybe I'll get lucky tonight.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Może dziś mi się poszczęści.{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16908 #-#-# translate crowdin label_gal_sidney_monster_path_ca1fde87:
 msgid "[_RT_] {i}Still, I wonder what that scream was?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nadal zastanawiam się, co to był za krzyk?{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16915 #-#-# translate crowdin label_gal_sidney_monster_path_5b981402:
 msgid "[_R_] Oh my God!... What the hell is going on?"
@@ -32698,11 +32698,11 @@ msgstr "[_MD_] {i}(stłumiony głos){/i} Łoł, [ryan]! Co to za pośpiech?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16947 #-#-# translate crowdin label_gal_sidney_monster_path_7e6163c7:
 msgid "[_MG_] Yeah, is Sidney okay?"
-msgstr ""
+msgstr "[_MG_] Czy z Sidney wszystko w porządku?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16948 #-#-# translate crowdin label_gal_sidney_monster_path_bd5ede33:
 msgid "[_R_] Sorry, I don't have time to explain!"
-msgstr ""
+msgstr "[_R_] Przepraszam, nie mam czasu na wyjaśnienia!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16949 #-#-# translate crowdin label_gal_sidney_monster_path_742f66d1:
 msgid "[_L_] Where are you going with that knife?"
@@ -32810,7 +32810,7 @@ msgstr "[_M_] {i}(Krzyczy){/i}Matt, i wszyscy inni! Koniec imprezy, do domu!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:16999 #-#-# translate crowdin label_gal_sidney_monster_path_2a4054dc:
 msgid "[_MG_] {i}(Muffled from behind the door){/i} We're on our way out the door Miss [mom_name]! Thanks for having us!"
-msgstr ""
+msgstr "[_MG_] {i}(stłumiony głos zza drzwi){/i} Już wychodzimy, pani [mom_name]! Dziękujemy za zaproszenie!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17000 #-#-# translate crowdin label_gal_sidney_monster_path_9040f0a8:
 msgid "[_M_] ...."
@@ -32870,15 +32870,15 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17026 #-#-# translate crowdin label_gal_sidney_monster_path_efafc304:
 msgid "[_R_] Sidney, There isn't any slime on the mirror!"
-msgstr ""
+msgstr "[_R_] Sidney, na lustrze nie ma żadnego szlamu!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17027 #-#-# translate crowdin label_gal_sidney_monster_path_97382a00:
 msgid "[_S_] No!... There has to be!"
-msgstr ""
+msgstr "[_S_] Nie!... Musi być!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17030 #-#-# translate crowdin label_gal_sidney_monster_path_9db76692:
 msgid "[_RT_] {i}Fuck!... This isn't working!... I can't get to her!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Kurwa!... To nie działa! Nie mogę się do niej dostać!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17040 #-#-# translate crowdin label_gal_sidney_monster_path_e56f555c:
 msgid "[_S_] [ryan], Help! It's got me!"
@@ -32898,11 +32898,11 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17046 #-#-# translate crowdin label_gal_sidney_monster_path_49df8e69:
 msgid "[_ST_] {i}I don't think [ryan] can hear or see me anymore!{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Myślę, że [ryan] już mnie nie słyszy ani nie widzi!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17047 #-#-# translate crowdin label_gal_sidney_monster_path_c3cbdd25:
 msgid "[_ST_] {i}He's got to find a way to save me!{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Musi znaleźć sposób, by mnie uratować!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17052 #-#-# translate crowdin label_gal_sidney_monster_path_ffc68175:
 msgid "[_ST_] {i}Oh, that's disgusting!{/i}"
@@ -32918,19 +32918,19 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17061 #-#-# translate crowdin label_gal_sidney_monster_path_45a1d83c:
 msgid "[_ST_] {i}Whoa... Whatever that was, It's making me feel weird!{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Whoa... Cokolwiek to było, sprawia, że czuję się dziwnie!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17062 #-#-# translate crowdin label_gal_sidney_monster_path_b45f73d8:
 msgid "[_ST_] {i}Oh, no! Not that! No! Was I pulled into a fucking Hentai movie?!{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Och, nie! Tylko nie to! Nie! Czy zostałam wciągnięta w pieprzony film Hentai?!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17068 #-#-# translate crowdin label_gal_sidney_monster_path_fd78b84f:
 msgid "[_S_] This can't be happening!"
-msgstr ""
+msgstr "[_S_] To nie może się dziać naprawdę!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17074 #-#-# translate crowdin label_gal_sidney_monster_path_86de225c:
 msgid "[_ST_] {i}No! I can't have monster penis in my pussy!{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Nie! Nie mogę mieć penisa potwora w mojej cipce!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17075 #-#-# translate crowdin label_gal_sidney_monster_path_ea5f9936:
 msgid "[_ST_] {i}This has to be a dream!{/i}"
@@ -33214,59 +33214,59 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17233 #-#-# translate crowdin label_gal_sidney_monster_path_ff3c158a:
 msgid "[_R_] {i}That means it was just a dream{/i}"
-msgstr ""
+msgstr "[_R_] {i}To oznacza, że to był tylko sen{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17236 #-#-# translate crowdin label_gal_sidney_monster_path_2c9ebef5:
 msgid "[_R_] {i}And Sidney is safe in bed right next to...{/i}"
-msgstr ""
+msgstr "[_R_] {i}A Sidney jest bezpieczna w łóżku tuż obok...{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17239 #-#-# translate crowdin label_gal_sidney_monster_path_263a6df2:
 msgid "[_R_] No!"
-msgstr ""
+msgstr "[_R_] Nie!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17244 #-#-# translate crowdin label_gal_sidney_monster_path_e47031c5:
 msgid "[_R_] Fuck, no!!"
-msgstr ""
+msgstr "[_R_] Kurwa, nie!!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17252 #-#-# translate crowdin label_gal_sidney_monster_path_263a6df2_1:
 msgid "[_R_] No!"
-msgstr ""
+msgstr "[_R_] Nie!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17253 #-#-# translate crowdin label_gal_sidney_monster_path_872bfa52:
 msgid "[_S_] {i}(Sleepily){/i} [ryan], you were having a nightmare... Go back to sleep."
-msgstr ""
+msgstr "[_S_] {i}(sennie){/i} [ryan], miałeś koszmar... Wracaj spać."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17256 #-#-# translate crowdin label_gal_sidney_monster_path_2ca431f7:
 msgid "[_RT_] {i}Sidney!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Sidney!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17259 #-#-# translate crowdin label_gal_sidney_monster_path_4f3e9e23:
 msgid "[_RT_] {i}Oh, thank God!... It really was just a nightmare after all!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Dzięki Bogu!... To naprawdę był tylko koszmar!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17260 #-#-# translate crowdin label_gal_sidney_monster_path_05973042:
 msgid "[_RT_] {i}I guess I need to lay off the scary movies!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Chyba muszę dać sobie spokój ze strasznymi filmami!{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17261 #-#-# translate crowdin label_gal_sidney_monster_path_9036761d:
 msgid "[_RT_] {i}Fuck... What was I even dreaming about?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Kurwa... O czym ja w ogóle śniłem?{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17262 #-#-# translate crowdin label_gal_sidney_monster_path_cbde7c34:
 msgid "[_RT_] {i}Oh, well... It seems all is right with the world.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}No cóż... Wygląda na to, że wszystko jest w porządku ze światem.{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17263 #-#-# translate crowdin label_gal_sidney_monster_path_7f0bb68b:
 msgid "[_RT_] {i}Well, almost, I guess.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}No, prawie, jak sądzę.{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17266 #-#-# translate crowdin label_gal_sidney_monster_path_562e60fe:
 msgid "[_RT_] {i}It's time to start my day.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Czas zacząć mój dzień.{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17269 #-#-# translate crowdin label_gal_sidney_monster_path_ad04d2c0:
 msgid "[_RT_] {i}Maybe I should call the gang and see if they want to play \"Monsters and Mountains\" sometime soon.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Może powinienem zadzwonić do ekipy i sprawdzić, czy nie chcą zagrać w \"Potwory i góry\" w najbliższym czasie.{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:17289 #-#-# translate crowdin label_breakfast_blowjob_01b85e1d:
 msgid "[_R_] zZzZz..."
@@ -59922,7 +59922,7 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:28341 #-#-# translate crowdin label_lauren_yard_263a6df2:
 msgid "[_R_] No!"
-msgstr ""
+msgstr "[_R_] Nie!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:28342 #-#-# translate crowdin label_lauren_yard_44c53e45:
 msgid "[_R_] Lots of brothers have pictures of them sharing a cute kiss with their sisters. I want something that leaves no doubt what kind of relationship we have."
@@ -61542,7 +61542,7 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:29022 #-#-# translate crowdin label_lauren_yard_263a6df2_1:
 msgid "[_R_] No!"
-msgstr ""
+msgstr "[_R_] Nie!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:29023 #-#-# translate crowdin label_lauren_yard_44c53e45_1:
 msgid "[_R_] Lots of brothers have pictures of them sharing a cute kiss with their sisters. I want something that leaves no doubt what kind of relationship we have."
@@ -72094,7 +72094,7 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:34096 #-#-# translate crowdin label_gal_pizza_date_matt_263a6df2:
 msgid "[_R_] No!"
-msgstr ""
+msgstr "[_R_] Nie!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:34097 #-#-# translate crowdin label_gal_pizza_date_matt_37743c89:
 msgid "[_R_] Let me go!"
@@ -74962,7 +74962,7 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:35337 #-#-# translate crowdin label_office_cum_continued_263a6df2:
 msgid "[_R_] No!"
-msgstr ""
+msgstr "[_R_] Nie!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:35338 #-#-# translate crowdin label_office_cum_continued_18577536:
 msgid "[_R_] I'll take care of it myself, thank you."
