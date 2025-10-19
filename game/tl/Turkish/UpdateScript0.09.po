@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-09-10 04:19\n"
+"PO-Revision-Date: 2025-10-19 22:50\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.09.rpy:564 #-#-# translate crowdin myroom_post_cami_fight_8a5367c3:
 msgid "[_R_] I'm not ready to sleep yet... I should go talk to Mom and Lauren before I come back to bed."
@@ -282,7 +282,7 @@ msgstr "[ _R_] Sadece ... Orada en büyük fahişe olmamaya çalış!"
 
 # game/UpdateScript0.09.rpy:703 #-#-# translate crowdin pay_or_dont_c93d9342:
 msgid "[_M_] [ryan]!"
-msgstr "[_M_] [ryan]!"
+msgstr "[_M_] [ryan]?.... Odamda ne yapıyorsun?"
 
 # game/UpdateScript0.09.rpy:704 #-#-# translate crowdin pay_or_dont_58ad9208:
 msgid "[_J_] Watch it!"
@@ -542,7 +542,7 @@ msgstr "[ _M_] [ Ryan], yine mi!?"
 
 # game/UpdateScript0.09.rpy:803 #-#-# translate crowdin pay_or_dont_c93d9342_1:
 msgid "[_M_] [ryan]!"
-msgstr "[_M_] [ryan]!"
+msgstr "[_M_] [ryan]?.... Odamda ne yapıyorsun?"
 
 # game/UpdateScript0.09.rpy:807 #-#-# translate crowdin pay_or_dont_4a786a67:
 msgid "[_M_] You are playing with fire!"
@@ -2222,7 +2222,7 @@ msgstr "Ben mi? Matt 'i bu işe götürecek olan sensin."
 
 # game/UpdateScript0.09.rpy:1623 #-#-# translate crowdin yard_show_c93d9342:
 msgid "[_M_] [ryan]!"
-msgstr "[_M_] [ryan]!"
+msgstr "[_M_] [ryan]?.... Odamda ne yapıyorsun?"
 
 # game/UpdateScript0.09.rpy:1624 #-#-# translate crowdin yard_show_a27f7dcf:
 msgid "[_S_] Huh?"
@@ -3418,7 +3418,7 @@ msgstr "Yani, Lauren 'in sürtük gibi davranması ikiniz için de sorun değil 
 
 # game/UpdateScript0.09.rpy:2208 #-#-# translate crowdin NTRLounge2repeat_c93d9342:
 msgid "[_M_] [ryan]!"
-msgstr "[_M_] [ryan]!"
+msgstr "[_M_] [ryan]?.... Odamda ne yapıyorsun?"
 
 # game/UpdateScript0.09.rpy:2209 #-#-# translate crowdin NTRLounge2repeat_dcdec28a:
 msgid "{i}{b}\"Mom's Anger +1\"{/b}{/i}"
@@ -4674,7 +4674,7 @@ msgstr "Ona bir bak! Ona kucak dansı yapıyor, sanki sürtük bir striptizciydi
 
 # game/UpdateScript0.09.rpy:2761 #-#-# translate crowdin NTRLounge2repeat_c93d9342_1:
 msgid "[_M_] [ryan]!"
-msgstr "[_M_] [ryan]!"
+msgstr "[_M_] [ryan]?.... Odamda ne yapıyorsun?"
 
 # game/UpdateScript0.09.rpy:2762 #-#-# translate crowdin NTRLounge2repeat_1dc1e51a:
 msgid "{i}{b}\"Mom's Anger +3\"{/b}{/i}"
@@ -6334,7 +6334,7 @@ msgstr "Göğüs uçların mükemmel. Onlar ..."
 
 # game/UpdateScript0.09.rpy:3533 #-#-# translate crowdin breakfast_blowjob_c93d9342:
 msgid "[_M_] [ryan]!"
-msgstr "[_M_] [ryan]!"
+msgstr "[_M_] [ryan]?.... Odamda ne yapıyorsun?"
 
 # game/UpdateScript0.09.rpy:3534 #-#-# translate crowdin breakfast_blowjob_bba6be91:
 msgid "[_M_] {i}(sigh){/i}"
@@ -6558,7 +6558,7 @@ msgstr ""
 
 # game/UpdateScript0.09.rpy:3621 #-#-# translate crowdin breakfast_blowjob_c93d9342_1:
 msgid "[_M_] [ryan]!"
-msgstr "[_M_] [ryan]!"
+msgstr "[_M_] [ryan]?.... Odamda ne yapıyorsun?"
 
 # game/UpdateScript0.09.rpy:3622 #-#-# translate crowdin breakfast_blowjob_929da93e:
 msgid "[_M_] Don't just sit there, say something."
@@ -8163,7 +8163,7 @@ msgstr "[ _R_] Benim. İçeri gelebilir miyim?"
 
 # game/UpdateScript0.09.rpy:4748 #-#-# translate crowdin cami_events_intro_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "[_RT_] {i}Artık ona aynı şekilde bakamayacağım.{/i}"
 
 # game/UpdateScript0.09.rpy:4749 #-#-# translate crowdin cami_events_intro_ab8d46a9:
 msgid "[_R_] Mandy?"
@@ -8835,7 +8835,7 @@ msgstr "-Evet, öyle mi?"
 
 # game/UpdateScript0.09.rpy:4968 #-#-# translate crowdin cami_events_intro_a20cefa7_1:
 msgid "..."
-msgstr ""
+msgstr "[_RT_] {i}Artık ona aynı şekilde bakamayacağım.{/i}"
 
 # game/UpdateScript0.09.rpy:4971 #-#-# translate crowdin cami_events_intro_ba397920:
 msgid "[_R_] I mean... technically..."
@@ -9051,7 +9051,7 @@ msgstr "[ _C_] {i}(Fısıltı) { /i } Merak etme, bebeğim ... Momma ikimizi de 
 
 # game/UpdateScript0.09.rpy:5089 #-#-# translate crowdin cami_events_intro_a20cefa7_2:
 msgid "..."
-msgstr ""
+msgstr "[_RT_] {i}Artık ona aynı şekilde bakamayacağım.{/i}"
 
 # game/UpdateScript0.09.rpy:5092 #-#-# translate crowdin cami_events_intro_70096408:
 msgid "[_R_] Wow, that was close! Well, should we pick up where we left off?"
@@ -11147,7 +11147,7 @@ msgstr "[ _MDT_] {i}Ama çok sıcak olur! { /i }"
 
 # game/UpdateScript0.09.rpy:5894 #-#-# translate crowdin friends_mast_together_3ea8c4b0:
 msgid "{i}{b}\"Mandy's Libido +3\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mandy'nin Libido +3\"{/b}{/i}"
 
 # game/UpdateScript0.09.rpy:5896 #-#-# translate crowdin friends_mast_together_6584fb4e:
 msgid "[_MD_] You know. [ryan]'s only my cousin, so..."
@@ -11259,7 +11259,7 @@ msgstr "[ _MDT_] {i}Benim için de yapıyor!"
 
 # game/UpdateScript0.09.rpy:5939 #-#-# translate crowdin friends_mast_together_3ea8c4b0_1:
 msgid "{i}{b}\"Mandy's Libido +3\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Mandy'nin Libido +3\"{/b}{/i}"
 
 # game/UpdateScript0.09.rpy:5943 #-#-# translate crowdin friends_mast_together_069a1b07:
 msgid "[_L_] Shut up! It does not."
@@ -11571,7 +11571,7 @@ msgstr "-Amcam sana sahte kimlik verdi mi?"
 
 # game/UpdateScript0.09.rpy:6115 #-#-# translate crowdin no_pay_club_c93d9342:
 msgid "[_M_] [ryan]!"
-msgstr "[_M_] [ryan]!"
+msgstr "[_M_] [ryan]?.... Odamda ne yapıyorsun?"
 
 # game/UpdateScript0.09.rpy:6118 #-#-# translate crowdin no_pay_club_20f19ebf:
 msgid "[_M_] You're not old enough to be drinking!"
