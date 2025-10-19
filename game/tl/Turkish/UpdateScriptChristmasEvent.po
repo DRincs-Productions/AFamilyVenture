@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-10-19 21:54\n"
+"PO-Revision-Date: 2025-10-19 22:49\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScriptChristmasEvent.rpy:247 #-#-# translate crowdin xmas_dream_387f76a6:
 msgid "Welcome to our Christmas event! WARNING!! This event has elements of NTR, that are completely avoidable! Choices that lead to NTR content are clearly marked!"
@@ -34,7 +34,7 @@ msgstr "{i}Charles Dickens ve zamansız klasiğini, \"A Christmas Carol\" a hür
 
 # game/UpdateScriptChristmasEvent.rpy:277 #-#-# translate crowdin xmas_dream_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "[_RT_] {i}Artık ona aynı şekilde bakamayacağım.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:278 #-#-# translate crowdin xmas_dream_41c1aef9:
 msgid "[_RT_] {i}Thank God the Christmas break is coming! I'm so tired of school.{/i}"
@@ -58,7 +58,7 @@ msgstr "[ _RT_] {i}zzzzzzz .... { /i }"
 
 # game/UpdateScriptChristmasEvent.rpy:283 #-#-# translate crowdin xmas_dream_a20cefa7_1:
 msgid "..."
-msgstr ""
+msgstr "[_RT_] {i}Artık ona aynı şekilde bakamayacağım.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:284 #-#-# translate crowdin xmas_dream_03f26b44:
 msgid "[_X_] [ryan]..."
@@ -458,7 +458,7 @@ msgstr "[ _RT_] {i}zzzzzzz .... { /i }"
 
 # game/UpdateScriptChristmasEvent.rpy:443 #-#-# translate crowdin xmas_present_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "[_RT_] {i}Artık ona aynı şekilde bakamayacağım.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:444 #-#-# translate crowdin xmas_present_03f26b44:
 msgid "[_X_] [ryan]..."
@@ -1298,11 +1298,11 @@ msgstr "[_GF_] sanırım annen aşağıda kurabiyeler hakkında bir şeyler söy
 
 # game/UpdateScriptChristmasEvent.rpy:781 #-#-# translate crowdin xmas_goodbye_09930380:
 msgid "[_GF_] Sorry that we weren't able to stay longer."
-msgstr ""
+msgstr "[_GF_] Üzgünüm, daha uzun kalamadık."
 
 # game/UpdateScriptChristmasEvent.rpy:782 #-#-# translate crowdin xmas_goodbye_f933813d:
 msgid "[_GF_] Sometimes at these things you can't wait to get away, and sometimes you wish you could stay forever."
-msgstr ""
+msgstr "[_GF_] Bazen bu tür etkinliklerde gitmek için sabırsızlanırsınız, bazen de sonsuza dek kalmak istersiniz."
 
 # game/UpdateScriptChristmasEvent.rpy:783 #-#-# translate crowdin xmas_goodbye_6f85596e:
 msgid "[_GF_] You definitely left on a high note though."
@@ -1314,55 +1314,55 @@ msgstr "[_GF_] Ee, bir şey öğrendiniz mi?"
 
 # game/UpdateScriptChristmasEvent.rpy:785 #-#-# translate crowdin xmas_goodbye_6b7b3eee:
 msgid "[_R_] I learned that life is like a Ren'Py game.... It's full of choices, and I just need to make the ones that make me the happiest."
-msgstr ""
+msgstr "[_R_] Hayatın bir Ren'Py oyununa benzediğini öğrendim.... Seçeneklerle dolu, ve sadece beni en mutlu edenleri seçmem gerekiyor."
 
 # game/UpdateScriptChristmasEvent.rpy:786 #-#-# translate crowdin xmas_goodbye_fbf455fa:
 msgid "[_R_] The best choice, usually leads to the outcome that makes the other NPC's happy too."
-msgstr ""
+msgstr "[_R_] En iyi seçim, genellikle diğer NPC'leri de mutlu eden bir sonuca götürür."
 
 # game/UpdateScriptChristmasEvent.rpy:787 #-#-# translate crowdin xmas_goodbye_b6210002:
 msgid "[_R_] No one can tell me which choices are right for me, because each player can make whatever choices makes them the happiest."
-msgstr ""
+msgstr "[_R_] Hiç kimse bana hangi seçimlerin benim için doğru olduğunu söyleyemez, çünkü her oyuncu onları en mutlu eden seçimleri yapabilir."
 
 # game/UpdateScriptChristmasEvent.rpy:788 #-#-# translate crowdin xmas_goodbye_618ab44e:
 msgid "[_R_] And if they want to judge me, like some troll in some incest game forum."
-msgstr ""
+msgstr "[_R_] Ve eğer beni yargılamak isterlerse, bazı ensest oyun forumlarındaki bazı troller gibi."
 
 # game/UpdateScriptChristmasEvent.rpy:789 #-#-# translate crowdin xmas_goodbye_e2467697:
 msgid "[_R_] I just need to ignore them and keep living life the way I want."
-msgstr ""
+msgstr "[_R_] Onları görmezden gelip, istediğim gibi yaşamıma devam etmem gerekiyor."
 
 # game/UpdateScriptChristmasEvent.rpy:790 #-#-# translate crowdin xmas_goodbye_5080414f:
 msgid "[_GF_] That's a great lesson, and anyone who tries to impose their version of morals on you can go fuck themselves."
-msgstr ""
+msgstr "[_GF_] Bu harika bir ders, ve sana kendi ahlak görüşünü dayatmaya çalışan herkes kendisini siksin."
 
 # game/UpdateScriptChristmasEvent.rpy:791 #-#-# translate crowdin xmas_goodbye_cd2a812a:
 msgid "[_GF_] Haha.... just like Futa God is going to be fucking my sisters as soon as Christmas is over."
-msgstr ""
+msgstr "[_GF_] Haha.... tam da Noel bittiğinde Futa Tanrı'nın kız kardeşlerimle sevişeceği gibi."
 
 # game/UpdateScriptChristmasEvent.rpy:792 #-#-# translate crowdin xmas_goodbye_412bf53b:
 msgid "[_GF_] I hope your upcoming Christmases are all better than the last."
-msgstr ""
+msgstr "[_GF_] Umarım yaklaşan Noel'in her biri sonuncusundan daha iyi olur."
 
 # game/UpdateScriptChristmasEvent.rpy:793 #-#-# translate crowdin xmas_goodbye_36b7b10a:
 msgid "[_GF_] It's been fun!"
-msgstr ""
+msgstr "[_GF_] Eğlenceli oldu!"
 
 # game/UpdateScriptChristmasEvent.rpy:794 #-#-# translate crowdin xmas_goodbye_cd4e359c:
 msgid "[_GF_] Keep it up, and maybe Futa God will send us back next year!"
-msgstr ""
+msgstr "[_GF_] Böyle devam et, belki Futa Tanrı bizi gelecek yıl geri gönderecek!"
 
 # game/UpdateScriptChristmasEvent.rpy:795 #-#-# translate crowdin xmas_goodbye_0ddb3810:
 msgid "[_GF_] Merry Christmas!"
-msgstr ""
+msgstr "[_GF_] Mutlu Noeller!"
 
 # game/UpdateScriptChristmasEvent.rpy:799 #-#-# translate crowdin xmas_goodbye_a244e88f:
 msgid "[_RT_] {i}Holy shit!.... Dream or not, I don't want to ever forget that experience.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Aman Tanrım!.... Rüya veya değil, o deneyimi asla unutmamak istiyorum.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:800 #-#-# translate crowdin xmas_goodbye_97bb1701:
 msgid "[_RT_] {i}Oh Futa God.... I'm so tired now.... but will I even remember this dream when I wake up?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Oh Futa Tanrı.... şu anda çok yorgunum.... ama uyanınca bu rüyayı hatırlayacak mıyım?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:827 #-#-# translate crowdin tutorial_c287fc63:
 msgid "[_R_] Testing.... testing.... ok.... It looks like it's recording."
@@ -1910,83 +1910,83 @@ msgstr "."
 
 # game/UpdateScriptChristmasEvent.rpy:1095 #-#-# translate crowdin sidney_prego_too_738bf61b:
 msgid "[_S_] I know it did me."
-msgstr ""
+msgstr "[_S_] Biliyor musun, bu benim için oldu."
 
 # game/UpdateScriptChristmasEvent.rpy:1096 #-#-# translate crowdin sidney_prego_too_cef13795:
 msgid "[_RT_] {i}Shit.... I've ruined her life. And now she's apologizing to me, for something I made her do.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Aman Tanrım.... Onun hayatını mahvettim. Ve şimdi bana, yaptırdığım bir şey için özür diliyor.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1097 #-#-# translate crowdin sidney_prego_too_e3e1083b:
 msgid "[_RT_] {i}Fuck! I'm ready to go back right now, and try to fix some things.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Kahretsin! Şu an geri dönmeye hazırım ve bazı şeyleri düzeltmeye çalışacağım.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1098 #-#-# translate crowdin sidney_prego_too_fd2c6cb5:
 msgid "[_GF_] Well, you know how this works. We've got to wait in the future until our time is up. While you're waiting, go look around and maybe you can find something that will cheer you up."
-msgstr ""
+msgstr "[_GF_] Şimdi bunun nasıl işlediğini biliyorsun. Gelecekte zamanımız bitene kadar beklememiz gerekiyor. Beklerken etrafa bir bak ve belki seni mutlu edecek bir şey bulabilirsin."
 
 # game/UpdateScriptChristmasEvent.rpy:1099 #-#-# translate crowdin sidney_prego_too_9d8309db:
 msgid "[_S_] Oh look, Here comes Mom and Lauren."
-msgstr ""
+msgstr "[_S_] Ah bak, işte Anne ve Lauren geliyor."
 
 # game/UpdateScriptChristmasEvent.rpy:1100 #-#-# translate crowdin sidney_prego_too_79b2c2bc:
 msgid "[_S_] I'm just going to go sit down and have a little break. My back is killing me."
-msgstr ""
+msgstr "[_S_] Sadece oturup biraz dinleneceğim. Sırtım çok ağrıyor."
 
 # game/UpdateScriptChristmasEvent.rpy:1104 #-#-# translate crowdin sidney_prego_too_38dd5f9e:
 msgid "[_S_] Hahah.... nice try, [ryan]!"
-msgstr ""
+msgstr "[_S_] Hahah.... güzel deneme, [ryan]!"
 
 # game/UpdateScriptChristmasEvent.rpy:1105 #-#-# translate crowdin sidney_prego_too_87eb9971:
 msgid "[_S_] I know you're only bringing that up because you like to gloat that you were able to knock up both me and Lauren."
-msgstr ""
+msgstr "[_S_] Bunun sebebi sadece hem beni hem de Lauren'i hamile bırakmayı başardığın için böbürlenmek istediğindir."
 
 # game/UpdateScriptChristmasEvent.rpy:1106 #-#-# translate crowdin sidney_prego_too_66d20398:
 msgid "[_GF_] Ahhh! Way to go! Two out of three's not bad at all!"
-msgstr ""
+msgstr "[_GF_] Ahhh! Aferin! Üçte iki gayet iyi!"
 
 # game/UpdateScriptChristmasEvent.rpy:1107 #-#-# translate crowdin sidney_prego_too_b29e8e88:
 msgid "[_S_] And yes, we all think you're amazing, and yes we're super grateful for all of the shit you've done for us."
-msgstr ""
+msgstr "[_S_] Evet, hepimiz senin harika olduğunu düşünüyoruz ve bize yaptıkların için çok minnettarız."
 
 # game/UpdateScriptChristmasEvent.rpy:1109 #-#-# translate crowdin sidney_prego_too_5c6e6e1c:
 msgid "[_S_] I hope you don't keep bringing it up because you don't feel appreciated!"
-msgstr ""
+msgstr "[_S_] Umarım bunu devamlı gündeme getirmiyorsundur, çünkü kendini takdir edilmiyor gibi hissettiğin için!"
 
 # game/UpdateScriptChristmasEvent.rpy:1110 #-#-# translate crowdin sidney_prego_too_0572e331:
 msgid "[_S_] Because what you did to get us out from under the thumb of those Mafia goons!.... Well, it was so heroic."
-msgstr ""
+msgstr "[_S_] Bizi o Mafya çetelerinin elinden kurtarmak için yaptığın şey.... Gerçekten çok kahramanlık!"
 
 # game/UpdateScriptChristmasEvent.rpy:1111 #-#-# translate crowdin sidney_prego_too_e20f3407:
 msgid "[_S_] Not many people are able to shrug off the Mafia like you did, without having to go into witness protection."
-msgstr ""
+msgstr "[_S_] Çok az insan, senin gibi Mafya'yı başından savurabilirdi, koruma programına almak zorunda kalmadan."
 
 # game/UpdateScriptChristmasEvent.rpy:1112 #-#-# translate crowdin sidney_prego_too_69c51d27:
 msgid "[_S_] And now, you've gained both their respect and their apathy."
-msgstr ""
+msgstr "[_S_] Ve şimdi, hem onların saygısını hem de kayıtsızlığını kazandın."
 
 # game/UpdateScriptChristmasEvent.rpy:1113 #-#-# translate crowdin sidney_prego_too_21335f68:
 msgid "[_S_] You really should write a book about it someday!"
-msgstr ""
+msgstr "[_S_] Gerçekten bir gün bunun hakkında bir kitap yazmalısın!"
 
 # game/UpdateScriptChristmasEvent.rpy:1114 #-#-# translate crowdin sidney_prego_too_325116af:
 msgid "[_R_] Really? Tell me!.... What did I do!?..."
-msgstr ""
+msgstr "[_R_] Gerçekten mi? Söyle!.... Ne yaptım!?..."
 
 # game/UpdateScriptChristmasEvent.rpy:1116 #-#-# translate crowdin sidney_prego_too_6546b8b8:
 msgid "[_S_] Ohhhhh.... of course you know!.... And there's no need for false modesty."
-msgstr ""
+msgstr "[_S_] Ohhhhh.... tabii ki biliyorsun!.... Ve yanlış alçakgönüllülüğe gerek yok."
 
 # game/UpdateScriptChristmasEvent.rpy:1117 #-#-# translate crowdin sidney_prego_too_a1e26de1:
 msgid "[_S_] Needless to say. Lauren and I, are both very proud to be carrying your babies!"
-msgstr ""
+msgstr "[_S_] İhtiyacını söylemek gerek yok. Lauren ve ben, senin bebeklerini taşımaktan dolayı çok gururluyuz!"
 
 # game/UpdateScriptChristmasEvent.rpy:1118 #-#-# translate crowdin sidney_prego_too_267cf485:
 msgid "[_S_] We don't give a fuck about what other people think."
-msgstr ""
+msgstr "[_S_] Başka insanların ne düşündüğünü umursamıyoruz."
 
 # game/UpdateScriptChristmasEvent.rpy:1119 #-#-# translate crowdin sidney_prego_too_b8d2ebed:
 msgid "[_S_] Though we still will probably lie about who their father is."
-msgstr ""
+msgstr "[_S_] Yine de kimlerin babası olduğu konusunda yalan söyleyeceğiz."
 
 # game/UpdateScriptChristmasEvent.rpy:1120 #-#-# translate crowdin sidney_prego_too_445dd637:
 msgid "[_GF_] Yeah, It will be confusing enough to try to explain to them that they are both cousins and siblings."
@@ -1994,63 +1994,63 @@ msgstr "[_GF_] Evet, onlara hem kuzen hem de kardeş olduklarını açıklamaya 
 
 # game/UpdateScriptChristmasEvent.rpy:1121 #-#-# translate crowdin sidney_prego_too_6024fd79:
 msgid "[_S_] Oh look, here comes Mom and Lauren. I'm just going to go sit on the couch and take a little break. My back is killing me."
-msgstr ""
+msgstr "[_S_] Ah bak, işte Anne ve Lauren geliyor. Sadece kanepeye oturup biraz dinleneceğim. Sırtım çok ağrıyor."
 
 # game/UpdateScriptChristmasEvent.rpy:1125 #-#-# translate crowdin sidney_prego_too_38dd5f9e_1:
 msgid "[_S_] Hahah.... nice try, [ryan]!"
-msgstr ""
+msgstr "[_S_] Hahah.... güzel deneme, [ryan]!"
 
 # game/UpdateScriptChristmasEvent.rpy:1126 #-#-# translate crowdin sidney_prego_too_c339a28d:
 msgid "[_S_] I know you're only bringing that up because you like to gloat that you were able to knock up both me and Mom."
-msgstr ""
+msgstr "[_S_] Bunun sebebi sadece hem beni hem de Anne'yi hamile bırakmayı başardığın için böbürlenmek istediğindir."
 
 # game/UpdateScriptChristmasEvent.rpy:1127 #-#-# translate crowdin sidney_prego_too_66d20398_1:
 msgid "[_GF_] Ahhh! Way to go! Two out of three's not bad at all!"
-msgstr ""
+msgstr "[_GF_] Ahhh! Aferin! Üçte iki gayet iyi!"
 
 # game/UpdateScriptChristmasEvent.rpy:1128 #-#-# translate crowdin sidney_prego_too_b29e8e88_1:
 msgid "[_S_] And yes, we all think you're amazing, and yes we're super grateful for all of the shit you've done for us."
-msgstr ""
+msgstr "[_S_] Evet, hepimiz senin harika olduğunu düşünüyoruz ve bize yaptıkların için çok minnettarız."
 
 # game/UpdateScriptChristmasEvent.rpy:1130 #-#-# translate crowdin sidney_prego_too_5c6e6e1c_1:
 msgid "[_S_] I hope you don't keep bringing it up because you don't feel appreciated!"
-msgstr ""
+msgstr "[_S_] Umarım bunu devamlı gündeme getirmiyorsundur, çünkü kendini takdir edilmiyor gibi hissettiğin için!"
 
 # game/UpdateScriptChristmasEvent.rpy:1131 #-#-# translate crowdin sidney_prego_too_0572e331_1:
 msgid "[_S_] Because what you did to get us out from under the thumb of those Mafia goons!.... Well, it was so heroic."
-msgstr ""
+msgstr "[_S_] Bizi o Mafya çetelerinin elinden kurtarmak için yaptığın şey.... Gerçekten çok kahramanlık!"
 
 # game/UpdateScriptChristmasEvent.rpy:1132 #-#-# translate crowdin sidney_prego_too_e20f3407_1:
 msgid "[_S_] Not many people are able to shrug off the Mafia like you did, without having to go into witness protection."
-msgstr ""
+msgstr "[_S_] Çok az insan, senin gibi Mafya'yı başından savurabilirdi, koruma programına almak zorunda kalmadan."
 
 # game/UpdateScriptChristmasEvent.rpy:1133 #-#-# translate crowdin sidney_prego_too_69c51d27_1:
 msgid "[_S_] And now, you've gained both their respect and their apathy."
-msgstr ""
+msgstr "[_S_] Ve şimdi, hem onların saygısını hem de kayıtsızlığını kazandın."
 
 # game/UpdateScriptChristmasEvent.rpy:1134 #-#-# translate crowdin sidney_prego_too_21335f68_1:
 msgid "[_S_] You really should write a book about it someday!"
-msgstr ""
+msgstr "[_S_] Gerçekten bir gün bunun hakkında bir kitap yazmalısın!"
 
 # game/UpdateScriptChristmasEvent.rpy:1135 #-#-# translate crowdin sidney_prego_too_325116af_1:
 msgid "[_R_] Really? Tell me!.... What did I do!?..."
-msgstr ""
+msgstr "[_R_] Gerçekten mi? Söyle!.... Ne yaptım!?..."
 
 # game/UpdateScriptChristmasEvent.rpy:1137 #-#-# translate crowdin sidney_prego_too_6546b8b8_1:
 msgid "[_S_] Ohhhhh.... of course you know!.... And there's no need for false modesty."
-msgstr ""
+msgstr "[_S_] Ohhhhh.... tabii ki biliyorsun!.... Ve yanlış alçakgönüllülüğe gerek yok."
 
 # game/UpdateScriptChristmasEvent.rpy:1138 #-#-# translate crowdin sidney_prego_too_f7484d4f:
 msgid "[_S_] Needless to say. Mom and I, are both very proud to be carrying your babies!"
-msgstr ""
+msgstr "[_S_] İhtiyacını söylemek gerek yok. Anne ve ben, senin bebeklerini taşımaktan çok gururluyuz!"
 
 # game/UpdateScriptChristmasEvent.rpy:1139 #-#-# translate crowdin sidney_prego_too_267cf485_1:
 msgid "[_S_] We don't give a fuck about what other people think."
-msgstr ""
+msgstr "[_S_] Başka insanların ne düşündüğünü umursamıyoruz."
 
 # game/UpdateScriptChristmasEvent.rpy:1140 #-#-# translate crowdin sidney_prego_too_b8d2ebed_1:
 msgid "[_S_] Though we still will probably lie about who their father is."
-msgstr ""
+msgstr "[_S_] Yine de kimlerin babası olduğu konusunda yalan söyleyeceğiz."
 
 # game/UpdateScriptChristmasEvent.rpy:1141 #-#-# translate crowdin sidney_prego_too_0ad48d46:
 msgid "[_GF_] Yeah, It will be confusing enough to try to explain to them that they are simultaneously aunt or uncle, niece or nephew, and siblings."
@@ -2058,67 +2058,67 @@ msgstr "[_GF_] Evet, onların aynı anda teyzesi, yeğeni, yeğeni ve kardeşler
 
 # game/UpdateScriptChristmasEvent.rpy:1142 #-#-# translate crowdin sidney_prego_too_6024fd79_1:
 msgid "[_S_] Oh look, here comes Mom and Lauren. I'm just going to go sit on the couch and take a little break. My back is killing me."
-msgstr ""
+msgstr "[_S_] Ah bak, işte Anne ve Lauren geliyor. Sadece kanepeye oturup biraz dinleneceğim. Sırtım çok ağrıyor."
 
 # game/UpdateScriptChristmasEvent.rpy:1146 #-#-# translate crowdin sidney_prego_too_38dd5f9e_2:
 msgid "[_S_] Hahah.... nice try, [ryan]!"
-msgstr ""
+msgstr "[_S_] Hahah.... güzel deneme, [ryan]!"
 
 # game/UpdateScriptChristmasEvent.rpy:1147 #-#-# translate crowdin sidney_prego_too_7561ef78:
 msgid "[_S_] I know you're only bringing that up because you like to gloat that you were able to knock up all three of us."
-msgstr ""
+msgstr "[_S_] Bunun sebebi sadece üçümüzü birden hamile bırakmayı başardığın için böbürlenmek istediğindir."
 
 # game/UpdateScriptChristmasEvent.rpy:1148 #-#-# translate crowdin sidney_prego_too_b76b9213:
 msgid "[_S_] Yes, you have amazing swimmers!"
-msgstr ""
+msgstr "[_S_] Evet, senin harika atletler var!"
 
 # game/UpdateScriptChristmasEvent.rpy:1149 #-#-# translate crowdin sidney_prego_too_90d97660:
 msgid "[_GF_] All three!!!.... You sir, are a fucking legend!"
-msgstr ""
+msgstr "[_GF_] Üçü de!!!.... Sen, efendim, gerçek bir efsanesin!"
 
 # game/UpdateScriptChristmasEvent.rpy:1150 #-#-# translate crowdin sidney_prego_too_b29e8e88_2:
 msgid "[_S_] And yes, we all think you're amazing, and yes we're super grateful for all of the shit you've done for us."
-msgstr ""
+msgstr "[_S_] Evet, hepimiz senin harika olduğunu düşünüyoruz ve bize yaptıkların için çok minnettarız."
 
 # game/UpdateScriptChristmasEvent.rpy:1152 #-#-# translate crowdin sidney_prego_too_5c6e6e1c_2:
 msgid "[_S_] I hope you don't keep bringing it up because you don't feel appreciated!"
-msgstr ""
+msgstr "[_S_] Umarım bunu devamlı gündeme getirmiyorsundur, çünkü kendini takdir edilmiyor gibi hissettiğin için!"
 
 # game/UpdateScriptChristmasEvent.rpy:1153 #-#-# translate crowdin sidney_prego_too_0572e331_2:
 msgid "[_S_] Because what you did to get us out from under the thumb of those Mafia goons!.... Well, it was so heroic."
-msgstr ""
+msgstr "[_S_] Bizi o Mafya çetelerinin elinden kurtarmak için yaptığın şey.... Gerçekten çok kahramanlık!"
 
 # game/UpdateScriptChristmasEvent.rpy:1154 #-#-# translate crowdin sidney_prego_too_e20f3407_2:
 msgid "[_S_] Not many people are able to shrug off the Mafia like you did, without having to go into witness protection."
-msgstr ""
+msgstr "[_S_] Çok az insan, senin gibi Mafya'yı başından savurabilirdi, koruma programına almak zorunda kalmadan."
 
 # game/UpdateScriptChristmasEvent.rpy:1155 #-#-# translate crowdin sidney_prego_too_69c51d27_2:
 msgid "[_S_] And now, you've gained both their respect and their apathy."
-msgstr ""
+msgstr "[_S_] Ve şimdi, hem onların saygısını hem de kayıtsızlığını kazandın."
 
 # game/UpdateScriptChristmasEvent.rpy:1156 #-#-# translate crowdin sidney_prego_too_21335f68_2:
 msgid "[_S_] You really should write a book about it someday!"
-msgstr ""
+msgstr "[_S_] Gerçekten bir gün bunun hakkında bir kitap yazmalısın!"
 
 # game/UpdateScriptChristmasEvent.rpy:1157 #-#-# translate crowdin sidney_prego_too_325116af_2:
 msgid "[_R_] Really? Tell me!.... What did I do!?..."
-msgstr ""
+msgstr "[_R_] Gerçekten mi? Söyle!.... Ne yaptım!?..."
 
 # game/UpdateScriptChristmasEvent.rpy:1159 #-#-# translate crowdin sidney_prego_too_6546b8b8_2:
 msgid "[_S_] Ohhhhh.... of course you know!.... And there's no need for false modesty."
-msgstr ""
+msgstr "[_S_] Ohhhhh.... tabii ki biliyorsun!.... Ve yanlış alçakgönüllülüğe gerek yok."
 
 # game/UpdateScriptChristmasEvent.rpy:1160 #-#-# translate crowdin sidney_prego_too_e33d9bf0:
 msgid "[_S_] Needless to say. All three of us are very proud to be carrying your babies!"
-msgstr ""
+msgstr "[_S_] İhtiyacını söylemek gerek yok. Hepimiz, senin bebeklerini taşımaktan çok gururluyuz!"
 
 # game/UpdateScriptChristmasEvent.rpy:1161 #-#-# translate crowdin sidney_prego_too_267cf485_2:
 msgid "[_S_] We don't give a fuck about what other people think."
-msgstr ""
+msgstr "[_S_] Başka insanların ne düşündüğünü umursamıyoruz."
 
 # game/UpdateScriptChristmasEvent.rpy:1162 #-#-# translate crowdin sidney_prego_too_b8d2ebed_2:
 msgid "[_S_] Though we still will probably lie about who their father is."
-msgstr ""
+msgstr "[_S_] Yine de kimlerin babası olduğu konusunda yalan söyleyeceğiz."
 
 # game/UpdateScriptChristmasEvent.rpy:1163 #-#-# translate crowdin sidney_prego_too_9fe34f58:
 msgid "[_GF_] Yeah, It will be confusing enough to try to explain to them that they are simultaneously aunt or uncle, nieces or nephews, cousins, and siblings.."
@@ -2126,87 +2126,87 @@ msgstr "[_GF_] Evet, onların aynı anda teyzesi, yeğeni, yeğeni ve kardeşler
 
 # game/UpdateScriptChristmasEvent.rpy:1164 #-#-# translate crowdin sidney_prego_too_6024fd79_2:
 msgid "[_S_] Oh look, here comes Mom and Lauren. I'm just going to go sit on the couch and take a little break. My back is killing me."
-msgstr ""
+msgstr "[_S_] Ah bak, işte Anne ve Lauren geliyor. Sadece kanepeye oturup biraz dinleneceğim. Sırtım çok ağrıyor."
 
 # game/UpdateScriptChristmasEvent.rpy:1169 #-#-# translate crowdin sidney_prego_too_4e1e603e:
 msgid "[_GF_] Looks like the ladies are all worn out."
-msgstr ""
+msgstr "[_GF_] Görünüşe göre kadınlar hepsi yorgun."
 
 # game/UpdateScriptChristmasEvent.rpy:1170 #-#-# translate crowdin sidney_prego_too_daff3da8:
 msgid "[_RT_] {i}Yeah, I hear pregnancy takes a lot out of you.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Evet, hamileliğin seni oldukça yıprattığını duydum.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1171 #-#-# translate crowdin sidney_prego_too_ae5b5ba0:
 msgid "[_R_] You girls look beat!"
-msgstr ""
+msgstr "[_R_] Siz kızlar bitkin görünüyorsunuz!"
 
 # game/UpdateScriptChristmasEvent.rpy:1174 #-#-# translate crowdin sidney_prego_too_2aa16dd5:
 msgid "[_R_] Is there anything I can do for any of you?"
-msgstr ""
+msgstr "[_R_] Sizler için yapabileceğim bir şey var mı?"
 
 # game/UpdateScriptChristmasEvent.rpy:1175 #-#-# translate crowdin sidney_prego_too_9f41459a:
 msgid "[_L_] Ohh.... that's so sweet!"
-msgstr ""
+msgstr "[_L_] Ohhh.... çok tatlı!"
 
 # game/UpdateScriptChristmasEvent.rpy:1176 #-#-# translate crowdin sidney_prego_too_986eb505:
 msgid "[_S_] And we're not totally beat. We're just conserving our energy for when we give you our present."
-msgstr ""
+msgstr "[_S_] Ve tam anlamıyla yorgun değiliz. Sadece sana hediyemizi verirken enerjimizi saklıyoruz."
 
 # game/UpdateScriptChristmasEvent.rpy:1177 #-#-# translate crowdin sidney_prego_too_644f8ad8:
 msgid "[_GF_] I like that sound of that!.... But I will warn you.... you better hurry. Our time here is almost up."
-msgstr ""
+msgstr "[_GF_] Bunun kulağa hoş geliyor!.... Ama seni uyaracağım.... hızlanmalısın. Buradaki zamanımız neredeyse doldu."
 
 # game/UpdateScriptChristmasEvent.rpy:1178 #-#-# translate crowdin sidney_prego_too_c086638e:
 msgid "[_M_] So, are you ready now for our present?"
-msgstr ""
+msgstr "[_M_] Yani şimdi hediyemiz için hazır mısın?"
 
 # game/UpdateScriptChristmasEvent.rpy:1179 #-#-# translate crowdin sidney_prego_too_ad749128:
 msgid "[_R_] More ready than anything!"
-msgstr ""
+msgstr "[_R_] Her şeyden daha hazırım!"
 
 # game/UpdateScriptChristmasEvent.rpy:1180 #-#-# translate crowdin sidney_prego_too_22287755:
 msgid "[_M_] Ok.... all you have to do, is take off your clothes, lie on the coffee table, and pick one of us."
-msgstr ""
+msgstr "[_M_] Tamam.... tek yapman gereken, kıyafetlerini çıkarmak, sehpanın üstüne uzanmak ve birimizi seçmek."
 
 # game/UpdateScriptChristmasEvent.rpy:1181 #-#-# translate crowdin sidney_prego_too_d24c7aef:
 msgid "[_R_] Pick one of you?"
-msgstr ""
+msgstr "[_R_] Birinizi mi seçeceğim?"
 
 # game/UpdateScriptChristmasEvent.rpy:1182 #-#-# translate crowdin sidney_prego_too_11f18668:
 msgid "[_R_] What for?"
-msgstr ""
+msgstr "[_R_] Ne için?"
 
 # game/UpdateScriptChristmasEvent.rpy:1183 #-#-# translate crowdin sidney_prego_too_e909470c:
 msgid "[_M_] Just do as I say. Take off your clothes, lie down, and pick one of us."
-msgstr ""
+msgstr "[_M_] Dediklerimi dinle. Kıyafetlerini çıkar, uzan ve birimizi seç."
 
 # game/UpdateScriptChristmasEvent.rpy:1184 #-#-# translate crowdin sidney_prego_too_9907a844:
 msgid "[_RT_] {i}How on earth will I choose?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nasıl seçeceğim ki?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1185 #-#-# translate crowdin sidney_prego_too_1d39457a:
 msgid "[_GF_] I'd pick Sidney, but then again, I'm slightly biased."
-msgstr ""
+msgstr "[_GF_] Sidney'i seçerim, ama biraz taraflıyım."
 
 # game/UpdateScriptChristmasEvent.rpy:1215 #-#-# translate crowdin mom_xmas_fuck_5a51504a:
 msgid "[_RT_] {i}This might just be a dream, but to fuck Mom in the ass, makes it the best dream I've ever had.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Bu sadece bir rüya olabilir, ama annemi anal yoldan becermek, şimdiye kadar yaşadığım en iyi rüyayı yapar.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1216 #-#-# translate crowdin mom_xmas_fuck_ffd1e9d3:
 msgid "[_S_] Wow Mom! You need to teach us to take a cock in the ass like that!"
-msgstr ""
+msgstr "[_S_] Vay be anne! Bize böyle anal yapmayı öğretmelisin!"
 
 # game/UpdateScriptChristmasEvent.rpy:1217 #-#-# translate crowdin mom_xmas_fuck_609e7073:
 msgid "[_L_] Yeah! [ryan]'s always been too big for us."
-msgstr ""
+msgstr "[_L_] Evet! [ryan] her zaman bizim için çok büyük!"
 
 # game/UpdateScriptChristmasEvent.rpy:1247 #-#-# translate crowdin sidney_xmas_fuck_98ff4791:
 msgid "[_RT_] {i}Wow! I would be fine if this dream never ended.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Vay! Bu rüya hiç bitmese sorun olmaz.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1248 #-#-# translate crowdin sidney_xmas_fuck_18f6021b:
 msgid "[_GF_] Or is it a dream?"
-msgstr ""
+msgstr "[_GF_] Yoksa bu bir rüya mı?"
 
 # game/UpdateScriptChristmasEvent.rpy:1249 #-#-# translate crowdin sidney_xmas_fuck_b30b859b:
 msgid "[_M_] Honey! You're doing so good! Not many pussies can take a cock as big as [ryan]'s"
@@ -2214,95 +2214,95 @@ msgstr "[_M_] Tatlım! Çok iyi gidiyorsun! Pek az vajina [ryan]'ınki kadar bü
 
 # game/UpdateScriptChristmasEvent.rpy:1250 #-#-# translate crowdin sidney_xmas_fuck_3572d9f7:
 msgid "[_L_] Well, mine can take even bigger."
-msgstr ""
+msgstr "[_L_] Benim ki daha büyük bir şey alabilir."
 
 # game/UpdateScriptChristmasEvent.rpy:1280 #-#-# translate crowdin lauren_xmas_fuck_cf793d87:
 msgid "[_RT_] {i}Well, if this is a dream, I have a feeling it's going to be a wet one.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Eğer bu bir rüyaysa, bunun ıslak geçeceğini hissediyorum.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1281 #-#-# translate crowdin lauren_xmas_fuck_8617aaf9:
 msgid "[_S_] Lauren, you've got the cutest little asshole!"
-msgstr ""
+msgstr "[_S_] Lauren, hayatımda gördüğüm en tatlı küçük amcığa sahipsin!"
 
 # game/UpdateScriptChristmasEvent.rpy:1282 #-#-# translate crowdin lauren_xmas_fuck_08b8d7a0:
 msgid "[_M_] The trick is to get it so it can take a huge dick, but still look cute. It's not easy."
-msgstr ""
+msgstr "[_M_] İşin püf noktası onu büyük bir penis alacak şekilde yapabilmek ama yine de sevimli görünmesini sağlamak. Bu kolay değil."
 
 # game/UpdateScriptChristmasEvent.rpy:1296 #-#-# translate crowdin xmas_facial_85269cab:
 msgid "[_M_] Ok, baby!.... Drench us in your baby gravy!"
-msgstr ""
+msgstr "[_M_] Tamam, bebeğim!.... Bizi bebek sosunla ıslat!"
 
 # game/UpdateScriptChristmasEvent.rpy:1297 #-#-# translate crowdin xmas_facial_58161305:
 msgid "[_S_] Spray me first!"
-msgstr ""
+msgstr "[_S_] Önce beni sula!"
 
 # game/UpdateScriptChristmasEvent.rpy:1298 #-#-# translate crowdin xmas_facial_dd00ce0b:
 msgid "[_L_] No, me first!"
-msgstr ""
+msgstr "[_L_] Hayır, önce ben!"
 
 # game/UpdateScriptChristmasEvent.rpy:1299 #-#-# translate crowdin xmas_facial_c9adaa4d:
 msgid "[_R_] Mom always gets to go first"
-msgstr ""
+msgstr "[_R_] Anne her zaman önce gitmeli."
 
 # game/UpdateScriptChristmasEvent.rpy:1300 #-#-# translate crowdin xmas_facial_2956163d:
 msgid "[_R_] Ohhhh.... here I cummmm!!!..."
-msgstr ""
+msgstr "[_R_] Ohhhh.... burada geliyorum!!!..."
 
 # game/UpdateScriptChristmasEvent.rpy:1321 #-#-# translate crowdin xmas_facial_0b2dfb15:
 msgid "[_M_] Good job my big boy!"
-msgstr ""
+msgstr "[_M_] Aferin benim büyük oğlum!"
 
 # game/UpdateScriptChristmasEvent.rpy:1322 #-#-# translate crowdin xmas_facial_7691efcf:
 msgid "[_S_] I just wish you'd covered me even more."
-msgstr ""
+msgstr "[_S_] Keşke beni daha da kaplasaydın."
 
 # game/UpdateScriptChristmasEvent.rpy:1323 #-#-# translate crowdin xmas_facial_562ef639:
 msgid "[_L_] Yeah.... usually you cum almost twice this much."
-msgstr ""
+msgstr "[_L_] Evet.... genelde bu kadar hemen hemen iki katı gelir."
 
 # game/UpdateScriptChristmasEvent.rpy:1324 #-#-# translate crowdin xmas_facial_d51f4b98:
 msgid "[_RT_] {i}Is she fucking kidding me?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Şaka mı yapıyor?{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1325 #-#-# translate crowdin xmas_facial_301d1a51:
 msgid "[_RT_] {i}I've never cum so much in my life.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Hayatımda bu kadar hiç gelmedim.{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1326 #-#-# translate crowdin xmas_facial_fe1249c7:
 msgid "[_M_] Now, are you ready to watch us make out, and lick all of this cum off each other?"
-msgstr ""
+msgstr "[_M_] Şimdi, bizi öpüşürken izlemeye ve bu ejakülasyonu birbirimizin üzerinde yalamaya hazır mısın?"
 
 # game/UpdateScriptChristmasEvent.rpy:1327 #-#-# translate crowdin xmas_facial_ad6af4ee:
 msgid "[_R_] Oh God, yes!"
-msgstr ""
+msgstr "[_R_] Oh Tanrım, evet!"
 
 # game/UpdateScriptChristmasEvent.rpy:1328 #-#-# translate crowdin xmas_facial_886e81e8:
 msgid "[_S_] Then we can grab the dildos and really get down to business!"
-msgstr ""
+msgstr "[_S_] O zaman dildoları alıp işe gerçekten başlayabiliriz!"
 
 # game/UpdateScriptChristmasEvent.rpy:1329 #-#-# translate crowdin xmas_facial_b901ef70:
 msgid "[_L_] Yay! A whole day of fucking!.... I love Christmas!"
-msgstr ""
+msgstr "[_L_] Yaşasın! Bir dolu gün sikiş!.... Noel'i seviyorum!"
 
 # game/UpdateScriptChristmasEvent.rpy:1330 #-#-# translate crowdin xmas_facial_867a14a3:
 msgid "[_GF_] Sorry buddy, but you won't get to do any of that. Our time is up in 5.... 4..."
-msgstr ""
+msgstr "[_GF_] Üzgünüm dostum, ama bunlardan hiçbirini yapamayacaksın. Zamanımız 5.... 4... içinde doluyor."
 
 # game/UpdateScriptChristmasEvent.rpy:1331 #-#-# translate crowdin xmas_facial_1db1b01a:
 msgid "[_RT_] {i}Noooo!.... Not yet!....{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Hayır!.... Henüz değil!....{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1332 #-#-# translate crowdin xmas_facial_f7f9aced:
 msgid "[_GF_] 3.... 2..."
-msgstr ""
+msgstr "[_GF_] 3.... 2..."
 
 # game/UpdateScriptChristmasEvent.rpy:1333 #-#-# translate crowdin xmas_facial_5685aaa9:
 msgid "[_RT_] {i}Goodbye, my beauties! We'll continue this in the future!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Hoşça kalın, güzellerim! Bunu gelecekte devam ettireceğiz!{/i}"
 
 # game/UpdateScriptChristmasEvent.rpy:1334 #-#-# translate crowdin xmas_facial_c8f267f6:
 msgid "[_GF_] 1.... 0..."
-msgstr ""
+msgstr "[_GF_] 1.... 0..."
 
 # game/UpdateScriptChristmasEvent.rpy:1355 #-#-# translate crowdin cookies_in_oven_42d37d6b:
 msgid "[_R_] Oh, man! Look how Lauren's dressing now, just to do something as casual as making cookies."
