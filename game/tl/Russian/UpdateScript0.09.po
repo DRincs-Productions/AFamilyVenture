@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-07-02 13:38\n"
+"PO-Revision-Date: 2025-11-12 23:25\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.09.rpy:564 #-#-# translate crowdin myroom_post_cami_fight_8a5367c3:
 msgid "[_R_] I'm not ready to sleep yet... I should go talk to Mom and Lauren before I come back to bed."
@@ -86,7 +86,7 @@ msgstr "[_S_] Ваш большой сыс не позволит ничего с
 
 # game/UpdateScript0.09.rpy:616 #-#-# translate crowdin myroom_post_cami_fight_20e43209:
 msgid "[_R_] But!..."
-msgstr ""
+msgstr "[_R_] Но!..."
 
 # game/UpdateScript0.09.rpy:617 #-#-# translate crowdin myroom_post_cami_fight_5b09e9b0:
 msgid "[_S_] Why don't you go check on Mom. I'm sure she could use some comforting from her little man."
@@ -154,7 +154,7 @@ msgstr "[_J_] Она почти готова?"
 
 # game/UpdateScript0.09.rpy:649 #-#-# translate crowdin pay_or_dont_64dd3903:
 msgid "[_R_] I don't know."
-msgstr ""
+msgstr "[_R_] Я не знаю."
 
 # game/UpdateScript0.09.rpy:652 #-#-# translate crowdin pay_or_dont_8b4b40b6:
 msgid "[_M_] I thought I heard a knocking."
@@ -1402,11 +1402,11 @@ msgstr "[_RT_] {i}Похоже, что спящий на диване Этт К�
 
 # game/UpdateScript0.09.rpy:1249 #-#-# translate crowdin sid_cami_morning_jog_66f4c51e:
 msgid "[_R_] Hey Sid."
-msgstr ""
+msgstr "[_R_] Привет, Сид."
 
 # game/UpdateScript0.09.rpy:1252 #-#-# translate crowdin sid_cami_morning_jog_a1d9a63c:
 msgid "[_S_] Hey, [ryan]. Are you ready to go running?"
-msgstr ""
+msgstr "[_S_] Привет, [ryan]. Ты готов к пробежке?"
 
 # game/UpdateScript0.09.rpy:1253 #-#-# translate crowdin sid_cami_morning_jog_4af0cb9d:
 msgid "[_C_] {i}(Sleepily){/i} Go run somewhere else..."
@@ -1426,19 +1426,19 @@ msgstr "[ _S_] Итак, вы хотели уйти?"
 
 # game/UpdateScript0.09.rpy:1263 #-#-# translate crowdin sid_cami_morning_jog_5bf3f68a:
 msgid "[_R_] You bet I am. Let me run and change my clothes and I'll meet you outside."
-msgstr ""
+msgstr "[_R_] Ещё бы. Дай мне сбегать переодеться, и встретимся снаружи."
 
 # game/UpdateScript0.09.rpy:1266 #-#-# translate crowdin sid_cami_morning_jog_10bf2f50:
 msgid "[_R_] Sorry Sid, I'm just not feeling it today."
-msgstr ""
+msgstr "[_R_] Извини, Сид, сегодня я просто не в настроении."
 
 # game/UpdateScript0.09.rpy:1267 #-#-# translate crowdin sid_cami_morning_jog_cad1873f:
 msgid "[_S_] That's ok. Ever since Mr. Peterson got put back into his nursing home, I don't feel afraid to go running there all alone."
-msgstr ""
+msgstr "[_S_] Всё в порядке. С тех пор, как мистера Петерсона отправили обратно в дом престарелых, я больше не боюсь бегать там одна."
 
 # game/UpdateScript0.09.rpy:1268 #-#-# translate crowdin sid_cami_morning_jog_0c80c60a:
 msgid "[_S_] But hopefully you'll be up for it next time."
-msgstr ""
+msgstr "[_S_] Но, надеюсь, в следующий раз вы будете готовы."
 
 # game/UpdateScript0.09.rpy:1269 #-#-# translate crowdin sid_cami_morning_jog_2314d5e2:
 msgid "[_S_] It's nice to not have to run alone."
@@ -1474,19 +1474,19 @@ msgstr "[_R_] Вы не меня снова просматриваете \"Иг�
 
 # game/UpdateScript0.09.rpy:1306 #-#-# translate crowdin yard_show_8781009a:
 msgid "[_L_] Oh hey, [ryan]."
-msgstr ""
+msgstr "[_L_] О, привет, [ryan]."
 
 # game/UpdateScript0.09.rpy:1307 #-#-# translate crowdin yard_show_d1753ba4:
 msgid "[_L_] Yeah, don't worry... We're still not caught up to where we left off."
-msgstr ""
+msgstr "[_L_] Да, не волнуйтесь... Мы всё ещё не вернулись к тому, на чём остановились."
 
 # game/UpdateScript0.09.rpy:1308 #-#-# translate crowdin yard_show_8c9e201a:
 msgid "[_MB_] Hoping to join us for another Netfucks and chill session?"
-msgstr ""
+msgstr "[_MB_] Надеетесь присоединиться к нам для еще одной сессии Netfucks и отдыха?"
 
 # game/UpdateScript0.09.rpy:1309 #-#-# translate crowdin yard_show_f5ca046f:
 msgid "[_R_] I'm not here to join you... Just like last time, I'm hoping to prevent it."
-msgstr ""
+msgstr "[_R_] Я здесь не для того, чтобы присоединиться к вам... Как и в прошлый раз, я надеюсь предотвратить это."
 
 # game/UpdateScript0.09.rpy:1310 #-#-# translate crowdin yard_show_52167aa2:
 msgid "[_LT_] {i}You fucking idiot!... You being here only ensures that we're going to fool around.{/i}"
@@ -1502,7 +1502,7 @@ msgstr "[_LT_] {i}Если он хочет остановить это, он п�
 
 # game/UpdateScript0.09.rpy:1313 #-#-# translate crowdin yard_show_399e4af4:
 msgid "[_MB_] Fat chance of that!... Your sister doesn't seem to ever get enough of my dark meat."
-msgstr ""
+msgstr "[_MB_] Маловероятно! Твоя сестра, похоже, никогда не насыщается моим темным мясом."
 
 # game/UpdateScript0.09.rpy:1316 #-#-# translate crowdin yard_show_eb0ce2fa:
 msgid "[_RT_] {i}Hopefully my presence will start to dull their libidos.{/i}"
@@ -1530,15 +1530,15 @@ msgstr "[_LT_] {i}Интересно, что ему нравится смотр�
 
 # game/UpdateScript0.09.rpy:1332 #-#-# translate crowdin yard_show_3f118d29:
 msgid "[_L_] Mmmmm... Now I'm gonna give you the full Cersie Slannister treatment."
-msgstr ""
+msgstr "[_L_] Ммммм... А теперь я покажу тебе всю прелесть Серси Сланнистер."
 
 # game/UpdateScript0.09.rpy:1333 #-#-# translate crowdin yard_show_c46fe4ce:
 msgid "[_MB_] God, yes!"
-msgstr ""
+msgstr "[_MB_] Боже, да!"
 
 # game/UpdateScript0.09.rpy:1339 #-#-# translate crowdin yard_show_f3e99e52:
 msgid "[_MB_] Fuck!"
-msgstr ""
+msgstr "[_MB_] Блядь!"
 
 # game/UpdateScript0.09.rpy:1340 #-#-# translate crowdin yard_show_4a1eaa1f:
 msgid "[_RT_] {i}Fuck... I think she likes taking her shorts off to tease me?{/i}"
@@ -1562,11 +1562,11 @@ msgstr "[_L_] [ryan], если вы заболели наблюдать за м�
 
 # game/UpdateScript0.09.rpy:1353 #-#-# translate crowdin yard_show_42dd872d:
 msgid "[_R_] Goddammit, Lauren! I don't need your charity!"
-msgstr ""
+msgstr "[_R_] Чёрт возьми, Лорен! Мне не нужна твоя благотворительность!"
 
 # game/UpdateScript0.09.rpy:1354 #-#-# translate crowdin yard_show_bacdead2:
 msgid "[_L_] Are you sure? You're looking pretty lonely back there."
-msgstr ""
+msgstr "[_L_] Ты уверен? Ты выглядишь довольно одиноким."
 
 # game/UpdateScript0.09.rpy:1355 #-#-# translate crowdin yard_show_c69eea71:
 msgid "[_L_] Don't you want to have just a little taste?"
@@ -1594,19 +1594,19 @@ msgstr "[_RT_] {i}Почему я позволяю моей сестре упр�
 
 # game/UpdateScript0.09.rpy:1366 #-#-# translate crowdin yard_show_56154977:
 msgid "[_LT_] {i}Oh, God... I love that I'm making my brother so desperate that he can't help but eat me out!{/i}"
-msgstr ""
+msgstr "[_LT_] {i}О, Боже... Мне нравится, что я довожу своего брата до такого отчаяния, что он не может удержаться и съедает меня!{/i}"
 
 # game/UpdateScript0.09.rpy:1367 #-#-# translate crowdin yard_show_7062ba0b:
 msgid "{b}{i}\"Lauren's Submission -1\"{/i}{/b}"
-msgstr "{b}{i}\"Отправка Лорана -1\"{/i}{/b}"
+msgstr "{b}{i}\"Отправка Лорен -1\"{/i}{/b}"
 
 # game/UpdateScript0.09.rpy:1373 #-#-# translate crowdin yard_show_bd7b2186:
 msgid "[_L_] Alright Matt... I'm ready to get fucked!"
-msgstr ""
+msgstr "[_L_] Хорошо, Мэтт... Я готов к сексу!"
 
 # game/UpdateScript0.09.rpy:1374 #-#-# translate crowdin yard_show_b44083b4:
 msgid "[_R_] Again?"
-msgstr ""
+msgstr "[_R_] Опять?"
 
 # game/UpdateScript0.09.rpy:1378 #-#-# translate crowdin yard_show_ff3d1c7b:
 msgid "[_R_] Get Matt to lick it."
@@ -1614,7 +1614,7 @@ msgstr "[_R_] Получить Матт, чтобы его выбрать."
 
 # game/UpdateScript0.09.rpy:1379 #-#-# translate crowdin yard_show_d43c7d5a:
 msgid "[_MB_] I don't do that."
-msgstr ""
+msgstr "[_MB_] Я этого не делаю."
 
 # game/UpdateScript0.09.rpy:1380 #-#-# translate crowdin yard_show_2bd1d578:
 msgid "[_LT_] {i}(sarcastically) What a generous lover.{/i}"
@@ -1622,31 +1622,31 @@ msgstr "[_LT_] {i}(произвольно) Какой щедрый любовн�
 
 # game/UpdateScript0.09.rpy:1381 #-#-# translate crowdin yard_show_f09aa40c:
 msgid "[_L_] That's fine... I was only trying to get lubed up so that Matt can more easily fuck my pussy anyways."
-msgstr ""
+msgstr "[_L_] Да ладно... Я просто хотела смазаться, чтобы Мэтту было легче трахать мою киску."
 
 # game/UpdateScript0.09.rpy:1382 #-#-# translate crowdin yard_show_f09e0ed2:
 msgid "[_L_] I think I'm probably wet enough to take Matt's giant cock even without you licking down there."
-msgstr ""
+msgstr "[_L_] Думаю, я достаточно мокрая, чтобы принять огромный член Мэтта, даже без твоего лизания там."
 
 # game/UpdateScript0.09.rpy:1383 #-#-# translate crowdin yard_show_64550904:
 msgid "[_L_] Ready to fuck me, Matt?"
-msgstr ""
+msgstr "[_L_] Готов трахнуть меня, Мэтт?"
 
 # game/UpdateScript0.09.rpy:1384 #-#-# translate crowdin yard_show_b44083b4_1:
 msgid "[_R_] Again?"
-msgstr ""
+msgstr "[_R_] Опять?"
 
 # game/UpdateScript0.09.rpy:1385 #-#-# translate crowdin yard_show_61565384:
 msgid "[_L_] Why do you act so shocked every time?"
-msgstr ""
+msgstr "[_L_] Почему ты каждый раз такой шокированный?"
 
 # game/UpdateScript0.09.rpy:1386 #-#-# translate crowdin yard_show_94d7d8bb:
 msgid "[_L_] Like always, you're free to leave."
-msgstr ""
+msgstr "[_L_] Как всегда, вы можете уйти."
 
 # game/UpdateScript0.09.rpy:1387 #-#-# translate crowdin yard_show_78d8564a:
 msgid "[_LT_] {i}God, I hope he doesn't leave!{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Боже, надеюсь, он не уйдёт!{/i}"
 
 # game/UpdateScript0.09.rpy:1394 #-#-# translate crowdin yard_show_f80007fc:
 msgid "[_L_] Fuck... That's such a huge cock!"
@@ -1654,19 +1654,19 @@ msgstr "[_L_] Хак... Это такой огромный коктейль!"
 
 # game/UpdateScript0.09.rpy:1395 #-#-# translate crowdin yard_show_04c445f2:
 msgid "[_L_] I can't believe how full it makes me feel."
-msgstr ""
+msgstr "[_L_] Не могу поверить, насколько я чувствую себя полным."
 
 # game/UpdateScript0.09.rpy:1396 #-#-# translate crowdin yard_show_cfa01b94:
 msgid "[_L_] Fuuucck!"
-msgstr ""
+msgstr "[_L_] Бляяяяя!"
 
 # game/UpdateScript0.09.rpy:1397 #-#-# translate crowdin yard_show_5269b1b5:
 msgid "[_RT_] {i}Sidney is fucking deaf!{/i}"
-msgstr "[_RT_] {i}Сиднея глухая!{/i}"
+msgstr "[_RT_] {i}Сидни глухая!{/i}"
 
 # game/UpdateScript0.09.rpy:1398 #-#-# translate crowdin yard_show_efa514bc:
 msgid "[_L_] MMMmmm....."
-msgstr ""
+msgstr "[_L_] МММмм....."
 
 # game/UpdateScript0.09.rpy:1399 #-#-# translate crowdin yard_show_8b8a00a3:
 msgid "[_RT_] {i}One day she's gonna look up though.{/i}"
@@ -1674,7 +1674,7 @@ msgstr "[_RT_] {i}Однажды она будет выглядеть.{/i}"
 
 # game/UpdateScript0.09.rpy:1400 #-#-# translate crowdin yard_show_05042197:
 msgid "[_L_] Hhhhnnnggghhhh..."
-msgstr ""
+msgstr "[_L_] Ххххнннннггххх..."
 
 # game/UpdateScript0.09.rpy:1403 #-#-# translate crowdin yard_show_f94fd91a:
 msgid "[_RT_] {i}Fucking shut up!... The least you can do is pretend you don't love it!{/i}"
@@ -1702,7 +1702,7 @@ msgstr "[_LT_] {i}Но он мне не заслуживает.{/i}"
 
 # game/UpdateScript0.09.rpy:1413 #-#-# translate crowdin yard_show_952f6e01:
 msgid "[_LT_] {i}Matt's huge cock can't be good for my insides.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Огромный член Мэтта вряд ли пойдёт на пользу моим внутренностям.{/i}"
 
 # game/UpdateScript0.09.rpy:1414 #-#-# translate crowdin yard_show_14ce7b0c:
 msgid "[_LT_] {i}It's so big, it does hit my clit pretty damn good though.{/i}"
@@ -1722,15 +1722,15 @@ msgstr "[_L_] Ffffuuuuuck!..."
 
 # game/UpdateScript0.09.rpy:1423 #-#-# translate crowdin yard_show_78fb9c66:
 msgid "[_L_] Mmmmmmmmm..."
-msgstr ""
+msgstr "[_L_] Ммммммм..."
 
 # game/UpdateScript0.09.rpy:1428 #-#-# translate crowdin yard_show_b8e3c35a:
 msgid "[_MB_] Oh yeah, Lauren, I'm about to explode!"
-msgstr ""
+msgstr "[_MB_] О да, Лорен, я сейчас взорвусь!"
 
 # game/UpdateScript0.09.rpy:1429 #-#-# translate crowdin yard_show_3afddf80:
 msgid "[_L_] Yes!... Fill my pussy!"
-msgstr ""
+msgstr "[_L_] Да!... Заполни мою киску!"
 
 # game/UpdateScript0.09.rpy:1430 #-#-# translate crowdin yard_show_4881927b:
 msgid "[_R_] What?"
@@ -1738,7 +1738,7 @@ msgstr "[ _R_] Что?"
 
 # game/UpdateScript0.09.rpy:1431 #-#-# translate crowdin yard_show_39b90e17:
 msgid "[_R_] Not again!..."
-msgstr ""
+msgstr "[_R_] Опять!..."
 
 # game/UpdateScript0.09.rpy:1436 #-#-# translate crowdin yard_show_1c9e068c:
 msgid "{b}{i}\"Matt's cum loads in Lauren's pussy +1\"{/i}{/b}"
@@ -1754,7 +1754,7 @@ msgstr "[_L_] Ого!... Посмотрите, сколько вырываетс
 
 # game/UpdateScript0.09.rpy:1444 #-#-# translate crowdin yard_show_e02bf560:
 msgid "[_L_] You filled my womb again!"
-msgstr ""
+msgstr "[_L_] Ты снова наполнил мою утробу!"
 
 # game/UpdateScript0.09.rpy:1445 #-#-# translate crowdin yard_show_2281aaf4:
 msgid "[_MB_] Please tell me you've started on birth control!"
@@ -1762,7 +1762,7 @@ msgstr "[_MB_] Пожалуйста, скажите, что вы начали с
 
 # game/UpdateScript0.09.rpy:1446 #-#-# translate crowdin yard_show_c74404ea:
 msgid "[_L_] Uhh... Not yet."
-msgstr ""
+msgstr "[_L_] Ух... Пока нет."
 
 # game/UpdateScript0.09.rpy:1447 #-#-# translate crowdin yard_show_5b127ef0:
 msgid "[_R_] What the fuck, Lauren? I can't believe you're not pregnant yet."
@@ -1774,15 +1774,15 @@ msgstr "[_L_] Нось!... Вы не ответственны за мое тел
 
 # game/UpdateScript0.09.rpy:1451 #-#-# translate crowdin yard_show_29b0af37:
 msgid "[_MB_] I still agree with your brother on this though."
-msgstr ""
+msgstr "[_MB_] Хотя в этом я все равно согласен с твоим братом."
 
 # game/UpdateScript0.09.rpy:1452 #-#-# translate crowdin yard_show_8037b9cf:
 msgid "[_L_] I'm not an idiot!... I know I can't afford to get pregnant."
-msgstr ""
+msgstr "[_L_] Я не идиот!... Я знаю, что не могу позволить себе забеременеть."
 
 # game/UpdateScript0.09.rpy:1453 #-#-# translate crowdin yard_show_a42b0424:
 msgid "[_LT_] {i}Though the thought of his swimmers knocking me up still turns me on.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Хотя мысль о том, что его пловцы могут меня обрюхатить, всё ещё меня возбуждает.{/i}"
 
 # game/UpdateScript0.09.rpy:1454 #-#-# translate crowdin yard_show_7d0dc49c:
 msgid "[_L_] I'll go get some \"Plan B\" birth control tomorrow."
@@ -1790,11 +1790,11 @@ msgstr "[_L_] Я пойду завтра получить некоторое п�
 
 # game/UpdateScript0.09.rpy:1455 #-#-# translate crowdin yard_show_e305b87c:
 msgid "[_R_] You'd better not forget!"
-msgstr ""
+msgstr "[_R_] Лучше не забывать!"
 
 # game/UpdateScript0.09.rpy:1456 #-#-# translate crowdin yard_show_08f92bc4:
 msgid "[_LT_] {i}I always forget... I wonder why I'm not pregnant yet... Maybe Matt's destroyed my womb with his huge cock... Or maybe his swimmers arent very strong.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Я всегда забываю... Интересно, почему я ещё не беременна... Может быть, Мэтт уничтожил мою матку своим огромным членом... Или, может быть, у него не очень сильные пловцы.{/i}"
 
 # game/UpdateScript0.09.rpy:1462 #-#-# translate crowdin yard_show_c751b2de:
 msgid "[_L_] When I wiggle, I can feel your cum sloshing around in my womb."
@@ -1802,7 +1802,7 @@ msgstr "[_L_] Когда я ведьму, я чувствую себя в мое
 
 # game/UpdateScript0.09.rpy:1463 #-#-# translate crowdin yard_show_a0a660ba:
 msgid "[_R_] God, Lauren, I'm still here."
-msgstr ""
+msgstr "[_R_] Боже, Лорен, я все еще здесь."
 
 # game/UpdateScript0.09.rpy:1466 #-#-# translate crowdin yard_show_fd52ab4b:
 msgid "[_MT_] {i}What a refreshing shower.{/i}"
@@ -1810,23 +1810,23 @@ msgstr "[_MT_] {i}Какой душ освежающий.{/i}"
 
 # game/UpdateScript0.09.rpy:1469 #-#-# translate crowdin yard_show_ab2a6553:
 msgid "[_MT_] {i}Oh, good!... Matt's here again.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}О, хорошо!... Мэтт снова здесь.{/i}"
 
 # game/UpdateScript0.09.rpy:1472 #-#-# translate crowdin yard_show_9acb0db7:
 msgid "[_MT_] {i}He seemed to enjoy the show I gave him on his last visit. Maybe I should make his evening again?{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Кажется, ему понравилось шоу, которое я ему устроил в последний визит. Может, мне стоит снова сделать его вечер?{/i}"
 
 # game/UpdateScript0.09.rpy:1475 #-#-# translate crowdin yard_show_14a9344e:
 msgid "[_M_] Matt... I'm sorry you've caught me in my towel again, it's just that I always shower in the evenings."
-msgstr ""
+msgstr "[_M_] Мэтт... Извини, что ты снова застал меня в полотенце, просто я всегда принимаю душ по вечерам."
 
 # game/UpdateScript0.09.rpy:1476 #-#-# translate crowdin yard_show_07a4384e:
 msgid "[_M_] That's not why you always visit in the evenings is it?"
-msgstr ""
+msgstr "[_M_] Ты ведь не поэтому всегда приходишь сюда по вечерам, не так ли?"
 
 # game/UpdateScript0.09.rpy:1477 #-#-# translate crowdin yard_show_87f8d8ef:
 msgid "[_L_] Mooomm!"
-msgstr ""
+msgstr "[_L_] Ммм!"
 
 # game/UpdateScript0.09.rpy:1478 #-#-# translate crowdin yard_show_860d1071:
 msgid "[_MB_] {i}(muttering) {/i}Wow!"
@@ -1834,7 +1834,7 @@ msgstr "[_MB_] {i}(muttering) {/i}Wow!"
 
 # game/UpdateScript0.09.rpy:1479 #-#-# translate crowdin yard_show_6cda73f4:
 msgid "[_MB_] I mean... I... I always feel lucky when I get to see more of you, Miss [mom_name]"
-msgstr ""
+msgstr "[_MB_] Я имею в виду... Я... Я всегда чувствую себя счастливчиком, когда вижу вас чаще, мисс [mom_name]"
 
 # game/UpdateScript0.09.rpy:1483 #-#-# translate crowdin yard_show_35fc49dd:
 msgid "[_RT_] {i}Mom's towel is slipping down again!{/i}"
@@ -1842,7 +1842,7 @@ msgstr "[_RT_] Полотенце мамы {i}снова подскользну�
 
 # game/UpdateScript0.09.rpy:1484 #-#-# translate crowdin yard_show_f1663bee:
 msgid "[_RT_] {i}Once could be an accident, but any more than that is on purpose.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Один раз это может быть случайностью, но больше — намеренно.{/i}"
 
 # game/UpdateScript0.09.rpy:1485 #-#-# translate crowdin yard_show_3f23c426:
 msgid "[_RT_] {i}She must be feeling pretty lonely without Dad... I've just got to figure out how to use that to my advantage, and not fucking Matt's.{/i}"
@@ -1850,31 +1850,31 @@ msgstr "[_RT_] {i}Она должна чувствовать себя одино
 
 # game/UpdateScript0.09.rpy:1486 #-#-# translate crowdin yard_show_81886070:
 msgid "[_R_] Mom!... Your towel!... Pull it up!"
-msgstr ""
+msgstr "[_R_] Мама!... Твое полотенце!... Подними его!"
 
 # game/UpdateScript0.09.rpy:1489 #-#-# translate crowdin yard_show_6314bcf0:
 msgid "[_M_] Oh, my goodness!... What is wrong with our towels?!"
-msgstr ""
+msgstr "[_M_] О, боже мой!... Что не так с нашими полотенцами?!"
 
 # game/UpdateScript0.09.rpy:1490 #-#-# translate crowdin yard_show_dd5f973e:
 msgid "[_M_] I'm so sorry!"
-msgstr ""
+msgstr "[_M_] Мне очень жаль!"
 
 # game/UpdateScript0.09.rpy:1491 #-#-# translate crowdin yard_show_24c8d756:
 msgid "[_L_] Again?... Geez, Mom!"
-msgstr ""
+msgstr "[_L_] Опять?... Боже, мама!"
 
 # game/UpdateScript0.09.rpy:1492 #-#-# translate crowdin yard_show_ef833f01:
 msgid "[_M_] I said I'm sorry!"
-msgstr ""
+msgstr "[_M_] Я сказал, что мне жаль!"
 
 # game/UpdateScript0.09.rpy:1493 #-#-# translate crowdin yard_show_155c80cc:
 msgid "[_MB_] No, don't worry about it... I didn't even notice. As always, I was only looking at your beautiful eyes."
-msgstr ""
+msgstr "[_MB_] Нет, не волнуйся... Я даже не заметил. Как всегда, я просто смотрел на твои прекрасные глаза."
 
 # game/UpdateScript0.09.rpy:1496 #-#-# translate crowdin yard_show_69188156:
 msgid "[_MT_] {i}Haha... Just like last time, he couldn't keep his eyes off my breasts.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Ха-ха... Как и в прошлый раз, он не мог отвести взгляд от моей груди.{/i}"
 
 # game/UpdateScript0.09.rpy:1497 #-#-# translate crowdin yard_show_f63a40ca:
 msgid "[_MT_] {i}Fuck... I'm getting wet thinking about Matt looking at my nipples.{/i}"
@@ -1890,27 +1890,27 @@ msgstr "[_MT_] {i}повезет!... Мне нужно выйти... Я даже
 
 # game/UpdateScript0.09.rpy:1501 #-#-# translate crowdin yard_show_4b839dc2:
 msgid "[_L_] God, Mom!... Why are you still just standing there!"
-msgstr ""
+msgstr "[_L_] Боже, мама!... Почему ты всё ещё стоишь там!"
 
 # game/UpdateScript0.09.rpy:1502 #-#-# translate crowdin yard_show_4f9a3983:
 msgid "[_L_] Why do you keep trying to hang out with us in nothing but your towel... You're embarrassing me."
-msgstr ""
+msgstr "[_L_] Почему ты продолжаешь тусоваться с нами в одном полотенце... Ты меня позоришь."
 
 # game/UpdateScript0.09.rpy:1503 #-#-# translate crowdin yard_show_b91c90db:
 msgid "[_MB_] Really, I don't mind!"
-msgstr ""
+msgstr "[_MB_] Мне, правда, всё равно!"
 
 # game/UpdateScript0.09.rpy:1504 #-#-# translate crowdin yard_show_cc9e476d:
 msgid "[_LT_] {i}(sarcastically) Real subtle, Matt... I'd break up with him today, but then how would I make [ryan] jealous?{/i}"
-msgstr ""
+msgstr "[_LT_] {i}(с сарказмом) Очень тонко, Мэтт... Я бы рассталась с ним сегодня, но как тогда заставить [ryan] ревновать?{/i}"
 
 # game/UpdateScript0.09.rpy:1505 #-#-# translate crowdin yard_show_71c7976a:
 msgid "[_M_] You're right... I'd better run."
-msgstr ""
+msgstr "[_M_] Ты прав... Мне лучше бежать."
 
 # game/UpdateScript0.09.rpy:1506 #-#-# translate crowdin yard_show_eca9408e:
 msgid "[_R_] Yeah, I'm out of here too."
-msgstr ""
+msgstr "[_R_] Да, я тоже ухожу отсюда."
 
 # game/UpdateScript0.09.rpy:1511 #-#-# translate crowdin yard_show_14c044ba:
 msgid "[_RT_] {i}I don't feel like dealing with them tonight. Lauren keeps trying to get under my skin by acting like a slut whenever Matt's around.{/i}"
@@ -2258,7 +2258,7 @@ msgstr "[ _M_] Лорен сейчас взрослеет, и, как она и�
 
 # game/UpdateScript0.09.rpy:1636 #-#-# translate crowdin yard_show_20e43209:
 msgid "[_R_] But!..."
-msgstr ""
+msgstr "[_R_] Но!..."
 
 # game/UpdateScript0.09.rpy:1637 #-#-# translate crowdin yard_show_b4731a02:
 msgid "[_S_] He probably thinks they should only hold hands till they're married, or something."
@@ -2314,7 +2314,7 @@ msgstr "Управляй сам, молодой человек!"
 
 # game/UpdateScript0.09.rpy:1656 #-#-# translate crowdin yard_show_20e43209_1:
 msgid "[_R_] But!..."
-msgstr ""
+msgstr "[_R_] Но!..."
 
 # game/UpdateScript0.09.rpy:1657 #-#-# translate crowdin yard_show_2ded7136:
 msgid "[_M_] No, I've had enough of your tantrums about this. Go watch TV or something, or better yet, go to your room and do some studying. God knows you need it with exams coming up."
@@ -2674,7 +2674,7 @@ msgstr "[_RT_] {i}назад Мат?{/i}"
 
 # game/UpdateScript0.09.rpy:1888 #-#-# translate crowdin NTRLounge2repeat_3989b221:
 msgid "[_RT_] {i}I guess I was naïve to think that Lauren was going to just move on.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Наверное, я был наивен, думая, что Лорен просто так уйдёт.{/i}"
 
 # game/UpdateScript0.09.rpy:1889 #-#-# translate crowdin NTRLounge2repeat_62d45b6d:
 msgid "[_RT_] {i}I just can't believe Lauren's completely replaced me as her \"Game of Thots\" buddy.{/i}"
@@ -2690,19 +2690,19 @@ msgstr "[_R_] Вы не меня снова просматриваете \"Иг�
 
 # game/UpdateScript0.09.rpy:1896 #-#-# translate crowdin NTRLounge2repeat_8781009a:
 msgid "[_L_] Oh hey, [ryan]."
-msgstr ""
+msgstr "[_L_] О, привет, [ryan]."
 
 # game/UpdateScript0.09.rpy:1897 #-#-# translate crowdin NTRLounge2repeat_d1753ba4:
 msgid "[_L_] Yeah, don't worry... We're still not caught up to where we left off."
-msgstr ""
+msgstr "[_L_] Да, не волнуйтесь... Мы всё ещё не вернулись к тому, на чём остановились."
 
 # game/UpdateScript0.09.rpy:1898 #-#-# translate crowdin NTRLounge2repeat_8c9e201a:
 msgid "[_MB_] Hoping to join us for another Netfucks and chill session?"
-msgstr ""
+msgstr "[_MB_] Надеетесь присоединиться к нам для еще одной сессии Netfucks и отдыха?"
 
 # game/UpdateScript0.09.rpy:1899 #-#-# translate crowdin NTRLounge2repeat_f5ca046f:
 msgid "[_R_] I'm not here to join you... Just like last time, I'm hoping to prevent it."
-msgstr ""
+msgstr "[_R_] Я здесь не для того, чтобы присоединиться к вам... Как и в прошлый раз, я надеюсь предотвратить это."
 
 # game/UpdateScript0.09.rpy:1900 #-#-# translate crowdin NTRLounge2repeat_52167aa2:
 msgid "[_LT_] {i}You fucking idiot!... You being here only ensures that we're going to fool around.{/i}"
@@ -2718,7 +2718,7 @@ msgstr "[_LT_] {i}Если он хочет остановить это, он п�
 
 # game/UpdateScript0.09.rpy:1903 #-#-# translate crowdin NTRLounge2repeat_399e4af4:
 msgid "[_MB_] Fat chance of that!... Your sister doesn't seem to ever get enough of my dark meat."
-msgstr ""
+msgstr "[_MB_] Маловероятно! Твоя сестра, похоже, никогда не насыщается моим темным мясом."
 
 # game/UpdateScript0.09.rpy:1906 #-#-# translate crowdin NTRLounge2repeat_eb0ce2fa:
 msgid "[_RT_] {i}Hopefully my presence will start to dull their libidos.{/i}"
@@ -2746,15 +2746,15 @@ msgstr "[_LT_] {i}Интересно, что ему нравится смотр�
 
 # game/UpdateScript0.09.rpy:1922 #-#-# translate crowdin NTRLounge2repeat_3f118d29:
 msgid "[_L_] Mmmmm... Now I'm gonna give you the full Cersie Slannister treatment."
-msgstr ""
+msgstr "[_L_] Ммммм... А теперь я покажу тебе всю прелесть Серси Сланнистер."
 
 # game/UpdateScript0.09.rpy:1923 #-#-# translate crowdin NTRLounge2repeat_c46fe4ce:
 msgid "[_MB_] God, yes!"
-msgstr ""
+msgstr "[_MB_] Боже, да!"
 
 # game/UpdateScript0.09.rpy:1929 #-#-# translate crowdin NTRLounge2repeat_f3e99e52:
 msgid "[_MB_] Fuck!"
-msgstr ""
+msgstr "[_MB_] Блядь!"
 
 # game/UpdateScript0.09.rpy:1930 #-#-# translate crowdin NTRLounge2repeat_4a1eaa1f:
 msgid "[_RT_] {i}Fuck... I think she likes taking her shorts off to tease me?{/i}"
@@ -2778,11 +2778,11 @@ msgstr "[_L_] [ryan], если вы заболели наблюдать за м�
 
 # game/UpdateScript0.09.rpy:1943 #-#-# translate crowdin NTRLounge2repeat_42dd872d:
 msgid "[_R_] Goddammit, Lauren! I don't need your charity!"
-msgstr ""
+msgstr "[_R_] Чёрт возьми, Лорен! Мне не нужна твоя благотворительность!"
 
 # game/UpdateScript0.09.rpy:1944 #-#-# translate crowdin NTRLounge2repeat_bacdead2:
 msgid "[_L_] Are you sure? You're looking pretty lonely back there."
-msgstr ""
+msgstr "[_L_] Ты уверен? Ты выглядишь довольно одиноким."
 
 # game/UpdateScript0.09.rpy:1945 #-#-# translate crowdin NTRLounge2repeat_c69eea71:
 msgid "[_L_] Don't you want to have just a little taste?"
@@ -2810,19 +2810,19 @@ msgstr "[_RT_] {i}Почему я позволяю моей сестре упр�
 
 # game/UpdateScript0.09.rpy:1956 #-#-# translate crowdin NTRLounge2repeat_56154977:
 msgid "[_LT_] {i}Oh, God... I love that I'm making my brother so desperate that he can't help but eat me out!{/i}"
-msgstr ""
+msgstr "[_LT_] {i}О, Боже... Мне нравится, что я довожу своего брата до такого отчаяния, что он не может удержаться и съедает меня!{/i}"
 
 # game/UpdateScript0.09.rpy:1957 #-#-# translate crowdin NTRLounge2repeat_7062ba0b:
 msgid "{b}{i}\"Lauren's Submission -1\"{/i}{/b}"
-msgstr "{b}{i}\"Отправка Лорана -1\"{/i}{/b}"
+msgstr "{b}{i}\"Отправка Лорен -1\"{/i}{/b}"
 
 # game/UpdateScript0.09.rpy:1963 #-#-# translate crowdin NTRLounge2repeat_bd7b2186:
 msgid "[_L_] Alright Matt... I'm ready to get fucked!"
-msgstr ""
+msgstr "[_L_] Хорошо, Мэтт... Я готов к сексу!"
 
 # game/UpdateScript0.09.rpy:1964 #-#-# translate crowdin NTRLounge2repeat_b44083b4:
 msgid "[_R_] Again?"
-msgstr ""
+msgstr "[_R_] Опять?"
 
 # game/UpdateScript0.09.rpy:1968 #-#-# translate crowdin NTRLounge2repeat_ff3d1c7b:
 msgid "[_R_] Get Matt to lick it."
@@ -2830,7 +2830,7 @@ msgstr "[_R_] Получить Матт, чтобы его выбрать."
 
 # game/UpdateScript0.09.rpy:1969 #-#-# translate crowdin NTRLounge2repeat_d43c7d5a:
 msgid "[_MB_] I don't do that."
-msgstr ""
+msgstr "[_MB_] Я этого не делаю."
 
 # game/UpdateScript0.09.rpy:1970 #-#-# translate crowdin NTRLounge2repeat_2bd1d578:
 msgid "[_LT_] {i}(sarcastically) What a generous lover.{/i}"
@@ -2838,31 +2838,31 @@ msgstr "[_LT_] {i}(произвольно) Какой щедрый любовн�
 
 # game/UpdateScript0.09.rpy:1971 #-#-# translate crowdin NTRLounge2repeat_f09aa40c:
 msgid "[_L_] That's fine... I was only trying to get lubed up so that Matt can more easily fuck my pussy anyways."
-msgstr ""
+msgstr "[_L_] Да ладно... Я просто хотела смазаться, чтобы Мэтту было легче трахать мою киску."
 
 # game/UpdateScript0.09.rpy:1972 #-#-# translate crowdin NTRLounge2repeat_f09e0ed2:
 msgid "[_L_] I think I'm probably wet enough to take Matt's giant cock even without you licking down there."
-msgstr ""
+msgstr "[_L_] Думаю, я достаточно мокрая, чтобы принять огромный член Мэтта, даже без твоего лизания там."
 
 # game/UpdateScript0.09.rpy:1973 #-#-# translate crowdin NTRLounge2repeat_64550904:
 msgid "[_L_] Ready to fuck me, Matt?"
-msgstr ""
+msgstr "[_L_] Готов трахнуть меня, Мэтт?"
 
 # game/UpdateScript0.09.rpy:1974 #-#-# translate crowdin NTRLounge2repeat_b44083b4_1:
 msgid "[_R_] Again?"
-msgstr ""
+msgstr "[_R_] Опять?"
 
 # game/UpdateScript0.09.rpy:1975 #-#-# translate crowdin NTRLounge2repeat_61565384:
 msgid "[_L_] Why do you act so shocked every time?"
-msgstr ""
+msgstr "[_L_] Почему ты каждый раз такой шокированный?"
 
 # game/UpdateScript0.09.rpy:1976 #-#-# translate crowdin NTRLounge2repeat_94d7d8bb:
 msgid "[_L_] Like always, you're free to leave."
-msgstr ""
+msgstr "[_L_] Как всегда, вы можете уйти."
 
 # game/UpdateScript0.09.rpy:1977 #-#-# translate crowdin NTRLounge2repeat_78d8564a:
 msgid "[_LT_] {i}God, I hope he doesn't leave!{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Боже, надеюсь, он не уйдёт!{/i}"
 
 # game/UpdateScript0.09.rpy:1984 #-#-# translate crowdin NTRLounge2repeat_f80007fc:
 msgid "[_L_] Fuck... That's such a huge cock!"
@@ -2870,19 +2870,19 @@ msgstr "[_L_] Хак... Это такой огромный коктейль!"
 
 # game/UpdateScript0.09.rpy:1985 #-#-# translate crowdin NTRLounge2repeat_04c445f2:
 msgid "[_L_] I can't believe how full it makes me feel."
-msgstr ""
+msgstr "[_L_] Не могу поверить, насколько я чувствую себя полным."
 
 # game/UpdateScript0.09.rpy:1986 #-#-# translate crowdin NTRLounge2repeat_cfa01b94:
 msgid "[_L_] Fuuucck!"
-msgstr ""
+msgstr "[_L_] Бляяяяя!"
 
 # game/UpdateScript0.09.rpy:1987 #-#-# translate crowdin NTRLounge2repeat_5269b1b5:
 msgid "[_RT_] {i}Sidney is fucking deaf!{/i}"
-msgstr "[_RT_] {i}Сиднея глухая!{/i}"
+msgstr "[_RT_] {i}Сидни глухая!{/i}"
 
 # game/UpdateScript0.09.rpy:1988 #-#-# translate crowdin NTRLounge2repeat_efa514bc:
 msgid "[_L_] MMMmmm....."
-msgstr ""
+msgstr "[_L_] МММмм....."
 
 # game/UpdateScript0.09.rpy:1989 #-#-# translate crowdin NTRLounge2repeat_8b8a00a3:
 msgid "[_RT_] {i}One day she's gonna look up though.{/i}"
@@ -2890,7 +2890,7 @@ msgstr "[_RT_] {i}Однажды она будет выглядеть.{/i}"
 
 # game/UpdateScript0.09.rpy:1990 #-#-# translate crowdin NTRLounge2repeat_05042197:
 msgid "[_L_] Hhhhnnnggghhhh..."
-msgstr ""
+msgstr "[_L_] Ххххнннннггххх..."
 
 # game/UpdateScript0.09.rpy:1993 #-#-# translate crowdin NTRLounge2repeat_f94fd91a:
 msgid "[_RT_] {i}Fucking shut up!... The least you can do is pretend you don't love it!{/i}"
@@ -2918,7 +2918,7 @@ msgstr "[_LT_] {i}Но он мне не заслуживает.{/i}"
 
 # game/UpdateScript0.09.rpy:2003 #-#-# translate crowdin NTRLounge2repeat_952f6e01:
 msgid "[_LT_] {i}Matt's huge cock can't be good for my insides.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Огромный член Мэтта вряд ли пойдёт на пользу моим внутренностям.{/i}"
 
 # game/UpdateScript0.09.rpy:2004 #-#-# translate crowdin NTRLounge2repeat_14ce7b0c:
 msgid "[_LT_] {i}It's so big, it does hit my clit pretty damn good though.{/i}"
@@ -2938,15 +2938,15 @@ msgstr "[_L_] Ffffuuuuuck!..."
 
 # game/UpdateScript0.09.rpy:2013 #-#-# translate crowdin NTRLounge2repeat_78fb9c66:
 msgid "[_L_] Mmmmmmmmm..."
-msgstr ""
+msgstr "[_L_] Ммммммм..."
 
 # game/UpdateScript0.09.rpy:2018 #-#-# translate crowdin NTRLounge2repeat_b8e3c35a:
 msgid "[_MB_] Oh yeah, Lauren, I'm about to explode!"
-msgstr ""
+msgstr "[_MB_] О да, Лорен, я сейчас взорвусь!"
 
 # game/UpdateScript0.09.rpy:2019 #-#-# translate crowdin NTRLounge2repeat_3afddf80:
 msgid "[_L_] Yes!... Fill my pussy!"
-msgstr ""
+msgstr "[_L_] Да!... Заполни мою киску!"
 
 # game/UpdateScript0.09.rpy:2020 #-#-# translate crowdin NTRLounge2repeat_4881927b:
 msgid "[_R_] What?"
@@ -2954,7 +2954,7 @@ msgstr "[ _R_] Что?"
 
 # game/UpdateScript0.09.rpy:2021 #-#-# translate crowdin NTRLounge2repeat_39b90e17:
 msgid "[_R_] Not again!..."
-msgstr ""
+msgstr "[_R_] Опять!..."
 
 # game/UpdateScript0.09.rpy:2026 #-#-# translate crowdin NTRLounge2repeat_1c9e068c:
 msgid "{b}{i}\"Matt's cum loads in Lauren's pussy +1\"{/i}{/b}"
@@ -2970,7 +2970,7 @@ msgstr "[_L_] Ого!... Посмотрите, сколько вырываетс
 
 # game/UpdateScript0.09.rpy:2034 #-#-# translate crowdin NTRLounge2repeat_e02bf560:
 msgid "[_L_] You filled my womb again!"
-msgstr ""
+msgstr "[_L_] Ты снова наполнил мою утробу!"
 
 # game/UpdateScript0.09.rpy:2035 #-#-# translate crowdin NTRLounge2repeat_2281aaf4:
 msgid "[_MB_] Please tell me you've started on birth control!"
@@ -2978,7 +2978,7 @@ msgstr "[_MB_] Пожалуйста, скажите, что вы начали с
 
 # game/UpdateScript0.09.rpy:2036 #-#-# translate crowdin NTRLounge2repeat_c74404ea:
 msgid "[_L_] Uhh... Not yet."
-msgstr ""
+msgstr "[_L_] Ух... Пока нет."
 
 # game/UpdateScript0.09.rpy:2037 #-#-# translate crowdin NTRLounge2repeat_5b127ef0:
 msgid "[_R_] What the fuck, Lauren? I can't believe you're not pregnant yet."
@@ -2990,15 +2990,15 @@ msgstr "[_L_] Нось!... Вы не ответственны за мое тел
 
 # game/UpdateScript0.09.rpy:2041 #-#-# translate crowdin NTRLounge2repeat_29b0af37:
 msgid "[_MB_] I still agree with your brother on this though."
-msgstr ""
+msgstr "[_MB_] Хотя в этом я все равно согласен с твоим братом."
 
 # game/UpdateScript0.09.rpy:2042 #-#-# translate crowdin NTRLounge2repeat_8037b9cf:
 msgid "[_L_] I'm not an idiot!... I know I can't afford to get pregnant."
-msgstr ""
+msgstr "[_L_] Я не идиот!... Я знаю, что не могу позволить себе забеременеть."
 
 # game/UpdateScript0.09.rpy:2043 #-#-# translate crowdin NTRLounge2repeat_a42b0424:
 msgid "[_LT_] {i}Though the thought of his swimmers knocking me up still turns me on.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Хотя мысль о том, что его пловцы могут меня обрюхатить, всё ещё меня возбуждает.{/i}"
 
 # game/UpdateScript0.09.rpy:2044 #-#-# translate crowdin NTRLounge2repeat_7d0dc49c:
 msgid "[_L_] I'll go get some \"Plan B\" birth control tomorrow."
@@ -3006,11 +3006,11 @@ msgstr "[_L_] Я пойду завтра получить некоторое п�
 
 # game/UpdateScript0.09.rpy:2045 #-#-# translate crowdin NTRLounge2repeat_e305b87c:
 msgid "[_R_] You'd better not forget!"
-msgstr ""
+msgstr "[_R_] Лучше не забывать!"
 
 # game/UpdateScript0.09.rpy:2046 #-#-# translate crowdin NTRLounge2repeat_08f92bc4:
 msgid "[_LT_] {i}I always forget... I wonder why I'm not pregnant yet... Maybe Matt's destroyed my womb with his huge cock... Or maybe his swimmers arent very strong.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Я всегда забываю... Интересно, почему я ещё не беременна... Может быть, Мэтт уничтожил мою матку своим огромным членом... Или, может быть, у него не очень сильные пловцы.{/i}"
 
 # game/UpdateScript0.09.rpy:2052 #-#-# translate crowdin NTRLounge2repeat_c751b2de:
 msgid "[_L_] When I wiggle, I can feel your cum sloshing around in my womb."
@@ -3018,7 +3018,7 @@ msgstr "[_L_] Когда я ведьму, я чувствую себя в мое
 
 # game/UpdateScript0.09.rpy:2053 #-#-# translate crowdin NTRLounge2repeat_a0a660ba:
 msgid "[_R_] God, Lauren, I'm still here."
-msgstr ""
+msgstr "[_R_] Боже, Лорен, я все еще здесь."
 
 # game/UpdateScript0.09.rpy:2056 #-#-# translate crowdin NTRLounge2repeat_fd52ab4b:
 msgid "[_MT_] {i}What a refreshing shower.{/i}"
@@ -3026,23 +3026,23 @@ msgstr "[_MT_] {i}Какой душ освежающий.{/i}"
 
 # game/UpdateScript0.09.rpy:2059 #-#-# translate crowdin NTRLounge2repeat_ab2a6553:
 msgid "[_MT_] {i}Oh, good!... Matt's here again.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}О, хорошо!... Мэтт снова здесь.{/i}"
 
 # game/UpdateScript0.09.rpy:2062 #-#-# translate crowdin NTRLounge2repeat_9acb0db7:
 msgid "[_MT_] {i}He seemed to enjoy the show I gave him on his last visit. Maybe I should make his evening again?{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Кажется, ему понравилось шоу, которое я ему устроил в последний визит. Может, мне стоит снова сделать его вечер?{/i}"
 
 # game/UpdateScript0.09.rpy:2065 #-#-# translate crowdin NTRLounge2repeat_14a9344e:
 msgid "[_M_] Matt... I'm sorry you've caught me in my towel again, it's just that I always shower in the evenings."
-msgstr ""
+msgstr "[_M_] Мэтт... Извини, что ты снова застал меня в полотенце, просто я всегда принимаю душ по вечерам."
 
 # game/UpdateScript0.09.rpy:2066 #-#-# translate crowdin NTRLounge2repeat_07a4384e:
 msgid "[_M_] That's not why you always visit in the evenings is it?"
-msgstr ""
+msgstr "[_M_] Ты ведь не поэтому всегда приходишь сюда по вечерам, не так ли?"
 
 # game/UpdateScript0.09.rpy:2067 #-#-# translate crowdin NTRLounge2repeat_87f8d8ef:
 msgid "[_L_] Mooomm!"
-msgstr ""
+msgstr "[_L_] Ммм!"
 
 # game/UpdateScript0.09.rpy:2068 #-#-# translate crowdin NTRLounge2repeat_860d1071:
 msgid "[_MB_] {i}(muttering) {/i}Wow!"
@@ -3050,7 +3050,7 @@ msgstr "[_MB_] {i}(muttering) {/i}Wow!"
 
 # game/UpdateScript0.09.rpy:2069 #-#-# translate crowdin NTRLounge2repeat_6cda73f4:
 msgid "[_MB_] I mean... I... I always feel lucky when I get to see more of you, Miss [mom_name]"
-msgstr ""
+msgstr "[_MB_] Я имею в виду... Я... Я всегда чувствую себя счастливчиком, когда вижу вас чаще, мисс [mom_name]"
 
 # game/UpdateScript0.09.rpy:2073 #-#-# translate crowdin NTRLounge2repeat_35fc49dd:
 msgid "[_RT_] {i}Mom's towel is slipping down again!{/i}"
@@ -3058,7 +3058,7 @@ msgstr "[_RT_] Полотенце мамы {i}снова подскользну�
 
 # game/UpdateScript0.09.rpy:2074 #-#-# translate crowdin NTRLounge2repeat_f1663bee:
 msgid "[_RT_] {i}Once could be an accident, but any more than that is on purpose.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Один раз это может быть случайностью, но больше — намеренно.{/i}"
 
 # game/UpdateScript0.09.rpy:2075 #-#-# translate crowdin NTRLounge2repeat_3f23c426:
 msgid "[_RT_] {i}She must be feeling pretty lonely without Dad... I've just got to figure out how to use that to my advantage, and not fucking Matt's.{/i}"
@@ -3066,31 +3066,31 @@ msgstr "[_RT_] {i}Она должна чувствовать себя одино
 
 # game/UpdateScript0.09.rpy:2076 #-#-# translate crowdin NTRLounge2repeat_81886070:
 msgid "[_R_] Mom!... Your towel!... Pull it up!"
-msgstr ""
+msgstr "[_R_] Мама!... Твое полотенце!... Подними его!"
 
 # game/UpdateScript0.09.rpy:2079 #-#-# translate crowdin NTRLounge2repeat_6314bcf0:
 msgid "[_M_] Oh, my goodness!... What is wrong with our towels?!"
-msgstr ""
+msgstr "[_M_] О, боже мой!... Что не так с нашими полотенцами?!"
 
 # game/UpdateScript0.09.rpy:2080 #-#-# translate crowdin NTRLounge2repeat_dd5f973e:
 msgid "[_M_] I'm so sorry!"
-msgstr ""
+msgstr "[_M_] Мне очень жаль!"
 
 # game/UpdateScript0.09.rpy:2081 #-#-# translate crowdin NTRLounge2repeat_24c8d756:
 msgid "[_L_] Again?... Geez, Mom!"
-msgstr ""
+msgstr "[_L_] Опять?... Боже, мама!"
 
 # game/UpdateScript0.09.rpy:2082 #-#-# translate crowdin NTRLounge2repeat_ef833f01:
 msgid "[_M_] I said I'm sorry!"
-msgstr ""
+msgstr "[_M_] Я сказал, что мне жаль!"
 
 # game/UpdateScript0.09.rpy:2083 #-#-# translate crowdin NTRLounge2repeat_155c80cc:
 msgid "[_MB_] No, don't worry about it... I didn't even notice. As always, I was only looking at your beautiful eyes."
-msgstr ""
+msgstr "[_MB_] Нет, не волнуйся... Я даже не заметил. Как всегда, я просто смотрел на твои прекрасные глаза."
 
 # game/UpdateScript0.09.rpy:2086 #-#-# translate crowdin NTRLounge2repeat_69188156:
 msgid "[_MT_] {i}Haha... Just like last time, he couldn't keep his eyes off my breasts.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Ха-ха... Как и в прошлый раз, он не мог отвести взгляд от моей груди.{/i}"
 
 # game/UpdateScript0.09.rpy:2087 #-#-# translate crowdin NTRLounge2repeat_f63a40ca:
 msgid "[_MT_] {i}Fuck... I'm getting wet thinking about Matt looking at my nipples.{/i}"
@@ -3106,27 +3106,27 @@ msgstr "[_MT_] {i}повезет!... Мне нужно выйти... Я даже
 
 # game/UpdateScript0.09.rpy:2091 #-#-# translate crowdin NTRLounge2repeat_4b839dc2:
 msgid "[_L_] God, Mom!... Why are you still just standing there!"
-msgstr ""
+msgstr "[_L_] Боже, мама!... Почему ты всё ещё стоишь там!"
 
 # game/UpdateScript0.09.rpy:2092 #-#-# translate crowdin NTRLounge2repeat_4f9a3983:
 msgid "[_L_] Why do you keep trying to hang out with us in nothing but your towel... You're embarrassing me."
-msgstr ""
+msgstr "[_L_] Почему ты продолжаешь тусоваться с нами в одном полотенце... Ты меня позоришь."
 
 # game/UpdateScript0.09.rpy:2093 #-#-# translate crowdin NTRLounge2repeat_b91c90db:
 msgid "[_MB_] Really, I don't mind!"
-msgstr ""
+msgstr "[_MB_] Мне, правда, всё равно!"
 
 # game/UpdateScript0.09.rpy:2094 #-#-# translate crowdin NTRLounge2repeat_cc9e476d:
 msgid "[_LT_] {i}(sarcastically) Real subtle, Matt... I'd break up with him today, but then how would I make [ryan] jealous?{/i}"
-msgstr ""
+msgstr "[_LT_] {i}(с сарказмом) Очень тонко, Мэтт... Я бы рассталась с ним сегодня, но как тогда заставить [ryan] ревновать?{/i}"
 
 # game/UpdateScript0.09.rpy:2095 #-#-# translate crowdin NTRLounge2repeat_71c7976a:
 msgid "[_M_] You're right... I'd better run."
-msgstr ""
+msgstr "[_M_] Ты прав... Мне лучше бежать."
 
 # game/UpdateScript0.09.rpy:2096 #-#-# translate crowdin NTRLounge2repeat_eca9408e:
 msgid "[_R_] Yeah, I'm out of here too."
-msgstr ""
+msgstr "[_R_] Да, я тоже ухожу отсюда."
 
 # game/UpdateScript0.09.rpy:2101 #-#-# translate crowdin NTRLounge2repeat_d5fe3a0d:
 msgid "[_RT_] {i}I don't feel like dealing with them tonight. Lauren keeps trying to get to me by acting like a slut whenever Matt's around.{/i}"
@@ -3454,7 +3454,7 @@ msgstr "[ _M_] Лорен сейчас взрослый, и нравится е�
 
 # game/UpdateScript0.09.rpy:2221 #-#-# translate crowdin NTRLounge2repeat_20e43209:
 msgid "[_R_] But!..."
-msgstr ""
+msgstr "[_R_] Но!..."
 
 # game/UpdateScript0.09.rpy:2222 #-#-# translate crowdin NTRLounge2repeat_b4731a02:
 msgid "[_S_] He probably thinks they should only hold hands till they're married, or something."
@@ -3510,7 +3510,7 @@ msgstr "[ _M_] Управляй, молодой человек!"
 
 # game/UpdateScript0.09.rpy:2241 #-#-# translate crowdin NTRLounge2repeat_20e43209_1:
 msgid "[_R_] But!..."
-msgstr ""
+msgstr "[_R_] Но!..."
 
 # game/UpdateScript0.09.rpy:2242 #-#-# translate crowdin NTRLounge2repeat_364db3df:
 msgid "[_M_] No, you will give your sister and her boyfriend some privacy. Go watch TV or something, or better yet, go to your room and do some studying. God knows you need it."
@@ -3830,7 +3830,7 @@ msgstr "[_RT_] {i}назад Мат?{/i}"
 
 # game/UpdateScript0.09.rpy:2409 #-#-# translate crowdin NTRLounge2repeat_3989b221_1:
 msgid "[_RT_] {i}I guess I was naïve to think that Lauren was going to just move on.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Наверное, я был наивен, думая, что Лорен просто так уйдёт.{/i}"
 
 # game/UpdateScript0.09.rpy:2410 #-#-# translate crowdin NTRLounge2repeat_62d45b6d_1:
 msgid "[_RT_] {i}I just can't believe Lauren's completely replaced me as her \"Game of Thots\" buddy.{/i}"
@@ -3846,19 +3846,19 @@ msgstr "[_R_] Вы не меня снова просматриваете \"Иг�
 
 # game/UpdateScript0.09.rpy:2417 #-#-# translate crowdin NTRLounge2repeat_8781009a_1:
 msgid "[_L_] Oh hey, [ryan]."
-msgstr ""
+msgstr "[_L_] О, привет, [ryan]."
 
 # game/UpdateScript0.09.rpy:2418 #-#-# translate crowdin NTRLounge2repeat_d1753ba4_1:
 msgid "[_L_] Yeah, don't worry... We're still not caught up to where we left off."
-msgstr ""
+msgstr "[_L_] Да, не волнуйтесь... Мы всё ещё не вернулись к тому, на чём остановились."
 
 # game/UpdateScript0.09.rpy:2419 #-#-# translate crowdin NTRLounge2repeat_8c9e201a_1:
 msgid "[_MB_] Hoping to join us for another Netfucks and chill session?"
-msgstr ""
+msgstr "[_MB_] Надеетесь присоединиться к нам для еще одной сессии Netfucks и отдыха?"
 
 # game/UpdateScript0.09.rpy:2420 #-#-# translate crowdin NTRLounge2repeat_f5ca046f_1:
 msgid "[_R_] I'm not here to join you... Just like last time, I'm hoping to prevent it."
-msgstr ""
+msgstr "[_R_] Я здесь не для того, чтобы присоединиться к вам... Как и в прошлый раз, я надеюсь предотвратить это."
 
 # game/UpdateScript0.09.rpy:2421 #-#-# translate crowdin NTRLounge2repeat_52167aa2_1:
 msgid "[_LT_] {i}You fucking idiot!... You being here only ensures that we're going to fool around.{/i}"
@@ -3874,7 +3874,7 @@ msgstr "[_LT_] {i}Если он хочет остановить это, он п�
 
 # game/UpdateScript0.09.rpy:2424 #-#-# translate crowdin NTRLounge2repeat_399e4af4_1:
 msgid "[_MB_] Fat chance of that!... Your sister doesn't seem to ever get enough of my dark meat."
-msgstr ""
+msgstr "[_MB_] Маловероятно! Твоя сестра, похоже, никогда не насыщается моим темным мясом."
 
 # game/UpdateScript0.09.rpy:2427 #-#-# translate crowdin NTRLounge2repeat_eb0ce2fa_1:
 msgid "[_RT_] {i}Hopefully my presence will start to dull their libidos.{/i}"
@@ -3902,15 +3902,15 @@ msgstr "[_LT_] {i}Интересно, что ему нравится смотр�
 
 # game/UpdateScript0.09.rpy:2443 #-#-# translate crowdin NTRLounge2repeat_3f118d29_1:
 msgid "[_L_] Mmmmm... Now I'm gonna give you the full Cersie Slannister treatment."
-msgstr ""
+msgstr "[_L_] Ммммм... А теперь я покажу тебе всю прелесть Серси Сланнистер."
 
 # game/UpdateScript0.09.rpy:2444 #-#-# translate crowdin NTRLounge2repeat_c46fe4ce_1:
 msgid "[_MB_] God, yes!"
-msgstr ""
+msgstr "[_MB_] Боже, да!"
 
 # game/UpdateScript0.09.rpy:2450 #-#-# translate crowdin NTRLounge2repeat_f3e99e52_1:
 msgid "[_MB_] Fuck!"
-msgstr ""
+msgstr "[_MB_] Блядь!"
 
 # game/UpdateScript0.09.rpy:2451 #-#-# translate crowdin NTRLounge2repeat_4a1eaa1f_1:
 msgid "[_RT_] {i}Fuck... I think she likes taking her shorts off to tease me?{/i}"
@@ -3934,11 +3934,11 @@ msgstr "[_L_] [ryan], если вы заболели наблюдать за м�
 
 # game/UpdateScript0.09.rpy:2464 #-#-# translate crowdin NTRLounge2repeat_42dd872d_1:
 msgid "[_R_] Goddammit, Lauren! I don't need your charity!"
-msgstr ""
+msgstr "[_R_] Чёрт возьми, Лорен! Мне не нужна твоя благотворительность!"
 
 # game/UpdateScript0.09.rpy:2465 #-#-# translate crowdin NTRLounge2repeat_bacdead2_1:
 msgid "[_L_] Are you sure? You're looking pretty lonely back there."
-msgstr ""
+msgstr "[_L_] Ты уверен? Ты выглядишь довольно одиноким."
 
 # game/UpdateScript0.09.rpy:2466 #-#-# translate crowdin NTRLounge2repeat_c69eea71_1:
 msgid "[_L_] Don't you want to have just a little taste?"
@@ -3966,19 +3966,19 @@ msgstr "[_RT_] {i}Почему я позволяю моей сестре упр�
 
 # game/UpdateScript0.09.rpy:2477 #-#-# translate crowdin NTRLounge2repeat_56154977_1:
 msgid "[_LT_] {i}Oh, God... I love that I'm making my brother so desperate that he can't help but eat me out!{/i}"
-msgstr ""
+msgstr "[_LT_] {i}О, Боже... Мне нравится, что я довожу своего брата до такого отчаяния, что он не может удержаться и съедает меня!{/i}"
 
 # game/UpdateScript0.09.rpy:2478 #-#-# translate crowdin NTRLounge2repeat_7062ba0b_1:
 msgid "{b}{i}\"Lauren's Submission -1\"{/i}{/b}"
-msgstr "{b}{i}\"Отправка Лорана -1\"{/i}{/b}"
+msgstr "{b}{i}\"Отправка Лорен -1\"{/i}{/b}"
 
 # game/UpdateScript0.09.rpy:2484 #-#-# translate crowdin NTRLounge2repeat_bd7b2186_1:
 msgid "[_L_] Alright Matt... I'm ready to get fucked!"
-msgstr ""
+msgstr "[_L_] Хорошо, Мэтт... Я готов к сексу!"
 
 # game/UpdateScript0.09.rpy:2485 #-#-# translate crowdin NTRLounge2repeat_b44083b4_2:
 msgid "[_R_] Again?"
-msgstr ""
+msgstr "[_R_] Опять?"
 
 # game/UpdateScript0.09.rpy:2489 #-#-# translate crowdin NTRLounge2repeat_ff3d1c7b_1:
 msgid "[_R_] Get Matt to lick it."
@@ -3986,7 +3986,7 @@ msgstr "[_R_] Получить Матт, чтобы его выбрать."
 
 # game/UpdateScript0.09.rpy:2490 #-#-# translate crowdin NTRLounge2repeat_d43c7d5a_1:
 msgid "[_MB_] I don't do that."
-msgstr ""
+msgstr "[_MB_] Я этого не делаю."
 
 # game/UpdateScript0.09.rpy:2491 #-#-# translate crowdin NTRLounge2repeat_2bd1d578_1:
 msgid "[_LT_] {i}(sarcastically) What a generous lover.{/i}"
@@ -3994,31 +3994,31 @@ msgstr "[_LT_] {i}(произвольно) Какой щедрый любовн�
 
 # game/UpdateScript0.09.rpy:2492 #-#-# translate crowdin NTRLounge2repeat_f09aa40c_1:
 msgid "[_L_] That's fine... I was only trying to get lubed up so that Matt can more easily fuck my pussy anyways."
-msgstr ""
+msgstr "[_L_] Да ладно... Я просто хотела смазаться, чтобы Мэтту было легче трахать мою киску."
 
 # game/UpdateScript0.09.rpy:2493 #-#-# translate crowdin NTRLounge2repeat_f09e0ed2_1:
 msgid "[_L_] I think I'm probably wet enough to take Matt's giant cock even without you licking down there."
-msgstr ""
+msgstr "[_L_] Думаю, я достаточно мокрая, чтобы принять огромный член Мэтта, даже без твоего лизания там."
 
 # game/UpdateScript0.09.rpy:2494 #-#-# translate crowdin NTRLounge2repeat_64550904_1:
 msgid "[_L_] Ready to fuck me, Matt?"
-msgstr ""
+msgstr "[_L_] Готов трахнуть меня, Мэтт?"
 
 # game/UpdateScript0.09.rpy:2495 #-#-# translate crowdin NTRLounge2repeat_b44083b4_3:
 msgid "[_R_] Again?"
-msgstr ""
+msgstr "[_R_] Опять?"
 
 # game/UpdateScript0.09.rpy:2496 #-#-# translate crowdin NTRLounge2repeat_61565384_1:
 msgid "[_L_] Why do you act so shocked every time?"
-msgstr ""
+msgstr "[_L_] Почему ты каждый раз такой шокированный?"
 
 # game/UpdateScript0.09.rpy:2497 #-#-# translate crowdin NTRLounge2repeat_94d7d8bb_1:
 msgid "[_L_] Like always, you're free to leave."
-msgstr ""
+msgstr "[_L_] Как всегда, вы можете уйти."
 
 # game/UpdateScript0.09.rpy:2498 #-#-# translate crowdin NTRLounge2repeat_78d8564a_1:
 msgid "[_LT_] {i}God, I hope he doesn't leave!{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Боже, надеюсь, он не уйдёт!{/i}"
 
 # game/UpdateScript0.09.rpy:2505 #-#-# translate crowdin NTRLounge2repeat_f80007fc_1:
 msgid "[_L_] Fuck... That's such a huge cock!"
@@ -4026,19 +4026,19 @@ msgstr "[_L_] Хак... Это такой огромный коктейль!"
 
 # game/UpdateScript0.09.rpy:2506 #-#-# translate crowdin NTRLounge2repeat_04c445f2_1:
 msgid "[_L_] I can't believe how full it makes me feel."
-msgstr ""
+msgstr "[_L_] Не могу поверить, насколько я чувствую себя полным."
 
 # game/UpdateScript0.09.rpy:2507 #-#-# translate crowdin NTRLounge2repeat_cfa01b94_1:
 msgid "[_L_] Fuuucck!"
-msgstr ""
+msgstr "[_L_] Бляяяяя!"
 
 # game/UpdateScript0.09.rpy:2508 #-#-# translate crowdin NTRLounge2repeat_5269b1b5_1:
 msgid "[_RT_] {i}Sidney is fucking deaf!{/i}"
-msgstr "[_RT_] {i}Сиднея глухая!{/i}"
+msgstr "[_RT_] {i}Сидни глухая!{/i}"
 
 # game/UpdateScript0.09.rpy:2509 #-#-# translate crowdin NTRLounge2repeat_efa514bc_1:
 msgid "[_L_] MMMmmm....."
-msgstr ""
+msgstr "[_L_] МММмм....."
 
 # game/UpdateScript0.09.rpy:2510 #-#-# translate crowdin NTRLounge2repeat_8b8a00a3_1:
 msgid "[_RT_] {i}One day she's gonna look up though.{/i}"
@@ -4046,7 +4046,7 @@ msgstr "[_RT_] {i}Однажды она будет выглядеть.{/i}"
 
 # game/UpdateScript0.09.rpy:2511 #-#-# translate crowdin NTRLounge2repeat_05042197_1:
 msgid "[_L_] Hhhhnnnggghhhh..."
-msgstr ""
+msgstr "[_L_] Ххххнннннггххх..."
 
 # game/UpdateScript0.09.rpy:2514 #-#-# translate crowdin NTRLounge2repeat_f94fd91a_1:
 msgid "[_RT_] {i}Fucking shut up!... The least you can do is pretend you don't love it!{/i}"
@@ -4074,7 +4074,7 @@ msgstr "[_LT_] {i}Но он мне не заслуживает.{/i}"
 
 # game/UpdateScript0.09.rpy:2524 #-#-# translate crowdin NTRLounge2repeat_952f6e01_1:
 msgid "[_LT_] {i}Matt's huge cock can't be good for my insides.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Огромный член Мэтта вряд ли пойдёт на пользу моим внутренностям.{/i}"
 
 # game/UpdateScript0.09.rpy:2525 #-#-# translate crowdin NTRLounge2repeat_14ce7b0c_1:
 msgid "[_LT_] {i}It's so big, it does hit my clit pretty damn good though.{/i}"
@@ -4094,15 +4094,15 @@ msgstr "[_L_] Ffffuuuuuck!..."
 
 # game/UpdateScript0.09.rpy:2534 #-#-# translate crowdin NTRLounge2repeat_78fb9c66_1:
 msgid "[_L_] Mmmmmmmmm..."
-msgstr ""
+msgstr "[_L_] Ммммммм..."
 
 # game/UpdateScript0.09.rpy:2539 #-#-# translate crowdin NTRLounge2repeat_b8e3c35a_1:
 msgid "[_MB_] Oh yeah, Lauren, I'm about to explode!"
-msgstr ""
+msgstr "[_MB_] О да, Лорен, я сейчас взорвусь!"
 
 # game/UpdateScript0.09.rpy:2540 #-#-# translate crowdin NTRLounge2repeat_3afddf80_1:
 msgid "[_L_] Yes!... Fill my pussy!"
-msgstr ""
+msgstr "[_L_] Да!... Заполни мою киску!"
 
 # game/UpdateScript0.09.rpy:2541 #-#-# translate crowdin NTRLounge2repeat_4881927b_1:
 msgid "[_R_] What?"
@@ -4110,7 +4110,7 @@ msgstr "[ _R_] Что?"
 
 # game/UpdateScript0.09.rpy:2542 #-#-# translate crowdin NTRLounge2repeat_39b90e17_1:
 msgid "[_R_] Not again!..."
-msgstr ""
+msgstr "[_R_] Опять!..."
 
 # game/UpdateScript0.09.rpy:2547 #-#-# translate crowdin NTRLounge2repeat_1c9e068c_1:
 msgid "{b}{i}\"Matt's cum loads in Lauren's pussy +1\"{/i}{/b}"
@@ -4126,7 +4126,7 @@ msgstr "[_L_] Ого!... Посмотрите, сколько вырываетс
 
 # game/UpdateScript0.09.rpy:2555 #-#-# translate crowdin NTRLounge2repeat_e02bf560_1:
 msgid "[_L_] You filled my womb again!"
-msgstr ""
+msgstr "[_L_] Ты снова наполнил мою утробу!"
 
 # game/UpdateScript0.09.rpy:2556 #-#-# translate crowdin NTRLounge2repeat_2281aaf4_1:
 msgid "[_MB_] Please tell me you've started on birth control!"
@@ -4134,7 +4134,7 @@ msgstr "[_MB_] Пожалуйста, скажите, что вы начали с
 
 # game/UpdateScript0.09.rpy:2557 #-#-# translate crowdin NTRLounge2repeat_c74404ea_1:
 msgid "[_L_] Uhh... Not yet."
-msgstr ""
+msgstr "[_L_] Ух... Пока нет."
 
 # game/UpdateScript0.09.rpy:2558 #-#-# translate crowdin NTRLounge2repeat_5b127ef0_1:
 msgid "[_R_] What the fuck, Lauren? I can't believe you're not pregnant yet."
@@ -4146,15 +4146,15 @@ msgstr "[_L_] Нось!... Вы не ответственны за мое тел
 
 # game/UpdateScript0.09.rpy:2562 #-#-# translate crowdin NTRLounge2repeat_29b0af37_1:
 msgid "[_MB_] I still agree with your brother on this though."
-msgstr ""
+msgstr "[_MB_] Хотя в этом я все равно согласен с твоим братом."
 
 # game/UpdateScript0.09.rpy:2563 #-#-# translate crowdin NTRLounge2repeat_8037b9cf_1:
 msgid "[_L_] I'm not an idiot!... I know I can't afford to get pregnant."
-msgstr ""
+msgstr "[_L_] Я не идиот!... Я знаю, что не могу позволить себе забеременеть."
 
 # game/UpdateScript0.09.rpy:2564 #-#-# translate crowdin NTRLounge2repeat_a42b0424_1:
 msgid "[_LT_] {i}Though the thought of his swimmers knocking me up still turns me on.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Хотя мысль о том, что его пловцы могут меня обрюхатить, всё ещё меня возбуждает.{/i}"
 
 # game/UpdateScript0.09.rpy:2565 #-#-# translate crowdin NTRLounge2repeat_7d0dc49c_1:
 msgid "[_L_] I'll go get some \"Plan B\" birth control tomorrow."
@@ -4162,11 +4162,11 @@ msgstr "[_L_] Я пойду завтра получить некоторое п�
 
 # game/UpdateScript0.09.rpy:2566 #-#-# translate crowdin NTRLounge2repeat_e305b87c_1:
 msgid "[_R_] You'd better not forget!"
-msgstr ""
+msgstr "[_R_] Лучше не забывать!"
 
 # game/UpdateScript0.09.rpy:2567 #-#-# translate crowdin NTRLounge2repeat_08f92bc4_1:
 msgid "[_LT_] {i}I always forget... I wonder why I'm not pregnant yet... Maybe Matt's destroyed my womb with his huge cock... Or maybe his swimmers arent very strong.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Я всегда забываю... Интересно, почему я ещё не беременна... Может быть, Мэтт уничтожил мою матку своим огромным членом... Или, может быть, у него не очень сильные пловцы.{/i}"
 
 # game/UpdateScript0.09.rpy:2573 #-#-# translate crowdin NTRLounge2repeat_c751b2de_1:
 msgid "[_L_] When I wiggle, I can feel your cum sloshing around in my womb."
@@ -4174,7 +4174,7 @@ msgstr "[_L_] Когда я ведьму, я чувствую себя в мое
 
 # game/UpdateScript0.09.rpy:2574 #-#-# translate crowdin NTRLounge2repeat_a0a660ba_1:
 msgid "[_R_] God, Lauren, I'm still here."
-msgstr ""
+msgstr "[_R_] Боже, Лорен, я все еще здесь."
 
 # game/UpdateScript0.09.rpy:2577 #-#-# translate crowdin NTRLounge2repeat_fd52ab4b_1:
 msgid "[_MT_] {i}What a refreshing shower.{/i}"
@@ -4182,23 +4182,23 @@ msgstr "[_MT_] {i}Какой душ освежающий.{/i}"
 
 # game/UpdateScript0.09.rpy:2580 #-#-# translate crowdin NTRLounge2repeat_ab2a6553_1:
 msgid "[_MT_] {i}Oh, good!... Matt's here again.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}О, хорошо!... Мэтт снова здесь.{/i}"
 
 # game/UpdateScript0.09.rpy:2583 #-#-# translate crowdin NTRLounge2repeat_9acb0db7_1:
 msgid "[_MT_] {i}He seemed to enjoy the show I gave him on his last visit. Maybe I should make his evening again?{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Кажется, ему понравилось шоу, которое я ему устроил в последний визит. Может, мне стоит снова сделать его вечер?{/i}"
 
 # game/UpdateScript0.09.rpy:2586 #-#-# translate crowdin NTRLounge2repeat_14a9344e_1:
 msgid "[_M_] Matt... I'm sorry you've caught me in my towel again, it's just that I always shower in the evenings."
-msgstr ""
+msgstr "[_M_] Мэтт... Извини, что ты снова застал меня в полотенце, просто я всегда принимаю душ по вечерам."
 
 # game/UpdateScript0.09.rpy:2587 #-#-# translate crowdin NTRLounge2repeat_07a4384e_1:
 msgid "[_M_] That's not why you always visit in the evenings is it?"
-msgstr ""
+msgstr "[_M_] Ты ведь не поэтому всегда приходишь сюда по вечерам, не так ли?"
 
 # game/UpdateScript0.09.rpy:2588 #-#-# translate crowdin NTRLounge2repeat_87f8d8ef_1:
 msgid "[_L_] Mooomm!"
-msgstr ""
+msgstr "[_L_] Ммм!"
 
 # game/UpdateScript0.09.rpy:2589 #-#-# translate crowdin NTRLounge2repeat_860d1071_1:
 msgid "[_MB_] {i}(muttering) {/i}Wow!"
@@ -4206,7 +4206,7 @@ msgstr "[_MB_] {i}(muttering) {/i}Wow!"
 
 # game/UpdateScript0.09.rpy:2590 #-#-# translate crowdin NTRLounge2repeat_6cda73f4_1:
 msgid "[_MB_] I mean... I... I always feel lucky when I get to see more of you, Miss [mom_name]"
-msgstr ""
+msgstr "[_MB_] Я имею в виду... Я... Я всегда чувствую себя счастливчиком, когда вижу вас чаще, мисс [mom_name]"
 
 # game/UpdateScript0.09.rpy:2594 #-#-# translate crowdin NTRLounge2repeat_35fc49dd_1:
 msgid "[_RT_] {i}Mom's towel is slipping down again!{/i}"
@@ -4214,7 +4214,7 @@ msgstr "[_RT_] Полотенце мамы {i}снова подскользну�
 
 # game/UpdateScript0.09.rpy:2595 #-#-# translate crowdin NTRLounge2repeat_f1663bee_1:
 msgid "[_RT_] {i}Once could be an accident, but any more than that is on purpose.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Один раз это может быть случайностью, но больше — намеренно.{/i}"
 
 # game/UpdateScript0.09.rpy:2596 #-#-# translate crowdin NTRLounge2repeat_3f23c426_1:
 msgid "[_RT_] {i}She must be feeling pretty lonely without Dad... I've just got to figure out how to use that to my advantage, and not fucking Matt's.{/i}"
@@ -4222,31 +4222,31 @@ msgstr "[_RT_] {i}Она должна чувствовать себя одино
 
 # game/UpdateScript0.09.rpy:2597 #-#-# translate crowdin NTRLounge2repeat_81886070_1:
 msgid "[_R_] Mom!... Your towel!... Pull it up!"
-msgstr ""
+msgstr "[_R_] Мама!... Твое полотенце!... Подними его!"
 
 # game/UpdateScript0.09.rpy:2600 #-#-# translate crowdin NTRLounge2repeat_6314bcf0_1:
 msgid "[_M_] Oh, my goodness!... What is wrong with our towels?!"
-msgstr ""
+msgstr "[_M_] О, боже мой!... Что не так с нашими полотенцами?!"
 
 # game/UpdateScript0.09.rpy:2601 #-#-# translate crowdin NTRLounge2repeat_dd5f973e_1:
 msgid "[_M_] I'm so sorry!"
-msgstr ""
+msgstr "[_M_] Мне очень жаль!"
 
 # game/UpdateScript0.09.rpy:2602 #-#-# translate crowdin NTRLounge2repeat_24c8d756_1:
 msgid "[_L_] Again?... Geez, Mom!"
-msgstr ""
+msgstr "[_L_] Опять?... Боже, мама!"
 
 # game/UpdateScript0.09.rpy:2603 #-#-# translate crowdin NTRLounge2repeat_ef833f01_1:
 msgid "[_M_] I said I'm sorry!"
-msgstr ""
+msgstr "[_M_] Я сказал, что мне жаль!"
 
 # game/UpdateScript0.09.rpy:2604 #-#-# translate crowdin NTRLounge2repeat_155c80cc_1:
 msgid "[_MB_] No, don't worry about it... I didn't even notice. As always, I was only looking at your beautiful eyes."
-msgstr ""
+msgstr "[_MB_] Нет, не волнуйся... Я даже не заметил. Как всегда, я просто смотрел на твои прекрасные глаза."
 
 # game/UpdateScript0.09.rpy:2607 #-#-# translate crowdin NTRLounge2repeat_69188156_1:
 msgid "[_MT_] {i}Haha... Just like last time, he couldn't keep his eyes off my breasts.{/i}"
-msgstr ""
+msgstr "[_MT_] {i}Ха-ха... Как и в прошлый раз, он не мог отвести взгляд от моей груди.{/i}"
 
 # game/UpdateScript0.09.rpy:2608 #-#-# translate crowdin NTRLounge2repeat_f63a40ca_1:
 msgid "[_MT_] {i}Fuck... I'm getting wet thinking about Matt looking at my nipples.{/i}"
@@ -4262,27 +4262,27 @@ msgstr "[_MT_] {i}повезет!... Мне нужно выйти... Я даже
 
 # game/UpdateScript0.09.rpy:2612 #-#-# translate crowdin NTRLounge2repeat_4b839dc2_1:
 msgid "[_L_] God, Mom!... Why are you still just standing there!"
-msgstr ""
+msgstr "[_L_] Боже, мама!... Почему ты всё ещё стоишь там!"
 
 # game/UpdateScript0.09.rpy:2613 #-#-# translate crowdin NTRLounge2repeat_4f9a3983_1:
 msgid "[_L_] Why do you keep trying to hang out with us in nothing but your towel... You're embarrassing me."
-msgstr ""
+msgstr "[_L_] Почему ты продолжаешь тусоваться с нами в одном полотенце... Ты меня позоришь."
 
 # game/UpdateScript0.09.rpy:2614 #-#-# translate crowdin NTRLounge2repeat_b91c90db_1:
 msgid "[_MB_] Really, I don't mind!"
-msgstr ""
+msgstr "[_MB_] Мне, правда, всё равно!"
 
 # game/UpdateScript0.09.rpy:2615 #-#-# translate crowdin NTRLounge2repeat_cc9e476d_1:
 msgid "[_LT_] {i}(sarcastically) Real subtle, Matt... I'd break up with him today, but then how would I make [ryan] jealous?{/i}"
-msgstr ""
+msgstr "[_LT_] {i}(с сарказмом) Очень тонко, Мэтт... Я бы рассталась с ним сегодня, но как тогда заставить [ryan] ревновать?{/i}"
 
 # game/UpdateScript0.09.rpy:2616 #-#-# translate crowdin NTRLounge2repeat_71c7976a_1:
 msgid "[_M_] You're right... I'd better run."
-msgstr ""
+msgstr "[_M_] Ты прав... Мне лучше бежать."
 
 # game/UpdateScript0.09.rpy:2617 #-#-# translate crowdin NTRLounge2repeat_eca9408e_1:
 msgid "[_R_] Yeah, I'm out of here too."
-msgstr ""
+msgstr "[_R_] Да, я тоже ухожу отсюда."
 
 # game/UpdateScript0.09.rpy:2622 #-#-# translate crowdin NTRLounge2repeat_b065e299:
 msgid "[_RT_] {i}I don't feel like dealing with them tonight. It's like Lauren's trying to make me jealous anytime Matt's around.{/i}"
@@ -4718,7 +4718,7 @@ msgstr "Нам нужно пойти туда и положить этому к�
 
 # game/UpdateScript0.09.rpy:2777 #-#-# translate crowdin NTRLounge2repeat_469270f1:
 msgid "[_M_] Absolutely not!"
-msgstr ""
+msgstr "[_M_] Конечно нет!"
 
 # game/UpdateScript0.09.rpy:2778 #-#-# translate crowdin NTRLounge2repeat_bac0677b:
 msgid "[_M_] You sound like your father did anytime Sidney brought a date over to our house."
@@ -4798,7 +4798,7 @@ msgstr "[_M_] Так как ты так беспокоишься. Я буду с
 
 # game/UpdateScript0.09.rpy:2803 #-#-# translate crowdin NTRLounge2repeat_20e43209_2:
 msgid "[_R_] But!..."
-msgstr ""
+msgstr "[_R_] Но!..."
 
 # game/UpdateScript0.09.rpy:2804 #-#-# translate crowdin NTRLounge2repeat_e4ae5c6e:
 msgid "[_M_] No, you will give your sister and her boyfriend some privacy. Go watch TV, or something. It's that, or you can spend the rest of the night in your room!"
@@ -5514,7 +5514,7 @@ msgstr "[_RT_] {i}Эти маленькие камеры имеют доволь
 
 # game/UpdateScript0.09.rpy:3226 #-#-# translate crowdin moms_great_bath_c3387317:
 msgid "[_RT_] {i}Oh, Mom looks so tired, probably all the stress of everything going on!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ой, мама выглядит такой уставшей, наверное, из-за всего происходящего!{/i}"
 
 # game/UpdateScript0.09.rpy:3232 #-#-# translate crowdin moms_great_bath_2f9b189b:
 msgid "[_RT_] {i}Oh, good! The show's getting better. I'll' never get tired of looking at her in the shower from this angle!{/i}"
@@ -5930,7 +5930,7 @@ msgstr "[_R_] Приятно снова увидеть маму в хороше�
 
 # game/UpdateScript0.09.rpy:3398 #-#-# translate crowdin breakfast_blowjob_0343aa89:
 msgid "[_S_] Sure..."
-msgstr ""
+msgstr "[_S_] Конечно..."
 
 # game/UpdateScript0.09.rpy:3399 #-#-# translate crowdin breakfast_blowjob_47ae767f:
 msgid "[_R_] I'm going to see if the bathroom is free before we eat."
@@ -6386,7 +6386,7 @@ msgstr "[_RT_] {i}Должен ли я рассказать ей, как вел�
 
 # game/UpdateScript0.09.rpy:3555 #-#-# translate crowdin breakfast_blowjob_d5f9a310:
 msgid "{i}{b}\"Sidney's Affection +2\"{/b}{/i}"
-msgstr "{i}{b}\"Сладость Сиднея +2\"{/b}{/i}"
+msgstr "{i}{b}\"Сладость Сидни +2\"{/b}{/i}"
 
 # game/UpdateScript0.09.rpy:3557 #-#-# translate crowdin breakfast_blowjob_ee83b4d8:
 msgid "[_S_] {i}(whispering){/i} You dork. What'da ya say we have a little fun under the table?"
@@ -6394,7 +6394,7 @@ msgstr "[ _S_] {i}(шепчет) { /i } Вы общаетесь. Что ты г�
 
 # game/UpdateScript0.09.rpy:3559 #-#-# translate crowdin breakfast_blowjob_0abcde95:
 msgid "{i}{b}\"Sidney's Affection -2\"{/b}{/i}"
-msgstr "{i}{b}\"Сладость Сиднея -2\"{/b}{/i}"
+msgstr "{i}{b}\"Сладость Сидни -2\"{/b}{/i}"
 
 # game/UpdateScript0.09.rpy:3561 #-#-# translate crowdin breakfast_blowjob_b1fed5e2:
 msgid "[_S_] {i}(whispering){/i} Liar! I know your morning wood goes away after you take a piss."
@@ -6554,7 +6554,7 @@ msgstr "[ _L_] Ну, я тоже с# моделирую его бизнес! Т�
 
 # game/UpdateScript0.09.rpy:3618 #-#-# translate crowdin breakfast_blowjob_f7d2c7e0:
 msgid "[_M_] I..."
-msgstr ""
+msgstr "[_M_] Я..."
 
 # game/UpdateScript0.09.rpy:3621 #-#-# translate crowdin breakfast_blowjob_c93d9342_1:
 msgid "[_M_] [ryan]!"
@@ -6874,7 +6874,7 @@ msgstr "[ _R_] Вы просили об этом!"
 
 # game/UpdateScript0.09.rpy:3958 #-#-# translate crowdin reward_cum_pussy_714b9f31:
 msgid "[_M_] Oh, my God!"
-msgstr ""
+msgstr "[_M_] О, Боже!"
 
 # game/UpdateScript0.09.rpy:3963 #-#-# translate crowdin reward_cum_pussy_d747f740:
 msgid "[_M_] I can feel the inside of my pussy expanding!"
@@ -7882,7 +7882,7 @@ msgstr "[_RT_] {i}Я думаю, что сейчас я просто дам ей
 
 # game/UpdateScript0.09.rpy:4484 #-#-# translate crowdin great_morning_dc61ea40:
 msgid "[_RT_] {i}I can always watch her on the spy-cam, though.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Но я всегда могу наблюдать за ней через скрытую камеру.{/i}"
 
 # game/UpdateScript0.09.rpy:4490 #-#-# translate crowdin great_morning_ffe33709:
 msgid "[_RT_] {i}That's how she stays in such great shape.{/i}"
@@ -7930,7 +7930,7 @@ msgstr "{i}\"Вы хотели бы...\"{/i}"
 
 # game/UpdateScript0.09.rpy:4540 #-#-# translate crowdin weekend_date_post_cami_f45948f3:
 msgid "{i}\"You got it... And what kind of date did you want to go on?\"{/i}"
-msgstr ""
+msgstr "{i}\"Ты понял... А на какое свидание ты хотел пойти?\"{/i}"
 
 # game/UpdateScript0.09.rpy:4543 #-#-# translate crowdin weekend_date_post_cami_af1e137d:
 msgid "{i}{b}\"Money - $300\"{/b}{/i}"
@@ -7942,7 +7942,7 @@ msgstr "{i}{b}\"Деньги - $800\"{/b}{/i}"
 
 # game/UpdateScript0.09.rpy:4561 #-#-# translate crowdin weekend_date_post_cami_f45948f3_1:
 msgid "{i}\"You got it... And what kind of date did you want to go on?\"{/i}"
-msgstr ""
+msgstr "{i}\"Ты понял... А на какое свидание ты хотел пойти?\"{/i}"
 
 # game/UpdateScript0.09.rpy:4564 #-#-# translate crowdin weekend_date_post_cami_af1e137d_1:
 msgid "{i}{b}\"Money - $300\"{/b}{/i}"
@@ -7958,27 +7958,27 @@ msgstr "{i}(Knock, knock, knock){/i}"
 
 # game/UpdateScript0.09.rpy:4588 #-#-# translate crowdin weekend_date_post_cami_aa467837:
 msgid "[_M_] Come in."
-msgstr ""
+msgstr "[_M_] Входите."
 
 # game/UpdateScript0.09.rpy:4591 #-#-# translate crowdin weekend_date_post_cami_cc0bd841:
 msgid "[_C_] Oh, look. Your date is here."
-msgstr ""
+msgstr "[_C_] О, смотри. Твоя девушка пришла."
 
 # game/UpdateScript0.09.rpy:4592 #-#-# translate crowdin weekend_date_post_cami_6cda0110:
 msgid "[_M_] Hey, [ryan]... Are we still on for today?"
-msgstr ""
+msgstr "[_M_] Эй, [ryan]... Мы ещё в эфире на сегодня?"
 
 # game/UpdateScript0.09.rpy:4593 #-#-# translate crowdin weekend_date_post_cami_57caa1d8:
 msgid "[_R_] I am... if you still are."
-msgstr ""
+msgstr "[_R_] Я... если ты все еще..."
 
 # game/UpdateScript0.09.rpy:4596 #-#-# translate crowdin weekend_date_post_cami_e59312c2:
 msgid "[_M_] Yeah. We were just finishing up."
-msgstr ""
+msgstr "[_M_] Да. Мы как раз заканчивали."
 
 # game/UpdateScript0.09.rpy:4597 #-#-# translate crowdin weekend_date_post_cami_4aa83cf5:
 msgid "[_M_] Why don't you go get dressed and I'll do the same. We'll meet by the front door?"
-msgstr ""
+msgstr "[_M_] Давай-ка ты одевайся, а я сделаю то же самое. Встретимся у входной двери."
 
 # game/UpdateScript0.09.rpy:4600 #-#-# translate crowdin weekend_date_post_cami_1ad9476d:
 msgid "[_R_] It's a date."
@@ -7994,11 +7994,11 @@ msgstr "[_C_] Это звучит супер здорово."
 
 # game/UpdateScript0.09.rpy:4603 #-#-# translate crowdin weekend_date_post_cami_dc879f3c:
 msgid "[_M_] Just ignore her."
-msgstr ""
+msgstr "[_M_] Просто игнорируй ее."
 
 # game/UpdateScript0.09.rpy:4604 #-#-# translate crowdin weekend_date_post_cami_f301e9d7:
 msgid "[_M_] I'll see you in a few minutes."
-msgstr ""
+msgstr "[_M_] Увидимся через несколько минут."
 
 # game/UpdateScript0.09.rpy:4610 #-#-# translate crowdin weekend_date_post_cami_52c4c829:
 msgid "[_RT_] {i}Hmm... maybe giving them more time to work on their relationship is more important than me taking Mom on a date.{/i}"
@@ -8046,7 +8046,7 @@ msgstr "[_RT_] {i}Я не могу дождаться, чтобы обрубит
 
 # game/UpdateScript0.09.rpy:4650 #-#-# translate crowdin moms_great_night_05d627cd:
 msgid "[_RT_] {i}Oh, fuck! That feels so good!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}О, чёрт! Это так здорово!{/i}"
 
 # game/UpdateScript0.09.rpy:4651 #-#-# translate crowdin moms_great_night_2b9129e0:
 msgid "[_RT_] {i}And the view can't be beat.{/i}"
@@ -8054,7 +8054,7 @@ msgstr "[_RT_] {i}И представление не может быть про�
 
 # game/UpdateScript0.09.rpy:4653 #-#-# translate crowdin moms_great_night_45a9b8ae:
 msgid "[_RT_] {i}Oh, yeah! I'm about to cum!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}О, да! Я сейчас кончу!{/i}"
 
 # game/UpdateScript0.09.rpy:4654 #-#-# translate crowdin moms_great_night_a25e7d20:
 msgid "[_RT_] {i}And I get to cum all over Mom's tits!{/i}"
@@ -8062,7 +8062,7 @@ msgstr "[_RT_] {i}И я получаю обручальную маму по си
 
 # game/UpdateScript0.09.rpy:4655 #-#-# translate crowdin moms_great_night_bd444627:
 msgid "[_RT_] {i}This was such a good idea!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Это была такая хорошая идея!{/i}"
 
 # game/UpdateScript0.09.rpy:4656 #-#-# translate crowdin moms_great_night_7eefae07:
 msgid "[_RT_] {i}Hhhnnnnggghhhh!...{/i}"
@@ -8070,7 +8070,7 @@ msgstr "[_RT_] {i}Hhnnggghhhhh!...{/i}"
 
 # game/UpdateScript0.09.rpy:4669 #-#-# translate crowdin moms_great_night_4c8966b0:
 msgid "[_RT_] {i}Fuck yeah... I covered her.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Чёрт возьми... Я её прикрыл.{/i}"
 
 # game/UpdateScript0.09.rpy:4670 #-#-# translate crowdin moms_great_night_3e9faf11:
 msgid "[_RT_] {i}Now to hide the evidence and rub it all in. This extra moisturizer should make her skin even more radiant.{/i}"
@@ -8086,7 +8086,7 @@ msgstr "[_RT_] {i}Я собираюсь курить по всему этому!
 
 # game/UpdateScript0.09.rpy:4691 #-#-# translate crowdin moms_great_night_32a05702:
 msgid "[_RT_] {i}Oh, wow! This is where my dick belongs!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ого! Вот где место моему члену!{/i}"
 
 # game/UpdateScript0.09.rpy:4693 #-#-# translate crowdin moms_great_night_6d03abe7:
 msgid "[_RT_] {i}Ohhh... I'm gonna cum!{/i}"
@@ -8166,7 +8166,7 @@ msgstr "..."
 
 # game/UpdateScript0.09.rpy:4749 #-#-# translate crowdin cami_events_intro_ab8d46a9:
 msgid "[_R_] Mandy?"
-msgstr ""
+msgstr "[_R_] Мэнди?"
 
 # game/UpdateScript0.09.rpy:4750 #-#-# translate crowdin cami_events_intro_460506df:
 msgid "[_MD_] Huh? Oh, sure... Come on in."
@@ -8234,7 +8234,7 @@ msgstr "[_MD_] Я изучаю экзамены. Ты знаешь, что он�
 
 # game/UpdateScript0.09.rpy:4776 #-#-# translate crowdin cami_events_intro_6b758783:
 msgid "[_R_] Uhh..."
-msgstr ""
+msgstr "[_R_] Ухх..."
 
 # game/UpdateScript0.09.rpy:4777 #-#-# translate crowdin cami_events_intro_0161061c:
 msgid "[_MD_] Haven't studied at all, have you?"
@@ -10710,7 +10710,7 @@ msgstr "[ _S_] Я могу помочь. Я спасал все свои зар�
 
 # game/UpdateScript0.09.rpy:5677 #-#-# translate crowdin cami_events_intro_26bb9677:
 msgid "[_M_] No!"
-msgstr ""
+msgstr "[_M_] Нет!"
 
 # game/UpdateScript0.09.rpy:5678 #-#-# translate crowdin cami_events_intro_0e3273a2:
 msgid "[_M_] That money is for college. You need to get back to design school so you can escape all this."
@@ -10722,7 +10722,7 @@ msgstr "[ _S_] Я могу помочь. Мистер ДеКапо сказал,
 
 # game/UpdateScript0.09.rpy:5681 #-#-# translate crowdin cami_events_intro_26bb9677_1:
 msgid "[_M_] No!"
-msgstr ""
+msgstr "[_M_] Нет!"
 
 # game/UpdateScript0.09.rpy:5682 #-#-# translate crowdin cami_events_intro_ef1bd753:
 msgid "[_M_] I don't want you working there again."
@@ -10758,7 +10758,7 @@ msgstr "[ _R_] Мой бизнес действительно хорошо сп�
 
 # game/UpdateScript0.09.rpy:5692 #-#-# translate crowdin cami_events_intro_26bb9677_2:
 msgid "[_M_] No!"
-msgstr ""
+msgstr "[_M_] Нет!"
 
 # game/UpdateScript0.09.rpy:5695 #-#-# translate crowdin cami_events_intro_0e147b20:
 msgid "[_M_] I will handle it. Don't involve your sisters in this anymore than you already have."
@@ -10974,7 +10974,7 @@ msgstr "[_L_] Она не выгнала бы Манди!"
 
 # game/UpdateScript0.09.rpy:5813 #-#-# translate crowdin lauren_post_cami_fight_5a6d2128:
 msgid "[_R_] Lauren..."
-msgstr ""
+msgstr "[_R_] Лорен..."
 
 # game/UpdateScript0.09.rpy:5814 #-#-# translate crowdin lauren_post_cami_fight_120b5097:
 msgid "[_L_] But, you're not."
@@ -12110,7 +12110,7 @@ msgstr "[_R_] Хннггххх..."
 
 # game/UpdateScript0.09.rpy:6378 #-#-# translate crowdin no_pay_club_7fd24d03:
 msgid "[_M_] Oh, fuck!"
-msgstr ""
+msgstr "[_M_] Ох, черт!"
 
 # game/UpdateScript0.09.rpy:6379 #-#-# translate crowdin no_pay_club_ec9bb790:
 msgid "[_M_] You're filling my rectum!"
@@ -12650,7 +12650,7 @@ msgstr "Вот пиво, на меня."
 
 # game/UpdateScript0.09.rpy:6650 #-#-# translate crowdin no_pay_club_7f0f9380:
 msgid "[_R_] Thanks."
-msgstr ""
+msgstr "[_R_] Спасибо."
 
 # game/UpdateScript0.09.rpy:6658 #-#-# translate crowdin no_pay_club_3b4aac4b:
 msgid "[_R_] Fine... Here's a hundred bucks!"
@@ -13466,7 +13466,7 @@ msgstr "[_J_] Вы мечтаете сбыться."
 
 # game/UpdateScript0.09.rpy:7059 #-#-# translate crowdin surveillance_room_d4853849:
 msgid "[_M_] Just keep fucking me!"
-msgstr ""
+msgstr "[_M_] Просто продолжай меня трахать!"
 
 # game/UpdateScript0.09.rpy:7064 #-#-# translate crowdin surveillance_room_8feb402d:
 msgid "[_M_] Oh yeah... I'm getting close!"
@@ -13494,7 +13494,7 @@ msgstr "Ты потрясающий!"
 
 # game/UpdateScript0.09.rpy:7077 #-#-# translate crowdin surveillance_room_77f699b4:
 msgid "[_M_] Ahhh...."
-msgstr ""
+msgstr "[_M_] Аааа...."
 
 # game/UpdateScript0.09.rpy:7078 #-#-# translate crowdin surveillance_room_a4f7abd6:
 msgid "[_M_] Don't stop fucking!"
@@ -14330,7 +14330,7 @@ msgstr "[_R_] ...."
 
 # game/UpdateScript0.09.rpy:7623 #-#-# translate crowdin office_cum_continued_9f871c1c:
 msgid "[_R_] Did I?..."
-msgstr ""
+msgstr "[_R_] Я это сделал?..."
 
 # game/UpdateScript0.09.rpy:7624 #-#-# translate crowdin office_cum_continued_dc7a84b6_1:
 msgid "[_R_] ...."
@@ -14506,7 +14506,7 @@ msgstr "Могу поспорить, что ты понятия не имела,
 
 # game/UpdateScript0.09.rpy:7699 #-#-# translate crowdin office_cum_continued_8c7a7551:
 msgid "[_R_] Actually..."
-msgstr ""
+msgstr "[_R_] На самом деле..."
 
 # game/UpdateScript0.09.rpy:7700 #-#-# translate crowdin office_cum_continued_75dfe16d:
 msgid "[_M_] {i}(Inturrupting Cough){/i}"
@@ -14758,7 +14758,7 @@ msgstr "[ _R_] Итак, ты позаботишься обо мне, верно
 
 # game/UpdateScript0.09.rpy:7809 #-#-# translate crowdin office_cum_continued_514c1625:
 msgid "[_M_] Well..."
-msgstr ""
+msgstr "[_M_] Ну..."
 
 # game/UpdateScript0.09.rpy:7811 #-#-# translate crowdin office_cum_continued_be4fe84c:
 msgid "[_M_] You did make our payment to the DeCapos this week, so you definitely deserve a nice reward."
@@ -14978,7 +14978,7 @@ msgstr "[_R_] Хннггххх..."
 
 # game/UpdateScript0.09.rpy:7914 #-#-# translate crowdin vip_anal_mom_7fd24d03:
 msgid "[_M_] Oh, fuck!"
-msgstr ""
+msgstr "[_M_] Ох, черт!"
 
 # game/UpdateScript0.09.rpy:7915 #-#-# translate crowdin vip_anal_mom_ec9bb790:
 msgid "[_M_] You're filling my rectum!"
@@ -15802,7 +15802,7 @@ msgstr "И ты вызвал меня на много моего дерьма, �
 
 # game/UpdateScript0.09.rpy:8236 #-#-# translate crowdin a_hard_night_a9d90ec4:
 msgid "[_MD_] Really?"
-msgstr ""
+msgstr "[_MD_] Правда?"
 
 # game/UpdateScript0.09.rpy:8237 #-#-# translate crowdin a_hard_night_ccd228cb:
 msgid "[_C_] Promise."
@@ -16126,7 +16126,7 @@ msgstr "О, Боже! Это неправильно на многих уровн
 
 # game/UpdateScript0.09.rpy:8361 #-#-# translate crowdin a_hard_night_df60479b:
 msgid "[_R_] Why?"
-msgstr ""
+msgstr "[_R_] Почему?"
 
 # game/UpdateScript0.09.rpy:8362 #-#-# translate crowdin a_hard_night_e1747726:
 msgid "[_M_] In any normal situation..."
@@ -16330,7 +16330,7 @@ msgstr "Ну, давай просто посмотрим, как она буде
 
 # game/UpdateScript0.09.rpy:8430 #-#-# translate crowdin a_hard_night_8edb11af:
 msgid "[_M_] What do you have in mind?"
-msgstr ""
+msgstr "[_M_] Что ты имеешь в виду?"
 
 # game/UpdateScript0.09.rpy:8431 #-#-# translate crowdin a_hard_night_2541c8de:
 msgid "[_R_] First, we calm Joey down and let him know he'll get his money. You'll plead for some more time to pay it back."
