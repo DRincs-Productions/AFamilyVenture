@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-09-24 11:03\n"
+"PO-Revision-Date: 2025-11-17 12:12\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScriptHalloweenEvent.rpy:256 #-#-# translate crowdin halloween_event_start_36b1bdbb:
 msgid "{i}{b}(HINT){/b} Happy Halloween!{/i}"
@@ -1826,11 +1826,11 @@ msgstr "[_SM_] Kurwa, Martha! Wszyscy strażnicy nie żyją!"
 
 # game/UpdateScriptHalloweenEvent.rpy:1533 #-#-# translate crowdin shagtown_lab_1242aa5b:
 msgid "[_SM_] How are we supposed to defend ourselves?"
-msgstr ""
+msgstr "[_SM_] W jaki sposób mamy się bronić?"
 
 # game/UpdateScriptHalloweenEvent.rpy:1536 #-#-# translate crowdin shagtown_lab_987d0ace:
 msgid "[_SM_] Ok, I see a crowbar over there."
-msgstr ""
+msgstr "[_SM_] Ok, widzę tam łom."
 
 # game/UpdateScriptHalloweenEvent.rpy:1537 #-#-# translate crowdin shagtown_lab_a5ca2dfd:
 msgid "[_SM_] I'm going to run and grab it!"
@@ -1838,19 +1838,19 @@ msgstr "[_SM_] Pobiegnę i go złapię!"
 
 # game/UpdateScriptHalloweenEvent.rpy:1538 #-#-# translate crowdin shagtown_lab_4bfa3019:
 msgid "[_SF_] A crowbar? The guards couldn't even stop this thing with bullets!"
-msgstr ""
+msgstr "[_SF_] Łom? Strażnicy nie mogli tego powstrzymać nawet kulami!"
 
 # game/UpdateScriptHalloweenEvent.rpy:1539 #-#-# translate crowdin shagtown_lab_b40de364:
 msgid "[_SM_] It's better than nothing!"
-msgstr ""
+msgstr "[_SM_] To lepsze niż nic!"
 
 # game/UpdateScriptHalloweenEvent.rpy:1542 #-#-# translate crowdin shagtown_lab_52d50737:
 msgid "[_SF_] You're just going to get yourself killed."
-msgstr ""
+msgstr "[_SF_] Zamierzasz po prostu dać się zabić."
 
 # game/UpdateScriptHalloweenEvent.rpy:1543 #-#-# translate crowdin shagtown_lab_06c92f66:
 msgid "[_SF_] Dr. Branson?"
-msgstr ""
+msgstr "[_SF_] Dr. Branson?"
 
 # game/UpdateScriptHalloweenEvent.rpy:1546 #-#-# translate crowdin shagtown_lab_669aa1e2:
 msgid "[_SF_] Fuck!"
@@ -1866,7 +1866,7 @@ msgstr "[_SF_] {i}(szeptem){/i} Dr Branson? Gdzie się podziewałeś?"
 
 # game/UpdateScriptHalloweenEvent.rpy:1554 #-#-# translate crowdin shagtown_lab_06c92f66_1:
 msgid "[_SF_] Dr. Branson?"
-msgstr ""
+msgstr "[_SF_] Dr. Branson?"
 
 # game/UpdateScriptHalloweenEvent.rpy:1557 #-#-# translate crowdin shagtown_lab_32b0b14d:
 msgid "[_SF_] {i}(Whispering to herself){/i} Oh, no!... Oh, God!..."
