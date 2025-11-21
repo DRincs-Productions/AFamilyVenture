@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-11-09 12:32\n"
+"PO-Revision-Date: 2025-11-21 20:43\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -1958,39 +1958,39 @@ msgstr "[_RT_] {i}Zawsze była dobrą matką, jeśli chodzi o zaspokajanie naszy
 
 # game/script.rpy:4087 #-#-# translate crowdin mom_8950cffb:
 msgid "[_RT_] {i}But she's always focused more attention on the things that kept my dad happy, rather than giving us the attention we needed and wanted.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ale ona zawsze skupiała się bardziej na tym, co sprawiało radość mojemu tacie, zamiast poświęcać nam uwagę, której potrzebowaliśmy i której pragnęliśmy.{/i}"
 
 # game/script.rpy:4088 #-#-# translate crowdin mom_71d99019:
 msgid "[_RT_] {i}I guess she used to be quite the party girl in high school.{p}Now my dad proudly boasts how he tamed her into an obedient wife and mother.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Wydaje mi się, że w liceum była imprezowiczką.{p}Teraz mój tata z dumą chwali się, jak ukształtował ją na posłuszną żonę i matkę.{/i}"
 
 # game/script.rpy:4089 #-#-# translate crowdin mom_3d1d34c1:
 msgid "[_RT_] {i}She always has plenty of bad things to say about him, {p}but only behind his back. {p}She wouldn't dream of saying anything to his face.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Zawsze ma o nim mnóstwo złych rzeczy do powiedzenia, {p}ale tylko za jego plecami. {p}Nie śniłaby nawet o tym, żeby powiedzieć mu coś prosto w twarz.{/i}"
 
 # game/script.rpy:4090 #-#-# translate crowdin mom_6c03f557:
 msgid "[_RT_] {i}She started teaching high school about five years ago, {p}I think just to get out of the house and be more social. {p}I think it has made her happier.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Zaczęła uczyć w liceum około pięć lat temu, {p}chyba po to, żeby wyjść z domu i być bardziej towarzyską. {p}Myślę, że dzięki temu stała się szczęśliwsza.{/i}"
 
 # game/script.rpy:4091 #-#-# translate crowdin mom_b8ff2b73:
 msgid "[_RT_] {i}And now Lauren and I are lucky enough to be in her class.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}A teraz Lauren i ja mamy szczęście być w jej klasie.{/i}"
 
 # game/script.rpy:4135 #-#-# translate crowdin bathearlymorning_d2c5ed98:
 msgid "[_RT_] {i}Lauren's in there again... I should look online to see if there's a way I can spy on her.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Lauren znowu tam jest... Powinienem sprawdzić w Internecie, czy jest jakiś sposób, żeby ją podglądać.{/i}"
 
 # game/script.rpy:4141 #-#-# translate crowdin bathearlymorning_4ff59082:
 msgid "[_RT_] {i}Lauren is taking her early morning shower, I wonder if there is some way to spy on her.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Lauren bierze poranny prysznic, zastanawiam się, czy jest jakiś sposób, żeby ją podglądać.{/i}"
 
 # game/script.rpy:4147 #-#-# translate crowdin bathearlymorning_996e9c64:
 msgid "[_RT_] {i}{b}(HINT){/b} I should see if I can buy a spy-cam online and place it in the bathroom when no one is around.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(WSKAZÓWKA){/b} Powinienem sprawdzić, czy mogę kupić w Internecie kamerę szpiegowską i umieścić ją w łazience, kiedy nikogo nie ma w pobliżu.{/i}"
 
 # game/script.rpy:4183 #-#-# translate crowdin laurenhornybathroom_5a1e5209:
 msgid "[_RT_] {i}Lauren is taking her early morning shower. Wait.... did I just hear some moaning? Let's just take a quick look.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Lauren bierze poranny prysznic. Chwila... czyżbym usłyszał jęki? Rzućmy okiem.{/i}"
 
 # game/script.rpy:4189 #-#-# translate crowdin laurenhornybathroom_de144e4d:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
@@ -1998,7 +1998,7 @@ msgstr ""
 
 # game/script.rpy:4198 #-#-# translate crowdin laurenhornybathroom_c591abd8:
 msgid "[_RT_] {i}Lauren is taking her early morning shower. Wait.... did I just hear some moaning?, uggh I've got to find a way to see what's going on in there.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Lauren bierze poranny prysznic. Chwila... czy ja właśnie usłyszałem jęki? Muszę znaleźć sposób, żeby sprawdzić, co się tam dzieje.{/i}"
 
 # game/script.rpy:4199 #-#-# translate crowdin laurenhornybathroom_de144e4d_1:
 msgid "{i}{b}\"Lauren's Libido -5\"{/b}{/i}"
@@ -2006,31 +2006,31 @@ msgstr ""
 
 # game/script.rpy:4216 #-#-# translate crowdin bathmorning_21325b93:
 msgid "[_RT_] {i}Looks like I caught Sidney taking a shower again. I really wish I could watch.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Wygląda na to, że znowu przyłapałem Sydney  na braniu prysznica. Bardzo chciałbym móc to obejrzeć.{/i}"
 
 # game/script.rpy:4222 #-#-# translate crowdin bathmorning_debf2726:
 msgid "[_RT_] {i}Sidney must be taking a shower, Mom and Lauren already left for school.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Sydney pewnie bierze prysznic, mama i Lauren już wyszły do szkoły.{/i}"
 
 # game/script.rpy:4228 #-#-# translate crowdin bathmorning_996e9c64:
 msgid "[_RT_] {i}{b}(HINT){/b} I should see if I can buy a spy-cam online and place it in the bathroom when no one is around.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(WSKAZÓWKA){/b} Powinienem sprawdzić, czy mogę kupić w Internecie kamerę szpiegowską i umieścić ją w łazience, kiedy nikogo nie ma w pobliżu.{/i}"
 
 # game/script.rpy:4253 #-#-# translate crowdin bathmorningweekend_21325b93:
 msgid "[_RT_] {i}Looks like I caught Sidney taking a shower again. I really wish I could watch.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Wygląda na to, że znowu przyłapałem Sydney  na braniu prysznica. Bardzo chciałbym móc to obejrzeć.{/i}"
 
 # game/script.rpy:4259 #-#-# translate crowdin bathmorningweekend_72e52910:
 msgid "[_RT_] {i}Sidney must be taking a shower.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Sidney pewnie bierze prysznic.{/i}"
 
 # game/script.rpy:4265 #-#-# translate crowdin bathmorningweekend_996e9c64:
 msgid "[_RT_] {i}{b}(HINT){/b} I should see if I can buy a spy-cam online and place it in the bathroom when no one is around.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(WSKAZÓWKA){/b} Powinienem sprawdzić, czy mogę kupić w Internecie kamerę szpiegowską i umieścić ją w łazience, kiedy nikogo nie ma w pobliżu.{/i}"
 
 # game/script.rpy:4282 #-#-# translate crowdin sidneyhornybathroom_9e1a138c:
 msgid "[_RT_] {i}Sidney must be taking a shower. Wait.... did I just hear some moaning? Let's just take a quick look through the spy-cam.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Sidney pewnie bierze prysznic. Chwila... czy ja właśnie usłyszałem jęki? Zajrzyjmy szybko przez kamerę szpiegowską.{/i}"
 
 # game/script.rpy:4288 #-#-# translate crowdin sidneyhornybathroom_445042f6:
 msgid "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
@@ -2038,7 +2038,7 @@ msgstr ""
 
 # game/script.rpy:4297 #-#-# translate crowdin sidneyhornybathroom_5b757f72:
 msgid "[_RT_] {i}Sidney must be taking a shower. Wait.... did I just hear some moaning?, uggh I've got to find a way to see what's going on in there.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Sidney pewnie bierze prysznic. Chwila... czy ja właśnie usłyszałem jęki? Muszę znaleźć sposób, żeby sprawdzić, co się tam dzieje.{/i}"
 
 # game/script.rpy:4298 #-#-# translate crowdin sidneyhornybathroom_445042f6_1:
 msgid "{i}{b}\"Sidney's Libido -5\"{/b}{/i}"
@@ -2046,39 +2046,39 @@ msgstr ""
 
 # game/script.rpy:4330 #-#-# translate crowdin bathafternoonweekend_b4945548:
 msgid "[_RT_] {i}Mom's taking a long shower.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Mama bierze długi prysznic.{/i}"
 
 # game/script.rpy:4336 #-#-# translate crowdin bathafternoonweekend_46ef923c:
 msgid "[_RT_] {i}I think that's Mom. I'm so glad she finally came out of her room. Sounds like she's taking a shower.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Myślę, że to mama. Bardzo się cieszę, że w końcu wyszła ze swojego pokoju. Wygląda na to, że bierze prysznic.{/i}"
 
 # game/script.rpy:4337 #-#-# translate crowdin bathafternoonweekend_7be257ac:
 msgid "[_RT_] {i}If only I could see her. I should check online for some ideas on how I can spy behind locked doors.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Gdybym tylko mógł ją zobaczyć. Powinienem poszukać w Internecie pomysłów, jak podglądać za zamkniętymi drzwiami.{/i}"
 
 # game/script.rpy:4343 #-#-# translate crowdin bathafternoonweekend_996e9c64:
 msgid "[_RT_] {i}{b}(HINT){/b} I should see if I can buy a spy-cam online and place it in the bathroom when no one is around.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(WSKAZÓWKA){/b} Powinienem sprawdzić, czy mogę kupić w Internecie kamerę szpiegowską i umieścić ją w łazience, kiedy nikogo nie ma w pobliżu.{/i}"
 
 # game/script.rpy:4384 #-#-# translate crowdin bathevening_080a64d7:
 msgid "[_RT_] {i}Mom's in the shower again... Wish I could watch her shower.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Mama znowu bierze prysznic... Chciałbym móc ją podglądać.{/i}"
 
 # game/script.rpy:4390 #-#-# translate crowdin bathevening_66c1b423:
 msgid "[_RT_] {i}That must be Mom in the shower.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}To pewnie mama bierze prysznic.{/i}"
 
 # game/script.rpy:4396 #-#-# translate crowdin bathevening_996e9c64:
 msgid "[_RT_] {i}{b}(HINT){/b} I should see if I can buy a spy-cam online and place it in the bathroom when no one is around.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}{b}(WSKAZÓWKA){/b} Powinienem sprawdzić, czy mogę kupić w Internecie kamerę szpiegowską i umieścić ją w łazience, kiedy nikogo nie ma w pobliżu.{/i}"
 
 # game/script.rpy:4405 #-#-# translate crowdin bathevening_c0f221e9:
 msgid "[_RT_] {i}Mom must be getting ready for bed.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Mama pewnie szykuje się do spania.{/i}"
 
 # game/script.rpy:4434 #-#-# translate crowdin momhornybathroom_189d137d:
 msgid "[_RT_] {i}Mom is taking her after school shower. Wait.... did I just hear some moaning? Let's just take a quick look.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Mama bierze prysznic po szkole. Chwila... czy ja właśnie usłyszałem jęki? Zajrzyjmy tam na chwilę.{/i}"
 
 # game/script.rpy:4440 #-#-# translate crowdin momhornybathroom_7a379bd5:
 msgid "{i}{b}\"Mom's Libido -5\"{/b}{/i}"
@@ -2086,7 +2086,7 @@ msgstr "{i}{b}\"Libido mamy -5\" {/b}{/i}"
 
 # game/script.rpy:4449 #-#-# translate crowdin momhornybathroom_32595272:
 msgid "[_RT_] {i}That must be Mom in the shower. Wait.... did I just hear some moaning?, uggh I've got to find a way to see what's going on in there.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}To pewnie mama bierze prysznic. Chwila... czy ja właśnie usłyszałem jęki? Muszę znaleźć sposób, żeby sprawdzić, co się tam dzieje.{/i}"
 
 # game/script.rpy:4450 #-#-# translate crowdin momhornybathroom_7a379bd5_1:
 msgid "{i}{b}\"Mom's Libido -5\"{/b}{/i}"
@@ -2094,59 +2094,59 @@ msgstr "{i}{b}\"Libido mamy -5\" {/b}{/i}"
 
 # game/script.rpy:4496 #-#-# translate crowdin toilet_a40a1927:
 msgid "[_RT_] {i}I'm alright for now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Na razie wszystko w porządku.{/i}"
 
 # game/script.rpy:4508 #-#-# translate crowdin shower_e48d4a85:
 msgid "[_RT_] {i}No time for a shower.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nie ma czasu na prysznic.{/i}"
 
 # game/script.rpy:4552 #-#-# translate crowdin kitchenearlymorningweekend_b5680096:
 msgid "[_RT_] {i}.... oh, Mom must have fallen asleep waiting for her tea to boil.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}... Och, mama musiała zasnąć, czekając, aż zagotuje się herbata.{/i}"
 
 # game/script.rpy:4553 #-#-# translate crowdin kitchenearlymorningweekend_80ac68c4:
 msgid "[_RT_] {i}She still hasn't changed out of her nightgown.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nadal nie przebrała się z koszuli nocnej.{/i}"
 
 # game/script.rpy:4558 #-#-# translate crowdin kitchenearlymorningweekend_47501347:
 msgid "[_RT_] {i}I still can't believe she got after me this morning for sleeping in my underwear.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Wciąż nie mogę uwierzyć, że rano zbeształa mnie za spanie w bieliźnie.{/i}"
 
 # game/script.rpy:4559 #-#-# translate crowdin kitchenearlymorningweekend_5e9324cc:
 msgid "[_RT_] {i}I mean look at her, exposing herself all over the house. {p}She must have been up most of the night worrying.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Spójrzcie tylko na nią, obnaża się w całym domu. {p}Pewnie nie spała prawie całą noc, martwiąc się.{/i}"
 
 # game/script.rpy:4560 #-#-# translate crowdin kitchenearlymorningweekend_5e9f7e55:
 msgid "[_RT_] {i}I'll just leave her phone on the counter next to her.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Po prostu zostawię jej telefon na blacie obok niej.{/i}"
 
 # game/script.rpy:4653 #-#-# translate crowdin kitcheneveningweekend_95c0255d:
 msgid "[_M_] Oh, there you are, honey. Please come sit down and have some dinner."
-msgstr ""
+msgstr "[_M_] Och, tu jesteś, kochanie. Usiądź i zjedz coś."
 
 # game/script.rpy:4667 #-#-# translate crowdin kitcheneveningweekend_ca44a619:
 msgid "[_RT_] {i}Oh good, Mom is finally up and about, I wonder if she's doing any better.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}O, dobrze, mama w końcu wstała, ciekawe, czy czuje się lepiej.{/i}"
 
 # game/script.rpy:4674 #-#-# translate crowdin kitcheneveningweekend_87d7d54e:
 msgid "[_M_] Oh, hi honey, yes, I'm doing much better now."
-msgstr ""
+msgstr "[_M_] Och, cześć kochanie, tak, czuję się już znacznie lepiej."
 
 # game/script.rpy:4675 #-#-# translate crowdin kitcheneveningweekend_4ad8ebb3:
 msgid "[_R_] What are you drinking?"
-msgstr ""
+msgstr "[_R_] Co pijesz?"
 
 # game/script.rpy:4676 #-#-# translate crowdin kitcheneveningweekend_26355657:
 msgid "[_M_] Oh, just a little wine to help me with my hangover."
-msgstr ""
+msgstr "[_M_] Och, tylko trochę wina, żeby złagodzić kaca."
 
 # game/script.rpy:4677 #-#-# translate crowdin kitcheneveningweekend_477ea929:
 msgid "[_R_] Is putting more of what caused your hangover into your body really the best way to treat a hangover?"
-msgstr ""
+msgstr "[_R_] Czy wprowadzanie do organizmu większej ilości substancji, które spowodowały kaca, jest naprawdę najlepszym sposobem na jego wyleczenie?"
 
 # game/script.rpy:4680 #-#-# translate crowdin kitcheneveningweekend_1530406e:
 msgid "[_M_] Haha.... yeah, it's called the hair of the dog remedy."
-msgstr ""
+msgstr "[_M_] Haha... tak, to się nazywa lekarstwo na kaca."
 
 # game/script.rpy:4681 #-#-# translate crowdin kitcheneveningweekend_93bbc6d6:
 msgid "[_R_] Hair of the dog?"
@@ -2154,11 +2154,11 @@ msgstr ""
 
 # game/script.rpy:4682 #-#-# translate crowdin kitcheneveningweekend_138faf32:
 msgid "[_M_] Yeah I'm not really sure what it means, something about dog hair and curing rabies bites."
-msgstr ""
+msgstr "[_M_] Tak, nie jestem pewien, co to znaczy, coś o psiej sierści i leczeniu ugryzień wściekłych psów."
 
 # game/script.rpy:4683 #-#-# translate crowdin kitcheneveningweekend_20b555c7:
 msgid "[_M_] I just really can't deal with the symptoms of a hangover right now with the stress I'm under. So I'm just doing a little self medicating."
-msgstr ""
+msgstr "[_M_] Po prostu nie jestem w stanie poradzić sobie z objawami kaca w obecnej sytuacji, biorąc pod uwagę stres, w jakim się znajduję. Zatem stosuję jedynie drobne środki zaradcze."
 
 # game/script.rpy:4686 #-#-# translate crowdin kitcheneveningweekend_22233a23:
 msgid "[_R_] Mom, I really want to help out with the mess we are in."
@@ -2286,7 +2286,7 @@ msgstr ""
 
 # game/script.rpy:4728 #-#-# translate crowdin kitcheneveningweekend_477ea929_1:
 msgid "[_R_] Is putting more of what caused your hangover into your body really the best way to treat a hangover?"
-msgstr ""
+msgstr "[_R_] Czy wprowadzanie do organizmu większej ilości substancji, które spowodowały kaca, jest naprawdę najlepszym sposobem na jego wyleczenie?"
 
 # game/script.rpy:4729 #-#-# translate crowdin kitcheneveningweekend_614a2de6:
 msgid "[_M_] It's not a great method, but it seems to have some effect."
@@ -6342,7 +6342,7 @@ msgstr ""
 
 # game/script.rpy:8347 #-#-# translate crowdin firstdayofschool_41732efc:
 msgid "[_RT_] {i}I really believe that I'll get something just as good, if not better. I'll just have to be very patient until then.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Naprawdę wierzę, że dostanę coś równie dobrego, jeśli nie lepszego. Muszę tylko uzbroić się w cierpliwość do tego czasu.{/i}"
 
 # game/script.rpy:8358 #-#-# translate crowdin classlecture_a4531fa1:
 msgid "[_M_] Now Tiresias is being pressured by Oedipus to reveal to him what he knows of the murder of Laius..."
