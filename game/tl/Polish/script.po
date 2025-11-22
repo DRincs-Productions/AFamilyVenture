@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-11-21 20:43\n"
+"PO-Revision-Date: 2025-11-22 01:10\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -38,7 +38,7 @@ msgstr "[_RT_] {i}{b}(WSKAZÓWKA){/b} Wydawanie tysiąca dolarów tygodniowo nie
 
 # game/script.rpy:598 #-#-# translate crowdin skip_6ca9791a:
 msgid "[_RT_] {i}I guess the only way to find out, is to let her do it. I should go and check on her after a few times to make sure she's doing alright though.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Myślę, że jedynym sposobem, aby się tego dowiedzieć, jest pozwolić jej to zrobić. Powinienem jednak sprawdzić, jak sobie radzi po kilku próbach, aby upewnić się, że wszystko jest w porządku.{/i}"
 
 # game/script.rpy:605 #-#-# translate crowdin skip_42b646a0:
 msgid "[_RT_] {i}{b}(HINT){/b} The journey of a thousand miles starts with a single step. Corrupting Mom will be no easy task, but visiting her room in the early mornings might be a good first step.{/i}"
@@ -58,7 +58,7 @@ msgstr "[_RT_] {i}{b}(WSKAZÓWKA){/b} Wydawanie tysiąca dolarów tygodniowo nie
 
 # game/script.rpy:851 #-#-# translate crowdin skip_6ca9791a_1:
 msgid "[_RT_] {i}I guess the only way to find out, is to let her do it. I should go and check on her after a few times to make sure she's doing alright though.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Myślę, że jedynym sposobem, aby się tego dowiedzieć, jest pozwolić jej to zrobić. Powinienem jednak sprawdzić, jak sobie radzi po kilku próbach, aby upewnić się, że wszystko jest w porządku.{/i}"
 
 # game/script.rpy:884 #-#-# translate crowdin gamestart_13f9152e:
 msgid "[_M_] [ryan], wake up!"
@@ -7914,7 +7914,7 @@ msgstr "[_RT_] {i}{b}(WSKAZÓWKA){/b} Wydawanie tysiąca dolarów tygodniowo nie
 
 # game/script.rpy:9953 #-#-# translate crowdin dinnerfirst_6ca9791a:
 msgid "[_RT_] {i}I guess the only way to find out, is to let her do it. I should go and check on her after a few times to make sure she's doing alright though.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Myślę, że jedynym sposobem, aby się tego dowiedzieć, jest pozwolić jej to zrobić. Powinienem jednak sprawdzić, jak sobie radzi po kilku próbach, aby upewnić się, że wszystko jest w porządku.{/i}"
 
 # game/script.rpy:9962 #-#-# translate crowdin dinnerfirst_1aca3ccd:
 msgid "You picked a boring option! What, you didn't want to take any risks?"
