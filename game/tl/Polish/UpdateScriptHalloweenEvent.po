@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-11-22 01:11\n"
+"PO-Revision-Date: 2025-11-30 17:32\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScriptHalloweenEvent.rpy:256 #-#-# translate crowdin halloween_event_start_36b1bdbb:
 msgid "{i}{b}(HINT){/b} Happy Halloween!{/i}"
@@ -602,19 +602,19 @@ msgstr "[_ST_] {i}Och, to obrzydliwe!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:717 #-#-# translate crowdin sidney_loyalty_path_90d9cc7f:
 msgid "[_ST_] {i}No, no, please, noooo!{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Nie, nie, proszę, nieeee!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:720 #-#-# translate crowdin sidney_loyalty_path_cc88d953:
 msgid "[_S_] {i}(Gurgling and gagging sounds){/i}"
-msgstr ""
+msgstr "[_S_] {i}(odgłosy bulgotania i pochrząkiwania){/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:725 #-#-# translate crowdin sidney_loyalty_path_072fe4ac:
 msgid "[_RT_] {i}Hold on Sidney! I'm coming!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Trzymaj się Sidney! Już idę!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:726 #-#-# translate crowdin sidney_loyalty_path_56317cd2:
 msgid "[_RT_] {i}I've got to take this son of a bitch by surprise!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Muszę wziąć tego sukinsyna przez zaskoczenie!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:729 #-#-# translate crowdin sidney_loyalty_path_430cbe5b:
 msgid "[_RT_] {i}Alright you giant, rotten scrotum.{/i}"
@@ -954,11 +954,11 @@ msgstr "[_ST_] {i}Och, to obrzydliwe!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1016 #-#-# translate crowdin sidney_monster_path_90d9cc7f:
 msgid "[_ST_] {i}No, no, please, noooo!{/i}"
-msgstr ""
+msgstr "[_ST_] {i}Nie, nie, proszę, nieeee!{/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1019 #-#-# translate crowdin sidney_monster_path_cc88d953:
 msgid "[_S_] {i}(Gurgling and gagging sounds){/i}"
-msgstr ""
+msgstr "[_S_] {i}(odgłosy bulgotania i pochrząkiwania){/i}"
 
 # game/UpdateScriptHalloweenEvent.rpy:1024 #-#-# translate crowdin sidney_monster_path_45a1d83c:
 msgid "[_ST_] {i}Whoa... Whatever that was, It's making me feel weird!{/i}"
