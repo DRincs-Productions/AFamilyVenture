@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-12-14 23:34\n"
+"PO-Revision-Date: 2025-12-23 04:36\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.09.rpy:564 #-#-# translate crowdin myroom_post_cami_fight_8a5367c3:
 msgid "[_R_] I'm not ready to sleep yet... I should go talk to Mom and Lauren before I come back to bed."
@@ -130,7 +130,7 @@ msgstr "[ _RT_ ] {i}Je ne peux pas croire qu'il soit devenu si normal que nous a
 
 # game/UpdateScript0.09.rpy:641 #-#-# translate crowdin pay_or_dont_b232a8f9:
 msgid "{i}{b}\"KNOCK, KNOCK, KNOCK!\"{/b}{/i}"
-msgstr "{i}{b}\"KNOCK, KNOCK, KNOCK !\"{/b}{/i}"
+msgstr "{i}{b}\"TOC, TOC, TOC !\"{/b}{/i}"
 
 # game/UpdateScript0.09.rpy:642 #-#-# translate crowdin pay_or_dont_12f5d14a:
 msgid "[_R_] I'm coming!"
@@ -146,7 +146,7 @@ msgstr "[ _R_ ] Vous devez simplement envoyer votre pilote à collecter, puis. T
 
 # game/UpdateScript0.09.rpy:647 #-#-# translate crowdin pay_or_dont_b348e8af:
 msgid "[_J_] Yeah, right? Except, if you're able to make the payment, this could be the only time I get to see [mom_name] this week."
-msgstr "[_J_] Oui, non ? Sauf si vous êtes en mesure de faire le paiement, ce pourrait être la seule fois que j'obtiens [mom_name] cette semaine."
+msgstr "[_J_] Ouais, c’est clair, non ? Sauf que si tu arrives à faire le paiement, ce sera peut-être la seule fois où je pourrai voir [mom_name] cette semaine."
 
 # game/UpdateScript0.09.rpy:648 #-#-# translate crowdin pay_or_dont_ad3e1ae0:
 msgid "[_J_] Is she almost ready?"
