@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-07-23 07:43\n"
+"PO-Revision-Date: 2025-12-29 19:39\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/images/interface_images/blackjack/blackjack-DS.rpy:511 #-#-# translate crowdin startGameBJ_ddfcd22e:
 msgid "[_BJ_dealer_] I'll start dealing the cards!{w=2.0}{nw}"
@@ -70,7 +70,7 @@ msgstr "Distributore"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:375
 msgid "Place your bets!"
-msgstr "Posiziona le tue scommesse!"
+msgstr "Piazza le tue scommesse!"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:382
 msgid "Do you want to bet $100 and start the game?"
