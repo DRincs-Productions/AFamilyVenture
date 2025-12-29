@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-08-19 06:07\n"
+"PO-Revision-Date: 2025-12-29 19:39\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # §translate crowdin strings: #|#|# # game/Credits_screen.rpy:57
 msgid "                               Credits"
@@ -72,17 +72,17 @@ msgstr "Will Tylor"
 msgid "\n"
 "{i}I avoided using supporters full names where possible, and used Discord handles instead wherever I had access to those.{/i}\n"
 msgstr "\n"
-"{i}Ho evitato di usare i nomi completi dei sostenitori, ove possibile, e ho usato le maniglie di Discord invece ovunque avessi accesso a quelli.{/i}\n"
+"{i}Ho evitato di usare i nomi completi dei sostenitori, ove possibile, e ho invece usato gli username Discord ovunque sia stato possibile.{/i}\n"
 
 # game/Credits_screen.rpy:174
 msgid "{i}Please contact me if you believe your name isn't here and it should be, or would like to have it listed differently.{/i}"
-msgstr "{i}Contattami se credi che il tuo nome non sia qui e dovrebbe essere, o vorresti averlo elencato in modo diverso.{/i}"
+msgstr "{i}Contattami se credi che il tuo nome non sia qui e dovrebbe esserci, o vorresti vederlo elencato in modo diverso.{/i}"
 
 # game/Credits_screen.rpy:176
 msgid "\n"
 "{b}{i}$35 tier (My Family with Benefits {i}SubscribeStar{/i}) (My Family {i}Patreon{/i}):{/i}{/b} \n"
 msgstr "\n"
-"{b}{i}$35 tier (Mia famiglia con benefici {i}AbbonatoStar{/i}) (Mia famiglia {i}Patreon{/i}):{/i}{/b} \n"
+"{b}{i}$35 tier (La mia famiglia con benefici {i}SubscribeStar{/i}) (La mia famiglia {i}Patreon{/i}):{/i}{/b} \n"
 
 # game/Credits_screen.rpy:178
 msgid "Anthony"
@@ -98,7 +98,7 @@ msgstr "Chris H****"
 
 # game/Credits_screen.rpy:181
 msgid "Chranth"
-msgstr "Clanth"
+msgstr "Chranth"
 
 # game/Credits_screen.rpy:182
 msgid "DD0"
@@ -196,7 +196,7 @@ msgstr "User#326F358E"
 msgid "\n"
 "{b}{i}$20 tier (My Family {i}SubscribeStar{/i}) (My BFF's {i}Patreon{/i}):{/i}{/b} \n"
 msgstr "\n"
-"{b}{i}$20 tier (Mia famiglia {i}AbbonatoStar{/i}) (Mia BFF {i}Patreon{/i}):{/i}{/b} \n"
+"{b}{i}$20 tier (La mia famiglia {i}SubscribeStar{/i}) (Il mio migliore amico {i}Patreon{/i}):{/i}{/b} \n"
 
 # game/Credits_screen.rpy:208
 msgid "."
@@ -240,7 +240,7 @@ msgstr "Alshe"
 
 # game/Credits_screen.rpy:218
 msgid "Alucard3091 Gaming"
-msgstr "Alucard3091 Gioco"
+msgstr "Alucard3091 Gaming"
 
 # game/Credits_screen.rpy:219
 msgid "AN SOS"
@@ -624,7 +624,7 @@ msgstr "King Hugi"
 
 # game/Credits_screen.rpy:315
 msgid "king wing"
-msgstr "ala re"
+msgstr "king wing"
 
 # game/Credits_screen.rpy:316
 msgid "Kitten"
@@ -864,7 +864,7 @@ msgstr "Umorrian"
 
 # game/Credits_screen.rpy:375
 msgid "Uncle Redneck"
-msgstr "Szio Scollo Rosso"
+msgstr "Uncle Redneck"
 
 # game/Credits_screen.rpy:376
 msgid "Varzii"
@@ -934,7 +934,7 @@ msgstr "\n"
 
 # game/Credits_screen.rpy:394
 msgid "Waiting for the Moment that Never Comes"
-msgstr "Waiting for the Moment that Never Comes"
+msgstr "In attesa del Momento che non viene mai"
 
 # game/Credits_screen.rpy:395
 msgid "by Lee Rosevere from The Free Music Archive"
@@ -974,7 +974,7 @@ msgstr "Rose Baba"
 
 # game/Credits_screen.rpy:407
 msgid "by Yan Terrien from The Free Music Archive"
-msgstr ""
+msgstr "di Yan Terrien da The Free Music Archive"
 
 # game/Credits_screen.rpy:410
 msgid "Whirlwind Love"
