@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-07-23 07:50\n"
+"PO-Revision-Date: 2025-12-30 10:30\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -30,11 +30,11 @@ msgstr "[_RT_] {i}{b}(HINT){/b} Mamma lavora molto duramente per tutta la settim
 
 # game/script.rpy:590 #-#-# translate crowdin skip_bb947539:
 msgid "[_RT_] {i}{b}(HINT){/b} So, if I get four hundred dollars to Sidney, she'll make Lauren a cosplay outfit. That would probably impress both Sidney and Lauren. I'll give the money to Sidney in the kitchen some evening.{/i}"
-msgstr "[_RT_] {i}{b}(HINT){/b} Quindi, se ricevo quattrocento dollari a Sidney, farà di Lauren un outfit cosplay. Questo probabilmente impressionerebbe sia Sidney che Lauren. darò il denaro a Sidney in cucina una sera.{/i}"
+msgstr "[_RT_] {i}{b}(HINT){/b} Quindi, se porto quattrocento dollari a Sidney, lei farà a Lauren un vestito da cosplay. Questo probabilmente impressionerebbe sia Sidney che Lauren. Darò i soldi a Sidney in cucina una sera"
 
 # game/script.rpy:597 #-#-# translate crowdin skip_bb3a2450:
 msgid "[_RT_] {i}{b}(HINT){/b} Shelling out one thousand dollars a week is not easy... I wonder how Mom would do if I just let her keep working off the debt at the strip club?{/i}"
-msgstr "[_RT_] {i}{b}(HINT){/b} Shelling out mille dollari alla settimana non è facile. . – Mi chiedo come la mamma farebbe se la lascio continuare a lavorare fuori il debito al club di striscia?{/i}"
+msgstr "[_RT_] {i}{b}(HINT){/b} Ricavare mille dollari alla settimana non è facile... – Mi chiedo come farebbe mamma se la lasciassi continuare a lavorare allo strip club per saldare il debito?{/i}"
 
 # game/script.rpy:598 #-#-# translate crowdin skip_6ca9791a:
 msgid "[_RT_] {i}I guess the only way to find out, is to let her do it. I should go and check on her after a few times to make sure she's doing alright though.{/i}"
@@ -50,11 +50,11 @@ msgstr "[_RT_] {i}{b}(HINT){/b} Mamma lavora molto duramente per tutta la settim
 
 # game/script.rpy:843 #-#-# translate crowdin skip_bb947539_1:
 msgid "[_RT_] {i}{b}(HINT){/b} So, if I get four hundred dollars to Sidney, she'll make Lauren a cosplay outfit. That would probably impress both Sidney and Lauren. I'll give the money to Sidney in the kitchen some evening.{/i}"
-msgstr "[_RT_] {i}{b}(HINT){/b} Quindi, se ricevo quattrocento dollari a Sidney, farà di Lauren un outfit cosplay. Questo probabilmente impressionerebbe sia Sidney che Lauren. darò il denaro a Sidney in cucina una sera.{/i}"
+msgstr "[_RT_] {i}{b}(HINT){/b} Quindi, se porto quattrocento dollari a Sidney, lei farà a Lauren un vestito da cosplay. Questo probabilmente impressionerebbe sia Sidney che Lauren. Darò i soldi a Sidney in cucina una sera"
 
 # game/script.rpy:850 #-#-# translate crowdin skip_bb3a2450_1:
 msgid "[_RT_] {i}{b}(HINT){/b} Shelling out one thousand dollars a week is not easy... I wonder how Mom would do if I just let her keep working off the debt at the strip club?{/i}"
-msgstr "[_RT_] {i}{b}(HINT){/b} Shelling out mille dollari alla settimana non è facile. . – Mi chiedo come la mamma farebbe se la lascio continuare a lavorare fuori il debito al club di striscia?{/i}"
+msgstr "[_RT_] {i}{b}(HINT){/b} Ricavare mille dollari alla settimana non è facile... – Mi chiedo come farebbe mamma se la lasciassi continuare a lavorare allo strip club per saldare il debito?{/i}"
 
 # game/script.rpy:851 #-#-# translate crowdin skip_6ca9791a_1:
 msgid "[_RT_] {i}I guess the only way to find out, is to let her do it. I should go and check on her after a few times to make sure she's doing alright though.{/i}"
@@ -3298,7 +3298,7 @@ msgstr "{i}{b}\"Rabbia di Sidney +10\"{/b}{/i}"
 
 # game/script.rpy:5342 #-#-# translate crowdin sidneyinthekitchencontinued_bb947539:
 msgid "[_RT_] {i}{b}(HINT){/b} So, if I get four hundred dollars to Sidney, she'll make Lauren a cosplay outfit. That would probably impress both Sidney and Lauren. I'll give the money to Sidney in the kitchen some evening.{/i}"
-msgstr "[_RT_] {i}{b}(HINT){/b} Quindi, se ricevo quattrocento dollari a Sidney, farà di Lauren un outfit cosplay. Questo probabilmente impressionerebbe sia Sidney che Lauren. darò il denaro a Sidney in cucina una sera.{/i}"
+msgstr "[_RT_] {i}{b}(HINT){/b} Quindi, se porto quattrocento dollari a Sidney, lei farà a Lauren un vestito da cosplay. Questo probabilmente impressionerebbe sia Sidney che Lauren. Darò i soldi a Sidney in cucina una sera"
 
 # game/script.rpy:5350 #-#-# translate crowdin sidneyinthekitchencontinued_9dc4e7d3:
 msgid "[_R_] I'm sorry, I was just looking down because your laughing embarassed me."
@@ -3370,7 +3370,7 @@ msgstr "{i}{b}\"Libido di Sidney +3\"{/b}{/i}"
 
 # game/script.rpy:5377 #-#-# translate crowdin sidneyinthekitchencontinued_bb947539_1:
 msgid "[_RT_] {i}{b}(HINT){/b} So, if I get four hundred dollars to Sidney, she'll make Lauren a cosplay outfit. That would probably impress both Sidney and Lauren. I'll give the money to Sidney in the kitchen some evening.{/i}"
-msgstr "[_RT_] {i}{b}(HINT){/b} Quindi, se ricevo quattrocento dollari a Sidney, farà di Lauren un outfit cosplay. Questo probabilmente impressionerebbe sia Sidney che Lauren. darò il denaro a Sidney in cucina una sera.{/i}"
+msgstr "[_RT_] {i}{b}(HINT){/b} Quindi, se porto quattrocento dollari a Sidney, lei farà a Lauren un vestito da cosplay. Questo probabilmente impressionerebbe sia Sidney che Lauren. Darò i soldi a Sidney in cucina una sera"
 
 # game/script.rpy:5386 #-#-# translate crowdin sidneyinthekitchencontinued_943e498b:
 msgid "[_S_] Oh my.... I'm sorry.... I really am sorry for laughing."
@@ -3426,7 +3426,7 @@ msgstr "{i}{b}\"Libido di Sidney +1\"{/b}{/i}"
 
 # game/script.rpy:5409 #-#-# translate crowdin sidneyinthekitchencontinued_bb947539_2:
 msgid "[_RT_] {i}{b}(HINT){/b} So, if I get four hundred dollars to Sidney, she'll make Lauren a cosplay outfit. That would probably impress both Sidney and Lauren. I'll give the money to Sidney in the kitchen some evening.{/i}"
-msgstr "[_RT_] {i}{b}(HINT){/b} Quindi, se ricevo quattrocento dollari a Sidney, farà di Lauren un outfit cosplay. Questo probabilmente impressionerebbe sia Sidney che Lauren. darò il denaro a Sidney in cucina una sera.{/i}"
+msgstr "[_RT_] {i}{b}(HINT){/b} Quindi, se porto quattrocento dollari a Sidney, lei farà a Lauren un vestito da cosplay. Questo probabilmente impressionerebbe sia Sidney che Lauren. Darò i soldi a Sidney in cucina una sera"
 
 # game/script.rpy:5447 #-#-# translate crowdin momearlymorning_c85ca467:
 msgid "[_RT_] {i}Why am I standing by Mom's door again. She already said she wasn't going to let me in.{/i}"
@@ -7910,7 +7910,7 @@ msgstr "[_RT_] {i}{b}(HINT){/b} Penso che probabilmente la mamma sia piuttosto s
 
 # game/script.rpy:9952 #-#-# translate crowdin dinnerfirst_bb3a2450:
 msgid "[_RT_] {i}{b}(HINT){/b} Shelling out one thousand dollars a week is not easy... I wonder how Mom would do if I just let her keep working off the debt at the strip club?{/i}"
-msgstr "[_RT_] {i}{b}(HINT){/b} Shelling out mille dollari alla settimana non è facile. . – Mi chiedo come la mamma farebbe se la lascio continuare a lavorare fuori il debito al club di striscia?{/i}"
+msgstr "[_RT_] {i}{b}(HINT){/b} Ricavare mille dollari alla settimana non è facile... – Mi chiedo come farebbe mamma se la lasciassi continuare a lavorare allo strip club per saldare il debito?{/i}"
 
 # game/script.rpy:9953 #-#-# translate crowdin dinnerfirst_6ca9791a:
 msgid "[_RT_] {i}I guess the only way to find out, is to let her do it. I should go and check on her after a few times to make sure she's doing alright though.{/i}"
