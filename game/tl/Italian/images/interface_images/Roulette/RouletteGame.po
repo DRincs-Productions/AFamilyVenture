@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-07-23 07:51\n"
+"PO-Revision-Date: 2026-01-02 10:33\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/images/interface_images/Roulette/RouletteGame.rpy:607 #-#-# translate crowdin test_feb4bc5b:
 msgid "[betPickVar]"
@@ -18,11 +18,11 @@ msgstr "[betPickVar]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:617 #-#-# translate crowdin gameTypeErrorCheck_be76e8b9:
 msgid "[_RLT_dealer_] Error: You haven't bet any amount of money.{w=3.0}{nw} [withDissolve20]"
-msgstr "[_RLT_dealer_] Error: You don't bet any amount of money.{w=3.0}{nw} [withDissolve20]"
+msgstr "[_RLT_dealer_] Errore: non hai scommesso nulla.{w=3.0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:624 #-#-# translate crowdin gameTypeErrorCheck_76d464ef:
 msgid "[_RLT_dealer_] Error: With the Straight betting game you can pick any roulette number. Please supply a list of one number.{w=3.0}{nw} [withDissolve20]"
-msgstr "[_RLT_dealer_] Error: With the Straight betting game you can pick any roulette number. Please provide a list of one number.{w=3.0}{nw} [withDissolve20]"
+msgstr "[_RLT_dealer_] Errore: Con il gioco Straight puoi scegliere qualsiasi numero della roulette. Scegline uno.{w=3.0}{nw} [withDissolve20]"
 
 # game/images/interface_images/Roulette/RouletteGame.rpy:633 #-#-# translate crowdin gameTypeErrorCheck_fbac9fac:
 msgid "[_RLT_dealer_] Error: With the Split betting game you can pick any 2 (two) roulette numbers. Please supply a list of two different numbers.{w=3.0}{nw} [withDissolve20]"
