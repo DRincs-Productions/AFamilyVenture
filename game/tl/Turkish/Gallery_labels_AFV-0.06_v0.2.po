@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-11-23 14:56\n"
+"PO-Revision-Date: 2026-01-10 19:11\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/Gallery_labels_AFV-0.06_v0.2.rpy:15 #-#-# translate crowdin label_gal_mom_drunk_e1aba2f6:
 msgid "[_RT_] {i}Hmmm.... no answer. I don't have a key, but I'm started to get a little worried about her.{/i}"
@@ -56570,7 +56570,7 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:26960 #-#-# translate crowdin label_best_polls_aftermath_614b0b8a:
 msgid "[_R_] {i}(faintly){/i}Oh, fuck... I'm getting close!"
-msgstr ""
+msgstr "[_R_] {i}(belli belirsiz){/i}Oh, kahretsin... Yaklaşıyorum!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:26961 #-#-# translate crowdin label_best_polls_aftermath_9fd710fe:
 msgid "[_MDT_] {i}Oh... I better hurry.{/i}"
