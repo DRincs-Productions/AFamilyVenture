@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-11-22 01:10\n"
+"PO-Revision-Date: 2026-01-14 21:42\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.06.rpy:715 #-#-# translate crowdin move_in_day_31871088:
 msgid "[_RT_] {i}I... think I slept in... What time is it?{/i}"
@@ -4082,7 +4082,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:3052 #-#-# translate crowdin update_six_bfasts_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Libido Sidney +1\" {/b}{/i}."
 
 # game/UpdateScript0.06.rpy:3065 #-#-# translate crowdin update_six_bfasts_8d9a4b12_1:
 msgid "[_RT_] {i}It smells good in here. Should I join everybody for breakfast?{/i}"
@@ -4282,7 +4282,7 @@ msgstr ""
 
 # game/UpdateScript0.06.rpy:3215 #-#-# translate crowdin update_six_bfasts_5bd31dc0_1:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Libido Sidney +1\" {/b}{/i}."
 
 # game/UpdateScript0.06.rpy:3237 #-#-# translate crowdin camille_workout_28c36d5d:
 msgid "[_RT_] {i}I'm not going back in there... she was pissed!{/i}"
