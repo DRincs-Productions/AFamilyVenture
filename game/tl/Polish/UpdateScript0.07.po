@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-11-22 01:11\n"
+"PO-Revision-Date: 2026-01-14 21:42\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.07.rpy:1024 #-#-# translate crowdin send_will_email_910761e6:
 msgid "[_RT_] {i}Ok, I've let Will Tylor know that Mom will be willing to meet him for dinner, now I just need to wait and see if he'll come through with the dress code changes.{/i}"
@@ -5394,7 +5394,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:4184 #-#-# translate crowdin mandy_school_breakfast_2863d310:
 msgid "[_RT_] {i}I've heard they have an exciting announcement to start it off. I'd better make sure I'm in {b}Mom's class every Monday morning{/b} so I don't miss the announcements.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Słyszałem, że na początek mają ekscytujące ogłoszenie. Lepiej upewnię się, że w każdy poniedziałek rano będę na zajęciach {b}mamy{/b}, żeby nie przegapić ogłoszeń.{/i}"
 
 # game/UpdateScript0.07.rpy:4207 #-#-# translate crowdin meeting_miss_jessica_e492cef9:
 msgid "{i}(Keyboard clacking sounds){/i}"
