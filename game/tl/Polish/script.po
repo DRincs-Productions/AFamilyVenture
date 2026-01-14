@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-11-22 01:10\n"
+"PO-Revision-Date: 2026-01-14 21:42\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -3422,7 +3422,7 @@ msgstr ""
 
 # game/script.rpy:5401 #-#-# translate crowdin sidneyinthekitchencontinued_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Libido Sidney +1\" {/b}{/i}."
 
 # game/script.rpy:5409 #-#-# translate crowdin sidneyinthekitchencontinued_bb947539_2:
 msgid "[_RT_] {i}{b}(HINT){/b} So, if I get four hundred dollars to Sidney, she'll make Lauren a cosplay outfit. That would probably impress both Sidney and Lauren. I'll give the money to Sidney in the kitchen some evening.{/i}"
@@ -5118,7 +5118,7 @@ msgstr "[_ST_] {i}Dlaczego ta myśl troszkę mnie podnieca?{/i}"
 
 # game/script.rpy:7336 #-#-# translate crowdin sidneychanging_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Libido Sidney +1\" {/b}{/i}."
 
 # game/script.rpy:7341 #-#-# translate crowdin sidneychanging_5bd59466:
 msgid "[_RT_] {i}Holy shit, that was close, but I don't think she saw me.{/i}"
@@ -5418,7 +5418,7 @@ msgstr ""
 
 # game/script.rpy:7525 #-#-# translate crowdin sidneylaurensneakingnight_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Libido Sidney +1\" {/b}{/i}."
 
 # game/script.rpy:7527 #-#-# translate crowdin sidneylaurensneakingnight_88fdacc0:
 msgid "[_M_] Well?"
@@ -5662,7 +5662,7 @@ msgstr ""
 
 # game/script.rpy:7656 #-#-# translate crowdin sidneylaurensneakingnight_5bd31dc0_1:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Libido Sidney +1\" {/b}{/i}."
 
 # game/script.rpy:7658 #-#-# translate crowdin sidneylaurensneakingnight_353d424e:
 msgid "[_ST_] {i}Shit! I can't admit to this!{/i}"
@@ -5966,7 +5966,7 @@ msgstr ""
 
 # game/script.rpy:8080 #-#-# translate crowdin classroommorning_2863d310:
 msgid "[_RT_] {i}I've heard they have an exciting announcement to start it off. I'd better make sure I'm in {b}Mom's class every Monday morning{/b} so I don't miss the announcements.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Słyszałem, że na początek mają ekscytujące ogłoszenie. Lepiej upewnię się, że w każdy poniedziałek rano będę na zajęciach {b}mamy{/b}, żeby nie przegapić ogłoszeń.{/i}"
 
 # game/script.rpy:8095 #-#-# translate crowdin classroommorning_22f8779a_1:
 msgid "[_M_] Okay class, let's pick up where we left off last time with our discussion on the Oedipus tragedy, and its influence today."
