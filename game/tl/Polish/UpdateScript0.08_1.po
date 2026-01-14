@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-11-09 12:32\n"
+"PO-Revision-Date: 2026-01-14 21:42\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.08_1.rpy:2250 #-#-# translate crowdin mom_ramp_up_c71fc1d6:
 msgid "[_RT_] {i}Oh wow!... I can't believe I've had sex with both of my sisters!{/i}"
@@ -30098,7 +30098,7 @@ msgstr ""
 
 # game/UpdateScript0.08_1.rpy:16854 #-#-# translate crowdin insta_sid_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Libido Sidney +1\" {/b}{/i}."
 
 # game/UpdateScript0.08_1.rpy:16856 #-#-# translate crowdin insta_sid_b718bca6:
 msgid "[_ST_] {i}Fuck, that's so wrong to imagin... Well, it's not like they would ever agree to anything like that...{/i}"
