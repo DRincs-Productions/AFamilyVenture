@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-11-22 01:10\n"
+"PO-Revision-Date: 2026-01-14 21:42\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.05.rpy:476 #-#-# translate crowdin sidneys_home_late_4d8ffea6:
 msgid "{i}(Soft footsteps and door creaking.){/i}"
@@ -7270,7 +7270,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4331 #-#-# translate crowdin breakfast_events_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Libido Sidney +1\" {/b}{/i}."
 
 # game/UpdateScript0.05.rpy:4344 #-#-# translate crowdin breakfast_events_8d9a4b12_9:
 msgid "[_RT_] {i}It smells good in here. Should I join everybody for breakfast?{/i}"
@@ -7490,7 +7490,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:4507 #-#-# translate crowdin breakfast_events_5bd31dc0_1:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Libido Sidney +1\" {/b}{/i}."
 
 # game/UpdateScript0.05.rpy:4520 #-#-# translate crowdin breakfast_events_8d9a4b12_10:
 msgid "[_RT_] {i}It smells good in here. Should I join everybody for breakfast?{/i}"
@@ -10826,7 +10826,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6372 #-#-# translate crowdin sid_working_club_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Libido Sidney +1\" {/b}{/i}."
 
 # game/UpdateScript0.05.rpy:6374 #-#-# translate crowdin sid_working_club_2c439995:
 msgid "[_RT_] {i}Aaahhh!.... Should I just risk a peek?{/i}"
@@ -11186,7 +11186,7 @@ msgstr ""
 
 # game/UpdateScript0.05.rpy:6621 #-#-# translate crowdin club_fun_5bd31dc0:
 msgid "{i}{b}\"Sidney's Libido +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Libido Sidney +1\" {/b}{/i}."
 
 # game/UpdateScript0.05.rpy:6633 #-#-# translate crowdin club_fun_cf5f45d7:
 msgid "[_S_] Yeah, that's a big no for me."
