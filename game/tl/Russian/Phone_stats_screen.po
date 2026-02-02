@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-11-11 14:38\n"
+"PO-Revision-Date: 2026-02-02 07:43\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # §translate crowdin strings: #|#|# # game/Phone_stats_screen.rpy:70
 msgid "Girls stats"
@@ -74,7 +74,7 @@ msgstr "{image=anger}{color=#000000} Злость...................[laurenanger
 
 # game/Phone_stats_screen.rpy:101
 msgid "{image=election}{color=#000000} School influence.[school_influence]{/color}"
-msgstr ""
+msgstr "{image=election}{color=#000000} Влияние школы.[school_influence]{/color}"
 
 # game/Phone_stats_screen.rpy:103
 msgid "{image=iconS} {color=#006600}Sidney's:{/color}"
