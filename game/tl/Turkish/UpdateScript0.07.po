@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2026-01-10 19:11\n"
+"PO-Revision-Date: 2026-02-10 10:55\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.07.rpy:1024 #-#-# translate crowdin send_will_email_910761e6:
 msgid "[_RT_] {i}Ok, I've let Will Tylor know that Mom will be willing to meet him for dinner, now I just need to wait and see if he'll come through with the dress code changes.{/i}"
@@ -21726,11 +21726,11 @@ msgstr "[_R_] {i}(belli belirsiz){/i}Oh, kahretsin... Yaklaşıyorum!"
 
 # game/UpdateScript0.07.rpy:13459 #-#-# translate crowdin best_polls_aftermath_9fd710fe:
 msgid "[_MDT_] {i}Oh... I better hurry.{/i}"
-msgstr ""
+msgstr "[_MDT_] {i}Oh... Acele etsem iyi olacak.{/i}"
 
 # game/UpdateScript0.07.rpy:13464 #-#-# translate crowdin best_polls_aftermath_8a697675:
 msgid "[_MD_] Ha.... I've caught you!"
-msgstr ""
+msgstr "[_MD_] Ha.... Seni yakaladım!"
 
 # game/UpdateScript0.07.rpy:13468 #-#-# translate crowdin best_polls_aftermath_683071b0:
 msgid "[_L_] Oh, God... I'm so embarrassed."
