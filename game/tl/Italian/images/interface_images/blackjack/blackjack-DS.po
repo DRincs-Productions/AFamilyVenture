@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-01-02 10:33\n"
+"PO-Revision-Date: 2026-02-14 17:53\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/images/interface_images/blackjack/blackjack-DS.rpy:511 #-#-# translate crowdin startGameBJ_ddfcd22e:
 msgid "[_BJ_dealer_] I'll start dealing the cards!{w=2.0}{nw}"
@@ -54,7 +54,7 @@ msgstr "[_BJ_dealer_] Hai perso il gioco e $[betSum]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:669 #-#-# translate crowdin handCheckLabel_901a9a2d:
 msgid "[_BJ_dealer_] The dealer also has [computerScore], so it's a push! You get your $[betSum] back minus $[betIns] for insurance.{w=2.0}{nw}"
-msgstr "[_BJ_dealer_] Anche il banco ha [computerScore], quindi è una Push! Ricevi il tuo $[betSum] indietro meno $[betIns] per l'assicurazione.{w=2.0}{nw}"
+msgstr "[_BJ_dealer_] Anche il banco ha [computerScore], quindi è un Push! Ricevi i tuoi $[betSum] indietro meno $[betIns] per l'assicurazione.{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:671 #-#-# translate crowdin handCheckLabel_3615550f:
 msgid "[_BJ_dealer_] The dealer also has [computerScore], so it's a push! You get your $[betSum] back!{w=2.0}{nw}"
