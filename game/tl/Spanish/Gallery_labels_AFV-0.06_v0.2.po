@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-01-05 03:35\n"
+"PO-Revision-Date: 2026-03-31 20:06\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/Gallery_labels_AFV-0.06_v0.2.rpy:15 #-#-# translate crowdin label_gal_mom_drunk_e1aba2f6:
 msgid "[_RT_] {i}Hmmm.... no answer. I don't have a key, but I'm started to get a little worried about her.{/i}"
@@ -11210,7 +11210,7 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:5683 #-#-# translate crowdin label_gal_beach_date_3d3b9d3e:
 msgid "{i}{b}\"Mom's Affection -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b} \"Afecto de mamá -1\"{/b}{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:5689 #-#-# translate crowdin label_gal_beach_date_e6a76daa:
 msgid "[_M_] I'm not sure how well this is going to work."
@@ -12486,7 +12486,7 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:6369 #-#-# translate crowdin label_gal_beach_date_3d3b9d3e_1:
 msgid "{i}{b}\"Mom's Affection -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b} \"Afecto de mamá -1\"{/b}{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:6375 #-#-# translate crowdin label_gal_beach_date_e6a76daa_1:
 msgid "[_M_] I'm not sure how well this is going to work."
@@ -14242,7 +14242,7 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:7265 #-#-# translate crowdin label_gal_beach_date_3d3b9d3e_2:
 msgid "{i}{b}\"Mom's Affection -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b} \"Afecto de mamá -1\"{/b}{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:7271 #-#-# translate crowdin label_gal_beach_date_e6a76daa_2:
 msgid "[_M_] I'm not sure how well this is going to work."
@@ -77186,7 +77186,7 @@ msgstr ""
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:36253 #-#-# translate crowdin label_yard_show_3d3b9d3e:
 msgid "{i}{b}\"Mom's Affection -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b} \"Afecto de mamá -1\"{/b}{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:36254 #-#-# translate crowdin label_yard_show_0bb65ece:
 msgid "[_M_] {i}(Whispering){/i} Don't you say another word!"
