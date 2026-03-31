@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-31 15:16\n"
+"PO-Revision-Date: 2026-03-31 18:29\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -534,11 +534,11 @@ msgstr ""
 
 # game/script.rpy:1513 #-#-# translate crowdin computer_408fc709:
 msgid "[_RT_] {i}It seems that we can increase our revenues if people decide to become our supporters and we'll get $[var_earnings_per_supporters] for each one.{/i}"
-msgstr ""
+msgstr "[_RT_] {i} Al parecer podemos incrementar nuestros ingresos si la gente decide convertirse en nuestros seguidores $[var_earnings_per_supporters] por cada uno.{/i}"
 
 # game/script.rpy:1514 #-#-# translate crowdin computer_487f4ba7:
 msgid "[_RT_] {i}Now it's the perfect time to use those lewd pictures I took of Lauren.{/i}"
-msgstr ""
+msgstr "[_RT_] {i} Ahora es el momento perfecto para usar esas fotos lascivas que tomé de Lauren.{/i}"
 
 # game/script.rpy:1515 #-#-# translate crowdin computer_8d472543:
 msgid "[_RT_] {i}To bad that this is a monthly income, but still we can get more money and maybe I can use this to corrupt Lauren more.{/i}"
@@ -546,11 +546,11 @@ msgstr ""
 
 # game/script.rpy:1516 #-#-# translate crowdin computer_45e1eea6:
 msgid "[_RT_] {i}Let's start uploading those pictures now.... {p}and click submit.... {p}and now we just wait to see if anyone likes them so much that they'll become our supporter.{/i}"
-msgstr ""
+msgstr "[_RT_] {i} Empecemos ya a subir esas fotos... {p}y hagamos clic en enviar... {p}y ahora sólo queda esperar a ver si a alguien le gustan tanto que se convierta en nuestro seguidor.{/i}"
 
 # game/script.rpy:1517 #-#-# translate crowdin computer_39027316:
 msgid "[_RT_] {i}Hmmm.... let me see how the page turned out before I go.{/i}"
-msgstr ""
+msgstr "[_RT_] {i} Hmmm... déjame ver cómo quedó la página antes de irme.{/i}"
 
 # game/script.rpy:1518 #-#-# translate crowdin computer_55e11975:
 msgid "[_RT_] {i}Click.... {p}click.... {p}click.... {/i}"
