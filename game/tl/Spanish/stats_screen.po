@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-07-23 09:41\n"
+"PO-Revision-Date: 2026-03-31 20:06\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # §translate crowdin strings: #|#|# # game/stats_screen.rpy:28
 msgid "{color=#42f456}Mom's:{/color}"
@@ -111,11 +111,11 @@ msgstr ""
 
 # game/stats_screen.rpy:56
 msgid "{color=#85c1e9}Mandy's:{/color}"
-msgstr ""
+msgstr "{color=#85c1e9} Mandy: {/color}"
 
 # game/stats_screen.rpy:57
 msgid "{color=#000000}Respect............[cousinrespect]{/color}"
-msgstr ""
+msgstr "{color=#000000} Respeto..........[cousinrespect]{/color}"
 
 # game/stats_screen.rpy:58
 msgid "{color=#000000}Affection.........[cousinaffection]{/color}"
