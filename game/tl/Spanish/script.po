@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-31 18:29\n"
+"PO-Revision-Date: 2026-03-31 20:05\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -210,7 +210,7 @@ msgstr ""
 
 # game/script.rpy:959 #-#-# translate crowdin peek_3d3b9d3e:
 msgid "{i}{b}\"Mom's Affection -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b} \"Afecto de mamá -1\"{/b}{/i}"
 
 # game/script.rpy:968 #-#-# translate crowdin gross_2702cdee:
 msgid "[_M_] Ok, well I'm going to go.{p} Bring my phone to the kitchen when you're done."
@@ -274,7 +274,7 @@ msgstr ""
 
 # game/script.rpy:990 #-#-# translate crowdin main_c6972989:
 msgid "[_D_] Our family's safety and success are now in your hands..."
-msgstr ""
+msgstr "[_D_] La seguridad y el éxito de nuestra familia están ahora en tus manos..."
 
 # game/script.rpy:991 #-#-# translate crowdin main_0847adbe:
 msgid "[_D_] So don't fuck it up!"
@@ -286,7 +286,7 @@ msgstr ""
 
 # game/script.rpy:1006 #-#-# translate crowdin main_322f7fd4:
 msgid "{b}{i}{b}(HINT){/b} Open your phone and click on the \"Progress button\" to see hints to your active events.{/i}{/b}"
-msgstr ""
+msgstr "{b}{i}{b}(SUGERENCIA){/b} Abre tu teléfono y haz clic en el \"Botón de progreso\" para ver pistas sobre tus eventos activos.{/i}{/b}"
 
 # game/script.rpy:1007 #-#-# translate crowdin main_f24e9dae:
 msgid "[_RT_] {i}{b}(HINT){/b} I should go to the family portrait first to reminisce.{/i}"
@@ -294,7 +294,7 @@ msgstr ""
 
 # game/script.rpy:1270 #-#-# translate crowdin myroom_2f8227a2:
 msgid "[_L_] [ryan] can you come in to the lounge and help me!"
-msgstr ""
+msgstr "[_L_] [ryan] ¡Puedes venir a la sala y ayudarme!"
 
 # game/script.rpy:1274 #-#-# translate crowdin myroom_3959ba15:
 msgid "[_RT_] {i}What did I just walk in on? It's like Mom and Lauren are purposely trying to be cock-teases lately.{/i}"
@@ -442,7 +442,7 @@ msgstr ""
 
 # game/script.rpy:1346 #-#-# translate crowdin myroom_42a0b068:
 msgid "[_L_] So do you want to watch TV with me?"
-msgstr ""
+msgstr "[_L_] ¿Quieres ver la tele conmigo?"
 
 # game/script.rpy:1347 #-#-# translate crowdin myroom_9fb4357b:
 msgid "[_R_] Ok, what are you watching?"
@@ -578,7 +578,7 @@ msgstr ""
 
 # game/script.rpy:1847 #-#-# translate crowdin bed_2b7c40ab:
 msgid "[_RT_] {i}I don't have time for this. I've got to get ready to go visit Dad in prison.{/i}"
-msgstr ""
+msgstr "[_RT_] {i} No tengo tiempo para esto ahora. Tengo que prepararme para visitar a papá en prisión{/i}"
 
 # game/script.rpy:1850 #-#-# translate crowdin bed_0ba776cf_2:
 msgid "[_RT_] {i}I need to go to school and see how Lauren is doing in the student body election poll.{/i}"
@@ -1154,7 +1154,7 @@ msgstr ""
 
 # game/script.rpy:3336 #-#-# translate crowdin loungeevening_42a0b068:
 msgid "[_L_] So do you want to watch TV with me?"
-msgstr ""
+msgstr "[_L_] ¿Quieres ver la tele conmigo?"
 
 # game/script.rpy:3337 #-#-# translate crowdin loungeevening_9fb4357b:
 msgid "[_R_] Ok, what are you watching?"
@@ -1518,7 +1518,7 @@ msgstr ""
 
 # game/script.rpy:3587 #-#-# translate crowdin loungeeveningweekend_42a0b068:
 msgid "[_L_] So do you want to watch TV with me?"
-msgstr ""
+msgstr "[_L_] ¿Quieres ver la tele conmigo?"
 
 # game/script.rpy:3588 #-#-# translate crowdin loungeeveningweekend_9fb4357b:
 msgid "[_R_] Ok, what are you watching?"
@@ -2262,7 +2262,7 @@ msgstr ""
 
 # game/script.rpy:4719 #-#-# translate crowdin kitcheneveningweekend_3d3b9d3e:
 msgid "{i}{b}\"Mom's Affection -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b} \"Afecto de mamá -1\"{/b}{/i}"
 
 # game/script.rpy:4721 #-#-# translate crowdin kitcheneveningweekend_ba875325:
 msgid "[_M_] Yeah.... well.... my husband is in jail, we're being investigated by the FBI, I have no money to go shopping, I have to pay the Mafia off every week,"
@@ -2414,7 +2414,7 @@ msgstr ""
 
 # game/script.rpy:4809 #-#-# translate crowdin dishes_2f8227a2:
 msgid "[_L_] [ryan] can you come in to the lounge and help me!"
-msgstr ""
+msgstr "[_L_] [ryan] ¡Puedes venir a la sala y ayudarme!"
 
 # game/script.rpy:4813 #-#-# translate crowdin dishes_3959ba15:
 msgid "[_RT_] {i}What did I just walk in on? It's like Mom and Lauren are purposely trying to be cock-teases lately.{/i}"
@@ -2566,7 +2566,7 @@ msgstr ""
 
 # game/script.rpy:4900 #-#-# translate crowdin dishes_42a0b068:
 msgid "[_L_] So do you want to watch TV with me?"
-msgstr ""
+msgstr "[_L_] ¿Quieres ver la tele conmigo?"
 
 # game/script.rpy:4901 #-#-# translate crowdin dishes_9fb4357b:
 msgid "[_R_] Ok, what are you watching?"
@@ -4034,7 +4034,7 @@ msgstr ""
 
 # game/script.rpy:6014 #-#-# translate crowdin momangryroom_3d3b9d3e:
 msgid "{i}{b}\"Mom's Affection -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b} \"Afecto de mamá -1\"{/b}{/i}"
 
 # game/script.rpy:6015 #-#-# translate crowdin momangryroom_b8a760c3:
 msgid "{i}{b}\"Mom's Anger +2\"{/b}{/i}"
