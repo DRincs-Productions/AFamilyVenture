@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-11-11 14:38\n"
+"PO-Revision-Date: 2026-07-04 04:12\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # §translate crowdin strings: #|#|# # game/Points_screen.rpy:119
 msgid "Mom's stats:"
@@ -19,23 +19,23 @@ msgstr "Статистика Мамы:"
 
 # game/Points_screen.rpy:129
 msgid "[momaffection]"
-msgstr ""
+msgstr "[симпатия мамы]"
 
 # game/Points_screen.rpy:130
 msgid "[momrespect]"
-msgstr ""
+msgstr "[уважение мамы]"
 
 # game/Points_screen.rpy:131
 msgid "[momlibido]"
-msgstr ""
+msgstr "[либидо мамы]"
 
 # game/Points_screen.rpy:132
 msgid "[momsubmission]"
-msgstr ""
+msgstr "[покорность мамы]"
 
 # game/Points_screen.rpy:133
 msgid "[momanger]"
-msgstr ""
+msgstr "[гнев мамы]"
 
 # game/Points_screen.rpy:140
 msgid "Lauren's stats:"
@@ -43,23 +43,23 @@ msgstr "Статистика Лорен:"
 
 # game/Points_screen.rpy:149
 msgid "[laurenaffection]"
-msgstr ""
+msgstr "[симпатия Лорен]"
 
 # game/Points_screen.rpy:150
 msgid "[laurenrespect]"
-msgstr ""
+msgstr "[уважение Лорен]"
 
 # game/Points_screen.rpy:151
 msgid "[laurenlibido]"
-msgstr ""
+msgstr "[либидо Лорен]"
 
 # game/Points_screen.rpy:152
 msgid "[laurensubmission]"
-msgstr ""
+msgstr "[покорность Лорен]"
 
 # game/Points_screen.rpy:153
 msgid "[laurenanger]"
-msgstr ""
+msgstr "[гнев Лорен]"
 
 # game/Points_screen.rpy:160
 msgid "Sidney's stats:"
@@ -67,43 +67,43 @@ msgstr "Статистика Сидни:"
 
 # game/Points_screen.rpy:169
 msgid "[sidneyaffection]"
-msgstr ""
+msgstr "[симпатия Сидни]"
 
 # game/Points_screen.rpy:170
 msgid "[sidneyrespect]"
-msgstr ""
+msgstr "[уважение Сидни]"
 
 # game/Points_screen.rpy:171
 msgid "[sidneylibido]"
-msgstr ""
+msgstr "[либидо Сидни]"
 
 # game/Points_screen.rpy:172
 msgid "[sidneysubmission]"
-msgstr ""
+msgstr "[покорность Сидни]"
 
 # game/Points_screen.rpy:173
 msgid "[sidneyanger]"
-msgstr ""
+msgstr "[гнев Сидни]"
 
 # game/Points_screen.rpy:192
 msgid "[auntaffection]"
-msgstr ""
+msgstr "[симпатия тети]"
 
 # game/Points_screen.rpy:193
 msgid "[auntrespect]"
-msgstr ""
+msgstr "[уважение тети]"
 
 # game/Points_screen.rpy:194
 msgid "[auntlibido]"
-msgstr ""
+msgstr "[либидо тети]"
 
 # game/Points_screen.rpy:195
 msgid "[auntsubmission]"
-msgstr ""
+msgstr "[покорность тети]"
 
 # game/Points_screen.rpy:196
 msgid "[auntanger]"
-msgstr ""
+msgstr "[гнев тети]"
 
 # game/Points_screen.rpy:206
 msgid "Mandy's stats:"
@@ -111,23 +111,23 @@ msgstr "Статистика Мэнди:"
 
 # game/Points_screen.rpy:215
 msgid "[cousinaffection]"
-msgstr ""
+msgstr "[симпатия двоюродной сестры]"
 
 # game/Points_screen.rpy:216
 msgid "[cousinrespect]"
-msgstr ""
+msgstr "[уважение двоюродной сестры]"
 
 # game/Points_screen.rpy:217
 msgid "[cousinlibido]"
-msgstr ""
+msgstr "[либидо двоюродной сестры]"
 
 # game/Points_screen.rpy:218
 msgid "[cousinsubmission]"
-msgstr ""
+msgstr "[покорность двоюродной сестры]"
 
 # game/Points_screen.rpy:219
 msgid "[cousinanger]"
-msgstr ""
+msgstr "[гнев двоюродной сестры]"
 
 # game/Points_screen.rpy:221
 msgid "<<"
