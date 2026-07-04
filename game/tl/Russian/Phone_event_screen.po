@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-12-27 14:42\n"
+"PO-Revision-Date: 2026-07-04 04:11\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/Phone_event_screen.rpy:1207 #-#-# translate crowdin event_info_02_5cb3efa8:
 msgid "[_RT_] {i}I should go to the family portrait first to reminisce.{/i}"
@@ -206,7 +206,7 @@ msgstr "[_RT_] {i}Мне нужно купить спа-камеру и поме
 
 # game/Phone_event_screen.rpy:1374 #-#-# translate crowdin event_info_22_678e43f0:
 msgid "[_RT_] {i}I've placed the spycam in Lauren's bedroom. Now I just need to catch Sidney in there when her libido is at it's highest (10 pts).{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Я разместил скрытую камеру в спальне Лорен. Теперь мне просто нужно застать Sidney тут, когда ее либидо на пике (10 pts).{/i}"
 
 # game/Phone_event_screen.rpy:1378 #-#-# translate crowdin event_info_23_a0fcddaa:
 msgid "[_RT_] {i}I got an email ad on my phone for a special deal on a Hyongu bikini. The deal is for a very limited time, so if I want to get it, I'd better do it soon.{/i}"
