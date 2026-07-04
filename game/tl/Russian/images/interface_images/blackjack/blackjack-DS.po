@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-07-23 07:51\n"
+"PO-Revision-Date: 2026-07-04 05:53\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/images/interface_images/blackjack/blackjack-DS.rpy:511 #-#-# translate crowdin startGameBJ_ddfcd22e:
 msgid "[_BJ_dealer_] I'll start dealing the cards!{w=2.0}{nw}"
-msgstr "[_BJ_dealer_] Я начну раздачу кард!{w=2.0}{nw}"
+msgstr "[_BJ_dealer_] Я начну раздачу карт!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:581 #-#-# translate crowdin handCheckLabel_8e5fda21:
 msgid "[_BJ_dealer_] Dealer Bust, you won $[betSum]!{w=2.0}{nw}"
