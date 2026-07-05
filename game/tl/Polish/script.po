@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2026-02-14 15:23\n"
+"PO-Revision-Date: 2026-07-05 01:16\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -2150,7 +2150,7 @@ msgstr "[_M_] Haha... tak, to się nazywa lekarstwo na kaca."
 
 # game/script.rpy:4681 #-#-# translate crowdin kitcheneveningweekend_93bbc6d6:
 msgid "[_R_] Hair of the dog?"
-msgstr ""
+msgstr "[_R_] Lekarstwo na kaca?"
 
 # game/script.rpy:4682 #-#-# translate crowdin kitcheneveningweekend_138faf32:
 msgid "[_M_] Yeah I'm not really sure what it means, something about dog hair and curing rabies bites."
@@ -2162,43 +2162,43 @@ msgstr "[_M_] Po prostu nie jestem w stanie poradzić sobie z objawami kaca w ob
 
 # game/script.rpy:4686 #-#-# translate crowdin kitcheneveningweekend_22233a23:
 msgid "[_R_] Mom, I really want to help out with the mess we are in."
-msgstr ""
+msgstr "[_R_] Mamo, naprawdę chcę pomóc w tej trudnej sytuacji, w której się znaleźliśmy."
 
 # game/script.rpy:4687 #-#-# translate crowdin kitcheneveningweekend_f08e64c0:
 msgid "[_R_] Is there anything I can do to help relieve some of your stress?"
-msgstr ""
+msgstr "[_R_] Czy mogę jakoś pomóc ci się odprężyć?"
 
 # game/script.rpy:4688 #-#-# translate crowdin kitcheneveningweekend_ccd3cd5d:
 msgid "[_M_] You really are such a good boy."
-msgstr ""
+msgstr "[_M_] Naprawdę jesteś takim grzecznym chłopcem."
 
 # game/script.rpy:4689 #-#-# translate crowdin kitcheneveningweekend_b5b63e40:
 msgid "[_M_] You're already working at Dad's warehouse to help pay the weekly Mafia bill."
-msgstr ""
+msgstr "[_M_] Wciąż pracujesz w magazynie taty, żeby pomóc opłacić cotygodniowy dług mafii."
 
 # game/script.rpy:4690 #-#-# translate crowdin kitcheneveningweekend_c7a6212a:
 msgid "[_M_] And I don't want you missing any more school than you have to. You have to graduate this year!"
-msgstr ""
+msgstr "[_M_] I nie chcę, żebyś opuszczał więcej zajęć szkolnych niż to konieczne. Musisz w tym roku ukończyć szkołę!"
 
 # game/script.rpy:4691 #-#-# translate crowdin kitcheneveningweekend_d6fb2d4f:
 msgid "[_R_] You really can't think of anything else I could do to be helpful?"
-msgstr ""
+msgstr "[_R_] Naprawdę nie przychodzi ci do głowy nic innego, co mógłbym zrobić, żeby pomóc?"
 
 # game/script.rpy:4692 #-#-# translate crowdin kitcheneveningweekend_e73793ee:
 msgid "[_M_] Well.... If you really want to, you could make sure the dishes get done in the evening."
-msgstr ""
+msgstr "[_M_] No cóż… Jeśli naprawdę chcesz, możesz zadbać o to, żeby wieczorem zmyć naczynia."
 
 # game/script.rpy:4693 #-#-# translate crowdin kitcheneveningweekend_f996f697:
 msgid "[_M_] If I didn't have to worry about cleaning the dinner mess, I could have more time for grading papers and getting my lessons ready."
-msgstr ""
+msgstr "[_M_] Gdybym nie musiał martwić się o sprzątanie po kolacji, miałbym więcej czasu na ocenianie prac i przygotowywanie lekcji."
 
 # game/script.rpy:4694 #-#-# translate crowdin kitcheneveningweekend_1d039d69:
 msgid "[_R_] Sure, I can do that."
-msgstr ""
+msgstr "[_R_] Jasne, mogę to zrobić."
 
 # game/script.rpy:4695 #-#-# translate crowdin kitcheneveningweekend_591993a9:
 msgid "[_M_] That would be so great!"
-msgstr ""
+msgstr "[_M_] To byłoby wspaniałe!"
 
 # game/script.rpy:4696 #-#-# translate crowdin kitcheneveningweekend_a709ac89:
 msgid "[_M_] But don't stress too much if you don't have time, I'll take care of it if you're too busy."
@@ -2222,7 +2222,7 @@ msgstr "[_M_] Dzięki, kochanie. Pójdę dziś wcześniej spać."
 
 # game/script.rpy:4703 #-#-# translate crowdin kitcheneveningweekend_bb8e8edd:
 msgid "[_M_] Good night sweety. See you in the morning."
-msgstr ""
+msgstr "[_M_] Dobranoc, kochanie. Zobaczymy się rano."
 
 # game/script.rpy:4704 #-#-# translate crowdin kitcheneveningweekend_f4c5fa30:
 msgid "{i}{b}\"Mom's Affection +1\"{/b}{/i}"
@@ -2230,35 +2230,35 @@ msgstr "{i}{b}\"Uczucia mamy +1\" {/b}{/i}"
 
 # game/script.rpy:4706 #-#-# translate crowdin kitcheneveningweekend_95b548c7:
 msgid "[_RT_] {i}Oh Man! I don't think I've ever seen Mom this stressed out. She's trying to put on a strong face, but I can see the worry in her eyes.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}O rany! Chyba nigdy nie widziałem mamy tak zestresowanej. Stara się zachować pogodną minę, ale w jej oczach widać niepokój.{/i}"
 
 # game/script.rpy:4707 #-#-# translate crowdin kitcheneveningweekend_0af04e20:
 msgid "[_RT_] {i}If I can replace all the things Dad did for her, I think she would be relaxed and happy again.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Gdybym mógł zastąpić wszystko, co tata dla niej robił, myślę, że znów byłaby spokojna i szczęśliwa.{/i}"
 
 # game/script.rpy:4708 #-#-# translate crowdin kitcheneveningweekend_1535e9c4:
 msgid "[_RT_] {i}All I have to do is get the cash flowing into the household. Which will be no easy thing.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Muszę tylko zadbać o to, by do naszego budżetu domowego napływały pieniądze. A to nie będzie łatwe.{/i}"
 
 # game/script.rpy:4709 #-#-# translate crowdin kitcheneveningweekend_5993cc82:
 msgid "[_RT_] {i}But that seems to be the only contribution he was making.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Wydaje się jednak, że to był jego jedyny wkład.{/i}"
 
 # game/script.rpy:4710 #-#-# translate crowdin kitcheneveningweekend_6e7e6b0d:
 msgid "[_RT_] {i}He and Mom hardly even talk to each other anymore.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}On i mama praktycznie nie rozmawiają już ze sobą.{/i}"
 
 # game/script.rpy:4711 #-#-# translate crowdin kitcheneveningweekend_290c28ab:
 msgid "[_RT_] {i}So maybe I can be everything to her that he wasn't.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Może więc będę dla niej tym wszystkim, czym on nie był.{/i}"
 
 # game/script.rpy:4717 #-#-# translate crowdin kitcheneveningweekend_0cc41943:
 msgid "[_M_] And how is that any of your business?"
-msgstr ""
+msgstr "[_M_] A co cię to w ogóle obchodzi?"
 
 # game/script.rpy:4718 #-#-# translate crowdin kitcheneveningweekend_b6872a67:
 msgid "[_R_] Mom! You drank all night, and you've been drinking all day."
-msgstr ""
+msgstr "[_R_] Mamo! Piłaś całą noc, a teraz pijesz cały dzień."
 
 # game/script.rpy:4719 #-#-# translate crowdin kitcheneveningweekend_3d3b9d3e:
 msgid "{i}{b}\"Mom's Affection -1\"{/b}{/i}"
@@ -2266,23 +2266,23 @@ msgstr "{i}{b}\"Uczucie mamy -1\" {/b}{/i}"
 
 # game/script.rpy:4721 #-#-# translate crowdin kitcheneveningweekend_ba875325:
 msgid "[_M_] Yeah.... well.... my husband is in jail, we're being investigated by the FBI, I have no money to go shopping, I have to pay the Mafia off every week,"
-msgstr ""
+msgstr "[_M_] Tak. No cóż… mój mąż siedzi w więzieniu, prowadzi przeciwko nam śledztwo FBI, nie mam pieniędzy na zakupy, co tydzień muszę płacić mafii,"
 
 # game/script.rpy:4722 #-#-# translate crowdin kitcheneveningweekend_92624ecd:
 msgid "[_M_] I have to go back to stripping to make enough money to pay them off, oh, and on top of all that, my son attended my grand return strip show!"
-msgstr ""
+msgstr "[_M_] Muszę wrócić do pracy jako striptizerka, żeby zarobić wystarczająco dużo pieniędzy, by spłacić im długi, aha, a do tego mój syn był na moim wielkim powrotnym pokazie striptizu!"
 
 # game/script.rpy:4723 #-#-# translate crowdin kitcheneveningweekend_d4f565ad:
 msgid "[_M_] You tell me a healthy way to deal with all of that."
-msgstr ""
+msgstr "[_M_] Powiedz mi w jaki bezpieczny sposób sobie z tym wszystkim poradzić."
 
 # game/script.rpy:4724 #-#-# translate crowdin kitcheneveningweekend_652446b7:
 msgid "[_R_] Well, not getting alcohol poisoning would be a good start!"
-msgstr ""
+msgstr "[_R_] Cóż, uniknięcie zatrucia alkoholem byłoby już dobrym początkiem!"
 
 # game/script.rpy:4727 #-#-# translate crowdin kitcheneveningweekend_d7e0ea0a:
 msgid "[_M_] Like I said, it's not any of your business, but since you feel you need to intrude into my business, I'm only drinking a little so my hangover won't be so bad."
-msgstr ""
+msgstr "[_M_] Jak już mówiłam, to nie twoja sprawa, ale skoro uważasz, że musisz się wtrącać w moje sprawy, to piję tylko trochę, żeby kac nie był taki straszny."
 
 # game/script.rpy:4728 #-#-# translate crowdin kitcheneveningweekend_477ea929_1:
 msgid "[_R_] Is putting more of what caused your hangover into your body really the best way to treat a hangover?"
@@ -2290,43 +2290,43 @@ msgstr "[_R_] Czy wprowadzanie do organizmu większej ilości substancji, które
 
 # game/script.rpy:4729 #-#-# translate crowdin kitcheneveningweekend_614a2de6:
 msgid "[_M_] It's not a great method, but it seems to have some effect."
-msgstr ""
+msgstr "[_M_] Nie jest to najlepsza metoda, ale wydaje się, że przynosi pewne efekty."
 
 # game/script.rpy:4730 #-#-# translate crowdin kitcheneveningweekend_a8f7c1a7:
 msgid "[_M_] It's called the hair of the dog remedy, or something like that."
-msgstr ""
+msgstr "[_M_] Nazywa się to „lekarstwem na kaca” czy coś w tym rodzaju."
 
 # game/script.rpy:4731 #-#-# translate crowdin kitcheneveningweekend_2bbbbd28:
 msgid "[_R_] Hmmm.... well do you promise me you won't drink anymore today?"
-msgstr ""
+msgstr "[_R_] Hmmm... no cóż, obiecujesz mi, że dzisiaj już nie będziesz pić?"
 
 # game/script.rpy:4732 #-#-# translate crowdin kitcheneveningweekend_dc7637dc:
 msgid "[_M_] I don't have to promise you anything!"
-msgstr ""
+msgstr "[_M_] Nie muszę ci niczego obiecywać!"
 
 # game/script.rpy:4733 #-#-# translate crowdin kitcheneveningweekend_11b22abf:
 msgid "[_R_] Mom! I'm just really worried about you! I know you're under a lot of stress."
-msgstr ""
+msgstr "[_R_] Mamo! Po prostu bardzo się o ciebie martwię! Wiem, że przeżywasz teraz ogromny stres."
 
 # game/script.rpy:4734 #-#-# translate crowdin kitcheneveningweekend_2edef69a:
 msgid "[_R_] That's why I'm going to help make everything be ok."
-msgstr ""
+msgstr "[_R_] Dlatego zamierzam pomóc, żeby wszystko się ułożyło."
 
 # game/script.rpy:4736 #-#-# translate crowdin kitcheneveningweekend_fbc81cf8:
 msgid "{i}{b}\"Mom's Submission +2\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}\"Uległość mamy +2\"{/b}{/i}"
 
 # game/script.rpy:4739 #-#-# translate crowdin kitcheneveningweekend_1a4b1221:
 msgid "[_M_] Oh, honey! You don't need to take that kind of responsibility on yourself."
-msgstr ""
+msgstr "[_M_] Och, kochanie! Nie musisz brać na siebie takiej odpowiedzialności."
 
 # game/script.rpy:4740 #-#-# translate crowdin kitcheneveningweekend_43185564:
 msgid "[_R_] I really want to help make all of these changes easier on you!"
-msgstr ""
+msgstr "[_R_] Bardzo chciałbym pomóc ci w tym, żeby wszystkie te zmiany były dla ciebie łatwiejsze!"
 
 # game/script.rpy:4741 #-#-# translate crowdin kitcheneveningweekend_ccd3cd5d_1:
 msgid "[_M_] You really are such a good boy."
-msgstr ""
+msgstr "[_M_] Naprawdę jesteś takim grzecznym chłopcem."
 
 # game/script.rpy:4742 #-#-# translate crowdin kitcheneveningweekend_473a6fdc:
 msgid "[_M_] You're already working at your dad's warehouse to help pay the weekly Mafia bill."
@@ -2334,27 +2334,27 @@ msgstr ""
 
 # game/script.rpy:4743 #-#-# translate crowdin kitcheneveningweekend_c7a6212a_1:
 msgid "[_M_] And I don't want you missing any more school than you have to. You have to graduate this year!"
-msgstr ""
+msgstr "[_M_] I nie chcę, żebyś opuszczał więcej zajęć szkolnych niż to konieczne. Musisz w tym roku ukończyć szkołę!"
 
 # game/script.rpy:4744 #-#-# translate crowdin kitcheneveningweekend_d6fb2d4f_1:
 msgid "[_R_] You really can't think of anything else I could do to be helpful?"
-msgstr ""
+msgstr "[_R_] Naprawdę nie przychodzi ci do głowy nic innego, co mógłbym zrobić, żeby pomóc?"
 
 # game/script.rpy:4745 #-#-# translate crowdin kitcheneveningweekend_e73793ee_1:
 msgid "[_M_] Well.... If you really want to, you could make sure the dishes get done in the evening."
-msgstr ""
+msgstr "[_M_] No cóż… Jeśli naprawdę chcesz, możesz zadbać o to, żeby wieczorem zmyć naczynia."
 
 # game/script.rpy:4746 #-#-# translate crowdin kitcheneveningweekend_f996f697_1:
 msgid "[_M_] If I didn't have to worry about cleaning the dinner mess, I could have more time for grading papers and getting my lessons ready."
-msgstr ""
+msgstr "[_M_] Gdybym nie musiał martwić się o sprzątanie po kolacji, miałbym więcej czasu na ocenianie prac i przygotowywanie lekcji."
 
 # game/script.rpy:4747 #-#-# translate crowdin kitcheneveningweekend_1d039d69_1:
 msgid "[_R_] Sure, I can do that."
-msgstr ""
+msgstr "[_R_] Jasne, mogę to zrobić."
 
 # game/script.rpy:4748 #-#-# translate crowdin kitcheneveningweekend_591993a9_1:
 msgid "[_M_] That would be so great!"
-msgstr ""
+msgstr "[_M_] To byłoby wspaniałe!"
 
 # game/script.rpy:4749 #-#-# translate crowdin kitcheneveningweekend_a709ac89_1:
 msgid "[_M_] But don't stress too much if you don't have time, I'll take care of it if you're too busy."
@@ -2378,11 +2378,11 @@ msgstr "[_M_] Dzięki, kochanie. Pójdę dziś wcześniej spać."
 
 # game/script.rpy:4756 #-#-# translate crowdin kitcheneveningweekend_bb8e8edd_1:
 msgid "[_M_] Good night sweety. See you in the morning."
-msgstr ""
+msgstr "[_M_] Dobranoc, kochanie. Zobaczymy się rano."
 
 # game/script.rpy:4757 #-#-# translate crowdin kitcheneveningweekend_95b548c7_1:
 msgid "[_RT_] {i}Oh Man! I don't think I've ever seen Mom this stressed out. She's trying to put on a strong face, but I can see the worry in her eyes.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}O rany! Chyba nigdy nie widziałem mamy tak zestresowanej. Stara się zachować pogodną minę, ale w jej oczach widać niepokój.{/i}"
 
 # game/script.rpy:4758 #-#-# translate crowdin kitcheneveningweekend_f790ffb9:
 msgid "[_RT_] {i}If I can replace all the things my dad did for her, I think she would be relaxed and happy again.{/i}"
@@ -2394,15 +2394,15 @@ msgstr ""
 
 # game/script.rpy:4760 #-#-# translate crowdin kitcheneveningweekend_5993cc82_1:
 msgid "[_RT_] {i}But that seems to be the only contribution he was making.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Wydaje się jednak, że to był jego jedyny wkład.{/i}"
 
 # game/script.rpy:4761 #-#-# translate crowdin kitcheneveningweekend_6e7e6b0d_1:
 msgid "[_RT_] {i}He and Mom hardly even talk to each other anymore.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}On i mama praktycznie nie rozmawiają już ze sobą.{/i}"
 
 # game/script.rpy:4762 #-#-# translate crowdin kitcheneveningweekend_290c28ab_1:
 msgid "[_RT_] {i}So maybe I can be everything to her that he wasn't.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Może więc będę dla niej tym wszystkim, czym on nie był.{/i}"
 
 # game/script.rpy:4800 #-#-# translate crowdin dishes_db8ab9cc:
 msgid "[_RT_] {i}No dishes to do right now.{/i}"
