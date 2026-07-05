@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2026-07-05 01:16\n"
+"PO-Revision-Date: 2026-07-05 03:14\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -2330,7 +2330,7 @@ msgstr "[_M_] Naprawdę jesteś takim grzecznym chłopcem."
 
 # game/script.rpy:4742 #-#-# translate crowdin kitcheneveningweekend_473a6fdc:
 msgid "[_M_] You're already working at your dad's warehouse to help pay the weekly Mafia bill."
-msgstr ""
+msgstr "[_M_] Już pracujesz w magazynie swojego taty, żeby pomóc opłacić cotygodniowy rachunek dla mafii."
 
 # game/script.rpy:4743 #-#-# translate crowdin kitcheneveningweekend_c7a6212a_1:
 msgid "[_M_] And I don't want you missing any more school than you have to. You have to graduate this year!"
@@ -2386,11 +2386,11 @@ msgstr "[_RT_] {i}O rany! Chyba nigdy nie widziałem mamy tak zestresowanej. Sta
 
 # game/script.rpy:4758 #-#-# translate crowdin kitcheneveningweekend_f790ffb9:
 msgid "[_RT_] {i}If I can replace all the things my dad did for her, I think she would be relaxed and happy again.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Gdybym mógł zastąpić wszystko, co mój tata dla niej zrobił, myślę, że znów byłaby spokojna i szczęśliwa.{/i}"
 
 # game/script.rpy:4759 #-#-# translate crowdin kitcheneveningweekend_b197fc26:
 msgid "[_RT_] {i}All I have to do is get the cash flowing into our household. Which will be no easy thing.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Muszę tylko zadbać o to, żeby do naszego budżetu domowego napływały pieniądze. A to nie będzie łatwe.{/i}"
 
 # game/script.rpy:4760 #-#-# translate crowdin kitcheneveningweekend_5993cc82_1:
 msgid "[_RT_] {i}But that seems to be the only contribution he was making.{/i}"
@@ -2406,11 +2406,11 @@ msgstr "[_RT_] {i}Może więc będę dla niej tym wszystkim, czym on nie był.{/
 
 # game/script.rpy:4800 #-#-# translate crowdin dishes_db8ab9cc:
 msgid "[_RT_] {i}No dishes to do right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}W tej chwili nie mam żadnych naczyń do zmywania.{/i}"
 
 # game/script.rpy:4805 #-#-# translate crowdin dishes_931b4267:
 msgid "[_RT_] {i}It's too late to do dishes right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Teraz jest już za późno na zmywanie naczyń.{/i}"
 
 # game/script.rpy:4809 #-#-# translate crowdin dishes_2f8227a2:
 msgid "[_L_] [ryan] can you come in to the lounge and help me!"
@@ -2650,27 +2650,27 @@ msgstr "[_RT_] {i}{b}(WSKAZÓWKA){/b} Powinienem pójść wieczorem do kuchni na
 
 # game/script.rpy:4956 #-#-# translate crowdin dishes_db8ab9cc_1:
 msgid "[_RT_] {i}No dishes to do right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}W tej chwili nie mam żadnych naczyń do zmywania.{/i}"
 
 # game/script.rpy:4969 #-#-# translate crowdin dishesevening_b15a4c57:
 msgid "[_RT_] {i}No time, the DeCapos will be here any minute.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nie ma czasu, DeCapos pojawią się lada chwila.{/i}"
 
 # game/script.rpy:4975 #-#-# translate crowdin dishesevening_576f737d:
 msgid "[_RT_] {i}Is a little extra affection from Mom even worth all this work?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Czy odrobina miłości od mamy jest warta całego tego wysiłku?{/i}"
 
 # game/script.rpy:4976 #-#-# translate crowdin dishesevening_0fe79207:
 msgid "{i}'Mom's Affection +1\"{/i}"
-msgstr ""
+msgstr "{i}„Miłość mamy +1”{/i}"
 
 # game/script.rpy:4982 #-#-# translate crowdin dishesevening_a19295bf:
 msgid "[_RT_] {i}Nah.... I don't want to do any dishes right now.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Nie... Nie mam teraz ochoty zmywać naczyń.{/i}"
 
 # game/script.rpy:4989 #-#-# translate crowdin sidneycomeshome_0d6916a8:
 msgid "[_M_] Hey honey, come sit down. We're having pizza for dinner."
-msgstr ""
+msgstr "[_M_] Hej, kochanie, chodź, usiądź. Na kolację jemy pizzę."
 
 # game/script.rpy:4994 #-#-# translate crowdin sidneycomeshome_9e491a79:
 msgid "[_M_] I hope you guys are hungry."
@@ -2682,7 +2682,7 @@ msgstr "{i}{b}\"Uczucia mamy +1\" {/b}{/i}"
 
 # game/script.rpy:5000 #-#-# translate crowdin sidneycomeshome_a9c697ba:
 msgid "[_M_] Oh, my day was fine. How did you think my lesson on Oedipu___"
-msgstr ""
+msgstr "[_M_] Och, miałam fajny dzień. Jak ci się podobała moja lekcja o Edypie___"
 
 # game/script.rpy:5001 #-#-# translate crowdin sidneycomeshome_287d118c:
 msgid "[_S_] AAHHAAHHAHHHEMMMMM..."
@@ -2702,75 +2702,75 @@ msgstr "[_S_] AAHHAAHHAHHHEMMMMM..."
 
 # game/script.rpy:5014 #-#-# translate crowdin sidneyenters_69bd6c2a:
 msgid "[_M_] Oh my God, look everyone, Sidney is home!"
-msgstr ""
+msgstr "[_M_] O mój Boże, spójrzcie wszyscy, Sidney wrócił do domu!"
 
 # game/script.rpy:5015 #-#-# translate crowdin sidneyenters_3af7a138:
 msgid "[_M_] It's so good to see you!"
-msgstr ""
+msgstr "[_M_] Tak się cieszę, że cię widzę!"
 
 # game/script.rpy:5016 #-#-# translate crowdin sidneyenters_4c98659f:
 msgid "[_M_] How's everything going at school?"
-msgstr ""
+msgstr "[_M_] Czy wszystko w porządku w szkole?"
 
 # game/script.rpy:5019 #-#-# translate crowdin sidneyenters_dfa5726b:
 msgid "[_S_] How's everything going at school?"
-msgstr ""
+msgstr "[_S_] Czy wszystko w porządku w szkole?"
 
 # game/script.rpy:5020 #-#-# translate crowdin sidneyenters_3e09f216:
 msgid "[_S_] How's everything going at school!!!?"
-msgstr ""
+msgstr "[_S_] Jak tam w szkole!!!?"
 
 # game/script.rpy:5021 #-#-# translate crowdin sidneyenters_53fb7bcb:
 msgid "[_S_] If you'd answer your phone you would know how everything is going at school!"
-msgstr ""
+msgstr "[_S_] Gdybyś odbierała telefon, wiedziałabyś, jak tam w szkole!"
 
 # game/script.rpy:5022 #-#-# translate crowdin sidneyenters_80cb932b:
 msgid "[_M_] I'm sorry honey, but I've been a little indisposed!"
-msgstr ""
+msgstr "[_M_] Przepraszam, kochanie, ale nie czułam się zbyt dobrze!"
 
 # game/script.rpy:5023 #-#-# translate crowdin sidneyenters_babffc11:
 msgid "[_L_] {i}(whispers){/i} More like drunk!"
-msgstr ""
+msgstr "[_L_] {i}(szepcze){/i} Raczej pijana!"
 
 # game/script.rpy:5024 #-#-# translate crowdin sidneyenters_50446e26:
 msgid "[_R_] {i}(whispers){/i} Lauren, shut up!"
-msgstr ""
+msgstr "[_R_] {i}(szepcze){/i} Lauren, zamknij się!"
 
 # game/script.rpy:5025 #-#-# translate crowdin sidneyenters_abf50906:
 msgid "[_S_] And what about you Lauren? Why did you keep ignoring my calls?"
-msgstr ""
+msgstr "[_S_] A co z tobą, Lauren? Dlaczego ciągle ignorowałaś moje telefony?"
 
 # game/script.rpy:5026 #-#-# translate crowdin sidneyenters_83bdf0ff:
 msgid "[_L_] My friend Brittney has been going through a messy breakup and has needed my support!"
-msgstr ""
+msgstr "[_L_] Moja przyjaciółka Brittney przechodzi bolesne rozstanie i bardzo potrzebuje mojego wsparcia!"
 
 # game/script.rpy:5027 #-#-# translate crowdin sidneyenters_d67b9870:
 msgid "[_L_] I haven't exactly had time to have any long converstations with anyone else."
-msgstr ""
+msgstr "[_L_] Nie miałam czasu na dłuższe rozmowy z kimkolwiek innym."
 
 # game/script.rpy:5028 #-#-# translate crowdin sidneyenters_a3b553f9:
 msgid "[_S_] Long conversations!? I just needed you to get Mom for me!"
-msgstr ""
+msgstr "[_S_] Długie rozmowy!? Chciałam, tylko żebyś dała mi mamę!"
 
 # game/script.rpy:5029 #-#-# translate crowdin sidneyenters_71d70d32:
 msgid "[_R_] You could have called me."
-msgstr ""
+msgstr "[_R_] Mogłaś do mnie zadzwonić."
 
 # game/script.rpy:5030 #-#-# translate crowdin sidneyenters_e0a524df:
 msgid "[_S_] I never call you. I don't even think I have your number!"
-msgstr ""
+msgstr "[_S_] Nigdy do ciebie nie dzwonię. Chyba nawet nie mam twojego numeru!"
 
 # game/script.rpy:5031 #-#-# translate crowdin sidneyenters_e4c8e9ae:
 msgid "[_RT_] {i}Ouch.... {/i}"
-msgstr ""
+msgstr "[_RT_] {i}Auć... {/i}"
 
 # game/script.rpy:5032 #-#-# translate crowdin sidneyenters_cd5fea1e:
 msgid "[_M_] Honey! Please just sit and try to calm down. Then you can tell us what's wrong."
-msgstr ""
+msgstr "[_M_] Kochanie! Proszę, usiądź i spróbuj się uspokoić. Potem opowiesz nam, co się stało."
 
 # game/script.rpy:5035 #-#-# translate crowdin sidneyenters_eaa0af85:
 msgid "[_S_] I've been kicked out of school!"
-msgstr ""
+msgstr "[_S_] Wyrzucili mnie ze szkoły!"
 
 # game/script.rpy:5036 #-#-# translate crowdin sidneyenters_d8bf5ca9:
 msgid "[_M_] What?"
@@ -2778,19 +2778,19 @@ msgstr "[_M_] Co?"
 
 # game/script.rpy:5037 #-#-# translate crowdin sidneyenters_095eb3d9:
 msgid "[_S_] They said the check for this coming semester's tuition bounced, and they can't keep on students who don't pay their bills."
-msgstr ""
+msgstr "[_S_] Powiedzieli, że czek na czesne za przyszły semestr został odrzucony, a nie mogą pozwolić sobie na utrzymanie studentów, którzy nie regulują swoich należności."
 
 # game/script.rpy:5038 #-#-# translate crowdin sidneyenters_ff118139:
 msgid "[_S_] They kicked me out of the dorm, took away my meal plan."
-msgstr ""
+msgstr "[_S_] Wyrzucili mnie z akademika i zabrali mi kartę do stołówki."
 
 # game/script.rpy:5039 #-#-# translate crowdin sidneyenters_6b1513d1:
 msgid "[_S_] It was soooo embarassing!"
-msgstr ""
+msgstr "[_S_] To było strasznie krępujące!"
 
 # game/script.rpy:5040 #-#-# translate crowdin sidneyenters_b8b4ebc5:
 msgid "[_S_] So, I tried to call Dad because he takes care of my tuition and housing."
-msgstr ""
+msgstr "[_S_] Postanowiłam więc zadzwonić do taty, bo to on opłaca mi czesne i zakwaterowanie."
 
 # game/script.rpy:5041 #-#-# translate crowdin sidneyenters_12ce0aa8:
 msgid "[_S_] But all I get when I call Dad is a message that his phone's been disconnected.!"
@@ -2894,15 +2894,15 @@ msgstr ""
 
 # game/script.rpy:5074 #-#-# translate crowdin sidneyenters_1a769d66:
 msgid "[_L_] But, Mom..."
-msgstr ""
+msgstr "[_L_] Ale, mamo..."
 
 # game/script.rpy:5075 #-#-# translate crowdin sidneyenters_9ed76fa3:
 msgid "[_M_] We all have to make sacrifices."
-msgstr ""
+msgstr "[_M_] Wszyscy musimy iść na pewne ustępstwa."
 
 # game/script.rpy:5076 #-#-# translate crowdin sidneyenters_ea3c09e9:
 msgid "[_L_] Ok, fine."
-msgstr ""
+msgstr "[_L_] No dobra, w porządku."
 
 # game/script.rpy:5077 #-#-# translate crowdin sidneyenters_f62981e5:
 msgid "[_M_] Now let's eat before our food gets any colder."
