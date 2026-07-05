@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2026-07-05 14:07\n"
+"PO-Revision-Date: 2026-07-05 16:19\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -74,7 +74,7 @@ msgstr "[_M_] OBUDŹ SIĘ!!!"
 
 # game/script.rpy:899 #-#-# translate crowdin gamestart_6288b353:
 msgid "[_R_] Huh..."
-msgstr ""
+msgstr "[_R_] Hę..."
 
 # game/script.rpy:900 #-#-# translate crowdin gamestart_96cb3bb4:
 msgid "[_R_] What?..."
@@ -2206,7 +2206,7 @@ msgstr "[_M_] Ale nie stresuj się zbytnio, jeśli nie masz czasu, zajmę się t
 
 # game/script.rpy:4697 #-#-# translate crowdin kitcheneveningweekend_ccd70784:
 msgid "[_R_] Ok, Mom."
-msgstr ""
+msgstr "[_R_] OK, mamo."
 
 # game/script.rpy:4700 #-#-# translate crowdin kitcheneveningweekend_fd6fd931:
 msgid "[_M_] Can you find yourself something to eat tonight? I just don't have it in me to make dinner."
@@ -2362,7 +2362,7 @@ msgstr "[_M_] Ale nie stresuj się zbytnio, jeśli nie masz czasu, zajmę się t
 
 # game/script.rpy:4750 #-#-# translate crowdin kitcheneveningweekend_ccd70784_1:
 msgid "[_R_] Ok, Mom."
-msgstr ""
+msgstr "[_R_] OK, mamo."
 
 # game/script.rpy:4753 #-#-# translate crowdin kitcheneveningweekend_fd6fd931_1:
 msgid "[_M_] Can you find yourself something to eat tonight? I just don't have it in me to make dinner."
@@ -4025,7 +4025,7 @@ msgstr "[_RT_] {i}Zawsze zamyka swój pokój rano, kiedy ćwiczy jogę i się pr
 
 # game/script.rpy:5952 #-#-# translate crowdin momangryroom_4f69b480:
 msgid "[_RT_] {i}Should I see if I can smooth things over?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Czy powinienem sprawdzić, czy uda mi się załagodzić sytuację?{/i}"
 
 # game/script.rpy:5957 #-#-# translate crowdin momangryroom_165bc329:
 msgid "[_R_] Hey Mom, doing some yoga?"
@@ -4102,7 +4102,7 @@ msgstr "{i}{b}„Złość mamy +2”{/b}{/i}"
 
 # game/script.rpy:6016 #-#-# translate crowdin momangryroom_d1f9acd3:
 msgid "{i}\"You need higher affection to gift flowers.\"{/i}"
-msgstr ""
+msgstr "{i}„Dając kwiaty w prezencie, potrzebujesz większego uczucia”.{/i}"
 
 # game/script.rpy:6024 #-#-# translate crowdin momangryroom_1c730983:
 msgid "[_M_] Oh how sweet! I love them!"
@@ -4131,7 +4131,7 @@ msgstr "[_M_] Dziękuję bardzo!"
 
 # game/script.rpy:6033 #-#-# translate crowdin momangryroom_e3882901:
 msgid "[_RT_] {i}Oh, wow.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Och, wow.{/i}"
 
 # game/script.rpy:6039 #-#-# translate crowdin momangryroom_4a9051d7:
 msgid "[_M_] Honey, I'm trying to get ready. Don't bother me anymore!"
@@ -4157,7 +4157,7 @@ msgstr "[_M_] Cóż, potrzeba mi czegoś więcej, niż tylko słów, aby wybaczy
 
 # game/script.rpy:6056 #-#-# translate crowdin momangryroom_b8504862:
 msgid "[_RT_] {i}I guess I better give her some time, or maybe I can get her a present so she won't be so mad.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Chyba lepiej dam jej trochę czasu, a może uda mi się kupić jej prezent, żeby nie była taka zła.{/i}"
 
 # game/script.rpy:6077 #-#-# translate crowdin momnightstand_2adae9ae:
 msgid "{b}{i}\"You have found the \"Five of Hearts\" Card!\"{/i}{/b}"
@@ -4503,7 +4503,7 @@ msgstr "[_L_] Może następnym razem spróbuj wymyślić coś mniej przerażają
 
 # game/script.rpy:6686 #-#-# translate crowdin laurenangryroom_d49f35e4:
 msgid "{i}{b}\"Lauren's Affection -1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}„Uczucie Lauren -1”{/b}{/i}"
 
 # game/script.rpy:6687 #-#-# translate crowdin laurenangryroom_120bd643:
 msgid "{i}{b}\"Lauren's Anger +2\"{/b}{/i}"
@@ -4511,7 +4511,7 @@ msgstr "{i}{b}„Gniew Lauren +2”{/b}{/i}"
 
 # game/script.rpy:6688 #-#-# translate crowdin laurenangryroom_d1f9acd3:
 msgid "{i}\"You need higher affection to gift flowers.\"{/i}"
-msgstr ""
+msgstr "{i}„Dając kwiaty w prezencie, potrzebujesz większego uczucia”.{/i}"
 
 # game/script.rpy:6696 #-#-# translate crowdin laurenangryroom_bb49b59c:
 msgid "[_L_] Oh my gosh! I love them!"
@@ -4540,7 +4540,7 @@ msgstr "[_L_] Dziękuję bardzo!"
 
 # game/script.rpy:6705 #-#-# translate crowdin laurenangryroom_e3882901:
 msgid "[_RT_] {i}Oh, wow.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Och, wow.{/i}"
 
 # game/script.rpy:6711 #-#-# translate crowdin laurenangryroom_420fb78b:
 msgid "[_L_] OMG! You made me get up for that."
@@ -4553,7 +4553,8 @@ msgstr "{i}{b}„Gniew Lauren +1”{/b}{/i}"
 
 # game/script.rpy:6719 #-#-# translate crowdin laurenangryroom_8c9e2af5:
 msgid "[_L_] You already gave me a gift. Stop being creepy!"
-msgstr ""
+msgstr "[_L_] Dałeś mi już prezent.\n"
+"Przestań być straszny!"
 
 # game/script.rpy:6721 #-#-# translate crowdin laurenangryroom_9484f841_1:
 msgid "{i}{b}\"Lauren's Anger +1\"{/b}{/i}"
@@ -4565,7 +4566,7 @@ msgstr "[_L_] Cóż, potrzeba mi czegoś więcej, niż tylko słów, aby wybaczy
 
 # game/script.rpy:6728 #-#-# translate crowdin laurenangryroom_b8504862:
 msgid "[_RT_] {i}I guess I better give her some time, or maybe I can get her a present so she won't be so mad.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Chyba lepiej dam jej trochę czasu, a może uda mi się kupić jej prezent, żeby nie była taka zła.{/i}"
 
 # game/script.rpy:6741 #-#-# translate crowdin sidneyangryroom_21c2ffba:
 msgid "[_RT_] {i}She locked her door! Sidney must still be pissed off. I guess I better just let her sleep.{/i}"
@@ -4650,7 +4651,7 @@ msgstr "{i}{b}„Gniew Sidneya +2”{/b}{/i}"
 
 # game/script.rpy:6815 #-#-# translate crowdin sidneyangryroom_d1f9acd3:
 msgid "{i}\"You need higher affection to gift flowers.\"{/i}"
-msgstr ""
+msgstr "{i}„Dając kwiaty w prezencie, potrzebujesz większego uczucia”.{/i}"
 
 # game/script.rpy:6823 #-#-# translate crowdin sidneyangryroom_c5a8f8e5:
 msgid "[_S_] Oh my gosh! They're beautiful!"
@@ -4679,7 +4680,7 @@ msgstr "[_S_] Dziękuję bardzo!"
 
 # game/script.rpy:6832 #-#-# translate crowdin sidneyangryroom_e3882901:
 msgid "[_RT_] {i}Oh, wow.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Och, wow.{/i}"
 
 # game/script.rpy:6838 #-#-# translate crowdin sidneyangryroom_b538d921:
 msgid "[_S_] You jerk! You made me get up for that."
@@ -4705,7 +4706,7 @@ msgstr "[_S_] Cóż, potrzeba mi czegoś więcej, niż tylko słów, aby wybaczy
 
 # game/script.rpy:6855 #-#-# translate crowdin sidneyangryroom_b8504862:
 msgid "[_RT_] {i}I guess I better give her some time, or maybe I can get her a present so she won't be so mad.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Chyba lepiej dam jej trochę czasu, a może uda mi się kupić jej prezent, żeby nie była taka zła.{/i}"
 
 # game/script.rpy:6876 #-#-# translate crowdin laurendresser_8af56dc4:
 msgid "{b}{i}\"You have found the \"Two of Spades\" Card!\"{/i}{/b}"
@@ -6567,7 +6568,7 @@ msgstr "[_M_] Pamiętaj o przeczytaniu wierszy od 508 do 750, a następnym razem
 
 # game/script.rpy:8378 #-#-# translate crowdin classlecture_0287fbcc:
 msgid "{i}{b}\"Mom's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}„Szacunek mamy +1”{/b}{/i}"
 
 # game/script.rpy:8393 #-#-# translate crowdin classlecture_74868d9f_1:
 msgid "[_RT_] {i}So boring, how am I going to stay focused?{/i}"
@@ -6592,7 +6593,7 @@ msgstr "[_M_] Następnym razem zaczniemy od tego miejsca."
 
 # game/script.rpy:8413 #-#-# translate crowdin classlecture_0287fbcc_1:
 msgid "{i}{b}\"Mom's Respect +1\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}„Szacunek mamy +1”{/b}{/i}"
 
 # game/script.rpy:8460 #-#-# translate crowdin bathstall_06a10bab:
 msgid "[_RT_] {i}The scene of my first blowjob. Man! That was awesome! I've got to convince Matt to let Megan give me some more action.{/i}"
@@ -8132,7 +8133,7 @@ msgstr "[_MT_] {i}O Boże!\n"
 
 # game/script.rpy:9892 #-#-# translate crowdin dinnerfirst_d16bc7fd:
 msgid "{i}{b}\"Mom's Libido +5\"{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}„Libido mamy +5”{/b}{/i}"
 
 # game/script.rpy:9896 #-#-# translate crowdin dinnerfirst_3483255f:
 msgid "[_RT_] {i}Oh, shit! Here I CUMMMM!!{/i}"
