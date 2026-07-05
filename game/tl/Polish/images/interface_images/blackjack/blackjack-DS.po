@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2026-07-05 12:14\n"
+"PO-Revision-Date: 2026-07-05 15:06\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/images/interface_images/blackjack/blackjack-DS.rpy:511 #-#-# translate crowdin startGameBJ_ddfcd22e:
 msgid "[_BJ_dealer_] I'll start dealing the cards!{w=2.0}{nw}"
@@ -30,7 +30,7 @@ msgstr "[Blackjack! Krupier również ma blackjacka, ale Ty masz ubezpieczenie! 
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:608 #-#-# translate crowdin handCheckLabel_f74531ea:
 msgid "[_BJ_dealer_] Blackjack! The dealer also has blackjack, so it's a push! You get your $[betSum] back!{w=2.0}{nw}"
-msgstr "[_BJ_dealer_] Krupier również ma [computerScore], więc jest to remis! Otrzymujesz $[betSum] z powrotem! {w=2.0}{nw}"
+msgstr "[_BJ_dealer_] Blackjack! Krupier również ma blackjacka, więc wynik to remis! Otrzymujesz zwrot kwoty $[betSum]!{w=2.0}{nw}"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:620 #-#-# translate crowdin handCheckLabel_3b883a25:
 msgid "[_BJ_dealer_] Blackjack! You won the game and $[betSum]!{w=2.0}{nw}"
@@ -94,7 +94,7 @@ msgstr "Gry wygrane: [persistent.playerWin] / przegrane: [persistent.computerWin
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:478
 msgid "Player cards: [playerScore]"
-msgstr "Karty graczy: [playerScore]"
+msgstr "Karty gracza: [playerScore]"
 
 # game/images/interface_images/blackjack/blackjack-DS.rpy:681
 msgid "Do you want to play again?"
