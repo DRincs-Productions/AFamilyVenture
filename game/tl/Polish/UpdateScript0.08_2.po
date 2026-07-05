@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2026-02-14 14:24\n"
+"PO-Revision-Date: 2026-07-05 03:14\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.08_2.rpy:9 #-#-# translate crowdin mom_bumps_sidney_bc054bd6:
 msgid "[_G_] Well, if it isn't the lovely Miss [mom_name]."
@@ -9410,7 +9410,7 @@ msgstr ""
 
 # game/UpdateScript0.08_2.rpy:5324 #-#-# translate crowdin prison_visit_3af7a138:
 msgid "[_M_] It's so good to see you!"
-msgstr ""
+msgstr "[_M_] Tak się cieszę, że cię widzę!"
 
 # game/UpdateScript0.08_2.rpy:5330 #-#-# translate crowdin prison_visit_cef35593:
 msgid "[_PG_] Alright, [dad_name]."
