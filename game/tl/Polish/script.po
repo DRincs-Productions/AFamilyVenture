@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2026-07-05 03:14\n"
+"PO-Revision-Date: 2026-07-05 13:10\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/script.rpy:356 #-#-# translate crowdin skip_game_e704ed97:
 msgid "If this is the first time you've ever played this game, we highly recommend that you watch the tutorial."
@@ -2794,7 +2794,7 @@ msgstr "[_S_] Postanowiłam więc zadzwonić do taty, bo to on opłaca mi czesne
 
 # game/script.rpy:5041 #-#-# translate crowdin sidneyenters_12ce0aa8:
 msgid "[_S_] But all I get when I call Dad is a message that his phone's been disconnected.!"
-msgstr ""
+msgstr "[_S_] Jednak gdy dzwonię do taty, pojawia się tylko komunikat, że jego telefon został odłączony!"
 
 # game/script.rpy:5042 #-#-# translate crowdin sidneyenters_565f325e:
 msgid "[_S_] Mom? Where's Dad and why can't I get a hold of him?"
