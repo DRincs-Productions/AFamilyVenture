@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-03-31 20:06\n"
+"PO-Revision-Date: 2026-07-22 06:10\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.09.rpy:564 #-#-# translate crowdin myroom_post_cami_fight_8a5367c3:
 msgid "[_R_] I'm not ready to sleep yet... I should go talk to Mom and Lauren before I come back to bed."
@@ -1386,19 +1386,19 @@ msgstr "[_RT_] {i}¡Mira como ese hijo de puta le agarra el culo a mamá delante
 
 # game/UpdateScript0.09.rpy:1227 #-#-# translate crowdin pay_or_dont_973abc09:
 msgid "[_RT_] {i}And Mom doesn't seem to mind at all! Isn't she ashamed about what the neighbors might think?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}¡Y a mamá no parece importarle en absoluto! ¿No le da vergüenza lo que puedan pensar los vecinos?{/i}"
 
 # game/UpdateScript0.09.rpy:1229 #-#-# translate crowdin pay_or_dont_572de821:
 msgid "[_RT_] {i}And Mom's too scared to swat his hand away. She's probably mortified about the possibility that one of our neighbors might see.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Y mamá tiene demasiado miedo como para apartarle la mano de un manotazo. Seguramente le da mucha vergüenza que alguno de nuestros vecinos pueda verlo.{/i}"
 
 # game/UpdateScript0.09.rpy:1230 #-#-# translate crowdin pay_or_dont_8fc98450:
 msgid "[_RT_] I hope she's going to be alright. Maybe I should swind by the club just to make sure."
-msgstr ""
+msgstr "[_RT_] Espero que esté bien. Quizá debería pasarme por el club solo para asegurarme."
 
 # game/UpdateScript0.09.rpy:1246 #-#-# translate crowdin sid_cami_morning_jog_3327cf88:
 msgid "[_RT_] {i}Looks like Aunt Cami sleeping on the couch isn't going to change Sidney's routine.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Parece que el hecho de que la tía Cami duerma en el sofá no va a alterar la rutina de Sidney.{/i}"
 
 # game/UpdateScript0.09.rpy:1249 #-#-# translate crowdin sid_cami_morning_jog_66f4c51e:
 msgid "[_R_] Hey Sid."
@@ -1410,19 +1410,19 @@ msgstr ""
 
 # game/UpdateScript0.09.rpy:1253 #-#-# translate crowdin sid_cami_morning_jog_4af0cb9d:
 msgid "[_C_] {i}(Sleepily){/i} Go run somewhere else..."
-msgstr ""
+msgstr "[_C_] {i}(Sleepily){/i} Vete a correr a otra parte..."
 
 # game/UpdateScript0.09.rpy:1256 #-#-# translate crowdin sid_cami_morning_jog_fb2aee0e:
 msgid "[_S_] I'm not running in here, Aunt Cami. I'm going to the park."
-msgstr ""
+msgstr "[_S_] No estoy corriendo por aquí, tía Cami. Me voy al parque."
 
 # game/UpdateScript0.09.rpy:1257 #-#-# translate crowdin sid_cami_morning_jog_ca1cd2ed:
 msgid "[_C_] Yes!... Go run park."
-msgstr ""
+msgstr "[_C_] ¡Sí!... Ve al parque a correr."
 
 # game/UpdateScript0.09.rpy:1260 #-#-# translate crowdin sid_cami_morning_jog_f61d2243:
 msgid "[_S_] So, did you want to go?"
-msgstr ""
+msgstr "[_S_] Bueno, ¿querías ir?"
 
 # game/UpdateScript0.09.rpy:1263 #-#-# translate crowdin sid_cami_morning_jog_5bf3f68a:
 msgid "[_R_] You bet I am. Let me run and change my clothes and I'll meet you outside."
@@ -1446,7 +1446,7 @@ msgstr ""
 
 # game/UpdateScript0.09.rpy:1285 #-#-# translate crowdin l_in_bed_with_m_1e944cf5:
 msgid "[_RT_] {i}Oh, Lauren's not here. She's probably in her bedroom.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ah, Lauren no está aquí. Probablemente esté en su habitación.{/i}"
 
 # game/UpdateScript0.09.rpy:1296 #-#-# translate crowdin yard_show_9bae8c84:
 msgid "[_RT_] {i}Oh, fuck!{/i}"
@@ -1458,15 +1458,15 @@ msgstr ""
 
 # game/UpdateScript0.09.rpy:1298 #-#-# translate crowdin yard_show_e632ecf2:
 msgid "[_RT_] {i}Goddamn him! Fucking Lauren wasn't enough. Now he's fucking Mom too!{/i}"
-msgstr ""
+msgstr "[_RT_] {i}¡Maldito sea! No le bastaba con tirarse a Lauren!  ¡Ahora también se está tirando a mamá!{/i}"
 
 # game/UpdateScript0.09.rpy:1299 #-#-# translate crowdin yard_show_c3f80a5f:
 msgid "[_RT_] {i}I need to figure out a way to get him out of our lives as soon as possible.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Tengo que encontrar la manera de sacarlo de nuestras vidas lo antes posible.{/i}"
 
 # game/UpdateScript0.09.rpy:1300 #-#-# translate crowdin yard_show_e0240780:
 msgid "[_RT_] {i}But for tonight, should I sit down and try to stop them from fooling around, or ignore them and hang out with Sidney?{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Pero esta noche, ¿debería sentarme e intentar que dejen de hacer tonterías, o ignorarlos y salir con Sidney?{/i}"
 
 # game/UpdateScript0.09.rpy:1305 #-#-# translate crowdin yard_show_4f20439e:
 msgid "[_R_] You're watching \"Game of Thots\" without me again?"
@@ -1914,155 +1914,155 @@ msgstr ""
 
 # game/UpdateScript0.09.rpy:1511 #-#-# translate crowdin yard_show_14c044ba:
 msgid "[_RT_] {i}I don't feel like dealing with them tonight. Lauren keeps trying to get under my skin by acting like a slut whenever Matt's around.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}No me apetece lidiar con ellos esta noche. Lauren no deja de intentar sacarme de quicio comportándose como una guarra cada vez que Matt está por ahí.{/i}"
 
 # game/UpdateScript0.09.rpy:1514 #-#-# translate crowdin yard_show_bde87121:
 msgid "[_RT_] {i}Why is she acting like it's my fault she couldn't beat the most popular guy at school.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}¿Por qué se comporta como si fuera culpa mía que no pudiera ganarle al chico más popular del instituto?{/i}"
 
 # game/UpdateScript0.09.rpy:1515 #-#-# translate crowdin yard_show_0b5735b8:
 msgid "[_RT_] {i}I mean, maybe I could have tried harder to help her, but come on. It's not like she really had a chance.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Bueno, quizá podría haberme esforzado más por ayudarla, pero vamos. No es que tuviera muchas posibilidades.{/i}"
 
 # game/UpdateScript0.09.rpy:1516 #-#-# translate crowdin yard_show_c18bb8ce:
 msgid "[_RT_] {i}I wish she'd just get over it, instead of rubbing Matt's victory in my face.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ojalá se lo olvidara de una vez, en lugar de restregarme la victoria de Matt por la cara.{/i}"
 
 # game/UpdateScript0.09.rpy:1519 #-#-# translate crowdin yard_show_57310cbd:
 msgid "[_S_] Hey, Bro."
-msgstr ""
+msgstr "[_S_] Hola, tío."
 
 # game/UpdateScript0.09.rpy:1520 #-#-# translate crowdin yard_show_3513d828:
 msgid "[_S_] Uh, oh... You've got that look again."
-msgstr ""
+msgstr "[_S_] Ay, no... Ya vuelves a poner esa cara."
 
 # game/UpdateScript0.09.rpy:1521 #-#-# translate crowdin yard_show_a3c9801b:
 msgid "[_R_] Hmph..."
-msgstr ""
+msgstr "[_R_] ¡Bah...!"
 
 # game/UpdateScript0.09.rpy:1522 #-#-# translate crowdin yard_show_68a3ff86:
 msgid "[_S_] Stop trying to be the cliche older brother that has to protect his younger sister."
-msgstr ""
+msgstr "[_S_] Deja de intentar ser el típico hermano mayor que tiene que proteger a su hermana pequeña."
 
 # game/UpdateScript0.09.rpy:1523 #-#-# translate crowdin yard_show_1e78035c:
 msgid "[_S_] Just be happy for her. She's got a great boyfriend that she really seems to like."
-msgstr ""
+msgstr "[_S_] Simplemente alégrate por ella. Tiene un novio estupendo que parece gustarle de verdad."
 
 # game/UpdateScript0.09.rpy:1526 #-#-# translate crowdin yard_show_1f6e2019:
 msgid "[_MB_] Damn, I love this show!"
-msgstr ""
+msgstr "[_MB_] ¡Joder, me encanta esta serie!"
 
 # game/UpdateScript0.09.rpy:1527 #-#-# translate crowdin yard_show_f0d33a11:
 msgid "[_MB_] Ever since they made the queen a sex slave to those horse guys, every episode has her getting gang banged at least once."
-msgstr ""
+msgstr "[_MB_] Desde que convirtieron a la reina en esclava sexual de esos tipos de los caballos, en cada episodio la violan en grupo al menos una vez."
 
 # game/UpdateScript0.09.rpy:1530 #-#-# translate crowdin yard_show_f5d8146c:
 msgid "[_R_] How can she like him? He doesn't love her. You don't know him like I do. As soon as he gets bored of her, he'll kick Lauren to the curb."
-msgstr ""
+msgstr "[_R_] ¿Cómo es posible que le guste? Él no la quiere. Tú no lo conoces como yo. En cuanto se canse de ella, dejará a Lauren tirada."
 
 # game/UpdateScript0.09.rpy:1531 #-#-# translate crowdin yard_show_55a13000:
 msgid "[_S_] You just think that because of your caveman male rivalry. He's very polite anytime we talk, and Lauren's always got a smile on her face when he's around."
-msgstr ""
+msgstr "[_S_] Eso lo piensas solo por tu rivalidad masculina de cavernícola. Él es muy educado cada vez que hablamos, y Lauren siempre tiene una sonrisa en la cara cuando él está cerca."
 
 # game/UpdateScript0.09.rpy:1532 #-#-# translate crowdin yard_show_16d26c5d:
 msgid "[_S_] Stop freaking out just because they have an open relationship."
-msgstr ""
+msgstr "[_S_] Deja de flipar solo porque tengan una relación abierta."
 
 # game/UpdateScript0.09.rpy:1533 #-#-# translate crowdin yard_show_946ec06a:
 msgid "[_RT_] {i}You might change your mind if you knew Mom was also one of Matt's sluts.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Quizá cambiarías de opinión si supieras que mamá también era una de las putas de Matt.{/i}"
 
 # game/UpdateScript0.09.rpy:1534 #-#-# translate crowdin yard_show_b27ac4d6:
 msgid "[_RT_] {i}I wish I could tell Lauren and Sidney about what Mom's been doing, but... Lauren would freak out on her. It'd probibly kill their relationship. If I just told Sidney, she'd insist on telling Lauren, or at least she'd confront Mom about it.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ojalá pudiera contarles a Lauren y a Sidney lo que ha estado haciendo mamá, pero... Lauren se enfadaría muchísimo con ella. Probablemente acabaría con su relación. Si se lo contara solo a Sidney, ella insistiría en contárselo a Lauren o, como mínimo, se lo echaría en cara a mamá.{/i}"
 
 # game/UpdateScript0.09.rpy:1535 #-#-# translate crowdin yard_show_4bb417f6:
 msgid "[_RT_] {i}Dammit! I would do almost anything to get rid of him! But even if I was willing to destroy Mom and Lauren's relationship. Mom would hate me for it.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}¡Maldita sea! ¡Haría casi cualquier cosa por deshacerme de él! Pero incluso si estuviera dispuesta a arruinar la relación entre mamá y Lauren, mamá me odiaría por ello.{/i}"
 
 # game/UpdateScript0.09.rpy:1538 #-#-# translate crowdin yard_show_87dface1:
 msgid "[_LT_] {i}Is he still talking to Sidney?{/i}"
-msgstr ""
+msgstr "[_LT_] {i}¿Sigue hablando con Sidney?{/i}"
 
 # game/UpdateScript0.09.rpy:1539 #-#-# translate crowdin yard_show_fd69ca15:
 msgid "[_LT_] {i}He needs to sit down with us so I can punish him again.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Tiene que sentarse con nosotros para que pueda volver a castigarle.{/i}"
 
 # game/UpdateScript0.09.rpy:1540 #-#-# translate crowdin yard_show_5e84bc16:
 msgid "[_MB_] Oh, hell yeah! The queens going to get fucked by all the tribal warriors again. I'll never get tired of watching her getting passed around like the whore she is!"
-msgstr ""
+msgstr "[_MB_] ¡Oh, el infierno sí! Las reinas van a ser folladas por todos los guerreros tribales otra vez. ¡Nunca me cansaré de verla pasando como la guarra que está!"
 
 # game/UpdateScript0.09.rpy:1543 #-#-# translate crowdin yard_show_eb5a101b:
 msgid "[_L_] Hey, [ryan]... Why don't you come watch Game of Thots with us?"
-msgstr ""
+msgstr "[_L_] Hola, [ryan]... ¿Por qué no vienes a ver Game of Thots con nosotros?"
 
 # game/UpdateScript0.09.rpy:1544 #-#-# translate crowdin yard_show_ee4fad91:
 msgid "[_R_] No thanks. I'm just going to hang with Sidney."
-msgstr ""
+msgstr "[_R_] No, gracias. Me voy a quedar con Sidney."
 
 # game/UpdateScript0.09.rpy:1545 #-#-# translate crowdin yard_show_d1a48673:
 msgid "[_L_] Come on. We always watch Game of Thots together."
-msgstr ""
+msgstr "[_L_] Venga. Siempre vemos Game of Thots juntos."
 
 # game/UpdateScript0.09.rpy:1546 #-#-# translate crowdin yard_show_3384cd07:
 msgid "[_MB_] You gotta come see this man. The queen is about to get gangbanged again by a bunch of those horse dudes."
-msgstr ""
+msgstr "[_MB_] Tienes que venir a ver esto, tío. La reina está a punto de volver a ser violada en grupo por un montón de esos tíos de los caballos."
 
 # game/UpdateScript0.09.rpy:1547 #-#-# translate crowdin yard_show_f61264d2:
 msgid "[_R_] Really. I'm good."
-msgstr ""
+msgstr "[_R_] De verdad. Estoy bien."
 
 # game/UpdateScript0.09.rpy:1550 #-#-# translate crowdin yard_show_af70398c:
 msgid "[_LT_] {i}He thinks he can just ignore us? Well, I know how to fix that.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}¿Cree que puede simplemente ignorarnos? Pues yo sé cómo solucionar eso.{/i}"
 
 # game/UpdateScript0.09.rpy:1551 #-#-# translate crowdin yard_show_ff2660ef:
 msgid "[_MB_] Goddam, that's hot!"
-msgstr ""
+msgstr "[_MB_] ¡Joder, qué morena!"
 
 # game/UpdateScript0.09.rpy:1552 #-#-# translate crowdin yard_show_8f907625:
 msgid "[_MB_] You sure you don't want to try a little group action with some of the other guys on the basketball team?"
-msgstr ""
+msgstr "[_MB_] ¿Seguro que no te apetece probar un poco de acción en grupo con algunos de los otros chicos del equipo de baloncesto?"
 
 # game/UpdateScript0.09.rpy:1553 #-#-# translate crowdin yard_show_5e591e12:
 msgid "[_MB_] I could make that happen if you want."
-msgstr ""
+msgstr "[_MB_] Podría hacerlo si quieres."
 
 # game/UpdateScript0.09.rpy:1556 #-#-# translate crowdin yard_show_feaeda40:
 msgid "[_L_] Oh, my God. Will you stop trying to get me to fuck your friends."
-msgstr ""
+msgstr "[_L_] Ay, Dios mío. ¿Quieres dejar de intentar que me acueste con tus amigos?"
 
 # game/UpdateScript0.09.rpy:1557 #-#-# translate crowdin yard_show_97bf0d45:
 msgid "[_MB_] Oh, come on. You loved it when your brother and I double teamed you by the pool."
-msgstr ""
+msgstr "[_MB_] Venga ya. Te encantó cuando tu hermano y yo te hicimos un doble junto a la piscina."
 
 # game/UpdateScript0.09.rpy:1558 #-#-# translate crowdin yard_show_cc90589c:
 msgid "[_MB_] Why don't we take it to the next level? I promise by the time we're done, you'll have came so many times from all the cocks pounding you, you won't be able to think straight!"
-msgstr ""
+msgstr "[_MB_] ¿Por qué no vamos un paso más allá? Te prometo que, para cuando hayamos terminado, te habrás corrido tantas veces con todas esas pollas follándote que no podrás pensar con claridad."
 
 # game/UpdateScript0.09.rpy:1559 #-#-# translate crowdin yard_show_d5cbfc59:
 msgid "[_L_] How many times do I have to say no?"
-msgstr ""
+msgstr "[_L_] ¿Cuántas veces tengo que decir que no?"
 
 # game/UpdateScript0.09.rpy:1560 #-#-# translate crowdin yard_show_96ddc6f7:
 msgid "[_LT_] {i}Oh, my God. This asshole.{/i}"
-msgstr ""
+msgstr "[_LT_] {i}¡Ay, Dios mío! ¡Qué capullo!{/i}"
 
 # game/UpdateScript0.09.rpy:1561 #-#-# translate crowdin yard_show_0beb56d3:
 msgid "[_LT_] {i}I mean, maybe I enjoyed taking on Matt and [ryan] at the same time, but he makes it sound like he wants me to fuck the whole team!{/i}"
-msgstr ""
+msgstr "[_LT_] {i}O sea, quizá me gustara enfrentarme a Matt y a [ryan] a la vez, ¡pero él lo hace parecer como si quisiera que me tirara a todo el equipo!{/i}"
 
 # game/UpdateScript0.09.rpy:1562 #-#-# translate crowdin yard_show_89284a11:
 msgid "[_LT_] {i}God, [ryan] would absolutely freak out if I said yes. If Matt made him watch...{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Dios, [ryan] se volvería loco si dijera que sí. Si Matt le obligara a verlo...{/i}"
 
 # game/UpdateScript0.09.rpy:1563 #-#-# translate crowdin yard_show_41f8dc66:
 msgid "[_LT_] {i}Maybe if it were just a couple of the other guys on Matt's team...{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Quizás si solo fueran un par de los otros chicos del equipo de Matt...{/i}"
 
 # game/UpdateScript0.09.rpy:1564 #-#-# translate crowdin yard_show_e18da777:
 msgid "[_MB_] Oh! I see you thinking about it again."
-msgstr ""
+msgstr "[_MB_] ¡Oh! Veo que vuelves a darle vueltas al tema."
 
 # game/UpdateScript0.09.rpy:1565 #-#-# translate crowdin yard_show_db0be440:
 msgid "[_L_] Pfft... Whatever! I am not."
@@ -3134,23 +3134,23 @@ msgstr ""
 
 # game/UpdateScript0.09.rpy:2104 #-#-# translate crowdin NTRLounge2repeat_bde87121:
 msgid "[_RT_] {i}Why is she acting like it's my fault she couldn't beat the most popular guy at school.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}¿Por qué se comporta como si fuera culpa mía que no pudiera ganarle al chico más popular del instituto?{/i}"
 
 # game/UpdateScript0.09.rpy:2105 #-#-# translate crowdin NTRLounge2repeat_0b5735b8:
 msgid "[_RT_] {i}I mean, maybe I could have tried harder to help her, but come on. It's not like she really had a chance.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Bueno, quizá podría haberme esforzado más por ayudarla, pero vamos. No es que tuviera muchas posibilidades.{/i}"
 
 # game/UpdateScript0.09.rpy:2106 #-#-# translate crowdin NTRLounge2repeat_c18bb8ce:
 msgid "[_RT_] {i}I wish she'd just get over it, instead of rubbing Matt's victory in my face.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Ojalá se lo olvidara de una vez, en lugar de restregarme la victoria de Matt por la cara.{/i}"
 
 # game/UpdateScript0.09.rpy:2109 #-#-# translate crowdin NTRLounge2repeat_57310cbd:
 msgid "[_S_] Hey, Bro."
-msgstr ""
+msgstr "[_S_] Hola, tío."
 
 # game/UpdateScript0.09.rpy:2110 #-#-# translate crowdin NTRLounge2repeat_3513d828:
 msgid "[_S_] Uh, oh... You've got that look again."
-msgstr ""
+msgstr "[_S_] Ay, no... Ya vuelves a poner esa cara."
 
 # game/UpdateScript0.09.rpy:2111 #-#-# translate crowdin NTRLounge2repeat_d5d07642:
 msgid "[_R_] Hmmph."
@@ -3162,7 +3162,7 @@ msgstr ""
 
 # game/UpdateScript0.09.rpy:2113 #-#-# translate crowdin NTRLounge2repeat_1e78035c:
 msgid "[_S_] Just be happy for her. She's got a great boyfriend that she really seems to like."
-msgstr ""
+msgstr "[_S_] Simplemente alégrate por ella. Tiene un novio estupendo que parece gustarle de verdad."
 
 # game/UpdateScript0.09.rpy:2116 #-#-# translate crowdin NTRLounge2repeat_9937bd55:
 msgid "[_MB_] Damn, I love this show."
@@ -3174,15 +3174,15 @@ msgstr ""
 
 # game/UpdateScript0.09.rpy:2120 #-#-# translate crowdin NTRLounge2repeat_f5d8146c:
 msgid "[_R_] How can she like him? He doesn't love her. You don't know him like I do. As soon as he gets bored of her, he'll kick Lauren to the curb."
-msgstr ""
+msgstr "[_R_] ¿Cómo es posible que le guste? Él no la quiere. Tú no lo conoces como yo. En cuanto se canse de ella, dejará a Lauren tirada."
 
 # game/UpdateScript0.09.rpy:2121 #-#-# translate crowdin NTRLounge2repeat_55a13000:
 msgid "[_S_] You just think that because of your caveman male rivalry. He's very polite anytime we talk, and Lauren's always got a smile on her face when he's around."
-msgstr ""
+msgstr "[_S_] Eso lo piensas solo por tu rivalidad masculina de cavernícola. Él es muy educado cada vez que hablamos, y Lauren siempre tiene una sonrisa en la cara cuando él está cerca."
 
 # game/UpdateScript0.09.rpy:2124 #-#-# translate crowdin NTRLounge2repeat_87dface1:
 msgid "[_LT_] {i}Is he still talking to Sidney?{/i}"
-msgstr ""
+msgstr "[_LT_] {i}¿Sigue hablando con Sidney?{/i}"
 
 # game/UpdateScript0.09.rpy:2125 #-#-# translate crowdin NTRLounge2repeat_801dcae3:
 msgid "[_LT_] {i}He needs to sit down with us, so I can punish him again.{/i}"
@@ -3190,7 +3190,7 @@ msgstr ""
 
 # game/UpdateScript0.09.rpy:2126 #-#-# translate crowdin NTRLounge2repeat_5e84bc16:
 msgid "[_MB_] Oh, hell yeah! The queens going to get fucked by all the tribal warriors again. I'll never get tired of watching her getting passed around like the whore she is!"
-msgstr ""
+msgstr "[_MB_] ¡Oh, el infierno sí! Las reinas van a ser folladas por todos los guerreros tribales otra vez. ¡Nunca me cansaré de verla pasando como la guarra que está!"
 
 # game/UpdateScript0.09.rpy:2129 #-#-# translate crowdin NTRLounge2repeat_17fede78:
 msgid "[_L_] Hey, [ryan]. Why don't you come watch Game of Thots with us?"
@@ -3202,7 +3202,7 @@ msgstr ""
 
 # game/UpdateScript0.09.rpy:2131 #-#-# translate crowdin NTRLounge2repeat_d1a48673:
 msgid "[_L_] Come on. We always watch Game of Thots together."
-msgstr ""
+msgstr "[_L_] Venga. Siempre vemos Game of Thots juntos."
 
 # game/UpdateScript0.09.rpy:2132 #-#-# translate crowdin NTRLounge2repeat_f93f52a5:
 msgid "[_MB_] You gotta come see this man. The queen is about to get gang banged again by a bunch of those horse dudes."
@@ -3222,11 +3222,11 @@ msgstr ""
 
 # game/UpdateScript0.09.rpy:2138 #-#-# translate crowdin NTRLounge2repeat_8f907625:
 msgid "[_MB_] You sure you don't want to try a little group action with some of the other guys on the basketball team?"
-msgstr ""
+msgstr "[_MB_] ¿Seguro que no te apetece probar un poco de acción en grupo con algunos de los otros chicos del equipo de baloncesto?"
 
 # game/UpdateScript0.09.rpy:2139 #-#-# translate crowdin NTRLounge2repeat_5e591e12:
 msgid "[_MB_] I could make that happen if you want."
-msgstr ""
+msgstr "[_MB_] Podría hacerlo si quieres."
 
 # game/UpdateScript0.09.rpy:2142 #-#-# translate crowdin NTRLounge2repeat_b3338873:
 msgid "[_L_] Oh, my God! Will you stop trying to get me to fuck your friends."
@@ -3234,7 +3234,7 @@ msgstr ""
 
 # game/UpdateScript0.09.rpy:2143 #-#-# translate crowdin NTRLounge2repeat_97bf0d45:
 msgid "[_MB_] Oh, come on. You loved it when your brother and I double teamed you by the pool."
-msgstr ""
+msgstr "[_MB_] Venga ya. Te encantó cuando tu hermano y yo te hicimos un doble junto a la piscina."
 
 # game/UpdateScript0.09.rpy:2144 #-#-# translate crowdin NTRLounge2repeat_e5a4a914:
 msgid "[_MB_] Why don't we take it to the next level? I promise, by the time we're done, you'll have came so many times from all the cocks pounding you from every end, you won't be able to think straight!"
@@ -3242,7 +3242,7 @@ msgstr ""
 
 # game/UpdateScript0.09.rpy:2145 #-#-# translate crowdin NTRLounge2repeat_d5cbfc59:
 msgid "[_L_] How many times do I have to say no?"
-msgstr ""
+msgstr "[_L_] ¿Cuántas veces tengo que decir que no?"
 
 # game/UpdateScript0.09.rpy:2146 #-#-# translate crowdin NTRLounge2repeat_5cef2632:
 msgid "[_LT_] {i}Oh, my God! This asshole!{/i}"
@@ -3254,7 +3254,7 @@ msgstr ""
 
 # game/UpdateScript0.09.rpy:2148 #-#-# translate crowdin NTRLounge2repeat_89284a11:
 msgid "[_LT_] {i}God, [ryan] would absolutely freak out if I said yes. If Matt made him watch...{/i}"
-msgstr ""
+msgstr "[_LT_] {i}Dios, [ryan] se volvería loco si dijera que sí. Si Matt le obligara a verlo...{/i}"
 
 # game/UpdateScript0.09.rpy:2149 #-#-# translate crowdin NTRLounge2repeat_18a7504d:
 msgid "[_LT_] {i}Maybe, if it were just a couple of the other guys on Matt's team...{/i}"
@@ -4294,7 +4294,7 @@ msgstr ""
 
 # game/UpdateScript0.09.rpy:2626 #-#-# translate crowdin NTRLounge2repeat_0b5735b8_1:
 msgid "[_RT_] {i}I mean, maybe I could have tried harder to help her, but come on. It's not like she really had a chance.{/i}"
-msgstr ""
+msgstr "[_RT_] {i}Bueno, quizá podría haberme esforzado más por ayudarla, pero vamos. No es que tuviera muchas posibilidades.{/i}"
 
 # game/UpdateScript0.09.rpy:2627 #-#-# translate crowdin NTRLounge2repeat_fc6de997:
 msgid "[_RT_] {i}Could she be messing around with Matt in front of me, just because she lost that stupid election?{/i}"
@@ -4382,7 +4382,7 @@ msgstr ""
 
 # game/UpdateScript0.09.rpy:2656 #-#-# translate crowdin NTRLounge2repeat_87dface1_1:
 msgid "[_LT_] {i}Is he still talking to Sidney?{/i}"
-msgstr ""
+msgstr "[_LT_] {i}¿Sigue hablando con Sidney?{/i}"
 
 # game/UpdateScript0.09.rpy:2657 #-#-# translate crowdin NTRLounge2repeat_801dcae3_1:
 msgid "[_LT_] {i}He needs to sit down with us, so I can punish him again.{/i}"
@@ -4398,7 +4398,7 @@ msgstr ""
 
 # game/UpdateScript0.09.rpy:2662 #-#-# translate crowdin NTRLounge2repeat_ee4fad91:
 msgid "[_R_] No thanks. I'm just going to hang with Sidney."
-msgstr ""
+msgstr "[_R_] No, gracias. Me voy a quedar con Sidney."
 
 # game/UpdateScript0.09.rpy:2663 #-#-# translate crowdin NTRLounge2repeat_b50a4789:
 msgid "[_L_] Come on, we always watch Game of Thots together."
@@ -4410,7 +4410,7 @@ msgstr ""
 
 # game/UpdateScript0.09.rpy:2665 #-#-# translate crowdin NTRLounge2repeat_f61264d2:
 msgid "[_R_] Really. I'm good."
-msgstr ""
+msgstr "[_R_] De verdad. Estoy bien."
 
 # game/UpdateScript0.09.rpy:2668 #-#-# translate crowdin NTRLounge2repeat_44b8de76:
 msgid "[_LT_] {i}How am I supposed to make him jealous if he won't come over here and take his punishment?{/i}"
@@ -4426,7 +4426,7 @@ msgstr ""
 
 # game/UpdateScript0.09.rpy:2671 #-#-# translate crowdin NTRLounge2repeat_5e591e12_1:
 msgid "[_MB_] I could make that happen if you want."
-msgstr ""
+msgstr "[_MB_] Podría hacerlo si quieres."
 
 # game/UpdateScript0.09.rpy:2674 #-#-# translate crowdin NTRLounge2repeat_3d99edfd:
 msgid "[_L_] Oh, my God! Will you stop trying to get me to fuck your friends?"
