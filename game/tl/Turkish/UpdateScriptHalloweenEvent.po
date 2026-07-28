@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-07-14 01:51\n"
+"PO-Revision-Date: 2026-07-28 18:56\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScriptHalloweenEvent.rpy:256 #-#-# translate crowdin halloween_event_start_36b1bdbb:
 msgid "{i}{b}(HINT){/b} Happy Halloween!{/i}"
@@ -1326,7 +1326,7 @@ msgstr "Bu düşmanı yenebilmek için 40 'ının üzerinde kombine bir rulo olm
 
 # game/UpdateScriptHalloweenEvent.rpy:1234 #-#-# translate crowdin monsters_and_mountains_c93d9342:
 msgid "[_M_] [ryan]!"
-msgstr "[_M_] [ryan]!"
+msgstr "[_M_] [ryan]?.... Odamda ne yapıyorsun?"
 
 # game/UpdateScriptHalloweenEvent.rpy:1237 #-#-# translate crowdin monsters_and_mountains_4fb90733:
 msgid "[_R_] What is it, Mom?"
