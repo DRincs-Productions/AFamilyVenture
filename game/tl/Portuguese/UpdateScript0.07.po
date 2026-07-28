@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2025-08-27 22:07\n"
+"PO-Revision-Date: 2026-07-28 18:56\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/UpdateScript0.07.rpy:1024 #-#-# translate crowdin send_will_email_910761e6:
 msgid "[_RT_] {i}Ok, I've let Will Tylor know that Mom will be willing to meet him for dinner, now I just need to wait and see if he'll come through with the dress code changes.{/i}"
@@ -22,7 +22,7 @@ msgstr ""
 
 # game/UpdateScript0.07.rpy:1036 #-#-# translate crowdin receive_will_email_2a7367cd:
 msgid "[_RT_] {i}Grrrrrrr.... It's Saturday, and for some reason I can't sleep in anymore.{/i}"
-msgstr "[_RT_] {i}Grrrrrr.... é sábado, e por alguma razão não consigo mais dormir.{/i}"
+msgstr "[_RT_] {i}Grrrrrrr.... É sábado, e por alguma razão eu não consigo mais dormir.{/i}"
 
 # game/UpdateScript0.07.rpy:1037 #-#-# translate crowdin receive_will_email_4802921b:
 msgid "[_RT_] {i}I should get [auntie]'s and Mandy's finances out of the way.{/i}"
@@ -34,7 +34,7 @@ msgstr "{i}\"20 minutos depois.\"{/i}"
 
 # game/UpdateScript0.07.rpy:1045 #-#-# translate crowdin receive_will_email_c1af27fe:
 msgid "[_RT_] {i}There, and after paying that last bill, that should leave me with $200.{/i}"
-msgstr "[_RT_] {i}Lá e depois de pagar a última conta, isso deve me deixar com $200.{/i}"
+msgstr "[_RT_] {i}Pronto, e depois de pagar aquela última conta, isso deve me deixar com $200.{/i}"
 
 # game/UpdateScript0.07.rpy:1046 #-#-# translate crowdin receive_will_email_d1bb1473:
 msgid "{i}\"Money +200\"{/i}"
