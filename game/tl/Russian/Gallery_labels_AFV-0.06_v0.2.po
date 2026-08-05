@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2026-08-05 12:34\n"
+"PO-Revision-Date: 2026-08-05 13:50\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/Gallery_labels_AFV-0.06_v0.2.rpy:15 #-#-# translate crowdin label_gal_mom_drunk_e1aba2f6:
 msgid "[_RT_] {i}Hmmm.... no answer. I don't have a key, but I'm started to get a little worried about her.{/i}"
@@ -1710,15 +1710,15 @@ msgstr "Хорошо, просто отдай свою чертою одежду
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:925 #-#-# translate crowdin label_gal_mom_weekend_pool_01_3d99fcef:
 msgid "[_R_] Language, Mom!"
-msgstr "[_R_] Язык, мамама!"
+msgstr "[_R_] Язык, мама!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:926 #-#-# translate crowdin label_gal_mom_weekend_pool_01_c0181c41:
 msgid "[_M_] Urrrgghhh!"
-msgstr "[ _M_] Urrrgghhh!"
+msgstr "[_M_] Urrrgghhh!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:935 #-#-# translate crowdin label_gal_mom_weekend_pool_01_fd266593:
 msgid "[_R_] Hey, what's up guys?"
-msgstr "Что случилось?"
+msgstr "[_R_] Привет, как дела, ребята?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:936 #-#-# translate crowdin label_gal_mom_weekend_pool_01_1ed47550:
 msgid "[_K_] Oh, hey [ryan]."
@@ -1934,7 +1934,7 @@ msgstr "Хорошо, мы просто зарядим карту, котору�
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:1017 #-#-# translate crowdin label_gal_mom_weekend_pool_01_c2ab1241:
 msgid "[_R_] Actually, can I pay in cash?"
-msgstr "[_R_] Собственно, могу ли я оплатить наличными?"
+msgstr "[_R_] А можно ли заплатить наличными?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:1018 #-#-# translate crowdin label_gal_mom_weekend_pool_01_5c258ef5:
 msgid "[_W_] We don't usually allow that..."
@@ -2158,7 +2158,7 @@ msgstr "[ _MT_] {i}Я привез [ рьян] сюда, чтобы наград
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:1146 #-#-# translate crowdin label_gal_mom_weekend_pool_01_8a078e42:
 msgid "[_R_] I hope the waitress was right. Is that the kind of wine you like?"
-msgstr "Надеюсь, официантка была права. Это то вино, которое тебе нравится?"
+msgstr "[_R_] Надеюсь, официантка была права. Тебе нравится такое вино?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:1147 #-#-# translate crowdin label_gal_mom_weekend_pool_01_abb0a230:
 msgid "[_M_] Yes, honey. Thank you so much!"
@@ -2474,7 +2474,7 @@ msgstr "[_MT_] {i}Он действительно развивает Эдипа�
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:1325 #-#-# translate crowdin label_gal_mom_weekend_pool_01_3555bba0:
 msgid "[_MT_] {i}Will trying to stamp it out really just make him get stuck in this phase like that textbook says?{/i}"
-msgstr "[_MT_] {i}попытается отпечатать его на самом деле просто заставит его застрять на этой фазе, как сказал этот учебник?{/i}"
+msgstr "[_MT_] {i}Не приведет ли попытка искоренить это к тому, что он застрянет в этой фазе, как говорится в учебнике?{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:1328 #-#-# translate crowdin label_gal_mom_weekend_pool_01_2626cccc:
 msgid "[_MT_] {i}I think maybe I just won't say anything.{/i}"
@@ -2698,7 +2698,7 @@ msgstr "Это так мило, что ты всегда пытаешься за
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:1454 #-#-# translate crowdin label_gal_mom_weekend_pool_01_9900315c:
 msgid "[_M_] But this type of thing, I can do on my own."
-msgstr "[_M_] Но такого типа вещей я могу сделать самостоятельно."
+msgstr "[_M_] Но я вполне способна разобраться с этим сама."
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:1455 #-#-# translate crowdin label_gal_mom_weekend_pool_01_111b89fc:
 msgid "[_M_] Now if you'll kindly close your eyes and remove your hands."
@@ -16346,7 +16346,7 @@ msgstr "Будь хорошим мальчиком и иди нахуй свою
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8383 #-#-# translate crowdin label_pay_or_dont_3d99fcef:
 msgid "[_R_] Language, Mom!"
-msgstr "[_R_] Язык, мамама!"
+msgstr "[_R_] Язык, мама!"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:8384 #-#-# translate crowdin label_pay_or_dont_db0c9eb0:
 msgid "[_M_] Don't you sass talk your mother!"
