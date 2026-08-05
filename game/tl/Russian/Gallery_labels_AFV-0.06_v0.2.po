@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2026-08-05 10:58\n"
+"PO-Revision-Date: 2026-08-05 12:34\n"
 
 # TODO: Translation updated at 2024-07-23 08:27 #|#|# # game/Gallery_labels_AFV-0.06_v0.2.rpy:15 #-#-# translate crowdin label_gal_mom_drunk_e1aba2f6:
 msgid "[_RT_] {i}Hmmm.... no answer. I don't have a key, but I'm started to get a little worried about her.{/i}"
@@ -470,7 +470,7 @@ msgstr "[_MT_] {i}Это гораздо проще, чем в первый ра�
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:244 #-#-# translate crowdin label_gal_mom_nightclubbing_29599010:
 msgid "[_MT_] {i}I still can't believe my own son snuck in here and saw me stripping.{/i}"
-msgstr "[_MT_] {i}Я до сих пор не могу поверить, что мой собственный сын пробрался сюда и увидел, как я раздеваюсь."
+msgstr "[_MT_] {i}Я до сих пор не могу поверить, что мой собственный сын пробрался сюда и застал меня раздевающейся.{/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:247 #-#-# translate crowdin label_gal_mom_nightclubbing_2d8148a4:
 msgid "[_MT_] {i}I hope that didn't traumatize him too much!{/i}"
@@ -670,7 +670,7 @@ msgstr "[_RT_] {i}Аххх.... что мне делать?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:363 #-#-# translate crowdin label_gal_mom_yes_to_money_888de7c8:
 msgid "[_M_] Ouch, honey! Why did you drop me?"
-msgstr "[_M_] Ай, милый! Зачем ты меня уронил?"
+msgstr "[_M_] Ай, дорогой! Почему ты меня уронил?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:364 #-#-# translate crowdin label_gal_mom_yes_to_money_dc10972f:
 msgid "[_R_] Sorry Mom! I've got to run!"
@@ -1094,7 +1094,7 @@ msgstr "[_R_] Но я не могу помочь, но чувствую потр
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:688 #-#-# translate crowdin label_gal_mom_weekend_pool_01_9881b5e8:
 msgid "[_M_] Well, would it help your peace of mind if I told you I'm drinking in honor of you?"
-msgstr "[ _M_] Ну, если бы я сказал тебе, что я пью в честь тебя?"
+msgstr "[_M_] Ну, может, тебе станет спокойнее, если я скажу, что пью в твою честь?"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:689 #-#-# translate crowdin label_gal_mom_weekend_pool_01_98fc553e:
 msgid "[_R_] Wait.... what?"
@@ -1514,7 +1514,7 @@ msgstr "[ _RT_] {i}Я знаю ... дедушка голый в холодный
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:849 #-#-# translate crowdin label_gal_mom_weekend_pool_01_79d39400:
 msgid "[_RT_] {i}Oh thank God.... that took care of it.... {/i}"
-msgstr "[_RT_] {i}О благодарю Бога... позаботился об этом.... {/i}"
+msgstr "[_RT_] {i}О, слава Богу... проблема решена... {/i}"
 
 # game/Gallery_labels_AFV-0.06_v0.2.rpy:852 #-#-# translate crowdin label_gal_mom_weekend_pool_01_2e78a17a:
 msgid "[_M_] Well?.... What do you think?"
