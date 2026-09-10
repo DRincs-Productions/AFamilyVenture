@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: a-family-venture\n"
+"X-Crowdin-Project-ID: 492487\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /main/game/tl/crowdin/Phone_stats_screen.po\n"
+"X-Crowdin-File-ID: 7627\n"
+"Project-Id-Version: a-family-venture\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"PO-Revision-Date: 2026-02-02 07:43\n"
+
+# TODO: Translation updated at 2024-07-23 08:27 #|#|# # §translate crowdin strings: #|#|# # game/Phone_stats_screen.rpy:70
+msgid "Girls stats"
+msgstr "Статистика девочек"
+
+# game/Phone_stats_screen.rpy:73
+msgid "{color=#E60000}---------------------------------------{/color}"
+msgstr "{color=#E60000}-------------------------------{/color}"
+
+# game/Phone_stats_screen.rpy:83
+msgid "{image=iconM} {color=#42f456}Mom's:{/color}"
+msgstr "{image=iconM} {color=#42f456}Мама:{/color}"
+
+# game/Phone_stats_screen.rpy:85
+msgid "{image=respect}{color=#000000} Respect..............[momrespect]{/color}"
+msgstr "{image=respect}{color=#000000} Уважение..............[momrespect]{/color}"
+
+# game/Phone_stats_screen.rpy:86
+msgid "{image=affection}{color=#000000} Affection............[momaffection]{/color}"
+msgstr "{image=affection}{color=#000000} Любовь............[momaffection]{/color}"
+
+# game/Phone_stats_screen.rpy:87
+msgid "{image=libido}{color=#000000} Libido..................[momlibido]{/color}"
+msgstr "{image=libido}{color=#000000} Влечение..................[momlibido]{/color}"
+
+# game/Phone_stats_screen.rpy:88
+msgid "{image=submission}{color=#000000} Submission........[momsubmission]{/color}"
+msgstr "{image=submission}{color=#000000} Подчинение........[momsubmission]{/color}"
+
+# game/Phone_stats_screen.rpy:89
+msgid "{image=anger}{color=#000000} Anger...................[momanger]{/color}"
+msgstr "{image=anger}{color=#000000} Злость...................[momanger]{/color}"
+
+# game/Phone_stats_screen.rpy:91
+msgid "{image=frustrated}{color=#000000} Sex Frustration..[mom_sexual_frustration]{/color}"
+msgstr "{image=frustrated}{color=#000000} Сексуальное разочарование..[mom_sexual_frustration]{/color}"
+
+# game/Phone_stats_screen.rpy:93
+msgid "{image=iconL} {color=#f442d9}Lauren's:{/color}"
+msgstr "{image=iconL} {color=#f442d9}Лорен:{/color}"
+
+# game/Phone_stats_screen.rpy:95
+msgid "{image=respect}{color=#000000} Respect..............[laurenrespect]{/color}"
+msgstr "{image=respect}{color=#000000} Уважение..........[laurenrespect]{/color}"
+
+# game/Phone_stats_screen.rpy:96
+msgid "{image=affection}{color=#000000} Affection............[laurenaffection]{/color}"
+msgstr "{image=affection}{color=#000000} Любовь............[laurenaffection]{/color}"
+
+# game/Phone_stats_screen.rpy:97
+msgid "{image=libido}{color=#000000} Libido..................[laurenlibido]{/color}"
+msgstr "{image=libido}{color=#000000} Влечение..................[laurenlibido]{/color}"
+
+# game/Phone_stats_screen.rpy:98
+msgid "{image=submission}{color=#000000} Submission........[laurensubmission]{/color}"
+msgstr "{image=submission}{color=#000000} Подчинение........[laurensubmission]{/color}"
+
+# game/Phone_stats_screen.rpy:99
+msgid "{image=anger}{color=#000000} Anger...................[laurenanger]{/color}"
+msgstr "{image=anger}{color=#000000} Злость...................[laurenanger]{/color}"
+
+# game/Phone_stats_screen.rpy:101
+msgid "{image=election}{color=#000000} School influence.[school_influence]{/color}"
+msgstr "{image=election}{color=#000000} Влияние школы.[school_influence]{/color}"
+
+# game/Phone_stats_screen.rpy:103
+msgid "{image=iconS} {color=#006600}Sidney's:{/color}"
+msgstr "{image=iconS} {color=#006600}Сидни:{/color}"
+
+# game/Phone_stats_screen.rpy:105
+msgid "{image=respect}{color=#000000} Respect..............[sidneyrespect]{/color}"
+msgstr "{image=respect}{color=#000000} Уважение..........[sidneyrespect]{/color}"
+
+# game/Phone_stats_screen.rpy:106
+msgid "{image=affection}{color=#000000} Affection............[sidneyaffection]{/color}"
+msgstr "{image=affection}{color=#000000} Любовь............[sidneyaffection]{/color}"
+
+# game/Phone_stats_screen.rpy:107
+msgid "{image=libido}{color=#000000} Libido..................[sidneylibido]{/color}"
+msgstr "{image=libido}{color=#000000} Влечение..................[sidneylibido]{/color}"
+
+# game/Phone_stats_screen.rpy:108
+msgid "{image=submission}{color=#000000} Submission........[sidneysubmission]{/color}"
+msgstr "{image=submission}{color=#000000} Подчинение........[sidneysubmission]{/color}"
+
+# game/Phone_stats_screen.rpy:109
+msgid "{image=anger}{color=#000000} Anger...................[sidneyanger]{/color}"
+msgstr "{image=anger}{color=#000000} Злость...................[sidneyanger]{/color}"
+
+# game/Phone_stats_screen.rpy:112
+msgid "{image=iconC} {color=#85c1e9}Cousin Mandy's:{/color}"
+msgstr "{image=iconC} {color=#85c1e9}Кузина Мэнди:{/color}"
+
+# game/Phone_stats_screen.rpy:114
+msgid "{image=respect}{color=#000000} Respect..............[cousinrespect]{/color}"
+msgstr "{image=respect}{color=#000000} Уважение..........[cousinrespect]{/color}"
+
+# game/Phone_stats_screen.rpy:115
+msgid "{image=affection}{color=#000000} Affection............[cousinaffection]{/color}"
+msgstr "{image=affection}{color=#000000} Любовь............[cousinaffection]{/color}"
+
+# game/Phone_stats_screen.rpy:116
+msgid "{image=libido}{color=#000000} Libido..................[cousinlibido]{/color}"
+msgstr "{image=libido}{color=#000000} Влечение..................[cousinlibido]{/color}"
+
+# game/Phone_stats_screen.rpy:117
+msgid "{image=submission}{color=#000000} Submission........[cousinsubmission]{/color}"
+msgstr "{image=submission}{color=#000000} Подчинение........[cousinsubmission]{/color}"
+
+# game/Phone_stats_screen.rpy:118
+msgid "{image=anger}{color=#000000} Anger...................[cousinanger]{/color}"
+msgstr "{image=anger}{color=#000000} Злость...................[cousinanger]{/color}"
+
+# game/Phone_stats_screen.rpy:120
+msgid "{image=iconA} {color=#9966FF}Aunt Camille's:{/color}"
+msgstr "{image=iconA} {color=#9966FF}Тетя Камилла:{/color}"
+
+# game/Phone_stats_screen.rpy:122
+msgid "{image=respect}{color=#000000} Respect..............[auntrespect]{/color}"
+msgstr "{image=respect}{color=#000000} Уважение..........[auntrespect]{/color}"
+
+# game/Phone_stats_screen.rpy:123
+msgid "{image=affection}{color=#000000} Affection............[auntaffection]{/color}"
+msgstr "{image=affection}{color=#000000} Любовь............[auntaffection]{/color}"
+
+# game/Phone_stats_screen.rpy:124
+msgid "{image=libido}{color=#000000} Libido..................[auntlibido]{/color}"
+msgstr "{image=libido}{color=#000000} Влечение..................[auntlibido]{/color}"
+
+# game/Phone_stats_screen.rpy:125
+msgid "{image=submission}{color=#000000} Submission........[auntsubmission]{/color}"
+msgstr "{image=submission}{color=#000000} Подчинение........[auntsubmission]{/color}"
+
+# game/Phone_stats_screen.rpy:126
+msgid "{image=anger}{color=#000000} Anger...................[auntanger]{/color}"
+msgstr "{image=anger}{color=#000000} Злость...................[auntanger]{/color}"
+
+# game/Phone_stats_screen.rpy:185
+msgid "  Loads counter {image=load_counter}"
+msgstr "  Счетчик загрузок {image=load_counter}"
+
+# game/Phone_stats_screen.rpy:198
+msgid "{image=iconR} {color=#0000CC} By [ryan]:{/color}"
+msgstr "{image=iconR} {color=#0000CC} [ryan]:{/color}"
+
+# game/Phone_stats_screen.rpy:200
+msgid "{image=iconM}{color=#42f456} in Mom..............[mom_cum_loads_counter]{/color}"
+msgstr "{image=iconM}{color=#42f456} в Маме..............[mom_cum_loads_counter]{/color}"
+
+# game/Phone_stats_screen.rpy:201
+msgid "{image=iconL}{color=#f442d9} in Lauren...........[lauren_cum_loads_counter]{/color}"
+msgstr "{image=iconL}{color=#f442d9} в Лорен.......[lauren_cum_loads_counter]{/color}"
+
+# game/Phone_stats_screen.rpy:202
+msgid "{image=iconS}{color=#006600} in Sidney...........[sidney_cum_loads_counter]{/color}"
+msgstr "{image=iconS}{color=#006600} в Сидни...........[sidney_cum_loads_counter]{/color}"
+
+# game/Phone_stats_screen.rpy:205
+msgid "{image=iconMG}{color=#99FF99} in Megan...........[megan_cum_loads_counter]{/color}"
+msgstr "{image=iconMG}{color=#99FF99} в Меган...........[megan_cum_loads_counter]{/color}"
+
+# game/Phone_stats_screen.rpy:210
+msgid "{image=iconMT} {color=#993300} By Matt:{/color}"
+msgstr "{image=iconMT} {color=#993300} К Мэтт:{/color}"
+
+# game/Phone_stats_screen.rpy:213
+msgid "{image=iconL}{color=#f442d9} in Lauren..........[lauren_matt_cum_loads_counter]{/color}"
+msgstr "{image=iconL}{color=#f442d9} в Лорен..........[lauren_matt_cum_loads_counter]{/color}"
+
+# game/Phone_stats_screen.rpy:222
+msgid "{image=iconJ} {color=#993300} By Joey:{/color}"
+msgstr "{image=iconJ} {color=#993300} К Джой:{/color}"
+
+# game/Phone_stats_screen.rpy:224
+msgid "{image=iconM}{color=#42f456} in Mom..............[mom_joey_cum_loads_counter]{/color}"
+msgstr "{image=iconM}{color=#42f456} в Маме..............[mom_joey_cum_loads_counter]{/color}"
+
