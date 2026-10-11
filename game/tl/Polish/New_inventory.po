@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+"X-Crowdin-Project: a-family-venture\n"
+"X-Crowdin-Project-ID: 492487\n"
+"X-Crowdin-Language: pl\n"
+"X-Crowdin-File: /main/game/tl/crowdin/New_inventory.po\n"
+"X-Crowdin-File-ID: 7615\n"
+"Project-Id-Version: a-family-venture\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"PO-Revision-Date: 2025-08-24 19:11\n"
+
+# TODO: Translation updated at 2024-07-23 08:27 #|#|# # §translate crowdin strings: #|#|# # game/New_inventory.rpy:228
+msgid "Lauren's first cosplay outfit, you can sell it online to make money."
+msgstr "Pierwszy strój cosplay Lauren, możesz sprzedać online aby zarobić pieniądze."
+
+# game/New_inventory.rpy:229
+msgid "Mandy's first cosplay outfit, you can sell it online to make money."
+msgstr "Pierwszy strój cosplay Mandy, możesz sprzedać online, aby zarobić pieniądze."
+
+# game/New_inventory.rpy:231
+msgid "Expensive, but the most stylish swimsuit for my mom."
+msgstr "Drogi, ale najbardziej stylowy strój kąpielowy dla mojej mamy."
+
+# game/New_inventory.rpy:234
+msgid "Generic milk chocolate bar."
+msgstr "Zwykły baton z mlecznej czekolady."
+
+# game/New_inventory.rpy:235
+msgid "hardnLong.com $25 Gift Card(s)."
+msgstr "Karta podarunkowa hardnLong.com o wartości 25 USD."
+
+# game/New_inventory.rpy:236
+msgid "Flowers for my ladies."
+msgstr "Kwiaty dla moich kobiet."
+
+# game/New_inventory.rpy:237
+msgid "Melatonin, the strongest over the counter sleep aid that I can buy. It's all natural... non addictive..."
+msgstr "Melatonina, najsilniejszy bez recepty środek nasenny, jaki mogę kupić. Jest całkowicie naturalna... nie uzależnia..."
+
+# game/New_inventory.rpy:238
+msgid "Webcam(s), I can use this item to spy on the girls."
+msgstr "Kamera internetowa, mogę używać tego przedmiotu do szpiegowania dziewczyn."
+
+# game/New_inventory.rpy:239
+msgid "Ball Gag, a device used in sexual bondage and BDSM roleplay. Let's see how I can use it!"
+msgstr "Ball Gag, urządzenie używane w seksualnym zniewoleniu i odgrywaniu ról BDSM. Zobaczmy, jak mogę go użyć!"
+
+# game/New_inventory.rpy:240
+msgid "The best DSLR camera I can afford for now."
+msgstr "Najlepsza lustrzanka cyfrowa, na jaką mnie obecnie stać."
+
+# game/New_inventory.rpy:241
+msgid "A green screen will make us look more professional."
+msgstr "Zielony ekran sprawi, że będziemy wyglądać bardziej profesjonalnie."
+
+# game/New_inventory.rpy:242
+msgid "With this lights the photos will look better and we'll get more likes."
+msgstr "Dzięki takiemu oświetleniu zdjęcia będą wyglądały lepiej i otrzymamy więcej polubień."
+
+# game/New_inventory.rpy:243
+msgid "This items helps you get more likes from images."
+msgstr "Te przedmioty pomagają uzyskać więcej polubień ze zdjęć."
+
+# game/New_inventory.rpy:248
+msgid "This items is needed to make videos."
+msgstr "Te przedmioty są potrzebne do tworzenia filmów."
+
+# game/New_inventory.rpy:249
+msgid "This items helps you get more likes from videos."
+msgstr "Te przedmioty pomagają uzyskać więcej polubień z filmów."
+
+# game/New_inventory.rpy:251
+msgid "A childrens book that turned out to be full of hidden sexual themes and innuendos... Maybe it is my kind of book!"
+msgstr "Książka dla dzieci, która okazała się pełna ukrytych wątków seksualnych i insynuacji... Może to być coś dla mnie!"
+
+# game/New_inventory.rpy:252
+msgid "Second book in the Perry Hotter Series."
+msgstr "Druga książka z serii Perry Hotter."
+
+# game/New_inventory.rpy:253
+msgid "Third book in the Perry Hotter Series."
+msgstr "Trzecia książka z serii Perry Hotter."
+
+# game/New_inventory.rpy:254
+msgid "I've got to keep replacing Mom's wine."
+msgstr "Muszę ciągle uzupełniać wino mamy."
+
+# game/New_inventory.rpy:255
+msgid "I should give these to Lauren and Mandy in the backyard on Sunday morning."
+msgstr "Powinienem dać je Lauren i Mandy na podwórku w niedzielę rano."
+
+# game/New_inventory.rpy:267
+msgid "Money:$[money]"
+msgstr "Pieniądze: $[money]"
+
+# game/New_inventory.rpy:269
+msgid "INVENTORY"
+msgstr "EKWIPUNEK"
+
+# game/New_inventory.rpy:301
+msgid "[amount]"
+msgstr "[amount]"
+

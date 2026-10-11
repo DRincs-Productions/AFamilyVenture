@@ -1,0 +1,362 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+"X-Crowdin-Project: a-family-venture\n"
+"X-Crowdin-Project-ID: 492487\n"
+"X-Crowdin-Language: pl\n"
+"X-Crowdin-File: /main/game/tl/crowdin/screens.po\n"
+"X-Crowdin-File-ID: 7655\n"
+"Project-Id-Version: a-family-venture\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"PO-Revision-Date: 2025-08-24 20:09\n"
+
+# TODO: Translation updated at 2024-07-23 08:27 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:247
+msgid "History"
+msgstr "Historia"
+
+# game/screens.rpy:248
+msgid "Skip"
+msgstr "Pomiń"
+
+# game/screens.rpy:249
+msgid "Auto"
+msgstr "Auto"
+
+# game/screens.rpy:250
+msgid "Save"
+msgstr "Zapisz"
+
+# game/screens.rpy:251
+msgid "Load"
+msgstr "Wczytaj"
+
+# game/screens.rpy:252
+msgid "Q.Save"
+msgstr "Sz.zapis"
+
+# game/screens.rpy:253
+msgid "Q.Load"
+msgstr "Sz.Wczytanie"
+
+# game/screens.rpy:254
+msgid "Prefs"
+msgstr "Opcje"
+
+# game/screens.rpy:299
+msgid "Start"
+msgstr "Start"
+
+# game/screens.rpy:310
+msgid "Gallery"
+msgstr "Galeria"
+
+# game/screens.rpy:312
+msgid "Preferences"
+msgstr "Ustawienia"
+
+# game/screens.rpy:316
+msgid "End Replay"
+msgstr "Koniec powtórki"
+
+# game/screens.rpy:320
+msgid "Main Menu"
+msgstr "Menu główne"
+
+# game/screens.rpy:322
+msgid "About"
+msgstr "O programie"
+
+# game/screens.rpy:325
+msgid "Credits"
+msgstr "Podziękowania"
+
+# game/screens.rpy:330
+msgid "Help"
+msgstr "Pomoc"
+
+# game/screens.rpy:333
+msgid "Quit"
+msgstr "Wyjście"
+
+# game/screens.rpy:487
+msgid "Return"
+msgstr "Powrót"
+
+# game/screens.rpy:571
+msgid "Version [config.version!t]\n"
+msgstr "Wersja [config.version!t]\n"
+
+# game/screens.rpy:577
+msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
+msgstr "Wykonane przy użyciu {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
+
+# game/screens.rpy:617
+msgid "Page {}"
+msgstr "Strona {}"
+
+# game/screens.rpy:617
+msgid "Automatic saves"
+msgstr "Automatyczne zapisy"
+
+# game/screens.rpy:617
+msgid "Quick saves"
+msgstr "Szybkie zapisy"
+
+# game/screens.rpy:659
+msgid "{#file_time}%A, %B %d %Y, %H:%M"
+msgstr "{#file_time}%A, %B %d %Y, %H:%M"
+
+# game/screens.rpy:659
+msgid "empty slot"
+msgstr "puste miejsce"
+
+# game/screens.rpy:685
+msgid "<"
+msgstr "<"
+
+# game/screens.rpy:688
+msgid "{#auto_page}A"
+msgstr "{#auto_page}A"
+
+# game/screens.rpy:691
+msgid "{#quick_page}Q"
+msgstr "{#quick_page}Q"
+
+# game/screens.rpy:697
+msgid ">"
+msgstr ">"
+
+# game/screens.rpy:754
+msgid "Display"
+msgstr "Widok"
+
+# game/screens.rpy:755
+msgid "Window"
+msgstr "Okno"
+
+# game/screens.rpy:756
+msgid "Fullscreen"
+msgstr "Pełen ekran"
+
+# game/screens.rpy:760
+msgid "Rollback Side"
+msgstr "Strona cofania"
+
+# game/screens.rpy:761
+msgid "Disable"
+msgstr "Wyłączona"
+
+# game/screens.rpy:762
+msgid "Left"
+msgstr "Lewa"
+
+# game/screens.rpy:763
+msgid "Right"
+msgstr "Prawa"
+
+# game/screens.rpy:768
+msgid "Unseen Text"
+msgstr "Niewidziany tekst"
+
+# game/screens.rpy:769
+msgid "After Choices"
+msgstr "Po wyborach"
+
+# game/screens.rpy:770
+msgid "Transitions"
+msgstr "Przejścia"
+
+# game/screens.rpy:774
+msgid "Navigation settings"
+msgstr "Ustawienia nawigacji"
+
+# game/screens.rpy:781
+msgid "Language"
+msgstr "Język"
+
+# game/screens.rpy:838
+msgid "Text Speed"
+msgstr "Szybkość tekstu"
+
+# game/screens.rpy:842
+msgid "Auto-Forward Time"
+msgstr "Czas automatycznego przewijania"
+
+# game/screens.rpy:845
+msgid "Dialogue Box Opacity"
+msgstr "Przezroczystość okna dialogowego"
+
+# game/screens.rpy:851
+msgid "Music Volume"
+msgstr "Głośność muzyki"
+
+# game/screens.rpy:858
+msgid "Sound Volume"
+msgstr "Głośność dźwięku"
+
+# game/screens.rpy:864
+msgid "Test"
+msgstr "Test"
+
+# game/screens.rpy:868
+msgid "Voice Volume"
+msgstr "Głośność Mowy"
+
+# game/screens.rpy:879
+msgid "Mute All"
+msgstr "Wycisz wszystko"
+
+# game/screens.rpy:1007
+msgid "The dialogue history is empty."
+msgstr "Historia dialogów jest pusta."
+
+# game/screens.rpy:1077
+msgid "Keyboard"
+msgstr "Klawiatura"
+
+# game/screens.rpy:1078
+msgid "Mouse"
+msgstr "Mysz"
+
+# game/screens.rpy:1081
+msgid "Gamepad"
+msgstr "Kontroler"
+
+# game/screens.rpy:1094
+msgid "Enter"
+msgstr "Enter"
+
+# game/screens.rpy:1095
+msgid "Advances dialogue and activates the interface."
+msgstr "Przyspiesza dialog i aktywuje interfejs."
+
+# game/screens.rpy:1098
+msgid "Space"
+msgstr "Spacja"
+
+# game/screens.rpy:1099
+msgid "Advances dialogue without selecting choices."
+msgstr "Przejście do następnego dialogu bez wybierania opcji."
+
+# game/screens.rpy:1102
+msgid "Arrow Keys"
+msgstr "Klawisze strzałek"
+
+# game/screens.rpy:1103
+msgid "Navigate the interface."
+msgstr "Poruszanie się po interfejsie."
+
+# game/screens.rpy:1106
+msgid "Escape"
+msgstr "Escape"
+
+# game/screens.rpy:1107
+msgid "Accesses the game menu."
+msgstr "Uruchamia menu gry."
+
+# game/screens.rpy:1110
+msgid "Ctrl"
+msgstr "Ctrl"
+
+# game/screens.rpy:1111
+msgid "Skips dialogue while held down."
+msgstr "Pomija dialogi, gdy jest wciśnięty."
+
+# game/screens.rpy:1114
+msgid "Tab"
+msgstr "Tab"
+
+# game/screens.rpy:1115
+msgid "Toggles dialogue skipping."
+msgstr "Przełącza pomijanie dialogów."
+
+# game/screens.rpy:1118
+msgid "Page Up"
+msgstr "Page Up"
+
+# game/screens.rpy:1119
+msgid "Rolls back to earlier dialogue."
+msgstr "Wraca do wcześniejszego dialogu."
+
+# game/screens.rpy:1122
+msgid "Page Down"
+msgstr "Page Down"
+
+# game/screens.rpy:1123
+msgid "Rolls forward to later dialogue."
+msgstr "Przechodzi do późniejszego dialogu."
+
+# game/screens.rpy:1127
+msgid "Hides the user interface."
+msgstr "Ukrywa interfejs użytkownika."
+
+# game/screens.rpy:1131
+msgid "Takes a screenshot."
+msgstr "Wykonuje zrzut ekranu."
+
+# game/screens.rpy:1135
+msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+msgstr "Przełącza wspomaganie {a=https://www.renpy.org/l/voicing}syntezatora mowy{/a}."
+
+# game/screens.rpy:1141
+msgid "Left Click"
+msgstr "Lewy przycisk myszy"
+
+# game/screens.rpy:1145
+msgid "Middle Click"
+msgstr "Środkowy przycisk myszy"
+
+# game/screens.rpy:1149
+msgid "Right Click"
+msgstr "Prawy przycisk myszy"
+
+# game/screens.rpy:1153
+msgid "Mouse Wheel Up\n"
+"Click Rollback Side"
+msgstr "Kółko myszy w górę\n"
+"Kliknij stronę wycofania"
+
+# game/screens.rpy:1157
+msgid "Mouse Wheel Down"
+msgstr "Kółko myszy w dół"
+
+# game/screens.rpy:1164
+msgid "Right Trigger\n"
+"A/Bottom Button"
+msgstr "Prawy spust\n"
+"A/przycisk dolny"
+
+# game/screens.rpy:1168
+msgid "Left Trigger\n"
+"Left Shoulder"
+msgstr "Lewy spust\n"
+"Lewe ramię"
+
+# game/screens.rpy:1172
+msgid "Right Shoulder"
+msgstr "Prawe ramię"
+
+# game/screens.rpy:1177
+msgid "D-Pad, Sticks"
+msgstr "D-Pad, Gałka"
+
+# game/screens.rpy:1181
+msgid "Start, Guide"
+msgstr "Start, Przewodnik"
+
+# game/screens.rpy:1185
+msgid "Y/Top Button"
+msgstr "Y/Górny przycisk"
+
+# game/screens.rpy:1188
+msgid "Calibrate"
+msgstr "Kalibruj"
+
+# game/screens.rpy:1300
+msgid "Skipping"
+msgstr "Pomijanie"
+

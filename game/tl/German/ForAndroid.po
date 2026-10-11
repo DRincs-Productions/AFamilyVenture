@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: a-family-venture\n"
+"X-Crowdin-Project-ID: 492487\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /main/game/tl/crowdin/ForAndroid.po\n"
+"X-Crowdin-File-ID: 7605\n"
+"Project-Id-Version: a-family-venture\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2024-07-23 07:44\n"
+
+# TODO: Translation updated at 2024-07-23 08:27 #|#|# # §translate crowdin strings: #|#|# # game/ForAndroid.rpy:36
+msgid "Quick Menu"
+msgstr "Schnellmenü"
+
+# game/ForAndroid.rpy:70
+msgid "Menu"
+msgstr "Menü"
+
+# game/ForAndroid.rpy:112
+msgid "Console"
+msgstr "Konsole"
+
+# game/ForAndroid.rpy:114
+msgid "Close quick menu!"
+msgstr "Schnellmenü schließen!"
+
